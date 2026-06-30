@@ -12,6 +12,7 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 - `LICENSE`
 - `examples/` klasörü için PNG preview ve metadata standardı
 - Tüm AI prompt packlerinde `{style}`, `{camera}`, `{lighting}` değişkenleri
+- `scenes/` klasörü, sahne yazım standardı ve S01E01 Kiko/Mimi tanıtım sahneleri
 
 ### Changed
 

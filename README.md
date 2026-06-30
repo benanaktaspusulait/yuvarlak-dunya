@@ -36,11 +36,13 @@ Her gorsel ve sahne su cumleyi gecmelidir: "3-4 yas cocuk bunu 2 saniyede okuyab
 | `CHANGELOG.md` | Sürüm geçmişi |
 | `LICENSE` | CC-BY-NC 4.0 lisansı ve ticari kullanım iletişimi |
 | `ai-prompts/VISUAL_REFERENCES.md` | Karakter, trio ve ana görsel referans promptları |
+| `ai-prompts/VOICE_PROMPTS.md` | Her karakter için AI voice creator ses promptları |
 | `ai-prompts/ENVIRONMENT_PROMPTS.md` | Mekan, arka plan, hava ve dünya plate promptları |
 | `ai-prompts/TECHNICAL_SHEETS.md` | Master character sheet, turnaround, expression, scale, prop ve storyboard sheet promptları |
 | `ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md` | Aksiyon, kamera, gece, renk paleti ve motion test promptları |
 | `ai-prompts/SCENE_PROMPTS.md` | Moodboard, lineup, interaction, loopable BG ve poster promptları |
 | `examples/` | Örnek PNG çıktıları ve prompt/seed/model metadata dosyaları |
+| `scenes/` | Bölüm ve sahne yazımı: beat sheet, shot plan, diyalog, prompt, animation notes |
 
 ## Prompt Variable System
 
@@ -62,9 +64,17 @@ Tüm promptlar bu üç değişkenle başlar veya biter:
 
 1. `ai-prompts/VISUAL_REFERENCES.md` ile Kiko, Mimi, Opa ve trio scale referanslarını üret.
 2. `ai-prompts/TECHNICAL_SHEETS.md` ile master character sheet, turnaround, expression, prop ve storyboard sheetlerini kilitle.
-3. `ai-prompts/ENVIRONMENT_PROMPTS.md` ile master valley, home, playhouse ve night/day plate üret.
-4. `ai-prompts/SCENE_PROMPTS.md` ile poster, moodboard, lineup ve interaction sahneleri üret.
-5. `NEGATIVE_PROMPTS.md` içinden kullanılan araca uygun negative prompt'u ekle.
+3. `ai-prompts/VOICE_PROMPTS.md` ile her karakter için ses promptlarını üretim aracına ver.
+4. `ai-prompts/ENVIRONMENT_PROMPTS.md` ile master valley, home, playhouse ve night/day plate üret.
+5. `ai-prompts/SCENE_PROMPTS.md` ile poster, moodboard, lineup ve interaction sahneleri üret.
+6. `NEGATIVE_PROMPTS.md` içinden kullanılan araca uygun negative prompt'u ekle.
+
+## Scene Writing Workflow
+
+1. Yeni sahne klasörü `scenes/season-01/s01e01-episode-name/` formatıyla açılır.
+2. Her sahne dosyası `01-kiko-intro.md` gibi sıra numarası ve kısa amaçla adlandırılır.
+3. Dosya içinde Production Lock, Beat Sheet, Shot Plan, Diyalog, Visual Prompt ve Safety Check bulunur.
+4. İlk intro sahneleri: `scenes/season-01/s01e01-hello-pompom-hills/`.
 
 ## Midjourney / SDXL / Flux Usage
 
