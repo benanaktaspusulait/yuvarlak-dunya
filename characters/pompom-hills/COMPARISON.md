@@ -1,4 +1,4 @@
-# Character Comparison - Pompom Hills
+# Character Comparison - Pompom Hills v2.1
 
 ## Main Trio Summary
 

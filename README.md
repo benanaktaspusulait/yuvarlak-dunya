@@ -1,56 +1,87 @@
-# Pompom Hills
+# Yuvarlak Dunya - Pompom Hills v2.1
 
-Pompom Hills is a soft preschool animation world built around rounded shapes, pastel colours, gentle discovery, and toddler-safe emotional clarity.
+3-4 yas icin 7 dakika x 26 bolumluk 3D preschool seri dosyasi. Pompom Hills; yuvarlak tepeler, ponpon agaclar, kivrimli yollar, kure evler ve guvenli duygusal kesif uzerine kurulu pastel bir oyuncak dunyasidir.
 
-## 10-Point Project Snapshot
+## Production Status
 
-1. The series is designed for very young children, especially ages 3-4.
-2. The visual identity is soft, round, warm, pastel, and toy-like.
-3. Kiko is the main child character and the audience's discovery anchor.
-4. Mimi is Kiko's soft blue rabbit friend and brings gentle curiosity.
-5. Opa is the wise round owl guide who helps without scolding.
-6. The world is Pompom Hills, a safe valley of rounded hills, pompom trees, curved paths, and cosy homes.
-7. Stories should stay small, clear, repeatable, and emotionally readable.
-8. No sharp shapes, scary shadows, realistic textures, harsh conflict, or busy frames.
-9. AI image generation should use locked character descriptions, approved reference images, and a consistent negative prompt.
-10. The "Yuvarlak Dunya" theme should appear through round objects, rolling motion, globes, circular paths, and soft world-scale hero imagery.
+| Alan | Durum |
+| --- | --- |
+| Version | v2.1 |
+| Audience | 3-4 yas |
+| Format | 3D animation, 7 dakika x 26 bolum |
+| License | CC-BY-NC 4.0 |
+| Scale | Kiko = 100 birim, Mimi = 80 birim, Opa = 120 birim |
+| Prompt variables | `{style}`, `{camera}`, `{lighting}` |
+
+## Core Rule
+
+Her gorsel ve sahne su cumleyi gecmelidir: "3-4 yas cocuk bunu 2 saniyede okuyabilir, korkmaz, kimin ne hissettigini anlar."
 
 ## Production Files
 
 | File | Purpose |
 | --- | --- |
-| `WORLD_BIBLE_v2.0.md` | 3D studio-standard world bible, physics rules, geography, materials, story rules, and DO/DONT checklist |
-| `WORLD_DETAILED.md` | Detailed geography, locations, objects, seasons, and world boundaries |
-| `VISUAL_STYLE_GUIDE.md` | Shape language, colour rules, lighting, composition, and visual do/don't rules |
-| `CHARACTER_DESIGN_GUIDE.md` | Character proportions, expressions, and toy-like design principles |
-| `CHARACTER_REFERENCE_GUIDE_v2.0.md` | 3D studio-standard locked references for Kiko, Mimi, Opa, scale, movement, voice, and DO/DONT checklist |
-| `SERIES_STRUCTURE_v1.0.md` | Episode structure, character strategy, and season planning |
-| `OPENART_WORLD_PROMPT_PACK.md` | Ready-to-use OpenArt world prompts |
-| `ai-prompts/VISUAL_REFERENCES.md` | Core visual reference prompts for characters, trio, world, and scenes |
-| `ai-prompts/ENVIRONMENT_PROMPTS.md` | Production background, location, hero, and weather prompts |
-| `ai-prompts/TECHNICAL_SHEETS.md` | Turnaround, scale, prop, expression, storyboard, and consistency prompts |
-| `ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md` | Advanced expression, action, night, camera-angle, and palette prompts |
-| `ai-prompts/SCENE_PROMPTS.md` | Moodboard, character lineup, interaction scene, loopable background, and README hero poster prompts |
-| `characters/pompom-hills/` | Individual character files and comparison notes |
+| `WORLD_BIBLE_v2.1.md` | 3D stüdyo standardı dünya incili: felsefe, fizik, coğrafya, renk, materyal, hikaye kuralları |
+| `CHARACTER_REFERENCE_GUIDE_v2.1.md` | Kiko, Mimi, Opa için kilit karakter, ölçek, hareket, ses ve yasak davranış referansı |
+| `SERIES_STRUCTURE_v2.1.md` | Bölüm yapısı, karakter stratejisi, sezon planı |
+| `TECH_SPECS.md` | 3D pipeline, model, rig, render ve teslim standartları |
+| `WORLD.md` | Kısa dünya özeti |
+| `WORLD_DETAILED.md` | Mekanlar, nesneler, sezonlar, sınırlar |
+| `VISUAL_STYLE_GUIDE.md` | Şekil dili, renk, ışık, kompozisyon kuralları |
+| `CHARACTER_DESIGN_GUIDE.md` | Karakter form, oran ve ifade prensipleri |
+| `NAMING_REFINEMENT.md` | İsimlendirme ve seri dili kararları |
+| `OPENART_WORLD_PROMPT_PACK.md` | OpenArt dünya promptları |
+| `NEGATIVE_PROMPTS.md` | Midjourney, SDXL, Flux için ortak ve araç özel negative prompt listeleri |
+| `CONTRIBUTING.md` | Prompt ekleme, görsel onay ve dosya isimlendirme kuralları |
+| `CHANGELOG.md` | Sürüm geçmişi |
+| `LICENSE` | CC-BY-NC 4.0 lisansı ve ticari kullanım iletişimi |
+| `ai-prompts/VISUAL_REFERENCES.md` | Karakter, trio ve ana görsel referans promptları |
+| `ai-prompts/ENVIRONMENT_PROMPTS.md` | Mekan, arka plan, hava ve dünya plate promptları |
+| `ai-prompts/TECHNICAL_SHEETS.md` | Turnaround, expression, scale, prop ve storyboard sheet promptları |
+| `ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md` | Aksiyon, kamera, gece, renk paleti ve motion test promptları |
+| `ai-prompts/SCENE_PROMPTS.md` | Moodboard, lineup, interaction, loopable BG ve poster promptları |
+| `examples/` | Örnek PNG çıktıları ve prompt/seed/model metadata dosyaları |
 
-## Recommended AI Visual Workflow
+## Prompt Variable System
 
-1. Generate the master Pompom Hills world reference.
-2. Generate locked front views for Kiko, Mimi, and Opa.
-3. Generate turnarounds and expression sheets for each character.
-4. Generate the trio scale chart to lock relative proportions.
-5. Generate environment plates using the master world reference.
-6. Generate props and storyboard panels for specific episodes.
-7. Generate hero images only after character, scale, and environment references are approved.
+Tüm promptlar bu üç değişkenle başlar veya biter:
 
-## Prompt Usage Guide
+```text
+{style} {camera} {lighting}
+```
 
-1. Start with `ai-prompts/VISUAL_REFERENCES.md`; generate and approve the master world image, Kiko, Mimi, Opa, and the trio scale chart.
-2. Use `ai-prompts/ENVIRONMENT_PROMPTS.md` for reusable locations and background plates.
-3. Use `ai-prompts/TECHNICAL_SHEETS.md` for turnaround, expression, scale, prop, and storyboard sheets.
-4. Use `ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md` and `ai-prompts/SCENE_PROMPTS.md` only after the locked references are approved.
-5. For Midjourney v6, append `--style raw --s 250 --v 6.0`; keep each prompt's own aspect ratio such as `16:9`, `3:2`, `1:1`, or `2:3`.
+Önerilen v2.1 değerleri:
 
-## Core Consistency Rule
+| Variable | Default |
+| --- | --- |
+| `{style}` | `Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity` |
+| `{camera}` | `stable 50mm preschool camera, eye-level or gentle wide shot, no Dutch angle, no fisheye, no shaky movement` |
+| `{lighting}` | `warm diffused daylight, soft contact shadows under 25 percent opacity, no hard rim light, no black night values` |
 
-Every generated image should feel like part of the same soft toy set: rounded, gentle, pastel, clear, safe, and instantly readable for preschool viewers.
+## AI Workflow
+
+1. `ai-prompts/VISUAL_REFERENCES.md` ile Kiko, Mimi, Opa ve trio scale referanslarını üret.
+2. `ai-prompts/TECHNICAL_SHEETS.md` ile turnaround, expression, prop ve storyboard sheetlerini kilitle.
+3. `ai-prompts/ENVIRONMENT_PROMPTS.md` ile master valley, home, playhouse ve night/day plate üret.
+4. `ai-prompts/SCENE_PROMPTS.md` ile poster, moodboard, lineup ve interaction sahneleri üret.
+5. `NEGATIVE_PROMPTS.md` içinden kullanılan araca uygun negative prompt'u ekle.
+
+## Midjourney / SDXL / Flux Usage
+
+| Tool | Positive Prompt | Negative Prompt |
+| --- | --- | --- |
+| Midjourney v6 | Prompt + `{style}` + `{camera}` + `{lighting}` + `--style raw --s 250 --v 6.0` | `NEGATIVE_PROMPTS.md` Midjourney satırı |
+| SDXL | Prompt + `{style}` + `{camera}` + `{lighting}` | `NEGATIVE_PROMPTS.md` SDXL satırı |
+| Flux | Prompt + `{style}` + `{camera}` + `{lighting}` | `NEGATIVE_PROMPTS.md` Flux satırı |
+
+## Example Assets
+
+`examples/` klasörü prodüksiyon referansı değildir; repo içinde placeholder preview ve metadata standardını gösterir. Final görseller, aynı isimlendirme ve `.txt` metadata formatı korunarak onaylı AI çıktılarıyla değiştirilmelidir.
+
+## Visual Approval Gate
+
+Bir görsel ancak şu üç şartı geçerse ana referans olabilir:
+
+1. Karakter ölçeği doğru: Kiko 100, Mimi 80, Opa 120 ama alçak sahnelenmiş.
+2. Görsel korku, sert gölge, keskin köşe, gerçekçi doku veya yoğun detay taşımıyor.
+3. Prompt dosyasında kullanılan seed, model, variable değerleri ve onay tarihi metadata olarak kayıtlı.

@@ -10,7 +10,7 @@ Should Pompom Hills have one main character, two main characters, an ensemble ca
 
 ### Analysis
 
-| Model | Pros | Cons | Suitability (18m–4y) |
+| Model | Pros | Cons | Suitability (3-4y) |
 |-------|------|------|----------------------|
 | **One main character** | Maximum clarity, easiest emotional attachment, simplest storytelling | Limits episode variety, can feel repetitive | High |
 | **Two main characters** | Good balance, natural pairing, shared load | Toddlers may split attention, unclear "anchor" | Medium |
@@ -23,7 +23,7 @@ Should Pompom Hills have one main character, two main characters, an ensemble ca
 
 **Why this is the right choice:**
 
-1. **Toddlers aged 18 months to 4 years need a single emotional anchor.** At this age, children attach to one character who represents them on screen. That character must appear in almost every episode, lead most stories, and be instantly recognisable. Splitting this role between two characters risks weakening the attachment.
+1. **Toddlers aged 3 to 4 years need a single emotional anchor.** At this age, children attach to one character who represents them on screen. That character must appear in almost every episode, lead most stories, and be instantly recognisable. Splitting this role between two characters risks weakening the attachment.
 
 2. **The animal friend provides essential counterbalance.** A strong secondary character adds variety, gentle humour, and emotional range without competing for the "main" slot. Toddlers can love the animal friend without being confused about who leads the story.
 
@@ -80,7 +80,7 @@ The structure mirrors how toddlers actually form relationships: one primary atta
 ### The Risks of Ensemble-First
 
 **Attention Span**
-Toddlers aged 18 months to 4 years have an attention span of 2–4 minutes per focused activity. Introducing 4–5 distinct characters with their own personalities, colours, and names within this window is cognitively overwhelming. The child viewer cannot process who is who, who matters most, and who to emotionally track.
+Toddlers aged 3 to 4 years have an attention span of 2–4 minutes per focused activity. Introducing 4–5 distinct characters with their own personalities, colours, and names within this window is cognitively overwhelming. The child viewer cannot process who is who, who matters most, and who to emotionally track.
 
 **Emotional Attachment**
 Attachment takes time. A toddler needs to see the same character repeatedly — same face, same colour, same voice, same catchphrase — before forming a bond. Introducing multiple "main" characters simultaneously fragments this bonding process. The child may like all characters equally but feel deeply attached to none.
@@ -102,7 +102,7 @@ A show with one clear main character is easier to brand, easier to merchandise, 
 
 ### Conclusion
 
-Full ensemble casting is appropriate for children aged 5+. For 18 months to 4 years, a clear hierarchy is essential. The audience needs to know: this is my character, this is her friend, this is the helper. Everything else comes later.
+Full ensemble casting is appropriate for children aged 5+. For 3 to 4 years, a clear hierarchy is essential. The audience needs to know: this is my character, this is her friend, this is the helper. Everything else comes later.
 
 ---
 
@@ -488,7 +488,7 @@ A warm hug. A soft voice. A gentle discovery. A safe ending. The toddler should 
 
 ## 12. Standard Episode Formula
 
-### Base Formula (2.5–4 minutes)
+### Base Formula (7 minutes)
 
 | Section | Duration | Description |
 |---------|----------|-------------|
@@ -586,7 +586,7 @@ Visually: yes, starting from episode 8–10. Speaking roles: maximum one side ch
 
 ## 15. Revised Series Pitch
 
-**Pompom Hills** is a gentle animated series for toddlers aged 18 months to 4 years, built around one clear emotional anchor: Kiko, a curious little girl who discovers the world one small wonder at a time. She is joined by Mimi, her loyal rabbit best friend who hops alongside her through every adventure, and Opa, a wise old owl who watches over them with warmth, patience, and soft-spoken wisdom. Together, they live in a cosy valley of rounded hills, pompom trees, spiral paths, and pastel houses — a world that feels like a soft toy come to life. Each episode follows one small situation — hearing rain, sharing a snack, planting a flower, saying goodnight — and resolves it gently, with repetition, kindness, and a soft "boop" of magic. The show speaks very simple English, moves at a toddler's pace, and never introduces danger, darkness, or conflict. Kiko leads most episodes, with occasional stories focused on Mimi's feelings or Opa's quiet wisdom. As the series grows, new characters may appear gently in the background, but the core trio always remains at the heart. Pompom Hills is designed to be visually consistent across AI-generated episodes, emotionally safe for the youngest viewers, and warm enough to become a toddler's favourite place to visit again and again.
+**Pompom Hills** is a gentle animated series for toddlers aged 3 to 4 years, built around one clear emotional anchor: Kiko, a curious little girl who discovers the world one small wonder at a time. She is joined by Mimi, her loyal rabbit best friend who hops alongside her through every adventure, and Opa, a wise old owl who watches over them with warmth, patience, and soft-spoken wisdom. Together, they live in a cosy valley of rounded hills, pompom trees, spiral paths, and pastel houses — a world that feels like a soft toy come to life. Each episode follows one small situation — hearing rain, sharing a snack, planting a flower, saying goodnight — and resolves it gently, with repetition, kindness, and a soft "boop" of magic. The show speaks very simple English, moves at a toddler's pace, and never introduces danger, darkness, or conflict. Kiko leads most episodes, with occasional stories focused on Mimi's feelings or Opa's quiet wisdom. As the series grows, new characters may appear gently in the background, but the core trio always remains at the heart. Pompom Hills is designed to be visually consistent across AI-generated episodes, emotionally safe for the youngest viewers, and warm enough to become a toddler's favourite place to visit again and again.
 
 ---
 
@@ -595,7 +595,7 @@ Visually: yes, starting from episode 8–10. Speaking roles: maximum one side ch
 | Field | Detail |
 |-------|--------|
 | **Document** | Series Structure & Character Strategy |
-| **Version** | 1.0 |
+| **Version** | 2.1 |
 | **Project** | Pompom Hills |
 | **Created** | 2026-06-30 |
 | **Purpose** | Define series structure, character hierarchy, and episode strategy |
@@ -603,4 +603,4 @@ Visually: yes, starting from episode 8–10. Speaking roles: maximum one side ch
 
 ---
 
-*Series Structure & Character Strategy v1.0 — Pompom Hills — Created for Series Development*
+*Series Structure & Character Strategy v2.1 — Pompom Hills — Updated for Series Development*

@@ -1,4 +1,4 @@
-# Pompom Hills - Detailed World Guide
+# Pompom Hills - Detailed World Guide v2.1
 
 ---
 

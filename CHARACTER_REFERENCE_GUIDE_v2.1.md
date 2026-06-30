@@ -1,4 +1,4 @@
-# Yuvarlak Dunya - Pompom Hills Character Reference Guide v2.0
+# Yuvarlak Dunya - Pompom Hills Character Reference Guide v2.1
 
 | Alan | Kilit Standart |
 | --- | --- |
@@ -176,7 +176,7 @@
 | Ziplama yuksekligi | 18 birim; airtime 20 frame at 24 fps |
 | Ozel animasyon | Mimi kulak sarma: kaygida kulaklar one gelir, yanak hizasinda 12 frame icinde kapanir |
 | Squash-stretch | Var; hop squash max %8, stretch max %6 |
-| Kulak secondary | Gecikme 4-6 frame; overshoot max 10 derece |
+| Kulak secondary | Gecikme 3-4 frame; overshoot max 10 derece |
 | Durma | Ayaklar ayni hizada; kuyruk 3 frame gec salinir |
 
 ## 6. SES

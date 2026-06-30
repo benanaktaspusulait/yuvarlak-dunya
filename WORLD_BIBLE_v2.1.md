@@ -1,4 +1,4 @@
-# Yuvarlak Dunya - Pompom Hills World Bible v2.0
+# Yuvarlak Dunya - Pompom Hills World Bible v2.1
 
 | Alan | Kilit Standart |
 | --- | --- |

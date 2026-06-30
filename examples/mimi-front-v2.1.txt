@@ -1,0 +1,11 @@
+Asset: mimi-front-v2.1.png
+Status: placeholder preview, not final approved art
+Model: deterministic local placeholder drawing
+Seed: 2102
+Prompt:
+Mimi front view character reference, soft blue baby rabbit, total height 80 units, soft blue fur #90CAF9, white belly #FFFFFF, long floppy ears with pale pink inner ears, green eyes #66BB6A, pink nose #F48FB1, soft yellow t-shirt #FFF59D, round paws with no fingers, friendly supportive smile, clean white background, {style}, {camera}, {lighting}, 3:2
+Variables:
+{style}=Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
+{camera}=stable 50mm preschool camera, clean reference framing, no Dutch angle, no fisheye
+{lighting}=warm diffused daylight, soft contact shadows, no harsh rim light, no dark shadows
+Negative prompt: see NEGATIVE_PROMPTS.md common negative prompt

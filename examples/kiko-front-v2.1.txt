@@ -1,0 +1,11 @@
+Asset: kiko-front-v2.1.png
+Status: placeholder preview, not final approved art
+Model: deterministic local placeholder drawing
+Seed: 2101
+Prompt:
+Kiko front view character reference, 4-year-old curious child, total height 100 units, round face, warm brown pigtails #8D6E63, brown eyes #795548, coral pink long-sleeve shirt #F8BBD0, white shorts #FFFFFF, coral socks and round coral shoes, mitten hands with no fingers, gentle curious smile, clean white background, {style}, {camera}, {lighting}, 3:2
+Variables:
+{style}=Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
+{camera}=stable 50mm preschool camera, clean reference framing, no Dutch angle, no fisheye
+{lighting}=warm diffused daylight, soft contact shadows, no harsh rim light, no dark shadows
+Negative prompt: see NEGATIVE_PROMPTS.md common negative prompt

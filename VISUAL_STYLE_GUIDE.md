@@ -1,4 +1,4 @@
-# Pompom Hills - Visual Style Guide
+# Pompom Hills - Visual Style Guide v2.1
 
 ---
 

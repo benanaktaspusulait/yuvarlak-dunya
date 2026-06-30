@@ -77,7 +77,7 @@
 ### Maximum Syllables
 - **Main characters**: 2 syllables maximum
 - **Supporting characters**: 2-3 syllables maximum
-- **Rationale**: Toddlers aged 18 months to 4 years can reliably pronounce 1-2 syllable words. Three syllables is the absolute maximum.
+- **Rationale**: Toddlers aged 3 to 4 years can reliably pronounce 1-2 syllable words. Three syllables is the absolute maximum.
 
 ### Sound Style
 - **Prefer**: Soft consonants (M, N, L, B, P, S, F, H, W)
@@ -440,7 +440,7 @@ This creates natural story dynamics without conflict:
 
 ## 9. Revised Series Pitch
 
-**Pompom Hills** is a gentle animated series for toddlers aged 18 months to 4 years, set in a soft, rounded valley where everything feels like a cuddly toy come to life. The world is made of round hills, pompom trees, curved paths, and cosy houses with sticker-like doors. The show follows Kiko, a curious little girl, and Mimi, her rabbit best friend, as they discover simple things in their valley — finding a lost toy, sharing a snack, hearing rain, planting a flower — always guided by Opa, a wise old owl who watches over them with warmth and patience. Each episode is 2.5 to 4 minutes long, with very simple English, repeated phrases, and soft music. The visual style is warm, pastel, and toy-like — richer than Pocoyo but simpler than Disney — with no sharp corners, no scary moments, and no fast movement. Every episode teaches one small emotional skill through gentle storytelling, repetition, and kindness. Pompom Hills is designed to be visually consistent across AI-generated episodes, with clear character designs, a defined colour palette, and a world that is easy to recreate. It is a safe, warm, and lovable world that toddlers will want to visit again and again.
+**Pompom Hills** is a gentle animated series for toddlers aged 3 to 4 years, set in a soft, rounded valley where everything feels like a cuddly toy come to life. The world is made of round hills, pompom trees, curved paths, and cosy houses with sticker-like doors. The show follows Kiko, a curious little girl, and Mimi, her rabbit best friend, as they discover simple things in their valley — finding a lost toy, sharing a snack, hearing rain, planting a flower — always guided by Opa, a wise old owl who watches over them with warmth and patience. Each episode is 7 minutes long, with very simple English, repeated phrases, and soft music. The visual style is warm, pastel, and toy-like — richer than Pocoyo but simpler than Disney — with no sharp corners, no scary moments, and no fast movement. Every episode teaches one small emotional skill through gentle storytelling, repetition, and kindness. Pompom Hills is designed to be visually consistent across AI-generated episodes, with clear character designs, a defined colour palette, and a world that is easy to recreate. It is a safe, warm, and lovable world that toddlers will want to visit again and again.
 
 ---
 
@@ -452,7 +452,7 @@ This creates natural story dynamics without conflict:
 
 ### Why
 
-1. **Toddler cognitive load**: Children aged 18 months to 4 years are still learning to recognise and remember faces. Adding too many characters overwhelms them.
+1. **Toddler cognitive load**: Children aged 3 to 4 years are still learning to recognise and remember faces. Adding too many characters overwhelms them.
 
 2. **Consistency**: With only three characters, AI-generated episodes remain visually consistent. Each character is easy to recognise and reproduce.
 
@@ -492,8 +492,8 @@ This creates natural story dynamics without conflict:
 | **Final main child** | **Kiko** (short, bouncy, global) |
 | **Final animal friend** | **Mimi** (French, "sweet/cute") |
 | **Final guide character** | **Opa** (Greek, "grandfather") |
-| **Best age range** | 18 months – 4 years |
-| **Best episode length** | 2.5 – 4 minutes |
+| **Best age range** | 3-4 years |
+| **Best episode length** | 7 minutes |
 | **Best visual direction** | Soft 3D cartoon, rounded shapes, pastel colours, toy-like |
 | **Best emotional tone** | Warm, gentle, safe, curious, celebratory |
 
@@ -507,4 +507,4 @@ This is not just a show — it is a **safe space** for toddlers to explore emoti
 
 ---
 
-*Character & Naming Refinement Document — Pompom Hills — v1.0*
+*Character & Naming Refinement Document — Pompom Hills — v2.1*

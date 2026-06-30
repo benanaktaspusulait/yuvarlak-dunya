@@ -1,0 +1,11 @@
+Asset: trio-scale-v2.1.png
+Status: placeholder preview, not final approved art
+Model: deterministic local placeholder drawing
+Seed: 2104
+Prompt:
+Production trio scale sheet, Kiko 100 units, Mimi 80 units, Opa 120 units with low eyeline 82-92 units, same baseline, simple pale measuring lines, no text labels, neutral smiles, no props, {style}, {camera}, {lighting}, 16:9
+Variables:
+{style}=Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
+{camera}=orthographic or stable 70mm reference camera, centered studio sheet, no perspective distortion
+{lighting}=even studio lighting, soft shadow opacity below 15 percent, no dramatic contrast
+Negative prompt: see NEGATIVE_PROMPTS.md common negative prompt

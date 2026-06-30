@@ -1,8 +1,8 @@
-# Yuvarlak Tepeler Dünyası
+# Yuvarlak Dunya - Pompom Hills World Overview v2.1
 
 ## Genel Bakış
 
-1.5 yaş ve üzeri çocuklar için tasarlanmış bir çizgi film dünyası. Her şey yuvarlak hatlardan oluşur. Sivri köşe, keskin çizgi yoktur. Dünya yumuşak, davetkar ve güvenli hissettirir.
+3-4 yaş çocuklar için tasarlanmış 7 dakikalık 3D preschool seri dünyası. Her şey yuvarlak hatlardan oluşur. Sivri köşe, keskin çizgi yoktur. Dünya yumuşak, davetkar ve güvenli hissettirir.
 
 ## Dünyanın Fiziksel Yapısı
 

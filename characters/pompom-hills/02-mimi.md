@@ -1,4 +1,4 @@
-# Mimi
+# Mimi v2.1
 
 ## Overview
 - **Role**: Animal best friend

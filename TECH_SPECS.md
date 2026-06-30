@@ -1,4 +1,4 @@
-# Pompom Hills - 3D Technical Specifications v1.0
+# Pompom Hills - 3D Technical Specifications v2.1
 
 ## 1. Production Lock
 
@@ -8,7 +8,7 @@ Bu dosya, **Pompom Hills** 3D animasyon serisinin üretim standardıdır. Bu dos
 | --- | --- |
 | Seri adı | Pompom Hills |
 | Format | 3D animasyon serisi |
-| Hedef yaş | 4-6 |
+| Hedef yaş | 3-4 |
 | Bölüm süresi | 7 dakika |
 | Sezon 1 | 26 bölüm |
 | Görsel stil | Soft 3D cartoon animation, rounded shapes, pastel colours, warm daylight, gentle shadows, toy-like appearance |
@@ -89,7 +89,7 @@ Bu seri mid-poly, stylized ve rig-friendly üretilir. Micro-detail yasaktır; ş
 
 | Alan | Standart |
 | --- | --- |
-| Tip | 3-4 yaş hissinde human girl, 4-6 hedef kitleye uygun |
+| Tip | 3-4 yaş hissinde human girl, 3-4 hedef kitleye uygun |
 | Saç | Warm brown #8D6E63, iki küçük pigtail, solid stylized hair mass |
 | Göz | Brown #795548, büyük yuvarlak göz, iki beyaz highlight |
 | Kıyafet | Coral pink shirt #F8BBD0, white shorts #FFFFFF, coral socks/shoes #F8BBD0 |

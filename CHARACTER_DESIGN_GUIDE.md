@@ -1,4 +1,4 @@
-# Pompom Hills - Character Design Guide
+# Pompom Hills - Character Design Guide v2.1
 
 ---
 

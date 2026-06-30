@@ -1,0 +1,11 @@
+Asset: environment-valley-v2.1.png
+Status: placeholder preview, not final approved art
+Model: deterministic local placeholder drawing
+Seed: 2105
+Prompt:
+Wide establishing background plate of Pompom Hills valley, rounded mint hills, pompom trees, curved stepping-stone paths, sphere-like houses with circular windows, central Big Pompom Tree, open foreground for character animation, no characters, no text, {style}, {camera}, {lighting}, 16:9
+Variables:
+{style}=Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
+{camera}=stable wide preschool camera, clear readable staging, no fisheye, no shaky cam
+{lighting}=warm diffused daylight, soft contact shadows under 25 percent opacity, no hard rim light
+Negative prompt: see NEGATIVE_PROMPTS.md common negative prompt

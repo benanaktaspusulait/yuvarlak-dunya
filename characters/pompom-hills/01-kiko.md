@@ -1,4 +1,4 @@
-# Kiko
+# Kiko v2.1
 
 ## Overview
 - **Role**: Main child character
