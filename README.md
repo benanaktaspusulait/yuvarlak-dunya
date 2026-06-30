@@ -37,7 +37,7 @@ Her gorsel ve sahne su cumleyi gecmelidir: "3-4 yas cocuk bunu 2 saniyede okuyab
 | `LICENSE` | CC-BY-NC 4.0 lisansı ve ticari kullanım iletişimi |
 | `ai-prompts/VISUAL_REFERENCES.md` | Karakter, trio ve ana görsel referans promptları |
 | `ai-prompts/ENVIRONMENT_PROMPTS.md` | Mekan, arka plan, hava ve dünya plate promptları |
-| `ai-prompts/TECHNICAL_SHEETS.md` | Turnaround, expression, scale, prop ve storyboard sheet promptları |
+| `ai-prompts/TECHNICAL_SHEETS.md` | Master character sheet, turnaround, expression, scale, prop ve storyboard sheet promptları |
 | `ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md` | Aksiyon, kamera, gece, renk paleti ve motion test promptları |
 | `ai-prompts/SCENE_PROMPTS.md` | Moodboard, lineup, interaction, loopable BG ve poster promptları |
 | `examples/` | Örnek PNG çıktıları ve prompt/seed/model metadata dosyaları |
@@ -61,7 +61,7 @@ Tüm promptlar bu üç değişkenle başlar veya biter:
 ## AI Workflow
 
 1. `ai-prompts/VISUAL_REFERENCES.md` ile Kiko, Mimi, Opa ve trio scale referanslarını üret.
-2. `ai-prompts/TECHNICAL_SHEETS.md` ile turnaround, expression, prop ve storyboard sheetlerini kilitle.
+2. `ai-prompts/TECHNICAL_SHEETS.md` ile master character sheet, turnaround, expression, prop ve storyboard sheetlerini kilitle.
 3. `ai-prompts/ENVIRONMENT_PROMPTS.md` ile master valley, home, playhouse ve night/day plate üret.
 4. `ai-prompts/SCENE_PROMPTS.md` ile poster, moodboard, lineup ve interaction sahneleri üret.
 5. `NEGATIVE_PROMPTS.md` içinden kullanılan araca uygun negative prompt'u ekle.
