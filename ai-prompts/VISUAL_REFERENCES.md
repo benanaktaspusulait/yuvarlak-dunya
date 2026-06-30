@@ -4,7 +4,7 @@ Production prompt pack for creating consistent character, trio, world, and scene
 
 Use the same locked character descriptions in every generation. Do not rename characters. Do not change character colours or outfits.
 
-For expanded production prompts, use `ai-prompts/ENVIRONMENT_PROMPTS.md` for background plates, locations, weather, and hero images, and `ai-prompts/TECHNICAL_SHEETS.md` for turnarounds, scale charts, props, expression sheets, and storyboards.
+For expanded production prompts, use `ai-prompts/ENVIRONMENT_PROMPTS.md` for background plates, locations, weather, and hero images, `ai-prompts/TECHNICAL_SHEETS.md` for turnarounds, scale charts, props, expression sheets, and storyboards, `ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md` for action, camera-angle, night, and palette tests, and `ai-prompts/SCENE_PROMPTS.md` for moodboards, lineup scenes, interaction scenes, loopable backgrounds, and README poster prompts.
 
 ## 1. Universal Base Style Prompt
 
@@ -268,3 +268,18 @@ Before generating any OpenArt image, check:
 - Are there no extra characters?
 - Are there no sharp, scary, realistic, or angular elements?
 - Is the image clearly part of the Pompom Hills world?
+
+## 9. Master Style Code
+
+Use this compact code block as the final consistency check for advanced prompts and episode scenes.
+
+```text
+POMPOM_HILLS_MASTER_STYLE_CODE_V1
+World: soft rounded Pompom Hills valley, pastel colours, warm gentle lighting, toy-like matte 3D surfaces, toddler-safe, calm and readable.
+Characters: Kiko tallest with warm brown pigtails #8D6E63, coral pink shirt #F8BBD0, white shorts #FFFFFF; Mimi slightly shorter with soft blue fur #90CAF9 and yellow t-shirt #FFF59D; Opa compact round owl with warm green feathers #A5D6A7, golden glasses #FFD54F, orange beak #FF7043, brown shawl #A1887F.
+Motion: gentle, rounded, slow, playful, no hard impact, no chaotic speed.
+Camera: stable front, wide, top-down, or friendly low angle; no shaky camera, no threatening steep perspective.
+Lighting: warm daylight, soft sunset, or cosy blue night that is never black.
+Negative: no sharp edges, no scary elements, no realistic textures, no extra characters, no changed outfits, no neon colours, no busy composition, no watermark.
+Advanced pack: use ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md for expression, rolling action, night mood, camera-angle, and palette reference prompts. Use ai-prompts/SCENE_PROMPTS.md for moodboard, lineup, interaction, loopable background, and poster prompts.
+```
