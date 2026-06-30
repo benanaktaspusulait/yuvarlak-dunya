@@ -4,6 +4,8 @@ Production prompt pack for creating consistent character, trio, world, and scene
 
 Use the same locked character descriptions in every generation. Do not rename characters. Do not change character colours or outfits.
 
+For expanded production prompts, use `ai-prompts/ENVIRONMENT_PROMPTS.md` for background plates, locations, weather, and hero images, and `ai-prompts/TECHNICAL_SHEETS.md` for turnarounds, scale charts, props, expression sheets, and storyboards.
+
 ## 1. Universal Base Style Prompt
 
 **Reusable base prompt for all Pompom Hills images:**
