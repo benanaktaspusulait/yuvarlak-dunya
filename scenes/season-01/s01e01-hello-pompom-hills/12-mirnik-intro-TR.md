@@ -2,20 +2,88 @@
 
 ---
 
-## Genel Bakış
+## Hikaye
 
-| Bilgi | Değer |
-|---|---|
-| Süre | 15 saniye |
-| Karakter | Mirnik |
-| Mekan | Little Forest |
-| Tema | Tanışma |
-| Diyalog | "Hehe... you can't find me! I was here! One more hiding spot!" |
+Little Forest'da yuvarlak ponpon ağaçların arasında bir karton kutu var.
+
+Sessiz.
+
+Hareketsiz.
 
 ---
 
-## Hikaye
+Bir an hiçbir şey olmaz.
 
-Little Forest'da yuvarlak ponpon ağaçların arasında bir karton kutu var. Kutunun içinden bir şey görünür — kulaklar. Turuncu kulaklar. Sallanır. Sonra kutunun kapağı açılır ve küçük, turuncu, tüylü bir kedi fırlar! Mirnik bu. Büyük yeşil gözleri var. Pembe burnu var. Turkuaz bandanası var. Kuyruğu ritmik sallanır. Kameraya bakar. "Hehe... you can't find me!" der. Sonra kutuya geri girer. Sadece gözleri görünür. Tekrar fırlar. "I was here!" der. Sonra tekrar kutuya girer. "One more hiding spot!" der.
+Sonra — hareket.
 
-Mirnik böyle — oyunbaz, sevimli, saklanmaca oynayan. Ve o seni bulmamıza izin veriyor.
+Kutunun içinden bir şey görünür.
+
+Kulaklar.
+
+Turuncu kulaklar.
+
+Sallanır.
+
+Durur.
+
+Tekrar sallanır.
+
+---
+
+Aniden — küçük, turuncu, tüylü bir kedi fırlar!
+
+Mirnik bu.
+
+Büyük yeşil gözleri var.
+
+Pembe burnu.
+
+Turkuaz bandanası.
+
+Kuyruğu ritmik sallanır.
+
+---
+
+Kameraya bakar.
+
+Gözlerini kırpıştırır.
+
+Sırıtır.
+
+> **"Hehe... you can't find me!"**
+
+---
+
+Sonra kutuya geri girer.
+
+Sadece gözleri görünür.
+
+İki yuvarlak yeşil göz.
+
+Sessizce bakar.
+
+---
+
+Tekrar fırlar!
+
+> **"I was here!"**
+
+---
+
+Sonra tekrar kutuya girer.
+
+Gözlerini kısar.
+
+> **"One more hiding spot!"**
+
+---
+
+Mirnik böyle.
+
+Oyunbaz.
+
+Sevimli.
+
+Saklanmaca oynayan.
+
+Ve o seni bulmamıza izin veriyor.

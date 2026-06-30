@@ -2,20 +2,92 @@
 
 ---
 
-## Genel Bakış
+## Hikaye
 
-| Bilgi | Değer |
-|---|---|
-| Süre | 15 saniye |
-| Karakter | Amara |
-| Mekan | Friendship Meadow |
-| Tema | Tanışma |
-| Diyalog | "Together we can! I'll help! Let's sing it!" |
+Friendship Meadow'da geniş, yeşil bir çimenlik.
+
+Sessiz.
+
+Huzurlu.
 
 ---
 
-## Hikaye
+Sonra bir ses duyulur.
 
-Friendship Meadow'da geniş, yeşil bir çimenlik. Amara sahneye dans ederek girer. Koyu kahverengi kıvırcık saçları iki yuvarlak puf topuzu olmuş. Sarı kurdelesi var başlığında. Sarı tişörtü, mor tulumu var. Kolları havada, ritmik hareketler yapıyor. Gülüyor. "Together we can!" der. Kameraya döner, el sallar. "I'll help!" der. Sonra şarkı söyler gibi hareket eder. "Let's sing it!" der. Kollarını açar, herkesi çağırır.
+Ritmik.
 
-Amara böyle — neşeli, müziksel, paylaşan. Ve o seninle birlikte söylemek istiyor.
+Neşeli.
+
+---
+
+Amara sahneye dans ederek girer.
+
+Koyu kahverengi kıvırcık saçları iki yuvarlak puf topuzu olmuş.
+
+Sarı kurdelesi var başlığında.
+
+Sarı tişörtü.
+
+Mor tulumu.
+
+---
+
+Kolları havada.
+
+Ritmik hareketler yapıyor.
+
+Sola.
+
+Sağa.
+
+Yukarı.
+
+Aşağı.
+
+Gülüyor.
+
+---
+
+Kameraya döner.
+
+Sıcak bir gülümseme.
+
+> **"Together we can!"**
+
+---
+
+El sallar.
+
+Davetkar.
+
+> **"I'll help!"**
+
+---
+
+Sonra şarkı söyler gibi hareket eder.
+
+Ağzını açar.
+
+Sesi yumuşak.
+
+> **"Let's sing it!"**
+
+---
+
+Kollarını açar.
+
+Herkesi çağırır.
+
+Gülümser.
+
+---
+
+Amara böyle.
+
+Neşeli.
+
+Müziksel.
+
+Paylaşan.
+
+Ve o seninle birlikte söylemek istiyor.

@@ -2,20 +2,74 @@
 
 ---
 
-## Genel Bakış
+## Hikaye
 
-| Bilgi | Değer |
-|---|---|
-| Süre | 15 saniye |
-| Karakter | Opa |
-| Mekan | Opa's Tree, Central Square |
-| Tema | Tanışma |
-| Diyalog | "Well done! Take your time." |
+Büyük Ponpon Ağacı'nın en yüksek dalında biri yaşar.
+
+Opa.
+
+Bilge, sakin ve sabırlı bir baykuş.
+
+O her şeyi izler.
+
+Kimseyi acele ettirmez.
+
+Yardım gerektiğinde hep oradadır.
 
 ---
 
-## Hikaye
+Şimdi ağaca bak.
 
-Büyük bir ponpon ağaç var. Yuvarlak, kabarık yeşil tacı var. Kalın, yumuşak bir gövdesi var. Dalının üstünde boşluk var. Aniden yukarıdan bir şey iner — yumuşak, kontrollü, kanatlarıyla. Opa bu. Yuvarlak, yeşil tüylü bir baykuş. Altın gözlükleri var. Gözlükleri güneş ışığını yakalar — kısa, sıcak bir parıltı. Başını hafifçe eğer. Gülümser. "Well done!" der. Sonra kanadıyla hafif bir selam verir. "Take your time." der.
+Gövdesi kalın.
 
-Opa böyle — bilge, sakin, güvenli. Ve o her zaman orada.
+Yaprakları yuvarlak ve kabarık.
+
+Rüzgârda sessizce sallanır.
+
+Bir an her şey sakindir.
+
+---
+
+Sonra yukarıdan yumuşak bir gölge süzülür.
+
+Kanatlar ağır ağır açılır.
+
+Sessiz...
+
+Yavaş...
+
+Kontrollü...
+
+Opa aşağı doğru süzülür.
+
+Dalına zarifçe konar.
+
+Tek bir yaprak bile neredeyse kıpırdamaz.
+
+---
+
+Yuvarlak yeşil tüyleri güneşte sıcacık görünür.
+
+Altın gözlükleri kısa bir an ışığı yakalar.
+
+✨ *Parıltı.*
+
+Opa başını hafifçe eğer.
+
+Yüzünde sakin bir gülümseme vardır.
+
+Çocuklara bakar.
+
+> **"Well done."**
+
+Kısa bir duraklama.
+
+Kanadını yavaşça kaldırır.
+
+Nazikçe sallayarak selam verir.
+
+> **"Take your time."**
+
+Sonra tekrar sessizce ağacın üzerinde oturur.
+
+Sanki hep oradaymış gibidir.

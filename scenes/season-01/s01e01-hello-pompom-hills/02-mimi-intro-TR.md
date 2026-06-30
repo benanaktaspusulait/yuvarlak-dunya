@@ -2,20 +2,72 @@
 
 ---
 
-## Genel Bakış
-
-| Bilgi | Değer |
-|---|---|
-| Süre | 15 saniye |
-| Karakter | Mimi |
-| Mekan | Mimi's Burrow, Flower Hill |
-| Tema | Tanışma |
-| Diyalog | "Let's see! I'm Mimi. Hop hop!" |
-
----
-
 ## Hikaye
 
-Yuvarlak mavi bir giriş var çimenliğin ortasında. İçinden bir şey görünür — önce kulaklar. Uzun, mavi, yumuşak kulaklar. Sallanır. Sonra küçük, tüylü, mavi bir tavşan fırlar! Mimi bu. Küçük bir hop. Burnunu çimene dokundurur, koklar. Sonra kameraya bakar. Gözleri parlak yeşil. Burnu pembe. Sarı tişörtü var. "Let's see!" der. Başını yana eğer. "I'm Mimi." der. Sonra tekrar zıplar. "Hop hop!" der.
+Yuvarlak mavi bir giriş.
 
-Mimi böyle — yumuşak, sevimli, meraklı. Ve o artık senin arkadaşın.
+Çimenliğin ortasında sessizce duruyor.
+
+Bir an hiçbir şey olmaz.
+
+Sonra — hareket.
+
+Girişin içinden bir şey görünür.
+
+Önce sol kulak.
+
+Yavaşça.
+
+Sonra sağ kulak.
+
+Kulaklar sallanır.
+
+Durur.
+
+Tekrar sallanır.
+
+Aniden — küçük, mavi, tüylü bir tavşan fırlar!
+
+Mimi bu.
+
+Küçük bir hop.
+
+Yere değer.
+
+Burnunu çimene dokundurur.
+
+Koklar.
+
+Sonra başını kaldırır.
+
+Gözleri parlak yeşil.
+
+Burnu pembe.
+
+Sarı tişörtü var.
+
+Kameraya bakar.
+
+Gülümser.
+
+> **"Let's see!"**
+
+Başını yana eğer.
+
+> **"I'm Mimi."**
+
+Sonra tekrar zıplar.
+
+Kulaklar havada sallanır.
+
+> **"Hop hop!"**
+
+Mimi böyle.
+
+Yumuşak.
+
+Sevimli.
+
+Meraklı.
+
+Ve o artık senin arkadaşın.

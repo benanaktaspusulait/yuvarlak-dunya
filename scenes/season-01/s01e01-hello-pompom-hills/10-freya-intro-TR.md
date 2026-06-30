@@ -2,20 +2,82 @@
 
 ---
 
-## Genel Bakış
+## Hikaye
 
-| Bilgi | Değer |
-|---|---|
-| Süre | 15 saniye |
-| Karakter | Freya |
-| Mekan | Lily's Lavender Farm |
-| Tema | Tanışma |
-| Diyalog | "Let's take care of our beautiful world. This little plant needs water. Gently, please." |
+Lily's Lavender Farm'da mor lavanta tarlaları var.
+
+Rüzgârda sallanıyorlar.
+
+Yumuşak.
+
+Sessiz.
 
 ---
 
-## Hikaye
+Freya orada.
 
-Lily's Lavender Farm'da mor lavanta tarlaları var. Freya orada — küçük bir kız. Açık sarı dalgalı saçları örgü olmuş, yan tarafta mor çiçek klipsi var. Yeşil gözleri var, yüzerinde çiller var. Krem tişörtü, adaçayı yeşil eteği, lavanta botları var. Elinde yuvarlak bir sulama kabı var. Büyük sarı bir çiçeğe su döker. Yavaşça. Dikkatle. Çiçeğe eğilir, inceler. Sonra kameraya döner, gülümser. "Let's take care of our beautiful world." der. Çiçeğe geri döner. "This little plant needs water." der. Sonra çiçeği usulca sever. "Gently, please." der.
+Küçük bir kız.
 
-Freya böyle — sakin, sevecen, doğa sever. Ve o güzel dünyamıza bakmamızı istiyor.
+Açık sarı dalgalı saçları örgü olmuş.
+
+Yan tarafta mor çiçek klipsi.
+
+Yeşil gözleri.
+
+Yüzerinde çiller.
+
+---
+
+Elinde yuvarlak bir sulama kabı var.
+
+Büyük sarı bir çiçeğe yaklaşır.
+
+Yavaşça.
+
+Dikkatle.
+
+Sulama kabını eğirir.
+
+Su dökülür.
+
+Yumuşak.
+
+---
+
+Çiçeğe eğilir.
+
+İnceler.
+
+Yapraklarına bakar.
+
+Sonra kameraya döner.
+
+Gülümser.
+
+> **"Let's take care of our beautiful world."**
+
+---
+
+Çiçeğe geri döner.
+
+> **"This little plant needs water."**
+
+---
+
+Sonra çiçeği usulca sever.
+
+Parmağıyla yaprağa dokunur.
+
+> **"Gently, please."**
+
+---
+
+Freya böyle.
+
+Sakin.
+
+Sevecen.
+
+Doğa sever.
+
+Ve o güzel dünyamıza bakmamızı istiyor.

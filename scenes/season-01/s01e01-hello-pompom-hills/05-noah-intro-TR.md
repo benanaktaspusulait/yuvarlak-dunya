@@ -2,20 +2,86 @@
 
 ---
 
-## Genel Bakış
+## Hikaye
 
-| Bilgi | Değer |
-|---|---|
-| Süre | 15 saniye |
-| Karakter | Noah |
-| Mekan | Central Square |
-| Tema | Tanışma |
-| Diyalog | "Let's make it fun! I have an idea! What if we build it?" |
+Central Square'ın büyük ponpon ağacının altında bir çocuk oturur.
+
+Noah.
+
+Kıvırcık açık kahverengi saçları var.
+
+Yüzünde çiller.
+
+Mavi çubuklu tişörtü.
+
+Haki şortu.
 
 ---
 
-## Hikaye
+Elinde renkli yuvarlak bloklar var.
 
-Central Square'ın büyük ponpon ağacının altında bir çocuk oturur — Noah. Kıvırcık açık kahverengi saçları var. Yüzünde çiller var. Mavi çubuklu tişörtü, haki şortu var. Elinde renkli yuvarlak bloklar var. Birini diğerinin üstüne koyar. Bir tane daha. Bir tane daha. Bloklar devrilir! Noah gülümser, şaşırmaz. "Let's make it fun!" der. Yeni bir fikir gelir — parmağını havaya kaldırır. "I have an idea!" der. Blokları yeniden dizer. "What if we build it?" der. Gururla bakar.
+Birini diğerinin üstüne koyar.
 
-Noah böyle — yaratıcı, neşeli, eğlenceli. Ve o yeni fikirlerle dolu.
+Yavaşça.
+
+Dikkatle.
+
+Bir tane daha.
+
+Bir tane daha.
+
+---
+
+Sonra — devrilir!
+
+Bloklar yere saçılır.
+
+Noah gülümser.
+
+Şaşırmaz.
+
+Bekler.
+
+---
+
+Bir fikir gelir.
+
+Gözleri açılır.
+
+Parmağını havaya kaldırır.
+
+> **"Let's make it fun!"**
+
+---
+
+Blokları yeniden dizer.
+
+Bir tane daha.
+
+Bir tane daha.
+
+Daha yüksek.
+
+> **"I have an idea!"**
+
+---
+
+Son bloğu yerleştirir.
+
+Gururla bakar.
+
+Sırıtır.
+
+> **"What if we build it?"**
+
+---
+
+Noah böyle.
+
+Yaratıcı.
+
+Neşeli.
+
+Eğlenceli.
+
+Ve o yeni fikirlerle dolu.

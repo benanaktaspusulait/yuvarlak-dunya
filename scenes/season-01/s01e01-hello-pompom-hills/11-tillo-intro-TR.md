@@ -2,20 +2,92 @@
 
 ---
 
-## Genel Bakış
+## Hikaye
 
-| Bilgi | Değer |
-|---|---|
-| Süre | 15 saniye |
-| Karakter | Tillo |
-| Mekan | Tillo's Garden |
-| Tema | Tanışma |
-| Diyalog | "Let's grow something beautiful! This seed needs time. Water, wait, and smile." |
+Tillo's Garden'da yuvarlak çiçekler var.
+
+Yumuşak toprak var.
+
+Yeşil bitkiler var.
 
 ---
 
-## Hikaye
+Tillo orada.
 
-Tillo's Garden'da yuvarlak çiçekler, yumuşak toprak, yeşil bitkiler var. Tillo orada — küçük bir tavşan. Krem beyaz tüyleri var. Uzun kulakları dik, içleri pembe. Pembe kalp şeklinde burnu var. Yeşil bahçe tulumu giymiş, üstünde havuç resmi var. Saman şapkası var başında. Elinde küçük bir tohum var. Toprağa eğilir, tohumu diker. Şapkasını düzeltir. Gururla bakar. Kameraya döner, gülümser. "Let's grow something beautiful!" der. Toprağa geri döner. "This seed needs time." der. Sonra sulama kabını alır. "Water, wait, and smile." der.
+Küçük bir tavşan.
 
-Tillo böyle — sabırlı, sıcak, bahçeci. Ve o bir şeyin büyümesini beklemeyi biliyor.
+Krem beyaz tüyleri.
+
+Uzun kulaklar dik.
+
+İçleri pembe.
+
+Pembe kalp şeklinde burnu.
+
+Yeşil bahçe tulumu var.
+
+Saman şapkası var başında.
+
+---
+
+Elinde küçük bir tohum var.
+
+Çok küçük.
+
+Neredeyse görünmüyor.
+
+---
+
+Toprağa eğilir.
+
+Yavaşça.
+
+Tohumu yere bırakır.
+
+Parmaklarıyla kapatır.
+
+---
+
+Şapkasını düzeltir.
+
+Başını kaldırır.
+
+Gururla bakar.
+
+---
+
+Kameraya döner.
+
+Gülümser.
+
+> **"Let's grow something beautiful!"**
+
+---
+
+Toprağa geri döner.
+
+> **"This seed needs time."**
+
+---
+
+Sonra sulama kabını alır.
+
+Yuvarlak.
+
+Mavi.
+
+Yumuşak.
+
+> **"Water, wait, and smile."**
+
+---
+
+Tillo böyle.
+
+Sabırlı.
+
+Sıcak.
+
+Bahçeci.
+
+Ve o bir şeyin büyümesini beklemeyi biliyor.
