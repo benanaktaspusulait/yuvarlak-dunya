@@ -50,17 +50,17 @@
 
 **📍 Location:** Tillo's Garden
 
-**🎬 Action:** Tillo shows Kiko how to plant the seed in soft soil
+**🎬 Action:** Kiko plants the seed in soft soil. Tillo watches from background, nods gently.
 
 **😊 Emotion:** Learning, Warm
 
 **📷 Camera:** Medium
 
-**🎭 Characters:** Kiko, Tillo
+**🎭 Characters:** Kiko, Tillo (silent background)
 
 **🎨 Assets:** `environment/7-tillos-garden.png`, `characters/drawings/kiko.png`, `characters/drawings/tillo.png`
 
-**💬 Dialogue:** Tillo: "This seed needs time." / Kiko: "I'll take care of it!"
+**💬 Dialogue:** (Tillo silent, just nods) / Kiko: "I'll help!"
 
 **🔊 SFX:** soft soil sounds
 
@@ -212,7 +212,7 @@
 
 **🎭 Characters:** Kiko, Mimi
 
-**🎨 Assets:** `Props/Nature/2-Flowers.png`, `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+**🎨 Assets:** `Props/Nature/2-flowers.png`, `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "We did it!" / Mimi: "Together!"
 

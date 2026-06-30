@@ -52,7 +52,7 @@ Mimi başını sallar.
 
 Kiko etrafına bakar.
 
-> **"Let's find you a soft place!"**
+> **"Let's find a spot!"**
 
 Koşmaya başlarlar.
 

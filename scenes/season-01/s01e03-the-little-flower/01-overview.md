@@ -31,12 +31,7 @@ Patience • Care • Nature
 
 ## Locations
 
-1. Kiko's Home
-2. Flower Hill
-3. Tillo's Garden
-4. Butterfly Meadow
-5. Central Square
-6. Opa's Tree
+1. Tillo's Garden (`environment/7-tillos-garden.png`)
 
 ---
 
@@ -50,7 +45,7 @@ Patience • Care • Nature
 
 ## Story Summary
 
-Kiko finds a tiny seed on Flower Hill. She takes it to Tillo's Garden and plants it. She waters it every day. Mimi joins her. They wait together. A small sprout appears. They water it more. A beautiful flower blooms. Opa congratulates them.
+Kiko finds a tiny seed in Tillo's Garden. She plants it in soft soil. She waters it and waits. Mimi joins her. They wait together. A small sprout appears. They water it more. A beautiful flower blooms. Opa congratulates them.
 
 ---
 

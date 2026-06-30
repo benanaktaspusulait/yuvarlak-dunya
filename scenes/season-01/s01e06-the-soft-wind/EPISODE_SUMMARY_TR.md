@@ -56,7 +56,7 @@ Gülümser.
 
 Koşar.
 
-> **"Blow, blow, blow!"**
+> **"Soft wind!"**
 
 ---
 
@@ -144,7 +144,7 @@ Yükselir.
 
 Uzağa gider.
 
-> **"Fly, little seeds!"**
+> **"Fly, seeds!"**
 
 ---
 
@@ -174,7 +174,7 @@ Yumuşak.
 
 Beyaz.
 
-> **"The clouds are moving too!"**
+> **"Clouds move too!"**
 
 ---
 

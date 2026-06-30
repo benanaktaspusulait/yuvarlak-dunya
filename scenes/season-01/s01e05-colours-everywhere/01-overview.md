@@ -30,12 +30,7 @@ Observation • Colour names • Beauty
 
 ## Locations
 
-1. Kiko's Home
-2. Flower Hill
-3. Butterfly Meadow
-4. Rosie's Rose Garden
-5. Central Square
-6. Opa's Tree
+1. Friendship Meadow (`environment/16-friendship-meadow.png`)
 
 ---
 
@@ -63,4 +58,4 @@ Kiko learns that colours are everywhere and they are beautiful.
 
 ## Repeated Phrase
 
-"What colour is this?"
+"Red flower!", "Blue sky!", "Yellow sun!"

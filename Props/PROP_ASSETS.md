@@ -501,3 +501,297 @@ A round pumpkin, pastel orange #FF7043, round shape, soft rounded ridges, small 
 | 24 | Flower Clip | Pastel Pink | #F48FB1 |
 | 25 | Snowflake | White | #FFFFFF |
 | 26 | Pumpkin | Pastel Orange | #FF7043 |
+
+---
+
+# GENERATED FILE MAP
+
+Bu tablo production sahnelerinde kullanılacak kesin dosya yollarını kilitler.
+
+| # | Asset | File |
+|---|---|---|
+| 01 | Yellow Ball | `Props/Toys/1-yellow-ball.png` |
+| 02 | Round Block — Red | `Props/Toys/2-round-block-red.png` |
+| 03 | Round Block — Blue | `Props/Toys/3-round-block-blue.png` |
+| 04 | Round Block — Green | `Props/Toys/4-round-block-green.png` |
+| 05 | Butterfly — Pink | `Props/Nature/5-butterfly-pink.png` |
+| 06 | Butterfly — Purple | `Props/Nature/6-butterfly-purple.png` |
+| 07 | Butterfly — Yellow | `Props/Nature/7-butterfly-yellow.png` |
+| 05-07 | Butterfly Set — Scene Ready | `Props/Nature/1-butterflies-set.png` |
+| 08 | Round Flower — Red | `Props/Nature/8-round-flower-red.png` |
+| 09 | Round Flower — Yellow | `Props/Nature/9-round-flower-yellow.png` |
+| 10 | Round Flower — Pink | `Props/Nature/10-round-flower-pink.png` |
+| 08-10 | Flower Set — Scene Ready | `Props/Nature/2-flowers-set.png` |
+| 11 | Pompom Tree | `Props/Nature/11-pompom-tree.png` |
+| 12 | Stepping Stone | `Props/Nature/12-stepping-stone.png` |
+| 13 | Cloud | `Props/Nature/13-cloud.png` |
+| 14 | Sun | `Props/Nature/14-sun.png` |
+| 15 | Round Table | `Props/Furniture/15-round-table.png` |
+| 16 | Round Chair | `Props/Furniture/16-round-chair.png` |
+| 17 | Round Bed | `Props/Furniture/17-round-bed.png` |
+| 18 | Berry | `Props/Food/18-berry.png` |
+| 19 | Apple | `Props/Food/19-apple.png` |
+| 20 | Carrot | `Props/Food/20-carrot.png` |
+| 21 | Watering Can | `Props/Tools/21-watering-can.png` |
+| 22 | Magnifying Glass | `Props/Tools/22-magnifying-glass.png` |
+| 23 | Bow — Yellow | `Props/Decorations/23-bow-yellow.png` |
+| 24 | Flower Clip — Pink | `Props/Decorations/24-flower-clip-pink.png` |
+| 25 | Snowflake | `Props/Seasonal/25-snowflake.png` |
+| 26 | Pumpkin | `Props/Seasonal/26-pumpkin.png` |
+
+---
+
+# SCENE-SPECIFIC ASSETS
+
+Bu assetler sezon sahnelerinde doğrudan ihtiyaç olarak çıktı; genel katalogdan ayrı tutulur.
+
+| Episode | Asset | File | Use |
+|---|---|---|---|
+| S01E02 | Yellow Ball Contact Poses | `Props/SceneSpecific/S01E02/yellow-ball-contact-poses.png` | Bounce/sekme poz referansı |
+| S01E03 | Seed | `Props/SceneSpecific/S01E03/seed.png` | Tohum bulma ve dikme |
+| S01E03 | Sprout | `Props/SceneSpecific/S01E03/sprout.png` | Çiçek büyüme ara hali |
+| S01E03 | Hero Flower | `Props/SceneSpecific/S01E03/hero-flower.png` | Final bloom close-up |
+| S01E04 | Sunny Spot | `Props/SceneSpecific/S01E04/sunny-spot.png` | Mimi dinlenme noktası |
+| S01E06 | Soft Wind Leaves | `Props/SceneSpecific/S01E06/soft-wind-leaves.png` | Rüzgar hareket referansı |
+| S01E01 | Round Bush | `Props/Nature/round-bush.png` | Mimi intro çalısı |
+
+---
+
+# NEW ENVIRONMENT PLATES
+
+| Environment | File | Use |
+|---|---|---|
+| Flower Hill | `environment/25-flower-hill.png` | S01E02, S01E03, S01E04, S01E05, S01E06 içindeki eski `(background)` referansları |
+| Central Intro Stage | `environment/26-central-intro-stage.png` | S01E01 ana üçlü continuity intro revizyonu |
+| 27 | Seed | Brown | #8D6E63 |
+| 28 | Sprout | Green | #81C784 |
+| 29 | Rainbow | Multi | — |
+| 30 | Leaf | Green | #81C784 |
+| 31 | Dandelion | White | #FFFFFF |
+| 32 | Moon | Cream | #FFF9C4 |
+
+---
+
+# NEW PROPS (Episode-Specific)
+
+---
+
+## 27 Seed
+
+A tiny round seed.
+
+**Color:**
+Warm brown (#8D6E63)
+
+**Shape:**
+Perfect sphere, very small.
+
+**Prompt:**
+```text
+A tiny round seed, warm brown #8D6E63, perfect sphere, very small, soft plush toy texture, matte finish, Pixar-quality stylized 3D preschool illustration, Pompom Hills art style, centered composition, isolated object, transparent background, {style}, {lighting}, 1:1
+```
+
+---
+
+## 28 Sprout
+
+A small green sprout emerging from soil.
+
+**Color:**
+Fresh green (#81C784)
+
+**Shape:**
+Two small round leaves, thin stem.
+
+**Prompt:**
+```text
+A small green sprout emerging from soft brown soil, fresh green #81C784, two round leaves, thin stem, soft plush toy texture, Pixar-quality stylized 3D preschool illustration, Pompom Hills art style, centered composition, isolated object, transparent background, {style}, {lighting}, 1:1
+```
+
+---
+
+## 29 Rainbow
+
+A round arch rainbow.
+
+**Colors:**
+Red #EF5350, Orange #FF7043, Yellow #FFD54F, Green #81C784, Blue #64B5F6, Purple #CE93D8
+
+**Shape:**
+Perfect semicircle arch.
+
+**Prompt:**
+```text
+A round arch rainbow with soft pastel colors, red #EF5350, orange #FF7043, yellow #FFD54F, green #81C784, blue #64B5F6, purple #CE93D8, perfect semicircle shape, soft plush toy texture, matte finish, Pixar-quality stylized 3D preschool illustration, Pompom Hills art style, centered composition, isolated object, transparent background, {style}, {lighting}, 1:1
+```
+
+---
+
+## 30 Leaf
+
+A single round leaf.
+
+**Color:**
+Fresh green (#81C784)
+
+**Shape:**
+Perfectly round, small stem.
+
+**Prompt:**
+```text
+A single round leaf, fresh green #81C784, perfectly round shape, small stem, soft plush toy texture, matte finish, Pixar-quality stylized 3D preschool illustration, Pompom Hills art style, centered composition, isolated object, transparent background, {style}, {lighting}, 1:1
+```
+
+---
+
+## 31 Dandelion
+
+A round fluffy dandelion seed head.
+
+**Color:**
+White (#FFFFFF)
+
+**Shape:**
+Round, fluffy, with small seeds.
+
+**Prompt:**
+```text
+A round fluffy dandelion seed head, white #FFFFFF, round fluffy shape, small seeds visible, soft plush toy texture, matte finish, Pixar-quality stylized 3D preschool illustration, Pompom Hills art style, centered composition, isolated object, transparent background, {style}, {lighting}, 1:1
+```
+
+---
+
+## 32 Moon
+
+A round friendly moon.
+
+**Color:**
+Warm cream (#FFF9C4)
+
+**Shape:**
+Perfect circle, gentle smile.
+
+**Prompt:**
+```text
+A round friendly moon, warm cream #FFF9C4, perfect circle shape, gentle smile face, soft plush toy texture, matte finish, Pixar-quality stylized 3D preschool illustration, Pompom Hills art style, centered composition, isolated object, transparent background, {style}, {lighting}, 1:1
+```
+
+---
+
+## 33 Hero Flower
+
+A single tall round flower for close-up bloom moment.
+
+**Color:**
+Yellow center #FFD54F, pink petals #F48FB1, green stem #81C784
+
+**Shape:**
+Circular center, six rounded petals, thick safe stem.
+
+**Prompt:**
+```text
+single hero round flower prop for a preschool 3D toy world, height 42 units in Kiko=100 scale, circular yellow center #FFD54F, six rounded pink petals #F48FB1, thick safe green stem #81C784, matte toy material, no thin sharp petals, transparent background, centered orthographic front view, {style}, {camera}, {lighting}, 1:1
+```
+
+---
+
+## 34 Round Bush
+
+A fluffy round bush for Mimi's intro.
+
+**Color:**
+Pastel green #81C784 and #C8E6C9
+
+**Shape:**
+Clustered spherical leaves, wide and fluffy.
+
+**Prompt:**
+```text
+round fluffy bush prop for Pompom Hills preschool 3D world, width 85 units and height 55 units in Kiko=100 scale, clustered spherical leaves, pastel green #81C784 and #C8E6C9, no sharp branches, no realistic leaf texture, transparent background, centered orthographic front view, {style}, {camera}, {lighting}, 1:1
+```
+
+---
+
+## 35 Soft Wind Leaves
+
+A set of rounded leaves for wind motion reference.
+
+**Color:**
+Mint green #C8E6C9, warm yellow green #DCE775
+
+**Shape:**
+Rounded oval shapes, no pointed tips.
+
+**Prompt:**
+```text
+set of five rounded pastel leaves for a preschool 3D toy world, each leaf 10-14 units long in Kiko=100 scale, rounded oval shapes, mint green #C8E6C9, warm yellow green #DCE775, no pointed tips, arranged for gentle wind motion reference, transparent background, centered orthographic view, {style}, {camera}, {lighting}, 1:1
+```
+
+---
+
+## 36 Seed (Detailed)
+
+A tiny round brown seed for planting scenes.
+
+**Color:**
+Warm brown #A1887F
+
+**Shape:**
+Rounded bean shape, no sharp tip.
+
+**Prompt:**
+```text
+single tiny round brown seed prop for a preschool 3D toy world, diameter 6 units in Kiko=100 scale, matte warm brown #A1887F, rounded bean shape, no sharp tip, clean transparent background, centered orthographic front view, {style}, {camera}, {lighting}, 1:1
+```
+
+---
+
+## 37 Watering Can (Detailed)
+
+A round blue watering can for garden scenes.
+
+**Color:**
+Pastel blue #90CAF9
+
+**Shape:**
+Bulbous body, short rounded spout, thick rounded handle.
+
+**Prompt:**
+```text
+round blue watering can prop for a preschool 3D toy world, height 32 units in Kiko=100 scale, bulbous body, short rounded spout, thick rounded handle, pastel blue #90CAF9, white soft highlight, matte material roughness 0.78, no metal realism, transparent background, centered orthographic front view, {style}, {camera}, {lighting}, 1:1
+```
+
+---
+
+## 38 Sprout (Detailed)
+
+A small safe round sprout for growth scenes.
+
+**Color:**
+Pastel green #81C784, warm brown soil #A1887F
+
+**Shape:**
+Two rounded leaves, tiny mound of soft soil.
+
+**Prompt:**
+```text
+small safe round sprout prop for a preschool 3D toy world, height 18 units in Kiko=100 scale, two rounded leaves, tiny mound of soft soil, pastel green #81C784, warm brown soil #A1887F, no realistic dirt texture, transparent background, centered orthographic front view, {style}, {camera}, {lighting}, 1:1
+```
+
+---
+
+# ENVIRONMENT PLATES (Scene-Specific)
+
+---
+
+## ENV-026 Central Intro Stage
+
+A wide environment plate for S01E01 trio continuity intro.
+
+**Use:**
+S01E01 ana üçlü continuity sahneleri için tek mekan.
+
+**Prompt:**
+```text
+Pompom Hills central intro stage environment for preschool 3D animation, wide 16:9 background, round central square with curved stepping stone path, Kiko's coral round house visible far left, Mimi's round green bush mid right, Opa's big pompom tree far right, pastel hills in background, warm morning daylight, 2 round white clouds, no text, no signs, no sharp edges, stable object positions for scene continuity, {style}, {camera}, {lighting}, 16:9
+```

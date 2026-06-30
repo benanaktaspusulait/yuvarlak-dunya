@@ -9,7 +9,7 @@
 | 01 | Kiko | "What a nice day!" |
 | 02 | Mimi | "So sleepy..." |
 | 03 | Kiko | "Mimi, are you tired?" |
-| 04 | Kiko | "Let's find you a soft place!" |
+| 04 | Kiko | "Let's find a spot!" |
 | 05 | Kiko | "Too windy here!" |
 | 06 | Kiko | "Too sunny here!" |
 | 07 | Kiko | "Too loud here!" |

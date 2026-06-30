@@ -7,22 +7,23 @@
 | Scene | Character | Line |
 |---:|---|---|
 | 01 | Kiko | "What's that?" |
-| 02 | Kiko | "The flowers are dancing!" |
-| 03 | Kiko | "Blow, blow, blow!" |
+| 02 | Kiko | "The flowers dance!" |
+| 03 | Kiko | "Soft wind!" |
 | 04 | Mimi | "My ears!" |
 | 04 | Kiko | "Haha!" |
-| 05 | Both | "Catch the leaves!" |
-| 06 | Kiko | "Look at the water!" |
-| 07 | Both | "Whoosh!" |
-| 08 | Kiko | "Fly, little seeds!" |
-| 09 | Both | "That was fun." |
-| 10 | Kiko | "The clouds are moving too!" |
+| 05 | Kiko | "Catch the leaves!" |
+| 06 | Kiko | "This one!" |
+| 06 | Mimi | "Got it!" |
+| 07 | Both | "Soft wind!" |
+| 08 | Kiko | "Clouds move too!" |
+| 09 | Kiko | "That was fun." |
+| 10 | (none) | (silence) |
 | 11 | Kiko | "Goodnight, wind." |
 | 12 | Opa | "Well done!" |
-| 12 | Kiko | "Thank you, Opa!" |
+| 12 | Kiko | "Thank you!" |
 
 ---
 
 ## Repeated Phrase
 
-"Blow, blow, blow!" — appears 2 times (scenes 03, 07)
+"Soft wind!" — appears 2 times (scenes 03, 07)

@@ -30,12 +30,8 @@ Curiosity • Friendship • Sharing
 
 ## Locations
 
-1. Kiko's Home
-2. Flower Hill
-3. Mimi's Burrow
-4. Butterfly Meadow
-5. Central Square
-6. Opa's Tree
+1. Kiko's Home (`environment/3-kikos-home.png`)
+2. Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## Scene 01
 
-**📍 Location:** Kiko's Home
+**📍 Location:** Kiko's Home (`environment/3-kikos-home.png`)
 
 **🎬 Action:**
 - Kiko opens the round pink door
@@ -31,7 +31,7 @@
 
 ## Scene 02
 
-**📍 Location:** Flower Hill
+**📍 Location:** Kiko's Home (`environment/3-kikos-home.png`)
 
 **🎬 Action:**
 - Kiko walks, stops
@@ -45,9 +45,9 @@
 **🎭 Characters:** Kiko
 
 **🎨 Assets:**
-- Environment: Flower Hill (background)
-- Prop: `Props/Toys/1-yellow-ball.png`
-- Prop: `Props/Nature/2-Flowers.png`
+- Environment: `environment/3-kikos-home.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=15/Z=5, yerde)
+- Prop: `Props/Nature/2-flowers.png`
 - Character: `characters/drawings/kiko.png`
 
 **💬 Dialogue:** "What's that?"
@@ -60,26 +60,27 @@
 
 ## Scene 03
 
-**📍 Location:** Flower Hill
+**📍 Location:** Kiko's Home (`environment/3-kikos-home.png`)
 
 **🎬 Action:**
-- Kiko picks up ball with both hands
-- Examines it, turns it around
+- Kiko picks up the ball
+- Holds it gently
 - Smiles at camera
 
-**😊 Emotion:** Discovery → Happy
+**😊 Emotion:** Happy, Proud
 
-**📷 Camera:** Close-up → Medium
+**📷 Camera:** Medium close-up
 
 **🎭 Characters:** Kiko
 
 **🎨 Assets:**
-- Prop: `Props/Toys/1-yellow-ball.png`
+- Environment: `environment/3-kikos-home.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (Kiko'nun elinde)
 - Character: `characters/drawings/kiko.png`
 
 **💬 Dialogue:** "I'm Kiko."
 
-**🔊 SFX:** soft "pop" sound
+**🔊 SFX:** soft "pop" as ball is picked up
 
 **⏱ Duration:** 15 seconds
 
@@ -87,13 +88,12 @@
 
 ## Scene 04
 
-**📍 Location:** Flower Hill → Mimi's Burrow
+**📍 Location:** Kiko's Home → path to Butterfly Meadow
 
 **🎬 Action:**
-- Kiko drops ball — BOUNCES!
-- Ball rolls away
-- Kiko chases it
-- Ball stops at Mimi's burrow
+- Kiko pushes ball gently
+- Ball rolls slowly
+- Kiko chases it happily
 
 **😊 Emotion:** Excited, Playful
 
@@ -102,8 +102,7 @@
 **🎭 Characters:** Kiko
 
 **🎨 Assets:**
-- Prop: `Props/Toys/1-yellow-ball.png`
-- Environment: `environment/5-mimis-burrow.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=10→20, yuvarlanıyor)
 - Character: `characters/drawings/kiko.png`
 
 **💬 Dialogue:** "Let's look together!"
@@ -116,13 +115,13 @@
 
 ## Scene 05
 
-**📍 Location:** Mimi's Burrow
+**📍 Location:** Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 **🎬 Action:**
-- Ears appear from burrow
+- Ball rolls into meadow
+- Ears appear from bush
 - Mimi hops out
-- Looks at ball
-- Looks at camera
+- Looks at ball, then at Kiko
 
 **😊 Emotion:** Surprised, Friendly
 
@@ -131,8 +130,8 @@
 **🎭 Characters:** Kiko, Mimi
 
 **🎨 Assets:**
-- Environment: `environment/5-mimis-burrow.png`
-- Prop: `Props/Toys/1-yellow-ball.png`
+- Environment: `environment/17-butterfly-meadow.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=10/Z=0, yerde)
 - Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
 
 **💬 Dialogue:** Mimi: "Let's see!" / Kiko: "This is my ball!"
@@ -145,27 +144,27 @@
 
 ## Scene 06
 
-**📍 Location:** Mimi's Burrow → Butterfly Meadow
+**📍 Location:** Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 **🎬 Action:**
-- Kiko pushes ball, runs
-- Mimi hops after
-- Ball rolls ahead
-- Butterfly Meadow appears
+- Kiko shows ball to Mimi
+- Mimi hops closer
+- They look at each other, smile
 
-**😊 Emotion:** Excited, Happy
+**😊 Emotion:** Friendly, Warm
 
-**📷 Camera:** Medium → Wide
+**📷 Camera:** Medium
 
 **🎭 Characters:** Kiko, Mimi
 
 **🎨 Assets:**
-- Prop: `Props/Toys/1-yellow-ball.png`
+- Environment: `environment/17-butterfly-meadow.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=5/Z=0, yerde)
 - Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
 
-**💬 Dialogue:** Kiko: "Come on, Mimi!" / Mimi: "Hop hop!"
+**💬 Dialogue:** Kiko: "Come on!" / Mimi: "Hop hop!"
 
-**🔊 SFX:** running, ball "boop", hop sounds
+**🔊 SFX:** hop sounds, birds
 
 **⏱ Duration:** 15 seconds
 
@@ -173,7 +172,7 @@
 
 ## Scene 07
 
-**📍 Location:** Butterfly Meadow
+**📍 Location:** Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 **🎬 Action:**
 - They stop, look around
@@ -188,7 +187,8 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Props: `Props/Nature/1-Butterflies.png`, `Props/Nature/2-Flowers.png`
+- Props: `Props/Nature/1-butterflies.png`, `Props/Nature/2-flowers.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=5/Z=0, yerde)
 - Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "Look!" / Mimi: "So pretty!"
@@ -201,7 +201,7 @@
 
 ## Scene 08
 
-**📍 Location:** Butterfly Meadow
+**📍 Location:** Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 **🎬 Action:**
 - Kiko bounces ball
@@ -215,8 +215,9 @@
 **🎭 Characters:** Kiko, Mimi
 
 **🎨 Assets:**
-- Prop: `Props/Toys/1-yellow-ball.png`
-- Prop: `Props/Nature/1-Butterflies.png`
+- Environment: `environment/17-butterfly-meadow.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=5→10, zıplıyor)
+- Prop: `Props/Nature/1-butterflies.png`
 - Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
 
 **💬 Dialogue:** Mimi: "My turn!" / Kiko: "Together!"
@@ -229,26 +230,27 @@
 
 ## Scene 09
 
-**📍 Location:** Butterfly Meadow
+**📍 Location:** Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 **🎬 Action:**
-- Ball bounces too high
-- Rolls away quickly
-- Kiko and Mimi are surprised
+- Ball bounces high
+- Rolls to the right, still visible
+- Kiko and Mimi watch it
 
-**😊 Emotion:** Surprised, Slight concern
+**😊 Emotion:** Surprised, Curious
 
 **📷 Camera:** Medium → Wide
 
 **🎭 Characters:** Kiko, Mimi
 
 **🎨 Assets:**
-- Prop: `Props/Toys/1-yellow-ball.png`
+- Environment: `environment/17-butterfly-meadow.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=15→25, yuvarlanıyor, kadrajda)
 - Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
 
-**💬 Dialogue:** Kiko: "Oh no!" / Mimi: "Where is it going?"
+**💬 Dialogue:** Kiko: "Oh no!" / Mimi: "Where?"
 
-**🔊 SFX:** loud "BOOP", fast rolling
+**🔊 SFX:** ball "boop", soft rolling
 
 **⏱ Duration:** 15 seconds
 
@@ -256,12 +258,12 @@
 
 ## Scene 10
 
-**📍 Location:** Butterfly Meadow → Central Square
+**📍 Location:** Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 **🎬 Action:**
 - They chase the ball
 - Running and hopping
-- Central Square appears
+- Ball slows down ahead
 
 **😊 Emotion:** Determined, Hopeful
 
@@ -270,8 +272,8 @@
 **🎭 Characters:** Kiko, Mimi
 
 **🎨 Assets:**
-- Prop: `Props/Toys/1-yellow-ball.png`
-- Environment: `environment/1-central-square.png`
+- Environment: `environment/17-butterfly-meadow.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=25→30, yavaşlıyor)
 - Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "This way!" / Mimi: "Hop hop!"
@@ -284,11 +286,10 @@
 
 ## Scene 11
 
-**📍 Location:** Central Square
+**📍 Location:** Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 **🎬 Action:**
 - Ball slows down, stops
-- Under the Big Pompom Tree
 - Kiko and Mimi arrive
 - Look at each other, smile
 
@@ -299,13 +300,13 @@
 **🎭 Characters:** Kiko, Mimi
 
 **🎨 Assets:**
-- Environment: `environment/1-central-square.png`
-- Prop: `Props/Toys/1-yellow-ball.png`
+- Environment: `environment/17-butterfly-meadow.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=30/Z=0, yerde, durmuş)
 - Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "We found it!" / Mimi: "Together!"
 
-**🔊 SFX:** last "boop", silence, then footsteps
+**🔊 SFX:** soft "pop", birds
 
 **⏱ Duration:** 15 seconds
 
@@ -313,26 +314,27 @@
 
 ## Scene 12
 
-**📍 Location:** Opa's Tree
+**📍 Location:** Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 **🎬 Action:**
-- Opa sits on branch, watches
-- Kiko and Mimi look up
-- Opa smiles, says "Well done!"
+- Kiko and Mimi sit together
+- Ball between them
+- Opa watches from tree in background
+- Opa says "Well done!"
 
-**😊 Emotion:** Warm, Proud, Safe
+**😊 Emotion:** Warm, Complete
 
 **📷 Camera:** Medium → Wide
 
-**🎭 Characters:** Kiko, Mimi, Opa
+**🎭 Characters:** Kiko, Mimi, Opa (background)
 
 **🎨 Assets:**
-- Environment: `environment/6-opas-tree.png`
-- Prop: `Props/Toys/1-yellow-ball.png`
+- Environment: `environment/17-butterfly-meadow.png`
+- Prop: `Props/Toys/1-yellow-ball.png` (X=15/Z=0, ikisinin arasında)
 - Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`, `characters/drawings/opa.png`
 
-**💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you, Opa!" / Mimi: "Let's look together!"
+**💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you!"
 
-**🔊 SFX:** soft wing "whoosh"
+**🔊 SFX:** soft wing flap, birds
 
 **⏱ Duration:** 15 seconds

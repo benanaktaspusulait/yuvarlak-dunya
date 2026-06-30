@@ -60,7 +60,7 @@ Yavaşça.
 
 Dikkatle.
 
-> **"I'll take care of it!"**
+> **"I'll help!"**
 
 ---
 

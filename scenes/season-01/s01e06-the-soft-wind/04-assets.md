@@ -16,8 +16,9 @@
 
 | Prop | File | Scenes |
 |---|---|---|
-| 🌸 Flowers | `Props/Nature/2-Flowers.png` | 02, 08 |
-| 🦋 Butterflies | `Props/Nature/1-Butterflies.png` | 05 |
+| 🌸 Flowers | `Props/Nature/2-flowers.png` | 02, 08 |
+| 🦋 Butterflies | `Props/Nature/1-butterflies.png` | 05 |
+| 🍃 Leaves | (new prop needed) | 03, 06 |
 
 ---
 
@@ -25,9 +26,12 @@
 
 | Environment | File | Scenes |
 |---|---|---|
-| Kiko's Home | `environment/3-kikos-home.png` | 01 |
-| Flower Hill | (background) | 02-03, 08-10 |
-| Butterfly Meadow | `environment/17-butterfly-meadow.png` | 05, 07 |
-| Rainbow Creek | `environment/19-rainbow-creek.png` | 06 |
-| Central Square | `environment/1-central-square.png` | 11 |
-| Opa's Tree | `environment/6-opas-tree.png` | 12 |
+| Little Forest | `environment/18-little-forest.png` | 01-12 (all) |
+
+---
+
+## New Props Needed
+
+| Prop | Description | Priority |
+|---|---|---|
+| Leaves | Set of rounded pastel leaves | High |

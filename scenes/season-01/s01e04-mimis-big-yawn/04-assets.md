@@ -12,12 +12,24 @@
 
 ---
 
+## Props Used
+
+| Prop | File | Scenes |
+|---|---|---|
+| ☀️ Sunny Spot | (prop/area definition) | 09-11 |
+
+---
+
 ## Environments Used
 
 | Environment | File | Scenes |
 |---|---|---|
-| Flower Hill | (background) | 01-04 |
-| Cloud Hill | `environment/2-cloud-hill.png` | 05 |
-| Sun Hill | `environment/4-sun-hill.png` | 06 |
-| Central Square | `environment/1-central-square.png` | 07 |
-| Opa's Tree | `environment/6-opas-tree.png` | 08-12 |
+| Mimi's Burrow | `environment/5-mimis-burrow.png` | 01-12 (all) |
+
+---
+
+## New Props Needed
+
+| Prop | Description | Priority |
+|---|---|---|
+| Sunny Spot | Round light patch, warm glow | Medium |

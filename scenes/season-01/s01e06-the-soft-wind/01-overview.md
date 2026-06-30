@@ -30,12 +30,7 @@ Senses • Nature • Joy
 
 ## Locations
 
-1. Kiko's Home
-2. Flower Hill
-3. Butterfly Meadow
-4. Rainbow Creek
-5. Central Square
-6. Opa's Tree
+1. Little Forest (`environment/18-little-forest.png`)
 
 ---
 
@@ -61,4 +56,4 @@ Kiko learns that nature's gentle movements are beautiful and fun.
 
 ## Repeated Phrase
 
-"Blow, blow, blow!"
+"Soft wind!"

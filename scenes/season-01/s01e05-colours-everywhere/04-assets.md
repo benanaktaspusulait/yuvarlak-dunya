@@ -16,8 +16,8 @@
 
 | Prop | File | Scenes |
 |---|---|---|
-| 🌸 Flowers | `Props/Nature/2-Flowers.png` | 02, 06, 08, 09 |
-| 🦋 Butterflies | `Props/Nature/1-Butterflies.png` | 07 |
+| 🌸 Flowers | `Props/Nature/2-flowers.png` | 02, 06, 08, 09 |
+| 🦋 Butterflies | `Props/Nature/1-butterflies.png` | 07 |
 
 ---
 
@@ -25,9 +25,4 @@
 
 | Environment | File | Scenes |
 |---|---|---|
-| Kiko's Home | `environment/3-kikos-home.png` | 01 |
-| Flower Hill | (background) | 02-05 |
-| Rosie's Rose Garden | `environment/13-Rosie's Rose Garden.png` | 06 |
-| Butterfly Meadow | `environment/17-butterfly-meadow.png` | 07-08 |
-| Central Square | `environment/1-central-square.png` | 09-11 |
-| Opa's Tree | `environment/6-opas-tree.png` | 12 |
+| Friendship Meadow | `environment/16-friendship-meadow.png` | 01-12 (all) |

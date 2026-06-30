@@ -4,11 +4,11 @@
 
 ## Scene 01
 
-**📍 Location:** Kiko's Home
+**📍 Location:** Little Forest (`environment/18-little-forest.png`)
 
-**🎬 Action:** Kiko opens door, wind blows her hair gently
+**🎬 Action:** Kiko walks into the forest, feels a gentle breeze
 
-**😊 Emotion:** Happy
+**😊 Emotion:** Curious, Calm
 
 **💬 Dialogue:** "What's that?"
 
@@ -18,13 +18,13 @@
 
 ## Scene 02
 
-**📍 Location:** Flower Hill
+**📍 Location:** Little Forest
 
-**🎬 Action:** Wind blows flowers, they sway side to side
+**🎬 Action:** Flowers sway gently in the wind. Leaves rustle.
 
-**😊 Emotion:** Curious
+**😊 Emotion:** Wonder
 
-**💬 Dialogue:** "The flowers are dancing!"
+**💬 Dialogue:** "The flowers dance!"
 
 **⏱ Duration:** 15 seconds
 
@@ -32,13 +32,13 @@
 
 ## Scene 03
 
-**📍 Location:** Flower Hill
+**📍 Location:** Little Forest
 
 **🎬 Action:** Wind blows Kiko's pigtails, she laughs
 
 **😊 Emotion:** Playful
 
-**💬 Dialogue:** "Blow, blow, blow!"
+**💬 Dialogue:** "Soft wind!"
 
 **⏱ Duration:** 15 seconds
 
@@ -46,9 +46,9 @@
 
 ## Scene 04
 
-**📍 Location:** Flower Hill
+**📍 Location:** Little Forest
 
-**🎬 Action:** Mimi hops in, his ears flap in the wind
+**🎬 Action:** Mimi hops in, his ears flap in the wind (max 18 degrees)
 
 **😊 Emotion:** Funny
 
@@ -60,11 +60,11 @@
 
 ## Scene 05
 
-**📍 Location:** Butterfly Meadow
+**📍 Location:** Little Forest
 
-**🎬 Action:** They chase leaves blowing in the wind
+**🎬 Action:** Butterflies fly with the wind. Kiko watches.
 
-**😊 Emotion:** Joyful
+**😊 Emotion:** Delight
 
 **💬 Dialogue:** "Catch the leaves!"
 
@@ -74,13 +74,13 @@
 
 ## Scene 06
 
-**📍 Location:** Rainbow Creek
+**📍 Location:** Little Forest
 
-**🎬 Action:** Wind blows over the creek, ripples appear
+**🎬 Action:** Leaves blow across the screen. Kiko and Mimi try to catch them.
 
-**😊 Emotion:** Wonder
+**😊 Emotion:** Playful
 
-**💬 Dialogue:** "Look at the water!"
+**💬 Dialogue:** Kiko: "This one!" / Mimi: "Got it!"
 
 **⏱ Duration:** 15 seconds
 
@@ -88,13 +88,13 @@
 
 ## Scene 07
 
-**📍 Location:** Butterfly Meadow
+**📍 Location:** Little Forest
 
-**🎬 Action:** They blow air, make wind sounds
+**🎬 Action:** They sit together, feeling the wind. Leaves settle around them.
 
-**😊 Emotion:** Fun
+**😊 Emotion:** Peaceful
 
-**💬 Dialogue:** "Whoosh!"
+**💬 Dialogue:** "Soft wind!"
 
 **⏱ Duration:** 15 seconds
 
@@ -102,13 +102,13 @@
 
 ## Scene 08
 
-**📍 Location:** Flower Hill
+**📍 Location:** Little Forest
 
-**🎬 Action:** They blow dandelion seeds into the air
+**🎬 Action:** Clouds drift slowly across the sky. Kiko points up.
 
-**😊 Emotion:** Creative
+**😊 Emotion:** Wonder
 
-**💬 Dialogue:** "Fly, little seeds!"
+**💬 Dialogue:** Kiko: "Clouds move too!"
 
 **⏱ Duration:** 15 seconds
 
@@ -116,11 +116,11 @@
 
 ## Scene 09
 
-**📍 Location:** Flower Hill
+**📍 Location:** Little Forest
 
-**🎬 Action:** Wind calms, they sit and rest
+**🎬 Action:** They watch the leaves settle on the ground. Peaceful moment.
 
-**😊 Emotion:** Peaceful
+**😊 Emotion:** Calm
 
 **💬 Dialogue:** "That was fun."
 
@@ -130,13 +130,13 @@
 
 ## Scene 10
 
-**📍 Location:** Flower Hill
+**📍 Location:** Little Forest
 
-**🎬 Action:** Clouds drift slowly across the sky
+**🎬 Action:** Wind slows down. Everything becomes still. Soft silence.
 
-**😊 Emotion:** Happy
+**😊 Emotion:** Serene
 
-**💬 Dialogue:** "The clouds are moving too!"
+**💬 Dialogue:** (none — just soft wind sound fading)
 
 **⏱ Duration:** 15 seconds
 
@@ -144,11 +144,11 @@
 
 ## Scene 11
 
-**📍 Location:** Central Square
+**📍 Location:** Little Forest
 
-**🎬 Action:** Evening wind, golden light, everything sways gently
+**🎬 Action:** Kiko and Mimi sit peacefully. Leaves at their feet.
 
-**😊 Emotion:** Warm
+**😊 Emotion:** Content
 
 **💬 Dialogue:** "Goodnight, wind."
 
@@ -158,12 +158,12 @@
 
 ## Scene 12
 
-**📍 Location:** Opa's Tree
+**📍 Location:** Little Forest
 
-**🎬 Action:** Opa says "Well done!"
+**🎬 Action:** Opa watches from a tree branch. Gentle nod.
 
-**😊 Emotion:** Proud
+**😊 Emotion:** Warm
 
-**💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you, Opa!"
+**💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you!"
 
 **⏱ Duration:** 15 seconds

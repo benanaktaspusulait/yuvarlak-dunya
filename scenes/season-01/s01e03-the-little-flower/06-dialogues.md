@@ -9,7 +9,7 @@
 | 01 | Kiko | "Good morning!" |
 | 02 | Kiko | "What's that?" |
 | 03 | Tillo | "This seed needs time." |
-| 03 | Kiko | "I'll take care of it!" |
+| 03 | Kiko | "I'll help!" |
 | 04 | Kiko | "Water, wait, and smile!" |
 | 05 | Kiko | "Any second now..." |
 | 06 | Mimi | "Can I wait too?" |

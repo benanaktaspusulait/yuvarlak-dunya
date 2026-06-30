@@ -30,12 +30,7 @@ Empathy • Comfort • Friendship
 
 ## Locations
 
-1. Kiko's Home
-2. Flower Hill
-3. Butterfly Meadow
-4. Rainbow Creek
-5. Central Square
-6. Opa's Tree
+1. Mimi's Burrow (`environment/5-mimis-burrow.png`)
 
 ---
 

@@ -10,8 +10,39 @@
 | Konu | Kiko sarı top keşfeder, Mimi'yle paylaşır |
 | Tema | Keşif + paylaşmak güzel |
 | Tekrar cümle | "Let's look together!" |
-| Hedef yaş | 3-4 |
+| Hedef yaş | 1.5+ |
 | Ana duygu | Keşif + neşe |
+| Lokasyon | Kiko's Home → Butterfly Meadow (2 lokasyon) |
+
+---
+
+## Lokasyon Akışı
+
+| Lokasyon | Dosya | Sahne |
+|---|---|---|
+| Kiko's Home | `environment/3-kikos-home.png` | 01-04 |
+| Butterfly Meadow | `environment/17-butterfly-meadow.png` | 05-12 |
+
+---
+
+## Sarı Top Takibi
+
+Her sahnedeki top konumu ve durumu:
+
+| Sahne | Top Konumu | Durum |
+|---|---|---|
+| 01 | Yok | Kiko henüz bulmadı |
+| 02 | X=15/Z=5 | Yerde, sabit |
+| 03 | Kiko'nun elinde | Tutuyor |
+| 04 | X=10→20 | Yuvarlanıyor |
+| 05 | X=10/Z=0 | Yerde, Mimi'nin yanında |
+| 06 | X=5/Z=0 | Yerde, ikisinin arasında |
+| 07 | X=5/Z=0 | Yerde, kelebekler etrafında |
+| 08 | X=5→10 | Zıplıyor |
+| 09 | X=15→25 | Yuvarlanıyor, kadrajda |
+| 10 | X=25→30 | Yavaşlıyor |
+| 11 | X=30/Z=0 | Yerde, durmuş |
+| 12 | X=15/Z=0 | İkisinin arasında |
 
 ---
 
@@ -21,91 +52,73 @@
 
 ### Sahne 01 — Kiko Kapıyı Açar (0-15 sn)
 
-**Mekan:** Kiko's Home, Flower Hill
+**Mekan:** Kiko's Home
 
-Kiko'nun yuvarlak pembe evinin kapısı açılır. İçeriden görünür. Dışarı adım atar, güneşe bakar, gözlerini kısar. Gülümser ve yürümeye başlar. Arka planda pembe ev, beyaz kapı, yuvarlak çiçekler görünür.
+Kiko'nun yuvarlak pembe evinin kapısı açılır. Dışarı adım atar, güneşe bakar. Gülümser ve yürümeye başlar.
 
 **Diyalog:** "Good morning!"
 
-**Hisse:** Sıcak bir sabah, yeni bir gün başlıyor.
-
-**Kamera:** Wide shot → Kiko sağa yürür.
+**Kamera:** Wide shot
 
 ---
 
 ### Sahne 02 — Kiko Topu Görür (15-30 sn)
 
-**Mekan:** Flower Hill
+**Mekan:** Kiko's Home
 
-Kiko çimenlikte yürür, aniden durur. Yerde yuvarlak sarı bir top görür. Başını eğer, inceler. Eğilir, tam dokunacak.
+Kiko çimenlikte yürür, aniden durur. Yerde yuvarlak sarı bir top görür. Başını eğer, inceler.
 
 **Diyalog:** "What's that?"
 
-**Hisse:** Merak, keşfetme isteği.
-
-**Kamera:** Wide → Close-up, topa eğilir.
-
-**Asset:** `Props/Toys/1-yellow-ball.png`, `Props/Nature/2-Flowers.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=15/Z=5, yerde)
 
 ---
 
-### Sahne 03 — Kiko Topu Alır (30-45 sn)
+### Sahne 03 — Kiko Topu Tutar (30-45 sn)
 
-**Mekan:** Flower Hill
+**Mekan:** Kiko's Home
 
-Kiko topu iki mitten eliyle alır. Çevirir, inceler. Yüzünde meraklı bir ifade varken aniden gülümser. İzleyiciye döner.
+Kiko topu nazikçe alır. İki eliyle tutar, kameraya gülümser.
 
 **Diyalog:** "I'm Kiko."
 
-**Hisse:** Keşif → mutluluk dönüşümü.
-
-**Kamera:** Close-up → Medium, Kiko merkezde.
-
-**Asset:** `Props/Toys/1-yellow-ball.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (Kiko'nun elinde)
 
 ---
 
-### Sahne 04 — Top Yuvarlanır (45-60 sn)
+### Sahne 04 — Kiko Topu Yuvarlar (45-60 sn)
 
-**Mekan:** Flower Hill → Mimi's Burrow
+**Mekan:** Kiko's Home → Butterfly Meadow yolu
 
-Kiko topu yere bırakır — SEKTİR! Top yere değer, seker. Kiko şaşırır, sonra gülümser. Tekrar sektirir. Top bu sefer çok seker ve yuvarlanmaya başlar. Kiko kovalar. Top Mimi'nin mavi evinin yanına gelir ve durur.
+Kiko topu hafifçe iterek yuvarlar. Top yavaşça ilerler. Kiko peşinden koşar.
 
 **Diyalog:** "Let's look together!"
 
-**Hisse:** Heyecan, hareket, macera başlıyor.
-
-**Kamera:** Medium → Wide, Mimi's Burrow görünür.
-
-**Asset:** `Props/Toys/1-yellow-ball.png`, `environment/5-mimis-burrow.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=10→20, yuvarlanıyor)
 
 ---
 
 ### Sahne 05 — Mimi Çıkar (60-75 sn)
 
-**Mekan:** Mimi's Burrow
+**Mekan:** Butterfly Meadow
 
-Mavi yuvarlak girişin içinden kulaklar görünür — önce sol, sonra sağ. Kulaklar sallanır. Aniden Mimi fırlar! Küçük bir hop. Topa bakar, sonra Kiko'ya. Kameraya döner.
+Top meydana yuvarlanır. Bir çalının arkasından kulaklar görünür. Mimi küçük bir hop ile çıkar. Topa, sonra Kiko'ya bakar.
 
 **Diyalog:** Mimi: "Let's see!" / Kiko: "This is my ball!"
 
-**Hisse:** Sürpriz giriş, sıcak tanışma.
-
-**Kamera:** Wide → Medium close-up, Mimi merkezde.
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=10/Z=0, yerde)
 
 ---
 
-### Sahne 06 — Koşarak Meadow'a (75-90 sn)
+### Sahne 06 — Tanışma (75-90 sn)
 
-**Mekan:** Mimi's Burrow → Butterfly Meadow
+**Mekan:** Butterfly Meadow
 
-Kiko topu iter, koşar. Mimi arkasından hop hop kovalar. Top yuvarlanır, ikisi de peşinden gider. Yol boyunca yuvarlak taşlar görünür. Sağ tarafta Butterfly Meadow belirir.
+Kiko topu Mimi'ye gösterir. Mimi yaklaşır. Birbirlerine bakar, gülümserler.
 
-**Diyalog:** Kiko: "Come on, Mimi!" / Mimi: "Hop hop!"
+**Diyalog:** Kiko: "Come on!" / Mimi: "Hop hop!"
 
-**Hisse:** Birlikte hareket, neşeli koşu.
-
-**Kamera:** Medium → Wide, Butterfly Meadow görünür.
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=5/Z=0, yerde)
 
 ---
 
@@ -113,195 +126,80 @@ Kiko topu iter, koşar. Mimi arkasından hop hop kovalar. Top yuvarlanır, ikisi
 
 **Mekan:** Butterfly Meadow
 
-Butterfly Meadow'a varırlar. Dururlar, etraflarına bakarlar. Havada yuvarlak pastel kelebekler uçmaya başlar. Renkli çiçekler etraflarını sarar. Mimi'nin burnuna bir kelebek konar. Mimi şaşırır, sonra gülümser.
+Dururlar, etrafa bakarlar. Pastel kelebekler süzülür. Biri Mimi'nin burnuna konar.
 
 **Diyalog:** Kiko: "Look!" / Mimi: "So pretty!"
 
-**Hisse:** Büyülü an, doğanın güzelliği.
-
-**Kamera:** Wide → Close-up, kelebek burnunda.
-
-**Asset:** `Props/Nature/1-Butterflies.png`, `Props/Nature/2-Flowers.png`, `environment/17-butterfly-meadow.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=5/Z=0, yerde), `Props/Nature/1-butterflies.png`
 
 ---
 
-### Sahne 08 — Birlikte Sektirirler (105-120 sn)
+### Sahne 08 — Birlikte Zıplama (105-120 sn)
 
 **Mekan:** Butterfly Meadow
 
-Kiko topu sektirir — boop! Mimi de sekmeye çalışır — boop! İkisi birlikte senkronize sektirir. Top havada zıplar, yere değer, tekrar yükselir. Kelebekler arka planda uçar.
+Kiko topu zıplatır. Mimi de denemek ister. Birlikte zıplarlar.
 
 **Diyalog:** Mimi: "My turn!" / Kiko: "Together!"
 
-**Hisse:** Birlikte oynamanın neşesi.
-
-**Kamera:** Medium → Wide, ikisi birlikte.
-
-**Asset:** `Props/Toys/1-yellow-ball.png`, `Props/Nature/1-Butterflies.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=5→10, zıplıyor)
 
 ---
 
-### Sahne 09 — Top Kaçar (120-135 sn)
+### Sahne 09 — Top Yuvarlanır (120-135 sn)
 
 **Mekan:** Butterfly Meadow
 
-Kiko topu çok yüksek sektirir — BOOP! Top havada döner, yere değer ve hızlıca sağa yuvarlanmaya başlar. Kiko ve Mimi şaşırır. Gözleri açılır. Top hızla uzaklaşır.
+Top yüksekçe zıplar ve sağa doğru yuvarlanmaya başlar. Kiko ve Mimi ona bakar. Top kadrajda kalır.
 
-**Diyalog:** Kiko: "Oh no!" / Mimi: "Where is it going?"
+**Diyalog:** Kiko: "Oh no!" / Mimi: "Where?"
 
-**Hisse:** Şaşkınlık, hafif heyecan (korku değil).
-
-**Kamera:** Medium → Wide, top sağa yuvarlanır.
-
-**Asset:** `Props/Toys/1-yellow-ball.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=15→25, yuvarlanıyor, kadrajda)
 
 ---
 
-### Sahne 10 — Top Meydana Gider (135-150 sn)
+### Sahne 10 — Kovalamaca (135-150 sn)
 
-**Mekan:** Butterfly Meadow → Central Square
+**Mekan:** Butterfly Meadow
 
-Kiko ve Mimi topu kovalar. Koşarlar, hoplarlar. Arka planda Central Square'ın büyük ponpon ağacı görünür. Top meydana yuvarlanır.
+Kiko ve Mimi peşinden koşarlar. Top önünde yavaşça yuvarlanır.
 
 **Diyalog:** Kiko: "This way!" / Mimi: "Hop hop!"
 
-**Hisse:** Amaçlı hareket, hedefe ulaşma.
-
-**Kamera:** Wide → Wide, Central Square görünür.
-
-**Asset:** `Props/Toys/1-yellow-ball.png`, `environment/1-central-square.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=25→30, yavaşlıyor)
 
 ---
 
-### Sahne 11 — Top Durur (150-165 sn)
+### Sahne 11 — Buluşma (150-165 sn)
 
-**Mekan:** Central Square
+**Mekan:** Butterfly Meadow
 
-Top yuvarlanmayı yavaşlatır ve ponpon ağacının altında durur. Son "boop" sesi. Kiko ve Mimi gelir, topa bakar. Birbirlerine döner, gülümserler. "Bulduk!" der gibi.
+Top yavaşça durur. Kiko ve Mimi varırlar. Birbirlerine bakar, gülümserler.
 
 **Diyalog:** Kiko: "We found it!" / Mimi: "Together!"
 
-**Hisse:** Rahatlama, başarı, mutluluk.
-
-**Kamera:** Wide → Medium close-up, ikisi merkezde.
-
-**Asset:** `Props/Toys/1-yellow-ball.png`, `environment/1-central-square.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=30/Z=0, yerde)
 
 ---
 
-### Sahne 12 — Opa İzler (165-180 sn)
+### Sahne 12 — Opa'nın Selamı (165-180 sn)
 
-**Mekan:** Opa's Tree, Central Square
+**Mekan:** Butterfly Meadow
 
-Kiko ve Mimi yukarı bakar. Opa büyük ponpon ağacının dalında oturuyor. Gözlüklerinde güneş parıltısı. Başını hafifçe eğer, gülümser. Kanatlarıyla selam verir.
+Kiko ve Mimi birlikte oturur. Top ikisinin arasında. Opa arka planda ağaçta "Well done!" der.
 
-**Diyalog:** Opa: "Well done!" / Kiko: "Thank you, Opa!" / Mimi: "Let's look together!"
+**Diyalog:** Opa: "Well done!" / Kiko: "Thank you!"
 
-**Hisse:** Sıcak kapanış, gurur, güven.
-
-**Kamera:** Medium → Wide, herkes görünür, kapanış.
-
-**Asset:** `Props/Toys/1-yellow-ball.png`, `environment/6-opas-tree.png`, `characters/drawings/opa.png`
+**Asset:** `Props/Toys/1-yellow-ball.png` (X=15/Z=0, ikisinin arasında)
 
 ---
 
-## Duygu Yolculuğu
+## Asset Özeti
 
-```
-Merak → Keşif → Heyecan → Şaşkınlık → Neşe → Hafif endişe → Başarı → Mutluluk
-```
-
----
-
-## Mekan Akışı
-
-```
-Kiko's Home → Flower Hill → Mimi's Burrow → Butterfly Meadow → Central Square → Opa's Tree
-```
-
----
-
-## Toplam Kullanılan Asset'ler
-
-| Asset | Dosya | Kullanım Sayısı |
+| Asset | Dosya | Kullanım |
 |---|---|---|
-| Yellow Ball | `Props/Toys/1-yellow-ball.png` | 8 sahne |
-| Butterflies | `Props/Nature/1-Butterflies.png` | 2 sahne |
-| Flowers | `Props/Nature/2-Flowers.png` | 2 sahne |
-| Kiko's Home | `environment/3-kikos-home.png` | 1 sahne |
-| Mimi's Burrow | `environment/5-mimis-burrow.png` | 2 sahne |
-| Butterfly Meadow | `environment/17-butterfly-meadow.png` | 4 sahne |
-| Central Square | `environment/1-central-square.png` | 2 sahne |
-| Opa's Tree | `environment/6-opas-tree.png` | 1 sahne |
-| Kiko | `characters/drawings/kiko.png` | 12 sahne |
-| Mimi | `characters/drawings/mimi.png` | 8 sahne |
-| Opa | `characters/drawings/opa.png` | 1 sahne |
-
----
-
-## Karakter Kullanımı
-
-| Karakter | Sahne Sayısı | Sahneler |
-|---|---|---|
-| Kiko | 12 | 01-12 (tümü) |
-| Mimi | 8 | 05-12 |
-| Opa | 1 | 12 |
-
----
-
-## Ses Özeti
-
-| Ses Tipi | Kullanım |
-|---|---|
-| Kuş cıvıltısı | Tüm sahneler |
-| Top "boop" | 04, 06, 08, 09, 10, 11 |
-| Kapı "squeak" | 01 |
-| Kulak "flop" | 05 |
-| Mimi hop | 05, 06 |
-| Koşma | 04, 06, 10 |
-| Kelebek hışırtısı | 07 |
-| Kanat "whoosh" | 12 |
-
----
-
-## Diyalog Özeti
-
-| Sahne | Karakter | Cümle |
-|---|---|---|
-| 01 | Kiko | "Good morning!" |
-| 02 | Kiko | "What's that?" |
-| 03 | Kiko | "I'm Kiko." |
-| 04 | Kiko | "Let's look together!" |
-| 05 | Mimi | "Let's see!" |
-| 05 | Kiko | "This is my ball!" |
-| 06 | Kiko | "Come on, Mimi!" |
-| 06 | Mimi | "Hop hop!" |
-| 07 | Kiko | "Look!" |
-| 07 | Mimi | "So pretty!" |
-| 08 | Mimi | "My turn!" |
-| 08 | Kiko | "Together!" |
-| 09 | Kiko | "Oh no!" |
-| 09 | Mimi | "Where is it going?" |
-| 10 | Kiko | "This way!" |
-| 10 | Mimi | "Hop hop!" |
-| 11 | Kiko | "We found it!" |
-| 11 | Mimi | "Together!" |
-| 12 | Opa | "Well done!" |
-| 12 | Kiko | "Thank you, Opa!" |
-| 12 | Mimi | "Let's look together!" |
-
----
-
-## Üretim Kontrol Listesi
-
-- [ ] Camera Continuity: Tüm sahneler tutarlı mı?
-- [ ] Spatial Layout: Objelerin pozisyonu doğru mu?
-- [ ] Asset References: Tüm dosya yolları doğru mu?
-- [ ] Diyaloglar İngilizce mi?
-- [ ] Işık tutarlı mı?
-- [ ] Sesler kesintisiz mi?
-- [ ] Toplam süre 3 dakika mı?
-
----
-
-*Bu belge S01E02 üretimi için referans olarak kullanılır.*
+| Yellow Ball | `Props/Toys/1-yellow-ball.png` | 11 sahne |
+| Butterflies | `Props/Nature/1-butterflies.png` | 1 sahne |
+| Flowers | `Props/Nature/2-flowers.png` | 1 sahne |
+| Kiko's Home | `environment/3-kikos-home.png` | 4 sahne |
+| Butterfly Meadow | `environment/17-butterfly-meadow.png` | 8 sahne |

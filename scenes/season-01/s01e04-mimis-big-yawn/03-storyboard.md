@@ -4,9 +4,9 @@
 
 ## Scene 01
 
-**📍 Location:** Flower Hill
+**📍 Location:** Mimi's Burrow (`environment/5-mimis-burrow.png`)
 
-**🎬 Action:** Kiko and Mimi walking together happily
+**🎬 Action:** Kiko and Mimi walking together happily near the burrow
 
 **😊 Emotion:** Happy
 
@@ -22,7 +22,7 @@
 
 ## Scene 02
 
-**📍 Location:** Flower Hill
+**📍 Location:** Mimi's Burrow
 
 **🎬 Action:** Mimi yawns big, ears droop, eyes half closed
 
@@ -40,17 +40,17 @@
 
 ## Scene 03
 
-**📍 Location:** Flower Hill
+**📍 Location:** Mimi's Burrow
 
-**🎬 Action:** Kiko looks at Mimi with concern
+**🎬 Action:** Kiko looks at Mimi with warm smile
 
-**😊 Emotion:** Concerned
+**😊 Emotion:** Caring
 
 **📷 Camera:** Medium
 
 **🎭 Characters:** Kiko, Mimi
 
-**💬 Dialogue:** Kiko: "Mimi, are you tired?"
+**💬 Dialogue:** Kiko: "Mimi, tired?"
 
 **⏱ Duration:** 15 seconds
 
@@ -58,17 +58,17 @@
 
 ## Scene 04
 
-**📍 Location:** Flower Hill
+**📍 Location:** Mimi's Burrow
 
-**🎬 Action:** Kiko looks around for a comfortable spot
+**🎬 Action:** Kiko has an idea, points ahead
 
-**😊 Emotion:** Determined
+**😊 Emotion:** Hopeful
 
-**📷 Camera:** Wide
+**📷 Camera:** Medium
 
 **🎭 Characters:** Kiko, Mimi
 
-**💬 Dialogue:** Kiko: "Let's find you a soft place!"
+**💬 Dialogue:** Kiko: "Let's find a spot!"
 
 **⏱ Duration:** 15 seconds
 
@@ -76,17 +76,17 @@
 
 ## Scene 05
 
-**📍 Location:** Cloud Hill
+**📍 Location:** Mimi's Burrow — Mini Spot 1 (açık çimenlik)
 
-**🎬 Action:** Too windy, Mimi's ears blow around
+**🎬 Action:** A little breeze blows. Mimi's ears flap gently. Mimi giggles.
 
-**😊 Emotion:** Uncomfortable
+**😊 Emotion:** Fun, gentle
 
-**📷 Camera:** Wide
+**📷 Camera:** Medium
 
 **🎭 Characters:** Kiko, Mimi
 
-**💬 Dialogue:** Kiko: "Too windy here!"
+**💬 Dialogue:** Kiko: "Too breezy!"
 
 **⏱ Duration:** 15 seconds
 
@@ -94,17 +94,17 @@
 
 ## Scene 06
 
-**📍 Location:** Sun Hill
+**📍 Location:** Mimi's Burrow — Mini Spot 2 (güneşli alan)
 
-**🎬 Action:** Too bright, Mimi squints
+**🎬 Action:** Bright sun patch. Mimi squints cutely. Kiko shields her eyes.
 
-**😊 Emotion:** Uncomfortable
+**😊 Emotion:** Funny, gentle
 
-**📷 Camera:** Wide
+**📷 Camera:** Medium
 
 **🎭 Characters:** Kiko, Mimi
 
-**💬 Dialogue:** Kiko: "Too sunny here!"
+**💬 Dialogue:** Kiko: "Too bright!"
 
 **⏱ Duration:** 15 seconds
 
@@ -112,31 +112,13 @@
 
 ## Scene 07
 
-**📍 Location:** Central Square
+**📍 Location:** Mimi's Burrow — Mini Spot 3 (Sunny Spot)
 
-**🎬 Action:** Too noisy, birds chirping loudly
+**🎬 Action:** Soft warm light patch on ground. Gentle shade nearby. Perfect.
 
-**😊 Emotion:** Uncomfortable
+**😊 Emotion:** Perfect, calm
 
-**📷 Camera:** Wide
-
-**🎭 Characters:** Kiko, Mimi
-
-**💬 Dialogue:** Kiko: "Too loud here!"
-
-**⏱ Duration:** 15 seconds
-
----
-
-## Scene 08
-
-**📍 Location:** Opa's Tree
-
-**🎬 Action:** Soft grass, gentle shade, perfect spot
-
-**😊 Emotion:** Perfect
-
-**📷 Camera:** Wide → Medium
+**📷 Camera:** Medium → Close-up
 
 **🎭 Characters:** Kiko, Mimi
 
@@ -146,15 +128,15 @@
 
 ---
 
-## Scene 09
+## Scene 08
 
-**📍 Location:** Opa's Tree
+**📍 Location:** Mimi's Burrow — Sunny Spot (X=20/Z=10)
 
-**🎬 Action:** Mimi curls up on soft grass
+**🎬 Action:** Mimi lies down on soft sunny spot. Eyes close. Content smile.
 
-**😊 Emotion:** Comfortable
+**😊 Emotion:** Peaceful
 
-**📷 Camera:** Medium close-up
+**📷 Camera:** Close-up
 
 **🎭 Characters:** Mimi
 
@@ -164,17 +146,17 @@
 
 ---
 
-## Scene 10
+## Scene 09
 
-**📍 Location:** Opa's Tree
+**📍 Location:** Mimi's Burrow — Sunny Spot
 
-**🎬 Action:** Mimi falls asleep, breathing softly
+**🎬 Action:** Mimi sleeping softly. Kiko watches over her.
 
-**😊 Emotion:** Peaceful
+**😊 Emotion:** Tender, caring
 
-**📷 Camera:** Close-up
+**📷 Camera:** Medium
 
-**🎭 Characters:** Mimi
+**🎭 Characters:** Kiko, Mimi
 
 **💬 Dialogue:** (none — just soft breathing)
 
@@ -182,19 +164,37 @@
 
 ---
 
-## Scene 11
+## Scene 10
 
-**📍 Location:** Opa's Tree
+**📍 Location:** Mimi's Burrow — Sunny Spot
 
-**🎬 Action:** Kiko sits nearby, watches over sleeping Mimi
+**🎬 Action:** Kiko gently places a leaf near Mimi as a blanket
 
-**😊 Emotion:** Protective, kind
+**😊 Emotion:** Caring
 
-**📷 Camera:** Medium
+**📷 Camera:** Close-up
 
 **🎭 Characters:** Kiko, Mimi
 
-**💬 Dialogue:** Kiko: "Sleep well, Mimi."
+**💬 Dialogue:** Kiko: "Sleep well."
+
+**⏱ Duration:** 15 seconds
+
+---
+
+## Scene 11
+
+**📍 Location:** Mimi's Burrow — Sunny Spot
+
+**🎬 Action:** Wide shot. Mimi sleeping. Kiko sitting nearby. Peaceful scene.
+
+**😊 Emotion:** Calm, complete
+
+**📷 Camera:** Wide
+
+**🎭 Characters:** Kiko, Mimi
+
+**💬 Dialogue:** (none)
 
 **⏱ Duration:** 15 seconds
 
@@ -202,16 +202,16 @@
 
 ## Scene 12
 
-**📍 Location:** Opa's Tree
+**📍 Location:** Mimi's Burrow — Sunny Spot
 
-**🎬 Action:** Opa watches from branch, says "Well done!"
+**🎬 Action:** Opa's voice from nearby tree. Kiko looks up and smiles.
 
-**😊 Emotion:** Proud, Warm
+**😊 Emotion:** Warm, safe
 
-**📷 Camera:** Medium → Wide
+**📷 Camera:** Wide
 
-**🎭 Characters:** Kiko, Mimi, Opa
+**🎭 Characters:** Kiko, Mimi, Opa (voice only)
 
-**💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you, Opa!"
+**💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you!"
 
 **⏱ Duration:** 15 seconds

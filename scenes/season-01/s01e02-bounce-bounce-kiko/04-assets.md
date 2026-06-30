@@ -17,8 +17,8 @@
 | Prop | File | Scenes |
 |---|---|---|
 | 🟡 Yellow Ball | `Props/Toys/1-yellow-ball.png` | 02, 03, 04, 05, 06, 08, 09, 10, 11, 12 |
-| 🦋 Butterflies | `Props/Nature/1-Butterflies.png` | 07, 08 |
-| 🌸 Flowers | `Props/Nature/2-Flowers.png` | 02, 07 |
+| 🦋 Butterflies | `Props/Nature/1-butterflies.png` | 07, 08 |
+| 🌸 Flowers | `Props/Nature/2-flowers.png` | 02, 07 |
 
 ---
 
@@ -26,18 +26,15 @@
 
 | Environment | File | Scenes |
 |---|---|---|
-| Kiko's Home | `environment/3-kikos-home.png` | 01 |
-| Mimi's Burrow | `environment/5-mimis-burrow.png` | 04, 05 |
-| Butterfly Meadow | `environment/17-butterfly-meadow.png` | 06, 07, 08, 09 |
-| Central Square | `environment/1-central-square.png` | 10, 11 |
-| Opa's Tree | `environment/6-opas-tree.png` | 12 |
+| Kiko's Home | `environment/3-kikos-home.png` | 01-04 |
+| Butterfly Meadow | `environment/17-butterfly-meadow.png` | 05-12 |
 
 ---
 
 ## Asset Checklist
 
-- [ ] All character files exist
-- [ ] All prop files exist
-- [ ] All environment files exist
-- [ ] No missing assets
-- [ ] All file paths are correct
+- [x] All character files exist
+- [x] All prop files exist
+- [x] All environment files exist
+- [x] No missing assets
+- [x] All file paths are correct
