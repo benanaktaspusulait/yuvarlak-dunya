@@ -176,3 +176,59 @@ Her sahne yayınlanmadan önce kontrol edilmelidir:
 - [ ] Işık yönü ve rengi tutarlı mı?
 - [ ] Sesler kesintisiz mi?
 - [ ] Günün sahi değişmedi mi?
+
+---
+
+## Kural 7: Etkileşimli Öğeler (3-4 Yaş)
+
+3-4 yaş grubu çocukları ekranla etkileşim kurar. Bu etkileşimler kasıtlı ve kontrollü olmalıdır.
+
+### Karakterin İzleyiciye Bakması
+
+| Durum | Süre | Not |
+|---|---|---|
+| Doğrudan bakış | 2-3 saniye | Göz teması, güven hissi |
+| Selamlama | 1-2 saniye | El sallama, gülümseme |
+| Davet | 2-3 saniye | "Gel", "Birlikte bakalım" |
+
+### Soru Sorma
+
+| Tür | Örnek | Süre |
+|---|---|---|
+| Basit soru | "What's that?" | 3-4 saniye |
+| Seçim sorusu | "Red or blue?" | 4-5 saniye |
+| Tekrar sorusu | "Can you say hello?" | 3-4 saniye |
+
+### Bekleme Süreleri
+
+| Durum | Süre | Not |
+|---|---|---|
+| Soru sonrası | 3-4 saniye | Çocuğun cevap vermesi için |
+| Keşif sonrası | 2-3 saniye | İzlemenin tadını çıkarması için |
+| Gülme sonrası | 1-2 saniye | Paylaşma anı |
+
+### Tekrar Öğeleri
+
+| Öğe | Tekrar | Amaç |
+|---|---|---|
+| Cümle | 3-4 kez | Öğrenme |
+| Hareket | 2-3 kez | Taklit |
+| Melodi | Her bölüm | Tanıdıklık |
+
+### Etkileşim Kuralları
+
+```
+✓ Yavaş ve kontrollü
+✓ Sıcak ve davetkar
+✓ Tekrar edilebilir
+✓ Basit ve anlaşılır
+
+✗ Hızlı ve rahatsız edici
+✗ Zorlayıcı veya utandırıcı
+✗ Karmaşık
+✗ Korkutucu
+```
+
+---
+
+*Bu belge PomPom Hills production kuralları için referansdır.*

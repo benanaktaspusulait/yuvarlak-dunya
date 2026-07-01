@@ -449,7 +449,7 @@ She is always warm. Always. Without exception.
 | 2 | **Tilly** | Turtle | Slow, wise, loves gardening | Episode 10 (visual), Episode 18 (speaking) |
 | 3 | **Fifi** | Bird | Flies high, sees far, shares sky views | Episode 12 (visual), Season 2 (speaking) |
 | 4 | **Boo** | Bear | Big, soft, loves napping | Episode 14 (visual), Season 2 (speaking) |
-| 5 | **Mimi** | Cat | Quiet, curious, loves warm spots | Episode 16 (visual), Season 2 (speaking) |
+| 5 | **Mirnik** | Cat | Quiet, curious, loves warm spots | Episode 16 (visual), Season 2 (speaking) |
 
 ### Season 1 Side Character Rules
 
