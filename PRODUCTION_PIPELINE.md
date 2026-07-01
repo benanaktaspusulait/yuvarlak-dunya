@@ -15,6 +15,109 @@ onaylı dünyaya karakter/prop yerleştirir.
 
 ---
 
+# Production Philosophy
+
+Pompom Hills is being developed as a long-term animation series.
+
+The goal of the first production phase is NOT to create long episodes.
+
+The goal is to build a professional, repeatable and reliable production pipeline.
+
+Every 1-minute episode is considered a production experiment.
+
+Each episode should help validate or improve one or more production rules.
+
+Examples include:
+
+- character consistency
+- world consistency
+- shot-to-shot continuity
+- camera language
+- prompt structure
+- production documentation
+- pacing
+- sound design
+- editing workflow
+- YouTube publishing workflow
+
+Do not introduce major workflow changes during an active episode.
+
+Finish the episode first.
+
+Review the completed episode.
+
+Only then update the production pipeline.
+
+A production rule is considered stable only after it has been successfully validated across multiple completed episodes.
+
+---
+
+# Phase 1 — Production Lab
+
+Goal:
+
+Create multiple 1-minute episodes.
+
+The objective is to strengthen the production system rather than increase story complexity.
+
+Keep stories intentionally simple.
+
+Use:
+
+- one world whenever possible
+- two or three characters maximum
+- one emotional idea
+- one simple lesson
+- four connected shots
+
+Focus on learning every detail of the production process.
+
+Do not rush into longer stories.
+
+---
+
+# Phase 2 — Stable Production
+
+Begin only after the production pipeline has proven to be reliable.
+
+Continue using the same production rules.
+
+Increase production speed while maintaining quality.
+
+---
+
+# Phase 3 — Story Expansion
+
+Only after the production pipeline has matured.
+
+Expand naturally into longer stories.
+
+Begin producing approximately 2-minute episodes.
+
+The workflow should remain the same.
+
+Only the storytelling becomes more complex.
+
+Do not redesign the pipeline.
+
+Scale the existing pipeline.
+
+---
+
+# Core Principle
+
+Never scale complexity before scaling reliability.
+
+A strong production pipeline is more valuable than a long episode.
+
+Every improvement should make future episodes easier to produce.
+
+The production system itself is the first product.
+
+The animated episodes are built on top of that system.
+
+---
+
 ## 1. Reference Priority
 
 ```
@@ -169,3 +272,124 @@ Every scene file:
 
 Change a rule once here → the whole project (all scenes, all environments, all characters)
 updates consistently.
+
+---
+
+# Episode 1 Production Lessons
+
+Bu bölümler, "Goodnight, Tree" (E11) bölümünün üretim sürecinde edinilen dersleri içerir.
+
+---
+
+## Story Structure
+
+- Start with 1-minute episodes.
+- Each episode consists of 4 shots.
+- Each shot is approximately 15 seconds.
+- Use only one world whenever possible.
+- Prefer only 2-3 characters per episode.
+- Each episode should communicate one simple emotional idea or lesson.
+
+---
+
+## Shot Workflow
+
+Shot 01 is the only shot that starts from a newly created Take Shot.
+
+Every following shot continues from the previous shot.
+
+Never create a new Take Shot for Shot 02, Shot 03 or Shot 04.
+
+---
+
+## Reference Frame Rule
+
+Do not automatically use the final frame of the previous video.
+
+Instead, choose the frame that creates the smoothest visual continuity for the next shot.
+
+The best continuity frame may occur before the last frame.
+
+Always prioritize continuity over choosing the most beautiful frame.
+
+---
+
+## Reference Images
+
+Each new shot uses:
+
+- Previous shot continuity frame
+- Required character references
+- Existing world
+
+Never recreate the world from scratch.
+
+---
+
+## Prompt Rules
+
+Production documents are written for humans.
+
+Visual Prompts are written for AI.
+
+Visual Prompts should describe only visible actions.
+
+Do not describe spoken dialogue inside the Visual Prompt.
+
+Dialogue belongs only inside the Dialogue section.
+
+---
+
+## Camera Rules
+
+Shot 01 establishes the camera.
+
+Subsequent shots continue naturally from the previous framing.
+
+Avoid dramatic camera changes.
+
+Camera movement should remain slow, calm and cinematic.
+
+---
+
+## Continuity Rules
+
+Maintain:
+
+- character appearance
+- environment
+- lighting
+- proportions
+- camera composition
+
+Never redesign existing environments.
+
+---
+
+## Production Philosophy
+
+Complete the episode before improving the pipeline.
+
+Do not redesign the production system during an active episode.
+
+Review the finished episode first.
+
+Improve the pipeline only after the episode is complete.
+
+---
+
+## Long-term Roadmap
+
+**Phase 1**
+
+Create several 1-minute episodes.
+
+Focus on production quality and workflow consistency.
+
+**Phase 2**
+
+Move to approximately 2-minute episodes using the same production pipeline.
+
+Expand storytelling without changing the core workflow.
+
+The pipeline should scale naturally from 1-minute episodes to longer stories.

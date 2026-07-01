@@ -23,13 +23,61 @@ No previous shot reference.
 
 ---
 
+## Start Frame
+
+Use the approved still image for this shot as the exact first frame.
+
+Maintain:
+- Arda's approved character design
+- Opa's Tree environment
+- Sunset lighting
+- Camera composition
+- Character scale and proportions
+
+The generated video must begin from this exact composition and preserve visual continuity throughout the shot.
+
+---
+
 ## Visual Prompt
 
 ```text
-Arda arriving at Opa's Tree during sunset, orange-pink sky, looking up at the tree, warm evening light, peaceful atmosphere, no other characters, {style} {camera} {lighting}
+Arda arriving at Opa's Tree during sunset, orange-pink sky, warm evening light, peaceful atmosphere, no other characters, {style} {camera} {lighting}
+
+Composition:
+Arda in the lower-left third of the frame, walking toward Opa's Tree.
+Tree in the right third of the frame.
+Open space in front of Arda for natural movement.
+35mm wide cinematic lens.
+Warm orange-pink sunset lighting.
+Peaceful, cozy, cinematic mood.
+Preschool story opening shot feel.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
+
+---
+
+## Camera Direction
+
+Begin with a static 35mm wide cinematic shot.
+
+Arda enters from the lower-left, walking toward Opa's Tree on the right.
+
+Tree remains in the right third of frame throughout.
+
+Open space in front of Arda for natural movement.
+
+As Arda walks, perform a gentle cinematic push-in.
+
+End on a medium close-up as Arda looks up with sleepy eyes.
+
+Camera movement must remain slow, stable and natural.
+
+Warm orange-pink sunset lighting throughout.
+
+Peaceful, cozy, cinematic mood — opening shot of a preschool story.
+
+Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
 
 ---
 

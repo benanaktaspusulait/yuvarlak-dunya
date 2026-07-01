@@ -1,4 +1,4 @@
-# E11 — Shot 03 — Arda Asks About the Tree (v2.0)
+# E11 — Shot 03 — Arda Asks About the Tree (v2.1)
 
 ---
 
@@ -25,13 +25,68 @@ Opa was telling a story.
 
 ---
 
+## Start Frame
+
+Use the final frame from the previous shot as the exact first frame.
+
+Maintain:
+- Arda's appearance
+- Opa's appearance
+- Camera composition
+- Sunset lighting
+- Opa's Tree environment
+- Character proportions
+
+Do not redesign the environment.
+
+---
+
 ## Visual Prompt
 
 ```text
-Arda looking up at the tree with curious sleepy eyes, Opa looking down from branch, golden sunset light, warm intimate moment, no other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Maintain the existing composition, lighting, characters and environment.
+
+Arda looks at the tree with gentle curiosity.
+
+Opa briefly looks toward the leaves before looking back at Arda.
+
+The leaves move gently in the evening breeze.
+
+The moment feels peaceful, warm and magical.
+
+No new objects.
+No new characters.
+No environment redesign.
+No text.
+No captions.
+No speech bubbles.
 ```
+
+---
+
+## Reference Usage
+
+Use the final frame from the previous shot as the primary image reference.
+
+The reference image is supplied by the production workflow.
+
+---
+
+## Camera Direction
+
+Continue naturally from the previous shot.
+
+Keep both Arda and Opa in frame.
+
+Only a very subtle camera movement is allowed.
+
+Avoid reframing.
+
+Avoid dramatic zooms.
+
+The focus should remain on the emotional interaction.
 
 ---
 

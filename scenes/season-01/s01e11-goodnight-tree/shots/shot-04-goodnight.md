@@ -1,4 +1,4 @@
-# E11 — Shot 04 — Goodnight (v2.0)
+# E11 — Shot 04 — Goodnight (v2.1)
 
 ---
 
@@ -11,7 +11,7 @@
 | Duration | 15 seconds |
 | Location | Opa's Tree |
 | Characters | Arda, Opa |
-| Time of Day | Night approaching |
+| Time of Day | Late sunset transitioning into early evening |
 
 ---
 
@@ -25,13 +25,70 @@ They just learned the tree needs sleep too.
 
 ---
 
+## Start Frame
+
+Use the final frame from the previous shot as the exact first frame.
+
+Maintain:
+- Arda's appearance
+- Opa's appearance
+- Camera composition
+- Sunset lighting transitioning naturally toward evening
+- Opa's Tree environment
+- Character proportions
+
+Do not redesign the environment.
+
+---
+
 ## Visual Prompt
 
 ```text
-Arda sleeping at the base of Opa's Tree, Opa looking down from branch with warm smile, stars appearing in dark blue sky, tree leaves gently rustling as if saying goodnight, peaceful magical nighttime atmosphere, no other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Maintain the existing composition, lighting, characters and environment.
+
+Arda quietly looks at the tree before saying goodnight.
+
+The leaves gently rustle.
+
+Opa smiles warmly.
+
+Arda peacefully falls asleep at the base of the tree.
+
+The camera slowly pulls back to reveal the tree, Opa, Arda and the evening sky.
+
+Peaceful magical bedtime atmosphere.
+
+No new objects.
+No new characters.
+No environment redesign.
+No text.
+No captions.
+No speech bubbles.
 ```
+
+---
+
+## Reference Usage
+
+Use the final frame from the previous shot as the primary image reference.
+
+The reference image is supplied by the production workflow.
+
+---
+
+## Camera Direction
+
+Continue directly from the previous shot.
+
+Keep movement slow and cinematic.
+
+Allow only a gentle pull-back near the end.
+
+The final frame should feel peaceful, safe and memorable.
+
+Avoid sudden camera movements or dramatic zooms.
 
 ---
 
@@ -64,7 +121,9 @@ Opa: The tree says goodnight too.
 
 ## Lighting
 
-Sunset fading to soft blue night. Stars appearing.
+Late sunset gradually transitions into early evening.
+
+Warm light slowly fades into a soft blue sky while maintaining visual continuity.
 
 ---
 
