@@ -143,7 +143,7 @@ Kiko: I like to look.
 Kiko: Let's look together!
 ```
 
-**Voice tone guide:** Warm, curious, bright. A tiny upward smile in every line. Excitement is controlled, never shrill. No sadness. Slow, clear delivery.
+**Voice tone guide:** Warm, curious, bright. A tiny upward smile in every line. Excitement is controlled, never shrill. No sadness. Slow, clear delivery. **Pronounce "Kiko" clearly as "KEE-ko" (two distinct syllables). Never say "Koki".**
 
 ## Visual Prompt (OpenArt Director Format)
 
@@ -324,5 +324,13 @@ The final image should look exactly like the supplied Central Square world, with
 - Cümleler 2-3 kelime aralığında.
 - Sivri köşe, tehlikeli nesne, korkutucu öğe yok.
 - Maksimum 1 konuşan karakter (Kiko).
+
+## OpenArt Compact Prompt
+
+```
+Use Central Square (@image1) as FINAL background. Insert Kiko (@image2) into existing world. Kiko walks from left back to center, waves, picks up yellow ball. Natural gentle movement. World LOCKED: Do not repaint/regenerate/redesign/replace. Background pixels unchanged. Character LOCKED: Use @image2 exactly. Kiko is SMALL preschool child (~6-8% frame). Environment hero. Keep original camera. 50mm lens, no zoom/crop. Kiko: "Hello! I'm Kiko. I like to look. Let's look together!" Voice: warm, curious, bright, pronounce "KEE-ko" clearly. Never say "Koki". Reject if Kiko too large, environment changes, wrong world, mispronounced name.
+```
+
+**Character count:** 630
 
 

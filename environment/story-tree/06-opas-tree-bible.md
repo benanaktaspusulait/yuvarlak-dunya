@@ -4,8 +4,7 @@
 
 ```
 Environment ID: ENV-006
-File: environment/6-opas-tree.png
-Version: 2.1
+Version: 1.0
 Location: Rest Hill (Central Square'a yakın)
 ```
 
@@ -73,17 +72,6 @@ Story Circle
 
 ---
 
-## Camera Rules
-
-| Açı | Kullanım |
-|---|---|
-| Low angle | Ağaçtan yukarı bakış |
-| Eye level (Opa) | Dal seviyesi |
-| Wide | Ağaç + çevre |
-| Close-up | Opa yüzü |
-
----
-
 ## Spatial Layout
 
 ```
@@ -97,6 +85,17 @@ Story Circle
         ↓
     Kökler → Zemin → Çimen
 ```
+
+---
+
+## Camera Rules
+
+| Açı | Kullanım |
+|---|---|
+| Low angle | Ağaçtan yukarı bakış |
+| Eye level (Opa) | Dal seviyesi |
+| Wide | Ağaç + çevre |
+| Close-up | Opa yüzü |
 
 ---
 
@@ -114,7 +113,6 @@ Story Circle
 
 | Aksiyon | Not |
 |---|---|
-| Iniş | Yavaş, kontrollü, 20 frame |
 | Baş eğme | 12 frame |
 | Gözlük parıltısı | 3 frame |
 | Kanat sallama | 18 frame |
@@ -127,7 +125,6 @@ Story Circle
 |---|---|
 | Yaprak hışırtısı | Ağaç |
 | Kuş cıvıltısı | Uzaktan |
-| Kanat "whoosh" | Opa iniş |
 | Sessizlik | Genel |
 
 ---
@@ -173,3 +170,4 @@ Story Circle
 ---
 
 *Bu belge Opa's Tree mekanı için production referansıdır.*
+*Hero View Prompt'ları için `06-opas-tree-hero-view.md` dosyasına bakın.*

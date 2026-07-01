@@ -2,48 +2,144 @@
 
 ---
 
-## Production Pipeline (OKU — Zorunlu)
+## Production Pipeline
 
-Pompom Hills bir **production pipeline** olarak inşa edilmiştir. OpenArt bir image generator
-değil, bizim **production engine**'imizdir. İzole prompt yazılmaz; her prompt bu pipeline'ı
-takip eder. **Consistency > beauty. Production quality > speed.**
+Pompom Hills bir **production pipeline** olarak inşa edilmiştir.
 
-Tam kural seti: `PRODUCTION_RULES.md`. Bu doküman o kuralların prompt-uygulama katmanıdır.
-
-**Pipeline özeti:**
-
-```
-1. World Build      → WORLD_BUILD_DESCRIPTION.md (dünya kanonik tanımı)
-2. World Reference  → Her mekan için bağımsız World + Hero Pack (clean render)
-3. IMAGE PROMPT     → Environment görselini üret (yalnızca ilk kez)
-4. DIRECTOR PROMPT  → LOCKED dünyanın içine yalnızca karakter yerleştir
-5. Scene Visual     → OpenArt'a doğrudan yapıştır
-```
-
-**Kilit kurallar (LOCKED):**
-- Environment LOCKED — asla yeniden üretme/yeniden tasarlama; yalnızca karakter yerleştir.
-- Character appearance LOCKED — saç, göz, yüz, vücut, kıyafet, renk, ölçek her sahnede aynı.
-- Giant Pompom Tree LOCKED — şekil, konum (Central Square merkezi), ölçek, renk (#81C784) sabit.
+**Temel kural:** OpenArt 4 referans görsel yükledikten sonra uzun metin kullanmaz. Pipeline buna göre tasarlanmıştır.
 
 ---
 
-## World Reference & Hero Pack Kuralları
+## Yeni Pipeline Özeti
 
-- **Environment Sheet'leri asla World reference olarak kullanma.**
-- World reference **yalnızca temiz render** içerir: başlık yok, etiket yok, ok yok, layout yok, çerçeve yok.
-- **Her mekanın kendi bağımsız World'ü vardır.**
-- Her World'ün bir **Hero Pack**'i vardır:
+```
+WORLD OLUŞTURMA (bir kez)
+    │
+    ├── Environment Bible (kalıcı bilgi)
+    │
+    ├── Hero Prompt (geçici üretim aracı)
+    │
+    ├── Hero PNG (kalıcı referans)
+    ├── Left PNG
+    ├── Right PNG
+    └── Top PNG
+    │
+    ▼
+VIDEO ÜRETİMİ (her sahne için)
+    │
+    ├── World PNG'leri (kalıcı referanslar)
+    ├── Character PNG (kalıcı referans)
+    │
+    └── OpenArt Compact Prompt (250-350 karakter)
+    │
+    ▼
+    Video
+```
 
-| View | Kullanım |
-|---|---|
-| Hero View | İkonik ana kompozisyon (reference plate) |
-| Right View | Sağ profil tutarlılığı |
-| Back View | Arka görünüm tutarlılığı |
-| Top View | Layout/konum doğrulaması |
+---
 
-- Sahne üretiminde world'ler **asla yeniden üretilmez** — yalnızca karakter insert edilir.
-- Prompt'ta environment'ın LOCKED olduğunu açıkça belirt; mimari, ağaç, çiçek, yol, bank,
-  lamba direği ve landmark yeniden tasarımını açıkça yasakla.
+## Dosya Tipleri
+
+| Dosya | Amaç | Kalıcı mı? |
+|---|---|---|
+| Environment Bible | World kuralları | ✅ Evet |
+| World PNG'leri | Referans görselleri | ✅ Evet |
+| Character PNG | Karakter referansı | ✅ Evet |
+| Hero Prompt | World üretimi (bir kez) | ❌ Geçici |
+| Scene MD | Production dokümanı | ✅ Evet |
+| Compact Prompt | OpenArt girdisi | ✅ Evet |
+
+---
+
+## Kilit Kurallar
+
+- **Environment LOCKED** — asla yeniden üretme/yeniden tasarlama; yalnızca karakter yerleştir.
+- **Character appearance LOCKED** — saç, göz, yüz, vücut, kıyafet, renk, ölçek her sahnede aynı.
+- **World PNG'leri kalıcı** — bir kez üretilir, bir daha değişmez.
+- **Compact Prompt kısa** — 250-350 karakter, OpenArt için optimize.
+- **MD dosyaları production referansıdır** — OpenArt'a doğrudan yapıştırılmaz.
+
+---
+
+## World Oluşturma Aşaması (Bir Kez)
+
+```
+Environment Bible
+        │
+        ▼
+Hero Prompt (geçici)
+        │
+        ▼
+4-6 PNG üret (Hero, Left, Right, Top, Empty)
+        │
+        ▼
+World LOCK
+        │
+        ▼
+Hero Prompt artık kullanılmaz
+```
+
+---
+
+## Video Üretim Aşaması (Her Sahne)
+
+```
+World PNG'leri + Character PNG
+        │
+        ▼
+OpenArt Compact Prompt (250-350 karakter)
+        │
+        ▼
+Video
+```
+
+---
+
+## OpenArt Compact Prompt Formatı
+
+Maksimum 250-350 karakter.
+
+```
+WORLD LOCK: @image1 as locked reference.
+CHARACTER LOCK: @image2 as locked reference.
+Generate scene preserving both references exactly.
+[CHARACTER] [ACTION] in [LOCATION].
+[CHARACTER] occupies 10-15% frame. Environment hero.
+CAMERA: [shot type], [lens], [height].
+[CHARACTER]: "[DIALOGUE]"
+Voice: [tone], [pace].
+NEGATIVE: [list].
+First frame must match World reference.
+16:9
+```
+
+---
+
+## Hero View Pack — Geçici Üretim Aracı
+
+**Önemli:** Hero View Pack world oluşturulurken kullanılır.
+
+World PNG'leri üretildikten sonra **artık açılmaz**.
+
+Kalıcı production dosyası değildir.
+
+### Kullanım Akışı
+
+```
+Hero Prompt → OpenArt → Hero PNG → Kaydet → Hero Prompt artık kullanılmaz
+```
+
+### İçerik
+
+- Hero View Prompt
+- Left View Prompt
+- Right View Prompt
+- Top View Prompt
+- Empty Environment Prompt
+
+### Durum
+
+World oluşturma tamamlandıktan sonra bu dosya **archive**'a gider.
 
 ---
 

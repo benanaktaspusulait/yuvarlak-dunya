@@ -347,6 +347,14 @@ The final image should look exactly like the supplied Central Square world, with
 Environment consistency is more important than character generation quality. Never sacrifice environment fidelity in order to improve Noah.
 ```
 
+## OpenArt Compact Prompt
+
+```
+Use Central Square (@image1) as FINAL background plate. Insert Noah (@image2) into existing world. Noah sits on colorful stepping stones, building rounded wooden blocks. Natural gentle movement. World LOCKED: Do not repaint/regenerate/redesign/replace. Background pixels unchanged. Character LOCKED: Use @image2 exactly. Noah is VERY SMALL preschool child (~4-6% frame). Environment hero (~94-96%). Giant tree 12-15x taller. Keep original world camera. No zoom/crop/recompose. Noah: "Let's make it fun! I have an idea! What if we build it?" Voice: creative, cheerful, childlike. Reject if Noah too large/dominant, environment regenerated, world changes, camera moves, tree/houses change.
+```
+
+**Character count:** 620
+
 ## Animation Notes
 
 - Noah'un hareketleri yumuşak, doğal ve sakin.
