@@ -3,45 +3,46 @@
 ```text
 Create a voice for Luca from Pompom Hills v2.1.
 
-CRITICAL: This must sound like a REAL small child, NOT an adult woman, NOT an adult man, NOT a teen, NOT an older child. The voice must be genuinely small, high, and childlike — like a real 4-year-old boy speaking.
+Luca sounds like a real 4-year-old boy.
 
-Voice identity:
-Real 4-year-old human boy, adventurous explorer, energetic friend.
+A microphone placed in front of him.
 
-Tone:
-Small, high, bright, round. A real child's voice — not mature, not polished. Think: actual little boy, short vocal cords, small mouth, genuine kid sound.
+Not performed. Not acted. Not polished.
 
-Performance:
-Simple, direct, adventurous. Short words. Slight softness typical of a 4-year-old. No adult articulation. No professional voice actor quality. Raw, real, small child delivery.
+Just a real kid speaking naturally.
 
-Pace:
-80-95 words per minute. A child speaks slower than an adult. Allow small pauses between thoughts.
+Voice characteristics:
+- Tiny vocal tract
+- Small breath support
+- Naturally high child resonance
+- Slightly imperfect pronunciation
+- Occasional hesitation before longer words
+- Innocent curiosity in every word
+- Spontaneous delivery
+- Authentic preschool rhythm
 
-Pitch:
-HIGH child voice, 350-440 Hz. This is NOT an adult pitch. This is a small child. Higher than you think. Tiny voice.
+How he speaks:
+- Short sentences
+- Simple words
+- Sometimes pauses mid-thought
+- Occasionally repeats a word while thinking
+- Breathes audibly between phrases
+- Speaks like he just discovered something exciting
+- Conversational, never performed
 
-Emotion range:
-Excited, curious, determined, happy. Simple emotions only. No adult sass, no maturity, no sophistication.
+What this voice sounds like:
+A real 4-year-old boy you just met.
 
-Use this catchphrase naturally:
-"Let's explore together!"
+What this voice never sounds like:
+An adult woman.
+An adult man.
+A teenager.
+A professional child voice actor.
+A cartoon character.
+A baby.
 
 Test lines:
 1. "Let's explore together!"
-2. "I see a path."
+2. "I see a path!"
 3. "Map time!"
-
-WHAT THIS VOICE IS NOT:
-- NOT an adult man
-- NOT an adult woman
-- NOT a teen
-- NOT a voice actor doing "cute"
-
-WHAT THIS VOICE IS:
-- A real small boy
-- High pitch
-- Simple words
-- Genuine kid sound
-- Slightly imperfect pronunciation
-- Tiny and adventurous
 ```
