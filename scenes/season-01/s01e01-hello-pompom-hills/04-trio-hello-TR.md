@@ -77,7 +77,7 @@ Kiko, Mimi ve Opa birlikte Pompom Hills Central Square'de, Kiko 100 birim ortada
 
 | Alan | Değer |
 | --- | --- |
-| Sonraki sahne | 05-güle-güle-devir |
+| Sonraki sahne | 05-arda-intro |
 | Devredilen durum | Üçlü aynı pozisyonda, birlikte mutlu |
 
 ## Mevcut Assetler

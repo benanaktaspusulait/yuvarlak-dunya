@@ -59,13 +59,13 @@ Every character should look like a soft toy that a toddler would want to hug. No
 **Arms:**
 - Short, chubby
 - No elbows visible
-- Simple圆 shape
+- Simple round shape
 - Hands are round, no fingers defined
 
 **Legs:**
 - Short, chubby
 - No knees visible
-- Simple圆 shape
+- Simple round shape
 - Feet are round, no toes defined
 
 **Overall Shape:**
@@ -536,7 +536,7 @@ Every character should look like a soft toy that a toddler would want to hug. No
 - Slow, gentle wing flaps
 - Glides more than flaps
 - Soft, graceful
-- Never fast, never急
+- Never fast, never rushed
 
 **Landing:**
 - Slows down

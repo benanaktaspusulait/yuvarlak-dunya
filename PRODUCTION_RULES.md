@@ -36,9 +36,9 @@ Her mekan için bir "Spatial Layout" tanımı olmalıdır:
 ```text
 ## Spatial Layout — [MEKAN ADI]
 
-| Objey | Pozisyon | Renk |
+| Obje | Pozisyon | Renk |
 |---|---|---|
-| Kiko | Merkez, 0.85 m yükseklik | Coral pink #F8BBD0 |
+| Kiko | Merkez, 1.00 m boy | Coral pink #F8BBD0 |
 | Top | Kiko'nun sağında, yerde | Sarı #FFD54F |
 | Ağaç | Sol arka plan | Yeşil #81C784 |
 | Ev | Sol taraf | Pembe #F8BBD0 |
@@ -61,7 +61,7 @@ Sahne 02'de ağaç sol taraftaysa, sahne 03'te de sol taraftadır.
 
 Karakterlerin sahne içindeki pozisyonu tutarlı olmalıdır.
 
-### nasıl uygulanır:
+### Nasıl uygulanır:
 
 | Karakter | Varsayılan Pozisyon | Not |
 |---|---|---|
@@ -175,7 +175,7 @@ Her sahne yayınlanmadan önce kontrol edilmelidir:
 - [ ] Karakter pozisyonu mantıklı mı?
 - [ ] Işık yönü ve rengi tutarlı mı?
 - [ ] Sesler kesintisiz mi?
-- [ ] Günün sahi değişmedi mi?
+- [ ] Günün saati değişmedi mi?
 
 ---
 
@@ -231,4 +231,4 @@ Her sahne yayınlanmadan önce kontrol edilmelidir:
 
 ---
 
-*Bu belge PomPom Hills production kuralları için referansdır.*
+*Bu belge Pompom Hills production kuralları için referansdır.*

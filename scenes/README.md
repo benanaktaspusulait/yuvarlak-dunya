@@ -60,10 +60,27 @@ Her sahne dosyası şu bölümleri içermelidir:
 
 ## First Intro Arc (v3.0)
 
+Bu bölüm ana trioyu tanıtır, ardından Pompom Hills komşularını kısa "merhaba"
+cameo'larıyla gösterir ve güvenli bir veda ile kapanır. Trio (Kiko, Mimi, Opa)
+duygusal çıpadır; 05-14 arası karakterler kısa tanıtım sahneleridir.
+
 | Scene | Character | Purpose |
 | --- | --- | --- |
 | `01-kiko-intro.md` | Kiko | Ana karakter tanıtılır; merak ve keşif |
 | `02-mimi-intro.md` | Mimi | Duygusal destek arkadaşı; Kiko continuity'da |
 | `03-opa-intro.md` | Opa | Bilge rehber; Kiko ve Mimi continuity'da |
 | `04-trio-hello.md` | Üçlü | Birlikte neşe; trio pozu |
-| `05-goodbye-handoff.md` | Üçlü | Güvenli veda; bir sonraki bölüme devir |
+| `05-arda-intro.md` | Arda | Enerjik futbol sever komşu |
+| `06-noah-intro.md` | Noah | Yaratıcı yapı-bozar oyuncu |
+| `07-aiko-intro.md` | Aiko | Sakin, düşünceli gözlemci |
+| `08-amara-intro.md` | Amara | Yardımsever şarkıcı arkadaş |
+| `09-sofia-intro.md` | Sofia | Renk seven yaratıcı sanatçı |
+| `10-luca-intro.md` | Luca | Meraklı kaşif |
+| `11-freya-intro.md` | Freya | Doğa seven bahçıvan |
+| `12-tillo-intro.md` | Tillo | Bahçe/ağaç ev komşusu |
+| `13-mirnik-intro.md` | Mirnik | Oyuncu saklambaç kedisi |
+| `14-mimo-intro.md` | Mimo | Rainbow Creek komşusu |
+| `15-goodbye-handoff.md` | Üçlü | Güvenli veda; bir sonraki bölüme devir |
+
+> Not: EN dosyaları tek kaynaktır (structured). Karakter intro TR dosyaları anlatım
+> (narrative) formatındadır; `04-trio-hello` ve `15-goodbye-handoff` TR dosyaları structured tutulur.

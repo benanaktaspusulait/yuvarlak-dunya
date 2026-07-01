@@ -36,13 +36,24 @@ Her gorsel ve sahne su cumleyi gecmelidir: "3-4 yas cocuk bunu 2 saniyede okuyab
 | `CHANGELOG.md` | Sürüm geçmişi |
 | `LICENSE` | CC-BY-NC 4.0 lisansı ve ticari kullanım iletişimi |
 | `ai-prompts/VISUAL_REFERENCES.md` | Karakter, trio ve ana görsel referans promptları |
-| `ai-prompts/VOICE_PROMPTS.md` | Her karakter için AI voice creator ses promptları |
+| `ai-prompts/voice/` | Her karakter için AI voice creator ses promptları (00-global-rules + 01-13 karakter) |
 | `ai-prompts/ENVIRONMENT_PROMPTS.md` | Mekan, arka plan, hava ve dünya plate promptları |
 | `ai-prompts/TECHNICAL_SHEETS.md` | Master character sheet, turnaround, expression, scale, prop ve storyboard sheet promptları |
 | `ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md` | Aksiyon, kamera, gece, renk paleti ve motion test promptları |
 | `ai-prompts/SCENE_PROMPTS.md` | Moodboard, lineup, interaction, loopable BG ve poster promptları |
 | `examples/` | Örnek PNG çıktıları ve prompt/seed/model metadata dosyaları |
 | `scenes/` | Bölüm ve sahne yazımı: beat sheet, shot plan, diyalog, prompt, animation notes |
+| `VARIABLES.md` | Tüm prompt değişkenleri, renk paleti ve boyut standartları için merkezi referans |
+| `PRODUCTION_RULES.md` | Kamera, mekan, ışık, ses, zaman sürekliliği ve etkileşim kuralları |
+| `AUDIO_STYLE_GUIDE.md` | Ses felsefesi, müzik, SFX ve diyalog standartları |
+| `TECH_SPECS.md` | 3D pipeline, model, rig, render ve teslim standartları |
+| `Color/COLOR_PALETTE_LOCK.md` | Kilitli renk paleti referansı |
+| `Environments/` | 24 mekan + hikaye bibleları ve mekan görsel promptları |
+| `environment/` | Mekan referans görselleri (PNG) |
+| `Props/PROP_ASSETS.md` | Prop kütüphanesi ve prop üretim promptları |
+| `characters/` | 13 karakter bible dosyası, karşılaştırma ve referans çizimler |
+| `videos/` | Intro ve short video çıktıları |
+| `ozel/` | Sosyal medya ve marka görselleri (logo, kapak) |
 
 ## Prompt Variable System
 
@@ -57,14 +68,17 @@ Tüm promptlar bu üç değişkenle başlar veya biter:
 | Variable | Default |
 | --- | --- |
 | `{style}` | `Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity` |
-| `{camera}` | `stable 50mm preschool camera, eye-level or gentle wide shot, no Dutch angle, no fisheye, no shaky movement` |
-| `{lighting}` | `warm diffused daylight, soft contact shadows under 25 percent opacity, no hard rim light, no black night values` |
+| `{camera}` | `stable 50mm preschool camera, eye-level or gentle wide shot, clear readable staging, no Dutch angle, no fisheye, no shaky movement` |
+| `{lighting}` | `warm diffused daylight or cozy soft-blue night, soft contact shadows under 25 percent opacity, no hard rim light, no black night values` |
+| `{background}` | `transparent PNG or soft pastel gradient #F5F0EB` (opsiyonel; sadece izole prop/karakter assetlerinde) |
+
+Zorunlu üç değişken `{style}`, `{camera}`, `{lighting}`'tir. `{background}` yalnızca izole (tek obje/karakter) assetlerde eklenir. Kaynak tanımlar `VARIABLES.md` ile birebir aynıdır.
 
 ## AI Workflow
 
 1. `ai-prompts/VISUAL_REFERENCES.md` ile Kiko, Mimi, Opa ve trio scale referanslarını üret.
 2. `ai-prompts/TECHNICAL_SHEETS.md` ile master character sheet, turnaround, expression, prop ve storyboard sheetlerini kilitle.
-3. `ai-prompts/VOICE_PROMPTS.md` ile her karakter için ses promptlarını üretim aracına ver.
+3. `ai-prompts/voice/` ile her karakter için ses promptlarını üretim aracına ver.
 4. `ai-prompts/ENVIRONMENT_PROMPTS.md` ile master valley, home, playhouse ve night/day plate üret.
 5. `ai-prompts/SCENE_PROMPTS.md` ile poster, moodboard, lineup ve interaction sahneleri üret.
 6. `NEGATIVE_PROMPTS.md` içinden kullanılan araca uygun negative prompt'u ekle.

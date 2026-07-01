@@ -48,7 +48,7 @@
 | Alan | Değer |
 | --- | --- |
 | Dosya yolu | `environment/1-central-square.png` |
-| Arka plan | Üç karakter同一 karede; Opa yukarıda ağaçta |
+| Arka plan | Üç karakter aynı karede; Opa yukarıda ağaçta |
 
 ## Coordinate Map (Kiko=100 birim)
 
@@ -154,7 +154,7 @@ Kiko, Mimi and Opa together in Central Square of Pompom Hills, Kiko is 100 units
 
 | Alan | Değer |
 | --- | --- |
-| Sonraki sahne | 05-goodbye-handoff |
+| Sonraki sahne | 05-arda-intro |
 | Devredilen durum | Üçlü aynı pozisyonda, birlikte mutlu |
 | Kamera | 0.85 m, 50mm |
 | Hava | Aynı |

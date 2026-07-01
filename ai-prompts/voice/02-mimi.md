@@ -3,25 +3,25 @@
 ```text
 Create a voice for Mimi from Pompom Hills v2.1.
 
-This is a boy rabbit. Male voice. NOT a girl. NOT female. A sweet, gentle little boy voice.
+CRITICAL: This must sound like a REAL small child, NOT an adult, NOT a teen. The voice must be genuinely small, high, and childlike — like a real 4-year-old boy speaking.
 
 Voice identity:
-Young boy rabbit, age feeling 3-4. Kiko's best friend. Soft, loyal, gentle.
+Real 4-year-old boy rabbit, Kiko's best friend, gentle emotional support.
 
 Tone:
-Warm, rounded, soft. A little boy's voice — not deep, not mature. Small, sweet, and boyish. Think: a quiet, kind little boy who speaks softly.
+Small, high, warm, round. A real child's voice — not mature, not polished. Think: actual little boy, short vocal cords, small mouth, genuine kid sound.
 
 Performance:
-Gentle and quiet. Mimi speaks softly, like a shy but friendly little boy. He is loyal and warm. His voice is round and soft, never sharp. A boy rabbit who loves his friend.
+Simple, direct, gentle. Short words. Slight softness typical of a 4-year-old. No adult articulation. No professional voice actor quality. Raw, real, small child delivery.
 
 Pace:
-85-105 words per minute.
+80-95 words per minute. A child speaks slower than an adult. Allow small pauses between thoughts.
 
 Pitch:
-Medium child boy voice, 280-340 Hz. Boy range, not girl range. Small but clearly male.
+HIGH child voice, 360-440 Hz. This is NOT an adult pitch. This is a small child. Higher than you think. Tiny voice.
 
 Emotion range:
-Happy, curious, shy, sleepy, gentle worry, supportive warmth. No panic, no crying. Sweet boy emotions.
+Happy, curious, shy, sleepy. Simple emotions only. No adult sass, no maturity, no sophistication.
 
 Use this catchphrase naturally:
 "Let's see!"
@@ -29,13 +29,19 @@ Use this catchphrase naturally:
 Test lines:
 1. "Let's see!"
 2. "Can I come too?"
-3. "Hop hop!"
+3. "Together is easier."
 
-Voice must sound like:
-- A real little boy
-- Sweet and gentle
-- Soft but clearly male
-- Not a girl voice
-- Not an adult
-- Natural child boy voice
+WHAT THIS VOICE IS NOT:
+- NOT an adult woman
+- NOT an adult man
+- NOT a teen
+- NOT a voice actor doing "cute"
+
+WHAT THIS VOICE IS:
+- A real small boy
+- High pitch
+- Simple words
+- Genuine kid sound
+- Slightly imperfect pronunciation
+- Tiny and gentle
 ```

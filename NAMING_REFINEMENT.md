@@ -293,8 +293,8 @@
 | **Role** | Main child character |
 | **Species** | Human girl |
 | **Age** | 3-4 years (personality age) |
-| **Main colour** | Soft Coral (#FFAB91) |
-| **Outfit** | Coral t-shirt, white shorts, coral shoes |
+| **Main colour** | Coral Pink (#F8BBD0) |
+| **Outfit** | Coral pink shirt, white shorts, coral pink shoes |
 | **Hair** | Brown, two small pigtails with coral bands |
 | **Eyes** | Big, bright brown |
 | **Personality** | Curious, gentle, kind, brave |
@@ -302,7 +302,7 @@
 | **Repeated gesture** | Points at things with index finger |
 | **Emotional learning** | Asks questions, explores with kindness |
 | **What toddlers learn** | Curiosity is good, asking questions is okay |
-| **AI consistency** | Round face, big brown eyes, coral outfit, pigtails |
+| **AI consistency** | Round face, big brown eyes, coral pink outfit, pigtails |
 
 **Why Kiko works:**
 - **Japanese origin**: Means "hope" or "child" — positive, universal
@@ -323,17 +323,17 @@
 | **Role** | Animal best friend |
 | **Species** | Rabbit |
 | **Age** | Child age (personality age) |
-| **Main colour** | Soft Lavender (#CE93D8) |
-| **Outfit** | Lavender t-shirt |
-| **Fur** | White with lavender patches |
-| **Ears** | Long, floppy, white with lavender inside |
+| **Main colour** | Soft Blue (#90CAF9) |
+| **Outfit** | Soft yellow t-shirt |
+| **Fur** | Soft blue with white belly |
+| **Ears** | Long, floppy, soft blue with pink inside |
 | **Eyes** | Big, bright green |
 | **Personality** | Quiet, loyal, observant, gentle |
 | **Catchphrase** | "Let's see!" |
 | **Repeated gesture** | Hops softly when curious |
 | **Emotional learning** | Watches, listens, follows with trust |
 | **What toddlers learn** | Being quiet is okay, observing is valuable |
-| **AI consistency** | White rabbit, lavender patches, long floppy ears, green eyes |
+| **AI consistency** | Soft blue rabbit, white belly, long floppy ears, green eyes |
 
 **Why Mimi works:**
 - **Sound quality**: "Mimi" sounds sweet and cute, with soft M sounds

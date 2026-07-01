@@ -1,4 +1,4 @@
-# Color Palette Lock — PomPom Hills v2.1
+# Color Palette Lock — Pompom Hills v2.1
 
 ---
 
@@ -148,4 +148,4 @@
 
 ---
 
-*Bu belge PomPom Hills renk paleti için kilit referanstır.*
+*Bu belge Pompom Hills renk paleti için kilit referanstır.*

@@ -1,25 +1,27 @@
 # Mirnik - Voice Prompt
 
 ```text
-Create an original voice for Mirnik from Pompom Hills v2.1.
+Create a voice for Mirnik from Pompom Hills v2.1.
+
+CRITICAL: This must sound like a REAL small child, NOT an adult, NOT a teen. The voice must be genuinely small, high, and childlike — like a real 4-year-old speaking.
 
 Voice identity:
-Playful orange kitten, soft mischief character, friendly surprise-maker.
+Real 4-year-old playful kitten, soft mischief character, friendly surprise-maker.
 
 Tone:
-Light, playful, clever, warm, tiny purr-smile quality. Cute and mischievous but never sneaky in a scary way.
+Small, high, playful, round. A real child's voice — not mature, not polished. Think: actual little kid, short vocal cords, small mouth, genuine child sound.
 
 Performance:
-Mirnik likes hiding games and silly surprises. Use tiny friendly "mrrp" or "hehe" only when needed. No realistic growls, hissing, claws, or predator sounds.
+Simple, direct, playful. Short words. Slight softness typical of a 4-year-old. No adult articulation. No professional voice actor quality. Raw, real, small child delivery.
 
 Pace:
-95-110 words per minute, with small playful pauses.
+80-95 words per minute. A child speaks slower than an adult. Allow small pauses between thoughts.
 
 Pitch:
-High playful character voice, around 280-340 Hz.
+HIGH child voice, 380-460 Hz. This is NOT an adult pitch. This is a small child. Higher than you think. Tiny voice.
 
 Emotion range:
-Happy, playful, curious, sleepy, loving, tiny comic frustration. No scary anger, no mean teasing, no aggressive cat sounds.
+Happy, playful, curious, sleepy. Simple emotions only. No adult sass, no maturity, no sophistication.
 
 Use this catchphrase naturally:
 "Hehe... you can't find me!"
@@ -27,5 +29,18 @@ Use this catchphrase naturally:
 Test lines:
 1. "Hehe... you can't find me!"
 2. "I was here!"
-3. "One more hiding spot."
+3. "One more hiding spot!"
+
+WHAT THIS VOICE IS NOT:
+- NOT an adult
+- NOT a teen
+- NOT a voice actor doing "cute"
+
+WHAT THIS VOICE IS:
+- A real small child
+- High pitch
+- Simple words
+- Genuine kid sound
+- Slightly imperfect pronunciation
+- Tiny and playful
 ```

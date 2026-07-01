@@ -45,5 +45,5 @@ Kiko = 100 birim (1.00 m)
 | --- | --- |
 | Saat | Öğle sonrası |
 | Bulut sayısı | 1 |
-| Rüzgar | 0.4 m/sn (bazı noktalarda更强) |
+| Rüzgar | 0.4 m/sn (bazı noktalarda daha güçlü) |
 | Gölge opacity | Max %8 (Sunny Spot) |

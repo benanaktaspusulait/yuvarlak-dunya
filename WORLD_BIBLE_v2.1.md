@@ -1,11 +1,11 @@
-# PomPom Hills World Bible
+# Pompom Hills World Bible
 Version 2.1
 
 ---
 
 # Overview
 
-PomPom Hills is a peaceful preschool fantasy world where kindness, curiosity, imagination and friendship shape everyday life.
+Pompom Hills is a peaceful preschool fantasy world where kindness, curiosity, imagination and friendship shape everyday life.
 
 There are no cities.
 No roads.
@@ -18,7 +18,7 @@ Everything is round.
 Everything feels safe.
 Everything encourages discovery.
 
-The Big PomPom Tree stands at the center of the world.
+The Big Pompom Tree stands at the center of the world.
 
 Every path eventually leads back to it.
 
@@ -48,9 +48,9 @@ Children usually travel everywhere together.
 
 ## 1. Central Square
 
-The heart of PomPom Hills.
+The heart of Pompom Hills.
 
-The Big PomPom Tree grows here.
+The Big Pompom Tree grows here.
 
 Everyone meets here every morning.
 
@@ -395,7 +395,7 @@ Duck families.
 
 ## Wish Pond
 
-The most magical place in PomPom Hills.
+The most magical place in Pompom Hills.
 
 Children make wishes here.
 

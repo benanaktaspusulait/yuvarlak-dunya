@@ -476,7 +476,7 @@ She is always warm. Always. Without exception.
 9. **No punishment** — no character is ever scolded, sent away, or made to feel wrong
 10. **No shouting** — all dialogue is soft, gentle, warm
 11. **No sarcasm** — all communication is sincere
-12. **No intense sadness** — feelings are acknowledged gently, neverdwelled upon
+12. **No intense sadness** — feelings are acknowledged gently, never dwelled upon
 13. **No scary darkness** — night is soft blue, never black; the moon is friendly
 14. **No complex plot** — one situation, one feeling, one resolution
 

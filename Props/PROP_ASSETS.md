@@ -1,4 +1,4 @@
-# PROP ASSETS — PomPom Hills v2.1
+# PROP ASSETS — Pompom Hills v2.1
 
 ---
 
@@ -457,7 +457,7 @@ A round pumpkin, pastel orange #FF7043, round shape, soft rounded ridges, small 
 ✓ Pastel colors
 ✓ No realistic textures
 ✓ Pixar-quality stylized 3D
-✓ Consistent with PomPom Hills World Bible
+✓ Consistent with Pompom Hills World Bible
 ✓ Transparent PNG
 ✓ Centered composition
 ✓ High-resolution (1024x1024 minimum)

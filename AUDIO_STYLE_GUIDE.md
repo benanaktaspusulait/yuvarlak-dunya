@@ -1,10 +1,10 @@
-# Audio Style Guide — PomPom Hills v2.1
+# Audio Style Guide — Pompom Hills v2.1
 
 ---
 
 ## Genel Ses Felsefesi
 
-PomPom Hills'in sesi, dünyadaki gibi yumuşak, sıcak ve güvende olmalıdır.
+Pompom Hills'in sesi, dünyadaki gibi yumuşak, sıcak ve güvende olmalıdır.
 
 Çocuklar seslerle rahatlamalı, korkmamalı, heyecanlanmamalı.
 
@@ -225,4 +225,4 @@ SFX: Yağmur damlaları (yuvarlak ses), kapı kapanma
 
 ---
 
-*Bu belge PomPom Hills ses produksiyonu için referansıdır.*
+*Bu belge Pompom Hills ses produksiyonu için referansıdır.*

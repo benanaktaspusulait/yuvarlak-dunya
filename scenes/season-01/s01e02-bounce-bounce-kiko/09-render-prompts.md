@@ -5,7 +5,7 @@
 ## Base Style
 
 ```
-PomPom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity, Pixar-quality stylized 3D preschool illustration, soft global illumination, ambient occlusion, soft shadows
+Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity, Pixar-quality stylized 3D preschool illustration, soft global illumination, ambient occlusion, soft shadows
 ```
 
 ---

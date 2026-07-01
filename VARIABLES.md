@@ -1,4 +1,4 @@
-# VARIABLES — PomPom Hills v2.1
+# VARIABLES — Pompom Hills v2.1
 
 ---
 
@@ -8,9 +8,9 @@ Tüm prompt'larda şu değişkenler kullanılır:
 
 ```text
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
-{camera} = stable wide preschool camera, clear readable staging, no fisheye, no shaky cam
-{lighting} = warm diffused daylight or cozy blue night, soft contact shadows under 25 percent, no hard darkness
-{background} = transparent PNG or soft pastel gradient #F5F0EB
+{camera} = stable 50mm preschool camera, eye-level or gentle wide shot, clear readable staging, no Dutch angle, no fisheye, no shaky movement
+{lighting} = warm diffused daylight or cozy soft-blue night, soft contact shadows under 25 percent opacity, no hard rim light, no black night values
+{background} = transparent PNG or soft pastel gradient #F5F0EB (optional; isolated prop/character assetlerinde kullanılır)
 ```
 
 ---
@@ -67,9 +67,9 @@ Tüm prompt'larda şu değişkenler kullanılır:
 
 | Öğe | Boyut | Not |
 |---|---|---|
-| Kiko | 1.00 m | En uzun karakter |
-| Mimi | 0.85 m | Kiko'dan kısa |
-| Opa | 0.75 m | Gövde, kanat açıklığı 1.20 m |
+| Kiko | 1.00 m | Ana ölçek referansı (100 birim) |
+| Mimi | 0.80 m | Kiko'nun %80'i (80 birim) |
+| Opa | 1.20 m | En uzun karakter; alçak sahnelenir, göz çizgisi 0.82-0.92 m (120 birim) |
 | Kapı | 1.35 m | Tüm kapılar |
 | Tavan | 2.20 m | İç mekanlar |
 | Stepping stone | 0.35 m çap | Tüm taşlar |

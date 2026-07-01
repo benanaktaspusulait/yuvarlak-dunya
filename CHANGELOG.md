@@ -20,7 +20,7 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 - `WORLD_BIBLE_v2.1.md` ve `CHARACTER_REFERENCE_GUIDE_v2.1.md` ana kaynak dosyaları olarak korundu.
 - `SERIES_STRUCTURE_v2.1.md` adıyla seri stratejisi v2.1 sürümüne taşındı.
 - AI prompt dosyaları daha kısa, ekip tarafından değişkenle yönetilebilir v2.1 template formatına alındı.
-- Eski v1/v2.1 dosya referansları kaldırıldı.
+- Eski v1/v2.0 dosya referansları kaldırıldı.
 
 ### Production Rules
 
@@ -29,11 +29,11 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 - Ölçek: Kiko = 100 birim, Mimi = 80 birim, Opa = 120 birim.
 - Görsel güvenlik: keskin köşe, sert gölge, gerçekçi doku, korku, şiddet, metin/watermark yasak.
 
-## v2.1 - Studio Bible Draft
+## v2.0 - Studio Bible Draft
 
 - 3D stüdyo standardında world bible ve character reference guide oluşturuldu.
 - Ölçek, shader, hareket, ses ve DO/DONT listeleri eklendi.
 
-## v2.1 - Initial Concept Pack
+## v1.0 - Initial Concept Pack
 
 - İlk dünya, karakter, stil ve OpenArt prompt dokümanları oluşturuldu.

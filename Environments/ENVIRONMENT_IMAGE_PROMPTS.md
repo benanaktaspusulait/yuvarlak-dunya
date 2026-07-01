@@ -1,4 +1,4 @@
-# ENVIRONMENT IMAGE PROMPTS — PomPom Hills v2.1
+# ENVIRONMENT IMAGE PROMPTS — Pompom Hills v2.1
 
 ---
 

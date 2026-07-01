@@ -162,7 +162,7 @@
 - Çözüm (30 sn): basit, olumlu sonuç
 - Kapanış (30 sn): tekrar, duygusal tatmin
 
-##的世界の名前 (Dünyanın Adı)
+## Dünyanın Adı
 
 Türkçe: Yuvarlak Tepeler Dünyası
 İngilizce: Round Hills World
