@@ -55,8 +55,8 @@ Bu dosya, **Pompom Hills** 3D animasyon serisinin üretim standardıdır. Bu dos
 | Unit system | Metric |
 | 1 Blender unit | 1 metre |
 | Kiko boy | 1.00 m |
-| Mimi boy | 0.85 m gövde; kulaklarla maksimum 1.05 m |
-| Opa boy | 0.75 m gövde; uçuş pozunda kanat açıklığı maksimum 1.20 m |
+| Mimi boy | 0.80 m gövde (80 birim); kulaklarla maksimum 0.92 m |
+| Opa boy | 1.20 m (120 birim), en uzun; alçak sahnelenir, göz çizgisi 0.82-0.92 m; kanat açıklığı maksimum 1.20 m |
 | Standart kapı yüksekliği | 1.35 m |
 | Standart ev içi tavan | 2.20 m |
 | Round stepping stone çapı | 0.35 m |

@@ -13,6 +13,13 @@ Tüm prompt'larda şu değişkenler kullanılır:
 {background} = transparent PNG or soft pastel gradient #F5F0EB (optional; isolated prop/character assetlerinde kullanılır)
 ```
 
+> **Tek kaynak:** Yukarıdaki tanımlar kanoniktir ve `README.md` ile birebir aynıdır. Sahne/dünya
+> prompt packleri (`ai-prompts/ENVIRONMENT_PROMPTS.md`, `SCENE_PROMPTS.md`,
+> `ADVANCED_PRODUCTION_PROMPTS.md`, `OPENART_WORLD_PROMPT_PACK.md`) bu tanımları kullanır.
+> **Bilinçli istisnalar:** `ai-prompts/TECHNICAL_SHEETS.md` (orthographic studio kamera + even studio
+> lighting), `Props/PROP_ASSETS.md` (isolated-object framing) ve `ai-prompts/VISUAL_REFERENCES.md`
+> (clean reference framing) amaçları gereği farklı `{camera}`/`{lighting}` kullanır.
+
 ---
 
 ## Renk Paleti

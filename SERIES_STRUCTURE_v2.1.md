@@ -128,23 +128,23 @@ Full ensemble casting is appropriate for children aged 5+. For 3 to 4 years, a c
 
 **Goal**: By episode 20, the audience should love all three characters but still instinctively see the primary character as "their" character.
 
-### Phase 3: Episodes 21–30 (Expansion)
+### Phase 3: Episodes 21–26 (Expansion)
 
 | Character | Screen Time | Episode Leads | Purpose |
 |-----------|-------------|---------------|---------|
-| Primary Main Character | 60% | 6 episodes | Maintain dominance, share spotlight |
-| Animal Friend | 25% | 3 episodes | Fully established as co-adventurer |
+| Primary Main Character | 60% | 4 episodes | Maintain dominance, share spotlight |
+| Animal Friend | 25% | 1 episode | Fully established as co-adventurer |
 | Guide / Side Characters | 15% | 1 episode | Begin expanding world |
 
-**Goal**: By episode 30, the world can sustain occasional side character episodes without losing the core identity.
+**Goal**: By episode 26, the world can sustain occasional side character episodes without losing the core identity.
 
 ### Recommended Season 1 Ratio
 
-For 20 episodes:
+For 26 episodes:
 
-- **14 episodes** led by primary main character (70%)
-- **4 episodes** led by animal friend (20%)
-- **2 episodes** led by guide character or focused on world (10%)
+- **20 episodes** led by primary main character (77%)
+- **4 episodes** led by animal friend (15%)
+- **2 episodes** led by guide character or focused on world (8%)
 
 This ratio preserves the anchor while allowing sufficient variety for a full season.
 
@@ -206,7 +206,7 @@ This ratio preserves the anchor while allowing sufficient variety for a full sea
 | **Example story** | Kiko hears rain for the first time. She is nervous. Opa gives her a small umbrella. Kiko splashes in puddles and loves it. |
 | **Repeated phrase** | "What's that?" / "Let's see together!" |
 | **What toddlers learn** | New experiences can be nice. It is okay to be nervous first. Trying with a friend makes it safe. |
-| **Percentage of Season 1** | 60% (12 of 20 episodes) |
+| **Percentage of Season 1** | 60% (16 of 26 episodes) |
 
 ### B. Animal Friend Feeling Episodes
 
@@ -219,7 +219,7 @@ This ratio preserves the anchor while allowing sufficient variety for a full sea
 | **Example story** | Mimi is sleepy but does not want to nap. Kiko notices. They find a soft sunny spot together. Mimi falls asleep gently. |
 | **Repeated phrase** | "So nice!" / "Hop hop, rest now!" |
 | **What toddlers learn** | It is okay to feel sleepy. Rest is good. Friends notice when you need comfort. |
-| **Percentage of Season 1** | 20% (4 of 20 episodes) |
+| **Percentage of Season 1** | 19% (5 of 26 episodes) |
 
 ### C. Guide Character Calm Episodes
 
@@ -232,7 +232,7 @@ This ratio preserves the anchor while allowing sufficient variety for a full sea
 | **Example story** | Opa tells a soft story about the stars. Kiko and Mimi listen. They say goodnight to each star together. |
 | **Repeated phrase** | "Well done!" / "Take your time." |
 | **What toddlers learn** | Routines are comforting. Stories help us understand. Patience is gentle. |
-| **Percentage of Season 1** | 10% (2 of 20 episodes) |
+| **Percentage of Season 1** | 11% (3 of 26 episodes) |
 
 ### D. World Discovery Episodes
 
@@ -245,7 +245,7 @@ This ratio preserves the anchor while allowing sufficient variety for a full sea
 | **Example story** | Kiko discovers the big pompom tree changes with the seasons. She sees flowers in spring, green in summer, orange in autumn, snow in winter. |
 | **Repeated phrase** | "Look at the pompom tree!" / "So pretty!" |
 | **What toddlers learn** | The world changes gently. Nature is beautiful. Seasons are safe and normal. |
-| **Percentage of Season 1** | 10% (2 of 20 episodes) |
+| **Percentage of Season 1** | 8% (2 of 26 episodes) |
 
 ---
 
@@ -432,6 +432,13 @@ She is always warm. Always. Without exception.
 
 ## 10. Side Character Strategy
 
+> **Production Update (v2.1):** Proje, üretim sürecinde 13 isimli karakterden oluşan bir
+> genişletilmiş kadroya (bkz. `characters/pompom-hills/`) taşındı. Bu karakterler S01E01'de
+> kısa "merhaba" cameo sahneleriyle (bkz. `scenes/season-01/s01e01-hello-pompom-hills/`)
+> tanıtılır; ana trio (Kiko, Mimi, Opa) duygusal çıpa olarak kalır ve bölümleri yönetir.
+> Aşağıdaki bölüm, orijinal "önce yalnızca trio" tasarım gerekçesini korur; güncel karar,
+> kadronun cameo düzeyinde erken tanıtılıp trionun liderliğini koruması yönündedir.
+
 ### Introduction Rules
 
 1. **No more than one new side character at a time.** Introducing two or more new characters in the same episode overwhelms toddlers.
@@ -449,7 +456,10 @@ She is always warm. Always. Without exception.
 | 2 | **Tilly** | Turtle | Slow, wise, loves gardening | Episode 10 (visual), Episode 18 (speaking) |
 | 3 | **Fifi** | Bird | Flies high, sees far, shares sky views | Episode 12 (visual), Season 2 (speaking) |
 | 4 | **Boo** | Bear | Big, soft, loves napping | Episode 14 (visual), Season 2 (speaking) |
-| 5 | **Mirnik** | Cat | Quiet, curious, loves warm spots | Episode 16 (visual), Season 2 (speaking) |
+
+> Not: **Mirnik** (kedi) bu "gelecek" listesinden çıkarıldı; artık ana cameo kadrosunun bir
+> parçasıdır ve S01E01'de tanıtılır (`characters/pompom-hills/12-mirnik.md`,
+> `scenes/season-01/s01e01-hello-pompom-hills/13-mirnik-intro.md`).
 
 ### Season 1 Side Character Rules
 
@@ -524,11 +534,17 @@ A warm hug. A soft voice. A gentle discovery. A safe ending. The toddler should 
 
 ## 13. Sample Season 1 Plan
 
-### 20 Episodes
+### Sample Episode Pool (illustrative)
+
+> **Season 1 = 26 bölüm.** Aşağıdaki tablo **illüstratif bir fikir havuzudur**, kesin yayın
+> sırası değildir. Kanonik üretim sırası ve başlıkları `scenes/season-01/` altında tanımlıdır.
+> Üretilen ilk 6 bölüm: **s01e01 Hello Pompom Hills · s01e02 Bounce Bounce Kiko ·
+> s01e03 The Little Flower · s01e04 Mimi's Big Yawn · s01e05 Colours Everywhere ·
+> s01e06 The Soft Wind**. Havuzdaki diğer başlıklar kalan 20 bölüme dağıtılır.
 
 | # | Title | Type | Lead | Learning Point | Word Group | Repeated Phrase | Summary |
 |---|-------|------|------|----------------|------------|-----------------|---------|
-| 1 | "Hello, World" | Discovery | Kiko | The world is safe and friendly | hello, world, friend, look | "Hello, world!" | Kiko wakes up, steps outside, sees Pompom Hills for the first time. Mimi hops over. They explore the village square together. |
+| 1 | "Hello, Pompom Hills" | Discovery | Kiko | The world is safe and friendly | hello, world, friend, look | "Hello, Pompom Hills!" | Kiko wakes up, steps outside, sees Pompom Hills for the first time. Mimi hops over. They explore the village square together. |
 | 2 | "What's That Sound?" | Discovery | Kiko | New sounds can be nice | sound, hear, listen, soft | "What's that sound?" | Kiko hears a gentle wind for the first time. She is nervous. Mimi's ears wiggle. They discover it is just the trees swaying. |
 | 3 | "Hop, Hop, Hop" | Animal Friend | Mimi | It is okay to move at your own pace | hop, fast, slow, together | "Hop, hop, hop!" | Mimi wants to hop everywhere. Kiko walks. They learn that different speeds are okay. They arrive together. |
 | 4 | "The Lost Toy" | Discovery | Kiko | Asking for help is okay | lost, find, help, together | "Let's look together!" | Kiko loses her favourite toy. She looks everywhere. Mimi helps. Opa appears and shows them to look carefully. They find it together. |
@@ -553,10 +569,10 @@ A warm hug. A soft voice. A gentle discovery. A safe ending. The toddler should 
 
 | Character | Episodes Led | Percentage |
 |-----------|-------------|------------|
-| Kiko (Primary Main) | 14 | 70% |
-| Mimi (Animal Friend) | 4 | 20% |
-| Opa (Guide) | 1 | 5% |
-| World (Shared) | 1 | 5% |
+| Kiko (Primary Main) | 20 | 77% |
+| Mimi (Animal Friend) | 4 | 15% |
+| Opa (Guide) | 1 | 4% |
+| World (Shared) | 1 | 4% |
 
 ---
 
@@ -574,10 +590,10 @@ Yes, but sparingly. Mimi can lead 2–4 episodes per season, starting no earlier
 Rarely. Opa can lead 1–2 episodes per season maximum. Her episodes should focus on routine, story, and wisdom. She should never dominate the show. Her power is in her occasional, gentle presence.
 
 **How often should each character lead?**
-- Kiko: 70% of episodes (14 of 20 in Season 1)
-- Mimi: 20% of episodes (4 of 20 in Season 1)
-- Opa: 5% of episodes (1 of 20 in Season 1)
-- World/Shared: 5% of episodes (1 of 20 in Season 1)
+- Kiko: 77% of episodes (20 of 26 in Season 1)
+- Mimi: 15% of episodes (4 of 26 in Season 1)
+- Opa: 4% of episodes (1 of 26 in Season 1)
+- World/Shared: 4% of episodes (1 of 26 in Season 1)
 
 **Should side characters be introduced in Season 1 or later?**
 Visually: yes, starting from episode 8–10. Speaking roles: maximum one side character speaks in Season 1. Leading episodes: no — save for Season 2. This keeps Season 1 simple, focused, and emotionally coherent.

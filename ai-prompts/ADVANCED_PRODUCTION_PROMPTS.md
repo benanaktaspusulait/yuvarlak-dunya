@@ -6,8 +6,8 @@ Aksiyon, kamera, duygu ve renk paleti testleri. Her prompt `{style}`, `{camera}`
 
 ```text
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
-{camera} = stable preschool camera, gentle motion, no shaky cam, no Dutch angle, no threat perspective
-{lighting} = warm diffused daylight or cozy blue night, soft contact shadows, no horror darkness
+{camera} = stable 50mm preschool camera, eye-level or gentle wide shot, clear readable staging, no Dutch angle, no fisheye, no shaky movement
+{lighting} = warm diffused daylight or cozy soft-blue night, soft contact shadows under 25 percent opacity, no hard rim light, no black night values
 ```
 
 ## Kiko Emotion Grid

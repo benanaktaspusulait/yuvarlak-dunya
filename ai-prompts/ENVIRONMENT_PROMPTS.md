@@ -6,8 +6,8 @@ Tüm environment promptları `{style}`, `{camera}`, `{lighting}` değişkenlerin
 
 ```text
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
-{camera} = stable wide preschool camera, clear readable staging, no fisheye, no shaky cam
-{lighting} = warm diffused daylight or cozy blue night, soft contact shadows under 25 percent, no hard darkness
+{camera} = stable 50mm preschool camera, eye-level or gentle wide shot, clear readable staging, no Dutch angle, no fisheye, no shaky movement
+{lighting} = warm diffused daylight or cozy soft-blue night, soft contact shadows under 25 percent opacity, no hard rim light, no black night values
 ```
 
 ## Master Valley Plate

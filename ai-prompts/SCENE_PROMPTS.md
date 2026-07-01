@@ -6,8 +6,8 @@ Moodboard, lineup, interaction, poster ve README hero promptları. Her prompt `{
 
 ```text
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
-{camera} = stable composition, preschool-readable framing, no fisheye, no Dutch angle
-{lighting} = warm diffused daylight, soft contact shadows, no hard rim light
+{camera} = stable 50mm preschool camera, eye-level or gentle wide shot, clear readable staging, no Dutch angle, no fisheye, no shaky movement
+{lighting} = warm diffused daylight or cozy soft-blue night, soft contact shadows under 25 percent opacity, no hard rim light, no black night values
 ```
 
 ## Moodboard - Visual Identity

@@ -20,7 +20,7 @@
 | Yas | 4 yas hissi; 3-4 yas izleyici gozu |
 | Arketip | Kesif cocugu / izleyici vekili |
 | Temel ihtiyac | "Anlamak ve guvende kalmak" |
-| En sevdigi kelime | "Bak!" |
+| En sevdigi kelime | "Bak!" (EN catchphrase: "What's that?") |
 | En buyuk korku | Sevdigi bir seyi bulamamak; yalniz kalmak degil, "nerede?" kaygisi |
 
 ## 2. FORM
@@ -117,7 +117,7 @@
 | Yas | 3.5 yas duygusal seviye |
 | Arketip | Duygusal destek / yumuşatici arkadas |
 | Temel ihtiyac | "Yakinda kalmak ve birlikte hissetmek" |
-| En sevdigi kelime | "Birlikte" |
+| En sevdigi kelime | "Birlikte" (EN catchphrase: "Let's see!") |
 | En buyuk korku | Sirasi gelmeden unutulmak |
 
 ## 2. FORM
@@ -214,7 +214,7 @@
 | Yas | Yetiskin rehber; duygu dili 3-4 yas seviyesine iner |
 | Arketip | Bilge yuvarlak rehber / sakin ritim kurucu |
 | Temel ihtiyac | "Cocuklarin kendi kesfini guvende tutmak" |
-| En sevdigi kelime | "Yavasca" |
+| En sevdigi kelime | "Yavasca" (EN catchphrase: "Well done!") |
 | En buyuk korku | Cocuklarin acele edip duyguyu anlamadan gecmesi |
 
 ## 2. FORM

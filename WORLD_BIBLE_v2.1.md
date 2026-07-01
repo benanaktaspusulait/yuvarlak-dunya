@@ -548,3 +548,39 @@ Opa tells a story.
 Children walk home under the stars.
 
 This daily rhythm keeps every story connected naturally.
+
+---
+
+# Residents & Location Ownership
+
+Pompom Hills has two layers of residents:
+
+## Main Cameo Cast (13 named characters)
+
+The named, designed characters live in `characters/pompom-hills/` and are introduced in
+S01E01. They are placed across the world's locations in the scenes, for example:
+
+| Character | Associated Location |
+| --- | --- |
+| Kiko | Kiko's Home (Flower Hill) |
+| Mimi | Mimi's Burrow (Flower Hill) |
+| Opa | Opa's Tree |
+| Tillo | Tillo's Garden / Tillo's Treehouse |
+| Sofia | Rosie's Rose Garden (art/colour scenes) |
+| Aiko | Butterfly Meadow |
+| Amara | Friendship Meadow |
+| Freya | Lily's Lavender Farm |
+| Arda | Friendship Meadow (football) |
+| Mirnik | Little Forest |
+| Mimo | Rainbow Creek |
+| Noah | Central Square |
+| Luca | Stone Hill |
+
+## Ambient Owner-Names (not speaking cast)
+
+Some locations carry an owner-style name for warmth and flavour — **Rosie's Rose Garden,
+Milo's Pond, Lily's Lavender Farm, Poppy's Bakery, Benny's Playground, Lulu's Greenhouse**.
+Except where an owner is also a member of the main cast (e.g., **Tillo**), these names are
+**ambient/background residents only**: they are not part of the 13-character speaking cast and
+do not require character bibles in Season 1. They may be developed into full characters in a
+later season if needed.

@@ -450,6 +450,11 @@ This creates natural story dynamics without conflict:
 
 **Season 1 should use ONLY the main trio: Kiko, Mimi, and Opa.**
 
+> **Production Update (v2.1):** Bu öneri, projenin sonraki genişletilmiş 13 karakterlik
+> kadrosundan (bkz. `characters/pompom-hills/`) önce yazılmıştır. Güncel karar: ana trio
+> duygusal çıpa ve bölüm lideri olarak kalır; ek karakterler S01E01'de kısa cameo tanıtımları
+> olarak yer alır. Aşağıdaki gerekçe orijinal tasarım mantığı olarak korunmuştur.
+
 ### Why
 
 1. **Toddler cognitive load**: Children aged 3 to 4 years are still learning to recognise and remember faces. Adding too many characters overwhelms them.

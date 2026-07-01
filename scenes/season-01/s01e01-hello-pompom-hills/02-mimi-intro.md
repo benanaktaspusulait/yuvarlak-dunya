@@ -17,7 +17,7 @@
 | Mekan | Central Square — Pompom Hills meydanı |
 | Ana duygu | Sevecenlik |
 | Pedagojik hedef | Çocuk izleyici Mimi'yi, kulak sallanmasını ve hop hop hareketini tanır |
-| Ölçek | Mimi = 80 birim (0.85 m) |
+| Ölçek | Mimi = 80 birim (0.80 m) |
 | Günün saati | Sabah-öğle arası, sıcak gündüz ışığı |
 | Hava durumu | Açık gökyüzü, güneşli, yumuşak bulutlar |
 
