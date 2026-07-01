@@ -1,4 +1,4 @@
-# E11 — Shot 01 — Arda Arrives
+# E11 — Shot 01 — Arda Arrives (v2.0)
 
 ---
 
@@ -36,7 +36,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Dialogue
 
 ```
-Arda: Opa?
+Arda: Opa? I'm sleepy.
 ```
 
 ---
@@ -47,7 +47,7 @@ Arda: Opa?
 |---|---|---|
 | 0-5 sn | Sunset sky, tree silhouette | Wide establishing |
 | 5-10 sn | Arda walks in, looks at tree | Medium |
-| 10-15 sn | Looks up, sleepy eyes | Medium close-up |
+| 10-15 sn | Looks up, sleepy eyes, gentle yawn | Medium close-up |
 
 ---
 

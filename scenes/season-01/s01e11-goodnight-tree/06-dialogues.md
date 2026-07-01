@@ -1,4 +1,4 @@
-# S01E11 — Dialogues
+# S01E11 — Dialogues v2.0
 
 ---
 
@@ -6,12 +6,14 @@
 
 | Shot | Character | Line |
 |---|---|---|
-| 01 | Arda | "Hi Opa!" |
-| 01 | Opa | "Hello!" |
-| 02 | Opa | "Time for bed." |
-| 03 | Arda | "Goodnight tree." |
-| 04 | Arda | "Goodnight Opa." |
-| 04 | Opa | "Goodnight." |
+| 01 | Arda | "Opa? I'm sleepy." |
+| 02 | Opa | "Hello, little one." |
+| 02 | Arda | "Tell me a story." |
+| 02 | Opa | "Once upon a time..." |
+| 03 | Arda | "Is the tree sleepy too?" |
+| 03 | Opa | "Even trees need sleep." |
+| 04 | Arda | "Goodnight, tree." |
+| 04 | Opa | "The tree says goodnight too." |
 
 ---
 
@@ -19,5 +21,5 @@
 
 | Character | Total Lines |
 |---|---|
-| Arda | 3 |
+| Arda | 4 |
 | Opa | 3 |

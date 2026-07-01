@@ -1,4 +1,4 @@
-# E11 — Shot 04 — Goodnight
+# E11 — Shot 04 — Goodnight (v2.0)
 
 ---
 
@@ -10,7 +10,7 @@
 | Shot | 04 / 04 |
 | Duration | 15 seconds |
 | Location | Opa's Tree |
-| Characters | Opa |
+| Characters | Arda, Opa |
 | Time of Day | Night approaching |
 
 ---
@@ -21,14 +21,14 @@ This shot continues directly from Shot 03.
 
 Same Opa's Tree location.
 
-Arda is asleep at the base of the tree.
+They just learned the tree needs sleep too.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Opa looking down warmly at sleeping Arda at the base of his tree, golden sunset fading to soft blue, gentle smile, peaceful goodnight atmosphere, no other characters, {style} {camera} {lighting}
+Arda sleeping at the base of Opa's Tree, Opa looking down from branch with warm smile, stars appearing in dark blue sky, tree leaves gently rustling as if saying goodnight, peaceful magical nighttime atmosphere, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -38,7 +38,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Dialogue
 
 ```
-Opa: Goodnight, little one.
+Arda: Goodnight, tree.
+Opa: The tree says goodnight too.
 ```
 
 ---
@@ -47,22 +48,36 @@ Opa: Goodnight, little one.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa looks down at sleeping Arda | Wide |
-| 5-10 sn | Warm smile | Medium |
-| 10-15 sn | Gentle wing salute | Medium close-up |
+| 0-5 sn | Arda says goodnight to tree, tree leaves rustle | Medium |
+| 5-10 sn | Arda curls up, falls asleep | Medium close-up |
+| 10-15 sn | Camera slowly pulls back: sky, stars, tree, sleeping Arda, Opa watching | Wide final shot |
 
 ---
 
 ## Sound
 
-- Peaceful evening ambient
+- Tree leaves rustling (response to goodnight)
 - Soft night crickets beginning
+- Peaceful silence
 
 ---
 
 ## Lighting
 
-Sunset fading to soft blue night.
+Sunset fading to soft blue night. Stars appearing.
+
+---
+
+## Final Frame Notes
+
+The final frame should show:
+- Dark blue sky with first stars
+- The great tree silhouette
+- Arda sleeping at the base
+- Opa on his branch, watching warmly
+- A sense of peace and safety
+
+This is the image children will remember.
 
 ---
 

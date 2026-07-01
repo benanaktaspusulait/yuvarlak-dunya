@@ -1,4 +1,4 @@
-# E11 — Shot 02 — Opa Tells a Story (v2.0)
+# E11 — Shot 03 — Arda Asks About the Tree (v2.0)
 
 ---
 
@@ -7,28 +7,28 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | S01E11 — Goodnight, Tree |
-| Shot | 02 / 04 |
+| Shot | 03 / 04 |
 | Duration | 15 seconds |
 | Location | Opa's Tree |
-| Characters | Opa, Arda |
+| Characters | Arda, Opa |
 | Time of Day | Sunset |
 
 ---
 
 ## Continuity
 
-This shot continues directly from Shot 01.
+This shot continues directly from Shot 02.
 
 Same Opa's Tree location.
 
-Arda is at the base of the tree looking up.
+Opa was telling a story.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Opa on his tree branch looking down warmly at Arda during sunset, gentle smile, warm orange-pink light, peaceful evening atmosphere, no other characters, {style} {camera} {lighting}
+Arda looking up at the tree with curious sleepy eyes, Opa looking down from branch, golden sunset light, warm intimate moment, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -38,9 +38,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Dialogue
 
 ```
-Opa: Hello, little one.
-Arda: Tell me a story.
-Opa: Once upon a time...
+Arda: Is the tree sleepy too?
+Opa: Even trees need sleep.
 ```
 
 ---
@@ -49,21 +48,21 @@ Opa: Once upon a time...
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa in tree above, looking down | Wide |
-| 5-10 sn | Smiles warmly at Arda | Medium |
-| 10-15 sn | Begins telling story, gentle head movement | Medium close-up |
+| 0-5 sn | Arda looks up at tree with curiosity | Medium |
+| 5-10 sn | Opa looks at tree, then back at Arda | Medium |
+| 10-15 sn | Opa gently points at the tree's leaves | Medium close-up |
 
 ---
 
 ## Sound
 
-- Peaceful evening ambient
+- Soft leaf rustle (tree "responding")
 
 ---
 
 ## Lighting
 
-Orange-pink sunset.
+Golden sunset.
 
 ---
 

@@ -1,4 +1,4 @@
-# Goodnight, Tree — Türkçe Anlatım
+# Goodnight, Tree — Türkçe Anlatım v2.0
 
 ---
 
@@ -12,7 +12,9 @@ Akşam olur.
 
 Gökyüzü turuncuya, pembeboyaya döner.
 
-Opa'nın ağacı sessizce durur.
+Opa'nın ağacı sessizce duruyor.
+
+Yaprakları hafifçe sallanıyor.
 
 Arda gelir.
 
@@ -22,7 +24,7 @@ Gözleri uykulu.
 
 Ağaca bakar.
 
-> **"Opa?"**
+> **"Opa? I'm sleepy."**
 
 ---
 
@@ -48,39 +50,61 @@ Opa başlar.
 
 ### Sahne 3
 
-Arda ağacın dibine oturur.
+Arda bir an durur.
 
-Gözleri kapanır.
+Ağaca bakar.
 
-Başı ağırır.
+Yaprakların hafifçe sallandığını görür.
 
-> **"So sleepy..."**
+> **"Is the tree sleepy too?"**
 
-Ve uykuya dalar.
+Opa yapraklara bakar.
 
-Sessizce.
+Sonra Arda'ya.
 
-Güvenle.
+> **"Even trees need sleep."**
+
+Ağacın yaprakları hafifçe hışırdar.
+
+Sanki onaylıyormuş gibi.
 
 ---
 
 ### Sahne 4
 
-Opa aşağıya bakar.
+Arda ağacın dibine oturur.
 
-Uyuyan Arda'yı görür.
+Yukarı bakar.
 
-Sıcak bir gülümseme.
+> **"Goodnight, tree."**
 
-Kanadını yavaşça kaldırır.
+Bir an sessizlik.
 
-> **"Goodnight, little one."**
+Sonra ağacın yaprakları hışırdar.
 
-Ve gece başlar.
+Sanki "iyi geceler" der gibi.
 
-Yıldızlar çıkar.
+Opa gülümser.
 
-Herkes güvendedir.
+> **"The tree says goodnight too."**
+
+Arda gözlerini kapatır.
+
+Uykuya dalar.
+
+Kamera yavaşça geri gider.
+
+Gökyüzü.
+
+Yıldızlar çıkıyor.
+
+Ağaç.
+
+Uyuyan Arda.
+
+Opa.
+
+Ve sessizlik.
 
 ---
 
