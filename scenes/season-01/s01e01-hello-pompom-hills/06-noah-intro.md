@@ -149,10 +149,19 @@ Create a cinematic 16:9 shot inside the EXISTING Central Square of Pompom Hills.
 
 REFERENCE PRIORITY
 Priority 1 (Highest) The supplied Central Square World image.
-Priority 2 The supplied Noah Character reference.
-Priority 3 This prompt.
-If there is ANY conflict between these three, ALWAYS preserve Priority 1 first.
+Priority 2 (@image2) The final frame from the previous scene.
+Priority 3 The supplied Noah Character reference.
+Priority 4 This prompt.
+If there is ANY conflict between these four, ALWAYS preserve Priority 1 first.
 Never modify the supplied world in order to satisfy character generation.
+
+IMPORTANT CONTINUITY RULE
+The first visual reference (@image2) is the FINAL FRAME of the previous scene.
+Start the video EXACTLY from this frame.
+Treat @image2 as the first frame of the new video.
+Continue directly from the camera angle, framing, character pose, composition, lighting and world shown in @image2.
+Do NOT recreate the scene. Do NOT reinterpret the composition. Do NOT generate a new establishing shot.
+The opening frame should feel like frame 451 immediately following frame 450, not the beginning of a new scene.
 
 IMPORTANT: The supplied Central Square world reference is ABSOLUTELY LOCKED.
 Treat it as an already-built location.
