@@ -44,7 +44,8 @@ Her gorsel ve sahne su cumleyi gecmelidir: "3-4 yas cocuk bunu 2 saniyede okuyab
 | `examples/` | Örnek PNG çıktıları ve prompt/seed/model metadata dosyaları |
 | `scenes/` | Bölüm ve sahne yazımı: beat sheet, shot plan, diyalog, prompt, animation notes |
 | `VARIABLES.md` | Tüm prompt değişkenleri, renk paleti ve boyut standartları için merkezi referans |
-| `PRODUCTION_RULES.md` | Kamera, mekan, ışık, ses, zaman sürekliliği ve etkileşim kuralları |
+| `PRODUCTION_PIPELINE.md` | OpenArt production pipeline (tek kaynak): Reference Priority, Environment/Character Lock, Scale, Camera, Reject Rules, Production Order — tüm sahneler buna referans verir |
+| `PRODUCTION_RULES.md` | Production pipeline: LOCKED kuralları (environment/character/Giant Pompom Tree), OpenArt World & Hero Pack kuralları, kamera & scale, failure modes, süreklilik ve etkileşim kuralları |
 | `AUDIO_STYLE_GUIDE.md` | Ses felsefesi, müzik, SFX ve diyalog standartları |
 | `TECH_SPECS.md` | 3D pipeline, model, rig, render ve teslim standartları |
 | `Color/COLOR_PALETTE_LOCK.md` | Kilitli renk paleti referansı |

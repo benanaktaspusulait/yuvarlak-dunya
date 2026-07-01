@@ -2,6 +2,35 @@
 
 Bu dosya OpenArt için hızlı kopyala-yapıştır dünya promptları içerir. Prompt metinleri İngilizcedir ve tümü `{style}`, `{camera}`, `{lighting}` değişkenlerini kullanır.
 
+## Production Pipeline Notu
+
+OpenArt bir image generator değil, **production engine**'dir. Bu paketteki promptlar
+`PRODUCTION_RULES.md` pipeline'ına göre kullanılır.
+
+- **Her mekan kendi bağımsız World'üdür.** Aşağıdaki promptlar o World'ün **World reference**'ını
+  (clean render) üretmek içindir — başlık, etiket, ok, layout veya çerçeve içermez.
+- **Environment Sheet'leri asla World reference olarak kullanma.**
+- Her World için bir **Hero Pack** üret: Hero View, Right View, Back View, Top View.
+- Bir World bir kez üretilir; sahnelerde **asla yeniden üretilmez** — yalnızca karakter insert edilir.
+- Prompt'lar `no characters` ile biter: World reference'lar temiz ve karaktersizdir.
+
+### Hero Pack View Ek Cümleleri
+
+Her mekan promptunun sonuna (16:9'dan önce) ilgili view cümlesini ekle:
+
+```text
+Hero View  → iconic hero composition, 35mm, eye level, environment is the hero
+Right View → clean right-side profile of the same locked location, same layout and colors
+Back View  → clean rear view of the same locked location, same layout and colors
+Top View   → clean top-down/bird's eye layout of the same locked location for placement reference
+```
+
+### LOCKED Environment Cümlesi (her World reference'a ekle)
+
+```text
+This environment is LOCKED. Do not redesign architecture, trees, flowers, paths, benches, lamp posts or landmarks. Keep the Giant Pompom Tree identical in shape, position, scale and color (#81C784). Clean render only: no title, no label, no arrow, no layout, no frame, no text.
+```
+
 ## Variables
 
 ```text

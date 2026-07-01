@@ -33,3 +33,19 @@ avoid sharp edges, realistic skin texture, horror, violence, text, watermark, da
 ```text
 razor bevels, real fur particles, hair strand simulation, pore displacement, fabric weave close-up, metallic glasses glare, hard ray-traced face shadows, black unlit background, high-frequency grass, tiny unreadable props, sharp branch silhouettes, unsafe staircases, steep cliffs, fast slapstick crash, aggressive camera shake
 ```
+
+## OpenArt Production Failure Modes
+
+OpenArt testleriyle doğrulanmış hata modlarına karşı koruma. Sahne (Director) promptlarında,
+karakter var olan LOCKED dünyaya yerleştirilirken bu bloğu negative alanına ekle
+(bkz. `PRODUCTION_RULES.md` §5).
+
+```text
+oversized character, giant character, character too large, character filling the frame, tiny environment, shrunken world, regenerated architecture, redesigned buildings, different house style, different trees, altered tree shape, brown pompom tree, reshaped Giant Pompom Tree, moved landmark, different flower layout, rearranged flowers, changed world layout, different paths, different lighting, environment sheet in scene, reference sheet visible, labels, arrows, layout diagram, frame border, random text, random signs, sign artifacts, watermark, extra characters
+```
+
+### Locked-World Positive Reinforcement (negatif ile birlikte kullan)
+
+```text
+environment is LOCKED and identical to the world reference, do not redesign architecture trees flowers paths benches lamp posts or landmarks, keep Giant Pompom Tree identical in shape position scale and color #81C784, insert character only, environment is the visual hero, character occupies about 10-12 percent of the frame, 35mm eye level, generous negative space
+```

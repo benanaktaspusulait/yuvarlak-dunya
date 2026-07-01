@@ -2,6 +2,21 @@
 
 ---
 
+## PRODUCTION NOTE — World Reference & Hero Pack
+
+Bu dosyadaki promptlar `PRODUCTION_RULES.md` pipeline'ına göre kullanılır. OpenArt bir image
+generator değil, **production engine**'dir.
+
+- Aşağıdaki her prompt bir mekanın **World reference**'ıdır (clean render). Başlık, etiket, ok,
+  layout veya çerçeve içermez ve `no characters` ile üretilir.
+- **Environment Sheet'leri asla World reference olarak kullanma.**
+- **Her mekan kendi bağımsız World'üdür** ve bir **Hero Pack**'e sahiptir: Hero / Right / Back / Top View.
+- Bir World bir kez üretilir; sahnelerde **asla yeniden üretilmez** — yalnızca karakter insert edilir.
+- Her World reference'a LOCKED cümlesini ekle: mimari, ağaç, çiçek, yol, bank, lamba direği ve
+  landmark yeniden tasarımı yasak; Giant Pompom Tree şekil/konum/ölçek/renk (#81C784) sabit.
+
+---
+
 ## STYLE BASE
 
 ```

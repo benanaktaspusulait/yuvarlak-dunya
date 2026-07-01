@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-010
-File: environment/10-benny's-playground.png
+File: environment/10-bennys-playground.png
 Version: 2.1
 Location: Central Square yanı
 ```

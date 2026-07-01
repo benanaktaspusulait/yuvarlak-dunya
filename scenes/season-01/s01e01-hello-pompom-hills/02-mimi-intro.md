@@ -1,4 +1,4 @@
-# Scene 02 - Mimi Introduces Herself v3.0
+# Scene 02 - Mimi Introduces Herself v3.4
 
 ## Scene ID
 
@@ -6,8 +6,9 @@
 | --- | --- |
 | Episode | S01E01 - Hello Pompom Hills |
 | Scene | 02 |
-| Version | 3.0 |
+| Version | 3.4 |
 | Süre | 15 sn |
+| Pipeline notu | Ortam kilitli — yalnızca karakter eklenir |
 
 ## Production Lock
 
@@ -142,10 +143,132 @@ Mimi: Hop hop!
 
 **Voice tone guide:** Soft, rounded, airy. Like a gentle whisper that is still clear. Sweet but not cutesy. Natural child voice.
 
-## Visual Prompt
+## Visual Prompt (OpenArt Director Format)
 
-```text
-Kiko and Mimi in the Central Square of Pompom Hills, Kiko is 100 units tall standing center with a round yellow ball beside her, Mimi is 80 units tall hopping from behind a round fluffy bush #81C784 on the right, Mimi is a soft blue rabbit #90CAF9 with white belly #FFFFFF, long floppy ears with pale pink inner ears #F8BBD0, big green eyes #66BB6A, small pink nose #F48FB1, wearing soft yellow t-shirt #FFF59D, round paws with no fingers, small white fluffy tail, ears flopping with each hop, Kiko watching Mimi with warm smile, morning warm soft daylight, open light blue sky #BBDEFB with round white clouds #FFFFFF, warm yellow sun #FFF9C4, soft green grass #C8E6C9, curved stepping-stone path #E0E0E0, round flowers nearby, {style}, {camera}, {lighting}, 16:9
+```
+Create a cinematic 16:9 shot inside the EXISTING Central Square of Pompom Hills.
+
+IMPORTANT: The supplied Central Square world reference is ABSOLUTELY LOCKED.
+Treat it as an already-built location.
+DO NOT redesign it. DO NOT regenerate it. DO NOT reinterpret it. DO NOT restyle it. DO NOT replace any objects.
+
+Composite Kiko and Mimi into the supplied world. Do not generate a new background.
+
+Preserve EXACTLY:
+- Giant bright green pompom tree
+- Tree shape, colors, and size
+The Giant Pompom Tree is an existing object. Do not modify its foliage density, leaf color, leaf shape, trunk, lighting, or proportions.
+- Circular flower bed
+- Circular stepping stone path
+- All pastel dome houses
+- Kiko's coral pink round house
+- Mimi's round green bush #81C784 at X=55/Z=12
+- House positions
+- Rolling hills
+- Rainbow position
+- Benches
+- Lamp posts
+- Flower beds
+- Path layout
+- Horizon
+- Sky colors (#BBDEFB with 2 round white clouds #FFFFFF)
+- Overall composition
+
+The environment MUST remain visually identical to the supplied Central Square reference.
+The supplied Central Square image is NOT a style reference. It is the actual environment. Do not recreate it. Do not repaint it. Do not regenerate it. Only composite characters into it.
+Only add Kiko and Mimi into the existing world.
+
+----------------------------------------
+CHARACTERS
+Use the supplied character reference sheets exactly.
+Never redesign characters.
+
+Kiko (continuity character):
+- Keep: age (4-year-old), face, pigtails, coral pink shirt, white shorts, proportions
+- Position: X=0/Z=0, center, standing by yellow ball
+
+Mimi (main character):
+- Keep: soft blue rabbit fur #90CAF9
+- Keep: white belly #FFFFFF
+- Keep: long floppy ears with pale pink inner ears #F8BBD0
+- Keep: big green eyes #66BB6A
+- Keep: small pink nose #F48FB1
+- Keep: soft yellow t-shirt #FFF59D
+- Keep: round paws with no fingers
+- Keep: small white fluffy tail
+- Keep: proportions (80 units tall, smaller than Kiko)
+No costume changes. No redesign.
+
+----------------------------------------
+SCALE
+Kiko is 100 units tall, Mimi is 80 units tall (smaller than Kiko).
+Together they occupy ONLY about 10–12% of the entire frame.
+They are NOT the visual focus.
+The environment is the hero (88–90% of frame).
+Benches, lamp posts, flowers, stepping stones, houses, and the giant tree must appear life-sized relative to characters.
+No oversized characters.
+
+----------------------------------------
+ACTION
+Scene starts with Kiko standing center near yellow ball.
+Mimi's ears pop up from behind her round green bush on the right.
+Mimi hops out from behind the bush with a small floppy-ear hop.
+Mimi looks at the camera with a shy smile.
+Kiko watches Mimi with a warm smile.
+Mimi does another small hop-hop toward Kiko.
+Calm, natural, preschool-friendly movement.
+Characters should feel naturally placed inside the existing world, never becoming larger or more visually dominant than the environment.
+
+----------------------------------------
+CAMERA
+Medium cinematic shot.
+50mm lens.
+Eye level (camera height 0.70 m).
+Environment occupies roughly 85% of the composition.
+Keep generous negative space.
+Do NOT zoom toward characters.
+
+----------------------------------------
+LIGHTING
+Warm morning sunlight (#FFF9C4).
+Soft cinematic shadows (max 12% opacity).
+Bright saturated preschool colors.
+Soft global illumination.
+No harsh shadows.
+
+----------------------------------------
+STYLE
+High-end Pixar-quality preschool animation.
+Rounded shapes.
+Ultra clean render.
+Professional cinematic composition.
+Identical production design.
+
+----------------------------------------
+NEGATIVE
+Reject immediately if any of these happen:
+
+- Characters larger than appropriate scale
+- Giant tree changes color or shape
+- Tree moves from its position
+- Houses move or change style
+- Paths change layout
+- Mimi's bush missing or changed
+- Environment regenerated
+- New environment created
+- Different flowers or landscape
+- Different world layout
+- Extra buildings
+- Random text
+- Wrong proportions
+- Fisheye or extreme perspective
+- Cropped tree or characters
+- Mimi with finger hands instead of round paws
+- Mimi's ears wrong color or shape
+- Kiko missing from continuity position
+- Yellow ball missing
+
+The final image should look exactly like the supplied Central Square world, with only Kiko and Mimi naturally inserted into it.
 ```
 
 ## Animation Notes
@@ -205,6 +328,4 @@ Kiko and Mimi in the Central Square of Pompom Hills, Kiko is 100 units tall stan
 - Kulak flop'ları yumuşak ve sevimlidir.
 - Opa bu sahnede yok.
 
-## Negative Prompt
 
-Use `NEGATIVE_PROMPTS.md` common negative prompt.

@@ -1,234 +1,191 @@
-# Pompom Hills - Production Rules v1.0
+# PRODUCTION RULES — Pompom Hills v2.1
 
-## Kural 1: Kamera Sürekliliği
+Bu belge Pompom Hills'in **production pipeline** kurallarını tanımlar. Kamera, mekan, ışık,
+ses, zaman sürekliliği ve karakter etkileşimi standartlarının yanı sıra, OpenArt üzerinde
+yapılan kapsamlı testlerle doğrulanmış **production pipeline** kurallarını içerir.
 
-Her sahne bir önceki sahnenin bittiği kamera açısından devam etmelidir.
+> Bu bir prompt koleksiyonu değildir. Bu, bir animasyon stüdyosu production dokümanıdır.
+> Tüm sahneler bu pipeline'ı paylaşır. Tutarlılık, güzellikten **her zaman** daha önemlidir.
 
-### Nasıl uygulanır:
+İlgili dosyalar: `MASTER_PROMPTS.md`, `OPENART_WORLD_PROMPT_PACK.md`, `WORLD_BUILD_DESCRIPTION.md`,
+`Environments/ENVIRONMENT_IMAGE_PROMPTS.md`, `NEGATIVE_PROMPTS.md`, `VARIABLES.md`.
 
-| Sahne Sonu | Bir Sonraki Sahne Başlangıcı |
+---
+
+## 1. GLOBAL PRODUCTION PHILOSOPHY
+
+- Pompom Hills artık bir **production pipeline** olarak inşa edilmiştir.
+- OpenArt bir görsel üretici (image generator) DEĞİLDİR. OpenArt bizim **production engine**'imizdir.
+- Artık izole/tek seferlik prompt yazmıyoruz. Her prompt production pipeline'ı takip eder.
+- **Consistency is ALWAYS more important than beauty.** (Tutarlılık her zaman güzellikten önemlidir.)
+- **Production quality is ALWAYS more important than speed.** (Production kalitesi her zaman hızdan önemlidir.)
+
+---
+
+## 2. LOCKED PRODUCTION RULES
+
+### 2.1 Environment LOCKED
+
+- Environment **kilitlidir (LOCKED)**.
+- Environment asla yeniden üretilmez (never regenerate).
+- Environment asla yeniden tasarlanmaz (never redesign).
+- Sahneler yalnızca **var olan dünyaların içine karakter yerleştirir** (insert characters only).
+
+### 2.2 Character Appearance LOCKED
+
+Karakter görünümü kilitlidir. Aşağıdakiler her sahnede **birebir aynı** kalmalıdır:
+
+| Alan | Kural |
 |---|---|
-| Wide shot, sol taraf | Wide shot, sol taraftan devam |
-| Close-up, merkez | Medium shot, merkezden genişleme |
-| Push-in, sağa doğru | Pull-out, sağdan başlama |
+| Hair (saç) | Değişmez |
+| Eyes (göz) | Değişmez |
+| Face (yüz) | Değişmez |
+| Body (vücut) | Değişmez |
+| Clothes (kıyafet) | Değişmez |
+| Colors (renkler) | Değişmez |
+| Scale (ölçek) | Değişmez |
 
-### Örnek:
+Referans: `CHARACTER_REFERENCE_GUIDE_v2.1.md`, `Color/COLOR_PALETTE_LOCK.md`, `VARIABLES.md`.
 
-Sahne 01 biterken: Kamera wide, Kiko merkezde, ev sol tarafta
-Sahne 02 başlarken: Kamera wide, Kiko hâlâ merkezde, ev hâlâ sol tarafta
+### 2.3 Giant Pompom Tree — Iconic Landmark LOCKED
 
-### Yasak olan:
+Büyük Ponpon Ağaç (Giant Pompom Tree) ikonik bir landmark'tır. Aşağıdakiler **asla değişmez**:
 
-- Sahne 1'de sol taraftaki ev, sahne 2'de sağa geçemez
-- Kamera açısı aniden değişemez
-- Karakter pozisyonu tutarsız olamaz
-
----
-
-## Kural 2: Mekan Tutarlılığı
-
-Her mekanda objelerin pozisyonu tüm sahneler boyunca aynı kalmalıdır.
-
-### Nasıl uygulanır:
-
-Her mekan için bir "Spatial Layout" tanımı olmalıdır:
-
-```text
-## Spatial Layout — [MEKAN ADI]
-
-| Obje | Pozisyon | Renk |
-|---|---|---|
-| Kiko | Merkez, 1.00 m boy | Coral pink #F8BBD0 |
-| Top | Kiko'nun sağında, yerde | Sarı #FFD54F |
-| Ağaç | Sol arka plan | Yeşil #81C784 |
-| Ev | Sol taraf | Pembe #F8BBD0 |
-```
-
-### Örnek:
-
-Sahne 02'de top Kiko'nun sağındaysa, sahne 03'te de Kiko'nun sağındadır.
-Sahne 02'de ağaç sol taraftaysa, sahne 03'te de sol taraftadır.
-
-### Yasak olan:
-
-- Objeler sahneler arası yer değiştiremez
-- Kamera açısı değişse bile mekan düzeni aynı kalır
-- Yeni objeler rastgele eklenemez (sadece senaryo gereği)
-
----
-
-## Kural 3: Karakter Pozisyonu
-
-Karakterlerin sahne içindeki pozisyonu tutarlı olmalıdır.
-
-### Nasıl uygulanır:
-
-| Karakter | Varsayılan Pozisyon | Not |
-|---|---|---|
-| Kiko | Merkez veya hafif sol | Ana karakter |
-| Mimi | Kiko'nun yanında veya sağında | Arkadaş |
-| Opa | Üstte (ağaç dalı) | Gözlemci |
-
-### Yasak olan:
-
-- Kiko bir sahnede solda, diğerinde sağda olamaz (hareket yoksa)
-- Mimi Kiko'nun önünde olamaz (arkadaş pozisyonu)
-
----
-
-## Kural 4: Işık Tutarlılığı
-
-Aynı mekandaki tüm sahnelerde ışık yönü ve rengi aynı olmalıdır.
-
-### Nasıl uygulanır:
-
-| Mekan | Işık Yönü | Renk |
-|---|---|---|
-| Flower Hill | Sol üst | Sıcak sarı #FFF9C4 |
-| Butterfly Meadow | Merkez üst | Sıcak sarı #FFF9C4 |
-| Central Square | Merkez üst | Sıcak sarı #FFF9C4 |
-| Opa's Tree | Sol üst | Sıcak sarı #FFF9C4 |
-
-### Yasak olan:
-
-- Bir sahne güneşli, diğeri bulutlu olamaz
-- Işık yönü değişemez (sabah/akşam geçişi yoksa)
-
----
-
-## Kural 5: Ses Sürekliliği
-
-Sahne geçişlerinde sesler kesintisiz aktarılmalıdır.
-
-### Nasıl uygulanır:
-
-| Geçiş | Ses Davranışı |
+| Alan | Kural |
 |---|---|
-| Aynı mekan | Ambiyans aynı kalır |
-| Farklı mekan | Ambiyans yavaşça değişir (crossfade) |
-| Koşma | Adım sesleri devam eder |
-| Durma | Sesler yavaşça azalır |
+| Shape (şekil) | Yuvarlak, kabarık taç — değişmez |
+| Position (konum) | Central Square merkezinde — değişmez |
+| Scale (ölçek) | 5-6 m, Opa'nın dalı 1.20 m — değişmez |
+| Colors (renkler) | Taç #81C784, gövde #A1887F — değişmez |
 
-### Yasak olan:
-
-- Aniden sessizlik
-- Aniden yüksek ses
-- Tutarsız ambiyans
+> Ağaç asla kahverengi olmaz, asla yeniden şekillenmez, asla başka bir tepeye taşınmaz.
 
 ---
 
-## Kural 6: Zaman Tutarlılığı
+## 3. OPENART PRODUCTION RULES
 
-Günün saati tüm bölüm boyunca aynı kalmalıdır.
+OpenArt testleriyle doğrulanmış kurallar. İlgili her yerde uygulanır.
 
-### Nasıl uygulanır:
+- **Environment Sheet'leri asla World reference olarak kullanma.**
+- **World reference'lar yalnızca temiz render (clean render) içermelidir:**
+  - Başlık yok (no titles)
+  - Etiket yok (no labels)
+  - Ok yok (no arrows)
+  - Layout/şema yok (no layouts)
+  - Çerçeve yok (no frames)
+- **Her mekanın kendi bağımsız World'ü vardır** (each location = its own independent World).
+- **Her World'ün kendi Hero Pack'i vardır:**
 
-| Bölüm | Günün Saati | Işık |
-|---|---|---|
-| Sabah bölümü | Sabah | Sıcak günışığı |
-| Öğle bölümü | Öğle | Parlak günışığı |
-| Akşam bölümü | Akşam | Turuncu-pembe |
-| Gece bölümü | Gece | Mavi-ay ışığı |
+  | View | Açıklama |
+  |---|---|
+  | Hero View | Mekanın ikonik ana kompozisyonu |
+  | Right View | Sağ profil |
+  | Back View | Arka görünüm |
+  | Top View | Kuş bakışı / üstten |
 
-### Yasak olan:
-
-- Bir sahne sabah, diğeri akşam olamaz
-- Gökyüzü rengi değişemez (aynı bölüm içinde)
-
----
-
-## Uygulama Şablonu
-
-Her sahne dosyasına şu bölümler eklenmelidir:
-
-### 1. Camera Continuity
-
-```text
-## Camera Continuity
-
-| Alan | Değer |
-| --- | --- |
-| Previous scene end | [Önceki sahnenin son kamera açısı] |
-| This scene start | [Bu sahnenin başlangıç açısı] |
-| This scene end | [Bu sahnenin bitiş açısı] |
-| Next scene will start | [Bir sonraki sahne nereden başlayacak] |
-```
-
-### 2. Spatial Layout
-
-```text
-## Spatial Layout
-
-| Obje | Pozisyon | Renk | Not |
-| --- | --- | --- | --- |
-| [Obje adı] | [X, Y koordinatı] | [Hex kodu] | [Ek bilgi] |
-```
+- **Sahne üretimi sırasında world'ler asla yeniden üretilmez.** Yalnızca karakter yerleştirilir.
+- **OpenArt'a environment'ın LOCKED olduğunu açıkça söyle.**
+- **Şunların yeniden tasarlanmasını açıkça yasakla:** mimari (architecture), ağaçlar (trees),
+  çiçekler (flowers), yollar (paths), banklar (benches), lamba direkleri (lamp posts) ve
+  landmark'lar (landmarks).
 
 ---
 
-## Kontrol Listesi
+## 4. CAMERA & SCALE
 
-Her sahne yayınlanmadan önce kontrol edilmelidir:
+- Environment **her zaman görsel kahramandır** (the visual hero). Karakterler ikincildir.
+- Wide (geniş) kompozisyonlar tercih edilir.
+- Sahne aksini gerektirmedikçe **varsayılan lens 35mm**'dir.
+- **Eye-level** (göz hizası) kamera.
+- Geniş **negative space** (boşluk) bırakılır.
+- Karakterler kare içinde yaklaşık **%10–12** yer kaplar.
+- İzleyici önce dünyayı, sonra karakteri fark etmelidir.
+- Asla oversized (büyütülmüş) karakter üretme.
 
-- [ ] Kamera açısı bir önceki sahneyle uyumlu mu?
-- [ ] Mekandaki objelerin pozisyonu tutarlı mı?
-- [ ] Karakter pozisyonu mantıklı mı?
-- [ ] Işık yönü ve rengi tutarlı mı?
-- [ ] Sesler kesintisiz mi?
-- [ ] Günün saati değişmedi mi?
+> Not: `MASTER_PROMPTS.md` bazı tanıtım (intro) sahnelerinde %18–20 kullanır. Standart
+> production kuralı %10–12'dir; daha yüksek oran yalnızca bilinçli karakter tanıtımı içindir.
 
----
-
-## Kural 7: Etkileşimli Öğeler (3-4 Yaş)
-
-3-4 yaş grubu çocukları ekranla etkileşim kurar. Bu etkileşimler kasıtlı ve kontrollü olmalıdır.
-
-### Karakterin İzleyiciye Bakması
-
-| Durum | Süre | Not |
-|---|---|---|
-| Doğrudan bakış | 2-3 saniye | Göz teması, güven hissi |
-| Selamlama | 1-2 saniye | El sallama, gülümseme |
-| Davet | 2-3 saniye | "Gel", "Birlikte bakalım" |
-
-### Soru Sorma
-
-| Tür | Örnek | Süre |
-|---|---|---|
-| Basit soru | "What's that?" | 3-4 saniye |
-| Seçim sorusu | "Red or blue?" | 4-5 saniye |
-| Tekrar sorusu | "Can you say hello?" | 3-4 saniye |
-
-### Bekleme Süreleri
-
-| Durum | Süre | Not |
-|---|---|---|
-| Soru sonrası | 3-4 saniye | Çocuğun cevap vermesi için |
-| Keşif sonrası | 2-3 saniye | İzlemenin tadını çıkarması için |
-| Gülme sonrası | 1-2 saniye | Paylaşma anı |
-
-### Tekrar Öğeleri
-
-| Öğe | Tekrar | Amaç |
-|---|---|---|
-| Cümle | 3-4 kez | Öğrenme |
-| Hareket | 2-3 kez | Taklit |
-| Melodi | Her bölüm | Tanıdıklık |
-
-### Etkileşim Kuralları
-
-```
-✓ Yavaş ve kontrollü
-✓ Sıcak ve davetkar
-✓ Tekrar edilebilir
-✓ Basit ve anlaşılır
-
-✗ Hızlı ve rahatsız edici
-✗ Zorlayıcı veya utandırıcı
-✗ Karmaşık
-✗ Korkutucu
-```
+Kamera shot, yükseklik ve karakter oranı seçenekleri için `MASTER_PROMPTS.md` §4'e bakınız.
 
 ---
 
-*Bu belge Pompom Hills production kuralları için referansdır.*
+## 5. KNOWN OPENART FAILURE MODES
+
+Aşağıdaki yaygın hatalara karşı korun. İlgili her yerde prompt'ları bu hataları açıkça
+önleyecek şekilde güçlendir.
+
+| # | Failure Mode | Koruma |
+|---|---|---|
+| 1 | Oversized characters | Ölçeği kilitle, %10–12 frame oranını belirt |
+| 2 | Tiny environments | Environment = visual hero, wide shot |
+| 3 | Regenerated architecture | "DO NOT redesign", environment LOCKED |
+| 4 | Different trees | Ağaç şekli/rengi kilitli, redesign yasak |
+| 5 | Different flower layouts | Çiçek yerleşimi kilitli, insert-only |
+| 6 | Different lighting | `{lighting}` sabit, warm diffused daylight |
+| 7 | Brown or reshaped Giant Pompom Tree | Landmark LOCKED: #81C784 taç, şekil sabit |
+| 8 | Environment Sheet appearing inside the scene | World reference = clean render only |
+| 9 | Random text or sign artifacts | Negative: text, watermark, random signs |
+| 10 | Changed world layout | Layout/paths/object placement LOCKED |
+
+Negative prompt blokları için `NEGATIVE_PROMPTS.md` → "OpenArt Production Failure Modes".
+
+---
+
+## 6. CONTINUITY & INTERACTION RULES
+
+### 6.1 Camera Continuity
+
+- Aynı mekanda ardışık sahnelerde kamera yüksekliği tutarlı tutulur (0.70–1.10 m).
+- Lens sıçraması yapılmaz; varsayılan 35–50mm aralığında kalınır.
+- Dutch angle, fisheye, shaky cam yasaktır.
+
+### 6.2 Environment Continuity
+
+- Bir mekanın layout'u, yol yerleşimi ve obje sayıları bölümler arasında değişmez.
+- Object Inventory (obje sayıları) mekanın Environment Bible'ından alınır ve korunur.
+
+### 6.3 Lighting Continuity
+
+- Zaman dilimi (sabah/öğle/akşam/gece) sahne boyunca tutarlıdır.
+- Gölge opaklığı %25 altında; gece değerleri asla siyah değildir.
+
+### 6.4 Sound Continuity
+
+- Ambiyans döngüleri mekanla eşleşir (bkz. ilgili Environment Bible → Soundscape).
+- Yasak sesler (bağırma, çığlık, patlama, motor, siren) hiçbir sahnede kullanılmaz.
+
+### 6.5 Time Continuity
+
+- Günlük akış: Sabah → Öğle → Akşam → Gece (bkz. `WORLD_BUILD_DESCRIPTION.md` §8).
+- Bir bölüm içinde zaman geriye akmaz; geçişler yumuşak ve okunabilirdir.
+
+### 6.6 Character Interaction
+
+- Aynı anda kadrajda en fazla 3-4 karakter.
+- Karakterler arası 18-24 birim boşluk (trio kuralı).
+- Etkileşim bölgeleri ve güvenli alanlar mekanın Environment Bible'ından alınır.
+
+---
+
+## 7. PRODUCTION DOCUMENT DISCIPLINE
+
+- Markdown'lar **production-ready** tutulur.
+- Dokümantasyon asla basitleştirilmez (never simplify).
+- Bölümler asla birleştirilmez (never merge sections).
+- Tablolar asla kaldırılmaz (never remove tables).
+- Teknik bilgi asla kaldırılmaz (never remove technical information).
+- Version-control dostu formatlama korunur.
+- Yalnızca istenen alanlar güncellenir (only update requested fields).
+
+---
+
+## 8. GOAL
+
+Mevcut production dokümanı korunur ve OpenArt testleriyle doğrulanmış en güncel production
+pipeline'ı yansıtacak şekilde yükseltilir. Nihai doküman, jenerik bir AI prompt gibi değil,
+profesyonel bir animasyon stüdyosu production dokümanı gibi okunmalıdır.
+
+---
+
+*Bu belge Pompom Hills production pipeline'ının kilit referansıdır.*
+*Son güncelleme: 2026-07-01*

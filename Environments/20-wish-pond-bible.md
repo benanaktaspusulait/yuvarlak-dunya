@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-020
-File: environment/20-Wish-Pond.png
+File: environment/20-wish-pond.png
 Version: 2.1
 Location: Little Forest yanı
 ```

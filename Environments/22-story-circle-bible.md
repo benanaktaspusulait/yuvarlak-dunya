@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-022
-File: environment/22-Story-Circle.png
+File: environment/22-story-circle.png
 Version: 2.1
 Location: Tree Hill yanı
 ```

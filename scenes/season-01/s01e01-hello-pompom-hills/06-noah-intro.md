@@ -1,4 +1,4 @@
-# Scene 06 - Noah Introduces Himself v3.0
+# Scene 06 - Noah Introduces Himself v3.4
 
 ## Scene ID
 
@@ -6,8 +6,9 @@
 | --- | --- |
 | Episode | S01E01 - Hello Pompom Hills |
 | Scene | 06 |
-| Version | 3.0 |
+| Version | 3.4 |
 | Süre | 15 sn |
+| Pipeline notu | Ortam kilitli — yalnızca karakter eklenir |
 
 ## Production Lock
 
@@ -20,6 +21,9 @@
 | Ölçek | Noah = 100 birim |
 | Günün saati | Sabah-öğle arası, sıcak gündüz ışığı |
 | Hava durumu | Açık gökyüzü, güneşli, yumuşak bulutlar |
+| Kadraj oranı (frame) | Noah ~%10-12; ortam ~%85-90 (ortam görsel kahraman) |
+| Ortam kilidi | Central Square World LOCKED — asla regenerate/redesign edilmez; yalnızca karakter eklenir |
+| Karakter kilidi | Noah reference sheet LOCKED: saç, göz, yüz, beden, kıyafet, renk, ölçek değişmez |
 
 ## Previous Scene End State
 
@@ -35,7 +39,7 @@
 | Noah konumu | X=0 / Z=0, merkezde, oturuyor |
 | Bloklar | X=-15 / Z=5, Noah'un önünde |
 | Kamera yüksekliği | 0.80 m |
-| Lens | 50mm |
+| Lens | 35mm |
 | Hava | Sabah-öğle arası, 2 bulut |
 | Gölge opacity | Max %12 |
 
@@ -108,7 +112,7 @@
 
 ## Pedagojik Amaç
 
-3-4 yaş izleyici için Noah yaratıcı ve neşeli bir çocuk olarak tanıtılır. Bloklarla oynarken seenılır, "eğlenceli yapma" mesajı verilir.
+3-4 yaş izleyici için Noah yaratıcı ve neşeli bir çocuk olarak tanıtılır. Bloklarla oynarken görülür, "eğlenceli yapma" mesajı verilir.
 
 ## Beat Sheet
 
@@ -123,7 +127,7 @@
 
 | Shot | Süre | Lens | Kamera Yüksekliği | Aksiyon | Ses |
 | --- | ---: | --- | --- | --- | --- |
-| 01 | 4 sn | 50mm medium | 0.80 m | Noah oturur, blokları dizer | Kuş cıvıltısı + blok "click" |
+| 01 | 4 sn | 35mm wide medium | 0.80 m | Noah oturur, blokları dizer | Kuş cıvıltısı + blok "click" |
 | 02 | 4 sn | 50mm medium close-up | 0.80 m | Bloklar devrilir, Noah gülümser | Noah: "Let's make it fun!" |
 | 03 | 4 sn | 50mm close-up | 0.80 m | Parmağını kaldırır | Noah: "I have an idea!" |
 | 04 | 3 sn | 35mm medium, sabit | 0.75 m | Blokları yeniden dizer | Noah: "What if we build it?" |
@@ -138,11 +142,209 @@ Noah: What if we build it?
 
 **Voice tone guide:** Neşeli, yaratıcı, heyecanlı. Her cümlede gülümseme hissi. Çocuk sesi, net ve anlaşılır.
 
-## Visual Prompt
+## Visual Prompt (OpenArt Director Format)
 
-```text
-Noah a cheerful creative boy introducing himself in Central Square, Pompom Hills, 100 units tall, curly light brown hair #C48A5A, big warm brown eyes #7A4A2A, soft freckles across nose #E7869A, blue striped t-shirt #8EC5F0 with denim pocket #4C7DBA, khaki shorts #D2B48C, blue sneakers #3D7DBB, sitting with colorful rounded building blocks, bright creative smile, morning warm soft daylight, open light blue sky #BBDEFB with round white clouds #FFFFFF, warm yellow sun #FFF9C4, green grass #C8E6C9, large pompom tree in background, round stepping stones, no extra characters, {style}, {camera}, {lighting}, 16:9
 ```
+Create a cinematic 16:9 shot inside the EXISTING Central Square of Pompom Hills.
+
+REFERENCE PRIORITY
+Priority 1 (Highest) The supplied Central Square World image.
+Priority 2 The supplied Noah Character reference.
+Priority 3 This prompt.
+If there is ANY conflict between these three, ALWAYS preserve Priority 1 first.
+Never modify the supplied world in order to satisfy character generation.
+
+IMPORTANT: The supplied Central Square world reference is ABSOLUTELY LOCKED.
+Treat it as an already-built location.
+DO NOT redesign it. DO NOT regenerate it. DO NOT reinterpret it. DO NOT restyle it. DO NOT replace any objects.
+
+COMPOSITING MODE
+Use the supplied Central Square image as the final background plate.
+Insert Noah into that plate.
+Do NOT repaint the background. Do NOT regenerate the background. Do NOT redesign the background. Do NOT replace any object.
+Background pixels should remain unchanged except where Noah naturally overlaps the scene.
+
+Preserve EXACTLY:
+- Giant bright green pompom tree
+- Tree shape
+- Tree colors
+- Tree size
+The Giant Pompom Tree is an existing object. Do not modify its foliage density, leaf color, leaf shape, trunk, lighting, or proportions.
+- Circular flower bed
+- Circular stepping stone path
+- All pastel dome houses
+- House positions
+- Rolling hills
+- Rainbow position
+- Benches
+- Lamp posts
+- Flower beds
+- Path layout
+- Horizon
+- Sky colors
+- Overall composition
+
+WORLD LOCK
+This world already exists. It is NOT concept art. It is NOT inspiration. It is NOT style reference. It is the FINAL production environment.
+Do not improve it. Do not beautify it. Do not stylize it. Do not reinterpret it. Do not rebalance composition.
+Do not move any object. Do not resize any object. Do not add environmental details. Do not remove environmental details.
+
+The environment MUST remain visually identical to the supplied Central Square reference.
+The supplied Central Square image is NOT a style reference. It is the actual environment. Do not recreate it. Do not repaint it. Do not regenerate it. Only composite Noah into it.
+Only add Noah into the existing world.
+
+----------------------------------------
+CHARACTER
+Use the supplied Noah reference sheet exactly.
+Never redesign Noah.
+Keep:
+- age
+- face
+- hairstyle
+- freckles
+- shirt
+- shorts
+- shoes
+- colors
+- proportions
+No costume changes. No hairstyle changes. No facial redesign.
+
+----------------------------------------
+VISUAL PRIORITY
+The viewer's eye should travel in this order:
+1. Central Square environment
+2. Giant Pompom Tree
+3. Surrounding colorful village
+4. Noah
+If Noah becomes the first thing the viewer notices, the generation has failed.
+
+----------------------------------------
+REAL WORLD SCALE (STRICT)
+Noah is a very small preschool child inside a very large environment.
+Noah occupies ONLY about 4–6% of the total image area.
+The environment is the visual hero and occupies at least 94–96% of the frame.
+The Giant Pompom Tree must appear approximately 12–15 times taller than Noah.
+Benches should appear roughly shoulder height relative to Noah.
+Lamp posts should appear 4–5 times taller than Noah.
+The colorful houses should appear significantly larger than Noah.
+The stepping stones should clearly appear much larger than Noah's feet.
+If Noah immediately attracts the viewer's attention because of his size, the image is incorrect.
+The viewer should first notice the environment, then discover Noah naturally inside it.
+Never generate an oversized child. Never enlarge Noah for readability.
+
+----------------------------------------
+CAMERA LOCK (STRICT)
+Keep the original World camera exactly.
+Do not move the camera closer to Noah.
+Do not zoom.
+Do not crop.
+Do not change focal length.
+Do not recompose the shot around Noah.
+Keep the same horizon, framing, perspective and environment composition as the supplied World.
+Treat Noah as a naturally existing child inside an already photographed environment.
+The camera is filming the location, not the child.
+
+SHOT TYPE
+Wide Environmental Establishing Shot.
+The purpose of this shot is to introduce Central Square.
+Noah is only a small secondary element inside the environment.
+The environment is the main character.
+Noah should feel discovered rather than presented.
+
+----------------------------------------
+ACTION
+Noah sits quietly on the colorful stepping stones in front of the giant tree.
+He calmly builds a small tower using rounded wooden blocks.
+His movements are gentle and subtle.
+Do not pose Noah toward the camera.
+Do not center Noah visually.
+Noah should appear as if the viewer accidentally notices him while looking at the beautiful environment.
+
+----------------------------------------
+CAMERA
+Wide cinematic shot.
+35mm lens.
+Eye level.
+Camera height about 0.8 m.
+Environment occupies roughly 90% of the composition.
+Keep generous negative space.
+Do NOT zoom toward Noah.
+
+----------------------------------------
+LIGHTING
+Bright warm morning sunlight.
+Soft cinematic shadows.
+Highly saturated preschool colors.
+Soft global illumination.
+
+----------------------------------------
+STYLE
+High-end Pixar-quality preschool animation.
+Rounded shapes.
+Ultra clean render.
+Professional cinematic composition.
+Identical production design.
+
+----------------------------------------
+NEGATIVE
+Reject immediately if any of these happen:
+
+- Noah larger than a real preschool child
+- Noah too large
+- Noah visually dominant
+- Child becomes focal point
+- Camera framing favors Noah
+- Close composition around Noah
+- Oversized preschool child
+- Environment becomes secondary
+- Giant tree changes color
+- Giant tree changes shape
+- Tree moves
+- Houses move
+- Houses change style
+- Paths change
+- Benches shrink
+- Lamp posts shrink
+- Environment regenerated
+- New environment created
+- Different flowers
+- Different landscape
+- Different world layout
+- Extra buildings
+- Random text
+- Wrong proportions
+- Fisheye
+- Extreme perspective
+- Cropped tree
+- Cropped Noah
+
+FAIL CONDITIONS
+Immediately reject the generation if:
+• Noah becomes larger than intended.
+• The tree changes.
+• Houses move.
+• Flowers change.
+• Paths change.
+• Tree color changes.
+• Environment is regenerated.
+• Camera changes.
+• Different composition.
+• Different lighting style.
+• Different world.
+Retry internally until all constraints are satisfied.
+
+The final image should look exactly like the supplied Central Square world, with only Noah naturally inserted into it.
+
+Environment consistency is more important than character generation quality. Never sacrifice environment fidelity in order to improve Noah.
+```
+
+## Animation Notes
+
+- Noah'un hareketleri yumuşak, doğal ve sakin.
+- Blok düşüşü yavaş, dramatik olmasın.
+- Kamerada hafifçe yavaş hareket (slow‑in / slow‑out).
+- Gölgeler yumuşak, kontrast düşük.
+- Noah'un yüz ifadesi sadece hafif bir gülümseme.
 
 ## Animation Notes
 
@@ -170,6 +372,7 @@ Noah a cheerful creative boy introducing himself in Central Square, Pompom Hills
 | --- | --- |
 | Sonraki sahne | 07-aiko-intro |
 | Geçiş notu | Noah gururla bakar, kamera genişler |
+| Ortam sürekliliği | Central Square World kilitli; sonraki sahne aynı dünyayı (aynı layout/mimari/ağaç/çiçek/yol/bank/lamba/ışık) kullanır, yeniden üretmez |
 
 ## Existing Assets
 
@@ -189,7 +392,3 @@ Yok.
 - Gökyüzü her zaman aydınlık.
 - Sivri köşe, tehlikeli nesne yok.
 - Maksimum 1 konuşan karakter (Noah).
-
-## Negative Prompt
-
-Use `NEGATIVE_PROMPTS.md` common negative prompt.

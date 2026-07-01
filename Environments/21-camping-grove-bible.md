@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-021
-File: environment/21-Camping Grove.png
+File: environment/21-camping-grove.png
 Version: 2.1
 Location: Tree Hill yanı
 ```

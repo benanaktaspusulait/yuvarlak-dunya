@@ -1,4 +1,4 @@
-# Scene 01 - Kiko Introduces Herself v3.0
+# Scene 01 - Kiko Introduces Herself v3.4
 
 ## Scene ID
 
@@ -6,8 +6,9 @@
 | --- | --- |
 | Episode | S01E01 - Hello Pompom Hills |
 | Scene | 01 |
-| Version | 3.0 |
+| Version | 3.4 |
 | Süre | 15 sn |
+| Pipeline notu | Ortam kilitli — yalnızca karakter eklenir |
 
 ## Production Lock
 
@@ -144,10 +145,127 @@ Kiko: Let's look together!
 
 **Voice tone guide:** Warm, curious, bright. A tiny upward smile in every line. Excitement is controlled, never shrill. No sadness. Slow, clear delivery.
 
-## Visual Prompt
+## Visual Prompt (OpenArt Director Format)
 
-```text
-Kiko introduces herself in the Central Square of Pompom Hills, morning warm soft daylight, open light blue sky #BBDEFB with 2 round white clouds #FFFFFF, warm yellow sun #FFF9C4, soft green grass #C8E6C9, one round pompom tree in background left, curved stepping-stone path #E0E0E0, round flowers yellow #FFD54F and pink #F48FB1 in small garden, Kiko's coral pink round house visible far left background, Mimi's round green bush visible mid right background, Opa's big pompom tree visible far right background, Kiko is 100 units tall, 4-year-old curious child with warm brown pigtails #8D6E63, brown eyes #795548, coral pink long-sleeve shirt #F8BBD0, white shorts #FFFFFF, coral socks and round coral shoes #F8BBD0, mitten hands with no fingers, gently waving at the viewer, a round yellow ball beside her, no extra characters, {style}, {camera}, {lighting}, 16:9
+```
+Create a cinematic 16:9 shot inside the EXISTING Central Square of Pompom Hills.
+
+IMPORTANT: The supplied Central Square world reference is ABSOLUTELY LOCKED.
+Treat it as an already-built location.
+DO NOT redesign it. DO NOT regenerate it. DO NOT reinterpret it. DO NOT restyle it. DO NOT replace any objects.
+
+Composite Kiko into the supplied world. Do not generate a new background.
+
+Preserve EXACTLY:
+- Giant bright green pompom tree (background left)
+- Tree shape, colors, and size
+The Giant Pompom Tree is an existing object. Do not modify its foliage density, leaf color, leaf shape, trunk, lighting, or proportions.
+- Circular flower bed
+- Circular stepping stone path
+- All pastel dome houses
+- Kiko's coral pink round house (far left background)
+- Mimi's round green bush (mid right background)
+- House positions
+- Rolling hills
+- Rainbow position
+- Benches
+- Lamp posts
+- Flower beds (yellow #FFD54F and pink #F48FB1)
+- Path layout
+- Horizon
+- Sky colors (#BBDEFB with 2 round white clouds #FFFFFF)
+- Overall composition
+
+The environment MUST remain visually identical to the supplied Central Square reference.
+The supplied Central Square image is NOT a style reference. It is the actual environment. Do not recreate it. Do not repaint it. Do not regenerate it. Only composite Kiko into it.
+Only add Kiko into the existing world.
+
+----------------------------------------
+CHARACTER
+Use the supplied Kiko reference sheet exactly.
+Never redesign Kiko.
+Keep:
+- age (4-year-old)
+- face (brown eyes #795548)
+- hairstyle (warm brown pigtails #8D6E63)
+- coral pink long-sleeve shirt #F8BBD0
+- white shorts #FFFFFF
+- coral socks and round coral shoes #F8BBD0
+- mitten hands with no fingers
+- proportions (100 units tall, small preschool child)
+No costume changes. No hairstyle changes. No facial redesign.
+
+----------------------------------------
+SCALE
+Kiko is a SMALL preschool child.
+She occupies ONLY about 6–8% of the entire frame.
+She is NOT the visual focus.
+The environment is the hero (92–94% of frame).
+Benches, lamp posts, flowers, stepping stones, houses, and the giant tree must appear life-sized relative to Kiko.
+No oversized child.
+
+----------------------------------------
+ACTION
+Kiko walks slowly from screen left back to center of Central Square.
+She stops in front of a round yellow ball on the ground.
+She looks at the camera, gives a small warm wave with both mitten hands.
+She points to the yellow ball with a curious smile.
+She picks up the ball gently with both hands.
+She holds the ball and invites the viewer to explore together.
+Calm, natural, preschool-friendly movement.
+Kiko should feel naturally placed inside the existing world, never becoming larger or more visually dominant than the environment.
+
+----------------------------------------
+CAMERA
+Wide cinematic shot.
+50mm lens.
+Eye level (camera height 0.85 m).
+Environment occupies roughly 90% of the composition.
+Keep generous negative space.
+Do NOT zoom toward Kiko.
+
+----------------------------------------
+LIGHTING
+Warm morning sunlight (#FFF9C4).
+Soft cinematic shadows (max 12% opacity).
+Bright saturated preschool colors.
+Soft global illumination.
+No harsh shadows on character face.
+
+----------------------------------------
+STYLE
+High-end Pixar-quality preschool animation.
+Rounded shapes.
+Ultra clean render.
+Professional cinematic composition.
+Identical production design.
+"Living toy set" feeling.
+
+----------------------------------------
+NEGATIVE
+Reject immediately if any of these happen:
+
+- Kiko larger than a real preschool child
+- Giant tree changes color or shape
+- Tree moves from its position
+- Houses move or change style
+- Paths change layout
+- Benches or lamp posts shrink
+- Environment regenerated
+- New environment created
+- Different flowers
+- Different landscape
+- Different world layout
+- Extra buildings
+- Random text
+- Wrong proportions
+- Fisheye or extreme perspective
+- Cropped tree or character
+- Kiko's house missing or changed color
+- Mimi's bush missing
+- Finger hands instead of mitten hands
+
+The final image should look exactly like the supplied Central Square world, with only Kiko naturally inserted into it.
 ```
 
 ## Animation Notes
@@ -207,6 +325,4 @@ Kiko introduces herself in the Central Square of Pompom Hills, morning warm soft
 - Sivri köşe, tehlikeli nesne, korkutucu öğe yok.
 - Maksimum 1 konuşan karakter (Kiko).
 
-## Negative Prompt
 
-Use `NEGATIVE_PROMPTS.md` common negative prompt.

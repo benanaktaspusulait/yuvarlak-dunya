@@ -16,6 +16,18 @@ OpenArt'ta "World" oluştururken kullanılacak sabit stil/kamera/ışık çıpas
 - **Mekan promptları:** `OPENART_WORLD_PROMPT_PACK.md` (hızlı kopyala-yapıştır) ve `Environments/*.md` bibleları.
 - **En-boy oranı:** 16:9, 1920x1080 (bkz. 11. Teknik Standartlar).
 
+### 0.1 Production Pipeline & LOCKED Kuralları
+
+Pompom Hills bir **production pipeline** olarak inşa edilir; OpenArt bir image generator değil,
+**production engine**'dir. Tam kural seti: `PRODUCTION_RULES.md`.
+
+- **Environment LOCKED:** Dünya asla yeniden üretilmez/yeniden tasarlanmaz. Sahneler var olan
+  dünyanın içine **yalnızca karakter yerleştirir** (insert only).
+- **Character LOCKED:** Saç, göz, yüz, vücut, kıyafet, renk ve ölçek her sahnede birebir aynıdır.
+- **Giant Pompom Tree LOCKED:** Şekil, konum (Central Square merkezi), ölçek ve renk (#81C784)
+  asla değişmez. Bu ikonik landmark'tır.
+- **Consistency > beauty.** Tutarlılık her zaman güzellikten önce gelir.
+
 ---
 
 ## 1. GENEL TANIM

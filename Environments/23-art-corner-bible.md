@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-023
-File: environment/23-Art-Corner.png
+File: environment/23-art-corner.png
 Version: 2.1
 Location: Story Circle yanı
 ```

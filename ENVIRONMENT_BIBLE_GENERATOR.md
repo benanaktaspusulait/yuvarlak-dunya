@@ -783,7 +783,7 @@ The final document should become the definitive visual reference for this locati
 
 ```
 LOCATION NAME = Butterfly Meadow
-ENVIRONMENT ID = ENV-020
+ENVIRONMENT ID = ENV-017
 HERO IMAGE = 17-butterfly-meadow.png
 ```
 
@@ -793,37 +793,41 @@ Profesyonel Environment Bible + Visual DNA + Object Inventory + Camera Safe Zone
 
 ---
 
-## 24 Environment Listesi
+## 27 Environment Listesi
+
+> **Canonical eşleme:** Location # = bible dosya öneki = Hero Image dosya numarası = ENV ID.
+> 1–24 render plate'i olan mekanlardır (`environment/*.png` ile birebir eşleşir). 25–27 yalnızca
+> coğrafya/hikaye bibleları olan tepelerdir; standalone render plate'i yoktur (bkz. `Environments/README.md`).
 
 | # | Location Name | Environment ID | Hero Image |
 |---|---|---|---|
-| 1 | Central Square | ENV-001 | 1-central-square.png |
+| 1 | Central Square | ENV-001 | 1-central-square/1-central-square.png |
 | 2 | Cloud Hill | ENV-002 | 2-cloud-hill.png |
-| 3 | Flower Hill | ENV-003 | 3-flower-hill.png |
-| 4 | Kiko's Home | ENV-004 | 3-kikos-home.png |
-| 5 | Sun Hill | ENV-005 | 4-sun-hill.png |
-| 6 | Mimi's Burrow | ENV-006 | 5-mimis-burrow.png |
-| 7 | Tree Hill | ENV-007 | 5-tree-hill.png |
-| 8 | Opa's Tree | ENV-008 | 6-opas-tree.png |
-| 9 | Stone Hill | ENV-009 | 6-stone-hill.png |
-| 10 | Tillo's Garden | ENV-010 | 7-tillos-garden.png |
-| 11 | Lulu's Greenhouse | ENV-011 | 8-lulus-greenhouse.png |
-| 12 | Poppy's Bakery | ENV-012 | 9-poppys-bakery.png |
-| 13 | Benny's Playground | ENV-013 | 10-bennys-playground.png |
-| 14 | Tillo's Treehouse | ENV-014 | 11-tillos-treehouse.png |
-| 15 | Milo's Pond | ENV-015 | 12-milos-pond.png |
-| 16 | Rosie's Rose Garden | ENV-016 | 13-rosies-rose-garden.png |
-| 17 | Lily's Lavender Farm | ENV-017 | 14-lilys-lavender-farm.png |
-| 18 | Rainbow Bridge | ENV-018 | 15-rainbow-bridge.png |
-| 19 | Friendship Meadow | ENV-019 | 16-friendship-meadow.png |
-| 20 | Butterfly Meadow | ENV-020 | 17-butterfly-meadow.png |
-| 21 | Little Forest | ENV-021 | 18-little-forest.png |
-| 22 | Rainbow Creek | ENV-022 | 19-rainbow-creek.png |
-| 23 | Wish Pond | ENV-023 | 20-wish-pond.png |
-| 24 | Camping Grove | ENV-024 | 21-camping-grove.png |
-| 25 | Story Circle | ENV-025 | 22-story-circle.png |
-| 26 | Art Corner | ENV-026 | 23-art-corner.png |
-| 27 | Adventure Trail | ENV-027 | 24-adventure-trail.png |
+| 3 | Kiko's Home | ENV-003 | 3-kikos-home.png |
+| 4 | Sun Hill | ENV-004 | 4-sun-hill.png |
+| 5 | Mimi's Burrow | ENV-005 | 5-mimis-burrow.png |
+| 6 | Opa's Tree | ENV-006 | 6-opas-tree.png |
+| 7 | Tillo's Garden | ENV-007 | 7-tillos-garden.png |
+| 8 | Lulu's Greenhouse | ENV-008 | 8-lulus-greenhouse.png |
+| 9 | Poppy's Bakery | ENV-009 | 9-poppys-bakery.png |
+| 10 | Benny's Playground | ENV-010 | 10-bennys-playground.png |
+| 11 | Tillo's Treehouse | ENV-011 | 11-tillos-treehouse.png |
+| 12 | Milo's Pond | ENV-012 | 12-milos-pond.png |
+| 13 | Rosie's Rose Garden | ENV-013 | 13-rosies-rose-garden.png |
+| 14 | Lily's Lavender Farm | ENV-014 | 14-lilys-lavender-farm.png |
+| 15 | Rainbow Bridge | ENV-015 | 15-rainbow-bridge.png |
+| 16 | Friendship Meadow | ENV-016 | 16-friendship-meadow.png |
+| 17 | Butterfly Meadow | ENV-017 | 17-butterfly-meadow.png |
+| 18 | Little Forest | ENV-018 | 18-little-forest.png |
+| 19 | Rainbow Creek | ENV-019 | 19-rainbow-creek.png |
+| 20 | Wish Pond | ENV-020 | 20-wish-pond.png |
+| 21 | Camping Grove | ENV-021 | 21-camping-grove.png |
+| 22 | Story Circle | ENV-022 | 22-story-circle.png |
+| 23 | Art Corner | ENV-023 | 23-art-corner.png |
+| 24 | Adventure Trail | ENV-024 | 24-adventure-trail.png |
+| 25 | Flower Hill | ENV-025 | (background location) |
+| 26 | Tree Hill | ENV-026 | (background location) |
+| 27 | Stone Hill | ENV-027 | (background location) |
 
 ---
 

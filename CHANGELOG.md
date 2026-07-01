@@ -2,6 +2,47 @@
 
 Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 
+## v2.1 - OpenArt Production Pipeline Pass
+
+### Added
+
+- `PRODUCTION_RULES.md` oluşturuldu (daha önce `README.md`'de listeliydi ama dosya yoktu):
+  production pipeline felsefesi, LOCKED kuralları, OpenArt World & Hero Pack kuralları,
+  camera & scale, known failure modes, süreklilik ve etkileşim kuralları.
+- `WORLD_BUILD_DESCRIPTION.md`: OpenArt World master prompt (§0) ve Production Pipeline & LOCKED
+  kuralları (§0.1) bölümleri eklendi.
+- `MASTER_PROMPTS.md`: Production Pipeline, World Reference & Hero Pack ve OpenArt Failure Modes
+  hızlı koruma bölümleri eklendi.
+- `OPENART_WORLD_PROMPT_PACK.md`: Production pipeline notu, Hero Pack view cümleleri ve LOCKED
+  environment cümlesi eklendi.
+- `Environments/ENVIRONMENT_IMAGE_PROMPTS.md`: World reference & Hero Pack production notu eklendi.
+- `NEGATIVE_PROMPTS.md`: "OpenArt Production Failure Modes" negatif bloğu ve locked-world pozitif
+  pekiştirme cümlesi eklendi.
+
+### Changed
+
+- `README.md`: `PRODUCTION_RULES.md` açıklaması genişletilerek production pipeline kapsamı yansıtıldı.
+- `WORLD_BUILD_DESCRIPTION.md`: coğrafya/karakter tutarlılık düzeltmeleri (büyük ponpon ağaç
+  Central Square'da, Kiko'nun evi Flower Hill'de) ve yazım düzeltmeleri yapıldı.
+
+### Fixed — Environment ID & Hero Image Reconciliation
+
+- `ENVIRONMENT_BIBLE_GENERATOR.md` mekan tablosu canonical hâle getirildi: 1–24 render plate
+  mekanları gerçek `environment/*.png` dosyalarıyla ve ENV-001…024 ID'leriyle birebir eşleşiyor;
+  Flower/Tree/Stone Hill artık 25–27 (background, render plate yok) olarak listeleniyor. Yanlış
+  Butterfly Meadow örneği ENV-020 → ENV-017 düzeltildi.
+- Üç tepe bible'ındaki çift (duplicate) ENV ID'leri düzeltildi: Flower Hill ENV-003 → ENV-025,
+  Tree Hill ENV-005 → ENV-026, Stone Hill ENV-006 → ENV-027. Artık 27 mekan da benzersiz ID taşıyor.
+- 11 bible'daki kırık `File:` referansları gerçek dosya adlarına düzeltildi (apostrof/boşluk/büyük
+  harf temizlendi; ör. `9-poppy's-bakery.png` → `9-poppys-bakery.png`, `20-Wish-Pond.png` →
+  `20-wish-pond.png`). Central Square gerçek konumu olan `1-central-square/1-central-square.png`'e işaret ediyor.
+
+### Production Philosophy
+
+- OpenArt bir image generator değil, **production engine**'dir.
+- Consistency > beauty. Production quality > speed.
+- Environment / Character / Giant Pompom Tree LOCKED.
+
 ## v2.1 - Production Readiness Pass
 
 ### Added

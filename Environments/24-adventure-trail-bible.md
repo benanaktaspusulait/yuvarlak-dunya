@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-024
-File: environment/24-Adventure-Trail.png
+File: environment/24-adventure-trail.png
 Version: 2.1
 Location: Tüm vücudu bağlayan patika
 ```

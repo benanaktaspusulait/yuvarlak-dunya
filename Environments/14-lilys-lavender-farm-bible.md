@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-014
-File: environment/14-lily's-lavender-farm.png
+File: environment/14-lilys-lavender-farm.png
 Version: 2.1
 Location: Butterfly Meadow yanı
 ```
