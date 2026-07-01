@@ -21,10 +21,13 @@
 | Ana duygu | Macera |
 | Pedagojik hedef | Çocuk izleyici Luca'nın adını, macera sevgisini ve keşif tutkusunu öğrenir |
 | Ölçek | Luca = 100 birim |
-| Günün saati | Sabah-öğle arası, sıcak gündüz ışığı |
-| Hava durumu | Açık gökyüzü, güneşli, yumuşak bulutlar |
+| Günün saati | Sabah-öğle arası |
+| Hava durumu | Açık gökyüzü, güneşli |
+| Continuity | Continues directly from previous shot |
+| Location Lock | Same Stone Hill house, same interior room |
+| Environment Lock | Room layout is locked and must remain identical |
 
-## Previous Scene End State
+## Previous Shot End State
 
 | Alan | Değer |
 | --- | --- |
@@ -40,13 +43,14 @@
 | Lens | 50mm |
 | Hava | Sabah-öğle arası, 2 bulut, rüzgar 0.2 m/sn |
 | Gölge opacity | Max %12 |
+| Continuity | Continues immediately from the previous shot inside the same room. No location change. |
 
 ## Environment Plate
 
 | Alan | Değer |
 | --- | --- |
-| Dosya yolu | `environment/4-sun-hill.png` |
-| Arka plan landmarkları | Stone Hill — kavisli patika, yuvarlak pastel taşlar yukarı çıkar |
+| Dosya yolu | Stone Hill World — Interior room (continuation from previous shot) |
+| Arka plan landmarkları | Stone Hill interior — same room, same layout, same lighting |
 
 ## Coordinate Map (Kiko=100 birim)
 
@@ -117,27 +121,27 @@
 ## Beat Sheet
 
 | Beat | Süre | Aksiyon |
-| --- | ---: | --- |
-| 1 | 0-4 sn | Luca dürbünüyle bakar, uzaklara |
-| 2 | 4-8 sn | Dürbünü indirir, heyecanla kameraya döner |
-| 3 | 8-12 sn | Parmeğiyle uzaktaki yolu gösterir |
-| 4 | 12-15 sn | Koşarak ileriye gider |
+| --- | --- | --- |
+| 1 | 0-3 sn | Luca dürbünüyle uzaklara bakar. Sonra dürbünü indirip kameraya döner. |
+| 2 | 3-7 sn | Gülümseyerek el sallar. "Hi! I'm Luca!" der. |
+| 3 | 7-11 sn | Göğsünü işaret eder. "I love exploring!" der. |
+| 4 | 11-15 sn | Dürbününü kaldırır, kapıya doğru yönelir. "Come with me!" der. |
 
 ## Shot Plan
 
-| Shot | Süre | Lens | Kamera Yüksekliği | Aksiyon | Ses |
-| --- | ---: | --- | --- | --- | --- |
-| 01 | 4 sn | 50mm medium | 0.85 m | Luca dürbünüyle bakar | Kuş cıvıltısı |
-| 02 | 4 sn | 50mm medium close-up | 0.85 m | Dürbünü indirir, heyecanlanır | Luca: "Let's explore together!" |
-| 03 | 4 sn | 50mm medium | 0.85 m | Parmekle yolu gösterir | Luca: "I see a path!" |
-| 04 | 3 sn | 35mm wide, sabit | 0.80 m | Koşarak gider | Luca: "Map time!" |
+| Shot | Süre | Lens | Kamera | Aksiyon | Ses |
+| --- | --- | --- | --- | --- | --- |
+| 01 | 3 sn | 50mm medium | 0.85 m | Luca dürbünüyle bakar, indirir | Kuş cıvıltısı |
+| 02 | 4 sn | 50mm medium close-up | 0.85 m | Gülümser, el sallar | "Hi! I'm Luca!" |
+| 03 | 4 sn | 50mm medium | 0.85 m | Göğsünü işaret eder | "I love exploring!" |
+| 04 | 4 sn | 35mm wide | 0.80 m | Dürbününü kaldırır, yönelir | "Come with me!" |
 
 ## Dialogue
 
 ```text
-Luca: Let's explore together!
-Luca: I see a path!
-Luca: Map time!
+Luca: Hi! I'm Luca!
+Luca: I love exploring!
+Luca: Come with me!
 ```
 
 **Voice tone guide:** Maceracı, enerjik, meraklı. Her cümlede heyecan. Çocuk sesi, net ve canlı.
@@ -145,7 +149,39 @@ Luca: Map time!
 ## Visual Prompt
 
 ```text
-Luca an adventurous boy introducing himself on Stone Hill, Pompom Hills, 100 units tall, wavy messy dark brown hair #3A2A1E, big warm brown eyes #7A4A2A, light freckles #E7A97A, cream shirt with leaf green sleeves #68AE68 and mountain print, khaki green shorts #7C8F5A, orange sneakers #FF8A3D, holding rounded binoculars looking into distance, excited explorer expression, morning warm soft daylight, open light blue sky #BBDEFB with round white clouds #FFFFFF, warm yellow sun #FFF9C4, green grass #C8E6C9, round pastel stepping stones #E0E0E0 winding uphill, no extra characters, {style}, {camera}, {lighting}, 16:9
+This shot continues directly from the previous shot.
+
+Remain inside the exact same Stone Hill house and the exact same interior room.
+
+Do not redesign the room.
+
+Keep the room layout, furniture, windows, doors, decorations, props, lighting and atmosphere exactly the same as the previous shot.
+
+Maintain the exact same spatial layout established in the previous shot.
+
+Only the camera framing and Luca's action may change.
+
+Luca from Pompom Hills continues naturally from the previous shot, holding his rounded binoculars and looking into the distance with an excited explorer expression. Warm morning daylight entering through the windows. Same interior. No new objects. No other characters. {style} {camera} {lighting}
+
+The character is speaking naturally.
+
+Do not display dialogue as on-screen text.
+
+Do not generate speech bubbles.
+
+Do not generate captions.
+
+Do not generate subtitles.
+
+Do not display any written words anywhere in the image.
+
+No text.
+
+No typography.
+
+No labels.
+
+No UI.
 ```
 
 ## Animation Notes
@@ -159,6 +195,7 @@ Luca an adventurous boy introducing himself on Stone Hill, Pompom Hills, 100 uni
 | Expression | Heyecanlı, meraklı, maceracı |
 | Squash-stretch | Max %5 |
 | Background motion | Bulutlar yavaşça süzülür |
+| Environment continuity | Interior layout remains unchanged throughout consecutive shots |
 
 ## End State
 
@@ -167,23 +204,24 @@ Luca an adventurous boy introducing himself on Stone Hill, Pompom Hills, 100 uni
 | Luca konumu | X=50 / Z=0, sahneyi terk etmiş |
 | Kamera | 0.80 m, 35mm |
 | Hava | Aynı durum korunuyor |
+| Continuity | Interior room remains unchanged for the next shot |
 | Duygu | Maceracı, heyecanlı |
 
 ## Continuity Handoff
 
 | Alan | Değer |
 | --- | --- |
-| Sonraki sahne | 11-freya-intro |
-| Devredilen durum | Luca sahneyi terk etmiş, Stone Hill boş |
+| Next Shot | 10.1-luca-continuation |
+| Devredilen durum | Luca sahneyi terk etmiş, Stone Hill interior aynı |
 | Kamera | 0.80 m, 35mm |
-| Hava | Sabah-öğle arası, 2 bulut, rüzgar 0.2 m/sn |
+| Hava | Sabah-öğle arası, 2 bulut |
 
 ## Existing Assets
 
-| Asset | Dosya yolu |
+| Reference | Purpose |
 | --- | --- |
-| Environment | `environment/4-sun-hill.png` |
-| Luca | `characters/drawings/luca.png` |
+| Stone Hill Hero View | World reference |
+| Luca Character Sheet | Character reference |
 
 ## Missing Assets
 
@@ -202,4 +240,4 @@ Luca an adventurous boy introducing himself on Stone Hill, Pompom Hills, 100 uni
 
 ## Negative Prompt
 
-Use `NEGATIVE_PROMPTS.md` common negative prompt.
+low quality, blurry, deformed anatomy, extra limbs, extra fingers, duplicate characters, cropped, cut off, text, watermark, logo, UI elements, frame, border, photorealistic, realistic skin, horror, scary, dark lighting, violence, weapons, blood, sharp objects, adult themes, inappropriate clothing, distorted face, inconsistent character design, inconsistent environment, redesigned room, redesigned layout, Central Square, different world, scary owl, dark forest, spooky tree, sharp branches, dramatic shadows, fast flying, environment redesign, new location, extra characters
