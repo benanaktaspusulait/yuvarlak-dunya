@@ -169,4 +169,37 @@ Close-up of glass panel with condensation droplets. Tiny plant detail inside. Wa
 
 ---
 
+## Emotional Purpose
+
+Lulu's Greenhouse children'lere "sıcaklık ve bakım" duygusunu aşılar. Cam duvarların ardındaki yeşil dünya, çocuklar için güvenli bir sığınak hissi yaratır. Büyüyen bitkiler, nemli hava, sıcak bir kucaklama — her an bir bakım hikayesi.
+
+---
+
+## Play Philosophy
+
+Greenhouse'da oyun=open-ended ve doğal keşiftir. Bitkileri izleme, su damlalarını takip etme, camdan dışarı bakma — hepsi keşiftir. Rekabet yok; her孩子 kendi hızında büyümeyi izler. Birlikte bakım, birlikte büyüme.
+
+---
+
+## Material Language
+
+Her yüzey yuvarlak ve sıcak. Cam paneller yumuşak çerçeveli, saksılar yuvarlak, raflar ahşap ve pürüzsüz. Sert veya kırılgan hiçbir şey yok. Her şey nemli ve yeşil, bir çocuk serasından çıkmış gibi.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children sıcaklık ve bakım hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Yeşil ve canlı bir his var mı?
+✓ Işık sıcak ve yumuşak mı?
+✓ Sesler yumuşak ve doğal mı?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Lulu's Greenhouse mekanı için production referansıdır.*

@@ -32,6 +32,24 @@ Hobby Horse Trail exists because preschool children naturally enjoy pretend play
 
 ---
 
+## Emotional Purpose — Why children feel safe/happy here
+
+Hobby Horse Trail, çocukların "at binme" hayalini yaşadığı güvenli bir alan. Gerçek at korkusu yok, düşme riski yok — sadece yumuşak çimenler ve renkli bayraklar. Birlikte yürümek, zil çalmak, çiçeklere bakmak... Her adım bir sevinç kaynağı.
+
+---
+
+## Play Philosophy — Open-ended play, imagination, cooperation (no competition)
+
+Yarış yok. Rekabet yok. "İlk ben" yok. Çocuklar tahta atlarıyla birlikte yürür, birbirlerini bekler, birlikte keşfeder. Oyunun sonunda "kazanan" yok — ama herkes birlikte güler. Hayal gücü kuralları belirler, yetişkinler değil.
+
+---
+
+## Material Language — Soft, rounded, handcrafted, toy-like materials
+
+Tahta atlar peluş başlı, yumuşak çubuklu. Patika yuvarlak taşlarla çerçeveli, çiçek kemerleri ipek gibi yumuşak. Zil direği ahşap, yuvarlak, dokunulası. Bayraklar kumaş, rüzgarda hafifçe sallanır. Hiçbir malzeme sert veya tehditkar değil.
+
+---
+
 ## Story Function
 
 - Hayal gücü oyunu ("Atımzla uzak bir köye gidiyoruz!")
@@ -447,6 +465,21 @@ Shot şu durumlarda reddedilir:
 - Patika kavisi her shot'ta aynı
 - Işık yönü bölüm içinde değişmez
 - Gökyüzü rengi tutarlı
+
+---
+
+## Quality Checklist
+
+```
+✓ Çocuklar burada güvende hissediyor mu?
+✓ Oyun açık uçlu ve hayal gücüne dayalı mı?
+✓ Malzemeler yumuşak ve yuvarlak mı?
+✓ Rekabet veya yarışma unsuru yok mu?
+✓ İşbirliği ve paylaşma teşvik ediliyor mu?
+✓ Sivri köşe veya sert malzeme yok mu?
+✓ Her yaştan çocuk erişebilir mi?
+✓ Duygusal olarak sevinç dolu mu?
+```
 
 ---
 

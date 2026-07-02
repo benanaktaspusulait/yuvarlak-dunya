@@ -38,6 +38,24 @@ Friendship Meadow, dostluğun ve birlikteliğin fiziksel manifestosudur. Çocukl
 
 ---
 
+## Emotional Purpose
+
+Friendship Meadow, çocukların birlikte oynamanın coşkusunu yaşadığı bir mekan. Grup halinde gülmek, paylaşmak ve birlikte olmak, burada doğal bir his yaratır. Her çocuk burada değerli ve ait hisseder.
+
+---
+
+## Play Philosophy
+
+Burada kurallar yok, sadece birlikte olmak var. Çocuklar birlikte koşar, paylaşır, güler ve yaratır. Yarışma yok, işbirliği ve hayal gücü var. Her oyun birbirine dokunur.
+
+---
+
+## Material Language
+
+Çimen yumuşak, taşlar yuvarlak, rüzgar sıcak. Her şey el yapımı hissi veriyor — sert köşe yok, doğa her yerde. Pompom yumuşaklığı ve oyuncak sıcaklığı hissedilir.
+
+---
+
 ## World Position
 
 ```
@@ -138,6 +156,23 @@ Friendship Meadow ← BURASI
 - **Avoid**: Tek başına sahneler, dar alan, karanlık
 - **Typical Duration**: 30-60 saniye
 - **Best Emotional Themes**: Birliktelik, neşe, paylaşım, dostluk
+
+---
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose var mı?
+✓ Play Philosophy var mı?
+✓ Material Language var mı?
+✓ Consistency Checklist var mı?
+✓ Story Opportunities var mı?
+✓ Soundscape var mı?
+✓ Forbidden var mı?
+✓ Production Notes var mı?
+```
 
 ---
 

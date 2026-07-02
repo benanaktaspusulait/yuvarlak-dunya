@@ -31,6 +31,24 @@ Mimi's Burrow, yeraltında güvenli bir sığınak olarak tasarlanmıştır — 
 
 ---
 
+## Emotional Purpose — Why children feel safe/happy here
+
+Mimi'nin yuvası, çocukların "kendilerine ait bir yer" hissini yaşadığı sığınak. Yeraltında olmak korkutucu değil — gizli bir dünya, sadece onlara ait. Sıcak mavi ışık, yumuşak yastık ve havuç kutusu, "burası benim" hissini pekiştirir. Dışarısı ne olursa olsun, burada her şey yolundadır.
+
+---
+
+## Play Philosophy — Open-ended play, imagination, cooperation (no competition)
+
+Burada belirli bir aktivite yok — çocuklar kendi oyunlarını yaratır. Kitap okur, havuç yer, pencereden dışarı bakar, uyur. Kimse "şöyle yap" demez. Mimi'nin yuvası,孩子们'ın kendi ritimlerinde dinlendiği, hayal kurduğu, sessiz kaldığı bir alan.
+
+---
+
+## Material Language — Soft, rounded, handcrafted, toy-like materials
+
+Yuvarlak giriş, yumuşak yastık, peluş dokular. Hiçbir köşe sivri, hiçbir yüzey sert değil. Mavi tonlar sıcak, beyazlar temiz, turuncu renkler canlı ama göz yormuyor. Her eşya küçük eller için tasarlanmış — dokunulası, kucaklanabilir, güvenli.
+
+---
+
 ## Canonical OpenArt Reference Pack
 
 | # | Reference Name | Description |
@@ -277,6 +295,21 @@ Yeraltında yuvarlak bir giriş.
 ✓ Sıcak ışık var mı?
 ✓ Sivri köşe yok mu?
 ✓ Mimi'nin kulakları sığıyor mu?
+```
+
+---
+
+## Quality Checklist
+
+```
+✓ Çocuklar burada güvende hissediyor mu?
+✓ Oyun açık uçlu ve hayal gücüne dayalı mı?
+✓ Malzemeler yumuşak ve yuvarlak mı?
+✓ Rekabet veya yarışma unsuru var mı?
+✓ Sıcak ve davetkar bir atmosfer var mı?
+✓ Sivri köşe veya soğuk renk yok mu?
+✓ Her yaştan çocuk erişebilir mi?
+✓ Duygusal olarak rahatlatıcı mı?
 ```
 
 ---

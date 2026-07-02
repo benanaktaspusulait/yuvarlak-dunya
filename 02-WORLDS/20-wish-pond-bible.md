@@ -58,6 +58,24 @@ Wish Pond, serinin "dilek ve hayal gücü" tapınağı olarak tasarlanmıştır 
 
 ---
 
+## Emotional Purpose
+
+Wish Pond, çocukların umut ve hayal gücünü yaşadığı en duygusal mekan. Dilek dilemek, yıldızlara bakmak, suda yansımayı izlemek — burada her an sihirli ve güvenli hissettirir.
+
+---
+
+## Play Philosophy
+
+Kurallar yok, hayal gücü var. Çocuklar sessizce oturur, yıldızları izler, dilek diler ve hayal eder. Yarışma yok, bireysel yaratıcılık ve meditatif keşif var. Her çocuk kendi dünyasında.
+
+---
+
+## Material Language
+
+Su berrak ve yumuşak, taşlar yuvarlak, yıldızlar parlak. Her şey doğal ve el yapımı hissi veriyor — sert köşe yok, sihir her yerde. Oyuncak sıcaklığında bir gölet.
+
+---
+
 ## World Position
 
 ```
@@ -138,6 +156,23 @@ Camping Grove
 ✓ Sessiz mi?
 ✓ Sihirli his var mı?
 ✓ Sivri köşe yok mu?
+```
+
+---
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose var mı?
+✓ Play Philosophy var mı?
+✓ Material Language var mı?
+✓ Consistency Checklist var mı?
+✓ Story Opportunities var mı?
+✓ Soundscape var mı?
+✓ Forbidden var mı?
+✓ Production Notes var mı?
 ```
 
 ---

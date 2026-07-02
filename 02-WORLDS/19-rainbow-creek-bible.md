@@ -208,4 +208,37 @@ Flower Hill
 
 ---
 
+## Emotional Purpose
+
+Rainbow Creek children'lere "huzur ve sakinlik" duygusunu verir. Yavaş akan su, yuvarlak renkli taşlar, küçük köprü — her şey meditatif bir atmosfer yaratır. Stres yok, acele yok; sadece suyun huzurlu akışı.
+
+---
+
+## Play Philosophy
+
+Creek'te oyun=open-ended ve doğa keşfidir. Taş seçme, suya bakma, balık izleme — hepsi sakin bir keşiftir. Rekabet yok; her孩子 kendi ritminde suyun yanında durur. Birlikte yürüyüş, birlikte sessizlik.
+
+---
+
+## Material Language
+
+Her yüzey yumuşak ve yuvarlak. Taşlar renkli ve pürüzsüz, su berrak ve temiz, köprü ahşap ve yumuşak dokulu. Sert veya karanlık yüzey yok. Her şey doğal bir masal dünyasından çıkmış gibi.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children huzur ve sakinlik hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Doğal, temiz his var mı?
+✓ Işık sıcak ve su yansımalı mı?
+✓ Sesler yumuşak ve su sesi var mı?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Rainbow Creek mekanı için production referansıdır.*

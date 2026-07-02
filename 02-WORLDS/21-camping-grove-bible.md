@@ -38,6 +38,24 @@ Camping Grove introduces night scenes and campfire storytelling, expanding the s
 
 ---
 
+## Emotional Purpose
+
+Camping Grove, çocukların geceyi güvenli ve sıcak hissettiği bir mekan. Kamp ateşi etrafında toplanmak, yıldızları izlemek, masal dinlemek — burada gece korku değil, macera hissi verir.
+
+---
+
+## Play Philosophy
+
+Kurallar yok, birlikte yaratmak var. Çocuklar ateş başında hikaye anlatır, yıldızlara bakar ve hayal eder. Yarışma yok, işbirliği ve hayal gücü var. Her an birlikte yaşanır.
+
+---
+
+## Material Language
+
+Çadırlar yuvarlak, taşlar yumuşak, ateş sıcak ama güvenli. Her şey doğal ve el yapımı hissi veriyor — sert köşe yok, sıcaklık her yerde. Oyuncak sıcaklığında bir kamp.
+
+---
+
 ## World Position
 
 ```
@@ -170,6 +188,23 @@ Close-up of round campfire stones with warm embers. Safe flame contained within 
 - Wonder and stargazing
 - Storytelling and imagination
 - Warmth and comfort
+
+---
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose var mı?
+✓ Play Philosophy var mı?
+✓ Material Language var mı?
+✓ Consistency Checklist var mı?
+✓ Story Opportunities var mı?
+✓ Soundscape var mı?
+✓ Forbidden var mı?
+✓ Production Notes var mı?
+```
 
 ---
 

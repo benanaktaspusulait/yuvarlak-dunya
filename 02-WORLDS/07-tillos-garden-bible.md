@@ -234,4 +234,37 @@ Close-up of soil with tiny sprouting seedling. Round water droplets on leaves. W
 
 ---
 
+## Emotional Purpose
+
+Tillo'nun bahçesi children'lere "sabır ve bakım" duygusunu aşılar. Tohum ekme heyecanı, filiz görme mutluluğu, çiçek açma gururu... Her an bir büyüme hikayesidir. Güvenli, sıcak, toprak kokulu bir sığınak.
+
+---
+
+## Play Philosophy
+
+Bahçede oyun=open-ended ve doğal etkileşimdir. Toprakla oynama, tohum ekme, su dökme — hepsi孩子 için keşiftir. Rekabet yok; her孩子 kendi hızında büyümeyi izler. İşbirliği: birlikte sulama, birlikte toplama.
+
+---
+
+## Material Language
+
+Her şey yumuşak toprak ve doğal dokudandır. Aletler yuvarlak, ahşap veya yumuşak plastik. Diken yok, sivri köşe yok. Toprak temiz ve davetkar. Çiçekler yumuşak yapraklı, yuvarlak.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children sabır ve bakım duygusunu hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Doğal, el yapımı his var mı?
+✓ Işık sıcak ve toprak tonlarında mı?
+✓ Sesler yumuşak ve doğaya uygun mu?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Tillo's Garden mekanı için production referansıdır.*

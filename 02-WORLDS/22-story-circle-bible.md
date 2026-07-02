@@ -58,6 +58,24 @@ Story Circle, dünyanın en temel geleneği olan hikaye anlatıcılığına adan
 
 ---
 
+## Emotional Purpose
+
+Story Circle, çocukların hikaye dinlemenin huzurunu ve sıcaklığını yaşadığı bir mekan. Büyüyen ağaç, yuvarlak taşlar ve sıcak ışık — burada her çocuk güvende ve değerli hisseder.
+
+---
+
+## Play Philosophy
+
+Kurallar yok, hikaye var. Çocuklar dinler, hayal eder ve birlikte yaratır. Yarışma yok, hayal gücü ve dinleme var. Her hikaye birbirine dokunur, her çocuk bir sonraki hikayeyi taşır.
+
+---
+
+## Material Language
+
+Ağaç büyük ama yumuşak, taşlar yuvarlak, ışık sıcak. Her şey doğal ve el yapımı hissi veriyor — sert köşe yok, doğa her yerde. Oyuncak sıcaklığında bir hikaye köşesi.
+
+---
+
 ## World Position
 
 ```
@@ -141,6 +159,23 @@ Art Corner
 | **Kaçınılması Gerekenler** | Gürültü, hızlı hareket, sivri köşe, karanlık, yapay ışık |
 | **Tipik Süre** | 30–60 saniye |
 | **En İyi Duygusal Temalar** | Huzur, bilgelik, nesiller arası bağ, merak, iyi geceler rutini |
+
+---
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose var mı?
+✓ Play Philosophy var mı?
+✓ Material Language var mı?
+✓ Consistency Checklist var mı?
+✓ Story Opportunities var mı?
+✓ Soundscape var mı?
+✓ Forbidden var mı?
+✓ Production Notes var mı?
+```
 
 ---
 

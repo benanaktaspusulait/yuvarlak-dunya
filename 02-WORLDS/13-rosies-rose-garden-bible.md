@@ -23,6 +23,36 @@ Güller, kelebekler, kalp şeklinde çiçekler.
 
 ---
 
+## Emotional Purpose
+
+Çocuklar, çiçeklerin güzelliğiyle kendilerini mutlu ve huzurlu hisseder.
+
+Pastel renkler ve kelebekler, zarif bir sakinlik duygusu taşır.
+
+Dikensiz tasarım, güvensizlik duygusunu tamamen ortadan kaldırır.
+
+---
+
+## Play Philosophy
+
+Çocuklar çiçekleri keşfederek hayal güçlerini renklere taşır.
+
+Kelebeklerle etkileşim, sakin ve gözlemci oyun üretir.
+
+İşbirliği ve doğa sevgisi, rekabet olmadan doğal şekilde gelişir.
+
+---
+
+## Material Language
+
+Güller yuvarlak, yumuşak, elle boyanmış bir his taşır.
+
+Çitler alçak, beyaz, yuvarlak uçlu, oyuncak ev estetiği taşır.
+
+Kelebek kanatları ince, doğal, doku hissi veren malzemeler kullanır.
+
+---
+
 ## Why This World Exists ⭐
 
 Rosie's Rose Garden, çocukların doğanın zarafetini ve renk zenginliğini keşfetmesini sağlamak için tasarlanmıştır. Dikensiz güller ve kalp şeklinde çiçekler, çocukların güvenle güzellikle etkileşime girmesini sağlar. Kelebekler ve pastel renkler, sakin ve göz alıcı sahneler üretir.
@@ -172,6 +202,21 @@ Lily's Lavender Farm
 | **Kaçınılması Gerekenler** | Diken, soluk renk, kırık çiçek, karanlık, hızlı hareket |
 | **Tipik Süre** | 30–60 saniye |
 | **En İyi Duygusal Temalar** | Güzellik, zarafet, sakinlik, renk keşfi, doğa sevgisi |
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose tanımı var mı?
+✓ Play Philosophy bölümü var mı?
+✓ Material Language açık mı?
+✓ Kamera açıları tanımlı mı?
+✓ Ses tasarımı net mi?
+✓ Forbidden sınırları belirli mi?
+✓ Karakter uyumu sağlandı mı?
+✓ Production Notes eksiksiz mi?
+```
 
 ---
 

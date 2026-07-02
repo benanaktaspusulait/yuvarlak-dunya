@@ -31,6 +31,24 @@ Adventure Trail serves as the connective tissue of Pompom Hills, providing visua
 
 ---
 
+## Emotional Purpose — Why children feel safe/happy here
+
+Adventure Trail, çocukların keşif duygusunu güvenle yaşadığı bir patika. Her eğrisi bir sürpriz vaat eder, ama tehlike değil — merak. Yol boyunca tanıdık sesler (kuş, rüzgar, adım) çocuklara rehberlik eder. "Kaybolma" korkusu yok, sadece "ne var acaba?" heyecanı.
+
+---
+
+## Play Philosophy — Open-ended play, imagination, cooperation (no competition)
+
+Patikada belirli bir hedef yok — çocuklar istedikleri yere yürür, istedikleri şeyi keşfeder. Birlikte yürürler, birbirlerine "şuna bak!" derler, ama kimse "önce ben" demez. Yolculuğun kendisi oyunun kendisidir.
+
+---
+
+## Material Language — Soft, rounded, handcrafted, toy-like materials
+
+Yuvarlak taşlar, yumuşak toprak, ahşap işaret levhaları. Hiçbir doğal öğe sivri veya tehlikeli görünmez. Ağaçlar kucaklayıcı, taşlar pürüzsüz, rüzgar hafif. Her şey el yapımı oyuncak dünyasının doğal uzantısı gibi görünür.
+
+---
+
 ## Story Function
 
 - Yürüyüş sahneleri
@@ -169,6 +187,21 @@ Close-up of round trail marker stone with path texture. Small discoveries along 
 - Connection between places
 - Anticipation and excitement
 - Freedom of exploration
+
+---
+
+## Quality Checklist
+
+```
+✓ Çocuklar burada güvende hissediyor mu?
+✓ Oyun açık uçlu ve hayal gücüne dayalı mı?
+✓ Malzemeler yumuşak ve yuvarlak mı?
+✓ Rekabet veya yarışma unsuru var mı?
+✓ Keşif duygusu var mı?
+✓ Sivri köşe veya tehlikeli öğe yok mu?
+✓ Her yaştan çocuk erişebilir mi?
+✓ Duygusal olarak rahatlatıcı mı?
+```
 
 ---
 

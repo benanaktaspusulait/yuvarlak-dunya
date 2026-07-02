@@ -23,6 +23,36 @@ Dilek dileme yeri.
 
 ---
 
+## Emotional Purpose
+
+Çocuklar, gökkuşağı renkleri ve parıltıyla sihir ve umut hisseder.
+
+Dilek taşı ritüeli, özel ve anlamlı bir deneyim sunar.
+
+Yağmur sonrası temizlik hissi, yeniden başlama ve güven duygusu taşır.
+
+---
+
+## Play Philosophy
+
+Çocuklar renkleri sayarak ve dilek dileyerek hayal güçlerini harekete geçirir.
+
+Köprüden geçiş,自然 geçiş ve keşif oyunları üretir.
+
+Sihirli atmosfer, yaratıcı ve sınırsız hayal gücü oyunlarını destekler.
+
+---
+
+## Material Language
+
+Köprü renkli, yuvarlak, yumuşak hatlu, oyuncak benzeri bir malzeme taşır.
+
+Dilek taşları pürüzsüz, parlak, elle cilalanmış bir his verir.
+
+Gökkuşağı parıltısı ince, doğal, ışık oyunları yapan malzemeler kullanır.
+
+---
+
 ## Why This World Exists ⭐
 
 Rainbow Bridge, serinin en sihirli geçiş noktası olarak tasarlanmıştır — gökkuşağı renkleri ve parıltılı atmosfer, "dilek" ve "umut" temalarını görsel olarak somutlaştırır. Bu mekan, Cloud Hill ve Rainbow Creek arasındaki bağlantıyı fiziksel bir köprüyle temsil ederekworld'un dikey yapısını destekler. Renkli form dili, children'in hayal gücünü tetikleyerek unutulmaz bir görsel deneyim sunar.
@@ -137,6 +167,21 @@ Rainbow Creek
 ✓ Gökkuşağı görünüyor mu?
 ✓ Renkler canlı mı?
 ✓ Sivri köşe yok mu?
+```
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose tanımı var mı?
+✓ Play Philosophy bölümü var mı?
+✓ Material Language açık mı?
+✓ Kamera açıları tanımlı mı?
+✓ Ses tasarımı net mi?
+✓ Forbidden sınırları belirli mi?
+✓ Karakter uyumu sağlandı mı?
+✓ Production Notes eksiksiz mi?
 ```
 
 ---

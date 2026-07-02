@@ -214,4 +214,37 @@ Central Square
 
 ---
 
+## Emotional Purpose
+
+Butterfly Meadow children'lere "hayranlık ve büyü" duygusunu yaşatır. Kelebeklerin dansı, çiçeklerin renk cümbüşü, rüzgarın hışırtısı — her anı bir masal anı. Doğanın güzelliğine karşı sakin bir hayranlık hissi yaratır.
+
+---
+
+## Play Philosophy
+
+Meydanda oyun=open-ended ve doğa etkileşimidir. Kelebekleri izleme, çiçek koklama, rüzgârda koşma — hepsi keşiftir. Rekabet yok; her孩子 kendi ritminde keşfeder. Birlikte gözlem, birlikte hayranlık.
+
+---
+
+## Material Language
+
+Her yüzey yumuşak ve doğaldır. Çimenler dalgalı ve tüylü, çiçekler yuvarlak yapraklı, kelebekler ince ve hassas. Metal veya sert yüzey yok. Her şey pamuklu, yumuşak, el yapımı bir mekanda gibi.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children hayranlık ve büyü hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Doğal, pamuklu his var mı?
+✓ Işık sıcak ve pastel mi?
+✓ Sesler yumuşak ve doğaya uygun mu?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Butterfly Meadow mekanı için production referansıdır.*

@@ -215,4 +215,37 @@ Rosie's Rose Garden (doğu)
 
 ---
 
+## Emotional Purpose
+
+Flower Hill children'lere "güzellik ve ev hissi" verir. Renkli çiçekler, yumuşak tepeler, tanıdık komşular — her şey güvenli ve davetkar. Keşfetme heyecanı, eve dönüş huzuru, renklerin coşkusu bir arada yaşar.
+
+---
+
+## Play Philosophy
+
+Flower Hill'de oyun=open-ended ve renk keşfidir. Çiçekleri sayma, renkleri isimlendirme, patikada yürüyüş — hepsi keşiftir. Rekabet yok; her孩子 kendi ritminde renklere hayran kalır. Birlikte keşfetme, birlikte renk.
+
+---
+
+## Material Language
+
+Her yüzey yumuşak ve renkli. Çimenler tüylü, çiçekler yuvarlak yapraklı, taşlar pürüzsüz. Sert veya soluk yüzey yok. Her şey canlı ve oyuncak gibi, bir çocuk bahçesinden çıkmış gibi.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children güzellik ve ev hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Renkli ve canlı bir his var mı?
+✓ Işık sıcak ve renkli mi?
+✓ Sesler yumuşak ve doğaya uygun mu?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Flower Hill mekanı için production referansıdır.*

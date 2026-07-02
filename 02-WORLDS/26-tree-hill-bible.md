@@ -31,6 +31,24 @@ Tree Hill anchors the series with ancient wisdom and natural grandeur, showing c
 
 ---
 
+## Emotional Purpose — Why children feel safe/happy here
+
+Tree Hill, çocukların doğanın kucağında huzur bulduğu bir sığınak. Dev ağaçlar onları korur gibi hissettirir — tıpkı büyükanne gibi. Sessizlik korkutucu değil, sarıcıdır. Kamp ateşi sıcaklık ve birlik duygusu yaratır. Burada "büyümek" güvenlidir.
+
+---
+
+## Play Philosophy — Open-ended play, imagination, cooperation (no competition)
+
+Burada belirli bir oyun yok — çocukların hayal gücü devreye girer. Yaprak toplama, yıldız izleme, hikaye anlatma... Hepsi gönüllü, hepsi paylaşarak. Kimse "en iyisini" yapmaz, herkes kendi ritminde keşfeder. Sessizlik bile bir oyun biçimidir.
+
+---
+
+## Material Language — Soft, rounded, handcrafted, toy-like materials
+
+Kalın, yuvarlak gövdeler, yumuşak yosun zemin, yuvarlak taçlar. Hiçbir dal sivri değil — her şey kucaklanabilir görünür. Yapraklar büyük ve yumuşak, kamp ateşi oyuncak gibi parlar. Doğanın kendisi burada bir oyuncak haline gelir.
+
+---
+
 ## Story Function
 
 - Sessiz anlar
@@ -182,6 +200,21 @@ Close-up of ancient tree bark texture with moss. Round growth rings visible on c
 - Nature's grandeur
 - Peaceful contemplation
 - Timelessness and respect
+
+---
+
+## Quality Checklist
+
+```
+✓ Çocuklar burada güvende hissediyor mu?
+✓ Oyun açık uçlu ve hayal gücüne dayalı mı?
+✓ Malzemeler yumuşak ve yuvarlak mı?
+✓ Rekabet veya yarışma unsuru var mı?
+✓ Sessizlik ve huzur hissi var mı?
+✓ Sivri dal veya korkutucu öğe yok mu?
+✓ Her yaştan çocuk erişebilir mi?
+✓ Duygusal olarak sarıcı mı?
+```
 
 ---
 

@@ -113,6 +113,12 @@ Bu bir binme alanı değil. Bu bir hayvan teması mekanıdır.
 
 ---
 
+## Material Language
+
+Çimen yumuşak ve tüylü, poniler yuvarlak ve sevimli, çit ahşap ve doğal. Her şey sevgi dolu ve el yapımı hissi — sert veya korkutucu bir yüzey yok, poniler çocuklara dostça bakıyor.
+
+---
+
 ## World Position
 
 ```
@@ -358,6 +364,21 @@ Bu mekana doğal olarak uyan hikaye anları:
 ✓ Yemek kulübesi var mı?
 ✓ Sivri köşe yok mu?
 ✓ Poniler dostça mı?
+```
+
+---
+
+## Quality Checklist
+
+```
+✓ Poniler yumuşak ve yuvarlak mı?
+✓ Çocuklar ponilere ulaşabiliyor mu?
+✓ Binme ekipmanı yok mu?
+✓ Çimen yumuşak ve tüylü mı?
+✓ Ahşap çit doğal mı?
+✓ Sıcak bir ışık hissi var mı?
+✓ Sesler yumuşak ve sakin mi?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
 ```
 
 ---

@@ -23,6 +23,36 @@ Sakinlik ve doğa sevgisi.
 
 ---
 
+## Emotional Purpose
+
+Çocuklar, lavanta kokusu ve mor renklerle derin bir huzur hisseder.
+
+Sonsuz tarla algısı, güvenli bir keşif alanı yaratır.
+
+Arı vızıltısı ve rüzgar sesi, doğal bir sakinlik deneyimi sunar.
+
+---
+
+## Play Philosophy
+
+Çocuklar kokuları hayal ederek duyusal bir keşif yolculuğu yapar.
+
+Yel değirmenleri ve arı evleri, sakin gözlem oyunları üretir.
+
+Doğanın döngüsü, işbirliği ve sabır temalarını doğal şekilde öğretir.
+
+---
+
+## Material Language
+
+Lavantalar yuvarlak, yumuşak, elle dikilmiş bir doku taşır.
+
+Yel değirmenleri yumuşak hatlu, oyuncak benzeri formlar kullanır.
+
+Arı evleri yuvarlak, ahşap, doğal malzeme estetiği taşır.
+
+---
+
 ## Why This World Exists ⭐
 
 Lily's Lavender Farm, çocukların koku duyusunu ve renk algısını geliştirmek için tasarlanmış bir mekandır. Sonsuz mor lavanta tarlaları, görsel bir huzur deneyimi sunar. Arı evleri ve yel değirmenleri, doğanın döngüsü ve sakinlik temalarını somutlaştırır.
@@ -140,6 +170,21 @@ Little Forest
 | **Kaçınılması Gerekenler** | Korkutucu arı, diken, soluk renk, kötü koku, hızlı hareket |
 | **Tipik Süre** | 30–60 saniye |
 | **En İyi Duygusal Temalar** | Huzur, sakinlik, doğa sevgisi, renk keşfi, koku deneyimi |
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose tanımı var mı?
+✓ Play Philosophy bölümü var mı?
+✓ Material Language açık mı?
+✓ Kamera açıları tanımlı mı?
+✓ Ses tasarımı net mi?
+✓ Forbidden sınırları belirli mi?
+✓ Karakter uyumu sağlandı mı?
+✓ Production Notes eksiksiz mi?
+```
 
 ---
 

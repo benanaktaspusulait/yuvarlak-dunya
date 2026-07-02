@@ -39,6 +39,24 @@ Little Forest, çocukların keşfetme içgüdüsünü güvenli bir şekilde besl
 
 ---
 
+## Emotional Purpose
+
+Little Forest, çocukların keşfetme hissini güvenli bir şekilde yaşadığı yer. Her adımda yeni bir sürpriz, her köşede merak. Doğayla temas, çocuklara özgüven ve macera duygusu verir.
+
+---
+
+## Play Philosophy
+
+Kurallar yok, keşif var. Çocuklar kendi hızlarıyla dolaşır, saklanır, bulur ve hayal eder. Yarışma yok, merak ve yaratıcılık var. Her çocuk kendi macerasını kendi yaratır.
+
+---
+
+## Material Language
+
+Ponpon ağaçlar yumuşak, mantarlar yuvarlak, yapraklar ipeksi. Her şey doğal ve el yapımı hissi veriyor — sert köşe yok, doğa her yerde. Oyuncak sıcaklığında bir orman.
+
+---
+
 ## World Position
 
 ```
@@ -179,6 +197,23 @@ Adventure Trail
 - **Avoid**: Karanlık orman, korkutucu ses, büyük hayvan
 - **Typical Duration**: 30-60 saniye
 - **Best Emotional Themes**: Keşif, macera, merak, sihir
+
+---
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose var mı?
+✓ Play Philosophy var mı?
+✓ Material Language var mı?
+✓ Consistency Checklist var mı?
+✓ Story Opportunities var mı?
+✓ Soundscape var mı?
+✓ Forbidden var mı?
+✓ Production Notes var mı?
+```
 
 ---
 

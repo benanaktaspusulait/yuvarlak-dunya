@@ -23,6 +23,36 @@ Sessizlik ve huzur hissi.
 
 ---
 
+## Emotional Purpose
+
+Çocuklar, sakin su sesiyle huzur ve güven hisseder.
+
+Yavaş akan su ve nilüfer yaprakları, sakinleştirici bir ortam yaratır.
+
+Doğayla sessiz etkileşim, iç huzur ve merak duygularını besler.
+
+---
+
+## Play Philosophy
+
+Çocuklar su yüzeyini izleyerek hayal güçlerini harekete geçirir.
+
+Balık ve kurbağa gözlemi, sakin keşif oyunları üretir.
+
+İşbirliği ve paylaşımlı gözlem temaları ön plana çıkar.
+
+---
+
+## Material Language
+
+Su berrak, yumuşak, doğal bir malzeme dili taşır.
+
+Nilüfer yaprakları yuvarlak ve dokulu, ellerle şekillendirilmiş hissi verir.
+
+Taşlar pürüzsüz, suyun içinde yumuşak form dili oluşturur.
+
+---
+
 ## Why This World Exists ⭐
 
 Milo's Pond, serinin "durgun su" tapınağı olarak tasarlanmıştır — suyun sakin yüzeyi ve nilüfer yaprakları çocuk izleyiciye meditatif bir an sunar. Bu mekan, hikayedeki sessiz gözlem ve doğa etkileşimi sahneleri için ideal bir fon oluşturur. Küçük ölçek ve yumuşak form dili, çocuk izleyicinin suya karşı güven duymasını sağlar.
@@ -138,6 +168,21 @@ Rainbow Creek
 ✓ Nilüfer yaprakları var mı?
 ✓ Derinlik güvenli mi?
 ✓ Sivri köşe yok mu?
+```
+
+---
+
+## Quality Checklist
+
+```
+✓ Emotional Purpose tanımı var mı?
+✓ Play Philosophy bölümü var mı?
+✓ Material Language açık mı?
+✓ Kamera açıları tanımlı mı?
+✓ Ses tasarımı net mi?
+✓ Forbidden sınırları belirli mi?
+✓ Karakter uyumu sağlandı mı?
+✓ Production Notes eksiksiz mi?
 ```
 
 ---

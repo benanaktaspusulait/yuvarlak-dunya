@@ -187,4 +187,37 @@ Central Square
 
 ---
 
+## Emotional Purpose
+
+Cloud Hill children'lere "huzur ve hayal gücü" duygusunu aşılar. En yüksek noktadan gökyüzüne bakmak,孩子们 için sonsuzluk hissi yaratır. Rüzgarın saçları okşaması, sessizliğin kucaklaması — her an bir hayal dünyası kapısı.
+
+---
+
+## Play Philosophy
+
+Cloud Hill'de oyun=open-ended ve hayal kurmadır. Bulut izleme, gökkuşağı takibi, rüzgarla selamlaşma — hepsi keşiftir. Rekabet yok; her孩子 kendi hayal dünyasında yolculuk yapar. Birlikte bakma, birlikte hayal.
+
+---
+
+## Material Language
+
+Her yüzey yumuşak ve yuvarlak. Tepe eğimli, çimenler kısa ve tüylü, bulutlar pamuklu. Sert veya sivri hiçbir şey yok. Her şey hafif ve havada süzülen bir oyuncak gibi, gökyüzünden inmiş gibi.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children huzur ve hayal gücü hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Rüzgar ve hareket hissediliyor mu?
+✓ Işık sıcak ve yumuşak mı?
+✓ Sesler yumuşak ve sakin mi?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Cloud Hill mekanı için production referansıdır.*

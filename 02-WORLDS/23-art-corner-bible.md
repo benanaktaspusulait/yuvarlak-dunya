@@ -29,6 +29,24 @@ Art Corner, çocukların yaratıcılığını ve renk algısını dış mekan ko
 
 ---
 
+## Emotional Purpose — Why children feel safe/happy here
+
+Art Corner, çocukların kendilerini özgürce ifade ettiği bir sığınak. Burada "yanlış" yok — her fırça darbesi, her renk karışımı bir keşif. Sıcak güneş ışığı, doğa sesleri ve renkli palet, çocuklara yaratıcılığın güvenli olduğunu hissettirir.
+
+---
+
+## Play Philosophy — Open-ended play, imagination, cooperation (no competition)
+
+Sanat burada yarışma değil, ifade aracıdır. Her çocuk kendi tuvalinde kendi hikayesini anlatır. Birlikte renk karıştırılır, fırçalar paylaşılır, ama kimse "kazanmaz" — her eser kendi başına değerlidir.
+
+---
+
+## Material Language — Soft, rounded, handcrafted, toy-like materials
+
+Yuvarlak uçlu fırçalar, kalın tutamaklı boyalar, yumuşak tuval yüzeyleri. Hiçbir malzeme sivri veya sert değil. Ahşap paletler, cam boya kabı değil — yumuşak silikon kaplar. Her şey el yapımı, oyuncak gibi, dokunulası.
+
+---
+
 ## Canonical OpenArt Reference Pack
 
 | Ref | Adı | Açıklama |
@@ -140,6 +158,21 @@ Adventure Trail
 | **Kaçınılması Gerekenler** | Keskin fırça, kirli boya, soluk renk, sivri köşe, karmaşa |
 | **Tipik Süre** | 30–60 saniye |
 | **En İyi Duygusal Temalar** | Yaratıcılık, ilham, renk keşfi, sessiz odak, özgüven |
+
+---
+
+## Quality Checklist
+
+```
+✓ Çocuklar burada güvende hissediyor mu?
+✓ Oyun açık uçlu ve hayal gücüne dayalı mı?
+✓ Malzemeler yumuşak ve yuvarlak mı?
+✓ Rekabet veya yarışma unsuru var mı?
+✓ Renkler canlı ve davetkar mı?
+✓ Sivri köşe veya sert malzeme yok mu?
+✓ Her yaştan çocuk erişebilir mi?
+✓ Duygusal olarak rahatlatıcı mı?
+```
 
 ---
 

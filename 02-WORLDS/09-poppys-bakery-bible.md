@@ -141,4 +141,37 @@ Poppy's Bakery ← BURASI
 
 ---
 
+## Emotional Purpose
+
+Poppy's Bakery children'lere "sıcaklık ve paylaşma" duygusunu aşılar. Taze ekmek kokusu, kurabiye lezzeti, fırının sıcaklığı — her an bir paylaşım anı. Güven, cömertlik ve lezzet keşfi bir arada yaşar.
+
+---
+
+## Play Philosophy
+
+Fırında oyun=open-ended ve lezzet keşfidir. Ekmek kokusunu takip etme, kurabiyeleri sayma, keki izleme — hepsi keşiftir. Rekabet yok; her孩子 kendi ritminde lezzete dalır. Birlikte pişirme, birlikte paylaşma.
+
+---
+
+## Material Language
+
+Her yüzey sıcak ve yuvarlak. Duvarlar turuncu-kahverengi, pencereler yuvarlak, mobilyalar ahşap ve pürüzsüz. Sert veya soğuk hiçbir şey yok. Her şey taze ve lezzetli, bir fırından çıkmış gibi.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children sıcaklık ve paylaşma hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Sıcak ve lezzetli bir his var mı?
+✓ Işık sıcak ve davetkar mı?
+✓ Sesler yumuşak ve doğal mı?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Poppy's Bakery mekanı için production referansıdır.*

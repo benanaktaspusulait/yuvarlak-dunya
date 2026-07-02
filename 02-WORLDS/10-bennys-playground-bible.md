@@ -150,4 +150,37 @@ Benny's Playground ← BURASI
 
 ---
 
+## Emotional Purpose
+
+Benny's Playground children'lere "eğlence ve özgürlük" duygusunu aşılar. Salıncakta sallanmak, kaydıraktan kaymak, toplarla oynamak — her an bir macera. Güvenli hareket, arkadaşlık ve neşe bir arada yaşar.
+
+---
+
+## Play Philosophy
+
+Oyun alanında oyun=open-ended ve hareket keşfidir. Salıncakta sallanma, kaydıraktan kayma, toplarda zıplama — hepsi keşiftir. Rekabet yok; her孩子 kendi ritminde hareket eder. Birlikte oynama, birlikte gülme.
+
+---
+
+## Material Language
+
+Her yüzey yumuşak ve yuvarlak. Ekipmanlar renkli ve pürüzsüz, zemin yumuşak ve darbeyi emen, toplar hafif ve renkli. Sert veya keskin hiçbir şey yok. Her şey oyuncak gibi ve güvenli, bir çocuk parkından çıkmış gibi.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children eğlence ve özgürlük hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Renkli ve neşeli bir his var mı?
+✓ Işık sıcak ve enerjik mi?
+✓ Sesler yumuşak ve neşeli mi?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Benny's Playground mekanı için production referansıdır.*

@@ -167,4 +167,37 @@ Little Forest
 
 ---
 
+## Emotional Purpose
+
+Sun Hill children'lere "enerji ve umut" duygusunu aşılar. İlk güneş ışığını hissetmek, yeni bir günün başlangıcını izlemek — her an taze bir başlangıç. Sıcaklık, neşe ve keşif bir arada yaşar.
+
+---
+
+## Play Philosophy
+
+Sun Hill'de oyun=open-ended ve enerji keşfidir. Güneş ışığında ısınma, vadiden aşağıya bakma, sabah selamlaşma — hepsi keşiftir. Rekabet yok; her孩子 kendi ritminde enerji toplar. Birlikte izleme, birlikte ısınma.
+
+---
+
+## Material Language
+
+Her yüzey sıcak ve yuvarlak. Çimenler kısa ve parlak, taşlar pürüzsüz ve ısınmış, binalar yumuşak hatlı. Sert veya soğuk hiçbir şey yok. Her şey güneşten ısınmış bir oyuncak gibi, sabahın ilk ışığından çıkmış gibi.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children enerji ve umut hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Sıcak bir his var mı?
+✓ Işık altın ve sıcak mı?
+✓ Sesler yumuşak ve enerjik mi?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Sun Hill mekanı için production referansıdır.*

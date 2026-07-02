@@ -114,6 +114,12 @@ Bu bir su parkı değil. Bu bir keşif mekanıdır.
 
 ---
 
+## Material Language
+
+Su berrak ama yumuşak, taşlar yuvarlak ve pürüzsüz, çimen tüylü. Kenar yumuşak, su serin ama davetkar. Her şey doğal ve el yapımı hissi — sert köşe yok, su çocukların ayaklarını bekliyor.
+
+---
+
 ## World Position
 
 ```
@@ -363,6 +369,21 @@ Bu mekana doğal olarak uyan hikaye anları:
 ✓ Derin su yok mu?
 ✓ Çakıl taşları renkli mi?
 ✓ Çimen yeşil mi?
+```
+
+---
+
+## Quality Checklist
+
+```
+✓ Çocuklar suyu keşfetmek istiyor mu?
+✓ Güvenli ve sığ bir deneyim var mı?
+✓ Taşlar yuvarlak ve yumuşak mı?
+✓ Sıcak bir ışık ve renk hissi var mı?
+✓ Sular yumuşak ve davetkar mı?
+✓ Sesler sakin ve doğal mı?
+✓ Tüm yüzeyler yumuşak mı?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
 ```
 
 ---

@@ -545,4 +545,37 @@ Her şey yuvarlak ve yumuşak.
 
 ---
 
+## Emotional Purpose
+
+Kiko'nun evi children'ler için "ev" duygusunun somut karşılığıdır. Kapıya gelindiğinde içeri girmek isteyen, içeride güvende hisseden bir mekandır. Sabah uyanma anı umut, gece kapanış anı huzur verir.
+
+---
+
+## Play Philosophy
+
+Kiko'nun evindeki oyun=open-ended'dir. Oyuncak kutusundan istediği şeyi çıkarır, masada istediği resmi çizer. Birlikte kitap okurlar, birlikte top oynarlar. Rekabet yok, keşif ve işbirliği vardır.
+
+---
+
+## Material Language
+
+Her yüzey yumuşak ve el yapımı hissi verir. Duvarlar mat, oyuncak hissi; kapı pürüzsüz beyaz; yatak peluş; halı tüylü. Sert metal veya cam yüzey yoktur. Her şey bir oyuncak evinden çıkmış gibidir.
+
+---
+
+## Quality Checklist
+
+```
+✓ Children güvende ve mutlu hissediyor mu?
+✓ Sınırsız hayal kurma alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ El yapımı, oyuncak hissi var mı?
+✓ Işık sıcak ve davetkar mı?
+✓ Sesler yumuşak mı?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
+```
+
+---
+
 *Bu belge Kiko's Home mekanı için production referansıdır.*
