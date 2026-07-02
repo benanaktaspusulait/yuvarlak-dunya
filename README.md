@@ -34,16 +34,21 @@ yuvarlak-dunya/
 │   └── NEGATIVE_PROMPTS.md     ← Yasak listeleri
 │
 ├── 01-CHARACTERS/              ← Karakter bible dosyaları (13 karakter)
+│   └── drawings/               ← Karakter referans çizimleri (PNG)
 ├── 02-WORLDS/                  ← Mekan bible dosyaları (27 mekan)
-├── 03-PROPS/                   ← Prop kütüphanesi
+├── 03-PROPS/                   ← Prop kütüphanesi + prop görselleri
 ├── 04-SCENES/                  ← Sahne dosyaları + şablonlar
 │   ├── season-01/              ← Sezon 1 sahneleri
 │   └── _templates/             ← Şablonlar
 ├── 05-AI-PROMPTS/              ← AI üretim promptları + ses dosyaları
-├── 06-ASSETS/                  ← Referans görseller
-├── 07-BRANDING/                ← Marka ve sosyal medya
+├── 06-ASSETS/                  ← Genel referans görseller (world/karakter/prop hariç)
+├── 07-BRANDING/                ← Marka, sosyal medya, kanal görselleri
+│   └── channel-images/         ← YouTube/sosyal medya logo & kapak
 ├── 08-PRODUCTION/              ← Üretim takibi (TODO, takvim, tracker)
 ├── 09-ARCHIVE/                 ← Eski/arsiv dosyalar
+│
+├── environment/                ← Mekan referans görselleri (world PNG'leri, kanonik)
+├── videos/                     ← Render edilmiş video çıktıları
 │
 ├── README.md                   ← Bu dosya
 ├── LICENSE
@@ -67,6 +72,16 @@ yuvarlak-dunya/
 | YouTube yükleme | `07-BRANDING/YOUTUBE_WORKFLOW.md` |
 | Bölüm detayları | `04-SCENES/season-01/{bolum}/` |
 | Üretim takibi | `08-PRODUCTION/` |
+| Mekan görselleri (PNG) | `environment/NN-slug.png` veya çok görünümlü `environment/NN-slug/hero-view.png` |
+| Karakter görselleri (PNG) | `01-CHARACTERS/drawings/{karakter}.png` |
+| Prop görselleri (PNG) | `03-PROPS/{kategori}/...` |
+| Video çıktıları | `videos/` |
+
+## İsimlendirme Standardı
+
+- Numaralı mekan/dosya: `NN-slug` — **2 haneli sıfır dolgulu** numara + **küçük harf, tireli** slug (örn. `06-opas-tree`).
+- Çok görünümlü mekan klasörlerinde görünüm dosyaları: `hero-view.png`, `left-view.png`, `right-view.png`, `top-view.png`.
+- Mekan numaraları `02-WORLDS/` bible'ları ile `environment/` görselleri arasında **birebir** eşleşir (25=flower-hill, 26=tree-hill, 27=stone-hill).
 
 ## Prompt Variable System
 

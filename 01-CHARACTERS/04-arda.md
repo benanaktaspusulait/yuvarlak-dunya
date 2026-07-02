@@ -7,7 +7,7 @@
 - **Lineup scale**: 85 units in the reference sheet
 - **Main colour**: Sky Blue (#8CC9F0)
 - **Catchphrase**: "Hadi gidelim!" / "Let's go!"
-- **Source image**: `characters/drawings/arda.png`
+- **Source image**: `01-CHARACTERS/drawings/arda.png`
 
 ---
 

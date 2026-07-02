@@ -510,34 +510,34 @@ Bu tablo production sahnelerinde kullanılacak kesin dosya yollarını kilitler.
 
 | # | Asset | File |
 |---|---|---|
-| 01 | Yellow Ball | `Props/Toys/1-yellow-ball.png` |
-| 02 | Round Block — Red | `Props/Toys/2-round-block-red.png` |
-| 03 | Round Block — Blue | `Props/Toys/3-round-block-blue.png` |
-| 04 | Round Block — Green | `Props/Toys/4-round-block-green.png` |
-| 05 | Butterfly — Pink | `Props/Nature/5-butterfly-pink.png` |
-| 06 | Butterfly — Purple | `Props/Nature/6-butterfly-purple.png` |
-| 07 | Butterfly — Yellow | `Props/Nature/7-butterfly-yellow.png` |
-| 05-07 | Butterfly Set — Scene Ready | `Props/Nature/1-butterflies-set.png` |
-| 08 | Round Flower — Red | `Props/Nature/8-round-flower-red.png` |
-| 09 | Round Flower — Yellow | `Props/Nature/9-round-flower-yellow.png` |
-| 10 | Round Flower — Pink | `Props/Nature/10-round-flower-pink.png` |
-| 08-10 | Flower Set — Scene Ready | `Props/Nature/2-flowers-set.png` |
-| 11 | Pompom Tree | `Props/Nature/11-pompom-tree.png` |
-| 12 | Stepping Stone | `Props/Nature/12-stepping-stone.png` |
-| 13 | Cloud | `Props/Nature/13-cloud.png` |
-| 14 | Sun | `Props/Nature/14-sun.png` |
-| 15 | Round Table | `Props/Furniture/15-round-table.png` |
-| 16 | Round Chair | `Props/Furniture/16-round-chair.png` |
-| 17 | Round Bed | `Props/Furniture/17-round-bed.png` |
-| 18 | Berry | `Props/Food/18-berry.png` |
-| 19 | Apple | `Props/Food/19-apple.png` |
-| 20 | Carrot | `Props/Food/20-carrot.png` |
-| 21 | Watering Can | `Props/Tools/21-watering-can.png` |
-| 22 | Magnifying Glass | `Props/Tools/22-magnifying-glass.png` |
-| 23 | Bow — Yellow | `Props/Decorations/23-bow-yellow.png` |
-| 24 | Flower Clip — Pink | `Props/Decorations/24-flower-clip-pink.png` |
-| 25 | Snowflake | `Props/Seasonal/25-snowflake.png` |
-| 26 | Pumpkin | `Props/Seasonal/26-pumpkin.png` |
+| 01 | Yellow Ball | `03-PROPS/Toys/1-yellow-ball.png` |
+| 02 | Round Block — Red | `03-PROPS/Toys/2-round-block-red.png` |
+| 03 | Round Block — Blue | `03-PROPS/Toys/3-round-block-blue.png` |
+| 04 | Round Block — Green | `03-PROPS/Toys/4-round-block-green.png` |
+| 05 | Butterfly — Pink | `03-PROPS/Nature/5-butterfly-pink.png` |
+| 06 | Butterfly — Purple | `03-PROPS/Nature/6-butterfly-purple.png` |
+| 07 | Butterfly — Yellow | `03-PROPS/Nature/7-butterfly-yellow.png` |
+| 05-07 | Butterfly Set — Scene Ready | `03-PROPS/Nature/1-butterflies-set.png` |
+| 08 | Round Flower — Red | `03-PROPS/Nature/8-round-flower-red.png` |
+| 09 | Round Flower — Yellow | `03-PROPS/Nature/9-round-flower-yellow.png` |
+| 10 | Round Flower — Pink | `03-PROPS/Nature/10-round-flower-pink.png` |
+| 08-10 | Flower Set — Scene Ready | `03-PROPS/Nature/2-flowers-set.png` |
+| 11 | Pompom Tree | `03-PROPS/Nature/11-pompom-tree.png` |
+| 12 | Stepping Stone | `03-PROPS/Nature/12-stepping-stone.png` |
+| 13 | Cloud | `03-PROPS/Nature/13-cloud.png` |
+| 14 | Sun | `03-PROPS/Nature/14-sun.png` |
+| 15 | Round Table | `03-PROPS/Furniture/15-round-table.png` |
+| 16 | Round Chair | `03-PROPS/Furniture/16-round-chair.png` |
+| 17 | Round Bed | `03-PROPS/Furniture/17-round-bed.png` |
+| 18 | Berry | `03-PROPS/Food/18-berry.png` |
+| 19 | Apple | `03-PROPS/Food/19-apple.png` |
+| 20 | Carrot | `03-PROPS/Food/20-carrot.png` |
+| 21 | Watering Can | `03-PROPS/Tools/21-watering-can.png` |
+| 22 | Magnifying Glass | `03-PROPS/Tools/22-magnifying-glass.png` |
+| 23 | Bow — Yellow | `03-PROPS/Decorations/23-bow-yellow.png` |
+| 24 | Flower Clip — Pink | `03-PROPS/Decorations/24-flower-clip-pink.png` |
+| 25 | Snowflake | `03-PROPS/Seasonal/25-snowflake.png` |
+| 26 | Pumpkin | `03-PROPS/Seasonal/26-pumpkin.png` |
 
 ---
 
@@ -547,13 +547,13 @@ Bu assetler sezon sahnelerinde doğrudan ihtiyaç olarak çıktı; genel katalog
 
 | Episode | Asset | File | Use |
 |---|---|---|---|
-| S01E02 | Yellow Ball Contact Poses | `Props/SceneSpecific/S01E02/yellow-ball-contact-poses.png` | Bounce/sekme poz referansı |
-| S01E03 | Seed | `Props/SceneSpecific/S01E03/seed.png` | Tohum bulma ve dikme |
-| S01E03 | Sprout | `Props/SceneSpecific/S01E03/sprout.png` | Çiçek büyüme ara hali |
-| S01E03 | Hero Flower | `Props/SceneSpecific/S01E03/hero-flower.png` | Final bloom close-up |
-| S01E04 | Sunny Spot | `Props/SceneSpecific/S01E04/sunny-spot.png` | Mimi dinlenme noktası |
-| S01E06 | Soft Wind Leaves | `Props/SceneSpecific/S01E06/soft-wind-leaves.png` | Rüzgar hareket referansı |
-| S01E01 | Round Bush | `Props/Nature/round-bush.png` | Mimi intro çalısı |
+| S01E02 | Yellow Ball Contact Poses | `03-PROPS/SceneSpecific/S01E02/yellow-ball-contact-poses.png` | Bounce/sekme poz referansı |
+| S01E03 | Seed | `03-PROPS/SceneSpecific/S01E03/seed.png` | Tohum bulma ve dikme |
+| S01E03 | Sprout | `03-PROPS/SceneSpecific/S01E03/sprout.png` | Çiçek büyüme ara hali |
+| S01E03 | Hero Flower | `03-PROPS/SceneSpecific/S01E03/hero-flower.png` | Final bloom close-up |
+| S01E04 | Sunny Spot | `03-PROPS/SceneSpecific/S01E04/sunny-spot.png` | Mimi dinlenme noktası |
+| S01E06 | Soft Wind Leaves | `03-PROPS/SceneSpecific/S01E06/soft-wind-leaves.png` | Rüzgar hareket referansı |
+| S01E01 | Round Bush | `03-PROPS/Nature/round-bush.png` | Mimi intro çalısı |
 
 ---
 

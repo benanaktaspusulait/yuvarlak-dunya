@@ -43,7 +43,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Dosya yolu | `environment/1-central-square.png` |
+| Dosya yolu | `environment/01-central-square/hero-view.png` |
 | Arka plan landmarkları | Sol arka: Kiko'nun mercan pembe yuvarlak evi; orta sağ: Mimi'nin yuvarlak yeşil çalısı; uzak sağ: Opa'nın büyük ponpon ağacı |
 
 ## Coordinate Map (Kiko=100 birim)
@@ -304,9 +304,9 @@ The final image should look exactly like the supplied Central Square world, with
 
 | Asset | Dosya yolu |
 | --- | --- |
-| Environment | `environment/1-central-square.png` |
-| Character | `characters/drawings/kiko.png` |
-| Yellow ball | `Props/Toys/1-yellow-ball.png` |
+| Environment | `environment/01-central-square/hero-view.png` |
+| Character | `01-CHARACTERS/drawings/kiko.png` |
+| Yellow ball | `03-PROPS/Toys/1-yellow-ball.png` |
 
 ## Missing Assets
 

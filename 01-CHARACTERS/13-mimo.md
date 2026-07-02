@@ -7,7 +7,7 @@
 - **Lineup scale**: 90 units in the reference sheet
 - **Main colour**: Soft Leaf Green (#AFCB9A)
 - **Catchphrase**: "Let's take it slow and steady!"
-- **Source image**: `characters/drawings/mimo.png`
+- **Source image**: `01-CHARACTERS/drawings/mimo.png`
 - **Naming note**: The filename is the source of truth for this character name.
 
 ---

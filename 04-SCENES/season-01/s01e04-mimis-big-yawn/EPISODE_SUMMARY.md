@@ -20,11 +20,11 @@
 
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
-| Flower Hill | `Environments/25-flower-hill-bible.md` (render plate yok) | 01-04 |
-| Cloud Hill | `environment/2-cloud-hill.png` | 05 |
-| Sun Hill | `environment/4-sun-hill.png` | 06 |
-| Central Square | `environment/1-central-square.png` | 07 |
-| Opa's Tree | `environment/6-opas-tree.png` | 08-12 |
+| Flower Hill | `02-WORLDS/25-flower-hill-bible.md` (render plate yok) | 01-04 |
+| Cloud Hill | `environment/02-cloud-hill.png` | 05 |
+| Sun Hill | `environment/04-sun-hill.png` | 06 |
+| Central Square | `environment/01-central-square/hero-view.png` | 07 |
+| Opa's Tree | `environment/06-opas-tree/hero-view.png` | 08-12 |
 
 ---
 

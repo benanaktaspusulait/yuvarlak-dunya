@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-002
-File: environment/2-cloud-hill.png
+File: environment/02-cloud-hill.png
 Version: 2.1
 Location: World map position 2
 ```

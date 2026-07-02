@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-003
-File: environment/3-kikos-home.png
+File: environment/03-kikos-home.png
 Version: 2.1
 Location: Flower Hill
 ```
@@ -455,11 +455,11 @@ Her şey yuvarlak ve yumuşak.
 
 | Asset | Dosya | Kullanım |
 |---|---|---|
-| Kiko | `characters/drawings/kiko.png` | Ev sahibi |
-| Mimi | `characters/drawings/mimi.png` | Ziyaretçi |
-| Kiko's Home | `environment/3-kikos-home.png` | Dış görünüm |
-| Flowers | `Props/Nature/2-flowers.png` | Bahçe |
-| Yellow Ball | `Props/Toys/1-yellow-ball.png` | Oyun |
+| Kiko | `01-CHARACTERS/drawings/kiko.png` | Ev sahibi |
+| Mimi | `01-CHARACTERS/drawings/mimi.png` | Ziyaretçi |
+| Kiko's Home | `environment/03-kikos-home.png` | Dış görünüm |
+| Flowers | `03-PROPS/Nature/2-flowers.png` | Bahçe |
+| Yellow Ball | `03-PROPS/Toys/1-yellow-ball.png` | Oyun |
 
 ---
 

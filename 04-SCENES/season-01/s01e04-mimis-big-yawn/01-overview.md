@@ -30,7 +30,7 @@ Empathy • Comfort • Friendship
 
 ## Locations
 
-1. Mimi's Burrow (`environment/5-mimis-burrow.png`)
+1. Mimi's Burrow (`environment/05-mimis-burrow.png`)
 
 ---
 

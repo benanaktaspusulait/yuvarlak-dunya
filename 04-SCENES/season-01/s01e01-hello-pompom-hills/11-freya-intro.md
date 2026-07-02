@@ -46,7 +46,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Dosya yolu | `environment/14-lily's-lavender-farm.png` |
+| Dosya yolu | `environment/14-lilys-lavender-farm.png` |
 | Arka plan landmarkları | Lily's Lavender Farm — mor lavanta demetleri, alçak yuvarlak çit |
 
 ## Coordinate Map (Kiko=100 birim)
@@ -185,8 +185,8 @@ Freya a gentle nature-loving girl introducing herself in Lily's Lavender Farm, P
 
 | Asset | Dosya yolu |
 | --- | --- |
-| Environment | `environment/14-lily's-lavender-farm.png` |
-| Freya | `characters/drawings/freya.png` |
+| Environment | `environment/14-lilys-lavender-farm.png` |
+| Freya | `01-CHARACTERS/drawings/freya.png` |
 
 ## Missing Assets
 

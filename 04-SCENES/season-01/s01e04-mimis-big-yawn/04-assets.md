@@ -6,9 +6,9 @@
 
 | Character | File | Scenes |
 |---|---|---|
-| ✅ Kiko | `characters/drawings/kiko.png` | 01-12 (all) |
-| ✅ Mimi | `characters/drawings/mimi.png` | 01-12 (all) |
-| ✅ Opa | `characters/drawings/opa.png` | 12 |
+| ✅ Kiko | `01-CHARACTERS/drawings/kiko.png` | 01-12 (all) |
+| ✅ Mimi | `01-CHARACTERS/drawings/mimi.png` | 01-12 (all) |
+| ✅ Opa | `01-CHARACTERS/drawings/opa.png` | 12 |
 
 ---
 
@@ -24,7 +24,7 @@
 
 | Environment | File | Scenes |
 |---|---|---|
-| Mimi's Burrow | `environment/5-mimis-burrow.png` | 01-12 (all) |
+| Mimi's Burrow | `environment/05-mimis-burrow.png` | 01-12 (all) |
 
 ---
 

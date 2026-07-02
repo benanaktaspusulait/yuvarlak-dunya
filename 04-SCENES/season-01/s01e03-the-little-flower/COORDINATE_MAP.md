@@ -13,7 +13,7 @@ Kiko = 100 birim (1.00 m)
 | Tillo | 90 birim | %90 |
 | Opa | 120 birim | %120 |
 
-## Ana Mekan: Tillo's Garden (`environment/7-tillos-garden.png`)
+## Ana Mekan: Tillo's Garden (`environment/07-tillos-garden.png`)
 
 ### Sabit Elementler
 

@@ -6,10 +6,10 @@
 
 | Character | File | Scenes |
 |---|---|---|
-| ✅ Kiko | `characters/drawings/kiko.png` | 01-12 (all) |
-| ✅ Mimi | `characters/drawings/mimi.png` | 06-12 |
-| ✅ Tillo | `characters/drawings/tillo.png` | 03 (brief) |
-| ✅ Opa | `characters/drawings/opa.png` | 12 |
+| ✅ Kiko | `01-CHARACTERS/drawings/kiko.png` | 01-12 (all) |
+| ✅ Mimi | `01-CHARACTERS/drawings/mimi.png` | 06-12 |
+| ✅ Tillo | `01-CHARACTERS/drawings/tillo.png` | 03 (brief) |
+| ✅ Opa | `01-CHARACTERS/drawings/opa.png` | 12 |
 
 ---
 
@@ -18,8 +18,8 @@
 | Prop | File | Scenes |
 |---|---|---|
 | 🌱 Seed | (new prop needed) | 02, 03 |
-| 💧 Watering Can | `Props/Tools/watering-can.png` (new) | 04, 08 |
-| 🌸 Flowers | `Props/Nature/2-flowers.png` | 10 |
+| 💧 Watering Can | `03-PROPS/Tools/watering-can.png` (new) | 04, 08 |
+| 🌸 Flowers | `03-PROPS/Nature/2-flowers.png` | 10 |
 
 ---
 
@@ -27,7 +27,7 @@
 
 | Environment | File | Scenes |
 |---|---|---|
-| Tillo's Garden | `environment/7-tillos-garden.png` | 01-12 (all) |
+| Tillo's Garden | `environment/07-tillos-garden.png` | 01-12 (all) |
 
 ---
 

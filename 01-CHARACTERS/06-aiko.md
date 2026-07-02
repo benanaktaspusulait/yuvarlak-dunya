@@ -7,7 +7,7 @@
 - **Lineup scale**: 90 units in the reference sheet
 - **Main colour**: Lavender (#B7A4D8)
 - **Catchphrase**: "Let's take our time."
-- **Source image**: `characters/drawings/aiko.png`
+- **Source image**: `01-CHARACTERS/drawings/aiko.png`
 
 ---
 

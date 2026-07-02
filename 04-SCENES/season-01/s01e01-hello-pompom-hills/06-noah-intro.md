@@ -76,7 +76,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Dosya yolu | `environment/1-central-square.png` |
+| Dosya yolu | `environment/01-central-square/hero-view.png` |
 | Arka plan landmarkları | Büyük ponpon ağaç merkez arka planda |
 
 ## Sahne Atmosferi
@@ -395,8 +395,8 @@ Use Central Square (@image1) as FINAL background plate. Insert Noah (@image2) in
 
 | Asset | Dosya |
 |---|---|
-| Noah | `characters/drawings/noah.png` |
-| Central Square | `environment/1-central-square.png` |
+| Noah | `01-CHARACTERS/drawings/noah.png` |
+| Central Square | `environment/01-central-square/hero-view.png` |
 
 ## Missing Assets
 

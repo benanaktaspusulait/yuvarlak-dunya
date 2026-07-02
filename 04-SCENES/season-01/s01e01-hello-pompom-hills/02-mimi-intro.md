@@ -47,7 +47,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Dosya yolu | `environment/1-central-square.png` |
+| Dosya yolu | `environment/01-central-square/hero-view.png` |
 | Arka plan landmarkları | Sol: Kiko ve top; orta sağ: Mimi'nin yuvarlak yeşil çalısı X=55/Z=12 |
 
 ## Coordinate Map (Kiko=100 birim)
@@ -309,10 +309,10 @@ The final image should look exactly like the supplied Central Square world, with
 
 | Asset | Dosya yolu |
 | --- | --- |
-| Environment | `environment/1-central-square.png` |
-| Kiko | `characters/drawings/kiko.png` |
-| Mimi | `characters/drawings/mimi.png` |
-| Yellow ball | `Props/Toys/1-yellow-ball.png` |
+| Environment | `environment/01-central-square/hero-view.png` |
+| Kiko | `01-CHARACTERS/drawings/kiko.png` |
+| Mimi | `01-CHARACTERS/drawings/mimi.png` |
+| Yellow ball | `03-PROPS/Toys/1-yellow-ball.png` |
 
 ## Missing Assets
 

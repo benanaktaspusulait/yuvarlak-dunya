@@ -7,7 +7,7 @@
 - **Lineup scale**: 100 units in the reference sheet
 - **Main colour**: Purple (#A27BC7)
 - **Catchphrase**: "Together we can!"
-- **Source image**: `characters/drawings/amara.png`
+- **Source image**: `01-CHARACTERS/drawings/amara.png`
 
 ---
 

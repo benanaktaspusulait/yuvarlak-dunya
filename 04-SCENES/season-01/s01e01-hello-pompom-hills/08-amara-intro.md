@@ -183,7 +183,7 @@ Amara a joyful girl introducing herself in Friendship Meadow, Pompom Hills, 100 
 | Asset | Dosya yolu |
 | --- | --- |
 | Environment | `environment/16-friendship-meadow.png` |
-| Amara | `characters/drawings/amara.png` |
+| Amara | `01-CHARACTERS/drawings/amara.png` |
 
 ## Missing Assets
 

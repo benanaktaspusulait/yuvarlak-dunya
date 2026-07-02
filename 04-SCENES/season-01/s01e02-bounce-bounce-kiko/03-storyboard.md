@@ -4,7 +4,7 @@
 
 ## Scene 01
 
-**📍 Location:** Kiko's Home (`environment/3-kikos-home.png`)
+**📍 Location:** Kiko's Home (`environment/03-kikos-home.png`)
 
 **🎬 Action:**
 - Kiko opens the round pink door
@@ -18,8 +18,8 @@
 **🎭 Characters:** Kiko
 
 **🎨 Assets:**
-- Environment: `environment/3-kikos-home.png`
-- Character: `characters/drawings/kiko.png`
+- Environment: `environment/03-kikos-home.png`
+- Character: `01-CHARACTERS/drawings/kiko.png`
 
 **💬 Dialogue:** "Good morning!"
 
@@ -31,7 +31,7 @@
 
 ## Scene 02
 
-**📍 Location:** Kiko's Home (`environment/3-kikos-home.png`)
+**📍 Location:** Kiko's Home (`environment/03-kikos-home.png`)
 
 **🎬 Action:**
 - Kiko walks, stops
@@ -45,10 +45,10 @@
 **🎭 Characters:** Kiko
 
 **🎨 Assets:**
-- Environment: `environment/3-kikos-home.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=15/Z=5, yerde)
-- Prop: `Props/Nature/2-flowers.png`
-- Character: `characters/drawings/kiko.png`
+- Environment: `environment/03-kikos-home.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=15/Z=5, yerde)
+- Prop: `03-PROPS/Nature/2-flowers.png`
+- Character: `01-CHARACTERS/drawings/kiko.png`
 
 **💬 Dialogue:** "What's that?"
 
@@ -60,7 +60,7 @@
 
 ## Scene 03
 
-**📍 Location:** Kiko's Home (`environment/3-kikos-home.png`)
+**📍 Location:** Kiko's Home (`environment/03-kikos-home.png`)
 
 **🎬 Action:**
 - Kiko picks up the ball
@@ -74,9 +74,9 @@
 **🎭 Characters:** Kiko
 
 **🎨 Assets:**
-- Environment: `environment/3-kikos-home.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (Kiko'nun elinde)
-- Character: `characters/drawings/kiko.png`
+- Environment: `environment/03-kikos-home.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (Kiko'nun elinde)
+- Character: `01-CHARACTERS/drawings/kiko.png`
 
 **💬 Dialogue:** "I'm Kiko."
 
@@ -102,8 +102,8 @@
 **🎭 Characters:** Kiko
 
 **🎨 Assets:**
-- Prop: `Props/Toys/1-yellow-ball.png` (X=10→20, yuvarlanıyor)
-- Character: `characters/drawings/kiko.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=10→20, yuvarlanıyor)
+- Character: `01-CHARACTERS/drawings/kiko.png`
 
 **💬 Dialogue:** "Let's look together!"
 
@@ -131,8 +131,8 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=10/Z=0, yerde)
-- Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=10/Z=0, yerde)
+- Characters: `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Mimi: "Let's see!" / Kiko: "This is my ball!"
 
@@ -159,8 +159,8 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=5/Z=0, yerde)
-- Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=5/Z=0, yerde)
+- Characters: `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "Come on!" / Mimi: "Hop hop!"
 
@@ -187,9 +187,9 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Props: `Props/Nature/1-butterflies.png`, `Props/Nature/2-flowers.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=5/Z=0, yerde)
-- Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+- Props: `03-PROPS/Nature/1-butterflies.png`, `03-PROPS/Nature/2-flowers.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=5/Z=0, yerde)
+- Characters: `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "Look!" / Mimi: "So pretty!"
 
@@ -216,9 +216,9 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=5→10, zıplıyor)
-- Prop: `Props/Nature/1-butterflies.png`
-- Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=5→10, zıplıyor)
+- Prop: `03-PROPS/Nature/1-butterflies.png`
+- Characters: `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Mimi: "My turn!" / Kiko: "Together!"
 
@@ -245,8 +245,8 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=15→25, yuvarlanıyor, kadrajda)
-- Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=15→25, yuvarlanıyor, kadrajda)
+- Characters: `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "Oh no!" / Mimi: "Where?"
 
@@ -273,8 +273,8 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=25→30, yavaşlıyor)
-- Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=25→30, yavaşlıyor)
+- Characters: `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "This way!" / Mimi: "Hop hop!"
 
@@ -301,8 +301,8 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=30/Z=0, yerde, durmuş)
-- Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=30/Z=0, yerde, durmuş)
+- Characters: `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "We found it!" / Mimi: "Together!"
 
@@ -330,8 +330,8 @@
 
 **🎨 Assets:**
 - Environment: `environment/17-butterfly-meadow.png`
-- Prop: `Props/Toys/1-yellow-ball.png` (X=15/Z=0, ikisinin arasında)
-- Characters: `characters/drawings/kiko.png`, `characters/drawings/mimi.png`, `characters/drawings/opa.png`
+- Prop: `03-PROPS/Toys/1-yellow-ball.png` (X=15/Z=0, ikisinin arasında)
+- Characters: `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`, `01-CHARACTERS/drawings/opa.png`
 
 **💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you!"
 

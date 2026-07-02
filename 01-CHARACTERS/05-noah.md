@@ -7,7 +7,7 @@
 - **Lineup scale**: 100 units in the reference sheet
 - **Main colour**: Blue (#8EC5F0)
 - **Catchphrase**: "Let's make it fun!"
-- **Source image**: `characters/drawings/noah.png`
+- **Source image**: `01-CHARACTERS/drawings/noah.png`
 
 ---
 

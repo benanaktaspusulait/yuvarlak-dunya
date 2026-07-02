@@ -20,11 +20,11 @@
 
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
-| Kiko's Home | `environment/3-kikos-home.png` | 01 |
-| Flower Hill | `Environments/25-flower-hill-bible.md` (render plate yok) | 02-05, 08 |
+| Kiko's Home | `environment/03-kikos-home.png` | 01 |
+| Flower Hill | `02-WORLDS/25-flower-hill-bible.md` (render plate yok) | 02-05, 08 |
 | Rosie's Rose Garden | `environment/13-rosies-rose-garden.png` | 06 |
 | Butterfly Meadow | `environment/17-butterfly-meadow.png` | 07 |
-| Central Square | `environment/1-central-square.png` | 09-12 |
+| Central Square | `environment/01-central-square/hero-view.png` | 09-12 |
 
 ---
 
@@ -69,7 +69,7 @@
 ### Sahne 10 — Gerçek Gökkuşağı (135-150 sn)
 **Mekan:** Central Square — Gökyüzünde gerçek bir gökkuşağı belirir.
 **Diyalog:** "A real rainbow!"
-**Asset:** `Props/Nature/8-rainbow.png`
+**Asset:** `03-PROPS/Nature/8-rainbow.png`
 
 ### Sahne 11 — Hayranlık (150-165 sn)
 **Mekan:** Central Square — İkisi birlikte gökkuşağına hayranlıkla bakar.

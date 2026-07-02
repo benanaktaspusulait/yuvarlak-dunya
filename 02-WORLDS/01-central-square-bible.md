@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-001
-File: environment/1-central-square/1-central-square.png
+File: environment/01-central-square/01-central-square.png
 Version: 2.1
 Location: World Center
 ```

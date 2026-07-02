@@ -43,8 +43,8 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 - `PRODUCTION_RULES.md` → PRODUCTION_PIPELINE.md'ye birleştirildi
 - `POMPOM_HILLS/` dizini → 09-ARCHIVE/ taşındı (içerik yeni yapıya taşındı)
 - `characters/` dizini → 09-ARCHIVE/ taşındı (içerik 01-CHARACTERS/ taşındı)
-- `Environments/` dizini → 09-ARCHIVE/ taşındı (içerik 02-WORLDS/ taşındı)
-- `Props/` dizini → 09-ARCHIVE/ taşındı (içerik 03-PROPS/ taşındı)
+- `02-WORLDS/` dizini → 09-ARCHIVE/ taşındı (içerik 02-WORLDS/ taşındı)
+- `03-PROPS/` dizini → 09-ARCHIVE/ taşındı (içerik 03-PROPS/ taşındı)
 - `ai-prompts/` dizini → 09-ARCHIVE/ taşındı (içerik 05-AI-PROMPTS/ taşındı)
 - `Color/` dizini → 09-ARCHIVE/ taşındı (içerik 07-BRANDING/ taşındı)
 - `scenes/` dizini → 09-ARCHIVE/ taşındı (içerik 04-SCENES/ taşındı)
@@ -69,7 +69,7 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
   hızlı koruma bölümleri eklendi.
 - `OPENART_WORLD_PROMPT_PACK.md`: Production pipeline notu, Hero Pack view cümleleri ve LOCKED
   environment cümlesi eklendi.
-- `Environments/ENVIRONMENT_IMAGE_PROMPTS.md`: World reference & Hero Pack production notu eklendi.
+- `02-WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md`: World reference & Hero Pack production notu eklendi.
 - `NEGATIVE_PROMPTS.md`: "OpenArt Production Failure Modes" negatif bloğu ve locked-world pozitif
   pekiştirme cümlesi eklendi.
 

@@ -6,8 +6,8 @@
 
 | Character | File | Shots |
 |---|---|---|
-| ✅ Luca | `characters/drawings/luca.png` | 01, 02, 03, 04 |
-| ✅ Noah | `characters/drawings/noah.png` | 01, 02, 03, 04 |
+| ✅ Luca | `01-CHARACTERS/drawings/luca.png` | 01, 02, 03, 04 |
+| ✅ Noah | `01-CHARACTERS/drawings/noah.png` | 01, 02, 03, 04 |
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Environment | File | Shots |
 |---|---|---|
-| Central Square | `environment/03-Central-Square/Hero-View.png` | 01, 02, 03, 04 |
+| Central Square | `environment/01-central-square/hero-view.png` | 01, 02, 03, 04 |
 
 ---
 

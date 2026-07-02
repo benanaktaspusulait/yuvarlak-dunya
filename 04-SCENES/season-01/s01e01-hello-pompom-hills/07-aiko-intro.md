@@ -185,7 +185,7 @@ Aiko a calm thoughtful girl introducing herself in Butterfly Meadow, Pompom Hill
 | Asset | Dosya yolu |
 | --- | --- |
 | Environment | `environment/17-butterfly-meadow.png` |
-| Aiko | `characters/drawings/aiko.png` |
+| Aiko | `01-CHARACTERS/drawings/aiko.png` |
 
 ## Missing Assets
 

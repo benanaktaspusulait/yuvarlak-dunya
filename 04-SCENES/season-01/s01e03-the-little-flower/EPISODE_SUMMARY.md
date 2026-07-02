@@ -20,11 +20,11 @@
 
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
-| Kiko's Home | `environment/3-kikos-home.png` | 01 |
-| Flower Hill | `Environments/25-flower-hill-bible.md` (render plate yok) | 02, 05-10 |
-| Tillo's Garden | `environment/7-tillos-garden.png` | 03-04 |
-| Central Square | `environment/1-central-square.png` | 11 |
-| Opa's Tree | `environment/6-opas-tree.png` | 12 |
+| Kiko's Home | `environment/03-kikos-home.png` | 01 |
+| Flower Hill | `02-WORLDS/25-flower-hill-bible.md` (render plate yok) | 02, 05-10 |
+| Tillo's Garden | `environment/07-tillos-garden.png` | 03-04 |
+| Central Square | `environment/01-central-square/hero-view.png` | 11 |
+| Opa's Tree | `environment/06-opas-tree/hero-view.png` | 12 |
 
 ---
 
@@ -45,7 +45,7 @@
 ### Sahne 04 — Sulama (45-60 sn)
 **Mekan:** Tillo's Garden — Kiko yuvarlak mavi sulama kabıyla tohuma yumuşakça su döker.
 **Diyalog:** Kiko: "Water, wait, and smile!"
-**Asset:** `Props/Tools/1-watering-can.png`
+**Asset:** `03-PROPS/Tools/1-watering-can.png`
 
 ### Sahne 05 — Bekleyiş (60-75 sn)
 **Mekan:** Flower Hill — Kiko oturur, gökyüzüne ve toprağa bakar. Hiçbir şey olmaz ama beklemeye devam eder.
@@ -58,7 +58,7 @@
 ### Sahne 07 — Filiz (90-105 sn)
 **Mekan:** Flower Hill — Topraktan küçük, yeşil, yuvarlak bir filiz çıkar; ikisi şaşırır.
 **Diyalog:** Kiko: "Look!" / Mimi: "It's growing!"
-**Asset:** `Props/Nature/7-sprout.png`
+**Asset:** `03-PROPS/Nature/7-sprout.png`
 
 ### Sahne 08 — Birlikte Su (105-120 sn)
 **Mekan:** Flower Hill — İkisi birlikte filize su döker, gülümserler.

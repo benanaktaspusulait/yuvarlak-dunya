@@ -7,7 +7,7 @@
 - **Lineup scale**: 100 units in the reference sheet
 - **Main colour**: Denim Blue (#4C78A8)
 - **Catchphrase**: "Let's color our world!"
-- **Source image**: `characters/drawings/sofia.png`
+- **Source image**: `01-CHARACTERS/drawings/sofia.png`
 
 ---
 

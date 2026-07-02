@@ -46,7 +46,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Dosya yolu | `environment/7-tillos-garden.png` |
+| Dosya yolu | `environment/07-tillos-garden.png` |
 | Arka plan landmarkları | Tillo's Garden — turuncu havuçlar, renkli çiçekler |
 
 ## Coordinate Map (Kiko=100 birim)
@@ -186,8 +186,8 @@ Tillo a gentle rabbit gardener introducing himself in Pompom Hills, 85 units tal
 
 | Asset | Dosya yolu |
 | --- | --- |
-| Environment | `environment/7-tillos-garden.png` |
-| Tillo | `characters/drawings/tillo.png` |
+| Environment | `environment/07-tillos-garden.png` |
+| Tillo | `01-CHARACTERS/drawings/tillo.png` |
 
 ## Missing Assets
 

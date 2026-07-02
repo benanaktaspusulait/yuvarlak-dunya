@@ -45,7 +45,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Dosya yolu | `environment/1-central-square.png` |
+| Dosya yolu | `environment/01-central-square/hero-view.png` |
 
 ## Coordinate Map (Kiko=100 birim)
 
@@ -143,11 +143,11 @@ Kiko, Mimi and Opa saying goodbye in Central Square of Pompom Hills, Kiko is 100
 
 | Asset | Dosya yolu |
 | --- | --- |
-| Environment | `environment/1-central-square.png` |
-| Kiko | `characters/drawings/kiko.png` |
-| Mimi | `characters/drawings/mimi.png` |
-| Opa | `characters/drawings/opa.png` |
-| Yellow ball | `Props/Toys/1-yellow-ball.png` |
+| Environment | `environment/01-central-square/hero-view.png` |
+| Kiko | `01-CHARACTERS/drawings/kiko.png` |
+| Mimi | `01-CHARACTERS/drawings/mimi.png` |
+| Opa | `01-CHARACTERS/drawings/opa.png` |
+| Yellow ball | `03-PROPS/Toys/1-yellow-ball.png` |
 
 ## Missing Assets
 

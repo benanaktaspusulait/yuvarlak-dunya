@@ -7,7 +7,7 @@
 - **Lineup scale**: 100 units in the reference sheet
 - **Main colour**: Sage Green (#8DAB4E)
 - **Catchphrase**: "Let's take care of our beautiful world."
-- **Source image**: `characters/drawings/freya.png`
+- **Source image**: `01-CHARACTERS/drawings/freya.png`
 
 ---
 

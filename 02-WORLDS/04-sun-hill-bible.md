@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-004
-File: environment/4-sun-hill.png
+File: environment/04-sun-hill.png
 Version: 2.1
 Location: World map position 1
 ```

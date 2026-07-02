@@ -30,7 +30,7 @@ Curiosity • Friendship • Sharing
 
 ## Locations
 
-1. Kiko's Home (`environment/3-kikos-home.png`)
+1. Kiko's Home (`environment/03-kikos-home.png`)
 2. Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 ---

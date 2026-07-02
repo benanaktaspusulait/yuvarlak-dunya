@@ -186,7 +186,7 @@ Mimo a kind young turtle introducing himself along Rainbow Creek, Pompom Hills, 
 | Asset | Dosya yolu |
 | --- | --- |
 | Environment | `environment/19-rainbow-creek.png` |
-| Mimo | `characters/drawings/mimo.png` |
+| Mimo | `01-CHARACTERS/drawings/mimo.png` |
 
 ## Missing Assets
 

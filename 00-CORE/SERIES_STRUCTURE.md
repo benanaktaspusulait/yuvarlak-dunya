@@ -433,7 +433,7 @@ She is always warm. Always. Without exception.
 ## 10. Side Character Strategy
 
 > **Production Update (v2.1):** Proje, üretim sürecinde 13 isimli karakterden oluşan bir
-> genişletilmiş kadroya (bkz. `characters/pompom-hills/`) taşındı. Bu karakterler S01E01'de
+> genişletilmiş kadroya (bkz. `01-CHARACTERS/`) taşındı. Bu karakterler S01E01'de
 > kısa "merhaba" cameo sahneleriyle (bkz. `scenes/season-01/s01e01-hello-pompom-hills/`)
 > tanıtılır; ana trio (Kiko, Mimi, Opa) duygusal çıpa olarak kalır ve bölümleri yönetir.
 > Aşağıdaki bölüm, orijinal "önce yalnızca trio" tasarım gerekçesini korur; güncel karar,
@@ -458,7 +458,7 @@ She is always warm. Always. Without exception.
 | 4 | **Boo** | Bear | Big, soft, loves napping | Episode 14 (visual), Season 2 (speaking) |
 
 > Not: **Mirnik** (kedi) bu "gelecek" listesinden çıkarıldı; artık ana cameo kadrosunun bir
-> parçasıdır ve S01E01'de tanıtılır (`characters/pompom-hills/12-mirnik.md`,
+> parçasıdır ve S01E01'de tanıtılır (`01-CHARACTERS/12-mirnik.md`,
 > `scenes/season-01/s01e01-hello-pompom-hills/13-mirnik-intro.md`).
 
 ### Season 1 Side Character Rules

@@ -46,7 +46,7 @@ Only animate the existing world.
 
 | Priority | Reference | Purpose |
 | --- | --- | --- |
-| 1 (Highest) | Opa's Tree World (`environment/6-opas-tree.png`) | Environment lock |
+| 1 (Highest) | Opa's Tree World (`environment/06-opas-tree/hero-view.png`) | Environment lock |
 | 2 | Opa Character Sheet | Character appearance |
 
 If there is ANY conflict, always preserve the World first.

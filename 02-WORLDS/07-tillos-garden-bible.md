@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-007
-File: environment/7-tillos-garden.png
+File: environment/07-tillos-garden.png
 Version: 2.1
 Location: Flower Hill kuzeyi
 ```

@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-008
-File: environment/8-lulus-greenhouse.png
+File: environment/08-lulus-greenhouse.png
 Version: 2.1
 Location: Tillo's Garden yanı
 ```

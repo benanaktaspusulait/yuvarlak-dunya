@@ -14,7 +14,7 @@
 
 **🎭 Characters:** Kiko
 
-**🎨 Assets:** `environment/3-kikos-home.png`, `characters/drawings/kiko.png`
+**🎨 Assets:** `environment/03-kikos-home.png`, `01-CHARACTERS/drawings/kiko.png`
 
 **💬 Dialogue:** "Good morning!"
 
@@ -36,7 +36,7 @@
 
 **🎭 Characters:** Kiko
 
-**🎨 Assets:** `characters/drawings/kiko.png`
+**🎨 Assets:** `01-CHARACTERS/drawings/kiko.png`
 
 **💬 Dialogue:** "What's that?"
 
@@ -58,7 +58,7 @@
 
 **🎭 Characters:** Kiko, Tillo (silent background)
 
-**🎨 Assets:** `environment/7-tillos-garden.png`, `characters/drawings/kiko.png`, `characters/drawings/tillo.png`
+**🎨 Assets:** `environment/07-tillos-garden.png`, `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/tillo.png`
 
 **💬 Dialogue:** (Tillo silent, just nods) / Kiko: "I'll help!"
 
@@ -80,7 +80,7 @@
 
 **🎭 Characters:** Kiko
 
-**🎨 Assets:** `characters/drawings/kiko.png`
+**🎨 Assets:** `01-CHARACTERS/drawings/kiko.png`
 
 **💬 Dialogue:** "Water, wait, and smile!"
 
@@ -102,7 +102,7 @@
 
 **🎭 Characters:** Kiko
 
-**🎨 Assets:** `characters/drawings/kiko.png`
+**🎨 Assets:** `01-CHARACTERS/drawings/kiko.png`
 
 **💬 Dialogue:** "Any second now..."
 
@@ -124,7 +124,7 @@
 
 **🎭 Characters:** Kiko, Mimi
 
-**🎨 Assets:** `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+**🎨 Assets:** `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Mimi: "Can I wait too?" / Kiko: "Together!"
 
@@ -146,7 +146,7 @@
 
 **🎭 Characters:** Kiko, Mimi
 
-**🎨 Assets:** `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+**🎨 Assets:** `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "Look!" / Mimi: "It's growing!"
 
@@ -168,7 +168,7 @@
 
 **🎭 Characters:** Kiko, Mimi
 
-**🎨 Assets:** `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+**🎨 Assets:** `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** "Water, wait, and smile!"
 
@@ -190,7 +190,7 @@
 
 **🎭 Characters:** Kiko, Mimi
 
-**🎨 Assets:** `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+**🎨 Assets:** `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** "So pretty!"
 
@@ -212,7 +212,7 @@
 
 **🎭 Characters:** Kiko, Mimi
 
-**🎨 Assets:** `Props/Nature/2-flowers.png`, `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+**🎨 Assets:** `03-PROPS/Nature/2-flowers.png`, `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** Kiko: "We did it!" / Mimi: "Together!"
 
@@ -234,7 +234,7 @@
 
 **🎭 Characters:** Kiko, Mimi
 
-**🎨 Assets:** `environment/1-central-square.png`, `characters/drawings/kiko.png`, `characters/drawings/mimi.png`
+**🎨 Assets:** `environment/01-central-square/hero-view.png`, `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`
 
 **💬 Dialogue:** "Look what we grew!"
 
@@ -256,7 +256,7 @@
 
 **🎭 Characters:** Kiko, Mimi, Opa
 
-**🎨 Assets:** `environment/6-opas-tree.png`, `characters/drawings/kiko.png`, `characters/drawings/mimi.png`, `characters/drawings/opa.png`
+**🎨 Assets:** `environment/06-opas-tree/hero-view.png`, `01-CHARACTERS/drawings/kiko.png`, `01-CHARACTERS/drawings/mimi.png`, `01-CHARACTERS/drawings/opa.png`
 
 **💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you, Opa!"
 

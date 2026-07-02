@@ -46,7 +46,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Dosya yolu | `environment/13-Rosie's Rose Garden.png` |
+| Dosya yolu | `environment/13-rosies-rose-garden.png` |
 | Arka plan landmarkları | Rosie's Rose Garden — pembe, kırmızı, sarı güller, alçak yuvarlak çit |
 
 ## Coordinate Map (Kiko=100 birim)
@@ -185,8 +185,8 @@ Sofia a cheerful creative girl introducing herself in Rosie's Rose Garden, Pompo
 
 | Asset | Dosya yolu |
 | --- | --- |
-| Environment | `environment/13-Rosie's Rose Garden.png` |
-| Sofia | `characters/drawings/sofia.png` |
+| Environment | `environment/13-rosies-rose-garden.png` |
+| Sofia | `01-CHARACTERS/drawings/sofia.png` |
 
 ## Missing Assets
 

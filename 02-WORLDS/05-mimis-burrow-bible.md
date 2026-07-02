@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-005
-File: environment/5-mimis-burrow.png
+File: environment/05-mimis-burrow.png
 Version: 2.1
 Location: Flower Hill
 ```

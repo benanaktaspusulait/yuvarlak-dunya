@@ -148,7 +148,7 @@ Locked and identical across every scene (no redesign allowed):
 - Colors
 - Scale
 
-Character sheets live in `characters/pompom-hills/` and `characters/drawings/`.
+Character sheets live in `01-CHARACTERS/` and `01-CHARACTERS/drawings/`.
 
 ---
 

@@ -12,7 +12,7 @@ Kiko = 100 birim (1.00 m)
 | Mimi | 80 birim | %80 |
 | Opa | 120 birim | %120 |
 
-## Ana Mekan: Mimi's Burrow (`environment/5-mimis-burrow.png`)
+## Ana Mekan: Mimi's Burrow (`environment/05-mimis-burrow.png`)
 
 ### Sabit Elementler
 

@@ -4,7 +4,7 @@
 
 ## Scene 01
 
-**📍 Location:** Mimi's Burrow (`environment/5-mimis-burrow.png`)
+**📍 Location:** Mimi's Burrow (`environment/05-mimis-burrow.png`)
 
 **🎬 Action:** Kiko and Mimi walking together happily near the burrow
 

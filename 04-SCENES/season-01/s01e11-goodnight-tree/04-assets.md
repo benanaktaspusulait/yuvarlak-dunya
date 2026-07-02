@@ -6,8 +6,8 @@
 
 | Character | File | Shots |
 |---|---|---|
-| ✅ Arda | `characters/drawings/arda.png` | 01, 02, 03, 04 |
-| ✅ Opa | `characters/drawings/opa.png` | 01, 02, 03, 04 |
+| ✅ Arda | `01-CHARACTERS/drawings/arda.png` | 01, 02, 03, 04 |
+| ✅ Opa | `01-CHARACTERS/drawings/opa.png` | 01, 02, 03, 04 |
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Environment | File | Shots |
 |---|---|---|
-| Opa's Tree | `environment/27-Opa-Tree/Hero-View.png` | 01, 02, 03, 04 |
+| Opa's Tree | `environment/06-opas-tree/hero-view.png` | 01, 02, 03, 04 |
 
 ---
 

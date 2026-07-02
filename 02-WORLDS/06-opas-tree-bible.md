@@ -170,4 +170,4 @@ Story Circle
 ---
 
 *Bu belge Opa's Tree mekanı için production referansıdır.*
-*Hero View Prompt'ları için `06-opas-tree-hero-view.md` dosyasına bakın.*
+*Hero View Prompt'ları için `../environment/06-opas-tree/06-opas-tree-hero-view.md` dosyasına bakın.*

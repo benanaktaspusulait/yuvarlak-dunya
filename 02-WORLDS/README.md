@@ -14,11 +14,12 @@ Mekanların **referans görselleri (PNG)** `environment/` klasöründedir (proje
 
 ## Numaralandırma
 
-- **01–24**: Render plate'i olan mekanlar. Bu numaralar `environment/*.png` seti ile birebir eşleşir.
-- **25–27**: Yalnızca coğrafya/hikaye bibleları olan tepeler (standalone render plate'i yoktur):
-  - `25-flower-hill-bible.md`
-  - `26-tree-hill-bible.md`
-  - `27-stone-hill-bible.md`
+- **01–27**: Tüm mekanların bible'ı bu klasördedir. Numaralar `environment/` içindeki görsel setiyle birebir eşleşir.
+- Bazı mekanlar tek bir düz PNG (`environment/NN-slug.png`), bazıları ise çok görünümlü klasördür (`environment/NN-slug/` içinde `hero-view.png`, `left-view.png`, `right-view.png`, `top-view.png`).
+- **25–27 tepeleri** (flower/tree/stone) çok görünümlü klasör olarak tutulur:
+  - `25-flower-hill-bible.md` → `environment/25-flower-hill/`
+  - `26-tree-hill-bible.md` → `environment/26-tree-hill/`
+  - `27-stone-hill-bible.md` → `environment/27-stone-hill/`
 
 ## 01–24 Mekan Listesi
 

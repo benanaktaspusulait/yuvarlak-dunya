@@ -189,7 +189,7 @@ Mirnik a playful orange tabby kitten introducing himself in Little Forest, Pompo
 | Asset | Dosya yolu |
 | --- | --- |
 | Environment | `environment/18-little-forest.png` |
-| Mirnik | `characters/drawings/mirnik.png` |
+| Mirnik | `01-CHARACTERS/drawings/mirnik.png` |
 
 ## Missing Assets
 

@@ -7,7 +7,7 @@
 - **Lineup scale**: 85 units in the reference sheet
 - **Main colour**: Garden Green (#7BA36A)
 - **Catchphrase**: "Let's grow something beautiful!"
-- **Source image**: `characters/drawings/tillo.png`
+- **Source image**: `01-CHARACTERS/drawings/tillo.png`
 
 ---
 

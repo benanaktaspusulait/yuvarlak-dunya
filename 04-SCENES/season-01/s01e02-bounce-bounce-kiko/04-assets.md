@@ -6,9 +6,9 @@
 
 | Character | File | Scenes |
 |---|---|---|
-| ✅ Kiko | `characters/drawings/kiko.png` | 01-12 (all) |
-| ✅ Mimi | `characters/drawings/mimi.png` | 05-12 |
-| ✅ Opa | `characters/drawings/opa.png` | 12 |
+| ✅ Kiko | `01-CHARACTERS/drawings/kiko.png` | 01-12 (all) |
+| ✅ Mimi | `01-CHARACTERS/drawings/mimi.png` | 05-12 |
+| ✅ Opa | `01-CHARACTERS/drawings/opa.png` | 12 |
 
 ---
 
@@ -16,9 +16,9 @@
 
 | Prop | File | Scenes |
 |---|---|---|
-| 🟡 Yellow Ball | `Props/Toys/1-yellow-ball.png` | 02, 03, 04, 05, 06, 08, 09, 10, 11, 12 |
-| 🦋 Butterflies | `Props/Nature/1-butterflies.png` | 07, 08 |
-| 🌸 Flowers | `Props/Nature/2-flowers.png` | 02, 07 |
+| 🟡 Yellow Ball | `03-PROPS/Toys/1-yellow-ball.png` | 02, 03, 04, 05, 06, 08, 09, 10, 11, 12 |
+| 🦋 Butterflies | `03-PROPS/Nature/1-butterflies.png` | 07, 08 |
+| 🌸 Flowers | `03-PROPS/Nature/2-flowers.png` | 02, 07 |
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Environment | File | Scenes |
 |---|---|---|
-| Kiko's Home | `environment/3-kikos-home.png` | 01-04 |
+| Kiko's Home | `environment/03-kikos-home.png` | 01-04 |
 | Butterfly Meadow | `environment/17-butterfly-meadow.png` | 05-12 |
 
 ---

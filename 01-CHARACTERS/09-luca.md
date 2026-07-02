@@ -7,7 +7,7 @@
 - **Lineup scale**: 100 units in the reference sheet
 - **Main colour**: Leaf Green (#68AE68)
 - **Catchphrase**: "Let's explore together!"
-- **Source image**: `characters/drawings/luca.png`
+- **Source image**: `01-CHARACTERS/drawings/luca.png`
 
 ---
 

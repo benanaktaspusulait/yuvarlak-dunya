@@ -20,11 +20,11 @@
 
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
-| Kiko's Home | `environment/3-kikos-home.png` | 01 |
-| Flower Hill | `Environments/25-flower-hill-bible.md` (render plate yok) | 02-04, 08 |
+| Kiko's Home | `environment/03-kikos-home.png` | 01 |
+| Flower Hill | `02-WORLDS/25-flower-hill-bible.md` (render plate yok) | 02-04, 08 |
 | Butterfly Meadow | `environment/17-butterfly-meadow.png` | 05 |
 | Rainbow Creek | `environment/19-rainbow-creek.png` | 06-07 |
-| Central Square | `environment/1-central-square.png` | 09-12 |
+| Central Square | `environment/01-central-square/hero-view.png` | 09-12 |
 
 ---
 
@@ -49,7 +49,7 @@
 ### Sahne 05 — Yaprak Kovalama (60-75 sn)
 **Mekan:** Butterfly Meadow — Uçuşan yaprakları koşarak, zıplayarak kovalarlar.
 **Diyalog:** "Catch the leaves!"
-**Asset:** `Props/Nature/9-leaf.png`
+**Asset:** `03-PROPS/Nature/9-leaf.png`
 
 ### Sahne 06 — Suyun Üstünde (75-90 sn)
 **Mekan:** Rainbow Creek — Rüzgar suyun üstünden eser, yuvarlak dalgacıklar belirir.
@@ -62,7 +62,7 @@
 ### Sahne 08 — Dikenotu (105-120 sn)
 **Mekan:** Flower Hill — Beyaz, tüylü bir dikenotu bulup üflerler; tohumlar havaya saçılır.
 **Diyalog:** "Fly, seeds!"
-**Asset:** `Props/Nature/10-dandelion.png`
+**Asset:** `03-PROPS/Nature/10-dandelion.png`
 
 ### Sahne 09 — Dinlenme (120-135 sn)
 **Mekan:** Central Square — Rüzgar diner; otururlar, nefes alırlar.

@@ -4,7 +4,7 @@
 
 ```
 Environment ID: ENV-009
-File: environment/9-poppys-bakery.png
+File: environment/09-poppys-bakery.png
 Version: 2.1
 Location: Central Square yanı
 ```

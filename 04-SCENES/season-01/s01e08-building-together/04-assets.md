@@ -6,8 +6,8 @@
 
 | Character | File | Shots |
 |---|---|---|
-| ✅ Noah | `characters/drawings/noah.png` | 01, 02, 03, 04 |
-| ✅ Arda | `characters/drawings/arda.png` | 01, 02, 03, 04 |
+| ✅ Noah | `01-CHARACTERS/drawings/noah.png` | 01, 02, 03, 04 |
+| ✅ Arda | `01-CHARACTERS/drawings/arda.png` | 01, 02, 03, 04 |
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Environment | File | Shots |
 |---|---|---|
-| Central Square | `environment/03-Central-Square/Hero-View.png` | 01, 02, 03, 04 |
+| Central Square | `environment/01-central-square/hero-view.png` | 01, 02, 03, 04 |
 
 ---
 

@@ -8,7 +8,7 @@ This document contains ONLY image generation prompts.
 
 All world rules, layout rules, animation rules and production constraints are defined in:
 
-`06-opas-tree-bible.md`
+`../../02-WORLDS/06-opas-tree-bible.md`
 
 This document follows the Environment Bible.
 

@@ -31,7 +31,7 @@ Patience • Care • Nature
 
 ## Locations
 
-1. Tillo's Garden (`environment/7-tillos-garden.png`)
+1. Tillo's Garden (`environment/07-tillos-garden.png`)
 
 ---
 

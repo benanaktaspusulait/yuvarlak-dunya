@@ -7,7 +7,7 @@
 - **Lineup scale**: 90 units in the reference sheet
 - **Main colour**: Warm Orange (#FF9A3C)
 - **Catchphrase**: "Hehe... you can't find me!"
-- **Source image**: `characters/drawings/mirnik.png`
+- **Source image**: `01-CHARACTERS/drawings/mirnik.png`
 
 ---
 

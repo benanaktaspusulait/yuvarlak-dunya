@@ -6,8 +6,8 @@
 
 | Character | File | Shots |
 |---|---|---|
-| ✅ Luca | `characters/drawings/luca.png` | 01, 02, 03, 04 |
-| ✅ Kiko | `characters/drawings/kiko.png` | 02, 03, 04 |
+| ✅ Luca | `01-CHARACTERS/drawings/luca.png` | 01, 02, 03, 04 |
+| ✅ Kiko | `01-CHARACTERS/drawings/kiko.png` | 02, 03, 04 |
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Environment | File | Shots |
 |---|---|---|
-| Stone Hill | `environment/25-Stone-Hill/Hero-View.png` | 01, 02, 03, 04 |
+| Stone Hill | `environment/27-stone-hill/hero-view.png` | 01, 02, 03, 04 |
 
 ---
 

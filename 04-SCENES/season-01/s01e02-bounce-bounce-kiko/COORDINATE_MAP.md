@@ -14,7 +14,7 @@ Kiko = 100 birim (1.00 m)
 
 ## Lokasyonlar
 
-### 1. Kiko's Home (`environment/3-kikos-home.png`)
+### 1. Kiko's Home (`environment/03-kikos-home.png`)
 
 | Element | X | Z | Not |
 | --- | --- | --- | --- |

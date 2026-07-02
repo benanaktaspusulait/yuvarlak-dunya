@@ -557,7 +557,7 @@ Pompom Hills has two layers of residents:
 
 ## Main Cameo Cast (13 named characters)
 
-The named, designed characters live in `characters/pompom-hills/` and are introduced in
+The named, designed characters live in `01-CHARACTERS/` and are introduced in
 S01E01. They are placed across the world's locations in the scenes, for example:
 
 | Character | Associated Location |
