@@ -1,16 +1,16 @@
-# Environments
+# Worlds
 
 Bu klasör her mekanın **story/production bible**'ını (`.md`) tutar.
-Mekanların **referans görselleri (PNG)** ayrı `environment/` klasöründedir.
+Mekanların **referans görselleri (PNG)** `environment/` klasöründedir (proje root'unda).
 
 ## Klasör İlişkisi
 
 | Klasör | İçerik |
 | --- | --- |
-| `Environments/` | Mekan bibleları (bu klasör, `.md`) |
-| `environment/` | Mekan referans görselleri (`.png`) |
+| `02-WORLDS/` | Mekan bibleları (bu klasör, `.md`) |
+| `environment/` | Mekan referans görselleri (`.png`, proje root'unda) |
 
-`Environments/NN-<slug>-bible.md` ile `environment/NN-<slug>.png` **aynı numara ve slug**'ı paylaşır.
+`02-WORLDS/NN-<slug>-bible.md` ile `environment/NN-<slug>.png` **aynı numara ve slug**'ı paylaşır.
 
 ## Numaralandırma
 
@@ -29,6 +29,6 @@ Mekanların **referans görselleri (PNG)** ayrı `environment/` klasöründedir.
 18. little-forest · 19. rainbow-creek · 20. wish-pond · 21. camping-grove · 22. story-circle ·
 23. art-corner · 24. adventure-trail
 
-> Not: `WORLD_BIBLE_v2.1.md` altı ana tepeyi (Central, Cloud, Flower, Sun, Tree, Stone)
+> Not: `00-CORE/WORLD_BIBLE.md` altı ana tepeyi (Central, Cloud, Flower, Sun, Tree, Stone)
 > coğrafi omurga olarak tanımlar. Bunların üçü (Flower/Tree/Stone) render plate'i olmadığı
 > için 25–27 aralığında bible olarak tutulur.

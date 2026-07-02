@@ -9,9 +9,9 @@ onaylı dünyaya karakter/prop yerleştirir.
 > diyalog, kısa Visual Prompt, continuity) içerir. Ortak kurallar burada tutulur; sahnelerde
 > tekrar edilmez.
 
-İlişkili dosyalar: `PRODUCTION_RULES.md` (kamera/mekan/ışık/ses/zaman sürekliliği),
+İlişkili dosyalar: `CONTINUITY_RULES.md` (süreklilik kuralları),
 `NEGATIVE_PROMPTS.md` (araç bazlı negative listeleri), `VARIABLES.md` (prompt değişkenleri),
-`CHARACTER_REFERENCE_GUIDE_v2.1.md` ve `WORLD_BIBLE_v2.1.md` (kilit referanslar).
+`CHARACTER_GUIDE.md` ve `WORLD_BIBLE.md` (kilit referanslar).
 
 ---
 

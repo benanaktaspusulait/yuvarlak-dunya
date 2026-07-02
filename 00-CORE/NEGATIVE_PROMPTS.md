@@ -38,7 +38,7 @@ razor bevels, real fur particles, hair strand simulation, pore displacement, fab
 
 OpenArt testleriyle doğrulanmış hata modlarına karşı koruma. Sahne (Director) promptlarında,
 karakter var olan LOCKED dünyaya yerleştirilirken bu bloğu negative alanına ekle
-(bkz. `PRODUCTION_RULES.md` §5).
+(bkz. `PRODUCTION_PIPELINE.md` "Known OpenArt Failure Modes" bölümü).
 
 ```text
 oversized character, giant character, character too large, character filling the frame, tiny environment, shrunken world, regenerated architecture, redesigned buildings, different house style, different trees, altered tree shape, brown pompom tree, reshaped Giant Pompom Tree, moved landmark, different flower layout, rearranged flowers, changed world layout, different paths, different lighting, environment sheet in scene, reference sheet visible, labels, arrows, layout diagram, frame border, random text, random signs, sign artifacts, watermark, extra characters

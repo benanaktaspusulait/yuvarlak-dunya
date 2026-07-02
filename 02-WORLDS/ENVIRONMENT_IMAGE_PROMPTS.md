@@ -4,7 +4,7 @@
 
 ## PRODUCTION NOTE — World Reference & Hero Pack
 
-Bu dosyadaki promptlar `PRODUCTION_RULES.md` pipeline'ına göre kullanılır. OpenArt bir image
+Bu dosyadaki promptlar `PRODUCTION_PIPELINE.md` pipeline'ına göre kullanılır. OpenArt bir image
 generator değil, **production engine**'dir.
 
 - Aşağıdaki her prompt bir mekanın **World reference**'ıdır (clean render). Başlık, etiket, ok,

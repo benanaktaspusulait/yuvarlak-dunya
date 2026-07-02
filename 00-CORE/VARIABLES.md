@@ -14,10 +14,10 @@ Tüm prompt'larda şu değişkenler kullanılır:
 ```
 
 > **Tek kaynak:** Yukarıdaki tanımlar kanoniktir ve `README.md` ile birebir aynıdır. Sahne/dünya
-> prompt packleri (`ai-prompts/ENVIRONMENT_PROMPTS.md`, `SCENE_PROMPTS.md`,
-> `ADVANCED_PRODUCTION_PROMPTS.md`, `OPENART_WORLD_PROMPT_PACK.md`) bu tanımları kullanır.
-> **Bilinçli istisnalar:** `ai-prompts/TECHNICAL_SHEETS.md` (orthographic studio kamera + even studio
-> lighting), `Props/PROP_ASSETS.md` (isolated-object framing) ve `ai-prompts/VISUAL_REFERENCES.md`
+> prompt packleri (`05-AI-PROMPTS/ENVIRONMENT_PROMPTS.md`, `05-AI-PROMPTS/SCENE_PROMPTS.md`,
+> `05-AI-PROMPTS/ADVANCED_PRODUCTION_PROMPTS.md`) bu tanımları kullanır.
+> **Bilinçli istisnalar:** `05-AI-PROMPTS/TECHNICAL_SHEETS.md` (orthographic studio kamera + even studio
+> lighting), `03-PROPS/PROP_ASSETS.md` (isolated-object framing) ve `05-AI-PROMPTS/VISUAL_REFERENCES.md`
 > (clean reference framing) amaçları gereği farklı `{camera}`/`{lighting}` kullanır.
 
 ---
