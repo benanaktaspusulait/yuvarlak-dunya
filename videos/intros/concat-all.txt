@@ -1,6 +1,0 @@
-file '/Users/benanaktas/project/video/yuvarlak-dunya/videos/intros/kiko-intro.mp4'
-file '/Users/benanaktas/project/video/yuvarlak-dunya/videos/intros/mimi-intro.mp4'
-file '/Users/benanaktas/project/video/yuvarlak-dunya/videos/intros/opa-intro.mp4'
-file '/Users/benanaktas/project/video/yuvarlak-dunya/videos/intros/arda-intro.mp4'
-file '/Users/benanaktas/project/video/yuvarlak-dunya/videos/intros/noah-intro.mp4'
-file '/Users/benanaktas/project/video/yuvarlak-dunya/videos/intros/luca-intro.mp4'
