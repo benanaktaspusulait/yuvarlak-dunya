@@ -1,5 +1,7 @@
 # Environment Bible — Mimi's Burrow
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -20,6 +22,32 @@ Küçük, sıcak, davetkar.
 Burada Mimi dinlenir, güvende hisseder.
 
 Çocuklar için "yuva" kavramının somut hali.
+
+---
+
+## Why This World Exists ⭐
+
+Mimi's Burrow, yeraltında güvenli bir sığınak olarak tasarlanmıştır — children see a cozy, hidden retreat that feels like a secret world beneath the grass. The underground layout with warm blue tones and soft textures reinforces Mimi's gentle, introverted personality. This space provides contrast to Kiko's above-ground home, enriching the world's spatial diversity.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| # | Reference Name | Description |
+|---|---|---|
+| 01 | Hero View | %100 çevre — çimenliğin altındaki yuvarlak mavi giriş, çiçekler üstte, karakter yok |
+| 02 | Entrance View | Giriş yakın çekim — mavi çerçeveli yuvarlak açıklık, sıcak ışık içeri sızar |
+| 03 | Trail View | Orta mesafe — Mimi's Burrow girişi, üstte çimenlik ve çiçekler, yuvarlak taş yolu görünür |
+| 04 | Detail View | Detay — çimden çıkan kulak izleri, giriş çerçevesi doku, üstteki çiçek detayı |
+
+---
+
+## OpenArt Production Rules
+
+- **Max 4 referans** — Hero View zorunlu, diğer üçü isteğe bağlı
+- **Hero View zorunlu** — her üretimde ana görünüm referans olarak kullanılır
+- **Tutarlı ışık ve renk** — tüm referanslarda sıcak mavi-yeşil palet, yeraltı sıcak ışığı korunur
+- **Karakter yok** — referanslarda Mimi veya diğer karakterler yer almaz, sadece çevre
 
 ---
 
@@ -215,7 +243,7 @@ Yeraltında yuvarlak bir giriş.
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Mimi sabah uyanır, kulakları görünür
 2. Kiko ziyarete gelir, birlikte otururlar
@@ -227,6 +255,15 @@ Yeraltında yuvarlak bir giriş.
 8. Saklanma oyunu oynarlar
 9. Mimi yeni bir şey keşfeder
 10. Birlikte şarkı söylerler
+
+---
+
+## Production Notes
+
+- **Best Characters:** Mimi (ev sahibi), Kiko (ziyaretçi)
+- **Avoid:** Karanlık, soğuk renkler, büyük eşyalar
+- **Typical Duration:** 30–60s per scene
+- **Best Emotional Themes:** Güven, rahatlık, sakinlik, dostluk
 
 ---
 

@@ -1,5 +1,7 @@
 # Environment Bible — Butterfly Meadow
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,12 @@ Butterfly Meadow, doğanın güzelliğini temsil eder.
 Burada kelebekler uçar, çiçekler sallanır, rüzgar eser.
 
 Çocuklar için "büyülü an"ların mekanıdır.
+
+---
+
+## Why This World Exists ⭐
+
+Butterfly Meadow, doğanın en hassas ve büyüleyici yönünü yakalar. Kelebeklerin dansı ve çiçeklerin renk cümbüşü, çocuklar için görsel bir şölen sunar. Sakinlik ve hayranlık duygularını tetikleyerek doğal dünyaya olan bağlılığı güçlendirir.
 
 ---
 
@@ -82,6 +90,26 @@ Central Square
 | Medium | Karakter + kelebek |
 | Close-up | Kelebek detayı |
 | Low angle | Çiçeklerden yukarı |
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| Ref | Ad | Açıklama |
+|---|---|---|
+| 01 | Hero View | %100 çevre, karakter yok — geniş çimenlik ve çiçekler |
+| 02 | Entrance View | Meydana giriş açısı, renkli çiçek alanları |
+| 03 | Trail View | Çimenlik orta mesafe, kelebekler havada |
+| 04 | Detail View | Kelebek ve çiçek detayı, pastel renkler |
+
+---
+
+## OpenArt Production Rules
+
+- Maksimum 4 referans görseli
+- Hero View zorunlu (her production'da bulunmalı)
+- Tutarlı ışık ve renk paleti (pastel tonlar, yumuşak ışık)
+- Referans görsellerde karakter bulunmamalı
 
 ---
 
@@ -151,7 +179,7 @@ Central Square
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Kiko kelebek yakalamaya çalışır
 2. Mimi'nin burnuna kelebek konar
@@ -174,6 +202,15 @@ Central Square
 ✓ Rüzgar var mı?
 ✓ Kelebekler yavaş mı uçuyor?
 ```
+
+---
+
+## Production Notes
+
+- **Best Characters**: Mimi (kelebek sevgisi), Kiko (keşif)
+- **Avoid**: Hızlı kelebek, korkutucu böcek, karanlık, siyah renk
+- **Typical Duration**: 30-60 saniye
+- **Best Emotional Themes**: Hayranlık, büyü, doğa sevgisi, sakinlik
 
 ---
 

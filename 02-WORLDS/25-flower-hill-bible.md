@@ -1,5 +1,7 @@
 # Environment Bible — Flower Hill
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -20,6 +22,12 @@ En renkli tepedir.
 Kiko'nun evi buradadır.
 
 Mimi'nin yuvası buradadır.
+
+---
+
+## Why This World Exists ⭐
+
+Flower Hill, diyarın renk paletinin ve yaşam döngüsünün merkezidir. Mevsimlere göre değişen çiçekleriyle sürekli bir yenilik ve güzellik sunar. Ana karakterlerin evi olarak hem güvenli bir liman hem de keşiflerin başlangıç noktasıdır.
 
 ---
 
@@ -94,6 +102,26 @@ Rosie's Rose Garden (doğu)
 
 ---
 
+## Canonical OpenArt Reference Pack
+
+| Ref | Ad | Açıklama |
+|---|---|---|
+| 01 | Hero View | %100 çevre, karakter yok — renkli çiçekli tepe |
+| 02 | Entrance View | Tepeye giriş açısı, çiçek dolu yokuş |
+| 03 | Trail View | Çimenlik orta mesafe, renkli patika |
+| 04 | Detail View | Çiçek detayı, renk cümbüşü |
+
+---
+
+## OpenArt Production Rules
+
+- Maksimum 4 referans görseli
+- Hero View zorunlu (her production'da bulunmalı)
+- Tutarlı ışık ve renk paleti (canlı renkler, sıcak ışık)
+- Referans görsellerde karakter bulunmamalı
+
+---
+
 ## Spatial Layout
 
 ```
@@ -151,7 +179,7 @@ Rosie's Rose Garden (doğu)
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Kiko çiçekleri sayar
 2. Mimi çiçek koklar
@@ -175,6 +203,15 @@ Rosie's Rose Garden (doğu)
 ✓ Sivri köşe yok mu?
 ✓ Rüzgar var mı?
 ```
+
+---
+
+## Production Notes
+
+- **Best Characters**: Kiko (ev sahibi), Mimi (komşu)
+- **Avoid**: Soluk renk, kuru toprak, bozkır, karanlık
+- **Typical Duration**: 30-60 saniye
+- **Best Emotional Themes**: Güzellik, renk, ev hissi, doğa sevgisi
 
 ---
 

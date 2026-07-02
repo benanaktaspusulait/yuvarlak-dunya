@@ -1,5 +1,7 @@
 # Environment Bible — Rainbow Creek
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -20,6 +22,32 @@ Su sesi yumuşaktır.
 Taşlar yuvarlak ve renklidir.
 
 Çocuklar için "huzurlu an"ların mekanı.
+
+---
+
+## Why This World Exists ⭐
+
+Rainbow Creek, serinin doğal su yolu olarak tasarlanmıştır — akan su, renkli taşlar ve küçük ahşap köprü, children'leri doğa ile güvenli bir etkileşime davet eder. Bu mekan, Stone Hill ve Flower Hill arasındaki geçiş corridoru olarak世界 yapısında kritik bir bağlantı görevi görür. Yavaş akan su ve yuvarlak formlar, meditatif bir atmosfer yaratarak hikayedeki sakin anlar için ideal bir fon oluşturur.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| # | Reference Name | Description |
+|---|---|---|
+| 01 | Hero View | %100 çevre — berrak çay, yuvarlak renkli taşlar kenarda, ahşap köprü ortada, karakter yok |
+| 02 | Entrance View | Köprü girişi yakın çekim — ahşap korkuluk, suyun altında aktığı görünür |
+| 03 | Trail View | Orta mesafe — Stone Hill'den Flower Hill'e çay boyunca uzanan yol, taşlar ve köprü görünür |
+| 04 | Detail View | Detay — yuvarlak renkli taş yüzeyi, su yansıması, küçük balık gölgesi |
+
+---
+
+## OpenArt Production Rules
+
+- **Max 4 referans** — Hero View zorunlu, diğer üçü isteğe bağlı
+- **Hero View zorunlu** — her üretimde ana görünüm referans olarak kullanılır
+- **Tutarlı ışık ve renk** — tüm referanslarda yumuşak günışığı, yeşil-mavi-pembe palet korunur
+- **Karakter yok** — referanslarda Kiko veya diğer karakterler yer almaz, sadece çevre
 
 ---
 
@@ -145,7 +173,7 @@ Flower Hill
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Balıklar izlenir
 2. Taşlar seçilir
@@ -155,6 +183,15 @@ Flower Hill
 6. Kiko suya dokunur
 7. Mimi taş üstünde durur
 8. Akşam su parlar
+
+---
+
+## Production Notes
+
+- **Best Characters:** Kiko (yürüyüş), Mimi (taş seçimi)
+- **Avoid:** Derin su, hızlı akıntı, soğuk renk, karanlık
+- **Typical Duration:** 30–60s per scene
+- **Best Emotional Themes:** Huzur, doğa, keşif, sakinlik
 
 ---
 

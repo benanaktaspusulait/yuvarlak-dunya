@@ -1,5 +1,7 @@
 # Environment Bible — Little Forest
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,12 @@ Little Forest, keşif ve macera mekanı.
 Küçük, güvenli, sihirli bir orman.
 
 Çocuklar için "yeni bir yer keşfetme" hissi.
+
+---
+
+## Why This World Exists ⭐
+
+Little Forest, çocukların keşfetme içgüdüsünü güvenli bir şekilde besleyen bir alandır. Küçük ama sırlarla dolu bu orman, her adımda yeni bir sürpriz vaat eder. Doğayla güvenli etkileşim ve hayal gücünü harekete geçirme deneyimi sunar.
 
 ---
 
@@ -79,6 +87,26 @@ Adventure Trail
 
 ---
 
+## Canonical OpenArt Reference Pack
+
+| Ref | Ad | Açıklama |
+|---|---|---|
+| 01 | Hero View | %100 çevre, karakter yok — yuvarlak ponpon ağaçlar |
+| 02 | Entrance View | Ormana giriş açısı, ağaçlar arasından |
+| 03 | Trail View | Orman içi patika, mantar daireleri |
+| 04 | Detail View | Mantar/sincap detayı, sihirli dokular |
+
+---
+
+## OpenArt Production Rules
+
+- Maksimum 4 referans görseli
+- Hero View zorunlu (her production'da bulunmalı)
+- Tutarlı ışık ve renk paleti (yeşil tonları, sıcak ışık)
+- Referans görsellerde karakter bulunmamalı
+
+---
+
 ## Animation Rules
 
 ### Ağaçlar
@@ -121,7 +149,7 @@ Adventure Trail
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Sincap ile tanışılır
 2. Mantar daireleri keşfedilir
@@ -142,6 +170,15 @@ Adventure Trail
 ✓ Karanlık yok mu?
 ✓ Mantar daireleri var mı?
 ```
+
+---
+
+## Production Notes
+
+- **Best Characters**: Kiko (keşif), Mimi (merak)
+- **Avoid**: Karanlık orman, korkutucu ses, büyük hayvan
+- **Typical Duration**: 30-60 saniye
+- **Best Emotional Themes**: Keşif, macera, merak, sihir
 
 ---
 

@@ -1,5 +1,7 @@
 # Environment Bible — Kiko's Home
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -22,6 +24,32 @@ Burasi sabah sahneleri için ana başlangıç noktasıdır.
 Çocuk izleyicinin "ev" kavramını güvenli ve sıcak hissetmesi gerekir.
 
 Bu ev, Pompom Hills'in en tanıdık yeridir.
+
+---
+
+## Why This World Exists ⭐
+
+Kiko's Home, serinin "güvenli üssü" olarak tasarlanmıştır — her macera buradan başlar ve buraya döner. Çocuk izleyicinin tanıdık ve sıcak bir ev hissini deneyimlemesi, dünyaya bağlanmasını sağlar. Yuvarlak formlar ve pembe tonlar, "ev" kavramının somut ve sevimli bir karşılığı olarak seçilmiştir.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| # | Reference Name | Description |
+|---|---|---|
+| 01 | Hero View | %100 çevre — Kiko'nun yuvarlak pembe evi tam kadraj, kapı merkezde, çit ve bahçe görünür, karakter yok |
+| 02 | Entrance View | Kapı yakın çekim — yuvarlak beyaz kapı, beyaz çiçeğe kadar taş yol, kapı eşiğinden içeri bakış |
+| 03 | Trail View | Orta mesafe çevre — Flower Hill patikası, Kiko'nun evi uzakta, çiçek tarlaları ve komşu yollar görünür |
+| 04 | Detail View | Detay çekim — ev numarası plakası "3", pencere perdesi, çit üzerindeki çiçekler, yuvarlak taşlar |
+
+---
+
+## OpenArt Production Rules
+
+- **Max 4 referans** — Hero View zorunlu, diğer üçü isteğe bağlı
+- **Hero View zorunlu** — her üretimde ana görünüm referans olarak kullanılır
+- **Tutarlı ışık ve renk** — tüm referanslarda sabah günışığı, pembe-beyaz palet korunur
+- **Karakter yok** — referanslarda Kiko veya diğer karakterler yer almaz, sadece çevre
 
 ---
 
@@ -463,7 +491,7 @@ Her şey yuvarlak ve yumuşak.
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Kiko sabah uyanır, pencereden günaydın der
 2. Mimi kapıyı çalar, birlikte dışarı çıkarlar
@@ -485,6 +513,15 @@ Her şey yuvarlak ve yumuşak.
 18. Kiko evinin önündeki taşları sayar
 19. Mimi ile birlikte top oynarlar
 20. Akşam olur, güneş batır
+
+---
+
+## Production Notes
+
+- **Best Characters:** Kiko (ev sahibi), Mimi (ziyaretçi)
+- **Avoid:** Karanlık gölgeler, sivri köşeler,快速 hareket
+- **Typical Duration:** 30–60s per scene
+- **Best Emotional Themes:** Güven, rahatlık, sabah enerjisi, arkadaşlık
 
 ---
 

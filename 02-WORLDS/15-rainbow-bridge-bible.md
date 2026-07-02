@@ -1,5 +1,7 @@
 # Environment Bible — Rainbow Bridge
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,32 @@ Rainbow Bridge, sihirli geçiş mekanı.
 Yağmur sonrası gökkuşağı buraya dokunur.
 
 Dilek dileme yeri.
+
+---
+
+## Why This World Exists ⭐
+
+Rainbow Bridge, serinin en sihirli geçiş noktası olarak tasarlanmıştır — gökkuşağı renkleri ve parıltılı atmosfer, "dilek" ve "umut" temalarını görsel olarak somutlaştırır. Bu mekan, Cloud Hill ve Rainbow Creek arasındaki bağlantıyı fiziksel bir köprüyle temsil ederekworld'un dikey yapısını destekler. Renkli form dili, children'in hayal gücünü tetikleyerek unutulmaz bir görsel deneyim sunar.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| # | Reference Name | Description |
+|---|---|---|
+| 01 | Hero View | %100 çevre — yuvarlak renkli köprü tam kadraj, gökyüzünde gökkuşağı, karakter yok |
+| 02 | Entrance View | Köprü girişi yakın çekim — başlangıç noktası, renkli taşlar, gökkuşağı parıltısı |
+| 03 | Trail View | Orta mesafe — köprü Cloud Hill'den Rainbow Creek'e uzanır, su aşağıda akar |
+| 04 | Detail View | Detay — dilek taşı yüzeyi, gökkuşağı yansıtması, renkli köprü doku |
+
+---
+
+## OpenArt Production Rules
+
+- **Max 4 referans** — Hero View zorunlu, diğer üçü isteğe bağlı
+- **Hero View zorunlu** — her üretimde ana görünüm referans olarak kullanılır
+- **Tutarlı ışık ve renk** — tüm referanslarda gökkuşağı spektrumu, yumuşak parıltılı ışık korunur
+- **Karakter yok** — referanslarda Kiko veya diğer karakterler yer almaz, sadece çevre
 
 ---
 
@@ -84,12 +112,21 @@ Rainbow Creek
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Gökkuşağı izlenir
 2. Dilek taşına dilek dilenir
 3. Köprüden geçilir
 4. Renkler sayılıır
+
+---
+
+## Production Notes
+
+- **Best Characters:** Kiko (geçiş), Mimi (dilek)
+- **Avoid:** Karanlık, kırık köprü, yağmur fırtınası
+- **Typical Duration:** 30–60s per scene
+- **Best Emotional Themes:** Sihir, umut, hayal gücü, neşe
 
 ---
 

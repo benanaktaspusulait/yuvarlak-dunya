@@ -1,5 +1,7 @@
 # Environment Bible — Sun Hill
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -20,6 +22,12 @@ Sun Hill, dünyanın en sıcak yeri.
 Sabah kahvaltıları için popüler.
 
 Sıcaklık ve enerji hissi verir.
+
+---
+
+## Why This World Exists ⭐
+
+Sun Hill, dünyanın döngüsünü başlatan ilk ışık kaynağıdır. Her gün burada başlayan güneş, tüm diyara enerji ve umut taşır. Çocuklar için "yeni bir günün başlangıcı" hissini yansıtır.
 
 ---
 
@@ -78,6 +86,26 @@ Little Forest
 
 ---
 
+## Canonical OpenArt Reference Pack
+
+| Ref | Ad | Açıklama |
+|---|---|---|
+| 01 | Hero View | %100 çevre, karakter yok — tüm tepe ve ufuk manzarası |
+| 02 | Entrance View | Tepeye giriş açısı, yokuş yukarı görünüm |
+| 03 | Trail View | Çimenlik orta mesafe, patika boyunca çevre |
+| 04 | Detail View | Güneş ışığı detayı, sıcak taşlar ve çiçekler |
+
+---
+
+## OpenArt Production Rules
+
+- Maksimum 4 referans görseli
+- Hero View zorunlu (her production'da bulunmalı)
+- Tutarlı ışık ve renk paleti (sıcak tonlar, altın/güneş)
+- Referans görsellerde karakter bulunmamalı
+
+---
+
 ## Animation Rules
 
 | Aksiyon | Not |
@@ -108,7 +136,7 @@ Little Forest
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. İlk güneş ışığı izlenir
 2. Kahvaltı yapılır
@@ -127,6 +155,15 @@ Little Forest
 ✓ Sivri köşe yok mu?
 ✓ İlk güneş buraya mı vuruyor?
 ```
+
+---
+
+## Production Notes
+
+- **Best Characters**: Kiko (enerji ve neşe), Rosie (sabah rutini)
+- **Avoid**: Karanlık sahneler, soğuk renk paleti, yağmur efektleri
+- **Typical Duration**: 30-60 saniye
+- **Best Emotional Themes**: Umut, enerji, yeniden başlangıç, sabah neşesi
 
 ---
 

@@ -1,5 +1,7 @@
 # Environment Bible — Lily's Lavender Farm
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,32 @@ Lily'nin lavanta çiftliği, koku ve renk mekanı.
 Mor lavanta tarlaları, arı evleri, yel değirmenleri.
 
 Sakinlik ve doğa sevgisi.
+
+---
+
+## Why This World Exists ⭐
+
+Lily's Lavender Farm, çocukların koku duyusunu ve renk algısını geliştirmek için tasarlanmış bir mekandır. Sonsuz mor lavanta tarlaları, görsel bir huzur deneyimi sunar. Arı evleri ve yel değirmenleri, doğanın döngüsü ve sakinlik temalarını somutlaştırır.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| Ref | Adı | Açıklama |
+|---|---|---|
+| Reference 01 | Hero View | %100 ortam, karakter yok — sonsuz mor lavanta tarlası, arı evleri, yel değirmenleri, sıcak güneş |
+| Reference 02 | Entrance View | Giriş açısı — çiftlik kapısı, lavanta sıraları arasında yürüyüş yolu |
+| Reference 03 | Trail View | Orta mesafe ortam — tarla sıraları, yel değirmeni silueti, arı kovanları |
+| Reference 04 | Detail View | Yakın detay — lavanta çiçeği, arı, yel değirmeni kanadı, mor doku |
+
+---
+
+## OpenArt Production Rules
+
+- **Maksimum 4 referans** — Hero View zorunlu
+- Tutarlı aydınlatma ve renk paleti (mor lavanta, sıcak güneş, yeşil tonlar)
+- Referanslarda karakter yok — sadece ortam ve doğa detayları
+- Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
 
 ---
 
@@ -84,7 +112,7 @@ Little Forest
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Lavantalar koklanır
 2. Arılar izlenir
@@ -101,6 +129,17 @@ Little Forest
 ✓ Yel değirmenleri yuvarlak mı?
 ✓ Sivri köşe yok mu?
 ```
+
+---
+
+## Production Notes
+
+| Kategori | Detay |
+|---|---|
+| **En İyi Karakterler** | Lily, Kiko — doğa ve koku keşfi temalarıyla doğal uyum |
+| **Kaçınılması Gerekenler** | Korkutucu arı, diken, soluk renk, kötü koku, hızlı hareket |
+| **Tipik Süre** | 30–60 saniye |
+| **En İyi Duygusal Temalar** | Huzur, sakinlik, doğa sevgisi, renk keşfi, koku deneyimi |
 
 ---
 

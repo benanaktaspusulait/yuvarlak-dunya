@@ -1,5 +1,7 @@
 # Environment Bible — Cloud Hill
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -20,6 +22,12 @@ En yüksek nokta.
 Sessiz ve huzurlu.
 
 Çocuklar için "yukarı bakma" ve "hayal kurma" mekanı.
+
+---
+
+## Why This World Exists ⭐
+
+Cloud Hill, çocuklar için hayal gücünün sınırını temsil eder. En yüksek noktadan gökyüzüne bakarak büyük düşüncelere dalma anları yaratır. Sessizliği ve rüzgarı ile iç huzur ve keşif deneyimi sunar.
 
 ---
 
@@ -85,6 +93,26 @@ Central Square
 
 ---
 
+## Canonical OpenArt Reference Pack
+
+| Ref | Ad | Açıklama |
+|---|---|---|
+| 01 | Hero View | %100 çevre, karakter yok — tepe ve geniş gökyüzü |
+| 02 | Entrance View | Tepeye çıkış açısı, rampa yukarı görünüm |
+| 03 | Trail View | Çimenlik orta mesafe, rüzgarlı patika |
+| 04 | Detail View | Bulut detayı, gökyüzü ve ufuk birleşimi |
+
+---
+
+## OpenArt Production Rules
+
+- Maksimum 4 referans görseli
+- Hero View zorunlu (her production'da bulunmalı)
+- Tutarlı ışık ve renk paleti (sakin mavi/beyaz tonlar)
+- Referans görsellerde karakter bulunmamalı
+
+---
+
 ## Animation Rules
 
 ### Bulutlar
@@ -125,7 +153,7 @@ Central Square
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Bulutlar izlenir
 2. Gökkuşağı buradan başlar
@@ -147,6 +175,15 @@ Central Square
 ✓ Sakin mi?
 ✓ Gökyüzü geniş mi?
 ```
+
+---
+
+## Production Notes
+
+- **Best Characters**: Mimi (hayal gücü), Kiko (keşif)
+- **Avoid**: Fırtına, karanlık, hızlı sahneler, gürültü
+- **Typical Duration**: 30-60 saniye
+- **Best Emotional Themes**: Huzur, hayal gücü, sessizlik, keşif
 
 ---
 

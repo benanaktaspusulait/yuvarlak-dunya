@@ -1,5 +1,7 @@
 # Environment Bible — Art Corner
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,32 @@ Art Corner, yaratıcılık mekanı.
 Dış mekan resim stüdyosu.
 
 Sofia burada çok vakit geçirir.
+
+---
+
+## Why This World Exists ⭐
+
+Art Corner, çocukların yaratıcılığını ve renk algısını dış mekan koşullarında geliştirmek için tasarlanmıştır. Açık hava stüdyosu konsepti, doğa ilhamını sanatla buluşturur. Tuval ve boya detayları, yaratıcı sahneler için zengin görsel malzeme sağlar.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| Ref | Adı | Açıklama |
+|---|---|---|
+| Reference 01 | Hero View | %100 ortam, karakter yok — açık hava resim stüdyosu, tuval, fırçalar, renkli boya paletleri |
+| Reference 02 | Entrance View | Giriş açısı — stüdyoya giden yol, renkli tabelalar, davetkan atmosfer |
+| Reference 03 | Trail View | Orta mesafe ortam — Art Corner çevresi, Story Circle bağlantısı, doğal çevre |
+| Reference 04 | Detail View | Yakın detay — tuval üzerinde boya, fırça darbeleri, karışık renk paleti, su kabı |
+
+---
+
+## OpenArt Production Rules
+
+- **Maksimum 4 referans** — Hero View zorunlu
+- Tutarlı aydınlatma ve renk paleti (canlı, yaratıcı, çok renkli)
+- Referanslarda karakter yok — sadece ortam ve sanat malzemeleri
+- Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
 
 ---
 
@@ -84,7 +112,7 @@ Adventure Trail
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Yeni bir resim çizilir
 2. Renkler karıştırılır
@@ -101,6 +129,17 @@ Adventure Trail
 ✓ Tuval temiz mi?
 ✓ Sivri köşe yok mu?
 ```
+
+---
+
+## Production Notes
+
+| Kategori | Detay |
+|---|---|
+| **En İyi Karakterler** | Sofia, Kiko — yaratıcılık ve renk keşfi temalarıyla doğal uyum |
+| **Kaçınılması Gerekenler** | Keskin fırça, kirli boya, soluk renk, sivri köşe, karmaşa |
+| **Tipik Süre** | 30–60 saniye |
+| **En İyi Duygusal Temalar** | Yaratıcılık, ilham, renk keşfi, sessiz odak, özgüven |
 
 ---
 

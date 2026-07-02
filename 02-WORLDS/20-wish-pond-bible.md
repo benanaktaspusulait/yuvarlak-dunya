@@ -1,5 +1,7 @@
 # Environment Bible — Wish Pond
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,32 @@ Wish Pond, Pompom Hills'in en sihirli yeri.
 Çocuklar burada dilek diler.
 
 Gece yıldızlar suda yüzer.
+
+---
+
+## Why This World Exists ⭐
+
+Wish Pond, serinin "dilek ve hayal gücü" tapınağı olarak tasarlanmıştır — gece gökyüzünün suda yansıması, children'lere sonsuzluk ve sihir hissi verir. Bu mekan, hikayedeki en duygusal anları barındırarak izleyicinin hayal gücünü besler. Sessiz atmosfer ve yıldızlı yansıma, kids'in kendi dileklerini düşünmeleri için meditatif bir alan yaratır.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| # | Reference Name | Description |
+|---|---|---|
+| 01 | Hero View | %100 çevre — yuvarlak berrak gölet gece, yıldızlar suda yansır, yuvarlak taşlar çevrede, karakter yok |
+| 02 | Entrance View | Gölet kenarı yakın çekim — su yüzeyi ve yıldız yansıması, taşlar kenarda |
+| 03 | Trail View | Orta mesafe — Little Forest'den Wish Pond'a patika, gölet orta planda, yıldızlı gökyüzü |
+| 04 | Detail View | Detay — su yüzeyinde yıldız yansıması, taş yüzey dokusu, hafif parıltı |
+
+---
+
+## OpenArt Production Rules
+
+- **Max 4 referans** — Hero View zorunlu, diğer üçü isteğe bağlı
+- **Hero View zorunlu** — her üretimde ana görünüm referans olarak kullanılır
+- **Tutarlı ışık ve renk** — tüm referanslarda gece mavi-mor tonları, yıldız parlaklığı korunur
+- **Karakter yok** — referanslarda Kiko veya diğer karakterler yer almaz, sadece çevre
 
 ---
 
@@ -84,12 +112,21 @@ Camping Grove
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Dilek dilenir
 2. Yıldızlar suda izlenir
 3. Taş göle atılır
 4. Gece masalı anlatılır
+
+---
+
+## Production Notes
+
+- **Best Characters:** Kiko (dilek), Mimi (gece masalı)
+- **Avoid:** Karanlık, korkutucu, kirli su, sivri taş
+- **Typical Duration:** 30–60s per scene
+- **Best Emotional Themes:** Sihir, hayal gücü, umut, dinginlik
 
 ---
 

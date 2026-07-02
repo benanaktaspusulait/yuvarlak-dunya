@@ -1,5 +1,7 @@
 # Environment Bible — Friendship Meadow
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,12 @@ Friendship Meadow, grup etkinlikleri mekanı.
 Piknik, festival, uçurtma uçurma.
 
 Birliktelik ve neşe hissi.
+
+---
+
+## Why This World Exists ⭐
+
+Friendship Meadow, dostluğun ve birlikteliğin fiziksel manifestosudur. Çocukların bir araya gelip birlikte oynadığı, güldüğü ve paylaştığı geniş bir alan sunar. Topluluk hissi ve sosyal bağların güçlenmesi için tasarlanmıştır.
 
 ---
 
@@ -63,6 +71,26 @@ Friendship Meadow ← BURASI
 
 ---
 
+## Canonical OpenArt Reference Pack
+
+| Ref | Ad | Açıklama |
+|---|---|---|
+| 01 | Hero View | %100 çevre, karakter yok — geniş yeşil çimenlik |
+| 02 | Entrance View | Meydana giriş açısı, geniş alan görünümü |
+| 03 | Trail View | Çimenlik orta mesafe, rüzgarlı açık alan |
+| 04 | Detail View | Çimen ve çiçek detayı, yumuşak dokular |
+
+---
+
+## OpenArt Production Rules
+
+- Maksimum 4 referans görseli
+- Hero View zorunlu (her production'da bulunmalı)
+- Tutarlı ışık ve renk paleti (açık yeşil, geniş his)
+- Referans görsellerde karakter bulunmamalı
+
+---
+
 ## Soundscape
 
 | Ses | Kaynak |
@@ -84,7 +112,7 @@ Friendship Meadow ← BURASI
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Uçurtma uçurulur
 2. Piknik yapılır
@@ -101,6 +129,15 @@ Friendship Meadow ← BURASI
 ✓ Çimen yeşil mi?
 ✓ Sivri köşe yok mu?
 ```
+
+---
+
+## Production Notes
+
+- **Best Characters**: Kiko, Mimi, Rosie (tüm grup birlikte)
+- **Avoid**: Tek başına sahneler, dar alan, karanlık
+- **Typical Duration**: 30-60 saniye
+- **Best Emotional Themes**: Birliktelik, neşe, paylaşım, dostluk
 
 ---
 

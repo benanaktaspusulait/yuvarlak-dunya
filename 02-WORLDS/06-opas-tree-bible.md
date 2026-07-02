@@ -1,5 +1,8 @@
 # Environment Bible — Opa's Tree
 
+> **🔒 LOCKED** — Production used. Do not modify without Creative Director approval.
+> World appears in published videos. Changes require production safety review.
+
 ---
 
 ```

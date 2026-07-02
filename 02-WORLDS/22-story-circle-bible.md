@@ -1,5 +1,7 @@
 # Environment Bible — Story Circle
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,32 @@ Story Circle, hikaye anlatma mekanı.
 Opa her akşam burada kitap okur.
 
 Çocuklar etrafında oturur.
+
+---
+
+## Why This World Exists ⭐
+
+Story Circle, dünyanın en temel geleneği olan hikaye anlatıcılığına adanmış bir mekandır. Büyüyen ağaç ve yuvarlak taşlar, nesiller arası bağ ve bilgelik aktarımını görselleştirir. Sakin atmosfer, izleyiciyi dinlemeye ve.reflect etmeye davet eder.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| Ref | Adı | Açıklama |
+|---|---|---|
+| Reference 01 | Hero View | %100 ortam, karakter yok — büyük hikaye ağacı, yuvarlak oturma taşları, sıcak ışık, sakin ortam |
+| Reference 02 | Entrance View | Giriş açısı — ağaç altına giden yol, taş basamaklar, dallar arasında görünen gökyüzü |
+| Reference 03 | Trail View | Orta mesafe ortam — Camping Grove bağlantısı, ağaç silueti, doğal çevre |
+| Reference 04 | Detail View | Yakın detay — ağaç kabuğu, yosunlu taş, sıcak ışık lekesi, kitap sayfası |
+
+---
+
+## OpenArt Production Rules
+
+- **Maksimum 4 referans** — Hero View zorunlu
+- Tutarlı aydınlatma ve renk paleti (sıcak amber, yeşil tonlar, gece mavisi)
+- Referanslarda karakter yok — sadece ortam ve doğal detaylar
+- Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
 
 ---
 
@@ -84,7 +112,7 @@ Art Corner
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Opa hikaye anlatır
 2. Çocuklar dinler
@@ -102,6 +130,17 @@ Art Corner
 ✓ Sakin mi?
 ✓ Sivri köşe yok mu?
 ```
+
+---
+
+## Production Notes
+
+| Kategori | Detay |
+|---|---|
+| **En İyi Karakterler** | Opa, tüm çocuklar — hikaye anlatma ve dinleme sahneleri için ideal |
+| **Kaçınılması Gerekenler** | Gürültü, hızlı hareket, sivri köşe, karanlık, yapay ışık |
+| **Tipik Süre** | 30–60 saniye |
+| **En İyi Duygusal Temalar** | Huzur, bilgelik, nesiller arası bağ, merak, iyi geceler rutini |
 
 ---
 

@@ -1,5 +1,8 @@
 # Environment Bible — Central Square
 
+> **🔒 LOCKED** — Production used. Do not modify without Creative Director approval.
+> World appears in published videos. Changes require production safety review.
+
 ---
 
 ```

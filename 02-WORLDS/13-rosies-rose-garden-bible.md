@@ -1,5 +1,7 @@
 # Environment Bible — Rosie's Rose Garden
 
+> **Version 2.0** — Upgraded to new production pipeline standard.
+
 ---
 
 ```
@@ -18,6 +20,32 @@ Rosie's Rose Garden, güzellik ve zarafet mekanı.
 Güller, kelebekler, kalp şeklinde çiçekler.
 
 Çocuklar için "güzel olan şeyleri izleme" anları.
+
+---
+
+## Why This World Exists ⭐
+
+Rosie's Rose Garden, çocukların doğanın zarafetini ve renk zenginliğini keşfetmesini sağlamak için tasarlanmıştır. Dikensiz güller ve kalp şeklinde çiçekler, çocukların güvenle güzellikle etkileşime girmesini sağlar. Kelebekler ve pastel renkler, sakin ve göz alıcı sahneler üretir.
+
+---
+
+## Canonical OpenArt Reference Pack
+
+| Ref | Adı | Açıklama |
+|---|---|---|
+| Reference 01 | Hero View | %100 ortam, karakter yok — tam bahçe panoraması, pembe güller, kalp çiçekler, kelebekler |
+| Reference 02 | Entrance View | Giriş açısı — beyaz alçak çit, davetkar geçit, içeri görünen gülleri labirenti |
+| Reference 03 | Trail View | Orta mesafe ortam — bahçe yolları, çit detayları, çiçek tarhları |
+| Reference 04 | Detail View | Yakın detay — gül yaprağı, kelebek, kalp şeklinde çiçek, renk paleti |
+
+---
+
+## OpenArt Production Rules
+
+- **Maksimum 4 referans** — Hero View zorunlu
+- Tutarlı aydınlatma ve renk paleti (pembe-kırmızı-sarı pastel tonlar)
+- Referanslarda karakter yok — sadece ortam ve çiçek detayları
+- Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
 
 ---
 
@@ -113,7 +141,7 @@ Lily's Lavender Farm
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
 1. Kiko pembe gül koklar
 2. Kelebek gülün üstüne konar
@@ -133,6 +161,17 @@ Lily's Lavender Farm
 ✓ Kelebekler var mı?
 ✓ Sivri köşe yok mu?
 ```
+
+---
+
+## Production Notes
+
+| Kategori | Detay |
+|---|---|
+| **En İyi Karakterler** | Rosie, Kiko — güzellik ve keşif temalarıyla doğal uyum |
+| **Kaçınılması Gerekenler** | Diken, soluk renk, kırık çiçek, karanlık, hızlı hareket |
+| **Tipik Süre** | 30–60 saniye |
+| **En İyi Duygusal Temalar** | Güzellik, zarafet, sakinlik, renk keşfi, doğa sevgisi |
 
 ---
 
