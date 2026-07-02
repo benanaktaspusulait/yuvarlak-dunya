@@ -38,14 +38,61 @@ Maintain:
 
 Do not redesign the environment.
 
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
-Quiet night at Opa's Tree in Pompom Hills. Stars twinkle in dark blue sky. Leaves move very gently. Luca sits at the base of Opa's Tree, quietly watching the sky — already present, not arriving. Opa is naturally visible nearby, calm and wise. Soft moonlight filtering through the canopy. Established Opa's Tree night environment. Preserve Opa's Tree exactly: trunk shape, canopy silhouette, reading platforms, tree house opening, lantern placement, surrounding hill and established night atmosphere. No other characters, {style} {camera} {lighting}
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+A quiet night at Opa's Tree in Pompom Hills. Gentle stars twinkle across a deep indigo night sky. Leaves move softly in the evening breeze. Luca quietly watches the stars while Opa is already nearby, peacefully sharing the same quiet moment. Luca and Opa remain naturally visible within the established composition without becoming the dominant visual focus. Soft moonlight filters naturally through the canopy.
+
+Preserve the established Opa's Tree exactly:
+- trunk shape
+- canopy silhouette
+- reading platforms
+- tree house opening
+- lantern placement
+- surrounding hill
+- overall world proportions
+- established night atmosphere
+
+Do not redesign the environment.
+
+The supplied continuity frame is also the lighting reference for this shot.
+Maintain the established world identity.
+
+No other characters.
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
+
+{style} {camera} {lighting}
+
+Composition:
+
+- The environment is the primary subject of the composition.
+- Luca occupies approximately 6–8% of the frame.
+- Opa occupies approximately 4–6% of the frame.
+- Opa's Tree occupies approximately 90% of the composition.
+- Characters should feel naturally placed inside the world rather than centered for presentation.
+- Maintain the established camera distance throughout the shot.
+
+Reject if:
+- characters become too large
+- environment changes
+- tree proportions change
+- camera becomes dramatically closer
+- world is redesigned
+- established camera distance is not preserved
+
+Do not display dialogue as on-screen text.
+No speech bubbles.
+No captions.
+No subtitles.
+No text.
 ```
 
 ---
@@ -117,6 +164,13 @@ Dark blue night sky.
 Soft, gentle shadows.
 
 ---
+
+
+## Scale
+
+Small preschool child (~6-8% frame).
+Environment hero (~92-94%).
+Reject if characters too large, environment changes.
 
 ## Negative Prompt
 

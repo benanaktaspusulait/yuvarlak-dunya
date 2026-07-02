@@ -8,9 +8,9 @@
 
 ## Shot 01 (0-15 sn) — New Take Shot (Gentle Discovery)
 
-Sahne sessiz geceyle açılır. Yıldızlar parıldar. Yapraklar çok hafifçe sallanır. Kamera yavaşça Opa's Tree'nin siluetini keşfeder. Luca sessizce gökyüzüne bakar — zaten oradadır, sahneyi bozmaz. Opa doğal olarak kadrajda belirir, ansızın çıkmaz. Her şey sakin, davetkar ve güvende hissettirir.
+Sahne sessiz geceyle açılır. Yıldızlar parıldar. Yapraklar çok hafifçe sallanır. Kamera yavaşça Opa's Tree'nin siluetini keşfeder. Luca ve Opa her ikisi de ağacın altında oturur — ikisi de kadrajda net görünür. Luca sessizce gökyüzüne bakar. Opa yanında oturur, sakin ve bilge. Hiçbiri ansızın çıkmaz, her şey doğal olarak keşfedilir.
 
-**Visible action:** Stars twinkle. Leaves move softly. Luca watches the sky. Opa is naturally revealed.
+**Visible action:** Both Luca AND Opa clearly visible. Luca watches the sky. Opa sits beside him.
 
 ## Shot 02 (15-30 sn) — Continuation (Curiosity)
 

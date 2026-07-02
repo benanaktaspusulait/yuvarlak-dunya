@@ -25,25 +25,55 @@ This shot continues the conversation under Opa's Tree.
 
 ## Start Frame
 
-Match the end of Shot 02.
+Match the approved continuity reference image from Shot 02.
+
+Continue naturally from the supplied continuity image.
+
+Use the continuity image as the exact starting composition.
+
+Do not reinterpret the starting frame.
+
+Maintain:
+- camera distance
+- character positions
+- lighting
+- world proportions
+- Opa's Tree identity
 
 Luca and Opa under Opa's Tree at night.
 
-Maintain:
-- Character appearance
-- Opa's Tree night environment
-- Night lighting
-- Camera composition
-- Character proportions
-
 Do not redesign the environment.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
+Opa is already present at the beginning of the shot.
+
+Luca is already present at the beginning of the shot.
+
+Do not introduce either character after the shot has started.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Opa gestures softly and warmly; the focus rests on Luca watching with sleepy wonder. Stars twinkle above, soft moonlight, established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+Continue naturally from @image2.
+
+Use @image2 as the exact starting composition.
+
+Do not reinterpret @image2.
+
+Remain inside the exact same Opa's Tree night scene. Opa gestures softly and warmly; the focus rests on Luca watching with sleepy wonder. Stars twinkle above, soft moonlight, established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
+
+Opa is already present at the beginning of the shot.
+
+Luca is already present at the beginning of the shot.
+
+Do not introduce either character after the shot has started.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -60,9 +90,9 @@ The reference image is supplied by the production workflow and should not be har
 
 ## Camera Direction
 
-Begin with a medium close-up of Opa as he gestures softly and warmly.
+Begin from the established composition.
 
-A very slow, gentle push-in within the existing scene as the moment settles.
+A gentle push-in naturally brings Opa slightly more into focus while preserving the existing camera distance.
 
 The focus naturally shifts toward Luca, whose eyes are heavy with sleep.
 
@@ -90,9 +120,9 @@ Opa: Especially to you.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa speaks softly | Medium close-up |
-| 5-10 sn | Luca listens, eyes heavy | Close-up |
-| 10-15 sn | Both look up at stars | Medium |
+| 0-5 sn | Opa speaks softly | Established composition |
+| 5-10 sn | Luca listens, eyes heavy | Gentle focus shift |
+| 10-15 sn | Both look up at stars | Same composition |
 
 ---
 
@@ -113,6 +143,13 @@ Starlight twinkle.
 Soft, gentle glow.
 
 ---
+
+
+## Scale
+
+Small preschool child (~6-8% frame).
+Environment hero (~92-94%).
+Reject if characters too large, environment changes.
 
 ## Negative Prompt
 

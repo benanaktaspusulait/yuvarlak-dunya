@@ -38,12 +38,18 @@ Maintain:
 
 Do not redesign the environment.
 
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene. Luca leans against Opa with eyes closing sleepily; Opa looks at him with a warm smile. Stars and moon above, peaceful bedtime moment, established Opa's Tree night environment. The camera moves within the existing scene during a gentle pull-back — do not generate a wider environment, do not redesign the world, do not create a new establishing shot, preserve the established camera scale and composition. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -112,6 +118,13 @@ Deep blue night sky.
 Soft, gentle glow.
 
 ---
+
+
+## Scale
+
+Small preschool child (~6-8% frame).
+Environment hero (~92-94%).
+Reject if characters too large, environment changes.
 
 ## Negative Prompt
 

@@ -486,6 +486,73 @@ Nefes alma görünür (göğüs/hareket)
 
 ---
 
+## Lighting Continuity
+
+Lighting, sahne sürekliliğinin bir parçasıdır.
+
+Continuity reference image kullanırken, AI aydınlatmayı aynen korumalıdır.
+
+### Match
+
+```
+- exposure
+- brightness
+- colour temperature
+- moonlight intensity
+- shadow softness
+- lantern brightness
+- night sky colour
+- contrast
+```
+
+### Kurallar
+
+```
+Do not reinterpret the lighting.
+
+Do not brighten the scene.
+
+Do not darken the scene.
+
+Do not introduce a different colour grade.
+
+The continuity reference image is also the lighting reference.
+```
+
+### Production Rule
+
+Her shot'ta aydınlatma bir önceki shot'ın reference frame'iyle birebir aynı olmalıdır. Farklı aydınlatma = red.
+
+---
+
+## Colour Continuity
+
+Continuity frame'den establish edilen renk paletini koru.
+
+### Avoid
+
+```
+- warmer tones
+- cooler tones
+- purple tint
+- green tint
+- orange tint
+```
+
+### Kurallar
+
+```
+Lighting and colour should remain visually identical across consecutive shots.
+
+The continuity reference image is also the colour reference.
+```
+
+### Production Rule
+
+Ardışık shot'lar arasında renk tonu değişmemelidir. Farklı renk grading'i = red.
+
+---
+
 ## Reference Frame Selection
 
 Bir shot'ın son karesi otomatik olarak bir sonraki shot için en iyi referans karesi **değildir**.
