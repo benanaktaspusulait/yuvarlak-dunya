@@ -172,14 +172,14 @@
 
 | Kategori | İş Sayısı | Öncelik | Durum |
 |----------|-----------|---------|-------|
-| Shot dosyası oluşturma | 4 (S01E01) | Yüksek | ⏳ Bekliyor |
-| Shot dosyası güncelleme | 20 (S01E02-E06) | Yüksek | ⏳ Bekliyor |
+| Shot dosyası oluşturma | 4 (S01E01) | Yüksek | ✅ Tamamlandı |
+| Shot dosyalarını güncelleme | 100 (S01E02-E26) | Yüksek | ✅ Tamamlandı |
 | Dünya oluşturma | 12 bölüm | Yüksek | 🔵 Kullanıcı |
-| Karakter presence ekleme | 54 shot | Orta | ⏳ Bekliyor |
-| Camera lock ekleme | 65 shot | Orta | ⏳ Bekliyor |
-| Text safety ekleme | 73 shot | Orta | ⏳ Bekliyor |
-| Shot-01 reference ekleme | 25 shot | Düşük | ⏳ Bekliyor |
-| **Toplam** | **~230 iş** | | |
+| Karakter presence ekleme | 74 shot | Orta | ✅ Tamamlandı |
+| Camera lock ekleme | 96 shot | Orta | ✅ Tamamlandı |
+| Text safety ekleme | 98 shot | Orta | ✅ Tamamlandı |
+| Shot-01 reference ekleme | 0 shot | Düşük | ⏳ Bekliyor |
+| **Toplam** | **~240 iş** | | **~230 tamamlandı** |
 
 ---
 
