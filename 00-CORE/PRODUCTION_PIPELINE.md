@@ -396,6 +396,96 @@ The pipeline should scale naturally from 1-minute episodes to longer stories.
 
 ---
 
+## Cinematic Language
+
+Pompom Hills'in sinema dili. Her sahne, her shot, her hareket bu kurallara uyar.
+
+### Core Principles
+
+```
+Every scene should breathe.
+
+Motion is meaningful.
+
+Stillness is meaningful.
+
+Silence is meaningful.
+
+Camera follows emotion.
+
+Never move the camera simply because movement is possible.
+
+Characters should appear alive even when not speaking.
+
+The audience should feel invited into the world rather than entertained by constant stimulation.
+```
+
+### Visual Rhythm Rule
+
+Her shot aynı uzunlukta (15 saniye) olabilir, ama hareket miktarı değişir:
+
+```
+Shot 1: Çok az hareket (sahneyi keşfet)
+    ↓
+Shot 2: Biraz daha hareket (etkileşim başlar)
+    ↓
+Shot 3: En fazla hareket (ana an)
+    ↓
+Shot 4: Tekrar sakinleşir (kapanış)
+```
+
+**Örnek (S01E14):**
+- Shot 01: Yıldızlar parlar, yapraklar sallanır, Luca sessizce bakar — çok az hareket
+- Shot 02: Luca sorar, Opa düşünür — biraz daha hareket
+- Shot 03: Opa anlatır, Luca'nın gözleri kapanır — en fazla hareket (duygusal doruk)
+- Shot 04: Luca uykuya dalar, her şey sakinleşir — tekrar sakin
+
+### Eye Line Rule
+
+Karakterlerin bakış yönü shot'lar arasında mantıklı devam etmeli:
+
+```
+Shot 1: Luca yukarı bakıyor (yıldızlara)
+    ↓
+Shot 2: Luca Opa'ya bakıyor (soru soruyor)
+    ↓
+Shot 3: Luca yukarı bakıyor (cevabı dinliyor)
+    ↓
+Shot 4: Luca aşağı bakıyor (gözleri kapanıyor)
+```
+
+**Kural:** Her shot'ta bakış yönü bir sonraki shot'la tutarlı olmalı. OpenArt bazen bakışları değiştirir — bu yüzden her shot'ta bakış yönü açıkça tanımlanmalı.
+
+### Breathing Rule
+
+Karakterler "yaşıyor" olmalı — sadece aksiyon yaparken değil, beklerken de:
+
+```
+Opa konuşmadan önce: küçük nefes
+Luca cevap vermeden önce: küçük blink
+Soru sormadan önce: hafif baş eğme
+Cevap aldıktan sonra: hafif gülümseme
+```
+
+**Kural:** Her diyalog öncesi ve sonrasında doğal "nefes" anları olmalı. Bu, karakterleri canlı hissettirir.
+
+### Idle Animation Rule
+
+Karakterler hiçbir zaman tamamen hareketsiz olmamalı:
+
+```
+Stars twinkle (sürekli)
+Leaves move (sürekli)
+Tüyler/kıllar çok hafif hareket eder
+Kıyafet çok hafif sallanır
+Göz kırpma doğal olur (3-5 sn aralıkla)
+Nefes alma görünür (göğüs/hareket)
+```
+
+**Kural:** "Idle" durumunda bile character'laralive olmalı. Hareket minimal ama sürekli olmalı.
+
+---
+
 ## Known OpenArt Failure Modes
 
 Aşağıdaki yaygın hatalara karşı korun. İlgili her yerde prompt'ları bu hataları açıkça

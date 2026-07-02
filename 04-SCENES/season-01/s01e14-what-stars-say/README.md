@@ -7,8 +7,8 @@
 | Alan | Değer |
 | --- | --- |
 | Süre | 60 saniye (4 sahne × 15 sn) |
-| Karakterler | Kiko, Opa |
-| Mekan | Central Square (night) |
+| Karakterler | Luca, Opa |
+| Mekan | Opa's Tree (Night) |
 | Duygu | Night, wonder, imagination |
 | Tema | The night sky is beautiful and safe |
 
@@ -16,4 +16,4 @@
 
 ## Story Summary
 
-Kiko sees stars for the first time at night. She is amazed. She asks Opa what stars say. Opa says they say goodnight. Kiko waves at stars. They twinkle back.
+Luca spends a quiet night beneath Opa's Tree. He wonders what stars say. Opa gently explains that stars wish everyone goodnight. Luca feels safe and peacefully falls asleep beneath the stars.

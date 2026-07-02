@@ -43,7 +43,7 @@ Do not redesign the environment.
 ## Visual Prompt
 
 ```text
-Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Opa gestures softly and warmly; the focus rests on Luca watching with sleepy wonder. Stars twinkle above, warm moonlight, established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Opa gestures softly and warmly; the focus rests on Luca watching with sleepy wonder. Stars twinkle above, soft moonlight, established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -70,7 +70,7 @@ End on both of them, stars above.
 
 Camera movement must remain slow, stable and natural. It stays within the established scene and never generates a wider environment. Frame-to-video should feel like one continuous shot.
 
-Warm moonlight and starlight throughout.
+Soft moonlight and starlight throughout.
 
 Avoid sudden zooms, shakes, whip pans, dramatic push-ins or cinematic cuts.
 
@@ -106,7 +106,7 @@ Opa: Especially to you.
 
 ## Lighting
 
-Warm moonlight.
+Soft moonlight.
 
 Starlight twinkle.
 

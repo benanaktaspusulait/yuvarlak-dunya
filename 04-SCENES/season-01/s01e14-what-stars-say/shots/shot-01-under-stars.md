@@ -43,7 +43,7 @@ Do not redesign the environment.
 ## Visual Prompt
 
 ```text
-Luca and Opa from Pompom Hills sitting quietly at the base of Opa's Tree at night, naturally discovered by the camera, looking up at a sky full of stars, moonlight filtering through the canopy, established Opa's Tree night environment with dark blue sky. Preserve Opa's Tree exactly: trunk shape, canopy silhouette, reading platforms, tree house opening, lantern placement, surrounding hill and established night atmosphere. No other characters, {style} {camera} {lighting}
+Quiet night at Opa's Tree in Pompom Hills. Stars twinkle in dark blue sky. Leaves move very gently. Luca sits at the base of Opa's Tree, quietly watching the sky — already present, not arriving. Opa is naturally visible nearby, calm and wise. Soft moonlight filtering through the canopy. Established Opa's Tree night environment. Preserve Opa's Tree exactly: trunk shape, canopy silhouette, reading platforms, tree house opening, lantern placement, surrounding hill and established night atmosphere. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -62,9 +62,11 @@ The reference image is supplied by the production workflow and should not be har
 
 Begin with a static 35mm wide cinematic shot of Opa's Tree at night.
 
-Stars twinkle above. Moon glows softly.
+Stars twinkle above. Moon glows softly. Leaves move very gently.
 
-Luca and Opa are already sitting quietly at the base, small against Opa's Tree. Opa is revealed naturally — never appearing suddenly — as the camera settles on the scene.
+The camera settles on the scene — Luca is already there, quietly watching the sky. He doesn't arrive; he's simply present, part of the night.
+
+Opa is naturally revealed within the frame as the camera finds him — never appearing suddenly, never staged.
 
 Gentle tilt up to the starry sky.
 
@@ -72,7 +74,7 @@ End on a medium shot of both looking up.
 
 Camera movement must remain slow, stable and natural. It stays within the established scene and never generates a wider environment.
 
-Moonlight and starlight throughout.
+Soft moonlight and starlight throughout.
 
 Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
 
@@ -90,9 +92,9 @@ Luca: Opa, the stars are pretty.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Wide shot of Opa's Tree at night, stars | Wide establishing |
-| 5-10 sn | Luca and Opa looking up | Medium |
-| 10-15 sn | Stars twinkle, peaceful | Medium, tilt up |
+| 0-5 sn | Quiet night: stars twinkle, leaves move softly | Wide establishing |
+| 5-10 sn | Luca discovered watching the sky; Opa naturally visible | Medium |
+| 10-15 sn | Stars twinkle, peaceful moment | Medium, gentle tilt up |
 
 ---
 
@@ -106,13 +108,13 @@ Luca: Opa, the stars are pretty.
 
 ## Lighting
 
-Moonlight filtering through branches.
+Soft moonlight filtering through the canopy.
 
 Starlight twinkle.
 
 Dark blue night sky.
 
-Soft, cool shadows.
+Soft, gentle shadows.
 
 ---
 

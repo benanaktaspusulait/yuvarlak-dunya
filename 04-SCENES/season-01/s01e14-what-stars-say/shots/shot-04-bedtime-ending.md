@@ -105,11 +105,11 @@ Opa: Goodnight, little one.
 
 ## Lighting
 
-Moonlight and starlight.
+Soft moonlight and starlight.
 
 Deep blue night sky.
 
-Soft, dreamy glow.
+Soft, gentle glow.
 
 ---
 

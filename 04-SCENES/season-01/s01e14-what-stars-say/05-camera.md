@@ -5,14 +5,14 @@
 
 ---
 
-## Shot 01 (0-15 sn) — New Take Shot
+## Shot 01 (0-15 sn) — New Take Shot (Gentle Discovery)
 
 | Alan | Değer |
 |---|---|
 | Lens | 35mm wide → 50mm medium |
 | Height | 0.85m |
 | Angle | Eye level |
-| Movement | Static, then gentle tilt up (Opa naturally revealed) |
+| Movement | Static, then gentle tilt up (discovery rhythm: night ambience → stars → Luca → Opa naturally revealed) |
 
 ## Shot 02 (15-30 sn) — Continuation
 

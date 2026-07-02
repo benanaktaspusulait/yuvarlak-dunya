@@ -106,11 +106,11 @@ Opa: Hmm, let me think.
 
 ## Lighting
 
-Moonlight and starlight.
+Soft moonlight and starlight.
 
-Cool, soft illumination.
+Gentle illumination.
 
-Gentle shadows.
+Soft, gentle shadows.
 
 ---
 

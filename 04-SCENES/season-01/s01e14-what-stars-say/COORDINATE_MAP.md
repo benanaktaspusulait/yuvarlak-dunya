@@ -6,4 +6,5 @@
 
 | Character | Start | End |
 |---|---|---|
-| Kiko | X=-40 / Z=20 | X=0 / Z=0 |
+| Luca | X=-40 / Z=20 | X=-5 / Z=0 |
+| Opa | X=10 / Z=5 (perch) | X=10 / Z=5 (perch) |

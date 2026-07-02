@@ -8,10 +8,10 @@
 
 ---
 
-## Shot 01 (New Take Shot)
+## Shot 01 (New Take Shot — Gentle Discovery)
 
 ```text
-Luca and Opa from Pompom Hills sitting quietly at the base of Opa's Tree at night, naturally discovered by the camera, looking up at a sky full of stars, moonlight filtering through the canopy, established Opa's Tree night environment with dark blue sky. Preserve Opa's Tree exactly: trunk shape, canopy silhouette, reading platforms, tree house opening, lantern placement, surrounding hill and established night atmosphere. No other characters, {style} {camera} {lighting}
+Quiet night at Opa's Tree in Pompom Hills. Stars twinkle in dark blue sky. Leaves move very gently. Luca sits at the base of Opa's Tree, quietly watching the sky — already present, not arriving. Opa is naturally visible nearby, calm and wise. Soft moonlight filtering through the canopy. Established Opa's Tree night environment. Preserve Opa's Tree exactly: trunk shape, canopy silhouette, reading platforms, tree house opening, lantern placement, surrounding hill and established night atmosphere. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -31,7 +31,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 03 (Continuation)
 
 ```text
-Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Opa gestures softly and warmly; Luca watches with sleepy wonder. Stars twinkle above, warm moonlight. Established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Opa gestures softly and warmly; Luca watches with sleepy wonder. Stars twinkle above, soft moonlight. Established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
