@@ -140,6 +140,9 @@
 | Butterfly Meadow | Planned |
 | Rainbow Bridge | Planned |
 | Cloud Hill | Planned |
+| Paddle Cove | Planned |
+| Pony Meadow | Planned |
+| Hobby Horse Trail | Planned |
 
 ---
 

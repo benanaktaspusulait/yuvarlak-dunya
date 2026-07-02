@@ -88,6 +88,36 @@ Pompom Hills is a gentle preschool world where everything is round, safe, and en
 
 ## Future Worlds
 
+### Paddle Cove
+- **Status:** Planned
+- **Purpose:** Safe water play — foot paddling, stone throwing, wave watching
+- **Atmosphere:** Curious, playful, refreshing
+- **Supports episodes:** Estimated 2-3
+- **Best character combinations:** Kiko+Mimi, Kiko+Luca
+- **Camera presets:** Low angle (foot level), close-up on splash, medium on characters
+- **Typical emotional tone:** Discovery, gentle fun, nature connection
+- **Production complexity:** Low (simple water + stones)
+
+### Pony Meadow
+- **Status:** Planned
+- **Purpose:** Gentle pony interaction — petting, feeding, silent friendship
+- **Atmosphere:** Warm, tender, safe
+- **Supports episodes:** Estimated 2-3
+- **Best character combinations:** Kiko+Mimi, Arda+Opa
+- **Camera presets:** Eye level with ponies, close-up on petting, wide meadow
+- **Typical emotional tone:** Tenderness, quiet friendship, animal love
+- **Production complexity:** Medium (pony character design needed)
+
+### Hobby Horse Trail
+- **Status:** Planned
+- **Purpose:** Playful hobby horse race — creativity, sharing, gentle competition
+- **Atmosphere:** Fun, colourful, energetic
+- **Supports episodes:** Estimated 2-3
+- **Best character combinations:** Noah+Kiko, Luca+Arda
+- **Camera presets:** Side view race, close-up on hobby horse, wide track
+- **Typical emotional tone:** Joy, creativity, sharing
+- **Production complexity:** Low (simple props)
+
 ### Little Forest
 - **Status:** Planned
 - **Purpose:** Nature discoveries
