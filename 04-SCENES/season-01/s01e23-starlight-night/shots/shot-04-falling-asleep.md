@@ -23,7 +23,7 @@ Match the lighting and colour grading exactly from the supplied continuity refer
 
 Do not change the established exposure, brightness or moonlight intensity.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```Continue directly from @image1.
 
 The first frame of this video must match @image1 exactly.
@@ -47,6 +47,14 @@ Continue the action naturally from @image1.
 ---
 
 ## Camera Direction
+
+The shot must begin from the identical camera position shown in @image1.
+
+No camera movement is allowed until the first frame matches @image1 exactly.
+
+The first visible frame should appear visually identical to @image1.
+
+Only then may the planned camera movement begin.
 
 Medium → Wide, 35mm, slow pull-back.
 

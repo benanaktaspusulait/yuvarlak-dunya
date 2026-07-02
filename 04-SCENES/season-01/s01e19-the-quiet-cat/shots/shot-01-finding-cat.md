@@ -19,12 +19,20 @@
 ```text
 Kiko finds a quiet cat sitting still. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Medium, 50mm, static, no other characters, {style} {camera} {lighting}
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
 
 ---
 
 ## Camera Direction
+
+The shot must begin from the identical camera position shown in @image1.
+
+No camera movement is allowed until the first frame matches @image1 exactly.
+
+The first visible frame should appear visually identical to @image1.
+
+Only then may the planned camera movement begin.
 
 Medium, 50mm, static.
 

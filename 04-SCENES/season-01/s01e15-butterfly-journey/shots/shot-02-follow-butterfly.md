@@ -68,7 +68,7 @@ Match the lighting and colour grading exactly from the supplied continuity refer
 
 Do not change the established exposure, brightness or moonlight intensity.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```Continue directly from @image1.
 
 The first frame of this video must match @image1 exactly.

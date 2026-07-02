@@ -45,7 +45,7 @@ Do not redesign the environment.
 ```text
 Luca and Mimi from Pompom Hills climbing Cloud Hill on a cloudy day, looking up at big fluffy clouds above, soft grey sky, Cloud Hill environment with gentle slopes, no other characters, {style} {camera} {lighting}
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
 
 ---
@@ -59,6 +59,14 @@ The reference image is supplied by the production workflow and should not be har
 ---
 
 ## Camera Direction
+
+The shot must begin from the identical camera position shown in @image1.
+
+No camera movement is allowed until the first frame matches @image1 exactly.
+
+The first visible frame should appear visually identical to @image1.
+
+Only then may the planned camera movement begin.
 
 Begin with a static 35mm wide cinematic shot of Cloud Hill.
 
