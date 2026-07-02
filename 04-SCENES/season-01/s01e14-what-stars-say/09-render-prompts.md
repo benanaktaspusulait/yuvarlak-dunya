@@ -122,19 +122,33 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 04 (Continuation — intimate ending)
 
 ```text
-Continue naturally from @image2.
+Continue directly from @image1.
 
-Use @image2 as the exact starting composition.
+The first frame of this video must match @image1 exactly.
 
-Do not reinterpret @image2.
+Treat @image1 as frame zero.
 
-Continue the action naturally from @image2.
+The animation begins only after the first frame has matched @image1 exactly.
 
-Remain inside the exact same Opa's Tree night scene. Luca leans against Opa with eyes closing sleepily; Opa looks at him with a warm smile. The established night sky remains unchanged in the sky. Peaceful bedtime moment, established Opa's Tree night environment. The camera moves within the existing scene during a gentle pull-back — do not generate a wider environment, do not redesign the world, do not create a new establishing shot, preserve the established camera scale and composition. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+Use @image1 as the exact starting composition.
+
+Do not reinterpret @image1.
+
+Do not reposition the camera.
+
+Do not recompose the scene.
+
+Do not adjust framing before movement begins.
+
+Continue the action naturally from @image1.
+
+Remain inside the exact same Opa's Tree night scene. Luca leans against Opa with eyes closing sleepily; Opa looks at him with a warm smile. The established night sky remains unchanged throughout the shot. established Opa's Tree night environment. The camera moves within the existing scene during a gentle pull-back — do not generate a wider environment, do not redesign the world, do not create a new establishing shot, preserve the established camera scale and composition. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+
+The first frame must preserve the exact lighting, colour grading, exposure and moonlight intensity shown in @image1.
 
 Maintain the established camera distance throughout the shot.
 
-Match the lighting and colour grading exactly from @image2.
+Match the lighting and colour grading exactly from @image1.
 
 Do not change:
 - exposure
