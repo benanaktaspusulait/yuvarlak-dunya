@@ -1,14 +1,19 @@
 # Environment Bible — Kiko's Home
 
-> **Version 2.0** — Upgraded to new production pipeline standard.
+> **🔒 Living World** — First validated Living World of Pompom Hills.
+> This document describes a connected living environment, not just an exterior.
+
+> **Version 3.0** — Evolved from Environment Bible to Living World Bible.
 
 ---
 
 ```
 Environment ID: ENV-003
-File: environment/03-kikos-home.png
-Version: 2.1
+File: 12-ENVIRONMENT/03-kikos-home/
+Version: 3.0
 Location: Flower Hill
+Type: Living World
+Status: Documentation Approved — Pending OpenArt Validation
 ```
 
 ---
@@ -33,23 +38,253 @@ Kiko's Home, serinin "güvenli üssü" olarak tasarlanmıştır — her macera b
 
 ---
 
-## Canonical OpenArt Reference Pack
+## World Structure
 
-| # | Reference Name | Description |
-|---|---|---|
-| 01 | Hero View | %100 çevre — Kiko'nun yuvarlak pembe evi tam kadraj, kapı merkezde, çit ve bahçe görünür, karakter yok |
-| 02 | Entrance View | Kapı yakın çekim — yuvarlak beyaz kapı, beyaz çiçeğe kadar taş yol, kapı eşiğinden içeri bakış |
-| 03 | Trail View | Orta mesafe çevre — Flower Hill patikası, Kiko'nun evi uzakta, çiçek tarlaları ve komşu yollar görünür |
-| 04 | Detail View | Detay çekim — ev numarası plakası "3", pencere perdesi, çit üzerindeki çiçekler, yuvarlak taşlar |
+Kiko'nun evi tek bir bağlantılı yaşam alanıdır. Her alan doğrudan bir sonrakine geçiş sağlar.
+
+```
+Front Garden (Dış Bahçe)
+    ↓ taş yol
+Front Porch (Ön Veranda)
+    ↓ kapı
+Entrance (Giriş)
+    ↓ Hol
+Living Room (Oturma Odası)
+    ├── Reading Corner (Okuma Köşesi) [odanın bir yanında]
+    ├── Kitchen Nook (Mutfak Köşesi) [odanın diğer yanında]
+    └── Window Corner (Pencere Köşesi) [duvarda]
+Sleeping Corner (Uyku Köşesi) [oturma odasının arkası]
+    ↓ arka kapı
+Back Garden (Arka Bahçe)
+```
+
+Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler yoktur. Ev, tek bir yuvarlak oda etrafında doğal bir akış oluşturur.
+
+---
+
+## World Zones
+
+### Front Garden (Dış Bahçe)
+
+- **Purpose:** Kiko'nun evinin ilk karşılaştığı alan
+- **Emotional Purpose:** Merak ve davet — "İçeri girmek ister misin?"
+- **Typical Activities:** Çiçek gözlemleme, taş counting, arkadaş bekleme
+- **Typical Stories:** Kiko bahçede çiçek diker, Mimi'yi burada karşılar
+- **Lighting:** Sabah günışığı, sıcak
+- **Mood:** Davetkar, renkli, canlı
+- **Important Props:** 3 büyük çiçek, taş yol, alçak çit
+- **Camera Usage:** Wide establishing, door approach
+- **Characters:** Kiko, Mimi, herkes
+- **Transition →** Front Porch (taş yol)
+
+### Front Porch (Ön Veranda)
+
+- **Purpose:** Dış ile iç arasındaki köprü
+- **Emotional Purpose:** Geçiş anı — "Artık evin içindesin"
+- **Typical Activities:** Kapıyı açma, ayakkabı çıkarma, el sallama
+- **Typical Stories:** Kiko kapıda arkadaşını karşılar, vedalaşma anları
+- **Lighting:** Yarı gölge, sıcak
+- **Mood:** Sıcak, tanıdık
+- **Important Props:** Yuvarlak beyaz kapı, kapı eşiği
+- **Camera Usage:** Door close-up, entrance shot
+- **Characters:** Kiko, herkes
+- **Transition →** Entrance (kapı)
+
+### Entrance (Giriş)
+
+- **Purpose:** Evin içine ilk adım
+- **Emotional Purpose:** Güven — "Eve geldim"
+- **Typical Activities:** Ayakkabı bırakma, karşılanma
+- **Typical Stories:** Kiko eve döner, misafir karşılar
+- **Lighting:** İç mekan aydınlatması, sıcak
+- **Mood:** Sıcak, güvenli
+- **Important Props:** Ayakkabı alanı (basit), giriş holü
+- **Camera Usage:** Interior entrance, following shot
+- **Characters:** Kiko, herkes
+- **Transition →** Living Room (hol)
+
+### Living Room (Oturma Odası)
+
+- **Purpose:** Evin kalbi — tüm aktiviteler burada gerçekleşir
+- **Emotional Purpose:** Sıcaklık, birlikte vakit geçirme
+- **Typical Activities:** Oyun, kitap okuma, sohbet, dinlenme
+- **Typical Stories:** Tüm iç mekan sahneleri burada geçer
+- **Lighting:** Pencereden doğal ışık + iç mekan sıcaklığı
+- **Mood:** Sıcak, canlı, güvenli
+- **Important Props:** Masa, sandalyeler, halı, oyuncak kutusu
+- **Camera Usage:** Wide interior, medium group, close-up
+- **Characters:** Kiko, Mimi, Opa, herkes
+- **Transition →** Reading Corner, Kitchen Nook, Window Corner, Sleeping Corner
+
+### Reading Corner (Okuma Köşesi)
+
+- **Purpose:** Sessiz, huzurlu okuma alanı
+- **Emotional Purpose:** Huzur, bilgiye merak
+- **Typical Activities:** Kitap okuma, sessiz oturma, hayal kurma
+- **Typical Stories:** Kiko kitap okur, Opa hikaye anlatır
+- **Lighting:** Pencere yakını, doğal ışık
+- **Mood:** Sessiz, huzurlu, sakin
+- **Important Props:** Raf, kitaplar, yastık
+- **Camera Usage:** Close-up on book, medium reading
+- **Characters:** Kiko, Opa
+- **Transition →** Living Room
+
+### Kitchen Nook (Mutfak Köşesi)
+
+- **Purpose:** Basit atıştırmalık ve yemek alanı
+- **Emotional Purpose:** Beslenme, bakım, şefkat
+- **Typical Activities:** Basit atıştırmalık hazırlama, meyve yeme
+- **Typical Stories:** Kiko atıştırmalık hazırlar, arkadaşlarıyla paylaşır
+- **Lighting:** Sıcak, sabah ışığı
+- **Mood:** Sıcak, davetkar
+- **Important Props:** Küçük masa, meyve sepeti, bardak
+- **Camera Usage:** Close-up on food, medium kitchen
+- **Characters:** Kiko, Mimi
+- **Transition →** Living Room
+
+### Window Corner (Pencere Köşesi)
+
+- **Purpose:** Dışarıyı izleme alanı
+- **Emotional Purpose:** Bağlantı — ev ile dünya arasında köprü
+- **Typical Activities:** Dışarıyı izleme, yağmur izleme, yıldız counting
+- **Typical Stories:** Kiko pencereden dışarı bakar, bir şey fark eder
+- **Lighting:** Pencere ışığı, değişken
+- **Mood:** Merak, huzur, connection
+- **Important Props:** Büyük yuvarlak pencere, perde
+- **Camera Usage:** Window shot, POV looking outside
+- **Characters:** Kiko, herkes
+- **Transition →** Living Room, Back Garden (pencere üzerinden)
+
+### Sleeping Corner (Uyku Köşesi)
+
+- **Purpose:** Uyku ve dinlenme alanı
+- **Emotional Purpose:** Güven, rahatlama, kapanış
+- **Typical Activities:** Uyuma, dinlenme, yıldız izleme
+- **Typical Stories:** Gece kapanış sahneleri, uyku vakti ritüelleri
+- **Lighting:** Yumuşak gece ışığı, ay
+- **Mood:** Sessiz, huzurlu, güvenli
+- **Important Props:** Yuvarlak yatak, yastık, battaniye
+- **Camera Usage:** Close-up on Kiko, wide sleeping
+- **Characters:** Kiko, Mimi (uyku sahnesi)
+- **Transition →** Living Room
+
+### Back Garden (Arka Bahçe)
+
+- **Purpose:** Gizli, sakin dış alan
+- **Emotional Purpose:** Keşif, doğayla bağlantı
+- **Typical Activities:** Çiçek gözlemleme, kelebek izleme, dinlenme
+- **Typical Stories:** Kiko arka bahçede bir şey keşfeder
+- **Lighting:** Gölge, yapraklar arasından ışık
+- **Mood:** Gizli, sakin, doğal
+- **Important Props:** Çiçekler, küçük ağaç, taşlar
+- **Camera Usage:** Wide back garden, close-up nature
+- **Characters:** Kiko, Mimi
+- **Transition →** Living Room (arka kapı)
+
+---
+
+## Transition Spaces
+
+Bu alanlar bir zone'dan diğerine geçiş sağlar. Geçiş sahneleri için kullanılır.
+
+| Geçiş | Nereden → Nereye | Kullanım |
+|-------|-------------------|----------|
+| Front Door | Dış → İç | Bölüm açılışları, karşılama |
+| Hallway | Entrance → Living Room | İç mekan geçişi |
+| Window | İç → Dış bakış | Keşif, connection |
+| Back Door | İç → Arka Bahçe | Gizli keşif |
+| Garden Path | Dış → Komşulara | Macera başlangıcı |
+
+---
+
+## Spatial Relationships
+
+Mekanların birbirini "gördüğü" ve birbirine bağlandığı ilişkiler:
+
+- The reading corner is always visible from the main living space
+- The window can be seen from both the reading area and the dining table
+- The front door always opens directly into the main room
+- The garden is visible from the window
+- The porch is whenever the front door is open
+- The sleeping corner is visible from the living room but feels separate
+- The back garden is glimpsed through the back door
+- The kitchen nook shares light with the window corner
+
+---
+
+## Character Flow
+
+Kiko'nun evindeki doğal hareket kalıpları:
+
+**Sabah Rutini:**
+1. Uyanır (Sleeping Corner)
+2. Pencereye gider, günaydın der (Window Corner)
+3. Kapıyı açar, dışarı çıkar (Front Door)
+4. Bahçede çiçekleri kontrol eder (Front Garden)
+
+**Arkadaş Ziyareti:**
+1. Kapı çalınır (Front Door)
+2. Kiko kapıya gider, açar (Entrance)
+3. Arkadaşıyla içeri girer (Living Room)
+4. Masa etrafında otururlar (Living Room)
+
+**Oyun Zamanı:**
+1. Oyuncak kutusunu açar (Living Room)
+2. Yerde oynarlar (Living Room - halı)
+3. Pencereden dışarı bakarlar (Window Corner)
+4. Bahçeye çıkarlar (Front Garden)
+
+**Akşam Rutini:**
+1. Dışarıdan eve döner (Front Garden → Front Door)
+2. İçeri girer (Entrance)
+3. Yatağa gider (Sleeping Corner)
+4. Pencereden yıldızları izler (Window Corner)
+
+**Kitap Zamanı:**
+1. Raftan kitap alır (Reading Corner)
+2. Masa etrafında okurlar (Living Room)
+3. Kitabı rafa koyar (Reading Corner)
+
+---
+
+## Living Rules
+
+Kiko'nun evini yaşayan bir yer hissettiren küçük kurallar:
+
+- Kitaplar okunduktan sonra rafa geri konur
+- Ayakkabılar girişte kalır
+- Masada her zaman taze çiçek bulunur
+- Okuma köşesi her zaman sessizdir
+- Mutfak köşesi sabahları sıcak hissettirir
+- Pencere her zaman yarı açıktır
+- Oyuncak kutusu oyun bitince kapanır
+- Yatak her zaman düzgündür
+- Bahçe çiçekleri her mevsim açar
+- Kapı her zaman yavaşça açılır ve kapanır
+
+---
+
+## OpenArt Preparation
+
+If reference images are used during future OpenArt production, the following four views are recommended:
+
+- **Hero View** — Complete exterior, house centred, garden visible, no characters
+- **Entrance View** — Close-up on door, path leading to entrance
+- **Activity View** — Interior or garden scene showing character activity zones
+- **Detail View** — Props, materials, textures, surface details
+
+These are recommendations rather than mandatory production assets.
+
+The actual OpenArt workflow will be validated during production.
 
 ---
 
 ## OpenArt Production Rules
 
-- **Max 4 referans** — Hero View zorunlu, diğer üçü isteğe bağlı
-- **Hero View zorunlu** — her üretimde ana görünüm referans olarak kullanılır
+- **Hero View recommended** — ana görünüm referans olarak kullanılabilir
 - **Tutarlı ışık ve renk** — tüm referanslarda sabah günışığı, pembe-beyaz palet korunur
 - **Karakter yok** — referanslarda Kiko veya diğer karakterler yer almaz, sadece çevre
+- **Not mandatory** — bu kurallar öneridir, production sırasında doğrulanacaktır
 
 ---
 
@@ -98,6 +333,10 @@ Dikdörtgen yok.
 Sivri köşe yok.
 
 Her şey yuvarlak ve yumuşak.
+
+**Çap:** ~7 metre
+**Yükseklik:** 2.20 metre (çatı tepesine kadar)
+**Şekil:** Tek dairesel yapı, kubbe çatı
 
 ### Duvarlar
 
@@ -160,6 +399,8 @@ Her şey yuvarlak ve yumuşak.
 - Tavan: Yuvarlak, beyaz
 - Duvarlar: Yumuşak beyaz
 - Pencere: 1 büyük yuvarlak (perde ile)
+
+**The interior should feel like one continuous open living space rather than several separate rooms.** All zones flow naturally into each other without walls or dividers.
 
 ### Living Room / Yatak Odası (aynı oda)
 
@@ -493,6 +734,8 @@ Her şey yuvarlak ve yumuşak.
 
 ## Story Opportunities
 
+Her fırsat doğal, sakin ve preschool'a uygundur:
+
 1. Kiko sabah uyanır, pencereden günaydın der
 2. Mimi kapıyı çalar, birlikte dışarı çıkarlar
 3. Yağmur yağar, içeride kitap okurlar
@@ -512,7 +755,70 @@ Her şey yuvarlak ve yumuşak.
 17. Yağmur sonrası gökkuşağı görünür
 18. Kiko evinin önündeki taşları sayar
 19. Mimi ile birlikte top oynarlar
-20. Akşam olur, güneş batır
+20. Akşam olur, güneş batar
+
+### Ek Fırsatlar (Living World)
+
+21. Kiko pencereden yağmuru izler, damlaları sayar
+22. Rafta en sevdiği kitabı arar, bulamaz, sonra bulur
+23. Bahçedeki çiçeklere su verir, birlikte büyürler
+24. Mutfak köşesinde basit bir atıştırmalık hazırlar
+25. Pencereden kuşları izler, hangisi daha hızlı?
+26. Oyuncak kutusunu düzenler, her şeye yer bulur
+27. Bir arkadaş gelene kadar pencereden bekler
+28. Okuma köşesinde güneşli bir köşe bulur
+29. Arka bahçede küçük bir kelebek keşfeder
+30. Akşam pencereden yıldızları birlikte sayarlar
+
+---
+
+## Camera Design
+
+Kiko'nun evi nasıl çekilir? Kamera evin içinde doğal hareket eder.
+
+### Dış → İç Geçişi
+
+1. Wide establishing shot (dış)
+2. Door approach (yaklaşma)
+3. Door close-up (kapı açılır)
+4. Interior entrance (içeri girilir)
+5. Wide interior (tüm oda)
+
+### İç Mekan Akışı
+
+1. Window shot → Living Room → Reading Corner
+2. Entrance → Living Room → Kitchen Nook
+3. Close-up on props → Wide room
+4. Following Kiko: door → window → bed
+
+### Tipik Kamera Yolları
+
+| Yol | Kullanım |
+|-----|----------|
+| Door → Window | Kiko eve gelir, pencereye gider |
+| Window → Door | Kiko dışarı çıkmak ister |
+| Bed → Door | Sabah rutini |
+| Door → Bed | Akşam rutini |
+| Kitchen → Window | Atıştırmalık + dışarı izleme |
+| Reading Corner → Bed | Uyku vakti |
+
+### Kamera Yüksekliği
+
+- Dış: 0.85m (göz hizası)
+- İç: 0.75m (çocuk göz hizası)
+- Close-up: 0.60m (obje detayı)
+
+---
+
+## OpenArt World Preparation
+
+Bu Living World, OpenArt'ta tek bir dünya olarak oluşturulacak şekilde tasarlanmıştır.
+
+Bu belge, prompt tabanlı veya görsel tabanlı dünya oluşturma iş akışını desteklemek için yapılandırılmıştır.
+
+OpenArtworld oluşturma zamanı geldiğinde, bu belgedeki World Zones, Transition Spaces ve Camera Design bölümleri referans olarak kullanılacaktır.
+
+**Durum:** Belge hazır. OpenArt oluşturma henüz başlamadı.
 
 ---
 
@@ -578,4 +884,91 @@ Her yüzey yumuşak ve el yapımı hissi verir. Duvarlar mat, oyuncak hissi; kap
 
 ---
 
+## Production Specifications
+
+Bu bölüm, World Bible'daki tüm deterministik bilgileri production-ready tablolarda birleştirir.
+
+### Production Goal
+
+This Living World is intentionally designed to validate whether AI production tools can maintain one coherent environment containing multiple connected spaces.
+
+If successful, this design philosophy will become the standard for future homes and other complex environments in Pompom Hills.
+
+### Spatial Zone Areas
+
+| Zone | Alan | İçerik |
+|------|------|--------|
+| Front Garden | ~4m × 3m | Çiçekler, çimen, taş yol |
+| Front Porch | ~2m × 1.5m | Taş yol, kapı eşiği |
+| Entrance | ~1.5m × 1.5m | Kapı içi, ayakkabı alanı |
+| Living Room | ~5m × 4m | Masa, sandalyeler, halı, oyuncak kutusu |
+| Reading Corner | ~2m × 2m | Raf, kitaplar, yastık |
+| Kitchen Nook | ~2m × 2m | Küçük masa, meyve sepeti |
+| Window Corner | ~1.5m × 1.5m | Büyük pencere, perde |
+| Sleeping Corner | ~2m × 2m | Yuvarlak yatak, yastık |
+| Back Garden | ~3m × 3m | Çiçekler, küçük ağaç, taşlar |
+
+### Material Specifications
+
+| Surface | Material | Texture | Colour |
+|---------|----------|---------|--------|
+| Exterior walls | Soft matte clay | Smooth, toy-like | #F8BBD0 |
+| Roof | Soft matte clay | Smooth, rounded | #E91E63 |
+| Door | Smooth matte | Clean, white | #FFFFFF |
+| Window frame | Smooth matte | Clean, white | #FFFFFF |
+| Curtain | Soft fabric | Gentle drape | #F8BBD0 |
+| Fence | Soft matte | Round-topped | #F8BBD0 |
+| Path | Smooth stone | Round, grey | #E0E0E0 |
+| Grass | Soft plush | Gentle, green | #C8E6C9 |
+| Interior walls | Soft matte | Warm, white | White |
+| Floor | Soft matte | Warm, clean | Warm tone |
+| Table | Smooth matte | Round, white | #FFFFFF |
+| Chairs | Smooth matte | Round, white | #FFFFFF |
+| Rug | Soft plush | Tissue-like | White + #F8BBD0 dots |
+| Bed | Soft plush | Round, coral pink | #F8BBD0 |
+| Shelf | Smooth matte | Round, white | #FFFFFF |
+| Toy box | Smooth matte | Round, yellow | #FFD54F |
+
+### Camera Positions
+
+| Position | Angle | Height | Lens | Usage |
+|----------|-------|--------|------|-------|
+| Front hero | Eye level | 0.85m | 35mm | House establishing |
+| Door close-up | Eye level | 0.85m | 50mm | Entry/exit |
+| Roof shot | Slight above | 1.2m | 35mm | Dome view |
+| Wide aerial | High | 2.0m | 24mm | Full garden |
+| Wide interior | Eye level | 0.75m | 35mm | Full room |
+| Window shot | Eye level | 0.75m | 50mm | Looking outside |
+| Close-up | Variable | 0.60m | 50-70mm | Object detail |
+
+### Colour Palette Summary
+
+| Element | HEX |
+|---------|-----|
+| Walls | #F8BBD0 |
+| Roof | #E91E63 |
+| Door/Window | #FFFFFF |
+| Curtain | #F8BBD0 |
+| Interior light | #FFF9C4 |
+| Grass | #C8E6C9 |
+| Path | #E0E0E0 |
+| Toy box | #FFD54F |
+
+### Quality Gates
+
+- [ ] All 9 zones are spatially defined
+- [ ] All transitions are mapped
+- [ ] Material specifications are complete
+- [ ] Lighting specifications are complete
+- [ ] Camera positions are tested
+- [ ] Props are inventory-listed
+- [ ] Character placement is validated
+- [ ] Animation specs are tested
+- [ ] Forbidden elements are enforced
+- [ ] World reads as one coherent space
+
+---
+
 *Bu belge Kiko's Home mekanı için production referansıdır.*
+*Living World Bible v3.0*
+*Son güncelleme: 2 Temmuz 2026*
