@@ -23,6 +23,23 @@ No previous shot reference.
 
 ---
 
+## Start Frame
+
+This is the FIRST shot. No previous shot reference.
+
+Use the approved still image for this shot as the exact first frame.
+
+Maintain:
+- Character appearance
+- Opa's Tree environment
+- Morning lighting
+- Camera composition
+- Character proportions
+
+Do not redesign the environment.
+
+---
+
 ## Visual Prompt
 
 ```text
@@ -30,6 +47,32 @@ Kiko arriving at Opa's Tree, looking up at the tree, warm morning light, peacefu
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
+
+---
+
+## Reference Usage
+
+This is the FIRST shot. No previous shot reference.
+
+The reference image is supplied by the production workflow and should not be hardcoded into this document.
+
+---
+
+## Camera Direction
+
+Begin with a static 35mm wide cinematic shot establishing Opa's Tree.
+
+Kiko enters from the lower-left, looking up at the tree.
+
+Perform a gentle cinematic push-in as Kiko arrives.
+
+End on a medium close-up as Kiko looks up.
+
+Camera movement must remain slow, stable and natural.
+
+Warm morning sunlight throughout.
+
+Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
 
 ---
 

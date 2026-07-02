@@ -25,6 +25,21 @@ Block tower is now standing.
 
 ---
 
+## Start Frame
+
+Use the final frame from the previous shot as the exact first frame.
+
+Maintain:
+- Character appearance
+- Central Square environment
+- Morning lighting
+- Camera composition
+- Character proportions
+
+Do not redesign the environment.
+
+---
+
 ## Visual Prompt
 
 ```text
@@ -32,6 +47,28 @@ Noah and Arda sitting proudly next to their standing block tower at Central Squa
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
+
+---
+
+## Reference Usage
+
+Use the final frame from the previous shot as the primary image reference when generating this shot.
+
+The reference image is supplied by the production workflow and should not be hardcoded into this document.
+
+---
+
+## Camera Direction
+
+Continue directly from the previous shot.
+
+Keep movement slow and cinematic.
+
+Allow only a gentle pull-back near the end.
+
+The final frame should feel proud and accomplished.
+
+Avoid sudden camera movements or dramatic zooms.
 
 ---
 

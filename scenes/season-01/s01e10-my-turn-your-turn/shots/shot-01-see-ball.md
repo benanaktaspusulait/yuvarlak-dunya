@@ -23,6 +23,23 @@ No previous shot reference.
 
 ---
 
+## Start Frame
+
+This is the FIRST shot. No previous shot reference.
+
+Use the approved still image for this shot as the exact first frame.
+
+Maintain:
+- Character appearance
+- Central Square environment
+- Morning lighting
+- Camera composition
+- Character proportions
+
+Do not redesign the environment.
+
+---
+
 ## Visual Prompt
 
 ```text
@@ -30,6 +47,32 @@ Luca and Noah at Central Square both looking at a round yellow ball on the grass
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
+
+---
+
+## Reference Usage
+
+This is the FIRST shot. No previous shot reference.
+
+The reference image is supplied by the production workflow and should not be hardcoded into this document.
+
+---
+
+## Camera Direction
+
+Begin with a static 35mm wide cinematic shot establishing Central Square.
+
+Luca and Noah enter from opposite sides, converging on the ball.
+
+Perform a gentle cinematic push-in as they both see the ball.
+
+End on a medium shot showing both characters and the ball.
+
+Camera movement must remain slow, stable and natural.
+
+Warm morning sunlight throughout.
+
+Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
 
 ---
 

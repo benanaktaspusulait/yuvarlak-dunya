@@ -25,6 +25,21 @@ Noah and Arda are sitting with blocks.
 
 ---
 
+## Start Frame
+
+Use the final frame from the previous shot as the exact first frame.
+
+Maintain:
+- Character appearance
+- Central Square environment
+- Morning lighting
+- Camera composition
+- Character proportions
+
+Do not redesign the environment.
+
+---
+
 ## Visual Prompt
 
 ```text
@@ -32,6 +47,32 @@ Noah and Arda watching their block tower fall over at Central Square, surprised 
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
+
+---
+
+## Reference Usage
+
+Use the final frame from the previous shot as the primary image reference when generating this shot.
+
+The reference image is supplied by the production workflow and should not be hardcoded into this document.
+
+---
+
+## Camera Direction
+
+Continue from the exact framing of Shot 01.
+
+Camera stays on Noah and Arda as they build.
+
+Maintain medium framing as tower grows.
+
+Pull back slightly as tower falls.
+
+Maintain 35mm wide cinematic lens.
+
+Warm morning sunlight throughout.
+
+Avoid sudden movements, zooms or shakes.
 
 ---
 

@@ -23,6 +23,23 @@ No previous shot reference.
 
 ---
 
+## Start Frame
+
+This is the FIRST shot. No previous shot reference.
+
+Use the approved still image for this shot as the exact first frame.
+
+Maintain:
+- Character appearance
+- Stone Hill environment
+- Morning lighting
+- Camera composition
+- Character proportions
+
+Do not redesign the environment.
+
+---
+
 ## Visual Prompt
 
 ```text
@@ -30,6 +47,32 @@ Luca from Pompom Hills walking among rounded rocks on Stone Hill, spots a round 
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
+
+---
+
+## Reference Usage
+
+This is the FIRST shot. No previous shot reference.
+
+The reference image is supplied by the production workflow and should not be hardcoded into this document.
+
+---
+
+## Camera Direction
+
+Begin with a static 35mm wide cinematic shot.
+
+Luca enters from the lower-left, walking among rocks.
+
+Perform a gentle cinematic push-in as Luca spots the stone.
+
+End on a medium close-up as Luca examines the stone.
+
+Camera movement must remain slow, stable and natural.
+
+Warm morning sunlight throughout.
+
+Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
 
 ---
 
