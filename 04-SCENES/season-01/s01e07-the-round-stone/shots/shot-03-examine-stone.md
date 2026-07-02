@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Kiko is already present at the beginning of the shot.
+
+Do not introduce Kiko after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Kiko holding a round stone and looking up at the sky, then at the stone, Luca watching her with a smile, warm daylight, Stone Hill rocks, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -88,7 +98,7 @@ Luca: You're right!
 | Time | Action | Camera |
 |---|---|---|
 | 0-5 sn | Kiko holds stone, looks up at sky | Medium |
-| 5-10 sn | Looks back at stone | Close-up |
+| 5-10 sn | Looks back at stone | Gentle focus shift |
 | 10-15 sn | Smiles warmly | Medium |
 
 ---

@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Noah is already present at the beginning of the shot.
+
+Do not introduce Noah after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Noah and Arda sitting proudly next to their standing block tower at Central Square, happy smiles, Big Pompom Tree behind them, warm golden light, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -87,7 +97,7 @@ Arda: Together!
 |---|---|---|
 | 0-5 sn | Tower stands tall | Wide |
 | 5-10 sn | Both look at tower proudly | Medium |
-| 10-15 sn | Both smile warmly | Medium close-up |
+| 10-15 sn | Both smile warmly | Established composition |
 
 ---
 

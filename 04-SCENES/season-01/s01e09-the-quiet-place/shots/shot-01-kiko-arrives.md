@@ -66,7 +66,7 @@ Kiko enters from the lower-left, looking up at the tree.
 
 Perform a gentle cinematic push-in as Kiko arrives.
 
-End on a medium close-up as Kiko looks up.
+The focus gently settles on the character while preserving the established camera distance.
 
 Camera movement must remain slow, stable and natural.
 
@@ -90,7 +90,7 @@ Kiko: Hi Opa!
 |---|---|---|
 | 0-5 sn | Opa's Tree, leaves sway, peaceful | Wide establishing |
 | 5-10 sn | Kiko walks in, looks at tree | Medium |
-| 10-15 sn | Looks up, sees Opa | Medium close-up |
+| 10-15 sn | Looks up, sees Opa | Established composition |
 
 ---
 

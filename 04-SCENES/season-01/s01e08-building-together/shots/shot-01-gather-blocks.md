@@ -66,7 +66,7 @@ Arda enters and sits next to Noah.
 
 Camera gently pushes in as they look at blocks together.
 
-End on a medium close-up of both characters smiling.
+The focus gently settles on the character while preserving the established camera distance.
 
 Camera movement must remain slow, stable and natural.
 
@@ -91,7 +91,7 @@ Arda: Yes!
 |---|---|---|
 | 0-5 sn | Central Square, Noah sits with blocks | Wide establishing |
 | 5-10 sn | Arda arrives, sits next to Noah | Medium |
-| 10-15 sn | Both look at blocks, smile | Medium close-up |
+| 10-15 sn | Both look at blocks, smile | Established composition |
 
 ---
 

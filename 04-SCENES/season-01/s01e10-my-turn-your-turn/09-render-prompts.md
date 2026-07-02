@@ -7,6 +7,10 @@
 ```text
 Luca from Pompom Hills holding a colorful ball in Central Square, morning light, Central Square with flower beds, no other characters, {style} {camera} {lighting}
 
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
+
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
@@ -16,6 +20,10 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ```text
 Noah reaching for the ball that Luca is holding, both in Central Square, warm daylight, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -27,6 +35,10 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ```text
 Luca handing the ball to Noah, both smiling, Central Square, warm light, no other characters, {style} {camera} {lighting}
 
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
+
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
@@ -36,6 +48,10 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ```text
 Noah and Luca throwing the ball back and forth in Central Square, both happy, warm afternoon light, playful movement, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

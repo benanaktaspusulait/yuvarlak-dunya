@@ -25,7 +25,20 @@ This shot continues in the same meadow.
 
 ## Start Frame
 
-Match the end of Shot 01.
+Match the approved continuity reference image from the previous shot.
+
+Continue naturally from the supplied continuity image.
+
+Use the continuity image as the exact starting composition.
+
+Do not reinterpret the starting frame.
+
+Maintain:
+- camera distance
+- character positions
+- lighting
+- world proportions
+- world identity
 
 Luca and Kiko in Butterfly Meadow.
 
@@ -38,12 +51,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Luca is already present at the beginning of the shot.
+
+Do not introduce Luca after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Luca and Kiko following a butterfly through Butterfly Meadow, walking carefully among tall flowers, butterfly leading the way, sunny day, colorful meadow, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

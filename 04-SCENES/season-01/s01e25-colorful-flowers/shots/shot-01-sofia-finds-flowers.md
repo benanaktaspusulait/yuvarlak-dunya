@@ -17,7 +17,7 @@
 ## Visual Prompt
 
 ```text
-Sofia finds colourful flowers. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Close-up, 50mm, static, no other characters, {style} {camera} {lighting}
+Sofia finds colourful flowers. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Established composition, 50mm, static, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -26,7 +26,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Close-up, 50mm, static.
+Established composition, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -44,9 +44,9 @@ Sofia: Look at these colours!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Sofia finds colourful flowers. | Close-up, 50mm, static |
-| 5-10 sn | Character interaction | Close-up, 50mm, static |
-| 10-15 sn | Key moment | Close-up, 50mm, static |
+| 0-5 sn | Sofia finds colourful flowers. | Established composition, 50mm, static |
+| 5-10 sn | Character interaction | Established composition, 50mm, static |
+| 10-15 sn | Key moment | Established composition, 50mm, static |
 
 ---
 

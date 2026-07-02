@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Luca is already present at the beginning of the shot.
+
+Do not introduce Luca after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Luca showing a round stone to Kiko on Stone Hill, Kiko looking at the stone with wonder, warm morning light, Stone Hill with rounded rocks, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -92,7 +102,7 @@ Kiko: Wow!
 |---|---|---|
 | 0-5 sn | Kiko arrives, sees Luca | Wide |
 | 5-10 sn | Luca runs to Kiko, shows stone | Medium |
-| 10-15 sn | Kiko looks at stone | Medium close-up |
+| 10-15 sn | Kiko looks at stone | Established composition |
 
 ---
 

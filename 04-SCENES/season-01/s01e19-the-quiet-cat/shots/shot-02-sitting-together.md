@@ -19,6 +19,10 @@
 ```text
 She sits nearby. They watch together. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Medium, 50mm, static, no other characters, {style} {camera} {lighting}
 
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
+
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 

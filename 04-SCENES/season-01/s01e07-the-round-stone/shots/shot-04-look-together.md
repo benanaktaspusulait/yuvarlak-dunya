@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Luca is already present at the beginning of the shot.
+
+Do not introduce Luca after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Kiko and Luca on Stone Hill looking at a round stone together, warm smiles, golden afternoon light beginning, rounded rocks around them, peaceful happy moment, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -87,7 +97,7 @@ Kiko: Together!
 |---|---|---|
 | 0-5 sn | Kiko lifts stone to the sky | Medium |
 | 5-10 sn | Both look at stone | Wide |
-| 10-15 sn | Both smile, warm moment | Medium close-up |
+| 10-15 sn | Both smile, warm moment | Established composition |
 
 ---
 

@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Noah is already present at the beginning of the shot.
+
+Do not introduce Noah after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Noah and Arda watching their block tower fall over at Central Square, surprised expressions, blocks scattered on ground, Big Pompom Tree background, warm light, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

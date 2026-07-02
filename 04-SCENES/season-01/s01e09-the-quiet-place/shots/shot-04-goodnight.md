@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Kiko is already present at the beginning of the shot.
+
+Do not introduce Kiko after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Kiko standing and smiling at Opa under the tree, golden sunset light beginning, peaceful warm atmosphere, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -87,7 +97,7 @@ Opa: Anytime.
 |---|---|---|
 | 0-5 sn | Sunset begins, golden light | Wide |
 | 5-10 sn | Kiko stands up | Medium |
-| 10-15 sn | Smiles at Opa, warm goodbye | Medium close-up |
+| 10-15 sn | Smiles at Opa, warm goodbye | Established composition |
 
 ---
 

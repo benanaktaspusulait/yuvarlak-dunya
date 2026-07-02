@@ -7,6 +7,10 @@
 ```text
 Luca from Pompom Hills walking among rounded rocks on Stone Hill, spots a round flat stone on the ground, bends down to pick it up, examines it with a curious expression, warm morning sunlight, Stone Hill environment with rounded rock formations, no other characters, {style} {camera} {lighting}
 
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
+
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
@@ -16,6 +20,10 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ```text
 Luca showing a round stone to Kiko on Stone Hill, Kiko looking at the stone with wonder, warm morning light, Stone Hill with rounded rocks, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -27,6 +35,10 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ```text
 Kiko holding a round stone and looking up at the sky, then at the stone, Luca watching her with a smile, warm daylight, Stone Hill rocks, no other characters, {style} {camera} {lighting}
 
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
+
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
@@ -36,6 +48,10 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ```text
 Kiko and Luca on Stone Hill looking at a round stone together, warm smiles, golden afternoon light beginning, rounded rocks around them, peaceful happy moment, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

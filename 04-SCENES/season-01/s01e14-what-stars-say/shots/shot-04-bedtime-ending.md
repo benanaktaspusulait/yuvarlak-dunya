@@ -25,33 +25,62 @@ This is the final shot. Luca falls asleep peacefully.
 
 ## Start Frame
 
-Match the end of Shot 03.
+Match the approved continuity reference image from Shot 03.
 
-Luca and Opa under Opa's Tree at night.
+Continue naturally from the supplied continuity image.
+
+Use the continuity image as the exact starting composition.
+
+Do not reinterpret the starting frame.
 
 Maintain:
-- Character appearance
-- Opa's Tree night environment
-- Night lighting
-- Camera composition
-- Character proportions
-
-Do not redesign the environment.
+- camera distance
+- character positions
+- lighting
+- world proportions
+- Opa's Tree identity
 
 The supplied continuity frame is also the lighting reference for this shot.
+
+Luca is already present at the beginning of the shot.
+
+Opa is already present at the beginning of the shot.
+
+Do not introduce either character after the shot has started.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene. Luca leans against Opa with eyes closing sleepily; Opa looks at him with a warm smile. Stars and moon above, peaceful bedtime moment, established Opa's Tree night environment. The camera moves within the existing scene during a gentle pull-back — do not generate a wider environment, do not redesign the world, do not create a new establishing shot, preserve the established camera scale and composition. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+Continue naturally from @image2.
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Use @image2 as the exact starting composition.
 
-Do not change the established exposure, brightness or moonlight intensity.
+Do not reinterpret @image2.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Continue the action naturally from @image2.
+
+Remain inside the exact same Opa's Tree night scene. Luca leans against Opa with eyes closing sleepily; Opa looks at him with a warm smile. The established night sky remains unchanged throughout the shot. established Opa's Tree night environment. The camera moves within the existing scene during a gentle pull-back — do not generate a wider environment, do not redesign the world, do not create a new establishing shot, preserve the established camera scale and composition. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
+
+Maintain the established camera distance throughout the shot.
+
+Match the lighting and colour grading exactly from @image2.
+
+Do not change:
+- exposure
+- brightness
+- moonlight intensity
+- colour temperature
+- colour grading
+
+Luca is already present at the beginning of the shot.
+
+Opa is already present at the beginning of the shot.
+
+Do not introduce either character after the shot has started.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
 
 ---
@@ -66,17 +95,37 @@ The reference image is supplied by the production workflow and should not be har
 
 ## Camera Direction
 
-Begin with a close-up of Luca's sleepy face.
+Begin from the established composition.
 
-A gentle pull-back within the existing scene reveals him leaning against Opa.
+A gentle pull-back within the existing composition while Luca naturally settles against Opa.
 
-The camera moves; the world stays the same. Do not generate a wider environment, do not redesign the world, do not create a new establishing shot. Preserve the established camera scale and composition from earlier in the episode.
+The pull-back must remain inside the existing composition.
+
+Do not generate a wider environment.
+
+Do not reveal new parts of Opa's Tree.
+
+Do not create a new establishing shot.
+
+The movement should feel like a natural continuation of the previous shot.
 
 End intimately on Luca and Opa together beneath the stars — the same visual space, simply held a little wider, never a brand-new wide shot.
 
 Camera movement must remain slow, stable and natural. Frame-to-video should feel like one continuous shot.
 
-Moonlight and starlight throughout.
+The final frame should be suitable as an episode ending card and continuity reference.
+
+This is the emotional resting point of the episode.
+
+Hold the final composition calmly for the final second.
+
+No additional camera move.
+
+No new action.
+
+Allow the audience to rest in the final image before the episode ends.
+
+Soft moonlight and starlight throughout.
 
 Avoid sudden zooms, shakes, whip pans, dramatic pull-backs or cinematic cuts.
 
@@ -95,7 +144,7 @@ Opa: Goodnight, little one.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca's eyes closing | Close-up |
+| 0-5 sn | Luca's eyes closing | Gentle focus shift |
 | 5-10 sn | Leans against Opa, peaceful | Gentle pull-back (within scene) |
 | 10-15 sn | Both beneath the stars, intimate | Same visual space, held slightly wider |
 
@@ -106,6 +155,8 @@ Opa: Goodnight, little one.
 - Crickets chirping
 - Peaceful silence
 - Soft night wind
+
+Note: Background music is episode-level and will be added during editing.
 
 ---
 
@@ -128,4 +179,4 @@ Reject if characters too large, environment changes.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance

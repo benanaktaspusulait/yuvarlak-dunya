@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Luca is already present at the beginning of the shot.
+
+Do not introduce Luca after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Luca and Noah laughing together after bouncing a ball at Central Square, happy warm expressions, golden afternoon light beginning, Big Pompom Tree background, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -87,7 +97,7 @@ Luca: Again!
 |---|---|---|
 | 0-5 sn | Both bounce ball together | Wide |
 | 5-10 sn | Ball goes up, both watch | Medium |
-| 10-15 sn | Ball lands, both laugh | Medium close-up |
+| 10-15 sn | Ball lands, both laugh | Established composition |
 
 ---
 

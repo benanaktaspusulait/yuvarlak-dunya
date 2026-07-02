@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Opa is already present at the beginning of the shot.
+
+Do not introduce Opa after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Opa the owl gently landing next to Kiko at the base of Opa's Tree, warm smile, Kiko looking up at him happily, soft morning light filtering through leaves, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -92,7 +102,7 @@ Opa: Of course.
 |---|---|---|
 | 0-5 sn | Opa in tree above | Wide |
 | 5-10 sn | Opa descends gently, lands | Medium |
-| 10-15 sn | Both stand together, warm smile | Medium close-up |
+| 10-15 sn | Both stand together, warm smile | Established composition |
 
 ---
 

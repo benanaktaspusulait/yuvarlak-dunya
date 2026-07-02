@@ -57,7 +57,7 @@ Do not introduce either character after the shot has started.
 ## Visual Prompt
 
 ```text
-Continue naturally from @image2.
+Continue naturally from @image1.
 
 Use @image2 as the exact starting composition.
 

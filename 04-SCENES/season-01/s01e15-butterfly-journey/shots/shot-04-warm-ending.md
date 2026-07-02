@@ -25,7 +25,20 @@ This is the final shot. They watch the butterfly land.
 
 ## Start Frame
 
-Match the end of Shot 03.
+Match the approved continuity reference image from the previous shot.
+
+Continue naturally from the supplied continuity image.
+
+Use the continuity image as the exact starting composition.
+
+Do not reinterpret the starting frame.
+
+Maintain:
+- camera distance
+- character positions
+- lighting
+- world proportions
+- world identity
 
 Luca and Kiko in the hidden garden.
 
@@ -38,12 +51,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Luca is already present at the beginning of the shot.
+
+Do not introduce Luca after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Luca and Kiko watching a butterfly land on a flower in the hidden garden, surrounded by colorful butterflies and flowers, warm smiles, peaceful happy moment, Butterfly Meadow garden, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -60,11 +83,13 @@ The reference image is supplied by the production workflow and should not be har
 
 ## Camera Direction
 
-Begin with a close-up of the butterfly landing on a flower.
+Begin from the established composition.
+
+A gentle focus shift naturally brings the character slightly more into focus while preserving the existing camera distance. of the butterfly landing on a flower.
 
 Pull back to show Luca and Kiko watching.
 
-Medium close-up of their warm smiles.
+The focus gently settles on the characters while preserving the established camera distance.
 
 End on a wide shot of the garden with butterflies.
 
@@ -90,8 +115,8 @@ Kiko: Butterflies are amazing.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Butterfly lands on flower | Close-up |
-| 5-10 sn | Luca and Kiko watch, smile | Medium close-up |
+| 0-5 sn | Butterfly lands on flower | Gentle focus shift |
+| 5-10 sn | Luca and Kiko watch, smile | Established composition |
 | 10-15 sn | Garden with butterflies | Wide |
 
 ---

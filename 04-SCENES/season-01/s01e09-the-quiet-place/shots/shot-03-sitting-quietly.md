@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Kiko is already present at the beginning of the shot.
+
+Do not introduce Kiko after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Kiko and Opa sitting quietly under the tree, looking at falling leaves, peaceful expressions, soft golden light, warm atmosphere, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -89,7 +99,7 @@ Opa: They are.
 |---|---|---|
 | 0-5 sn | Both sit down under tree | Wide |
 | 5-10 sn | Look at falling leaves together | Medium |
-| 10-15 sn | Silent smiles | Medium close-up |
+| 10-15 sn | Silent smiles | Established composition |
 
 ---
 

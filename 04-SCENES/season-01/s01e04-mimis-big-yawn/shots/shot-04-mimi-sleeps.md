@@ -17,7 +17,11 @@
 ## Visual Prompt
 
 ```text
-Mimi falls asleep. Kiko watches. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Close-up, 50mm, slow pull-back, no other characters, {style} {camera} {lighting}
+Mimi falls asleep. Kiko watches. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Gentle focus shift, 50mm, slow pull-back, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -26,7 +30,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Close-up, 50mm, slow pull-back.
+Gentle focus shift, 50mm, slow pull-back.
 
 Camera movement must remain slow, stable and natural.
 
@@ -44,9 +48,9 @@ Kiko: Goodnight, Mimi.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Mimi falls asleep. Kiko watches. | Close-up, 50mm, slow pull-back |
-| 5-10 sn | Character interaction | Close-up, 50mm, slow pull-back |
-| 10-15 sn | Key moment | Close-up, 50mm, slow pull-back |
+| 0-5 sn | Mimi falls asleep. Kiko watches. | Gentle focus shift, 50mm, slow pull-back |
+| 5-10 sn | Character interaction | Gentle focus shift, 50mm, slow pull-back |
+| 10-15 sn | Key moment | Gentle focus shift, 50mm, slow pull-back |
 
 ---
 

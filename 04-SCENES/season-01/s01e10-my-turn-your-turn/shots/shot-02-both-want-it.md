@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Luca is already present at the beginning of the shot.
+
+Do not introduce Luca after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Luca and Noah both holding the same round yellow ball at Central Square, looking at each other, slight tension but friendly, warm light, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -66,7 +76,7 @@ Camera stays on Luca and Noah as they reach for the ball.
 
 Maintain medium framing showing both characters.
 
-End on a medium close-up of their faces.
+The focus gently settles on the character while preserving the established camera distance.
 
 Maintain 35mm wide cinematic lens.
 
@@ -91,7 +101,7 @@ Noah: No, my turn!
 |---|---|---|
 | 0-5 sn | Luca reaches for ball | Medium |
 | 5-10 sn | Noah reaches for ball | Medium |
-| 10-15 sn | Both hold ball, look at each other | Medium close-up |
+| 10-15 sn | Both hold ball, look at each other | Established composition |
 
 ---
 

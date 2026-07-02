@@ -25,7 +25,20 @@ This shot continues at the top of the hill.
 
 ## Start Frame
 
-Match the end of Shot 01.
+Match the approved continuity reference image from the previous shot.
+
+Continue naturally from the supplied continuity image.
+
+Use the continuity image as the exact starting composition.
+
+Do not reinterpret the starting frame.
+
+Maintain:
+- camera distance
+- character positions
+- lighting
+- world proportions
+- world identity
 
 Luca and Mimi at the top of Cloud Hill.
 
@@ -38,12 +51,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Luca is already present at the beginning of the shot.
+
+Do not introduce Luca after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Luca and Mimi standing on Cloud Hill looking up at large rain clouds forming, clouds dark and heavy, wind blowing gently, soft diffused light, Cloud Hill with grass bending in wind, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

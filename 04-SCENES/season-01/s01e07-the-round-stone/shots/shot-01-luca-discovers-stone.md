@@ -66,7 +66,7 @@ Luca enters from the lower-left, walking among rocks.
 
 Perform a gentle cinematic push-in as Luca spots the stone.
 
-End on a medium close-up as Luca examines the stone.
+The focus gently settles on the character while preserving the established camera distance.
 
 Camera movement must remain slow, stable and natural.
 
@@ -90,7 +90,7 @@ Luca: Oh! What's this?
 |---|---|---|
 | 0-5 sn | Luca walks among rocks, spots stone | Wide establishing |
 | 5-10 sn | Bends down, picks up stone | Medium |
-| 10-15 sn | Examines stone, curious smile | Medium close-up |
+| 10-15 sn | Examines stone, curious smile | Established composition |
 
 ---
 

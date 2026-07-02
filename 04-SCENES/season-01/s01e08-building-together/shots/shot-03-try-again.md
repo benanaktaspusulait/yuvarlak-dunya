@@ -38,12 +38,22 @@ Maintain:
 
 Do not redesign the environment.
 
+Noah is already present at the beginning of the shot.
+
+Do not introduce Noah after the shot has started.
+
+The supplied continuity frame is also the lighting reference for this shot.
+
 ---
 
 ## Visual Prompt
 
 ```text
 Noah and Arda carefully building a block tower together at Central Square, focused expressions, gentle movements, Big Pompom Tree background, warm light, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -89,7 +99,7 @@ Arda: Okay!
 |---|---|---|
 | 0-5 sn | Noah smiles, signals "again" | Medium |
 | 5-10 sn | Arda smiles, gathers blocks | Medium |
-| 10-15 sn | Both carefully stack blocks together | Medium close-up |
+| 10-15 sn | Both carefully stack blocks together | Established composition |
 
 ---
 

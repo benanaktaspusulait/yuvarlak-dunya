@@ -17,7 +17,7 @@
 ## Visual Prompt
 
 ```text
-Kiko finds a seed in Tillo's Garden in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Close-up, 50mm, static, no other characters, {style} {camera} {lighting}
+Kiko finds a seed in Tillo's Garden in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Established composition, 50mm, static, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -26,7 +26,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Close-up, 50mm, static.
+Established composition, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -44,9 +44,9 @@ Kiko: A seed! Let's plant it!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko finds a seed in Tillo's Garden | Close-up, 50mm, static |
-| 5-10 sn | Character interaction | Close-up, 50mm, static |
-| 10-15 sn | Key moment | Close-up, 50mm, static |
+| 0-5 sn | Kiko finds a seed in Tillo's Garden | Established composition, 50mm, static |
+| 5-10 sn | Character interaction | Established composition, 50mm, static |
+| 10-15 sn | Key moment | Established composition, 50mm, static |
 
 ---
 
