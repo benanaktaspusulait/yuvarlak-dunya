@@ -486,6 +486,69 @@ Nefes alma görünür (göğüs/hareket)
 
 ---
 
+## Reference Frame Selection
+
+Bir shot'ın son karesi otomatik olarak bir sonraki shot için en iyi referans karesi **değildir**.
+
+### Core Rule
+
+```
+The final frame of a rendered shot is NOT automatically the best reference frame for the next shot.
+
+The production workflow should always choose the frame that best supports:
+- character continuity
+- pose continuity
+- eye direction continuity
+- camera continuity
+- composition continuity
+- emotional continuity
+
+The selected frame may occur before the final frame.
+```
+
+### Production Workflow
+
+```
+1. Shot'ı render et
+2. Tüm kareleri incele
+3. En iyi continuity referans karesini seç (son kare OLMAYABİLİR)
+4. Seçilen kareyi bir sonraki shot'ın başlangıç karesi olarak kullan
+5. Sürekliliği doğrula
+```
+
+### Selection Criteria
+
+| Kriter | Açıklama |
+|--------|----------|
+| **Character continuity** | Karakter pozisyonu bir sonraki shot'la uyumlu mu? |
+| **Pose continuity** | Karakter pozu doğal bir geçiş sağlıyor mu? |
+| **Eye direction continuity** | Bakış yönü mantıklı mı? |
+| **Camera continuity** | Kamera açısı uyumlu mu? |
+| **Composition continuity** | Kompozisyon dengeli mi? |
+| **Emotional continuity** | Duygu tonu korunuyor mu? |
+
+### Production Lesson (Episode 1)
+
+Episode 1, son kareyi otomatik kullanmanın zaman zaman görsel sıçramalara yol açtığını göstermiştir.
+
+**Ders:** Kasıtlı continuity frame seçimi, otomatik son kare kullanımından çok daha akıcı geçişler üretir.
+
+Bu artık tüm gelecek bölümler için üretim standardıdır.
+
+### Example
+
+```
+Shot 01: Luca yukarı bakıyor, yıldızlar parlıyor
+    ↓
+Son kare: Luca gözlerini kapatıyor (uyukluyor)
+    ↓
+AMA en iyi continuity karesi: 3. saniye — Luca henüz yukarı bakıyor
+    ↓
+Shot 02: Luca yukarı bakarak devam ediyor (akıcı geçiş)
+```
+
+---
+
 ## Known OpenArt Failure Modes
 
 Aşağıdaki yaygın hatalara karşı korun. İlgili her yerde prompt'ları bu hataları açıkça

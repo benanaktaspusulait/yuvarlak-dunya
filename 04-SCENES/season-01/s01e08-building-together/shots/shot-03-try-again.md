@@ -27,7 +27,7 @@ Blocks were scattered on the ground.
 
 ## Start Frame
 
-Use the final frame from the previous shot as the exact first frame.
+Use the approved continuity reference frame selected from the previous shot as the exact first frame.
 
 Maintain:
 - Character appearance
@@ -52,7 +52,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Reference Usage
 
-Use the final frame from the previous shot as the primary image reference when generating this shot.
+Use the approved continuity reference frame selected from the previous shot as the primary image reference when generating this shot.
 
 The reference image is supplied by the production workflow and should not be hardcoded into this document.
 
