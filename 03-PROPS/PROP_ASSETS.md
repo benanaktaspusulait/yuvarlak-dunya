@@ -506,69 +506,73 @@ A round pumpkin, pastel orange #FF7043, round shape, soft rounded ridges, small 
 
 # GENERATED FILE MAP
 
-Bu tablo production sahnelerinde kullanılacak kesin dosya yollarını kilitler.
+Bu tablo production sahnelerinde kullanılacak **gerçek** dosya yollarını kilitler.
+Dosya adları kategori bazında numaralanır (her kategori 1'den başlar).
+Durum: ✅ üretildi · ⏳ planlandı (henüz üretilmedi).
 
-| # | Asset | File |
-|---|---|---|
-| 01 | Yellow Ball | `03-PROPS/Toys/1-yellow-ball.png` |
-| 02 | Round Block — Red | `03-PROPS/Toys/2-round-block-red.png` |
-| 03 | Round Block — Blue | `03-PROPS/Toys/3-round-block-blue.png` |
-| 04 | Round Block — Green | `03-PROPS/Toys/4-round-block-green.png` |
-| 05 | Butterfly — Pink | `03-PROPS/Nature/5-butterfly-pink.png` |
-| 06 | Butterfly — Purple | `03-PROPS/Nature/6-butterfly-purple.png` |
-| 07 | Butterfly — Yellow | `03-PROPS/Nature/7-butterfly-yellow.png` |
-| 05-07 | Butterfly Set — Scene Ready | `03-PROPS/Nature/1-butterflies-set.png` |
-| 08 | Round Flower — Red | `03-PROPS/Nature/8-round-flower-red.png` |
-| 09 | Round Flower — Yellow | `03-PROPS/Nature/9-round-flower-yellow.png` |
-| 10 | Round Flower — Pink | `03-PROPS/Nature/10-round-flower-pink.png` |
-| 08-10 | Flower Set — Scene Ready | `03-PROPS/Nature/2-flowers-set.png` |
-| 11 | Pompom Tree | `03-PROPS/Nature/11-pompom-tree.png` |
-| 12 | Stepping Stone | `03-PROPS/Nature/12-stepping-stone.png` |
-| 13 | Cloud | `03-PROPS/Nature/13-cloud.png` |
-| 14 | Sun | `03-PROPS/Nature/14-sun.png` |
-| 15 | Round Table | `03-PROPS/Furniture/15-round-table.png` |
-| 16 | Round Chair | `03-PROPS/Furniture/16-round-chair.png` |
-| 17 | Round Bed | `03-PROPS/Furniture/17-round-bed.png` |
-| 18 | Berry | `03-PROPS/Food/18-berry.png` |
-| 19 | Apple | `03-PROPS/Food/19-apple.png` |
-| 20 | Carrot | `03-PROPS/Food/20-carrot.png` |
-| 21 | Watering Can | `03-PROPS/Tools/21-watering-can.png` |
-| 22 | Magnifying Glass | `03-PROPS/Tools/22-magnifying-glass.png` |
-| 23 | Bow — Yellow | `03-PROPS/Decorations/23-bow-yellow.png` |
-| 24 | Flower Clip — Pink | `03-PROPS/Decorations/24-flower-clip-pink.png` |
-| 25 | Snowflake | `03-PROPS/Seasonal/25-snowflake.png` |
-| 26 | Pumpkin | `03-PROPS/Seasonal/26-pumpkin.png` |
+| Katalog # | Asset | File | Durum |
+|---|---|---|---|
+| 01 | Yellow Ball | `03-PROPS/Toys/1-yellow-ball.png` | ✅ |
+| 02 | Round Block — Red | `03-PROPS/Toys/2-round-block-red.png` | ✅ |
+| 03 | Round Block — Blue | `03-PROPS/Toys/3-round-block-blue.png` | ✅ |
+| 04 | Round Block — Green | `03-PROPS/Toys/4-round-block-green.png` | ✅ |
+| 05 | Butterfly — Pink | `03-PROPS/Nature/5-butterfly-pink.png` | ✅ |
+| 05-07 | Butterfly Set — Scene Ready | `03-PROPS/Nature/1-butterflies.png` | ✅ |
+| 06 | Butterfly — Purple | `03-PROPS/Nature/6-butterfly-purple.png` | ⏳ |
+| 07 | Butterfly — Yellow | `03-PROPS/Nature/7-butterfly-yellow.png` | ⏳ |
+| 08-10 | Flower Set — Scene Ready | `03-PROPS/Nature/2-flowers.png` | ✅ |
+| 08 | Round Flower — Red | `03-PROPS/Nature/8-round-flower-red.png` | ⏳ |
+| 09 | Round Flower — Yellow | `03-PROPS/Nature/9-round-flower-yellow.png` | ⏳ |
+| 10 | Round Flower — Pink | `03-PROPS/Nature/10-round-flower-pink.png` | ⏳ |
+| 11 | Pompom Tree | `03-PROPS/Nature/11-pompom-tree.png` | ⏳ |
+| 12 | Stepping Stone | `03-PROPS/Nature/12-stepping-stone.png` | ⏳ |
+| 13 | Cloud | `03-PROPS/Nature/13-cloud.png` | ⏳ |
+| 14 | Sun | `03-PROPS/Nature/14-sun.png` | ⏳ |
+| 15 | Round Table | `03-PROPS/Furniture/1-table.png` | ✅ |
+| 16 | Round Chair | `03-PROPS/Furniture/2-chair.png` | ✅ |
+| 17 | Round Bed | `03-PROPS/Furniture/3-bed.png` | ✅ |
+| 18 | Berry | `03-PROPS/Food/1-berry.png` | ✅ |
+| 19 | Apple | `03-PROPS/Food/2-apple.png` | ✅ |
+| 20 | Carrot | `03-PROPS/Food/3-carrot.png` | ✅ |
+| 21 | Watering Can | `03-PROPS/Tools/1-watering-can.png` | ✅ |
+| 22 | Magnifying Glass | `03-PROPS/Tools/2-magnifying-glass.png` | ✅ |
+| 23 | Bow — Yellow | `03-PROPS/Decorations/1-bow-yellow.png` | ✅ |
+| 24 | Flower Clip — Pink | `03-PROPS/Decorations/2-flower-clip.png` | ✅ |
+| 25 | Snowflake | `03-PROPS/Seasonal/2-snowflake.png` | ✅ |
+| 26 | Pumpkin | `03-PROPS/Seasonal/3-pumpkin.png` | ✅ |
+| 27 | Seed | `03-PROPS/Nature/6-seed.png` | ✅ |
+| 28 | Sprout | `03-PROPS/Nature/7-sprout.png` | ✅ |
+| 29 | Rainbow | `03-PROPS/Nature/8-rainbow.png` | ✅ |
+| 30 | Leaf | `03-PROPS/Nature/9-leaf.png` | ✅ |
+| 31 | Dandelion | `03-PROPS/Nature/10-dandelion.png` | ✅ |
+| 32 | Moon | `03-PROPS/Seasonal/1-moon.png` | ✅ |
 
 ---
 
 # SCENE-SPECIFIC ASSETS
 
 Bu assetler sezon sahnelerinde doğrudan ihtiyaç olarak çıktı; genel katalogdan ayrı tutulur.
+Durum: ✅ üretildi · ⏳ planlandı.
 
-| Episode | Asset | File | Use |
-|---|---|---|---|
-| S01E02 | Yellow Ball Contact Poses | `03-PROPS/SceneSpecific/S01E02/yellow-ball-contact-poses.png` | Bounce/sekme poz referansı |
-| S01E03 | Seed | `03-PROPS/SceneSpecific/S01E03/seed.png` | Tohum bulma ve dikme |
-| S01E03 | Sprout | `03-PROPS/SceneSpecific/S01E03/sprout.png` | Çiçek büyüme ara hali |
-| S01E03 | Hero Flower | `03-PROPS/SceneSpecific/S01E03/hero-flower.png` | Final bloom close-up |
-| S01E04 | Sunny Spot | `03-PROPS/SceneSpecific/S01E04/sunny-spot.png` | Mimi dinlenme noktası |
-| S01E06 | Soft Wind Leaves | `03-PROPS/SceneSpecific/S01E06/soft-wind-leaves.png` | Rüzgar hareket referansı |
-| S01E01 | Round Bush | `03-PROPS/Nature/round-bush.png` | Mimi intro çalısı |
+| Episode | Asset | File | Use | Durum |
+|---|---|---|---|---|
+| S01E02 | Yellow Ball Contact Poses | `03-PROPS/SceneSpecific/S01E02/yellow-ball-contact-poses.png` | Bounce/sekme poz referansı | ⏳ |
+| S01E03 | Seed | `03-PROPS/SceneSpecific/S01E03/seed.png` | Tohum bulma ve dikme | ⏳ |
+| S01E03 | Sprout | `03-PROPS/SceneSpecific/S01E03/sprout.png` | Çiçek büyüme ara hali | ⏳ |
+| S01E03 | Hero Flower | `03-PROPS/SceneSpecific/S01E03/hero-flower.png` | Final bloom close-up | ⏳ |
+| S01E04 | Sunny Spot | `03-PROPS/SceneSpecific/S01E04/sunny-spot.png` | Mimi dinlenme noktası | ⏳ |
+| S01E06 | Soft Wind Leaves | `03-PROPS/SceneSpecific/S01E06/soft-wind-leaves.png` | Rüzgar hareket referansı | ⏳ |
 
 ---
 
 # NEW ENVIRONMENT PLATES
 
-| Environment | File | Use |
-|---|---|---|
-| Flower Hill | `environment/25-flower-hill.png` | S01E02, S01E03, S01E04, S01E05, S01E06 içindeki eski `(background)` referansları |
-| Central Intro Stage | `environment/26-central-intro-stage.png` | S01E01 ana üçlü continuity intro revizyonu |
-| 27 | Seed | Brown | #8D6E63 |
-| 28 | Sprout | Green | #81C784 |
-| 29 | Rainbow | Multi | — |
-| 30 | Leaf | Green | #81C784 |
-| 31 | Dandelion | White | #FFFFFF |
-| 32 | Moon | Cream | #FFF9C4 |
+Durum: ✅ üretildi · ⏳ planlandı.
+
+| Environment | File | Use | Durum |
+|---|---|---|---|
+| Flower Hill | `environment/25-flower-hill/hero-view.png` | S01E02–S01E06 içindeki eski `(background)` referansları | ✅ |
+| Central Intro Stage | `environment/26-central-intro-stage.png` | S01E01 ana üçlü continuity intro revizyonu | ⏳ |
 
 ---
 

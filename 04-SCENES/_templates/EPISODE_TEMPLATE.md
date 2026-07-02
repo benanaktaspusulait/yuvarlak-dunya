@@ -82,9 +82,32 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 
 ---
 
-## Kurallar
+## Kanonik Bölüm Klasör Yapısı (Standart)
 
-- Bu template her yeni bölüm dosyasında kullanılmalıdır.
+Her bölüm klasörü (`04-SCENES/season-NN/sNNeNN-slug/`) şu dosyaları içermelidir:
+
+| Dosya | Zorunlu | İçerik |
+| --- | --- | --- |
+| `01-overview.md` | ✅ | Bölüm özeti, lock tablosu |
+| `02-beat-sheet.md` | ✅ | Beat/zaman akışı |
+| `03-storyboard.md` | ✅ | Sahne sahne storyboard (BÜYÜK harfli `STORYBOARD.md` KULLANILMAZ) |
+| `04-assets.md` | ✅ | Karakter/mekan/prop dosya listesi |
+| `05-camera.md` | ✅ | Kamera planı |
+| `06-dialogues.md` | ✅ | Diyaloglar |
+| `07-sfx.md` | ✅ | Ses efektleri |
+| `08-animation-notes.md` | ✅ | Animasyon notları |
+| `09-render-prompts.md` | ✅ | OpenArt render promptları |
+| `COORDINATE_MAP.md` | ✅ | Koordinat haritası (Kiko=100 birim) |
+| `EPISODE_SUMMARY.md` | ✅ | İngilizce bölüm özeti |
+| `EPISODE_SUMMARY_TR.md` | ✅ | Türkçe bölüm özeti |
+| `shots/` | Opsiyonel | Shot bazında ayrıntı (`shot-NN-aciklama.md`) |
+| `README.md` | Opsiyonel | Bölüm giriş/gezinme notu |
+
+**İstisna — S01E01 (Hello Pompom Hills):** Bu bölüm bir "karakter tanıtım" montajıdır; numaralı aspect dosyaları yerine karakter başına sahne dosyaları kullanır (`01-kiko-intro.md` … `15-goodbye-handoff.md`). Bu bilinçli bir istisnadır.
+
+---
+
+
 - Her bölüm 4 sahne × 15 saniye = 60 saniye (kısa format) veya 7 dakika (uzun format).
 - Maksimum 3 karakter.
 - Tek mekan tercih edilir.

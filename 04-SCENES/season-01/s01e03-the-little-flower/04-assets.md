@@ -18,7 +18,7 @@
 | Prop | File | Scenes |
 |---|---|---|
 | 🌱 Seed | (new prop needed) | 02, 03 |
-| 💧 Watering Can | `03-PROPS/Tools/watering-can.png` (new) | 04, 08 |
+| 💧 Watering Can | `03-PROPS/Tools/1-watering-can.png` | 04, 08 |
 | 🌸 Flowers | `03-PROPS/Nature/2-flowers.png` | 10 |
 
 ---
