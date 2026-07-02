@@ -2,6 +2,30 @@
 
 Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 
+## v3.1 - Eksik Tamamlama (Kısmi)
+
+### Added
+
+- `07-BRANDING/YOUTUBE_WORKFLOW.md` — YouTube yükleme akışı, thumbnail spec, keyword stratejisi
+- `07-BRANDING/THUMBNAIL_TEMPLATE.md` — Bölüm başına thumbnail prompt şablonu
+- `07-BRANDING/METADATA/s01e01.md` — TR+EN metadata örneği
+- `07-BRANDING/MUSIC_SFX_LICENSES.md` — Ses lisans takip tablosu
+- `00-CORE/CHILD_SAFETY_RULES.md` — Çocuk güvenliği kuralları
+- `10-LICENSING/COPPA_MADE_FOR_KIDS_CHECKLIST.md` — COPPA uyumluluk kontrol listesi
+- `08-PRODUCTION/BUDGET_TRACKER.md` — Bütçe takip tablosu
+- `08-PRODUCTION/VOICE_TRACKER.md` — 13 karakter × 26 bölüm ses kaydı takibi
+- `08-PRODUCTION/PRODUCTION_CALENDAR.md` — Haftalık üretim takvimi
+- `subtitles/SRT_TEMPLATE.md` — Altyazı şablonu
+- `scripts/validate-naming.sh` — NN-slug isimlendirme doğrulama
+- `scripts/validate-continuity.py` — Karakter ölçek ve renk paleti kontrolü
+- `scripts/lint-prompts.py` — Prompt değişken uyumluluk
+- `.github/workflows/validate.yml` — GitHub Actions workflow
+
+### Changed
+
+- `CONTRIBUTING.md` v3.1'e güncellendi (scripts/ ve QC akışı eklendi)
+- `08-PRODUCTION/TODO.md` kapsamlı görev listesi ile yeniden yazıldı
+
 ## v3.0 - Büyük Yeniden Yapılandırma
 
 ### Added

@@ -1,4 +1,4 @@
-# Contributing v3.0
+# Contributing v3.1
 
 Bu repo Pompom Hills / Yuvarlak Dunya prodüksiyon dosyasıdır. Katkılar; 3-4 yaş pedagojisi, görsel güvenlik ve üretim tutarlılığına göre değerlendirilir.
 
@@ -6,16 +6,20 @@ Bu repo Pompom Hills / Yuvarlak Dunya prodüksiyon dosyasıdır. Katkılar; 3-4 
 
 ```
 yuvarlak-dunya/
-├── 00-CORE/         ← Tek kaynak master dosyalar (sadece bu dosyalar güncellenir)
-├── 01-CHARACTERS/   ← Karakter bible dosyaları
+├── 00-CORE/         ← Tek kaynak master dosyalar
+├── 01-CHARACTERS/   ← Karakter bible dosyaları + drawings/
 ├── 02-WORLDS/       ← Mekan bible dosyaları
 ├── 03-PROPS/        ← Prop kütüphanesi
 ├── 04-SCENES/       ← Sahne dosyaları + şablonlar
 ├── 05-AI-PROMPTS/   ← AI üretim promptları
 ├── 06-ASSETS/       ← Referans görseller
-├── 07-BRANDING/     ← Marka dosyaları
+├── 07-BRANDING/     ← Marka dosyaları + metadata/
 ├── 08-PRODUCTION/   ← Üretim takibi
-└── 09-ARCHIVE/      ← Eski dosyalar
+├── 09-ARCHIVE/      ← Eski dosyalar
+├── 10-LICENSING/    ← Lisanslama stratejisi
+├── scripts/         ← Otomasyon scriptleri
+├── subtitles/       ← Altyazı dosyaları
+└── .github/         ← GitHub Actions
 ```
 
 ## Tek Kaynak Prensibi
@@ -99,5 +103,36 @@ Dosya adları küçük harf, tire ayracı ve sürüm bilgisiyle yazılır.
 
 ---
 
+## Otomasyon & Doğrulama
+
+### Script'ler
+
+`scripts/` klasöründe 3 doğrulama scripti bulunur:
+
+| Script | Amaç |
+|--------|------|
+| `validate-naming.sh` | NN-slug isimlendirme doğrulaması |
+| `validate-continuity.py` | Karakter ölçek ve renk paleti kontrolü |
+| `lint-prompts.py` | Prompt değişken ve negatif liste uyumluluk |
+
+### Çalıştırma
+
+```bash
+# Tüm scriptleri çalıştır
+bash scripts/validate-naming.sh
+python3 scripts/validate-continuity.py
+python3 scripts/lint-prompts.py
+
+# veya tek seferde
+./scripts/validate-naming.sh && python3 scripts/validate-continuity.py && python3 scripts/lint-prompts.py
+```
+
+### GitHub Actions
+
+`.github/workflows/validate.yml` dosyası PR ve push'larda otomatik olarak çalışır.
+
+---
+
 *Bu belge katkıkılama kuralları için tek kaynaktır.*
 *Son güncelleme: 2 Temmuz 2026*
+*Versiyon: v3.1*
