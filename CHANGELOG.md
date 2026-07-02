@@ -15,6 +15,8 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 - `06-ASSETS/` dizini: Referans görseller
 - `07-BRANDING/` dizini: Marka ve sosyal medya dosyaları
 - `08-PRODUCTION/` dizini: TODO.md, EPISODE_TRACKER.md, PRODUCTION_SCHEDULE.md, QC_CHECKLIST.md, ASSET_TRACKER.md, LOCATION_ANALYSIS.md, CHARACTER_ANALYSIS.md, SEASON_2_PLAN.md
+- `10-LICENSING/` dizini: LICENSING_STRATEGY.md (UK merkezli lisanslama stratejisi), UK_TRADEMARK_GUIDE.md (trademark başvuru rehberi), LICENSING_PITCH_DECK.md (lisanslama sunumu), PRODUCT_SPECIFICATIONS.md (ürün kategorisi spesifikasyonları), LICENSE_AGREEMENT_TEMPLATE.md (lisans anlaşması şablonu)
+- `PROJECT_OVERVIEW.md` — Kapsamlı proje çerçeve belgesi
 - `09-ARCHIVE/` dizini: Eski/arsiv dosyalar
 
 ### Changed

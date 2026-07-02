@@ -44,12 +44,14 @@ yuvarlak-dunya/
 ├── 06-ASSETS/                  ← Genel referans görseller (world/karakter/prop hariç)
 ├── 07-BRANDING/                ← Marka, sosyal medya, kanal görselleri
 │   └── channel-images/         ← YouTube/sosyal medya logo & kapak
-├── 08-PRODUCTION/              ← Üretim takibi (TODO, takvim, tracker)
+├── 08-PRODUCTION/              ← Üretim takibi (TODO, takvim, tracker, QC, asset)
 ├── 09-ARCHIVE/                 ← Eski/arsiv dosyalar
+├── 10-LICENSING/               ← Lisanslama stratejisi ve yol haritası
 │
 ├── environment/                ← Mekan referans görselleri (world PNG'leri, kanonik)
 ├── videos/                     ← Render edilmiş video çıktıları
 │
+├── PROJECT_OVERVIEW.md         ← Kapsamlı proje çerçeve belgesi
 ├── README.md                   ← Bu dosya
 ├── LICENSE
 ├── CHANGELOG.md

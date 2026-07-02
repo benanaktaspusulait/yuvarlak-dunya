@@ -1,0 +1,118 @@
+# E13 — Shot 04 — Rain Begins to Fall
+
+---
+
+## Scene Context
+
+| Alan | Değer |
+| --- | --- |
+| Episode | S01E13 — Where Does Rain Come From |
+| Shot | 04 / 04 |
+| Duration | 15 seconds |
+| Location | Cloud Hill |
+| Characters | Luca, Mimi |
+| Time of Day | Cloudy Day |
+
+---
+
+## Continuity
+
+Previous shot: Mimi explained that clouds hold water.
+
+This is the final shot. Rain begins to fall.
+
+---
+
+## Start Frame
+
+Match the end of Shot 03.
+
+Luca and Mimi looking up at clouds.
+
+Maintain:
+- Character appearance
+- Cloud Hill environment
+- Cloudy lighting
+- Camera composition
+- Character proportions
+
+Do not redesign the environment.
+
+---
+
+## Visual Prompt
+
+```text
+Luca and Mimi on Cloud Hill as gentle rain begins to fall, looking up at the rain with smiles, soft raindrops falling around them, cloudy sky, peaceful happy moment, Cloud Hill environment, no other characters, {style} {camera} {lighting}
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+---
+
+## Reference Usage
+
+Previous shot reference: Luca and Mimi talking.
+
+The reference image is supplied by the production workflow and should not be hardcoded into this document.
+
+---
+
+## Camera Direction
+
+Begin with a medium shot of both looking up.
+
+First raindrops fall around them.
+
+Pull back to show the gentle rain falling on the hill.
+
+End on a warm medium close-up of their smiling faces.
+
+Camera movement must remain slow, stable and natural.
+
+Soft diffused light with rain.
+
+Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
+
+---
+
+## Dialogue
+
+```
+Luca: It's starting to rain!
+Mimi: See? The clouds let go.
+```
+
+---
+
+## Shot Breakdown
+
+| Time | Action | Camera |
+|---|---|---|
+| 0-5 sn | First raindrops fall | Medium |
+| 5-10 sn | Luca and Mimi look up, smiling | Medium close-up |
+| 10-15 sn | Gentle rain on the hill, peaceful | Wide |
+
+---
+
+## Sound
+
+- Rain pitter-patter
+- Soft wind
+- Peaceful ambient
+
+---
+
+## Lighting
+
+Soft diffused cloudy light.
+
+Rain glistening slightly.
+
+Gentle, even illumination.
+
+---
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
