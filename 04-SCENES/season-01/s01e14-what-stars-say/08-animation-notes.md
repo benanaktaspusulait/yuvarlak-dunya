@@ -32,5 +32,20 @@
 |---|---|
 | Stars | Subtle twinkle |
 | Moon | Soft glow |
-| Tree | Very gentle sway |
+| Opa's Tree | Very gentle canopy sway (same tree every shot) |
 | Crickets | Ambient sound |
+
+---
+
+## Quiet Moment (Wonder Beat)
+
+After Luca asks "What do stars say?" (Shot 02), hold a brief intentional pause
+before Opa answers.
+
+| Alan | Not |
+|---|---|
+| Süre | ~2-3 saniye |
+| Luca | Bakışını yukarıda tutar, merakla bekler |
+| Opa | Yavaşça düşünür, cevabı acele etmez |
+| Environment | Yıldızlar hafifçe parlar, ağaç çok hafif sallanır |
+| Amaç | Sessizlik değil, **merak (wonder)** yaratmak |

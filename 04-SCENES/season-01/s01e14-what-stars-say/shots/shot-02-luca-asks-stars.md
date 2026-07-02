@@ -17,7 +17,7 @@
 
 ## Continuity
 
-Previous shot: Luca and Opa sat under the tree looking at stars.
+Previous shot: Luca and Opa sat under Opa's Tree looking at stars.
 
 This shot continues at the same location.
 
@@ -27,7 +27,7 @@ This shot continues at the same location.
 
 Match the end of Shot 01.
 
-Luca and Opa under the tree at night.
+Luca and Opa under Opa's Tree at night.
 
 Maintain:
 - Character appearance
@@ -43,7 +43,7 @@ Do not redesign the environment.
 ## Visual Prompt
 
 ```text
-Luca looking up at Opa under the tree at night, asking a question with curious expression, Opa listening with warm smile, starry night sky, moonlight, Opa's Tree night environment, no other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Luca looks up toward Opa with gentle curiosity; Opa sits calmly with a warm expression. Starry night sky, moonlight, established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -52,7 +52,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Reference Usage
 
-Previous shot reference: Luca and Opa under the tree.
+Previous shot reference: Luca and Opa under Opa's Tree.
 
 The reference image is supplied by the production workflow and should not be hardcoded into this document.
 
@@ -60,15 +60,15 @@ The reference image is supplied by the production workflow and should not be har
 
 ## Camera Direction
 
-Begin with a medium shot of Luca looking up at Opa.
+Begin with a medium shot of Luca looking up toward Opa.
 
-Static two-shot as Luca asks his question.
+Static two-shot as Luca looks up with gentle curiosity.
 
-Opa listens with a warm smile.
+After Luca's question, hold a brief, still pause — the camera does not move, stars twinkle softly — creating a moment of wonder before Opa begins to think.
 
 End on Opa's thoughtful face.
 
-Camera movement must remain slow, stable and natural.
+Camera movement must remain slow, stable and natural. It stays within the established scene and never generates a wider environment.
 
 Moonlight and starlight throughout.
 
@@ -89,9 +89,10 @@ Opa: Hmm, let me think.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca looks up at Opa | Medium |
-| 5-10 sn | Luca asks question | Two-shot |
-| 10-15 sn | Opa thinks, warm smile | Close-up |
+| 0-4 sn | Luca looks up toward Opa | Medium |
+| 4-8 sn | Luca asks his question | Two-shot |
+| 8-11 sn | Quiet wonder pause — stillness, stars twinkle | Static hold |
+| 11-15 sn | Opa begins to think, warm expression | Close-up |
 
 ---
 

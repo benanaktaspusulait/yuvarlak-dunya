@@ -19,7 +19,7 @@
 
 Previous shot: Luca asked what stars say. Opa thought about it.
 
-This shot continues the conversation under the tree.
+This shot continues the conversation under Opa's Tree.
 
 ---
 
@@ -27,7 +27,7 @@ This shot continues the conversation under the tree.
 
 Match the end of Shot 02.
 
-Luca and Opa under the tree at night.
+Luca and Opa under Opa's Tree at night.
 
 Maintain:
 - Character appearance
@@ -43,7 +43,7 @@ Do not redesign the environment.
 ## Visual Prompt
 
 ```text
-Opa speaking gently to Luca under the tree at night, telling a story with soft gestures, stars twinkling above, warm moonlight, Luca listening with sleepy wonder, Opa's Tree night environment, no other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Opa gestures softly and warmly; the focus rests on Luca watching with sleepy wonder. Stars twinkle above, warm moonlight, established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -60,19 +60,19 @@ The reference image is supplied by the production workflow and should not be har
 
 ## Camera Direction
 
-Begin with a medium close-up of Opa speaking softly.
+Begin with a medium close-up of Opa as he gestures softly and warmly.
 
-Slow push-in to Opa's face as he tells the story.
+A very slow, gentle push-in within the existing scene as the moment settles.
 
-Cut to Luca's reaction, eyes heavy with sleep.
+The focus naturally shifts toward Luca, whose eyes are heavy with sleep.
 
 End on both of them, stars above.
 
-Camera movement must remain slow, stable and natural.
+Camera movement must remain slow, stable and natural. It stays within the established scene and never generates a wider environment. Frame-to-video should feel like one continuous shot.
 
 Warm moonlight and starlight throughout.
 
-Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
+Avoid sudden zooms, shakes, whip pans, dramatic push-ins or cinematic cuts.
 
 ---
 

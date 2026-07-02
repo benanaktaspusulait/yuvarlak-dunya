@@ -174,6 +174,31 @@ Her önemli mekan kalıcı bir görsel varlıktır.
 
 **Kural:** Mekanlar film seti gibidir.
 
+### 11.1 No Generic Worlds Rule
+
+Tekrar eden bir mekan asla genel (generic) ifadelerle tanımlanmaz.
+
+Şunları YAZMA:
+- "a big tree" / "büyük ağaç"
+- "a tree" / "ağaç"
+- "a hill" / "tepe"
+- "a village" / "köy"
+
+Bunun yerine **kurulu (established) mekanın adını** kullan ve AI'a kimliğini
+korumasını söyle (örn. "Opa's Tree" ve korunacak öğeler listesi).
+
+Tekrar eden mekanlar, her seferinde yeniden üretilen ortamlar değil,
+**kalıcı film setleri** gibi ele alınır.
+
+Her Opa's Tree shot'ı şunları korur:
+- gövde şekli (trunk shape)
+- taç silüeti (canopy silhouette)
+- okuma platformları (platforms)
+- ağaç ev açıklığı (tree house opening)
+- fener yerleşim stili (lantern placement)
+- çevredeki tepe (surrounding hill)
+- kurulu gece atmosferi (established night atmosphere)
+
 ---
 
 ## 12. Scene Continuation Template

@@ -1,41 +1,47 @@
 # S01E14 — Render Prompts
 
+> Production pipeline notu:
+> - Shot 01 tek "yeni Take Shot"tur. Shot 02-04 önceki shot'tan devam eder.
+> - Mekan her zaman **Opa's Tree**'dir — "big tree" / "tree" gibi generic ifade kullanılmaz.
+> - Görsel promptlar yalnızca **görünür aksiyonu** anlatır; diyalog anlatılmaz.
+> - Pull-back istenen yerde kamera yalnızca mevcut sahne içinde hareket eder; yeni ortam üretilmez.
+
 ---
 
-## Shot 01
+## Shot 01 (New Take Shot)
 
 ```text
-Luca and Opa from Pompom Hills sitting under a big tree at night, looking up at a sky full of stars, moonlight filtering through branches, Opa's Tree night environment with dark blue sky, no other characters, {style} {camera} {lighting}
+Luca and Opa from Pompom Hills sitting quietly at the base of Opa's Tree at night, naturally discovered by the camera, looking up at a sky full of stars, moonlight filtering through the canopy, established Opa's Tree night environment with dark blue sky. Preserve Opa's Tree exactly: trunk shape, canopy silhouette, reading platforms, tree house opening, lantern placement, surrounding hill and established night atmosphere. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
 ---
 
-## Shot 02
+## Shot 02 (Continuation)
 
 ```text
-Luca looking up at Opa under the tree at night, asking a question with curious expression, Opa listening with warm smile, starry night sky, moonlight, Opa's Tree night environment, no other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Luca looks up toward Opa with gentle curiosity; Opa sits calmly with a warm expression. Starry night sky, moonlight, established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
 ---
 
-## Shot 03
+## Shot 03 (Continuation)
 
 ```text
-Opa speaking gently to Luca under the tree at night, telling a story with soft gestures, stars twinkling above, warm moonlight, Luca listening with sleepy wonder, Opa's Tree night environment, no other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene; preserve the established composition, lighting, world and proportions. Opa gestures softly and warmly; Luca watches with sleepy wonder. Stars twinkle above, warm moonlight. Established Opa's Tree night environment. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
 ---
 
-## Shot 04
+## Shot 04 (Continuation — intimate ending)
 
 ```text
-Luca leaning against Opa under the tree at night, eyes closing sleepily, Opa looking at him with warm smile, stars and moon above, peaceful bedtime moment, Opa's Tree night environment, no other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene. Luca leans against Opa with eyes closing sleepily; Opa looks at him with a warm smile. Stars and moon above, peaceful bedtime moment, established Opa's Tree night environment. The camera moves within the existing scene during a gentle pull-back — do not generate a wider environment, do not redesign the world, do not create a new establishing shot, preserve the established camera scale and composition. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -44,4 +50,4 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, new environment, wider environment, generic tree, different tree, redesigned tree

@@ -27,7 +27,7 @@ This is the final shot. Luca falls asleep peacefully.
 
 Match the end of Shot 03.
 
-Luca and Opa under the tree at night.
+Luca and Opa under Opa's Tree at night.
 
 Maintain:
 - Character appearance
@@ -43,7 +43,7 @@ Do not redesign the environment.
 ## Visual Prompt
 
 ```text
-Luca leaning against Opa under the tree at night, eyes closing sleepily, Opa looking at him with warm smile, stars and moon above, peaceful bedtime moment, Opa's Tree night environment, no other characters, {style} {camera} {lighting}
+Continue naturally from the provided reference image. Remain inside the exact same Opa's Tree night scene. Luca leans against Opa with eyes closing sleepily; Opa looks at him with a warm smile. Stars and moon above, peaceful bedtime moment, established Opa's Tree night environment. The camera moves within the existing scene during a gentle pull-back — do not generate a wider environment, do not redesign the world, do not create a new establishing shot, preserve the established camera scale and composition. Preserve trunk shape, canopy silhouette, platforms, tree house opening, lantern placement, surrounding hill. No other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -62,17 +62,17 @@ The reference image is supplied by the production workflow and should not be har
 
 Begin with a close-up of Luca's sleepy face.
 
-Pull back to show him leaning against Opa.
+A gentle pull-back within the existing scene reveals him leaning against Opa.
 
-Pan up to the stars and moon above.
+The camera moves; the world stays the same. Do not generate a wider environment, do not redesign the world, do not create a new establishing shot. Preserve the established camera scale and composition from earlier in the episode.
 
-End on a wide shot of the peaceful scene.
+End intimately on Luca and Opa together beneath the stars — the same visual space, simply held a little wider, never a brand-new wide shot.
 
-Camera movement must remain slow, stable and natural.
+Camera movement must remain slow, stable and natural. Frame-to-video should feel like one continuous shot.
 
 Moonlight and starlight throughout.
 
-Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
+Avoid sudden zooms, shakes, whip pans, dramatic pull-backs or cinematic cuts.
 
 ---
 
@@ -90,8 +90,8 @@ Opa: Goodnight, little one.
 | Time | Action | Camera |
 |---|---|---|
 | 0-5 sn | Luca's eyes closing | Close-up |
-| 5-10 sn | Leans against Opa, peaceful | Medium |
-| 10-15 sn | Stars above, peaceful night | Wide |
+| 5-10 sn | Leans against Opa, peaceful | Gentle pull-back (within scene) |
+| 10-15 sn | Both beneath the stars, intimate | Same visual space, held slightly wider |
 
 ---
 
