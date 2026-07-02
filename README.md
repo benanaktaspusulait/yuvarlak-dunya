@@ -1,60 +1,72 @@
-# Yuvarlak Dunya - Pompom Hills v2.1
+# Yuvarlak Dunya - Pompom Hills v3.0
 
-3-4 yas icin 7 dakika x 26 bolumluk 3D preschool seri dosyasi. Pompom Hills; yuvarlak tepeler, ponpon agaclar, kivrimli yollar, kure evler ve guvenli duygusal kesif uzerine kurulu pastel bir oyuncak dunyasidir.
+3-4 yaş için 7 dakika × 26 bölümlük 3D preschool seri dosyası. Pompom Hills; yuvarlak tepeler, ponpon ağaçlar, kıvrımlı yollar, küre evler ve güvenli duygusal keşif üzerine kurulu pastel bir oyuncak dünyasıdır.
 
 ## Production Status
 
 | Alan | Durum |
 | --- | --- |
-| Version | v2.1 |
-| Audience | 3-4 yas |
-| Format | 3D animation, 7 dakika x 26 bolum |
+| Version | v3.0 |
+| Audience | 3-4 yaş |
+| Format | 3D animation, 7 dakika × 26 bölüm |
 | License | CC-BY-NC 4.0 |
 | Scale | Kiko = 100 birim, Mimi = 80 birim, Opa = 120 birim |
 | Prompt variables | `{style}`, `{camera}`, `{lighting}` |
 
 ## Core Rule
 
-Her gorsel ve sahne su cumleyi gecmelidir: "3-4 yas cocuk bunu 2 saniyede okuyabilir, korkmaz, kimin ne hissettigini anlar."
+Her görsel ve sahne şu cümleyi geçmelidir: "3-4 yaş çocuk bunu 2 saniyede okuyabilir, korkmaz, kimin ne hissettigini anlar."
 
-## Production Files
+## Dizin Yapısı
 
-| File | Purpose |
-| --- | --- |
-| `WORLD_BIBLE_v2.1.md` | 3D stüdyo standardı dünya incili: felsefe, fizik, coğrafya, renk, materyal, hikaye kuralları |
-| `CHARACTER_REFERENCE_GUIDE_v2.1.md` | Kiko, Mimi, Opa için kilit karakter, ölçek, hareket, ses ve yasak davranış referansı |
-| `SERIES_STRUCTURE_v2.1.md` | Bölüm yapısı, karakter stratejisi, sezon planı |
-| `TECH_SPECS.md` | 3D pipeline, model, rig, render ve teslim standartları |
-| `WORLD.md` | Kısa dünya özeti |
-| `WORLD_DETAILED.md` | Mekanlar, nesneler, sezonlar, sınırlar |
-| `VISUAL_STYLE_GUIDE.md` | Şekil dili, renk, ışık, kompozisyon kuralları |
-| `CHARACTER_DESIGN_GUIDE.md` | Karakter form, oran ve ifade prensipleri |
-| `NAMING_REFINEMENT.md` | İsimlendirme ve seri dili kararları |
-| `OPENART_WORLD_PROMPT_PACK.md` | OpenArt dünya promptları |
-| `NEGATIVE_PROMPTS.md` | Midjourney, SDXL, Flux için ortak ve araç özel negative prompt listeleri |
-| `CONTRIBUTING.md` | Prompt ekleme, görsel onay ve dosya isimlendirme kuralları |
-| `CHANGELOG.md` | Sürüm geçmişi |
-| `LICENSE` | CC-BY-NC 4.0 lisansı ve ticari kullanım iletişimi |
-| `ai-prompts/VISUAL_REFERENCES.md` | Karakter, trio ve ana görsel referans promptları |
-| `ai-prompts/voice/` | Her karakter için AI voice creator ses promptları (00-global-rules + 01-13 karakter) |
-| `ai-prompts/ENVIRONMENT_PROMPTS.md` | Mekan, arka plan, hava ve dünya plate promptları |
-| `ai-prompts/TECHNICAL_SHEETS.md` | Master character sheet, turnaround, expression, scale, prop ve storyboard sheet promptları |
-| `ai-prompts/ADVANCED_PRODUCTION_PROMPTS.md` | Aksiyon, kamera, gece, renk paleti ve motion test promptları |
-| `ai-prompts/SCENE_PROMPTS.md` | Moodboard, lineup, interaction, loopable BG ve poster promptları |
-| `examples/` | Örnek PNG çıktıları ve prompt/seed/model metadata dosyaları |
-| `scenes/` | Bölüm ve sahne yazımı: beat sheet, shot plan, diyalog, prompt, animation notes |
-| `VARIABLES.md` | Tüm prompt değişkenleri, renk paleti ve boyut standartları için merkezi referans |
-| `PRODUCTION_PIPELINE.md` | OpenArt production pipeline (tek kaynak): Reference Priority, Environment/Character Lock, Scale, Camera, Reject Rules, Production Order — tüm sahneler buna referans verir |
-| `PRODUCTION_RULES.md` | Production pipeline: LOCKED kuralları (environment/character/Giant Pompom Tree), OpenArt World & Hero Pack kuralları, kamera & scale, failure modes, süreklilik ve etkileşim kuralları |
-| `AUDIO_STYLE_GUIDE.md` | Ses felsefesi, müzik, SFX ve diyalog standartları |
-| `TECH_SPECS.md` | 3D pipeline, model, rig, render ve teslim standartları |
-| `Color/COLOR_PALETTE_LOCK.md` | Kilitli renk paleti referansı |
-| `Environments/` | 24 mekan + hikaye bibleları ve mekan görsel promptları |
-| `environment/` | Mekan referans görselleri (PNG) |
-| `Props/PROP_ASSETS.md` | Prop kütüphanesi ve prop üretim promptları |
-| `characters/` | 13 karakter bible dosyası, karşılaştırma ve referans çizimler |
-| `videos/` | Intro ve short video çıktıları |
-| `ozel/` | Sosyal medya ve marka görselleri (logo, kapak) |
+```
+yuvarlak-dunya/
+├── 00-CORE/                    ← Tek kaynak master dosyalar
+│   ├── CREATIVE_BIBLE.md       ← Duygu, felsefe, çocuk gelişimi
+│   ├── VISUAL_STYLE_GUIDE.md   ← Renk, şekil, malzeme, kamera
+│   ├── WORLD_BIBLE.md          ← Dünya tanımı (tek kaynak)
+│   ├── CHARACTER_GUIDE.md      ← Karakter tanımları (tek kaynak)
+│   ├── SERIES_STRUCTURE.md     ← Bölüm yapısı, karakter stratejisi
+│   ├── PRODUCTION_PIPELINE.md  ← Üretim akışı (tek kaynak)
+│   ├── TECH_SPECS.md           ← 3D teknik standartlar
+│   ├── AUDIO_GUIDE.md          ← Ses felsefesi ve standartları
+│   ├── VARIABLES.md            ← Prompt değişkenleri
+│   └── NEGATIVE_PROMPTS.md     ← Yasak listeleri
+│
+├── 01-CHARACTERS/              ← Karakter bible dosyaları (13 karakter)
+├── 02-WORLDS/                  ← Mekan bible dosyaları (27 mekan)
+├── 03-PROPS/                   ← Prop kütüphanesi
+├── 04-SCENES/                  ← Sahne dosyaları + şablonlar
+│   ├── season-01/              ← Sezon 1 sahneleri
+│   └── _templates/             ← Şablonlar
+├── 05-AI-PROMPTS/              ← AI üretim promptları + ses dosyaları
+├── 06-ASSETS/                  ← Referans görseller
+├── 07-BRANDING/                ← Marka ve sosyal medya
+├── 08-PRODUCTION/              ← Üretim takibi (TODO, takvim, tracker)
+├── 09-ARCHIVE/                 ← Eski/arsiv dosyalar
+│
+├── README.md                   ← Bu dosya
+├── LICENSE
+├── CHANGELOG.md
+└── CONTRIBUTING.md
+```
+
+## Dosya Sorumluluk Haritası
+
+| Konu | Hangi dosyada? |
+|------|---------------|
+| Duygu ve felsefe | `00-CORE/CREATIVE_BIBLE.md` |
+| Görsel stil | `00-CORE/VISUAL_STYLE_GUIDE.md` |
+| Dünya tanımı | `00-CORE/WORLD_BIBLE.md` |
+| Karakter tanımı | `00-CORE/CHARACTER_GUIDE.md` |
+| Karakter detayları | `01-CHARACTERS/{karakter}.md` |
+| Mekan detayları | `02-WORLDS/{mekan}.md` |
+| Üretim akışı | `00-CORE/PRODUCTION_PIPELINE.md` |
+| Süreklilik kuralları | `00-CORE/CONTINUITY_RULES.md` |
+| Prompt yazma | `05-AI-PROMPTS/` |
+| YouTube yükleme | `07-BRANDING/YOUTUBE_WORKFLOW.md` |
+| Bölüm detayları | `04-SCENES/season-01/{bolum}/` |
+| Üretim takibi | `08-PRODUCTION/` |
 
 ## Prompt Variable System
 
@@ -64,49 +76,46 @@ Tüm promptlar bu üç değişkenle başlar veya biter:
 {style} {camera} {lighting}
 ```
 
-Önerilen v2.1 değerleri:
-
 | Variable | Default |
 | --- | --- |
 | `{style}` | `Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity` |
 | `{camera}` | `stable 50mm preschool camera, eye-level or gentle wide shot, clear readable staging, no Dutch angle, no fisheye, no shaky movement` |
 | `{lighting}` | `warm diffused daylight or cozy soft-blue night, soft contact shadows under 25 percent opacity, no hard rim light, no black night values` |
-| `{background}` | `transparent PNG or soft pastel gradient #F5F0EB` (opsiyonel; sadece izole prop/karakter assetlerinde) |
 
-Zorunlu üç değişken `{style}`, `{camera}`, `{lighting}`'tir. `{background}` yalnızca izole (tek obje/karakter) assetlerde eklenir. Kaynak tanımlar `VARIABLES.md` ile birebir aynıdır.
+## Quick Start
 
-## AI Workflow
+1. `00-CORE/CREATIVE_BIBLE.md` oku — projenin ruhunu anla
+2. `00-CORE/WORLD_BIBLE.md` oku — dünyayı tanı
+3. `00-CORE/CHARACTER_GUIDE.md` oku — karakterleri tanı
+4. `04-SCENES/_templates/SCENE_TEMPLATE.md` kullanarak yeni sahne yaz
+5. `05-AI-PROMPTS/` ile OpenArt'ta üret
 
-1. `ai-prompts/VISUAL_REFERENCES.md` ile Kiko, Mimi, Opa ve trio scale referanslarını üret.
-2. `ai-prompts/TECHNICAL_SHEETS.md` ile master character sheet, turnaround, expression, prop ve storyboard sheetlerini kilitle.
-3. `ai-prompts/voice/` ile her karakter için ses promptlarını üretim aracına ver.
-4. `ai-prompts/ENVIRONMENT_PROMPTS.md` ile master valley, home, playhouse ve night/day plate üret.
-5. `ai-prompts/SCENE_PROMPTS.md` ile poster, moodboard, lineup ve interaction sahneleri üret.
-6. `NEGATIVE_PROMPTS.md` içinden kullanılan araca uygun negative prompt'u ekle.
+## Üretim Akışı
 
-## Scene Writing Workflow
+```
+1. World Reference oluştur (bir kez)
+   └── 02-WORLDS/ → Hero Pack PNG'leri
+        ↓
+2. Character Reference oluştur (bir kez)
+   └── 01-CHARACTERS/ → Character PNG'leri
+        ↓
+3. Sahne yaz
+   └── 04-SCENES/season-01/ → Scene MD dosyaları
+        ↓
+4. Compact Prompt oluştur
+   └── 600-800 karakter OpenArt optimized
+        ↓
+5. OpenArt'ta üret
+   └── World PNG + Character PNG + Compact Prompt → Video
+        ↓
+6. Kontrol et
+   └── Reject kurallarını uygula
+        ↓
+7. Yayınla
+   └── YouTube'a yükle
+```
 
-1. Yeni sahne klasörü `scenes/season-01/s01e01-episode-name/` formatıyla açılır.
-2. Her sahne dosyası `01-kiko-intro.md` gibi sıra numarası ve kısa amaçla adlandırılır.
-3. Dosya içinde Production Lock, Beat Sheet, Shot Plan, Diyalog, Visual Prompt ve Safety Check bulunur.
-4. İlk intro sahneleri: `scenes/season-01/s01e01-hello-pompom-hills/`.
+---
 
-## Midjourney / SDXL / Flux Usage
-
-| Tool | Positive Prompt | Negative Prompt |
-| --- | --- | --- |
-| Midjourney v6 | Prompt + `{style}` + `{camera}` + `{lighting}` + `--style raw --s 250 --v 6.0` | `NEGATIVE_PROMPTS.md` Midjourney satırı |
-| SDXL | Prompt + `{style}` + `{camera}` + `{lighting}` | `NEGATIVE_PROMPTS.md` SDXL satırı |
-| Flux | Prompt + `{style}` + `{camera}` + `{lighting}` | `NEGATIVE_PROMPTS.md` Flux satırı |
-
-## Example Assets
-
-`examples/` klasörü prodüksiyon referansı değildir; repo içinde placeholder preview ve metadata standardını gösterir. Final görseller, aynı isimlendirme ve `.txt` metadata formatı korunarak onaylı AI çıktılarıyla değiştirilmelidir.
-
-## Visual Approval Gate
-
-Bir görsel ancak şu üç şartı geçerse ana referans olabilir:
-
-1. Karakter ölçeği doğru: Kiko 100, Mimi 80, Opa 120 ama alçak sahnelenmiş.
-2. Görsel korku, sert gölge, keskin köşe, gerçekçi doku veya yoğun detay taşımıyor.
-3. Prompt dosyasında kullanılan seed, model, variable değerleri ve onay tarihi metadata olarak kayıtlı.
+*Bu belge Pompom Hills projesinin ana giriş dosyasıdır.*
+*Son güncelleme: 2 Temmuz 2026*

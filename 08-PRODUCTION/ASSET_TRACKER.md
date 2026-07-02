@@ -1,0 +1,137 @@
+# Asset Tracker — PomPom Hills
+
+---
+
+## Amaç
+
+Tüm production assetlerinin durumunu takip eder.
+
+---
+
+## 1. Karakter Assetleri
+
+| Karakter | Model | Rig | Textür | Lookdev | World Ref | Durum |
+|----------|-------|-----|--------|---------|-----------|-------|
+| Kiko | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Mimi | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Opa | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Arda | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Noah | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Luca | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Aiko | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Amara | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Sofia | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Freya | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Tillo | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Mirnik | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Mimo | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+
+---
+
+## 2. Mekan Assetleri (World Reference)
+
+| Mekan | Hero View | Right View | Back View | Top View | Bible | Durum |
+|-------|-----------|------------|-----------|----------|-------|-------|
+| Central Square | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Cloud Hill | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Kiko's Home | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Sun Hill | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Mimi's Burrow | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Opa's Tree | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Tillo's Garden | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Lulu's Greenhouse | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Poppy's Bakery | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Benny's Playground | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Tillo's Treehouse | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Milo's Pond | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Rosie's Rose Garden | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Lily's Lavender Farm | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Rainbow Bridge | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Friendship Meadow | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Butterfly Meadow | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Little Forest | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Rainbow Creek | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Wish Pond | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Camping Grove | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Story Circle | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Art Corner | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Adventure Trail | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Flower Hill | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Tree Hill | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+| Stone Hill | 🟢 Hazır | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🟡 Kısmi |
+
+---
+
+## 3. Prop Assetleri
+
+| Prop | Model | Textür | Prompt | Durum |
+|------|-------|--------|--------|-------|
+| Yellow Ball | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Lost Toy | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Flower Pot | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Umbrella | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Blanket | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Snack Basket | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Building Blocks | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Map | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Binoculars | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Sketchbook | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+
+---
+
+## 4. Ses Assetleri
+
+| Asset | Durum |
+|-------|-------|
+| Global Rules (00-global-rules.md) | 🟢 Hazır |
+| Kiko Voice (01-kiko.md) | 🟢 Hazır |
+| Mimi Voice (02-mimi.md) | 🟢 Hazır |
+| Opa Voice (03-opa.md) | 🟢 Hazır |
+| Arda Voice (04-arda.md) | 🟢 Hazır |
+| Noah Voice (05-noah.md) | 🟢 Hazır |
+| Aiko Voice (06-aiko.md) | 🟢 Hazır |
+| Amara Voice (07-amara.md) | 🟢 Hazır |
+| Sofia Voice (08-sofia.md) | 🟢 Hazır |
+| Luca Voice (09-luca.md) | 🟢 Hazır |
+| Freya Voice (10-freya.md) | 🟢 Hazır |
+| Tillo Voice (11-tillo.md) | 🟢 Hazır |
+| Mirnik Voice (12-mirnik.md) | 🟢 Hazır |
+| Mimo Voice (13-mimo.md) | 🟢 Hazır |
+| SFX Kütüphanesi | 🔴 Bekliyor |
+| Müzik Parçaları | 🔴 Bekliyor |
+
+---
+
+## 5. Durum Kodları
+
+| Kod | Anlam |
+|-----|-------|
+| 🟢 Hazır | Asset hazır ve kullanıma uygun |
+| 🟡 Kısmi | Kısmen hazır, eksik var |
+| 🟠 Üretimde | Üretiliyor |
+| 🔴 Bekliyor | Henüz başlanmadı |
+| 🔵 Onaylandı | Onaylanmış ve kilitlenmiş |
+
+---
+
+## 6. Öncelik Sırası
+
+### Yüksek Öncelik (Hemen)
+1. Ana trio karakter modelleri (Kiko, Mimi, Opa)
+2. Ana mekan world reference'ları (Central Square, Opa's Tree, Flower Hill)
+3. Ana trio ses dosyaları
+
+### Orta Öncelik (Bu Ay)
+4. Yan karakter modelleri (Arda, Noah, Luca)
+5. İkincil mekan world reference'ları
+6. Prop modelleri
+
+### Düşük Öncelik (Sonraki Ay)
+7. Kalan karakter modelleri
+8. Kalan mekan world reference'ları
+9. SFX ve müzik kütüphanesi
+
+---
+
+*Bu dosya asset takibi için tek kaynaktır.*
+*Son güncelleme: 2 Temmuz 2026*
