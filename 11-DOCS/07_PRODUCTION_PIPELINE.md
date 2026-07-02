@@ -154,11 +154,17 @@ Continue the action naturally from @image1.
 
 ---
 
-## 13. Publishing
+## 13. Subtitle Workflow
+
+Subtitle creation and upload rules are defined in `SUBTITLE_WORKFLOW.md`.
+
+---
+
+## 14. Publishing
 
 - Made for Kids
 - Comments off
-- Subtitles (TR + EN)
+- Subtitles uploaded (EN + TR + ES)
 - Playlist added
 
 ---

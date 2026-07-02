@@ -1,5 +1,9 @@
 # Pompom Hills — Production Pipeline (Gold Master)
 
+> **⚠️ DEPRECATED** — This file is a legacy reference. The canonical production pipeline is now:
+> `11-DOCS/07_PRODUCTION_PIPELINE.md`
+> Only use this file for detailed prompt templates and OpenArt workflow specifics not covered in the canonical bible.
+
 Bu dosya, tüm sahnelerin uyması gereken **tek kaynak** production pipeline'ıdır.
 OpenArt bir görsel üretici değil, **prodüksiyon motorudur**. Her sahne yalnızca mevcut,
 onaylı dünyaya karakter/prop yerleştirir.

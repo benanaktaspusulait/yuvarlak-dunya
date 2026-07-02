@@ -24,7 +24,7 @@
 | YouTube workflow | 1 | 1 | ✅ |
 | Thumbnail template | 1 | 1 | ✅ |
 | Metadata | 27 | 27 | ✅ |
-| SRT dosyaları | 52 | 52 | ✅ |
+| SRT dosyaları | 96 | 96 | ✅ |
 | COPPA checklist | 1 | 1 | ✅ |
 | Child safety rules | 1 | 1 | ✅ |
 | Budget tracker | 1 | 1 | ✅ |
@@ -89,7 +89,7 @@
 
 ### GÖREV 12: Yayın/Metadata ✅
 - [x] 27 metadata dosyası (TR+EN)
-- [x] 52 SRT dosyası (26 TR + 26 EN)
+- [x] 96 SRT dosyası (26×3 EN/TR/ES + 6×3 intro)
 
 ### GÖREV 13: Uyumluluk ✅
 - [x] COPPA checklist
@@ -122,7 +122,7 @@
 |-----|------|
 | _COMPLETED dosyaları | 329 |
 | Metadata dosyaları | 27 |
-| SRT dosyaları | 52 |
+| SRT dosyaları | 96 |
 | Script dosyaları | 3 |
 | GitHub Actions | 1 |
 | **Toplam yeni dosya** | **412+** |

@@ -1,9 +1,13 @@
 # Yuvarlak Dunya - Pompom Hills Character Reference Guide v2.1
 
+> **⚠️ DEPRECATED** — This file is a legacy reference. The canonical character bible is now:
+> `11-DOCS/04_CHARACTER_BIBLE.md` (v3.0)
+> Only use this file for technical specifications (scale, colour, animation values) not covered in the canonical bible.
+
 | Alan | Kilit Standart |
 | --- | --- |
 | Seri | Yuvarlak Dunya - Pompom Hills |
-| Format | 3D animasyon, 7 dakika x 26 bolum |
+| Format | 3D animasyon, 60 saniye x 26 bolum |
 | Hedef yas | 3-4 yas |
 | Olcu sistemi | Kiko toplam boy = 100 birim |
 | Ana trio | Kiko, Mimi, Opa |

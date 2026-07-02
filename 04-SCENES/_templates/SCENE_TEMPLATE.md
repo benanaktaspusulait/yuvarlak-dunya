@@ -11,7 +11,7 @@ Bu şablonu kullanarak yeni sahne dosyası oluşturun.
 ## Template
 
 ```markdown
-# Scene [NUMARA] — [KARAKTER] [AÇIKLAMA] v2.1
+# Scene [NUMARA] — [KARAKTER] [AÇIKLAMA] v3.0
 
 ## Production Lock
 

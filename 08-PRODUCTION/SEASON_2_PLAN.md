@@ -13,7 +13,7 @@ Sezon 2 için potansiyel bölüm havuzunu ve yeni karakter/mekan planlarını ol
 | Alan | Değer |
 |------|-------|
 | Toplam bölüm | 26 |
-| Bölüm süresi | 7 dakika |
+| Bölüm süresi | 60 saniye |
 | Hedef yaş | 3-4 |
 | Yeni karakter | 2-3 |
 | Yeni mekan | 5-8 |

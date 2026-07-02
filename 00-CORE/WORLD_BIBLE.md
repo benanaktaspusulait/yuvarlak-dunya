@@ -1,6 +1,10 @@
 # Pompom Hills World Bible
 Version 2.1
 
+> **⚠️ DEPRECATED** — This file is a legacy reference. The canonical world bible is now:
+> `11-DOCS/05_WORLD_BIBLE.md`
+> Only use this file for detailed world specifications not covered in the canonical bible.
+
 ---
 
 # Overview

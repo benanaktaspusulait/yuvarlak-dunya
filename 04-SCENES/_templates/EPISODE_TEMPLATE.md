@@ -11,7 +11,7 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 ## Template
 
 ```markdown
-# S[SEZON]E[BÖLÜM] — [BÖLÜM ADI] v2.1
+# S[SEZON]E[BÖLÜM] — [BÖLÜM ADI] v3.0
 
 ---
 
@@ -19,7 +19,7 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 60 saniye (4 sahne × 15 sn) veya 7 dakika |
+| Süre | 60 saniye (4 sahne × 15 sn) |
 | Hedef yaş | 3-4 |
 | Ana duygu | [Duygu] |
 | Ana tema | [Tema] |
@@ -108,7 +108,7 @@ Her bölüm klasörü (`04-SCENES/season-NN/sNNeNN-slug/`) şu dosyaları içerm
 ---
 
 
-- Her bölüm 4 sahne × 15 saniye = 60 saniye (kısa format) veya 7 dakika (uzun format).
+- Her bölüm 4 sahne × 15 saniye = 60 saniye.
 - Maksimum 3 karakter.
 - Tek mekan tercih edilir.
 - Tek duygusal hedef.

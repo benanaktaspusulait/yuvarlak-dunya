@@ -7,8 +7,8 @@
 | Alan | Değer |
 |------|-------|
 | Toplam bölüm | 26 |
-| Bölüm süresi | 7 dakika |
-| Toplam süre | 182 dakika |
+| Bölüm süresi | 60 saniye |
+| Toplam süre | 26 dakika |
 | Hedef yaş | 3-4 |
 | Format | 3D animasyon |
 

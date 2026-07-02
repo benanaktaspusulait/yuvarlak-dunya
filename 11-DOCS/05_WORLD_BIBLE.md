@@ -1,5 +1,7 @@
 # 05 — World Bible
 
+> *Source of truth for: World design, atmosphere, production status.*
+
 ---
 
 ## Overview
@@ -22,6 +24,11 @@ Pompom Hills is a gentle preschool world where everything is round, safe, and en
 | **Characters commonly appearing** | Kiko, Mimi, Opa, Noah, Arda, Luca |
 | **Reusable assets** | Tree, stones, houses, paths, flowers |
 | **Production status** | Production Ready |
+| **Supports episodes** | 16 of 26 |
+| **Best character combinations** | Kiko+Mimi, Kiko+Noah+Arda, All six |
+| **Camera presets** | Wide establishing, medium group, close-up on tree |
+| **Typical emotional tone** | Communal joy, shared discovery |
+| **Production complexity** | Medium (many props, multiple characters) |
 
 ### Opa's Tree
 
@@ -35,6 +42,11 @@ Pompom Hills is a gentle preschool world where everything is round, safe, and en
 | **Characters commonly appearing** | Opa, Kiko, Arda |
 | **Reusable assets** | Tree, perch, platforms, surrounding grass |
 | **Production status** | Production Ready |
+| **Supports episodes** | 5 of 26 |
+| **Best character combinations** | Kiko+Opa, Arda+Opa, Kiko+Mimi+Opa |
+| **Camera presets** | Low angle (child's view of tree), close-up on perch, medium on characters |
+| **Typical emotional tone** | Warm wisdom, gentle guidance |
+| **Production complexity** | Low (focused set, few characters) |
 
 ### Opa's Tree (Night)
 
@@ -48,6 +60,11 @@ Pompom Hills is a gentle preschool world where everything is round, safe, and en
 | **Characters commonly appearing** | Opa, Luca, Kiko |
 | **Reusable assets** | Same as Opa's Tree + night elements |
 | **Production status** | Production Ready |
+| **Supports episodes** | 1 of 26 |
+| **Best character combinations** | Kiko+Opa, Luca+Opa |
+| **Camera presets** | Wide night establishing, medium on characters under stars |
+| **Typical emotional tone** | Quiet wonder, peaceful closeness |
+| **Production complexity** | Low (same set, different lighting) |
 
 ### Stone Hill
 
@@ -61,6 +78,11 @@ Pompom Hills is a gentle preschool world where everything is round, safe, and en
 | **Characters commonly appearing** | Luca, Kiko |
 | **Reusable assets** | Stones, paths, grass |
 | **Production status** | Production Ready |
+| **Supports episodes** | 2 of 26 |
+| **Best character combinations** | Kiko+Luca, Kiko+Mimi |
+| **Camera presets** | Wide hill establishing, close-up on stone discovery |
+| **Typical emotional tone** | Curiosity, gentle adventure |
+| **Production complexity** | Low (minimal props) |
 
 ---
 
@@ -70,21 +92,41 @@ Pompom Hills is a gentle preschool world where everything is round, safe, and en
 - **Status:** Planned
 - **Purpose:** Nature discoveries
 - **Atmosphere:** Magical, gentle
+- **Supports episodes:** Estimated 3-5
+- **Best character combinations:** Kiko+Mimi, Kiko+Luca
+- **Camera presets:** Path establishing, canopy close-up, character-in-forest medium
+- **Typical emotional tone:** Wonder, exploration
+- **Production complexity:** Medium (foliage variety)
 
 ### Butterfly Meadow
 - **Status:** Planned
-- **Purpose** Beauty and wonder
+- **Purpose:** Beauty and wonder
 - **Atmosphere:** Colourful, peaceful
+- **Supports episodes:** Estimated 2-3
+- **Best character combinations:** Kiko+Mimi, Kiko+Aiko
+- **Camera presets:** Wide meadow, close-up on butterflies, character-with-nature
+- **Typical emotional tone:** Awe, gentle beauty
+- **Production complexity:** Medium (butterfly animation)
 
 ### Rainbow Bridge
 - **Status:** Planned
 - **Purpose:** Wishes and magic
 - **Atmosphere:** Dreamy, hopeful
+- **Supports episodes:** Estimated 2-3
+- **Best character combinations:** Kiko+Mimi+Opa, Kiko+Noah
+- **Camera presets:** Bridge establishing, wide dream sequence, close-up on wish
+- **Typical emotional tone:** Hope, gentle magic
+- **Production complexity:** High (rainbow effects)
 
 ### Cloud Hill
 - **Status:** Planned
 - **Purpose:** Weather and sky
 - **Atmosphere:** Elevated, calm
+- **Supports episodes:** Estimated 2-3
+- **Best character combinations:** Kiko+Luca, Kiko+Opa
+- **Camera presets:** Low angle (looking up), wide sky, close-up on clouds
+- **Typical emotional tone:** Elevated wonder, peacefulness
+- **Production complexity:** Medium (cloud/sky variation)
 
 ---
 
@@ -97,6 +139,20 @@ Pompom Hills is a gentle preschool world where everything is round, safe, and en
 - Flowers bloom all year
 - Magic is subtle
 - Kindness is stronger than magic
+
+---
+
+## World Selection Guide
+
+When assigning a world to an episode, consider:
+
+| Question | Why It Matters |
+|----------|---------------|
+| How many episodes has this world supported? | Avoid overusing any single world |
+| Which characters fit this world best? | Match character energy to world atmosphere |
+| What is the emotional tone of the episode? | World atmosphere should support the feeling |
+| What props are available? | Reusable assets reduce production cost |
+| What camera angles work best? | Predefined presets speed up production |
 
 ---
 

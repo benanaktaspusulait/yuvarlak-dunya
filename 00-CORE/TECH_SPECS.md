@@ -9,7 +9,7 @@ Bu dosya, **Pompom Hills** 3D animasyon serisinin üretim standardıdır. Bu dos
 | Seri adı | Pompom Hills |
 | Format | 3D animasyon serisi |
 | Hedef yaş | 3-4 |
-| Bölüm süresi | 7 dakika |
+| Bölüm süresi | 60 saniye |
 | Sezon 1 | 26 bölüm |
 | Görsel stil | Soft 3D cartoon animation, rounded shapes, pastel colours, warm daylight, gentle shadows, toy-like appearance |
 | Üretim yaklaşımı | AI destekli konsept + kontrollü 3D modelleme + geleneksel rig/animasyon/lookdev |
@@ -24,7 +24,7 @@ Bu dosya, **Pompom Hills** 3D animasyon serisinin üretim standardıdır. Bu dos
 | Çalışma çözünürlüğü | 1920x1080, 16:9 |
 | Pitch frame opsiyonu | 3840x2160 still frame |
 | FPS | 24 fps |
-| Frame count / 7 dk | 10,080 frame |
+| Frame count / 60 sn | 1,440 frame |
 | Ses miks hedefi | Stereo, 48 kHz, 24-bit WAV |
 | Video teslim | ProRes 422 HQ veya H.264 review export |
 | Still teslim | PNG, 16-bit tercih edilir; JPG sadece review için |
@@ -353,7 +353,7 @@ Yatırımcı ve stüdyo fiyatlaması için ilk teknik test tek bir kısa sahne o
 | Teknik test | Scale, rig, shader, lighting, render time |
 | Çıktı | 1080p MP4 review + 3 still frame + render time report |
 
-**Kilit kural:** Pilot shot olmadan 26x7 dk bütçe konuşulmaz. Kağıt üstündeki fiyat sahada patlar.
+**Kilit kural:** Pilot shot olmadan 26x60 sn bütçe konuşulmaz. Kağıt üstündeki fiyat sahada patlar.
 
 ## 20. Render Performance Targets
 
@@ -376,7 +376,7 @@ Bu dosya tek başına üretimi tamamlamaz. Aşağıdaki dosyalar yazılmadan 3D 
 | `RIG_REQUIREMENTS.md` | Body/facial rig, control set, deformation testleri |
 | `SHADING_GUIDE.md` | Soft matte look, material library, render response |
 | `ENVIRONMENT_SCALE_GUIDE.md` | Ev, ağaç, path, hill ve interior ölçüleri |
-| `SHOT_LIST_PILOT.md` | İlk 7 dakikanın asset/shot/bütçe kırılımı |
+| `SHOT_LIST_PILOT.md` | İlk 60 saniyenin asset/shot/bütçe kırılımı |
 | `PIPELINE_DIAGRAM.md` | AI concept -> model -> rig -> layout -> animation -> lighting -> final akışı |
 | `PRODUCTION_SCHEDULE.md` | 26 bölüm sezon takvimi ve dependency planı |
 | `BUDGET_BREAKDOWN.md` | Asset, rig, shot, render, ses, edit ve contingency bütçesi |

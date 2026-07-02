@@ -90,7 +90,7 @@ Her bölüm yayın öncesi bu kontrol listesinden geçirilir.
 
 ## 6. Teknik Kontrol
 
-- [ ] Süre doğru mu? (60 saniye veya 7 dakika)
+- [ ] Süre doğru mu? (60 saniye)
 - [ ] Çözünürlük doğru mu? (1920x1080, 16:9)
 - [ ] FPS doğru mu? (24 fps)
 - [ ] Ses formatı doğru mu? (Stereo, 48 kHz, 24-bit)

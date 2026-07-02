@@ -498,7 +498,7 @@ A warm hug. A soft voice. A gentle discovery. A safe ending. The toddler should 
 
 ## 12. Standard Episode Formula
 
-### Base Formula (7 minutes)
+### Base Formula (60 seconds)
 
 | Section | Duration | Description |
 |---------|----------|-------------|

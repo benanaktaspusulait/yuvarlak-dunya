@@ -60,6 +60,18 @@ Release order:
 
 ---
 
+## Subtitle Rule
+
+> **Subtitles are first-class production assets. Every published episode must include professionally timed EN subtitles. Additional language subtitles are added as the library grows.**
+
+- EN subtitles: required for every episode
+- TR subtitles: required for every episode
+- ES subtitles: required for every episode
+- Format: SRT + VTT for every language
+- Quality: follow `12_SUBTITLE_STYLE_GUIDE.md`
+
+---
+
 ## Release Philosophy
 
 - Episodes in production order

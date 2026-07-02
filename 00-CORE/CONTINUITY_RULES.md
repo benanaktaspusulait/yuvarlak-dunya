@@ -24,7 +24,7 @@ Karakter görünümü her shot'ta aynı kalır.
 
 Karakter asla yeniden tasarlanmaz.
 
-Referans: `CHARACTER_GUIDE.md`
+Referans: `11-DOCS/04_CHARACTER_BIBLE.md`
 
 ---
 
@@ -42,7 +42,7 @@ Mekan her shot'ta aynı kalır.
 
 Mekan asla yeniden tasarlanmaz.
 
-Referans: `WORLD_BIBLE.md`, `02-WORLDS/`
+Referans: `11-DOCS/05_WORLD_BIBLE.md`, `02-WORLDS/`
 
 ---
 

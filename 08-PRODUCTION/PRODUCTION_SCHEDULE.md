@@ -8,7 +8,7 @@
 |------|-------|
 | Sezon | 1 |
 | Toplam bölüm | 26 |
-| Bölüm süresi | 60 saniye (kısa) veya 7 dakika (uzun) |
+| Bölüm süresi | 60 saniye |
 | Hedef yaş | 3-4 |
 | Format | 3D animasyon |
 
@@ -23,7 +23,7 @@
 - [ ] Master prompt'ları test et
 
 ### Faz 2: Pilot Üretim (Hafta 3-4)
-- [ ] S01E01'i üret (7 dakika, 15 sahne)
+- [ ] S01E01'i üret (60 saniye, 4 sahne)
 - [ ] S01E11'i üret (60 saniye, 4 sahne) — ✅ Tamamlandı
 - [ ] İlk 2 bölümü yayınla
 - [ ] Geri bildirim topla

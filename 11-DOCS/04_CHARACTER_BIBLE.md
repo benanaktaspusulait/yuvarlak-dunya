@@ -1611,19 +1611,41 @@ If a character's change would make the audience say "of course — that's so the
 
 ## Production Status
 
-| Character | Intro Complete | Story Ready | Animation Ready | Voice Established | Needs Additional Assets |
+| Character | Intro | Story | Animation | Voice | Facebook Story | Merch | Sticker | Emoji | Status |
+|-----------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Kiko** | ✅ | ✅ | ✅ | ✅ | Planned | Planned | Planned | Planned | Production Ready |
+| **Mimi** | ✅ | ✅ | ✅ | ✅ | Planned | Planned | Planned | Planned | Production Ready |
+| **Opa** | ✅ | ✅ | ✅ | ✅ | Planned | Planned | Planned | Planned | Production Ready |
+| **Luca** | ✅ | ✅ | ✅ | ✅ | Planned | Planned | Planned | Planned | Production Ready |
+| **Noah** | ✅ | ✅ | ✅ | ✅ | Planned | Planned | Planned | Planned | Production Ready |
+| **Arda** | ✅ | ✅ | ✅ | ✅ | Planned | Planned | Planned | Planned | Production Ready |
+| **Aiko** | ❌ | ❌ | ❌ | ❌ | — | — | — | — | Full design needed |
+| **Sofia** | ❌ | ❌ | ❌ | ❌ | — | — | — | — | Full design needed |
+| **Tillo** | ❌ | ❌ | ❌ | ❌ | — | — | — | — | Full design needed |
+| **Mirnik** | ❌ | ❌ | ❌ | ❌ | — | — | — | — | Full design needed |
+| **Mimo** | ❌ | ❌ | ❌ | ❌ | — | — | — | — | Full design needed |
+
+### Social Media Readiness
+
+| Character | YouTube Intro | Facebook Story | Instagram Reel | TikTok | Sticker Pack |
 |-----------|:-:|:-:|:-:|:-:|:-:|
-| **Kiko** | Yes | Yes | Yes | Yes | No |
-| **Mimi** | Yes | Yes | Yes | Yes | No |
-| **Opa** | Yes | Yes | Yes | Yes | No |
-| **Luca** | Yes | Yes | Yes | Yes | No |
-| **Noah** | Yes | Yes | Yes | Yes | No |
-| **Arda** | Yes | Yes | Yes | Yes | No |
-| **Aiko** | No | No | No | No | Full design needed |
-| **Sofia** | No | No | No | No | Full design needed |
-| **Tillo** | No | No | No | No | Full design needed |
-| **Mirnik** | No | No | No | No | Full design needed |
-| **Mimo** | No | No | No | No | Full design needed |
+| **Kiko** | ✅ | Planned | Planned | Planned | Planned |
+| **Mimi** | ✅ | Planned | Planned | Planned | Planned |
+| **Opa** | ✅ | Planned | Planned | Planned | Planned |
+| **Luca** | ✅ | Planned | Planned | Planned | Planned |
+| **Noah** | ✅ | Planned | Planned | Planned | Planned |
+| **Arda** | ✅ | Planned | Planned | Planned | Planned |
+
+### Merchandising Readiness
+
+| Character | Plush | Apparel | Stationery | Figurine | Digital |
+|-----------|:-:|:-:|:-:|:-:|:-:|
+| **Kiko** | Planned | Planned | Planned | Planned | Planned |
+| **Mimi** | Planned | Planned | Planned | Planned | Planned |
+| **Opa** | Planned | Planned | Planned | Planned | Planned |
+| **Luca** | Planned | Planned | Planned | Planned | Planned |
+| **Noah** | Planned | Planned | Planned | Planned | Planned |
+| **Arda** | Planned | Planned | Planned | Planned | Planned |
 
 ---
 

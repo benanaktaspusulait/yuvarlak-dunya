@@ -53,7 +53,7 @@
 |--------|-------|
 | Toplam bölüm | 26 |
 | Sahne dosyası yazılan | 11 (%42.3) |
-| Üretilen | 1 (%3.8) |
+| Üretilen | 2 (%7.7) |
 | Yayınlanan | 0 |
 | Henüz planlanmayan | 15 |
 
