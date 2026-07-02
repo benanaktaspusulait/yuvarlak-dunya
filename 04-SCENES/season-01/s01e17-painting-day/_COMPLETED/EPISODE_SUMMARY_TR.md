@@ -4,11 +4,11 @@
 
 ## Konu
 
-Sofia is painting at Art Corner. Kiko joins her. They paint together. Sofia paints a tree. Kiko paints a flower. They see the world differently. They learn that's beautiful.
+Sofia Art Corner'da resim yapıyor. Kiko katılır. Birlikte resim yaparlar. Sofia bir ağaç çizer. Kiko bir çiçek çizer. Dünyayı farklı görüyorlar. Bunu güzel olduğunu öğrenirler.
 
 ## Öğrenme
 
-Everyone sees the world differently and that's beautiful
+Herkes dünyayı farklı görür ve bu güzeldir
 
 ## Karakterler
 

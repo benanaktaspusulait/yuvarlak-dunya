@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko visits Opa's tree. She is excited. Opa asks her to be quiet. They listen. They hear birds. They hear leaves. They hear the wind. Kiko learns that silence can be beautiful.
+Kiko Opa'nın ağacını ziyaret eder. Heyecanlıdır. Opa sessiz olmasını söyler. Dinlerler. Kuş sesleri duyarlar. Yaprak hışırtısı duyarlar. Rüzgar sesi duyarlar. Kiko sessizliğin güzel olabileceğini öğrenir.
 
 ## Öğrenme
 
-Sometimes the best thing is to be quiet and listen
+Bazen en iyi şey sessiz olmak ve dinlemektir
 
 ## Karakterler
 

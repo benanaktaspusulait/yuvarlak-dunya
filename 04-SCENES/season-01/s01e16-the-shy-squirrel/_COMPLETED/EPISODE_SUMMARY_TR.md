@@ -4,11 +4,11 @@
 
 ## Konu
 
-Aiko finds a shy squirrel in Little Forest. The squirrel hides. Aiko waits patiently. Kiko joins. They sit quietly. The squirrel comes closer. They learn that patience helps shy friends feel safe.
+Aiko Little Forest'te utangaç bir sincap bulur. Sincap saklanır. Aiko sabırla bekler. Kiko katılır. Birlikte sessizce otururlar. Sincap yaklaşır. Sabırlı olmanın utangaç arkadaşları güvende hissettirdiğini öğrenirler.
 
 ## Öğrenme
 
-Feeling shy is okay
+Sabırlı olmak utangaç arkadaşları güvende hissettirir
 
 ## Karakterler
 

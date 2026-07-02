@@ -4,11 +4,11 @@
 
 ## Konu
 
-Mimi keeps yawning. He is very sleepy. Kiko notices. She tries to find a comfortable spot for Mimi to rest. They try different places — too windy, too bright, too noisy. Finally they find a soft sunny spot under a tree. Mimi falls asleep. Kiko watches over him.
+Mimi durmadan esner. Çok uykuludur. Kiko bunu fark eder. Mimi'ye rahat bir yer ararlar. Farklı yerler denerler — çok rüzgarlı, çok aydınlık, çok gürültülü. Sonunda ağacın altında yumuşak güneşli bir yer bulurlar. Mimi uyur. Kiko ona bakar.
 
 ## Öğrenme
 
-Noticing when a friend needs rest is kind
+Arkadaşının dinlenmeye ihtiyacı olduğunu fark etmek güzel bir şeydir
 
 ## Karakterler
 
@@ -16,4 +16,4 @@ Mimi, Kiko
 
 ## Mekan
 
-Various → Tree shade
+Çeşitli mekanlar → Ağaç altı

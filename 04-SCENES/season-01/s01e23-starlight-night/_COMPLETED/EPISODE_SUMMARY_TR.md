@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko and Opa sit under the stars. They count stars. They make constellations. Kiko feels sleepy. Opa hums a lullaby. Kiko falls asleep under the starlight.
+Kiko ve Opa yıldızların altında otururlar. Yıldızları sayarlar. Kiko uykulanır. Opa ninni mırıldanır. Kiko yıldız ışığında uykuya dalar.
 
 ## Öğrenme
 
-Night is beautiful and safe
+Gece güzeldir ve güvendedir
 
 ## Karakterler
 
@@ -16,4 +16,4 @@ Kiko, Opa
 
 ## Mekan
 
-Central Square (night)
+Central Square (gece)

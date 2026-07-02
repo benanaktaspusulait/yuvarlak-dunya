@@ -4,11 +4,11 @@
 
 ## Konu
 
-Noah discovers trees that make music when the wind blows. Arda joins. They dance to the music. They learn that music is everywhere if you listen.
+Noah rüzgar estiğinde müzik yapan ağaçlar keşfeder. Arda katılır. Birlikte müziğe dans ederler. Müziğin her yerde olabileceğini öğrenirler.
 
 ## Öğrenme
 
-Music is everywhere if you listen
+Müzik her yerdedir, dinlersen duyarsın
 
 ## Karakterler
 
@@ -16,4 +16,4 @@ Noah, Arda
 
 ## Mekan
 
-Music Hill (new location)
+Music Hill

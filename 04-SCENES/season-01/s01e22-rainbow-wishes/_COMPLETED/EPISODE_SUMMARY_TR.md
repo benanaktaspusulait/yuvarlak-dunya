@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko and Mimi see a rainbow at Rainbow Bridge. They make wishes. Kiko wishes for more adventures. Mimi wishes for more friends. They smile. Their wishes feel warm.
+Kiko ve Mimi Rainbow Bridge'de gökkuşağı görürler. Dilek dilerler. Kiko daha fazla macera diler. Mimi daha fazla arkadaş diler. Gülümserler. Dilekleri sıcak hissederler.
 
 ## Öğrenme
 
-Wishing together is special
+Birlikte dilek dilemek özeldir
 
 ## Karakterler
 

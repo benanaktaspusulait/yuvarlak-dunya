@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko wakes up and sees colours everywhere. She points at red flowers, blue sky, yellow sun, green grass. Mimi joins her. They find purple lavender at Rosie's Garden. They make a rainbow together at Central Square.
+Kiko uyanır ve her yerde renkler görür. Kırmızı çiçekler, mavi gökyüzü, sarı güneş, yeşil çimler. Mimi yanına gelir. Birlikte renkleri keşfederler. Rosie's Garden'da mor lavanta bulurlar. Central Square'da birlikte gökkuşağı yaparlar.
 
 ## Öğrenme
 
-Colours are everywhere and they are beautiful
+Renkler her yerdedir ve çok güzeldir
 
 ## Karakterler
 

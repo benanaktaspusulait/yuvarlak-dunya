@@ -4,11 +4,11 @@
 
 ## Konu
 
-A soft wind blows through Pompom Hills. Kiko feels it on her face. Flowers sway. Trees move. Mimi's ears flap. They play with the wind — chasing leaves, feeling the breeze, watching clouds drift.
+Pompom Hills üzerinden yumuşak bir eser. Kiko yüzünde hisseder. Çiçekler sallanır, ağaçlar hareket eder, Mimi'nin kulakları flap flap eder. Rüzgarla oynarlar — yaprakları kovalarlar, esintiyi hissederler, bulutları izlerler.
 
 ## Öğrenme
 
-Nature's gentle movements are beautiful and fun
+Doğanın yumuşak hareketleri güzeldir ve eğlencelidir
 
 ## Karakterler
 
@@ -16,4 +16,4 @@ Kiko, Mimi
 
 ## Mekan
 
-Pompom Hills general
+Pompom Hills genel

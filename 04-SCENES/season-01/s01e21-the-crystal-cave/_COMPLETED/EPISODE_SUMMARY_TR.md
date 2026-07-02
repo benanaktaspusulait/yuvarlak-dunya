@@ -4,11 +4,11 @@
 
 ## Konu
 
-Luca discovers a crystal cave on Stone Hill. He is excited but nervous. Kiko joins him. They enter together. Inside, crystals shine. They are amazed. They learn that new adventures are exciting.
+Luca Stone Hill'de kristal bir mağara keşfeder. Heyecanlı ama tedirgindir. Kiko katılır. Birlikte girerler. İçeride kristaller parıldar. Hayran kalırlar. Yeni maceraların heyecanlı olabileceğini öğrenirler.
 
 ## Öğrenme
 
-Trying new things can be exciting
+Yeni şeyleri denemek heyecanlı olabilir
 
 ## Karakterler
 
@@ -16,4 +16,4 @@ Luca, Kiko
 
 ## Mekan
 
-Stone Hill (new location)
+Stone Hill

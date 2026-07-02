@@ -4,11 +4,11 @@
 
 ## Konu
 
-Luca finds a perfectly round stone on Stone Hill. He is excited. He shows it to Kiko. They find more round stones. They stack them. The stack falls. They laugh and try again. They build a small stone tower together.
+Luca Stone Hill'de mükemmel yuvarlak bir taş bulur. Çok heyecanlanır. Kiko'ya gösterir. Daha fazla yuvarlak taş bulurlar. Üst üste dizerler. Düşer. Gülerler ve tekrar denerler. Birlikte küçük bir taş kulesi yaparlar.
 
 ## Öğrenme
 
-New discoveries are exciting when shared
+Yeni keşifler paylaşınca daha heyecanlıdır
 
 ## Karakterler
 

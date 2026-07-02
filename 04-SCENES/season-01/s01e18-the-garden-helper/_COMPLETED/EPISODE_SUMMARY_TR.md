@@ -4,11 +4,11 @@
 
 ## Konu
 
-Tillo is gardening. Kiko wants to help. They water flowers together. They pull gentle weeds. They talk to plants. The plants grow taller. They are proud.
+Tillo bahçeyle uğraşıyor. Kiko yardım etmek istiyor. Birlikte çiçekleri sularlar. Bitkilerle konuşurlar. Bitkiler daha uzun büyür. Gururlanırlar.
 
 ## Öğrenme
 
-Plants need care and love
+Bitkilerin bakıma ve sevgiye ihtiyacı vardır
 
 ## Karakterler
 

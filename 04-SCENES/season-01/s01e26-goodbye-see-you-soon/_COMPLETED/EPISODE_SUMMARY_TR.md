@@ -4,15 +4,15 @@
 
 ## Konu
 
-All friends gather at Central Square. They say goodbye to each other. They hug. They wave. They promise to meet again. The sun sets. Stars appear. Everyone goes home happy.
+Tüm arkadaşlar Central Square'da toplanırlar. Birbirlerine hoşça derler. Sarılırlar. El sallarlar. Yine görüşeceklerine söz verirler. Güneş batar. Yıldızlar çıkar. Herkes evine mutlu döner.
 
 ## Öğrenme
 
-Saying goodbye is okay because friends always come back
+Hoşça demek tamamdır çünkü arkadaşlar her zaman geri döner
 
 ## Karakterler
 
-Kiko, Mimi, Opa, All characters
+Kiko, Mimi, Opa, Tüm karakterler
 
 ## Mekan
 

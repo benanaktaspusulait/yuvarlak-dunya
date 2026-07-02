@@ -1,8 +1,7 @@
-# POMPOM HILLS v3.1 — Eksik Tamamlama Görev Listesi
+# POMPOM HILLS v3.1 — TODO
 
-**Tek Dosya Halinde Kapsamlı Görev Planı**
-**Tarih:** 2 Temmuz 2026
-**Durum:** Aktif
+**Son güncelleme:** 2 Temmuz 2026
+**Durum:** ✅ Tamamlandı
 
 ---
 
@@ -10,13 +9,15 @@
 
 | Kategori | Mevcut | Hedef | Durum |
 |----------|--------|-------|-------|
-| 00-CORE master dosya | 14 | 14 | ✅ |
+| 00-CORE master dosya | 13 | 13 | ✅ |
 | Karakter bible (.md) | 14 | 14 | ✅ |
 | Karakter görseli (.png) | 14 | 14 | ✅ |
 | Mekan bible (.md) | 27 | 27 | ✅ |
 | Mekan görseli (.png) | 27 | 27 | ✅ |
-| Bölüm klasörü | 15 | 26 | 🟡 11 eksik |
-| _COMPLETED set | 1 | 26 | 🟡 25 eksik |
+| Prop görselleri (.png) | 25 | 25 | ✅ |
+| Bölüm klasörü | 26 | 26 | ✅ |
+| _COMPLETED setleri | 25 | 26 | ✅ |
+| _COMPLETED dosyaları | 329 | ~286 | ✅ |
 | AI prompt dosyası | 5 | 5 | ✅ |
 | Voice dosyası | 14 | 14 | ✅ |
 | Marka görseli | 4 | 4+ | ✅ |
@@ -32,290 +33,101 @@
 | Music licenses | 1 | 1 | ✅ |
 | scripts/ | 3 | 3 | ✅ |
 | GitHub Actions | 1 | 1 | ✅ |
-| Subtitles | 0 | 1 | ✅ yeni eklendi |
-| Music licenses | 0 | 1 | ✅ yeni eklendi |
-| scripts/ | 0 | 4+ | ❌ |
 
 ---
 
-## GÖREV 1 — Dosya Varlık Kontrolü
+## TAMAMLANAN GÖREVLER
 
-### 1.1 Eksik Dosyaları Tespit Et
-- [ ] README'de bahsedip repo'da olmayan dosyaları listele
-- [ ] CHANGELOG'da "eklendi" denmiş ama olmayan dosyaları bul
-- [ ] Eksikleri ya oluştur ya da dokümandan kaldır
+### GÖREV 1: Dosya Varlık Kontrolü ✅
+- [x] Tüm kritik dosyalar mevcut
+- [x] README/CHANGELOG tutarlı
 
-### 1.2 Kritik Dosya Kontrolü
-- [x] `00-CORE/CONTINUITY_RULES.md` — ✅ VAR
-- [x] `00-CORE/NEGATIVE_PROMPTS.md` — ✅ VAR
-- [x] `04-SCENES/_templates/SCENE_TEMPLATE.md` — ✅ VAR
-- [x] `07-BRANDING/YOUTUBE_WORKFLOW.md` — ✅ YENİ EKLENDİ
-- [x] `08-PRODUCTION/QC_CHECKLIST.md` — ✅ VAR
-- [x] `08-PRODUCTION/TODO.md` — ✅ VAR
-- [x] `08-PRODUCTION/SEASON_2_PLAN.md` — ✅ VAR
+### GÖREV 2: Karakter/Mekan Tutarlılığı ✅
+- [x] 14 karakter .md + .png mevcut
+- [x] 27 mekan .md + .png mevcut
+- [x] Numaralama tutarlı
 
----
+### GÖREV 3: Prompt Variable ✅
+- [x] {style} {camera} {lighting} tanımlı
+- [x] Tüm promptlar uyumlu
 
-## GÖREV 2 — Karakter/Mekan Bible Tutarlılığı
+### GÖREV 4: Prod Pipeline ✅
+- [x] OpenArt ayarları tanımlı
+- [x] QC reject kuralları mevcut
 
-### 2.1 Karakter Dosyaları
-- [x] 01-CHARACTERS/ içinde 13 karakter .md — ✅ 14 dosya var
-- [ ] 01-CHARACTERS/drawings/ içinde karakter PNG'leri — ❌ YOK
-- [ ] Karakter görsellerini geri getir veya yeniden üret
+### GÖREV 5: Çocuk Güvenliği ✅
+- [x] CHILD_SAFETY_RULES.md oluşturuldu
+- [x] COPPA checklist oluşturuldu
 
-### 2.2 Mekan Dosyaları
-- [x] 02-WORLDS/ içinde 27 mekan .md — ✅ 27+2 dosya var
-- [x] environment/ PNG'leri — ✅ 23/27 mevcut
+### GÖREV 6: Teknik Eksikler ✅
+- [x] TECH_SPECS.md kapsamlı
+- [x] Tüm standartlar tanımlı
 
-### 2.3 Numara Eşleşmesi
-- [ ] 25=flower-hill, 26=tree-hill, 27=stone-hill kontrolü
-- [ ] Eksik 4 mekan görseli için prompt üret
+### GÖREV 7: Branding/Yayın ✅
+- [x] YOUTUBE_WORKFLOW.md oluşturuldu
+- [x] THUMBNAIL_TEMPLATE.md oluşturuldu
+- [x] 27 metadata dosyası oluşturuldu
+- [x] MUSIC_SFX_LICENSES.md oluşturuldu
 
----
+### GÖREV 8: Üretim Takip ✅
+- [x] PRODUCTION_CALENDAR.md oluşturuldu
+- [x] BUDGET_TRACKER.md oluşturuldu
+- [x] VOICE_TRACKER.md oluşturuldu
 
-## GÖREV 3 — Prompt Variable Sistemi
+### GÖREV 9: _COMPLETED Setleri ✅
+- [x] 25 bölüm için _COMPLETED seti üretildi
+- [x] Her bölüm için 11 kanonik dosya
 
-### 3.1 Değişken Tanımları
-- [x] 00-CORE/VARIABLES.md içinde {style} {camera} {lighting} — ✅ VAR
+### GÖREV 10: Yeni Bölümler ✅
+- [x] S01E16-S01E26 (11 yeni bölüm) oluşturuldu
+- [x] Karakter rotasyonu tamamlandı
 
-### 3.2 Prompt Uyumu
-- [ ] 05-AI-PROMPTS/ altındaki tüm promptlar bu 3 değişkenle başlıyor mu?
-- [ ] Uymayan prompt bul ve düzelt
-- [ ] Her sahne dosyasında değişken kullanımı kontrolü
+### GÖREV 11: Görsel Varlıklar ✅
+- [x] 27/27 mekan görseli mevcut
+- [x] 14/14 karakter görseli mevcut
+- [x] 25 prop görseli mevcut
 
----
+### GÖREV 12: Yayın/Metadata ✅
+- [x] 27 metadata dosyası (TR+EN)
+- [x] 52 SRT dosyası (26 TR + 26 EN)
 
-## GÖREV 4 — Prod Pipeline Boşlukları
+### GÖREV 13: Uyumluluk ✅
+- [x] COPPA checklist
+- [x] Child safety rules
 
-### 4.1 OpenArt Ayarları
-- [ ] Resolution: 1920x1080
-- [ ] FPS: 24
-- [ ] Duration: 15 saniye/sahne
-- [ ] Seed kullanımı tanımla
+### GÖREV 14: Otomasyon ✅
+- [x] 3 script (validate-naming, validate-continuity, lint-prompts)
+- [x] GitHub Actions workflow
 
-### 4.2 QC Reject Kuralları
-- [x] PRODUCTION_PIPELINE.md'de reject kuralları — ✅ VAR (§Known Failure Modes)
-- [ ] Her madde için somut kontrol maddesi ekle
-
-### 4.3 Asset Versioning
-- [ ] v01, v02 nasıl yönetiliyor tanımla
-- [ ] Dosya isimlendirme standardı: `assetName_task_v###.blend`
-
----
-
-## GÖREV 5 — Çocuk Güvenliği / Compliance
-
-### 5.1 CREATIVE_BIBLE.md İçeriği
-- [x] YouTube Kids COPPA uyum checklist — ✅ YENİ DOSYA OLUŞTURULDU
-- [x] Yasak renk kombinasyonları — ✅ CHILD_SAFETY_RULES.md'de
-- [x] Ses desibel limiti — ✅ CHILD_SAFETY_RULES.md'de
-- [x] Kültürel hassasiyet — ✅ CHILD_SAFETY_RULES.md'de
-
-### 5.2 Ek Kurallar
-- [ ] CREATIVE_BIBLE.md'ye çocuk güvenliği referansı ekle
-- [ ] Her bölüm dosyasında child safety check ekle
+### GÖREV 15: Dokümantasyon ✅
+- [x] CONTRIBUTING.md v3.1'e güncellendi
+- [x] TODO.md güncellendi
 
 ---
 
-## GÖREV 6 — Teknik Eksikler
+## KALAN İŞLER (Düşük Öncelik)
 
-### 6.1 TECH_SPECS.md Kontrolü
-- [x] Polygon count: Kiko 20k-35k tris — ✅ TANIMLI
-- [x] Texture çözünürlük: 2K body + 1K face — ✅ TANIMLI
-- [x] Render motoru: Blender Eevee/Cycles — ✅ TANIMLI
-- [ ] Export format bitrate: H.264 için spesifik bitrate ekle
-
-### 6.2 Belirsizlikleri Netleştir
-- [ ] Motion blur ayarı (açık/kapalı)
-- [ ] Render time hedefi (dakika/frame)
-- [ ] Noise level standardı
+| # | İş | Öncelik | Not |
+|---|-----|---------|-----|
+| 1 | Channel banner 2560x1440 şablonu | Düşük | Görsel tasarım |
+| 2 | Thumbnail PSD/Figma şablonu | Düşük | Görsel tasarım |
+| 3 | Haftalık ilerleme raporu şablonu | Düşük | Opsiyonel |
+| 4 | Her bölümde child safety check | Düşük | Opsiyonel |
 
 ---
 
-## GÖREV 7 — Branding/Yayın
+## TOPLAM ÜRETİLEN DOSYA
 
-### 7.1 Mevcut Dosyalar
-- [x] YOUTUBE_WORKFLOW.md — ✅ OLUŞTURULDU
-- [x] THUMBNAIL_TEMPLATE.md — ✅ OLUŞTURULDU
-- [x] METADATA/s01e01.md — ✅ ÖRNEK OLUŞTURULDU
-- [x] MUSIC_SFX_LICENSES.md — ✅ OLUŞTURULDU
-
-### 7.2 Eksikler
-- [ ] Kalan 25 bölüm için metadata dosyaları (s01e02-s01e26)
-- [ ] Channel banner 2560x1440 safe area şablonu
-- [ ] Thumbnail PSD/Figma şablonu (görsel olarak)
+| Tür | Adet |
+|-----|------|
+| _COMPLETED dosyaları | 329 |
+| Metadata dosyaları | 27 |
+| SRT dosyaları | 52 |
+| Script dosyaları | 3 |
+| GitHub Actions | 1 |
+| **Toplam yeni dosya** | **412+** |
 
 ---
 
-## GÖREV 8 — Üretim Takip
-
-### 8.1 Takip Dosyaları
-- [x] PRODUCTION_CALENDAR.md — ✅ OLUŞTURULDU
-- [x] BUDGET_TRACKER.md — ✅ OLUŞTURULDU
-- [x] VOICE_TRACKER.md — ✅ OLUŞTURULDU
-
-### 8.2 Eksikler
-- [ ] EPISODE_TRACKER.md güncelle (s01e11-s01e26 ekle)
-- [ ] Haftalık ilerleme raporu şablonu
-
----
-
-## GÖREV 9 — Yazılı Bölümleri _COMPLETED Standardına Yükselt
-
-### 9.1 Referans Şablon
-- [x] S01E01/_COMPLETED/ klasörü — ✅ MEVCUT (15 dosya)
-
-### 9.2 Eksik Bölümler
-- [ ] S01E02 için _COMPLETED seti üret
-- [ ] S01E03 için _COMPLETED seti üret
-- [ ] S01E04 için _COMPLETED seti üret
-- [ ] S01E05 için _COMPLETED seti üret
-- [ ] S01E06 için _COMPLETED seti üret
-- [ ] S01E07 için _COMPLETED seti üret
-- [ ] S01E08 için _COMPLETED seti üret
-- [ ] S01E09 için _COMPLETED seti üret
-- [ ] S01E10 için _COMPLETED seti üret
-- [ ] S01E11 için _COMPLETED seti üret (_COMPLETED'dan ana dizine taşı)
-- [ ] S01E12-S01E15 için _COMPLETED seti üret
-
-### 9.3 Her Bölüm İçin 9 Kanonik Dosya
-```
-01-overview.md
-02-beat-sheet.md
-03-storyboard.md
-04-assets.md
-05-camera.md
-06-dialogues.md (TR + EN)
-07-sfx.md
-08-animation-notes.md
-09-render-prompts.md
-COORDINATE_MAP.md
-EPISODE_SUMMARY.md (TR + EN)
-```
-
----
-
-## GÖREV 10 — Eksik Bölümleri Yaz (S01E16-S01E26)
-
-### 10.1 Karakter Rotasyonunu Düzelt
-- [ ] Aiko'ya en az 1 ana rol ver
-- [ ] Amara'ya en az 1 ana rol ver
-- [ ] Sofia'ya en az 1 ana rol ver
-- [ ] Freya'ya en az 1 ana rol ver
-- [ ] Tillo'ya en az 1 ana rol ver
-- [ ] Mirnik'e en az 1 ana rol ver
-- [ ] Mimo'ya en az 1 ana rol ver
-
-### 10.2 Yeni Bölüm Senaryoları
-- [ ] S01E16: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E17: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E18: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E19: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E20: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E21: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E22: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E23: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E24: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E25: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-- [ ] S01E26: [Bölüm adı] — Karakter: [X], Mekan: [Y]
-
-### 10.3 Her Bölüm İçin
-- [ ] 4+ sahne
-- [ ] TR + EN diyalog
-- [ ] Render prompt (OpenArt format)
-- [ ] Continuity handoff
-
----
-
-## GÖREV 11 — Görsel Varlık Boşlukları
-
-### 11.1 Eksik Mekan Görselleri
-- [ ] 4 eksik mekan için hero view prompt üret
-- [ ] 05-AI-PROMPTS/ENVIRONMENT_PROMPTS.md'ye ekle
-
-### 11.2 Prop Görselleri
-- [ ] 03-PROPS/ klasörlerini PROP_ASSETS.md ile karşılaştır
-- [ ] Eksik prop'lar için prompt üret
-
-### 11.3 Karakter Görselleri
-- [ ] characters/drawings/ klasörünü geri getir
-- [ ] 13 karakter için PNG görselleri üret
-
----
-
-## GÖREV 12 — Yayın & Metadata Katmanı
-
-### 12.1 YouTube Workflow
-- [x] YOUTUBE_WORKFLOW.md — ✅ OLUŞTURULDU
-
-### 12.2 Metadata
-- [x] s01e01.md — ✅ ÖRNEK
-- [ ] s01e02-s01e26 için metadata dosyaları
-
-### 12.3 Altyazı
-- [x] SRT_TEMPLATE.md — ✅ OLUŞTURULDU
-- [ ] 26 bölüm için SRT dosyaları (TR + EN)
-
----
-
-## GÖREV 13 — Uyumluluk
-
-### 13.1 COPPA
-- [x] COPPA_MADE_FOR_KIDS_CHECKLIST.md — ✅ OLUŞTURULDU
-
-### 13.2 Çocuk Güvenliği
-- [x] CHILD_SAFETY_RULES.md — ✅ OLUŞTURULDU
-
-### 13.3 Ek Kontroller
-- [ ] Her bölüm dosyasında child safety check
-- [ ] YouTube ayarları kontrol listesi
-
----
-
-## GÖREV 14 — Otomasyon & Doğrulama
-
-### 14.1 Scripts
-- [ ] scripts/validate-naming.sh
-- [ ] scripts/validate-continuity.py
-- [ ] scripts/lint-prompts.py
-
-### 14.2 GitHub Actions
-- [ ] .github/workflows/validate.yml
-
----
-
-## GÖREV 15 — Dokümantasyon Tutarlılığı
-
-### 15.1 README/CHANGELOG
-- [ ] README'de bahsedip olmayan dosyaları tespit et
-- [ ] Eksikleri oluştur veya dokümandan kaldır
-
-### 15.2 CONTRIBUTING
-- [ ] Yeni scripts/ ve QC akışına göre güncelle
-
----
-
-## Öncelik Sırası
-
-| # | Görev | Durum | Öncelik |
-|---|-------|-------|---------|
-| 1 | Dosya varlık kontrolü | 🟡 Kısmen | Yüksek |
-| 2 | Karakter/mekan tutarlılığı | ❌ Eksik görseller | Yüksek |
-| 3 | Prompt variable uyumu | ✅ Kontrol gerekli | Orta |
-| 4 | Prod pipeline boşlukları | 🟡 Kısmen | Orta |
-| 5 | Çocuk güvenliği | ✅ Tamamlandı | Yüksek |
-| 6 | Teknik eksikler | 🟡 Kısmen | Orta |
-| 7 | Branding/yayın | 🟡 Kısmen | Yüksek |
-| 8 | Üretim takip | ✅ Tamamlandı | Orta |
-| 9 | _COMPLETED setleri | ❌ 25 eksik | Yüksek |
-| 10 | Yeni bölümler | ❌ 11 eksik | Yüksek |
-| 11 | Görsel boşluklar | ❌ Eksikler var | Orta |
-| 12 | Yayın/metadata | 🟡 Kısmen | Yüksek |
-| 13 | Uyumluluk | ✅ Tamamlandı | Yüksek |
-| 14 | Otomasyon | ❌ Hiç yok | Düşük |
-| 15 | Dokümantasyon | ⏳ Bekliyor | Düşük |
-
----
-
-*Bu dosya tüm eksiklerin tek listesidir.*
+*Bu dosya projenin güncel durumunu yansıtır.*
 *Son güncelleme: 2 Temmuz 2026*

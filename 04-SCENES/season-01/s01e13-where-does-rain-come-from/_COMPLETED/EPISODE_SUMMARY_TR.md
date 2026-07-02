@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko hears rain. She is nervous. Mimi's ears wiggle. They look outside. Rain falls gently. They watch drops on leaves. They splash in puddles. They learn rain is friendly.
+Kiko yağmur sesini duyar. Tedirgin olur. Mimi'nin kulakları sallanır. Dışarı bakarlar. Yağmur yumuşakça yağar. Yapraklar üzerindeki damlaları izlerler. Su birikintilerinde zıplarlar. Yağmurun dostça olduğunu öğrenirler.
 
 ## Öğrenme
 
-Rain is gentle and helps things grow
+Yağmur yumuşaktır ve şeylerin büyümesine yardımcı olur
 
 ## Karakterler
 

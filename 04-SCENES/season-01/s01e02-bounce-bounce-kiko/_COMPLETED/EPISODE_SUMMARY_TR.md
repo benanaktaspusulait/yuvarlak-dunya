@@ -4,15 +4,15 @@
 
 ## Konu
 
-Kiko finds a yellow ball on Flower Hill. She bounces it, chases it, and meets Mimi at his burrow. Together they play in Butterfly Meadow surrounded by butterflies. The ball rolls away and they chase it to Central Square. Opa watches from his tree and says 'Well done!'
+Kiko Flower Hill'de sarı bir top bulur. Topu sektirir, kovalar ve Mimi'nin yuvasında onunla tanışır. Birlikte Butterfly Meadow'da kelebekler arasında oynarlar. Top merkeze doğru yuvarlanır ve Opa ağaçtan 'Aferin!' der.
 
 ## Öğrenme
 
-Playing together is more fun • Sharing brings happiness
+Birlikte oynamak daha eğlenceli • Paylaşım mutluluk getirir
 
 ## Karakterler
 
-Kiko, Mimi
+Kiko, Mimi, Opa
 
 ## Mekan
 

@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko sees a butterfly. She follows it gently. Aiko joins her. They watch butterflies dance. They learn to be still and watch. The butterfly lands on Kiko's nose. She giggles.
+Kiko bir kelebek görür. Yumuşakça peşinden gider. Aiko katılır. Birlikte kelebeklerin dansını izlerler. Sessiz olmayı ve izlemeyi öğrenirler. Kelebek Kiko'nun burnuna konar. Kiko kikider.
 
 ## Öğrenme
 
-Nature's creatures are beautiful and gentle
+Doğanın yaratıkları güzeldir ve yumuşaktır
 
 ## Karakterler
 

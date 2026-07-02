@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko sees leaves falling. She is sad. She asks Opa why. Opa explains that leaves fall so new ones can grow. Kiko understands. She catches a leaf and smiles.
+Kiko yaprakların düştüğünü görür. Üzülür. Opa'ya neden düştüğünü sorar. Opa yeni yapraklar büyüyebilsin diye düştüklerini söyler. Kiko anlar. Bir yaprak yakalar ve gülümser.
 
 ## Öğrenme
 
-Nature changes gently and that's okay
+Doğa yumuşakça değişir ve bu güzeldir
 
 ## Karakterler
 

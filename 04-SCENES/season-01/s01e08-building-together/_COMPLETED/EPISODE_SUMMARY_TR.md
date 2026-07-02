@@ -4,11 +4,11 @@
 
 ## Konu
 
-Noah wants to build something. Arda helps. They gather round blocks. Noah builds a tower. Arda adds a top. It falls. They try again. This time they build it together. The tower stays. They are proud.
+Noah bir şey inşa etmek ister. Arda yardım eder. Yuvarlak bloklar toplarlar. Noah bir kule yapar. Arda üstüne bir şey ekler. Düşer. Tekrar denerler. Bu sefer birlikte yaparlar. Kule durur. Gururlanırlar.
 
 ## Öğrenme
 
-Building together is more fun than building alone
+Birlikte inşa etmek tek başına inşa etmekten daha eğlencelidir
 
 ## Karakterler
 

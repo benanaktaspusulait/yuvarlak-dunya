@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko sees stars for the first time at night. She is amazed. She asks Opa what stars say. Opa says they say goodnight. Kiko waves at stars. They twinkle back.
+Kiko gece yıldızları ilk kez görür. Hayran kalır. Opa'ya yıldızların ne söylediğini sorar. Opa iyi geceler dediklerini söyler. Kiko yıldızlara el sallar. Yıldızlar parıldayarak karşılık verir.
 
 ## Öğrenme
 
-The night sky is beautiful and safe
+Gece gökyüzü güzeldir ve güvendedir
 
 ## Karakterler
 
@@ -16,4 +16,4 @@ Kiko, Opa
 
 ## Mekan
 
-Central Square (night)
+Central Square (gece)

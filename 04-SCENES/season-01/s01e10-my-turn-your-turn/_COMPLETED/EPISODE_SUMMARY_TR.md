@@ -4,11 +4,11 @@
 
 ## Konu
 
-Luca wants to swing. Noah is swinging. Luca waits. Opa says 'Soon.' Noah finishes. It's Luca's turn. Luca swings. He is happy. They learn that waiting is okay.
+Luca sallanmak ister. Noah sallanıyordur. Luca bekler. Opa 'Yakında' der. Noah biter. Luca'nın sırası gelir. Luca sallanır. Çok mutlu olur. Beklemenin zor ama tamam olduğunu öğrenirler.
 
 ## Öğrenme
 
-Waiting is hard but okay
+Beklemek zordur ama tamamdır
 
 ## Karakterler
 

@@ -4,11 +4,11 @@
 
 ## Konu
 
-Kiko finds a tiny seed in Tillo's Garden. She plants it in soft soil. She waters it and waits. Mimi joins her. They wait together. A small sprout appears. They water it more. A beautiful flower blooms. Opa congratulates them.
+Kiko Tillo'nun Bahçesi'nde küçük bir tohum bulur. Onu toprağa diker ve sulayarak bekler. Mimi yanına gelir. Birlikte beklerler. Küçük bir filiz çıkar. Daha fazla sularlar. Güzel bir çiçek açar. Opa onları tebrik eder.
 
 ## Öğrenme
 
-Beautiful things take time and care
+Güzel şeyler zaman ve bakım ister
 
 ## Karakterler
 

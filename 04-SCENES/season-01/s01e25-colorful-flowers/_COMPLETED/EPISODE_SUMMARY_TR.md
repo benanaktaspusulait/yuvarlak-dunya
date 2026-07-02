@@ -4,11 +4,11 @@
 
 ## Konu
 
-Sofia finds colourful flowers at Painting Garden. She paints them. Kiko joins. They pick flowers together. They share with friends. The garden becomes more beautiful.
+Sofia Painting Garden'da renkli çiçekler bulur. Onları çizer. Kiko katılır. Birlikte çiçek toplarlar. Arkadaşlarıyla paylaşırlar. Bahçe daha da güzelleşir.
 
 ## Öğrenme
 
-Sharing beauty makes it more beautiful
+Güzelliği paylaşmak onu daha da güzelleştirir
 
 ## Karakterler
 
@@ -16,4 +16,4 @@ Sofia, Kiko
 
 ## Mekan
 
-Painting Garden (new location)
+Painting Garden

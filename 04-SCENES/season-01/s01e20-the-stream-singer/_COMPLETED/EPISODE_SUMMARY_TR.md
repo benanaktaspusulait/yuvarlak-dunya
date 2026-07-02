@@ -4,11 +4,11 @@
 
 ## Konu
 
-Mimo sits by Rainbow Creek. He hears the water singing. Kiko joins. They listen together. The creek makes soft sounds. They learn that nature makes its own music.
+Mimo Rainbow Creek kenarında oturuyor. Suyun şarkı söylediğini duyuyor. Kiko katılıyor. Birlikte dinliyorlar. Dere yumuşak sesler çıkarıyor. Doğanın kendi müziği olduğunu öğreniyorlar.
 
 ## Öğrenme
 
-Nature makes its own music
+Doğanın kendi müziği vardır
 
 ## Karakterler
 
