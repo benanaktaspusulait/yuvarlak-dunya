@@ -74,6 +74,20 @@ Soft, gentle glow.
 
 ---
 
+---
+
+## Reference Usage
+
+This is the FIRST shot. No previous shot reference.
+
+The reference images are supplied by the production workflow:
+
+- World Reference: The established environment for this episode
+- Character Reference: The character sheet for the lead character in this shot
+
+These references should not be hardcoded into this document.
+They are loaded into OpenArt at production time.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
