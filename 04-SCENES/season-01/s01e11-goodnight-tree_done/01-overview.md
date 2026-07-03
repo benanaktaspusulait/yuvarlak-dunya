@@ -61,3 +61,16 @@ This gives the episode a small but memorable idea that children will remember an
 ---
 
 *Bu belge S01E11 için tek kaynaktır.*
+
+
+---
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |
+

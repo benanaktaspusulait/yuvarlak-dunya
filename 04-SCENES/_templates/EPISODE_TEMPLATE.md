@@ -116,4 +116,17 @@ Her bölüm klasörü (`04-SCENES/season-NN/sNNeNN-slug/`) şu dosyaları içerm
 
 ---
 
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |
+
+Reference: `16_VIDEO_QA_SPEC.md`
+
+---
+
 *Bu belge tüm yeni bölümler için standart şablondur.*

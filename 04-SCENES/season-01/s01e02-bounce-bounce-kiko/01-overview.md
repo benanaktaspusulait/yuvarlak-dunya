@@ -66,3 +66,12 @@ Kiko learns that games are more fun when shared.
 ```
 Merak → Keşif → Heyecan → Şaşkınlık → Neşe → Hafif endişe → Başarı → Mutluluk
 ```
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

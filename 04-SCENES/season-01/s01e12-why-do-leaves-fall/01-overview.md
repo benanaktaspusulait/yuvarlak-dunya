@@ -44,3 +44,16 @@ Kiko sees leaves falling. She is sad. She asks Opa why. Opa explains that leaves
 ## Micro-Moment (Key Discovery)
 
 Kiko learns that nature changes gently and that's okay.
+
+
+---
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |
+

@@ -58,3 +58,12 @@ Kiko learns that beautiful things take time and care.
 ## Repeated Phrase
 
 "Water, wait, and smile!"
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

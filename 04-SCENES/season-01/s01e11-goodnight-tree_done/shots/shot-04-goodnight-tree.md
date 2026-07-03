@@ -102,3 +102,19 @@ Soft, gentle glow.
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+
+
+---
+
+## QA Checklist
+
+Reference: 16_VIDEO_QA_SPEC.md
+
+- [ ] Character integrity verified
+- [ ] Character consistency verified
+- [ ] Object persistence verified
+- [ ] No rendering artefacts
+- [ ] Camera consistency verified
+- [ ] Lighting consistency verified
+- [ ] Canonical rules followed
+

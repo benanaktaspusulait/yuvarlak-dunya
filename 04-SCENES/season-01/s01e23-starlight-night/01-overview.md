@@ -44,3 +44,12 @@ Kiko and Opa sit under the stars. They count stars. They make constellations. Ki
 ## Micro-Moment (Key Discovery)
 
 Kiko learns that night is beautiful and safe.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

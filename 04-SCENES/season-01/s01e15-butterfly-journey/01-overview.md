@@ -38,3 +38,12 @@ Butterfly Meadow
 ## Story Summary
 
 Luca and Kiko spot a butterfly in Butterfly Meadow. They follow it gently through flowers. The butterfly leads them to a hidden garden where it lands on a flower. They discover where butterflies live.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

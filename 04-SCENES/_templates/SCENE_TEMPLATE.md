@@ -116,6 +116,18 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 - Önceki sahne: [Önceki sahne referansı]
 - Continuity frame: [Kare referansı]
 - Devam kuralları: `CONTINUITY_RULES.md`
+
+## QA Checklist
+
+Reference: `16_VIDEO_QA_SPEC.md`
+
+- [ ] Character integrity verified
+- [ ] Character consistency verified
+- [ ] Object persistence verified
+- [ ] No rendering artefacts
+- [ ] Camera consistency verified
+- [ ] Lighting consistency verified
+- [ ] Canonical rules followed
 ```
 
 ---

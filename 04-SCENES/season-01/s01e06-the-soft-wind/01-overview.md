@@ -57,3 +57,12 @@ Kiko learns that nature's gentle movements are beautiful and fun.
 ## Repeated Phrase
 
 "Soft wind!"
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

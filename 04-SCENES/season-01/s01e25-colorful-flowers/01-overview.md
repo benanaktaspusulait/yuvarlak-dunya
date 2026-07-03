@@ -44,3 +44,12 @@ Sofia finds colourful flowers at Painting Garden. She paints them. Kiko joins. T
 ## Micro-Moment (Key Discovery)
 
 Sofia learns that sharing beauty makes it more beautiful.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

@@ -44,3 +44,12 @@ Kiko and Mimi see a rainbow at Rainbow Bridge. They make wishes. Kiko wishes for
 ## Micro-Moment (Key Discovery)
 
 Kiko learns that wishing together is special.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

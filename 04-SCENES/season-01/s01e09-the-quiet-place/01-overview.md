@@ -38,3 +38,15 @@ Opa's Tree
 ## Story Summary
 
 Kiko visits Opa at his tree. They sit together quietly and listen to the sounds of nature. They enjoy the peaceful moment together.
+
+---
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |
+

@@ -44,3 +44,12 @@ Tillo is gardening. Kiko wants to help. They water flowers together. They pull g
 ## Micro-Moment (Key Discovery)
 
 Kiko learns that plants need care and love.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

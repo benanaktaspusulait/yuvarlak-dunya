@@ -59,3 +59,12 @@ Kiko learns that colours are everywhere and they are beautiful.
 ## Repeated Phrase
 
 "Red flower!", "Blue sky!", "Yellow sun!"
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

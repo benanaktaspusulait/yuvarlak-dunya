@@ -38,3 +38,15 @@ Central Square
 ## Story Summary
 
 Noah and Arda build a tower with colorful blocks in Central Square. Arda reaches for a block that's too high. Noah helps. They finish the tower together and smile proudly.
+
+---
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |
+

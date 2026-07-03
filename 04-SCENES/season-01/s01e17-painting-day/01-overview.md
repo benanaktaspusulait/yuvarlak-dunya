@@ -44,3 +44,12 @@ Sofia is painting at Art Corner. Kiko joins her. They paint together. Sofia pain
 ## Micro-Moment (Key Discovery)
 
 Sofia learns that everyone sees the world differently and that's beautiful.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

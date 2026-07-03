@@ -44,3 +44,12 @@ Luca discovers a crystal cave on Stone Hill. He is excited but nervous. Kiko joi
 ## Micro-Moment (Key Discovery)
 
 Luca learns that trying new things can be exciting.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

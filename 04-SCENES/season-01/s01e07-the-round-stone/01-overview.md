@@ -38,3 +38,12 @@ Stone Hill
 ## Story Summary
 
 Luca finds a round stone on Stone Hill. He shows it to Kiko. Kiko thinks it looks like the moon. They look at it together.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

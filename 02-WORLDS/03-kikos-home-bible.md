@@ -281,10 +281,15 @@ This Living World has been intentionally designed to support AI-assisted world c
 
 The canonical creative definition is contained within this document.
 
+A shorter, production-oriented extraction of this Bible — for AI-assisted
+world generation — is maintained separately in
+`03-kikos-home-world-spec.md`. That document is a translation layer, not a
+replacement: this Bible remains the single source of truth.
+
 Implementation-specific production prompts (which AI tool, prompt syntax,
 character limits) are workflow details, not world design, and are kept out
-of this section deliberately — this Bible stays valid regardless of which
-generation tool is used today or in the future.
+of both documents deliberately — this Bible and its spec stay valid
+regardless of which generation tool is used today or in the future.
 
 ---
 

@@ -44,3 +44,12 @@ Mimo sits by Rainbow Creek. He hears the water singing. Kiko joins. They listen 
 ## Micro-Moment (Key Discovery)
 
 Mimo learns that nature makes its own music.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

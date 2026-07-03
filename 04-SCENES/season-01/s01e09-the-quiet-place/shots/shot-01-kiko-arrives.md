@@ -118,3 +118,29 @@ Warm morning sunlight filtering through leaves.
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+
+
+---
+
+## QA Checklist
+
+Reference: 16_VIDEO_QA_SPEC.md
+
+- [ ] Character integrity verified
+- [ ] Character consistency verified
+- [ ] Object persistence verified
+- [ ] No rendering artefacts
+- [ ] Camera consistency verified
+- [ ] Lighting consistency verified
+- [ ] Canonical rules followed
+
+## Opening Hook
+
+The first 3-5 seconds should immediately create curiosity.
+Avoid slow introductions. Begin with an interesting visual, a surprising action, a curious question, or an emotional expression.
+
+Examples:
+- Can you hear that?
+- Look what I found!
+- Do you know where stars sleep?
+- What is hiding over there?

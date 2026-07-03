@@ -57,3 +57,12 @@ Kiko learns that noticing when a friend needs rest is a kind thing to do.
 ## Repeated Phrase
 
 "So sleepy, so sleepy..."
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

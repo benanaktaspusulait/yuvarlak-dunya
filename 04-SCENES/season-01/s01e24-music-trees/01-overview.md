@@ -44,3 +44,12 @@ Noah discovers trees that make music when the wind blows. Arda joins. They dance
 ## Micro-Moment (Key Discovery)
 
 Noah learns that music is everywhere if you listen.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

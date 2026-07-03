@@ -44,3 +44,12 @@ Kiko finds a quiet cat in Little Forest. The cat sits still. Kiko sits nearby. T
 ## Micro-Moment (Key Discovery)
 
 Kiko learns that quiet friends are special too.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

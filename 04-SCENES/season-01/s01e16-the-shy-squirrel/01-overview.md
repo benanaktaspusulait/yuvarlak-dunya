@@ -44,3 +44,12 @@ Aiko finds a shy squirrel in Little Forest. The squirrel hides. Aiko waits patie
 ## Micro-Moment (Key Discovery)
 
 Aiko learns that patience helps shy friends feel safe.
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |

@@ -38,3 +38,16 @@ Opa's Tree (Night)
 ## Story Summary
 
 Luca sits with Opa under Opa's Tree at night. He asks what stars say. Opa tells a gentle story about stars being like little lights watching over everyone. Luca feels safe and sleepy.
+
+
+---
+
+## QA Status
+
+| Shot | QA Score | Production Ready |
+|------|:--------:|:----------------:|
+| 01 | /10 | ⬜ |
+| 02 | /10 | ⬜ |
+| 03 | /10 | ⬜ |
+| 04 | /10 | ⬜ |
+
