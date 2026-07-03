@@ -3,17 +3,19 @@
 > **🔒 Living World** — First validated Living World of Pompom Hills.
 > This document describes a connected living environment, not just an exterior.
 
-> **Version 3.0** — Evolved from Environment Bible to Living World Bible.
+> **Version 3.1** — Evolved from Environment Bible to Living World Bible.
+> Implementation layers (World Specification, OpenArt prompts) separated into
+> dedicated production documents; see `Production Readiness` below.
 
 ---
 
 ```
 Environment ID: ENV-003
 File: 12-ENVIRONMENT/03-kikos-home/
-Version: 3.0
+Version: 3.1
 Location: Flower Hill
 Type: Living World
-Status: Documentation Approved — Pending OpenArt Validation
+Status: Design Approved — Production Layer Pending Test
 ```
 
 ---
@@ -40,7 +42,17 @@ Kiko's Home, serinin "güvenli üssü" olarak tasarlanmıştır — her macera b
 
 ## World Structure
 
-Kiko'nun evi tek bir bağlantılı yaşam alanıdır. Her alan doğrudan bir sonrakine geçiş sağlar.
+Kiko'nun evi tek bir bağlantılı yaşam alanıdır. Giriş, tek bir sürekli yaşam
+alanına açılır. Bu paylaşılan alanın içinde yumuşak aktivite bölgeleri doğal
+olarak ortaya çıkar:
+
+- Reading Corner (Okuma Köşesi)
+- Kitchen Nook (Mutfak Köşesi)
+- Window Corner (Pencere Köşesi)
+- Sleeping Corner (Uyku Köşesi)
+
+**Bunlar ayrılmış odalar değildir.** Tek bir bağlantılı evin içinde yumuşak
+işlevsel alanlardır.
 
 ```
 Front Garden (Dış Bahçe)
@@ -48,12 +60,10 @@ Front Garden (Dış Bahçe)
 Front Porch (Ön Veranda)
     ↓ kapı
 Entrance (Giriş)
-    ↓ Hol
-Living Room (Oturma Odası)
-    ├── Reading Corner (Okuma Köşesi) [odanın bir yanında]
-    ├── Kitchen Nook (Mutfak Köşesi) [odanın diğer yanında]
-    └── Window Corner (Pencere Köşesi) [duvarda]
-Sleeping Corner (Uyku Köşesi) [oturma odasının arkası]
+    ↓
+One Continuous Living Space
+    (Reading Corner · Kitchen Nook · Window Corner · Sleeping Corner
+     — yumuşak bölgeler, duvarsız, tek alanın içinde bir arada)
     ↓ arka kapı
 Back Garden (Arka Bahçe)
 ```
@@ -264,27 +274,18 @@ Kiko'nun evini yaşayan bir yer hissettiren küçük kurallar:
 
 ---
 
-## OpenArt Preparation
+## Production Readiness
 
-If reference images are used during future OpenArt production, the following four views are recommended:
+This Living World has been intentionally designed to support AI-assisted world creation.
 
-- **Hero View** — Complete exterior, house centred, garden visible, no characters
-- **Entrance View** — Close-up on door, path leading to entrance
-- **Activity View** — Interior or garden scene showing character activity zones
-- **Detail View** — Props, materials, textures, surface details
+The canonical creative definition is contained within this document.
 
-These are recommendations rather than mandatory production assets.
+Implementation-specific production prompts belong in separate production
+documents and should not modify this Living World Bible.
 
-The actual OpenArt workflow will be validated during production.
-
----
-
-## OpenArt Production Rules
-
-- **Hero View recommended** — ana görünüm referans olarak kullanılabilir
-- **Tutarlı ışık ve renk** — tüm referanslarda sabah günışığı, pembe-beyaz palet korunur
-- **Karakter yok** — referanslarda Kiko veya diğer karakterler yer almaz, sadece çevre
-- **Not mandatory** — bu kurallar öneridir, production sırasında doğrulanacaktır
+See:
+- `03-kikos-home-world-spec.md` — deterministic World Specification (tool-agnostic)
+- `03-kikos-home-openart.md` — OpenArt-specific production prompts
 
 ---
 
@@ -810,18 +811,6 @@ Kiko'nun evi nasıl çekilir? Kamera evin içinde doğal hareket eder.
 
 ---
 
-## OpenArt World Preparation
-
-Bu Living World, OpenArt'ta tek bir dünya olarak oluşturulacak şekilde tasarlanmıştır.
-
-Bu belge, prompt tabanlı veya görsel tabanlı dünya oluşturma iş akışını desteklemek için yapılandırılmıştır.
-
-OpenArtworld oluşturma zamanı geldiğinde, bu belgedeki World Zones, Transition Spaces ve Camera Design bölümleri referans olarak kullanılacaktır.
-
-**Durum:** Belge hazır. OpenArt oluşturma henüz başlamadı.
-
----
-
 ## Production Notes
 
 - **Best Characters:** Kiko (ev sahibi), Mimi (ziyaretçi)
@@ -884,91 +873,18 @@ Her yüzey yumuşak ve el yapımı hissi verir. Duvarlar mat, oyuncak hissi; kap
 
 ---
 
-## Production Specifications
-
-Bu bölüm, World Bible'daki tüm deterministik bilgileri production-ready tablolarda birleştirir.
-
-### Production Goal
+## Production Goal
 
 This Living World is intentionally designed to validate whether AI production tools can maintain one coherent environment containing multiple connected spaces.
 
 If successful, this design philosophy will become the standard for future homes and other complex environments in Pompom Hills.
 
-### Spatial Zone Areas
-
-| Zone | Alan | İçerik |
-|------|------|--------|
-| Front Garden | ~4m × 3m | Çiçekler, çimen, taş yol |
-| Front Porch | ~2m × 1.5m | Taş yol, kapı eşiği |
-| Entrance | ~1.5m × 1.5m | Kapı içi, ayakkabı alanı |
-| Living Room | ~5m × 4m | Masa, sandalyeler, halı, oyuncak kutusu |
-| Reading Corner | ~2m × 2m | Raf, kitaplar, yastık |
-| Kitchen Nook | ~2m × 2m | Küçük masa, meyve sepeti |
-| Window Corner | ~1.5m × 1.5m | Büyük pencere, perde |
-| Sleeping Corner | ~2m × 2m | Yuvarlak yatak, yastık |
-| Back Garden | ~3m × 3m | Çiçekler, küçük ağaç, taşlar |
-
-### Material Specifications
-
-| Surface | Material | Texture | Colour |
-|---------|----------|---------|--------|
-| Exterior walls | Soft matte clay | Smooth, toy-like | #F8BBD0 |
-| Roof | Soft matte clay | Smooth, rounded | #E91E63 |
-| Door | Smooth matte | Clean, white | #FFFFFF |
-| Window frame | Smooth matte | Clean, white | #FFFFFF |
-| Curtain | Soft fabric | Gentle drape | #F8BBD0 |
-| Fence | Soft matte | Round-topped | #F8BBD0 |
-| Path | Smooth stone | Round, grey | #E0E0E0 |
-| Grass | Soft plush | Gentle, green | #C8E6C9 |
-| Interior walls | Soft matte | Warm, white | White |
-| Floor | Soft matte | Warm, clean | Warm tone |
-| Table | Smooth matte | Round, white | #FFFFFF |
-| Chairs | Smooth matte | Round, white | #FFFFFF |
-| Rug | Soft plush | Tissue-like | White + #F8BBD0 dots |
-| Bed | Soft plush | Round, coral pink | #F8BBD0 |
-| Shelf | Smooth matte | Round, white | #FFFFFF |
-| Toy box | Smooth matte | Round, yellow | #FFD54F |
-
-### Camera Positions
-
-| Position | Angle | Height | Lens | Usage |
-|----------|-------|--------|------|-------|
-| Front hero | Eye level | 0.85m | 35mm | House establishing |
-| Door close-up | Eye level | 0.85m | 50mm | Entry/exit |
-| Roof shot | Slight above | 1.2m | 35mm | Dome view |
-| Wide aerial | High | 2.0m | 24mm | Full garden |
-| Wide interior | Eye level | 0.75m | 35mm | Full room |
-| Window shot | Eye level | 0.75m | 50mm | Looking outside |
-| Close-up | Variable | 0.60m | 50-70mm | Object detail |
-
-### Colour Palette Summary
-
-| Element | HEX |
-|---------|-----|
-| Walls | #F8BBD0 |
-| Roof | #E91E63 |
-| Door/Window | #FFFFFF |
-| Curtain | #F8BBD0 |
-| Interior light | #FFF9C4 |
-| Grass | #C8E6C9 |
-| Path | #E0E0E0 |
-| Toy box | #FFD54F |
-
-### Quality Gates
-
-- [ ] All 9 zones are spatially defined
-- [ ] All transitions are mapped
-- [ ] Material specifications are complete
-- [ ] Lighting specifications are complete
-- [ ] Camera positions are tested
-- [ ] Props are inventory-listed
-- [ ] Character placement is validated
-- [ ] Animation specs are tested
-- [ ] Forbidden elements are enforced
-- [ ] World reads as one coherent space
+Deterministic production-ready specifications (spatial zone areas, material
+specs, camera positions, colour palette, quality gates) are maintained in
+`03-kikos-home-world-spec.md`, not in this Bible.
 
 ---
 
-*Bu belge Kiko's Home mekanı için production referansıdır.*
-*Living World Bible v3.0*
-*Son güncelleme: 2 Temmuz 2026*
+*Bu belge Kiko's Home mekanı için creative referanstır.*
+*Living World Bible v3.1*
+*Son güncelleme: 3 Temmuz 2026*
