@@ -84,6 +84,8 @@ Focus: Continuity across cuts.
 | Character position | Matches between shots |
 | Object position | Matches between shots |
 | Lighting | Consistent across shots |
+| Colour identity | White balance, exposure, saturation and contrast match |
+| Voice identity | Same speaking character sounds identical across shots |
 | Environment | No layout changes between shots |
 
 ### Level 4 — Episode QA
@@ -96,6 +98,8 @@ Focus: Global coherence.
 |-------|------------------|
 | Character consistency | Same character throughout |
 | World consistency | Same world throughout |
+| Voice identity | Same character voice throughout |
+| Colour identity | Episode feels colour graded as one continuous film |
 | Lighting consistency | Same time of day throughout |
 | Prop consistency | Same objects throughout |
 
@@ -284,7 +288,40 @@ Detect lighting problems.
 | Flickering | Rapid brightness changes |
 | Time-of-day inconsistencies | Night becomes day mid-scene |
 
-### 13. Camera Consistency
+### 13. Colour Identity Consistency
+
+Detect colour grading drift between shots.
+
+| What to Detect | Example |
+|----------------|---------|
+| White balance changes | Warm white balance becomes cool |
+| Warmth drift | Shot 2 is yellow, Shot 3 is orange, Shot 4 is cool |
+| Saturation changes | Pastel palette becomes vivid or washed out |
+| Exposure mismatch | One shot is visibly brighter or darker |
+| Contrast shift | Low contrast becomes cinematic or harsh |
+| Blue tint | Warm preschool scene becomes cold |
+| Green tint | Interior or skin tones become greenish |
+| Orange shift | Warm light becomes overly orange |
+| HDR look | Matte handcrafted finish becomes glossy/high dynamic range |
+| Cinematic LUT | Preschool palette becomes filmic/dramatic |
+
+### 14. Voice Identity Consistency
+
+Detect voice drift between speaking shots.
+
+| What to Detect | Example |
+|----------------|---------|
+| Voice identity change | Kiko sounds like a different performer |
+| Pitch change | Child voice becomes lower or older |
+| Timbre change | Round warm voice becomes thin or nasal |
+| Speaking speed change | Calm pace becomes rushed |
+| Age impression change | Same character sounds older or younger |
+| Personality change | Warm curious voice becomes narrator-like |
+| Warmth change | Gentle delivery becomes flat or harsh |
+| Rhythm change | Speaking cadence no longer matches prior shots |
+| Alternate narrator | A new unseen narrator speaks for the character |
+
+### 15. Camera Consistency
 
 Detect camera problems.
 
@@ -344,11 +381,15 @@ Recommendation: [What to do about it]
 - Object persistence fails across 2+ shots
 - Camera continuity breaks between shots
 - Lighting changes between shots
+- Colour identity changes between shots
+- Voice identity changes between speaking shots
 
 ### When to Regenerate Entire Scene
 
 - Environment consistency fails across all shots
 - Character appears fundamentally different across scene
+- Character voice appears fundamentally different across scene
+- Colour grade drifts across the scene
 - Camera movement is impossible throughout
 - Multiple critical issues across all shots
 
@@ -356,6 +397,8 @@ Recommendation: [What to do about it]
 
 - World changes between scenes
 - Character is unrecognisable
+- Character voice identity is inconsistent throughout
+- Episode colour grade does not feel continuous
 - Multiple scenes affected by same systemic issue
 - Quality score below 80
 
@@ -519,6 +562,29 @@ In addition to general QA rules, Pompom Hills content must pass these checks:
 - No modern objects (cars, electronics)
 - No frightening elements
 
+### Colour Rules
+
+- White balance must remain unchanged across shots
+- Exposure must remain unchanged across shots
+- Saturation must remain unchanged across shots
+- Contrast must remain unchanged across shots
+- Pastel palette must remain stable
+- No blue tint, green tint or orange shift
+- No HDR look
+- No cinematic LUT
+- The episode must feel like one continuous colour grade
+
+### Voice Rules
+
+- Voice must match the previous speaking shot
+- Same age impression must be preserved
+- Same personality must be preserved
+- Same warmth must be preserved
+- Same speaking rhythm must be preserved
+- Same pitch and timbre must be preserved
+- Same Voice ID or approved voice reference must be used when available
+- No different narrator or alternate voice
+
 ### Emotional Safety Rules
 
 - No distorted faces that could frighten children
@@ -537,7 +603,7 @@ This specification is designed to accommodate additional QA categories:
 |-----------------|-------------|
 | Lip Sync QA | Verify mouth movement matches dialogue |
 | Subtitle QA | Verify timing, placement, readability |
-| Audio QA | Verify sound sync, levels, quality |
+| Advanced Audio QA | Verify sound sync, levels, ambience and final mix quality |
 | Continuity QA | Verify cross-episode consistency |
 | Localization QA | Verify multi-language consistency |
 | Accessibility QA | Verify colour contrast, text readability |

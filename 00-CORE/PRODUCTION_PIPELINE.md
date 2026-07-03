@@ -14,6 +14,8 @@ onaylı dünyaya karakter/prop yerleştirir.
 > tekrar edilmez.
 
 İlişkili dosyalar: `CONTINUITY_RULES.md` (süreklilik kuralları),
+`VISUAL_CONTINUITY_RULES.md` ve `WORLD_IDENTITY_RULES.md` (görsel/world identity kuralları),
+`AUDIO_GUIDE.md` ve `EPISODE_AUDIO_WORKFLOW.md` (voice/audio identity kuralları),
 `NEGATIVE_PROMPTS.md` (araç bazlı negative listeleri), `VARIABLES.md` (prompt değişkenleri),
 `CHARACTER_GUIDE.md` ve `WORLD_BIBLE.md` (kilit referanslar).
 
@@ -492,21 +494,18 @@ Nefes alma görünür (göğüs/hareket)
 
 ## Lighting Continuity
 
-Lighting, sahne sürekliliğinin bir parçasıdır.
+Lighting Identity, sahne sürekliliğinin bir parçasıdır.
 
 Continuity reference image kullanırken, AI aydınlatmayı aynen korumalıdır.
 
-### Match
+### Lighting Identity
 
 ```
-- exposure
-- brightness
-- colour temperature
-- moonlight intensity
-- shadow softness
-- lantern brightness
-- night sky colour
-- contrast
+- Warm morning sunlight
+- Soft ambient preschool lighting
+- Gentle shadows
+- Natural bounce lighting
+- No dramatic contrast
 ```
 
 ### Kurallar
@@ -517,8 +516,6 @@ Do not reinterpret the lighting.
 Do not brighten the scene.
 
 Do not darken the scene.
-
-Do not introduce a different colour grade.
 
 The continuity reference image is also the lighting reference.
 ```
@@ -531,29 +528,84 @@ Her shot'ta aydınlatma bir önceki shot'ın reference frame'iyle birebir aynı 
 
 ## Colour Continuity
 
-Continuity frame'den establish edilen renk paletini koru.
+Colour Identity, Lighting Identity kadar kritik bir production lock'tur.
+
+Continuity frame'den establish edilen renk paletini ve grading'i koru.
+
+### Match
+
+```
+- identical white balance
+- identical warmth
+- identical exposure
+- identical saturation
+- identical pastel palette
+- identical contrast
+```
 
 ### Avoid
 
 ```
-- warmer tones
-- cooler tones
-- purple tint
+- blue tint
 - green tint
 - orange tint
+- HDR look
+- cinematic LUT
+- warmer or cooler reinterpretation
 ```
 
 ### Kurallar
 
 ```
-Lighting and colour should remain visually identical across consecutive shots.
+Match the colour grading of the previous shot.
+
+Avoid any colour shift.
+
+Do not introduce cinematic grading.
 
 The continuity reference image is also the colour reference.
+
+The entire episode must appear colour graded as one continuous film.
 ```
 
 ### Production Rule
 
 Ardışık shot'lar arasında renk tonu değişmemelidir. Farklı renk grading'i = red.
+
+---
+
+## Voice Continuity
+
+Karakter sesi her speaking shot'ta aynı kalmalıdır.
+
+Her Shot Specification'da diyalog varsa ayrı bir Voice Continuity bölümü olmalıdır:
+
+```
+## Voice Continuity
+
+For Shot 01, match the approved character Voice ID or voice reference.
+
+For Shot 02+, match the previous speaking shot.
+
+The speaking voice MUST remain identical to the previous shot.
+
+Maintain:
+
+- same voice identity
+- same pitch
+- same timbre
+- same speaking speed
+- same emotional warmth
+- same preschool narration style
+
+Do not generate a different narrator or alternate voice.
+```
+
+Eğer kullanılan sistem Voice Reference veya Voice ID destekliyorsa, aynı karakter için her sahnede aynı Voice ID kullanılmalıdır. Desteklemiyorsa, ses değişimi model sınırlaması olarak QA'da işaretlenmelidir.
+
+### Production Rule
+
+Aynı karakterin sesi shot'lar arasında değişmemelidir. Farklı ses kimliği = red.
 
 ---
 

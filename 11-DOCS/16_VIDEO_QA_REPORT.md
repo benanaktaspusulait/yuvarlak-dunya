@@ -26,12 +26,14 @@
 |-------|--------|
 | Character Integrity | ✅ Pass / ❌ Fail |
 | Character Consistency | ✅ Pass / ❌ Fail |
+| Voice Identity | ✅ Pass / ❌ Fail |
 | Object Persistence | ✅ Pass / ❌ Fail |
 | Asset Consistency | ✅ Pass / ❌ Fail |
 | Movement | ✅ Pass / ❌ Fail |
 | Physics | ✅ Pass / ❌ Fail |
 | Environment | ✅ Pass / ❌ Fail |
 | Lighting | ✅ Pass / ❌ Fail |
+| Colour Identity | ✅ Pass / ❌ Fail |
 | Camera | ✅ Pass / ❌ Fail |
 | Rendering | ✅ Pass / ❌ Fail |
 | Spatial Continuity | ✅ Pass / ❌ Fail |
@@ -47,12 +49,14 @@ Issues: [None / List issues]
 |-------|--------|
 | Character Integrity | ✅ Pass / ❌ Fail |
 | Character Consistency | ✅ Pass / ❌ Fail |
+| Voice Identity | ✅ Pass / ❌ Fail |
 | Object Persistence | ✅ Pass / ❌ Fail |
 | Asset Consistency | ✅ Pass / ❌ Fail |
 | Movement | ✅ Pass / ❌ Fail |
 | Physics | ✅ Pass / ❌ Fail |
 | Environment | ✅ Pass / ❌ Fail |
 | Lighting | ✅ Pass / ❌ Fail |
+| Colour Identity | ✅ Pass / ❌ Fail |
 | Camera | ✅ Pass / ❌ Fail |
 | Rendering | ✅ Pass / ❌ Fail |
 | Spatial Continuity | ✅ Pass / ❌ Fail |
@@ -68,12 +72,14 @@ Issues: [None / List issues]
 |-------|--------|
 | Character Integrity | ✅ Pass / ❌ Fail |
 | Character Consistency | ✅ Pass / ❌ Fail |
+| Voice Identity | ✅ Pass / ❌ Fail |
 | Object Persistence | ✅ Pass / ❌ Fail |
 | Asset Consistency | ✅ Pass / ❌ Fail |
 | Movement | ✅ Pass / ❌ Fail |
 | Physics | ✅ Pass / ❌ Fail |
 | Environment | ✅ Pass / ❌ Fail |
 | Lighting | ✅ Pass / ❌ Fail |
+| Colour Identity | ✅ Pass / ❌ Fail |
 | Camera | ✅ Pass / ❌ Fail |
 | Rendering | ✅ Pass / ❌ Fail |
 | Spatial Continuity | ✅ Pass / ❌ Fail |
@@ -89,12 +95,14 @@ Issues: [None / List issues]
 |-------|--------|
 | Character Integrity | ✅ Pass / ❌ Fail |
 | Character Consistency | ✅ Pass / ❌ Fail |
+| Voice Identity | ✅ Pass / ❌ Fail |
 | Object Persistence | ✅ Pass / ❌ Fail |
 | Asset Consistency | ✅ Pass / ❌ Fail |
 | Movement | ✅ Pass / ❌ Fail |
 | Physics | ✅ Pass / ❌ Fail |
 | Environment | ✅ Pass / ❌ Fail |
 | Lighting | ✅ Pass / ❌ Fail |
+| Colour Identity | ✅ Pass / ❌ Fail |
 | Camera | ✅ Pass / ❌ Fail |
 | Rendering | ✅ Pass / ❌ Fail |
 | Spatial Continuity | ✅ Pass / ❌ Fail |
@@ -118,13 +126,15 @@ Issues: [None / List issues]
 
 | Category | Weight | Score | Weighted |
 |----------|:------:|:-----:|:--------:|
-| Character Integrity | 25% | /10 | |
-| Character Consistency | 20% | /10 | |
-| Object Persistence | 15% | /10 | |
+| Voice Identity | 15% | /10 | |
+| Colour Identity | 15% | /10 | |
+| Character Integrity | 15% | /10 | |
+| Character Consistency | 10% | /10 | |
+| World / Environment Consistency | 10% | /10 | |
+| Object Persistence | 10% | /10 | |
 | Asset Consistency | 10% | /10 | |
 | Spatial Continuity | 10% | /10 | |
-| Environment Consistency | 10% | /10 | |
-| Rendering Quality | 10% | /10 | |
+| Rendering Quality | 5% | /10 | |
 | **Total** | **100%** | | **/10** |
 
 **Overall Score:** [X] / 10 → [X] / 100

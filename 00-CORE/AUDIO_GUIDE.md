@@ -12,6 +12,27 @@ Her ses "sarılma" hissi vermeli.
 
 ---
 
+## Voice Identity
+
+Aynı karakter her shot'ta aynı ses kimliğini korumalıdır.
+
+Maintain:
+
+- same voice identity
+- same age impression
+- same pitch
+- same timbre
+- same speaking speed
+- same emotional warmth
+- same preschool narration style
+- same speaking rhythm
+
+Voice Reference veya Voice ID destekleyen sistemlerde aynı karakter için her shot'ta aynı Voice ID kullanılmalıdır.
+
+Farklı narrator, alternate voice, daha büyük/küçük yaş izlenimi veya farklı performer hissi kabul edilmez.
+
+---
+
 ## Müzik Stili
 
 ### Tempo

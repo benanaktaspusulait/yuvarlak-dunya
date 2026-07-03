@@ -119,7 +119,28 @@ Shot changes should not create audio jumps.
 
 ---
 
-## 7. Pompom Hills Original Music Library
+## 7. Voice Identity Rule
+
+The audience should never feel that a character's voice changes between shots.
+
+For every speaking character, maintain:
+
+- same voice identity
+- same age impression
+- same pitch
+- same timbre
+- same speaking speed
+- same emotional warmth
+- same preschool narration style
+- same speaking rhythm
+
+If the production system supports Voice Reference or Voice ID, use the same Voice ID for the same character in every shot. If Voice ID is not available, reuse the closest approved character voice reference and flag any drift in QA.
+
+Do not generate a different narrator, alternate performer, older/younger version, or different emotional delivery unless the story explicitly requires it.
+
+---
+
+## 8. Pompom Hills Original Music Library
 
 ### Planned Music Themes
 
@@ -142,7 +163,7 @@ Shot changes should not create audio jumps.
 
 ---
 
-## 8. Ses Seviyesi Standartları
+## 9. Ses Seviyesi Standartları
 
 | Ses Tipi | Seviye | Not |
 |----------|--------|-----|
@@ -161,7 +182,7 @@ Shot changes should not create audio jumps.
 
 ---
 
-## 9. S01E14 Ses Planı (Örnek)
+## 10. S01E14 Ses Planı (Örnek)
 
 ### Müzik
 

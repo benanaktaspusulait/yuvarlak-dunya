@@ -19,9 +19,13 @@ Bu, tüm alt kuralları otomatik olarak uygular.
 
 ---
 
-## 1. Color Continuity Rule
+## 1. Colour Identity Rule
 
 Her shot, aynı renk kimliğini korumalıdır.
+
+Colour Identity, World Identity kadar önemlidir.
+
+Amaç yalnızca benzer görünmek değildir. Amaç, tüm bölümün tek bir sürekli film gibi aynı colour grade ile görünmesidir.
 
 ### Default Colour Profile
 
@@ -41,13 +45,38 @@ Her shot, aynı renk kimliğini korumalıdır.
 
 ```
 Her shot korumalıdır:
-- overall colour temperature
-- exposure
-- saturation
-- contrast
-- lighting softness
-- shadow intensity
-- environmental atmosphere
+- identical white balance
+- identical warmth
+- identical exposure
+- identical saturation
+- identical pastel palette
+- identical contrast
+- matte handcrafted finish
+```
+
+### Avoid
+
+```
+- blue tint
+- green tint
+- orange shift
+- HDR look
+- cinematic LUT
+- warmer or cooler reinterpretation
+```
+
+### Production Rules
+
+```
+Match the colour grading of the previous shot.
+
+Avoid any colour shift.
+
+Do not introduce cinematic grading.
+
+The continuity reference image is also the colour reference.
+
+The entire episode must appear colour graded as one continuous film.
 ```
 
 ### Exceptions
@@ -66,9 +95,21 @@ Aksi takdirde, belirlenmiş renk profili değişmeden kalır.
 
 ---
 
-## 2. Lighting Continuity Rule
+## 2. Lighting Identity Rule
 
 Her shot, önceki shot'ın aydınlatmasını birebir korumalıdır.
+
+Lighting Identity ve Colour Identity ayrı kilitlerdir. Lighting ışığın davranışını korur; Colour Identity grade, palette ve white balance'ı korur.
+
+### Default Lighting Identity
+
+```
+- Warm morning sunlight
+- Soft ambient preschool lighting
+- Gentle shadows
+- Natural bounce lighting
+- No dramatic contrast
+```
 
 ### Match
 
@@ -91,8 +132,6 @@ Do not reinterpret the lighting.
 Do not brighten the scene.
 
 Do not darken the scene.
-
-Do not introduce a different colour grade.
 
 The continuity reference image is also the lighting reference.
 ```
@@ -187,9 +226,13 @@ Her shot için:
 ```
 - [ ] Colour grading matches the previous shot
 - [ ] White balance remains consistent
+- [ ] Warmth remains consistent
 - [ ] Lighting mood remains consistent
 - [ ] Exposure matches neighbouring shots
+- [ ] Saturation remains consistent
+- [ ] Contrast remains consistent
 - [ ] No unexpected colour shift
+- [ ] No blue tint, green tint, orange shift, HDR look or cinematic LUT
 - [ ] Camera distance preserved
 - [ ] No close-ups unless necessary
 - [ ] Character scale correct (6-8% frame)
@@ -203,4 +246,4 @@ Her shot için:
 
 *Bu belge tüm görsel süreklilik kuralları için tek kaynaktır.*
 *Her shot bu kurallara uymalıdır.*
-*Son güncelleme: 2 Temmuz 2026*
+*Son güncelleme: 3 Temmuz 2026*

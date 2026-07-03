@@ -10,6 +10,21 @@ Idea → Story → Shot Planning → Prompt Writing → OpenArt → Continuity �
 
 ---
 
+## Permanent Identity Locks
+
+Every episode must preserve the identity of the character, world, voice and colour grade across all shots.
+
+Current production priority:
+
+1. Voice Identity
+2. Colour Identity
+3. World Identity
+4. Character Identity
+
+The goal is not pixel-perfect reproduction. The goal is that the episode feels like one continuous production.
+
+---
+
 ## 1. Idea
 
 Every episode starts with a single emotional idea.
@@ -51,7 +66,9 @@ Do not reinterpret @image1.
 Do not reposition the camera.
 Continue the action naturally from @image1.
 [Scene description]
-[Lighting lock]
+[Lighting identity]
+[Colour continuity]
+[Voice continuity]
 [Character presence]
 [Text safety]
 ```
@@ -61,8 +78,83 @@ Continue the action naturally from @image1.
 - Environment LOCKED
 - Character LOCKED
 - Lighting LOCKED
+- Colour identity LOCKED
+- Voice identity LOCKED
 - Camera distance preserved
 - No close-ups unless necessary
+
+### Voice Continuity
+
+Every Shot Specification with dialogue must include:
+
+```text
+## Voice Continuity
+
+For Shot 01, match the approved character Voice ID or voice reference.
+
+For Shot 02+, match the previous speaking shot.
+
+The speaking voice MUST remain identical to the previous shot.
+
+Maintain:
+
+- same voice identity
+- same pitch
+- same timbre
+- same speaking speed
+- same emotional warmth
+- same preschool narration style
+
+Do not generate a different narrator or alternate voice.
+```
+
+If the production tool supports Voice Reference or Voice ID, use the same Voice ID for the same character in every shot. If no Voice ID is available, use the closest available character voice reference and treat voice drift as a model limitation to flag in QA.
+
+### Lighting Identity
+
+Lighting identity and colour identity are separate locks.
+
+```text
+Warm morning sunlight
+Soft ambient preschool lighting
+Gentle shadows
+Natural bounce lighting
+No dramatic contrast
+```
+
+### Colour Identity
+
+Every shot must match the colour grading of the previous shot.
+
+```text
+Maintain:
+
+- identical white balance
+- identical warmth
+- identical exposure
+- identical saturation
+- identical pastel palette
+- identical contrast
+
+Avoid any colour shift.
+Do not introduce cinematic grading.
+The entire episode must appear colour graded as one continuous film.
+```
+
+Default colour identity:
+
+```text
+Warm white balance
+Pastel palette
+Soft saturation
+Low contrast
+Matte handcrafted finish
+No blue tint
+No green tint
+No orange shift
+No HDR look
+No cinematic LUT
+```
 
 ---
 
@@ -96,6 +188,8 @@ Continue the action naturally from @image1.
 - [ ] Frame Lock included
 - [ ] Camera Lock included
 - [ ] Lighting Lock included
+- [ ] Colour Identity Lock included
+- [ ] Voice Continuity included for speaking shots
 - [ ] Character presence verified
 - [ ] Text safety confirmed
 
@@ -123,9 +217,24 @@ Continue the action naturally from @image1.
 1. Mute original shot music
 2. Add continuous music track
 3. Add ambient sounds
-4. Add dialogue
+4. Add dialogue using the locked character Voice ID or voice reference
 5. Add SFX
 6. Fade in/out
+
+### Voice Identity Rule
+
+The same character must sound like the same character across all shots.
+
+Maintain:
+
+- same voice identity
+- same age impression
+- same personality
+- same warmth
+- same speaking rhythm
+- same pitch and timbre
+
+Do not allow a shot to introduce a different narrator, alternate performer, older/younger version, or different emotional delivery unless the story explicitly requires it.
 
 ---
 
@@ -175,6 +284,8 @@ Subtitle creation and upload rules are defined in `SUBTITLE_WORKFLOW.md`.
 |-------|------|
 | Character consistency | ✓ |
 | World consistency | ✓ |
+| Voice identity | ✓ |
+| Colour identity | ✓ |
 | Lighting continuity | ✓ |
 | Camera continuity | ✓ |
 | Emotional arc | ✓ |
@@ -188,6 +299,8 @@ Subtitle creation and upload rules are defined in `SUBTITLE_WORKFLOW.md`.
 - Close-ups can cause environment regeneration
 - Character presence must be explicit
 - Lighting must be locked, not suggested
+- Colour identity must be locked separately from lighting
+- Voice identity must be locked across speaking shots
 - Music is episode-level, not shot-level
 
 ---
@@ -196,6 +309,8 @@ Subtitle creation and upload rules are defined in `SUBTITLE_WORKFLOW.md`.
 
 - Using "close-up" in prompts
 - Not locking lighting
+- Treating colour as part of lighting only
+- Regenerating a new voice for each shot
 - Using final frame automatically
 - Adding shot-level music
 - Not including character presence notes
@@ -206,6 +321,8 @@ Subtitle creation and upload rules are defined in `SUBTITLE_WORKFLOW.md`.
 
 - Always use Frame Lock
 - Always match lighting from reference
+- Always match colour grading from the previous shot
+- Always reuse the locked character Voice ID or voice reference
 - Always include negative prompts
 - Always verify before rendering
 - Always reuse existing assets

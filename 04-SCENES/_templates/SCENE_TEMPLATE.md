@@ -36,6 +36,25 @@ Bu şablonu kullanarak yeni sahne dosyası oluşturun.
 [Karakter]: [Replik]
 ```
 
+## Voice Continuity
+
+For Shot 01, match the approved character Voice ID or voice reference.
+
+For Shot 02+, match the previous speaking shot.
+
+The speaking voice MUST remain identical to the previous shot.
+
+Maintain:
+
+- same voice identity
+- same pitch
+- same timbre
+- same speaking speed
+- same emotional warmth
+- same preschool narration style
+
+Do not generate a different narrator or alternate voice.
+
 ## Visual Prompt
 
 ```text
@@ -83,6 +102,14 @@ LIGHTING
 [Işık ayarları]
 
 ----------------------------------------
+COLOUR CONTINUITY
+Match the colour grading of the previous shot.
+Maintain identical white balance, warmth, exposure, saturation, pastel palette and contrast.
+Avoid any colour shift.
+No blue tint. No green tint. No orange shift. No HDR look. No cinematic LUT.
+The entire episode must appear colour graded as one continuous film.
+
+----------------------------------------
 STYLE
 [Stil tanımı]
 
@@ -116,6 +143,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 - Önceki sahne: [Önceki sahne referansı]
 - Continuity frame: [Kare referansı]
 - Devam kuralları: `CONTINUITY_RULES.md`
+- Voice continuity: same Voice ID or approved voice reference for each speaking character
+- Colour continuity: match previous shot white balance, exposure, saturation and contrast
 
 ## QA Checklist
 
@@ -123,10 +152,12 @@ Reference: `16_VIDEO_QA_SPEC.md`
 
 - [ ] Character integrity verified
 - [ ] Character consistency verified
+- [ ] Voice identity verified
 - [ ] Object persistence verified
 - [ ] No rendering artefacts
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
+- [ ] Colour identity verified
 - [ ] Canonical rules followed
 ```
 

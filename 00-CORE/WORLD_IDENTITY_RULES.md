@@ -42,8 +42,12 @@ The following elements define the identity of a world and should remain consiste
 - colour palette
 - lighting mood
 - colour temperature
+- white balance
 - saturation
 - exposure
+- contrast
+- pastel palette
+- matte handcrafted finish
 
 ### Environment Identity
 
@@ -94,6 +98,10 @@ Do not change:
 - architecture
 - room layout
 - colour palette
+- white balance
+- exposure
+- saturation
+- contrast
 - furniture style
 - atmosphere
 - lighting identity
@@ -128,6 +136,7 @@ A successful world should feel like revisiting the same location, even if minor 
 
 - [ ] Architecture preserved.
 - [ ] Colour identity preserved.
+- [ ] White balance, exposure, saturation and contrast preserved.
 - [ ] Lighting identity preserved.
 - [ ] Environment identity preserved.
 - [ ] Atmosphere preserved.

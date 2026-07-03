@@ -69,12 +69,27 @@ The animation begins only after the first frame has matched @image exactly.
   - [ ] brightness
   - [ ] moonlight intensity
   - [ ] colour temperature
-  - [ ] colour grading
 - [ ] Does it prevent the scene becoming brighter or darker?
 
 ---
 
-## 6. Character Check
+## 6. Colour Identity Check
+
+- [ ] Does the prompt match colour grading from the previous shot?
+- [ ] Does it lock:
+  - [ ] white balance
+  - [ ] warmth
+  - [ ] exposure
+  - [ ] saturation
+  - [ ] pastel palette
+  - [ ] contrast
+- [ ] Does it prevent blue tint, green tint or orange shift?
+- [ ] Does it prevent HDR look or cinematic LUT?
+- [ ] Will the episode feel colour graded as one continuous film?
+
+---
+
+## 7. Character Check
 
 - [ ] Are the correct characters selected in OpenArt?
 - [ ] Are they already present if continuing from the previous shot?
@@ -83,7 +98,7 @@ The animation begins only after the first frame has matched @image exactly.
 
 ---
 
-## 7. Text Safety Check
+## 8. Text Safety Check
 
 Every prompt must include:
 
@@ -97,7 +112,7 @@ No text.
 
 ---
 
-## 8. Audio Check
+## 9. Audio Check
 
 - [ ] Do not rely on OpenArt shot music.
 - [ ] Shot audio may contain ambience only.
@@ -106,7 +121,18 @@ No text.
 
 ---
 
-## 9. Final Go / No-Go
+## 10. Voice Continuity Check
+
+For every speaking shot:
+
+- [ ] Is the same character Voice ID or voice reference selected?
+- [ ] Does the shot include a Voice Continuity section?
+- [ ] Does the prompt require the same pitch, timbre, speed, warmth and preschool style?
+- [ ] Does it reject a different narrator or alternate voice?
+
+---
+
+## 11. Final Go / No-Go
 
 Before pressing Generate Video, confirm:
 
@@ -115,9 +141,13 @@ Before pressing Generate Video, confirm:
 - [ ] Correct @image tag
 - [ ] Frame Lock included
 - [ ] Lighting Lock included
+- [ ] Colour Identity Lock included
 - [ ] Camera Lock included
+- [ ] Voice Continuity checked for speaking shots
 - [ ] No close-up risk
 - [ ] No world redesign risk
+- [ ] No colour shift risk
+- [ ] No voice drift risk
 - [ ] No text risk
 - [ ] No shot-level music dependency
 
@@ -138,4 +168,4 @@ Never render before passing the checklist.
 ---
 
 *Bu belge her video üretimi öncesi zorunlu kontroldür.*
-*Son güncelleme: 2 Temmuz 2026*
+*Son güncelleme: 3 Temmuz 2026*

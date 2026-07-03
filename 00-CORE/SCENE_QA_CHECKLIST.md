@@ -35,7 +35,9 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 
 - [ ] Frame Lock var mı? (frame zero, @image1)
 - [ ] Camera Lock var mı? (identical camera position)
-- [ [ ] Lighting Lock var mı? (first frame must preserve exact lighting)
+- [ ] Lighting Lock var mı? (first frame must preserve exact lighting)
+- [ ] Colour Identity Lock var mı? (white balance, exposure, saturation, contrast)
+- [ ] Voice Continuity bölümü var mı? (speaking shots için)
 - [ ] Character presence var mı? (already present at the beginning)
 - [ ] Text Safety var mı? (No subtitles)
 - [ ] Negative Prompt var mı?
@@ -60,6 +62,8 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Her shot için render prompt var mı?
 - [ ] @image1 kullanılıyor mu?
 - [ ] Lighting lock var mı?
+- [ ] Colour identity lock var mı?
+- [ ] Speaking shot'larda Voice Continuity var mı?
 - [ ] Character presence var mı?
 - [ ] Text Safety var mı?
 
@@ -82,17 +86,27 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Işık continuity reference'dan mı geliyor?
 - [ ] Exposure kilitli mi?
 - [ ] Brightness kilitli mi?
-- [ ] Colour grading kilitli mi?
 - [ ] Sahne parlaklaşmamış/kararmamış mı?
 
-### 10. Camera Continuity
+### 10. Colour Identity
+
+- [ ] White balance unchanged mı?
+- [ ] Exposure unchanged mı?
+- [ ] Saturation unchanged mı?
+- [ ] Contrast unchanged mı?
+- [ ] Pastel palette korunuyor mu?
+- [ ] Blue tint / green tint / orange shift yok mu?
+- [ ] HDR look veya cinematic LUT yok mu?
+- [ ] Episode tek bir continuous recording gibi görünüyor mu?
+
+### 11. Camera Continuity
 
 - [ ] Kamera mesafesi korunuyor mu?
 - [ ] Close-up kaçınılmış mı?
 - [ ] Dramatic push-in/pull-back yok mu?
 - [ ] Yeni establishing shot yok mu?
 
-### 11. Dialogue Continuity
+### 12. Dialogue Continuity
 
 - [ ] Diyalog talimatları çelişkili mi?
 - [ ] Bir shot'ta hem diyalog var hem "no dialogue" denmiş mi?
@@ -100,7 +114,18 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Sessiz shot'larda diyalog satırı var mı?
 - [ ] Devam shot'larında neden devam ettiği açıklanmış mı?
 
-### 12. Shot Duration Feasibility
+### 13. Voice QA
+
+- [ ] Voice matches previous shot mı?
+- [ ] Same age impression korunuyor mu?
+- [ ] Same personality korunuyor mu?
+- [ ] Same warmth korunuyor mu?
+- [ ] Same speaking rhythm korunuyor mu?
+- [ ] Same pitch and timbre korunuyor mu?
+- [ ] Voice ID veya voice reference aynı mı?
+- [ ] Farklı narrator veya alternate voice oluşmamış mı?
+
+### 14. Shot Duration Feasibility
 
 - [ ] Shot süresi, diyalog, aksiyon, kamera hareketi ve geçiş için gerçekçi mi?
 - [ ] Diyalog + gezinme varsa minimum 8 saniye mi?
@@ -129,12 +154,16 @@ Bir sahne şu durumlarda reddedilir:
 | 2 | Frame Lock yok | Evet → Red |
 | 3 | Camera Lock yok | Evet → Red |
 | 4 | Lighting Lock yok | Evet → Red |
-| 5 | Character presence yok | Evet → Red |
-| 6 | Text Safety yok | Evet → Red |
-| 7 | Close-up var | Evet → Red |
-| 8 | Karakter ölçeği yanlış | Evet → Red |
-| 9 | Dünya yeniden tasarlanmış | Evet → Red |
-| 10 | Yeni establishing shot | Evet → Red |
+| 5 | Colour Identity Lock yok | Evet → Red |
+| 6 | Speaking shot'ta Voice Continuity yok | Evet → Red |
+| 7 | Character presence yok | Evet → Red |
+| 8 | Text Safety yok | Evet → Red |
+| 9 | Close-up var | Evet → Red |
+| 10 | Karakter ölçeği yanlış | Evet → Red |
+| 11 | Dünya yeniden tasarlanmış | Evet → Red |
+| 12 | Renk tonu shot'lar arasında değişmiş | Evet → Red |
+| 13 | Karakter sesi shot'lar arasında değişmiş | Evet → Red |
+| 14 | Yeni establishing shot | Evet → Red |
 
 ---
 

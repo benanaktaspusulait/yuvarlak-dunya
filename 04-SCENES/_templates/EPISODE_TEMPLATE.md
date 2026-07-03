@@ -25,6 +25,9 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 | Ana tema | [Tema] |
 | Mekan | [Mekan adı] |
 | Karakterler | [Karakter listesi] |
+| Voice Identity | [Voice ID / approved voice reference per speaking character] |
+| Colour Identity | [Warm white balance / pastel palette / soft saturation / low contrast] |
+| Lighting Identity | [Warm morning sunlight / soft ambient preschool lighting] |
 | Görsel yoğunluk | [Düşük/Orta] |
 | Çatışma | Yok; sadece [açıklama] |
 
@@ -71,7 +74,25 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 
 | Karakter | Ses |
 | --- | --- |
-| [Karakter] | [Ses notları] |
+| [Karakter] | [Voice ID or approved voice reference + ses notları] |
+
+Voice continuity rule:
+
+```text
+The speaking voice MUST remain identical across all shots.
+Use the same Voice ID or approved voice reference for the same character.
+Maintain the same pitch, timbre, speaking speed, warmth and preschool narration style.
+```
+
+---
+
+## Colour Notes
+
+```text
+The full episode must appear colour graded as one continuous film.
+Maintain identical white balance, warmth, exposure, saturation, pastel palette and contrast across all shots.
+No blue tint. No green tint. No orange shift. No HDR look. No cinematic LUT.
+```
 
 ---
 
@@ -126,6 +147,12 @@ Her bölüm klasörü (`04-SCENES/season-NN/sNNeNN-slug/`) şu dosyaları içerm
 | 04 | /10 | ⬜ |
 
 Reference: `16_VIDEO_QA_SPEC.md`
+
+Required episode-level checks:
+
+- [ ] Voice identity remains consistent across speaking shots.
+- [ ] Colour identity remains consistent across all shots.
+- [ ] Episode feels like one continuous recording.
 
 ---
 

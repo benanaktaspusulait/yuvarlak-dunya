@@ -14,6 +14,35 @@ Her Pompom Hills sesi için bu kurallar geçerlidir:
 - Nefesler doğal ve sessiz olsun. Ağır nefes, dramatik duraklamalar veya yetişkin tiyatral yoğunluğu yok.
 - Temiz stüdyo sesi, kuru veya hafif işlenmiş; müzik, reverb kuyruğu veya gürültülü arka plan yok.
 
+## Voice Continuity
+
+Bir karakterin sesi her sahnede aynı karakter sesi olarak kalmalıdır.
+
+Her speaking shot için:
+
+```text
+For Shot 01, match the approved character Voice ID or voice reference.
+
+For Shot 02+, match the previous speaking shot.
+
+The speaking voice MUST remain identical to the previous shot.
+
+Maintain:
+
+- same voice identity
+- same pitch
+- same timbre
+- same speaking speed
+- same emotional warmth
+- same preschool narration style
+
+Do not generate a different narrator or alternate voice.
+```
+
+Voice Reference veya Voice ID destekleyen sistemlerde aynı karakter için her shot'ta aynı Voice ID kullanılmalıdır.
+
+Voice ID desteklenmiyorsa, onaylı karakter voice reference'ı yeniden kullanılmalı ve ses kayması QA'da işaretlenmelidir.
+
 ## Ortak Negatif Ses Promptu
 
 ```text
