@@ -261,7 +261,7 @@ Dialogue:
 WORLD: Kiko's Home interior. LOCKED.
 CHARACTER: Kiko — no redesign.
 SCALE: Kiko 15–20% of frame.
-CAMERA: Interior wide shot. Static. Child eye level. Do not walk. Remain in place.
+CAMERA: Interior wide shot. Static. Child eye level. Kiko remains in place. Do not walk.
 LIGHTING: Warm interior light.
 NEGATIVE: No text, no redesigned interior.
 ```

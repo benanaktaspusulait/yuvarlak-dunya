@@ -50,7 +50,7 @@ Kiko stands in the middle of the room. She faces camera. She smiles warmly. She 
 WORLD: Kiko's Home interior. LOCKED.
 CHARACTER: Kiko — no redesign.
 SCALE: Kiko ~8% of frame.
-CAMERA: Interior wide. Static. Child eye level. Do not walk. Remain in place.
+CAMERA: Interior wide. Static. Child eye level. Kiko remains in place. Do not walk.
 LIGHTING: Warm interior light.
 NEGATIVE: No text, no redesigned interior.
 ```
