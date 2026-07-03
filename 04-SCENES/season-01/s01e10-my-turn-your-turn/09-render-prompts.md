@@ -2,14 +2,18 @@
 
 ---
 
+## Global Standard
+
+All render prompts follow `00-CORE/17_VIDEO_GENERATION_STANDARD.md`.
+
+---
+
 ## Shot 01
 
 ```text
-Luca from Pompom Hills holding a colorful ball in Central Square, morning light, Central Square with flower beds, no other characters, {style} {camera} {lighting}
+Luca and Noah from Pompom Hills already in Central Square, both looking at a round yellow ball on the grass, Big Pompom Tree visible in background, warm morning light, soft pastel colours, childlike wonder, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
+Characters should feel small and childlike within Central Square, but must remain readable for facial expression and action.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -19,11 +23,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 02
 
 ```text
-Noah reaching for the ball that Luca is holding, both in Central Square, warm daylight, no other characters, {style} {camera} {lighting}
+Continue directly from @image1. The first frame of this video must match @image1 exactly.
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Luca and Noah both reaching for the same round yellow ball at Central Square, gentle curiosity on their faces, Big Pompom Tree background, warm morning light, soft pastel colours, no other characters, {style} {camera} {lighting}
 
-Do not change the established exposure, brightness or moonlight intensity.
+Match the lighting and colour grading exactly from @image1.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -33,11 +37,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 03
 
 ```text
-Luca handing the ball to Noah, both smiling, Central Square, warm light, no other characters, {style} {camera} {lighting}
+Continue directly from @image1. The first frame of this video must match @image1 exactly.
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Luca handing the round yellow ball to Noah at Central Square, both children smiling gently, Big Pompom Tree background, warm morning light, soft pastel colours, sharing moment, no other characters, {style} {camera} {lighting}
 
-Do not change the established exposure, brightness or moonlight intensity.
+Match the lighting and colour grading exactly from @image1.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -47,11 +51,39 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 04
 
 ```text
-Noah and Luca throwing the ball back and forth in Central Square, both happy, warm afternoon light, playful movement, no other characters, {style} {camera} {lighting}
+Continue directly from @image1. The first frame of this video must match @image1 exactly.
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Luca and Noah throwing the round yellow ball back and forth at Central Square, both laughing, Noah almost misses and giggles, Big Pompom Tree background, warm morning light, soft pastel colours, playful movement, no other characters, {style} {camera} {lighting}
 
-Do not change the established exposure, brightness or moonlight intensity.
+Match the lighting and colour grading exactly from @image1.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+---
+
+## Shot 05
+
+```text
+Continue directly from @image1. The first frame of this video must match @image1 exactly.
+
+Luca and Noah chasing a round yellow ball as it rolls away across Central Square after Noah bounced it, warm morning light, soft pastel colours, gentle chase, Big Pompom Tree in background, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from @image1.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+---
+
+## Shot 06
+
+```text
+Continue directly from @image1. The first frame of this video must match @image1 exactly.
+
+Luca and Noah finding the round yellow ball together beside an existing shrub in Central Square, both children smiling with relief, warm morning light, soft pastel colours, Big Pompom Tree in background, gentle ending, no other characters, {style} {camera} {lighting}
+
+Match the lighting and colour grading exactly from @image1.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

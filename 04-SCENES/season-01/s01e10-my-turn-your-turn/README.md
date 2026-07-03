@@ -1,4 +1,4 @@
-# S01E10 — My Turn, Your Turn v1.0
+# S01E10 — My Turn, Your Turn v3.0
 
 ---
 
@@ -6,26 +6,34 @@
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 60 saniye (4 sahne × 15 sn) |
+| Süre | 90 saniye (6 sahne × 15 sn) |
 | Karakterler | Luca, Noah |
 | Mekan | Central Square |
 | Duygu | Paylaşım |
 | Tema | Sırayla oynamak |
+| Işık | Warm morning (tüm bölüm) |
 
 ---
 
 ## Story Summary
 
-Luca ve Noah aynı top ile oynamak ister. İkisi de topu ister. Sonra sırayla oynamaya karar verirler. Birlikte eğlenirler.
+Luca ve Noah Central Square'da yuvarlak sarı bir top keşfeder. İkisi de aynı top ile oynamak ister. Sırayla oynamaya karar verirler. Birlikte eğlenirler. Top yuvarlanır ve birlikte kovalarlar. Topu birlikte bulurlar ve dostlukları pekişir.
+
+---
+
+## Emotional Progression
+
+Curiosity → Mild desire → Pause and think → Taking turns → Ball rolls away → Finding it together
 
 ---
 
 ## Sahne 01 — Topu Görürler (0-15 sn)
 
 **Beat:**
-- 0-5 sn: Central Square görünür. Yuvarlak sarı top çimende durur.
-- 5-10 sn: Luca gelir, topu görür.
-- 10-15 sn: Noah da gelir, aynı topu görür.
+- 0-3 sn: Central Square görünür. Yuvarlak sarı top çimende durur.
+- 3-6 sn: Luca gelir, topu görür.
+- 6-9 sn: Noah da gelir, aynı topu görür.
+- 9-15 sn: İkisi de aynı topa bakar.
 
 **Dialogue:**
 ```
@@ -33,43 +41,35 @@ Luca: A ball!
 Noah: I see it!
 ```
 
-**Visual Prompt:**
-```text
-Luca and Noah at Central Square both looking at a round yellow ball on the grass, excited expressions, Big Pompom Tree background, warm morning light, no other characters, {style} {camera} {lighting}
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
+**Emotion:** Discovery.
 
 ---
 
 ## Sahne 02 — İkisi de İster (15-30 sn)
 
 **Beat:**
-- 0-5 sn: Luca topa uzanır.
-- 5-10 sn: Noah da topa uzanır.
-- 10-15 sn: İkisi de topu tutar. Bakışırlar.
+- 0-3 sn: İlk kare @image1 ile eşleşir.
+- 3-6 sn: Luca topa uzanır.
+- 6-9 sn: Noah da topa uzanır.
+- 9-15 sn: İkisi de topu tutar. Bakışırlar.
 
 **Dialogue:**
 ```
-Luca: My turn!
-Noah: No, my turn!
+Luca: Can I try?
+Noah: I want to try too.
 ```
 
-**Visual Prompt:**
-```text
-Luca and Noah both holding the same round yellow ball at Central Square, looking at each other, slight tension but friendly, warm light, no other characters, {style} {camera} {lighting}
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
+**Emotion:** Mild tension.
 
 ---
 
 ## Sahne 03 — Sırayla Oynarlar (30-45 sn)
 
 **Beat:**
-- 0-5 sn: Luca topu Noah'a verir.
-- 5-10 sn: Noah topu sektirir. Gülümser.
-- 10-15 sn: Noah topu Luca'ya verir.
+- 0-3 sn: İlk kare @image1 ile eşleşir.
+- 3-6 sn: Luca topu Noah'a verir.
+- 6-9 sn: Noah topu sektirir. Gülümser.
+- 9-15 sn: Noah topu Luca'ya geri verir.
 
 **Dialogue:**
 ```
@@ -77,21 +77,17 @@ Luca: Your turn.
 Noah: Your turn!
 ```
 
-**Visual Prompt:**
-```text
-Luca and Noah taking turns bouncing a round yellow ball at Central Square, both smiling, warm afternoon light, no other characters, {style} {camera} {lighting}
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
+**Emotion:** Sharing.
 
 ---
 
 ## Sahne 04 — Birlikte Eğlenirler (45-60 sn)
 
 **Beat:**
-- 0-5 sn: İkisi birlikte top sektirir.
-- 5-10 sn: Top havaya gider, ikisi de bakar.
-- 10-15 sn: Top yere düşer. Gülümserler.
+- 0-3 sn: İlk kare @image1 ile eşleşir.
+- 3-6 sn: Luca topu Noah'a fırlatır.
+- 6-9 sn: Noah yakalar, geri fırlatır.
+- 9-15 sn: Top havaya gider, ikisi de bakar, yere düşer. Gülümserler.
 
 **Dialogue:**
 ```
@@ -99,15 +95,82 @@ Noah: That was fun!
 Luca: Again!
 ```
 
-**Visual Prompt:**
-```text
-Luca and Noah laughing together after bouncing a ball at Central Square, happy warm expressions, golden afternoon light beginning, Big Pompom Tree background, no other characters, {style} {camera} {lighting}
+**Emotion:** Joy.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+---
+
+## Sahne 05 — Top Yuvarlanır (60-75 sn)
+
+**Beat:**
+- 0-3 sn: İlk kare @image1 ile eşleşir.
+- 3-6 sn: Top seker ve yuvarlanmaya başlar.
+- 6-9 sn: Top çimenlerin üzerinden yuvarlanır.
+- 9-15 sn: Luca ve Noah topun peşinden koşar.
+
+**Dialogue:**
 ```
+Luca: Oh no!
+Noah: Let's get it!
+```
+
+**Emotion:** Mild surprise.
+
+---
+
+## Sahne 06 — Birlikte Bulurlar (75-90 sn)
+
+**Beat:**
+- 0-3 sn: İlk kare @image1 ile eşleşir.
+- 3-6 sn: Top küçük bir çalının dibinde durur.
+- 6-9 sn: Noah topu alır.
+- 9-12 sn: Luca gelir, ikisi gülümser.
+- 12-15 sn: Sessiz gülümseme.
+
+**Dialogue:**
+```
+Noah: We found it!
+Luca: Together.
+```
+
+**Emotion:** Warm ending.
+
+---
+
+## Ball Continuity
+
+Aynı yuvarlak sarı top tüm bölüm boyunca görünür.
+
+Shot 01: Top çimende görülür.
+Shot 02: Her iki çocuk aynı topa uzanır.
+Shot 03: Sırayla oynamaya karar verirler.
+Shot 04: Aynı top ile birlikte oynarlar.
+Shot 05: Aynı top yuvarlanır.
+Shot 06: Aynı topu birlikte bulurlar.
+
+Top renk, boyut, doku veya şekil değiştirmez.
+
+---
+
+## Central Square Continuity
+
+Central Square tüm bölüm boyunca görsel olarak tutarlı kalır.
+
+- Big Pompom Tree her zaman arka planda görünür
+- Warm morning light tüm bölüm boyunca sabit
+- Soft pastel renkler korunur
+- Güvenli açık oyun alanı
+- Yeni mekan eklenmez
+- Yeni karakter eklenmez
+- Mekan yeniden tasarlanmaz
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different world
+low quality, blurry, deformed, extra limbs, duplicated limbs, text, watermark, captions, subtitles, speech bubbles, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, new narrator, redesigned environment, different Central Square, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in, camera reset, colour shift, lighting change, harsh conflict, arguing faces
+
+---
+
+*Bu belge S01E10 için tek kaynaktır.*
+*Versiyon: 3.0*
+*Son güncelleme: 3 Temmuz 2026*

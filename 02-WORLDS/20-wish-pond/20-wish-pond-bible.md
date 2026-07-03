@@ -1,14 +1,20 @@
 # Environment Bible — Wish Pond
 
-> **Version 2.0** — Upgraded to new production pipeline standard.
+> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+
+> This document describes the creative definition and production-ready specifications
+> for Wish Pond. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
+> — see `Production Readiness` below.
 
 ---
 
 ```
 Environment ID: ENV-020
-File: environment/20-wish-pond.png
-Version: 2.1
+File: 02-WORLDS/20-wish-pond/
+Version: 3.0
 Location: Little Forest yanı
+Type: Living World
+Status: Production Ready
 ```
 
 ---
@@ -25,7 +31,625 @@ Gece yıldızlar suda yüzer.
 
 ## Why This World Exists ⭐
 
-Wish Pond, serinin "dilek ve hayal gücü" tapınağı olarak tasarlanmıştır — gece gökyüzünün suda yansıması, children'lere sonsuzluk ve sihir hissi verir. Bu mekan, hikayedeki en duygusal anları barındırarak izleyicinin hayal gücünü besler. Sessiz atmosfer ve yıldızlı yansıma, kids'in kendi dileklerini düşünmeleri için meditatif bir alan yaratır.
+Wish Pond, serinin "dilek ve hayal gücü" tapınağı olarak tasarlanmıştır — gece gökyüzünün suda yansıması, children'lere sonsuzluk ve sihir hissi verir. Bu mekan, hikayedeki en duygusal anları barındırarak izleyicinin hayal gücünü besler. Sessiz atmosfer ve yıldızlı yansıma, kids'in kendi dileklerini düşünmeleri için meditatif bir alan yaratır. Gölet, Pompom Hills'in "dilek kalbi" olarak tasarlanmıştır — her macera burada bir yıldıza bakarak başlar.
+
+---
+
+## World Structure
+
+Wish Pond tek bir bağlantılı yaşam alanıdır. Dışarıdan gölet kenarına giriş doğal bir akış sağlar. Bu paylaşımlı alanın içinde yumuşak aktivite bölgeleri doğal olarak ortaya çıkar:
+
+- Pond Entrance (Gölet Girişi)
+- Star Reflection Point (Yıldız Yansıma Noktası)
+- Stone Circle (Taş Dairesi)
+- Wish Corner (Dilek Köşesi)
+- Shore Lookout (Sahil Gözetleme)
+- Quiet Rest Area (Sakin Dinlenme Alanı)
+
+**Bunlar ayrılmış alanlar değildir.** Tek bir bağlantılı gölet alanı içinde yumuşak
+işlevsel bölgelerdir.
+
+```
+Little Forest Patikası (Little Forest Patikası)
+    ↓ taş yol
+Pond Entrance (Gölet Girişi)
+    ↓
+One Continuous Pond Space
+    (Star Reflection Point · Stone Circle · Wish Corner · Shore Lookout · Quiet Rest Area
+     — yumuşak bölgeler, duvarsız, tek alanın içinde bir arada)
+```
+
+Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler yoktur. Gölet, tek bir yuvarlak su yüzeyi etrafında doğal bir akış oluşturur.
+
+---
+
+## World Zones
+
+### Pond Entrance (Gölet Girişi)
+
+- **Purpose:** Wish Pond'a ilk karşılaştığı alan
+- **Emotional Purpose:** Merak ve huzur — "Burası çok güzel"
+- **Typical Activities:** Giriş yapma, etrafa bakma, ilk yıldız arama
+- **Typical Stories:** Kiko gölet kenarına gelir, suyu izler
+- **Lighting:** Gece yıldız ışığı, yumuşak
+- **Mood:** Huzurlu, sihirli, sakin
+- **Important Props:** Yuvarlak taşlar, berrak su
+- **Camera Usage:** Wide establishing, entrance approach
+- **Characters:** Kiko, Mimi, herkes
+- **Transition →** Star Reflection Point
+
+### Star Reflection Point (Yıldız Yansıma Noktası)
+
+- **Purpose:** Yıldızların suda yansıdığı alan
+- **Emotional Purpose:** Büyü, sihir, sonsuzluk
+- **Typical Activities:** Yıldız izleme, yansıma izleme, hayal kurma
+- **Typical Stories:** Kiko yıldızları sayar, Mimi dilek diler
+- **Lighting:** Yıldız ışığı, mavi-mor tonları
+- **Mood:** Büyülü, sakin, sihirli
+- **Important Props:** Su yüzeyi, yıldız yansımaları
+- **Camera Usage:** Water-level reflection, close-up stars
+- **Characters:** Kiko, Mimi
+- **Transition →** Stone Circle
+
+### Stone Circle (Taş Dairesi)
+
+- **Purpose:** Gölet etrafındaki taşların bulunduğu alan
+- **Emotional Purpose:** Toprak, doğal bağlantı, huzur
+- **Typical Activities:** Taş izleme, sayma, dokunma
+- **Typical Stories:** Kiko taşları sayar, Mimi taşları arrange eder
+- **Lighting:** Yumuşak, yıldız ışığı
+- **Mood:** Doğal, sakin, toprak
+- **Important Props:** Yuvarlak taşlar, gölet kenarı
+- **Camera Usage:** Close-up stones, wide circle
+- **Characters:** Kiko, Mimi
+- **Transition →** Wish Corner
+
+### Wish Corner (Dilek Köşesi)
+
+- **Purpose:** Dilek dileme alanı
+- **Emotional Purpose:** Umut, hayal gücü, dilek
+- **Typical Activities:** Dilek dileme, gözlerini kapatma, dilek tutma
+- **Typical Stories:** Kiko dilek diler, Mimi gözlerini kapatır
+- **Lighting:** Altın ışık, sihirli
+- **Mood:** Umutlu, sihirli, bireysel
+- **Important Props:** Yıldızlı gökyüzü, sakin su
+- **Camera Usage:** Close-up face, wide wish moment
+- **Characters:** Kiko, Mimi
+- **Transition →** Shore Lookout
+
+### Shore Lookout (Sahil Gözetleme)
+
+- **Purpose:** Tüm göleti izleme alanı
+- **Emotional Purpose:** Perspektif, huzur,connection
+- **Typical Activities:** İzleme, manzara, nefes alma
+- **Typical Stories:** Birlikte gölete bakarlar, yıldızları izlerler
+- **Lighting:** Açık, yıldız ışığı
+- **Mood:** Açık, huzurlu,连接
+- **Important Props:** Geniş manzara, gökyüzü
+- **Camera Usage:** Wide panoramic, summit shot
+- **Characters:** Kiko, Mimi
+- **Transition →** Quiet Rest Area
+
+### Quiet Rest Area (Sakin Dinlenme Alanı)
+
+- **Purpose:** Dinlenme ve sessiz oturma alanı
+- **Emotional Purpose:** Huzur, sakinlik, meditasyon
+- **Typical Activities:** Oturma, dinleme, izleme
+- **Typical Stories:** Dinlenirler, gökyüzüne bakarlar
+- **Lighting:** Gölge, yumuşak
+- **Mood:** Sakin, huzurlu, meditatif
+- **Important Props:** Yumuşak taşlar, ağaç gölgesi
+- **Camera Usage:** Wide rest shot, close-up calm
+- **Characters:** Kiko, Mimi
+- **Transition →** Pond Entrance
+
+---
+
+## Transition Spaces
+
+Bu alanlar bir zone'dan diğerine geçiş sağlar. Geçiş sahneleri için kullanılır.
+
+| Geçiş | Nereden → Nereye | Kullanım |
+|-------|-------------------|----------|
+| Forest Path | Little Forest → Gölet | Bölüm açılışları |
+| Star Trail | Entrance → Star Point | Yıldız alanı |
+| Stone Walk | Star → Stone | Taş dairesi |
+| Wish Path | Stone → Wish | Dilek köşesi |
+| Shore Walk | Wish → Shore | Gözetleme |
+| Rest Trail | Shore → Rest | Dinlenme |
+
+---
+
+## Spatial Relationships
+
+Mekanların birbirini "gördüğü" ve birbirine bağlandığı ilişkiler:
+
+- The pond entrance is always visible from the path.
+- The star reflection point can be seen from the shore.
+- The stone circle is visible from the entrance.
+- The wish corner is visible from the stone circle.
+- The shore lookout provides a view of the entire pond.
+- The quiet rest area is visible from the shore but feels separate.
+
+---
+
+## Character Flow
+
+Wish Pond'daki doğal hareket kalıpları:
+
+**Gece Rutini:**
+1. Kiko gölet kenarına gelir (Pond Entrance)
+2. Yıldızları izler (Star Reflection Point)
+3. Taşları sayar (Stone Circle)
+4. Dilek diler (Wish Corner)
+
+**Sessiz An:**
+1. Gökyüzüne bakarlar (Shore Lookout)
+2. Su yüzeyini izlerler (Star Reflection Point)
+3. Taşlarla oynarlar (Stone Circle)
+4. Dinlenirler (Quiet Rest Area)
+
+**Dilek Zamanı:**
+1. Gözlerini kapatırlar (Wish Corner)
+2. Dilek dilerler (Wish Corner)
+3. Yıldızlara bakarlar (Star Reflection Point)
+4. Umutla dolurlar (Shore Lookout)
+
+**Akşam Zamanı:**
+1. Gün batımı izlerler (Shore Lookout)
+2. İlk yıldızlar görünür (Star Reflection Point)
+3. Taşlar sessizleşir (Stone Circle)
+4. Eve dönerler (Pond Entrance)
+
+---
+
+## Living Rules
+
+Wish Pond'ı yaşayan bir yer hissettiren küçük kurallar:
+
+- Su her zaman berrak ve sakin
+- Yıldızlar her zaman suda yansır
+- Taşlar her zaman yuvarlak
+- Hava her zaman sessiz
+- Dilekler her zaman umutlu
+- Gece her zaman sihirli
+- Yansıma her zaman güzel
+- Her an meditatif
+
+---
+
+## Production Readiness
+
+This Living World has been intentionally designed to support AI-assisted world creation.
+
+The canonical creative definition is contained within this document.
+
+A shorter, production-oriented extraction of this Bible — for AI-assisted
+world generation — is maintained separately in
+`20-wish-pond-world-spec.md`. That document is a translation layer, not a
+replacement: this Bible remains the single source of truth.
+
+Implementation-specific production prompts (which AI tool, prompt syntax,
+character limits) are workflow details, not world design, and are kept out
+of both documents deliberately — this Bible and its spec stay valid
+regardless of which generation tool is used today or in the future.
+
+---
+
+## Story Function
+
+- Dilek sahneleri
+- Gece sahneleri
+- Sihirli anlar
+- Hayal gücü
+- Meditasyon
+- Umut
+
+---
+
+## World Position
+
+```
+Little Forest
+    ↓ 2 dakika
+Wish Pond ← BURASI
+    ↓ 2 dakika
+Camping Grove
+```
+
+**Komşuları:**
+- Kuzey: Little Forest (2 dk)
+- Güney: Camping Grove (2 dk)
+- Doğu: Open Meadow (3 dk)
+- Batı: Stone Hill (3 dk)
+
+**Yol tarifi:**
+Little Forest'den güneye doğru yürüyünce Wish Pond'a ulaşılır. Göletten çıkınca sağa gidilir, Camping Grove'a ulaşılır. Düz devam edilirse Open Meadow'a ulaşılır.
+
+---
+
+## Exterior
+
+### Genel Görünüm
+
+Yuvarlak, berrak, sihirli gölet.
+
+Dikdörtgen yok.
+
+Sivri köşe yok.
+
+Her şey yuvarlak ve yumuşak.
+
+**Çap:** ~10 metre
+**Derinlik:** Sığ, güvenli (0.2-0.4 metre)
+**Şekil:** Yuvarlak gölet, doğal kenar
+
+### Su
+
+- Renk: Gece mavi-mor (#3F51B5 + #7B1FA2)
+- Doku: Yumuşak, parlayan
+- Derinlik: Sığ, güvenli
+- Yüzey: Sakin, yıldız yansıması
+
+### Yıldız Yansımaları
+
+- Biçim: Küçük, parlak noktalar
+- Renk: Sarı-beyaz (#FFF9C4)
+- Hareket: Yavaş, yüzerek
+- Konum: Su yüzeyinde
+
+### Taşlar
+
+- Adet: 8-10 (çevrede)
+- Biçim: Yuvarlak, pürüzsüz
+- Renk: Sıcak gri (#BDBDBD)
+- Boyut: Küçük-orta
+
+### Ağaçlar
+
+- Adet: 2-3 (kenarlarda)
+- Biçim: Yuvarlak, geniş
+- Renk: Yeşil (#81C784)
+- Gövde: Kahverengi (#8D6E63)
+
+### Gökyüzü
+
+- Gece: Koyu mavi (#1A237E)
+- Yıldızlar: Çok sayıda, parlak
+- Ay: Yuvarlak, beyaz
+
+---
+
+## Interior
+
+**Wish Pond açık havada bir alandır — kapalı iç mekan yoktur.**
+
+Tüm aktiviteler dışarıda gerçekleşir. Taşlar üzerinde dinlenme alanları vardır.
+
+---
+
+## Camera Rules
+
+### Dış Çekimler
+
+| Açı | Kullanım | Not |
+|---|---|---|
+| Water level | Su yüzeyi | Yansıma |
+| Reflection | Yıldız yansıması | Sihirli |
+| Wide | Tüm gölet + yıldızlar | Manzara |
+| Close-up | Taş/yansıma | Detay |
+
+### Kamera Yüksekliği
+
+- Su seviyesi: 0.05 m (su yüzeyi)
+- Gölet kenarı: 0.50 m (alçak)
+- Gökyüzü: 1.50 m (üstten)
+
+---
+
+## Spatial Layout
+
+### Genel
+
+```
+    Little Forest Patikası
+        ↓
+    Gölet Girişi → Yıldız Yansıma → Taş Dairesi
+        ↓
+    Dilek Köşesi → Sahil Gözetleme → Sakin Dinlenme
+```
+
+### Detaylı
+
+```
+    [Little Forest Patikası]
+        ↓
+    [Gölet Girişi]
+        ↓
+    [Yıldız Yansıma Noktası] ←──→ [Taş Dairesi]
+        ↓
+    [Dilek Köşesi]
+        ↓
+    [Sahil Gözetleme] ←──→ [Sakin Dinlenme]
+```
+
+---
+
+## Permanent Objects
+
+| Obje | Pozisyon | Renk | Not |
+|---|---|---|---|
+| Gölet | Merkez | Mavi-mor | Her zaman berrak |
+| Yıldızlar | Gökyüzünde + suda | Sarı-beyaz | Her zaman parlar |
+| Taşlar | Kenarlarda | Gri | Her zaman yuvarlak |
+| Ağaçlar | Kenarlarda | Yeşil+kahverengi | Her zaman gölge verir |
+| Gökyüzü | Üstte | Koyu mavi | Her zaman yıldızlı |
+
+---
+
+## Optional Props
+
+| Prop | Ne zaman | Nerede |
+|---|---|---|
+| Dilek kağıdı | Dilek sahnesi | Wish Corner'da |
+| Taş | Atma sahnesi | Stone Circle'da |
+| Yıldız haritası | Gözlem sahnesi | Shore Lookout'ta |
+| Battaniye | Dinlenme sahnesi | Quiet Rest'de |
+
+---
+
+## Seasonal Changes
+
+### İlkbahar
+- Gökyüzü temiz
+- Yıldızlar çok
+- Hava sıcak
+
+### Yaz
+- En çok yıldız
+- Gece en uzun
+- En sihirli
+
+### Sonbahar
+- Gökyüzü bulanık
+- Az yıldız
+- Sessiz
+
+### Kış
+- Karlı gökyüzü
+- Az yıldız
+- Soğuk ama sihirli
+
+---
+
+## Time of Day
+
+### Akşam
+- İlk yıldızlar
+- Gün batımı
+- Sihir başlar
+
+### Gece
+- Yıldızlar çok
+- En sihirli an
+- Dilek zamanı
+
+### Gece Yarısı
+- En sessiz
+- En derin
+- Meditasyon
+
+### Sabah
+- İlk ışık
+- Yıldızlar solar
+- Sihir diner
+
+---
+
+## Weather
+
+### Açık
+- En sık görülen
+- Yıldızlar çok
+- En güzel
+
+### Bulutlu
+- Yıldızlar az
+- Sessiz
+- Hâlâ güzel
+
+### Yağmurlu
+- Sessiz
+- Suya damlalar
+- Farklı güzellik
+
+### Karlı
+- Beyaz manzara
+- Sessiz
+- Sihirli
+
+---
+
+## Soundscape
+
+| Ses | Kaynak | Ne zaman |
+|---|---|---|
+| Sessizlik | Genel | Her zaman |
+| Hafif su | Gölet | Her zaman |
+| Twinkle | Sihirli | Gece |
+| Yıldız sesi | Hayal | Dilek zamanı |
+
+---
+
+## Lighting
+
+| Zaman | Işık | Renk | Gölge |
+|---|---|---|---|
+| Akşam | Gün batımı | Turuncu-pembe | Uzun |
+| Gece | Yıldız ışığı | Mavi-sarı | Yumuşak |
+| Gece Yarısı | Ay ışığı | Mavi-beyaz | Çok yumuşak |
+| Sabah | İlk ışık | Sarı-pembe | Kısa |
+
+---
+
+## Texture
+
+| Yüzey | Doku | Not |
+|---|---|---|
+| Su | Berrak, pürüzsüz | Yansımalı |
+| Taşlar | Pürüzsüz, yuvarlak | Temiz |
+| Yıldızlar | Parlak, ince | Sihirli |
+| Gökyüzü | Derin, yumuşak | Koyu mavi |
+| Ağaçlar | Doğal, yumuşak | Yeşil |
+
+---
+
+## Character Usage
+
+| Karakter | Sıklık | Neden |
+|---|---|---|
+| Kiko | Her bölüm | Dilek dileyen |
+| Mimi | Sık sık | Hayal gücü |
+| Luca | Nadiren | Gece gözlemcisi |
+| Opa | Nadiren | Bilgelik |
+
+---
+
+## Common Actions
+
+| Aksiyon | Nerede | Not |
+|---|---|---|
+| Dilek dileme | Wish Corner | Büyülü an |
+| Yıldız izleme | Star Reflection | Sessiz an |
+| Taş sayma | Stone Circle | Doğal etkileşim |
+| Manzara izleme | Shore Lookout | Perspektif |
+| Dinlenme | Quiet Rest | Meditasyon |
+| Giriş yapma | Pond Entrance | Karşılama |
+
+---
+
+## Forbidden
+
+```
+✗ Karanlık
+✗ Korkutucu
+✗ Kirli su
+✗ Sivri taş
+✗ Hızlı hareket
+✗ Büyük kalabalık
+✗ Gürültü
+✗ Yapay ışık
+✗ Metal yüzey
+✗ Soğuk atmosfer
+```
+
+---
+
+## Animation Rules
+
+### Su
+
+| Aksiyon | Frame | Hız |
+|---|---|---|
+| Dalga | 50 frame periyot | Çok yavaş |
+| Yansıma | Sürekli | Yavaş |
+| Twinkle | 20 frame | Ritmik |
+
+### Yıldızlar
+
+| Aksiyon | Frame | Hız |
+|---|---|---|
+| Parıldama | 15 frame | Ritmik |
+| Yüzenme | 30 frame | Çok yavaş |
+| Dans | Yumuşak kavis | Yavaş |
+
+### Taşlar
+
+| Aksiyon | Frame | Hız |
+|---|---|---|
+| Durma | Statik | — |
+| Hareket | 20 frame | Yavaş |
+
+---
+
+## Camera Safe Area
+
+| Obje | Pozisyon | Not |
+|---|---|---|
+| Gölet | Merkez | Her zaman görünür |
+| Yıldızlar | Gökyüzünde + suda | Her zaman görünür |
+| Taşlar | Kenarlarda | Her zaman görünür |
+| Kiko | Gölet kenarında | Ana karakter |
+| Mimi | Kiko'nun yanında | Arkadaş |
+
+---
+
+## Asset References
+
+| Asset | Dosya | Kullanım |
+|---|---|---|
+| Kiko | `01-CHARACTERS/drawings/kiko.png` | Dilek dileyen |
+| Mimi | `01-CHARACTERS/drawings/mimi.png` | Hayal gücü |
+| Wish Pond | `environment/20-wish-pond.png` | Genel görünüm |
+| Stars | `03-PROPS/Nature/stars.png` | Yıldızlar |
+| Stones | `03-PROPS/Nature/stones.png` | Taşlar |
+
+---
+
+## Story Opportunities
+
+Her fırsat doğal, sakin ve preschool'a uygundur:
+
+1. Dilek dilenir
+2. Yıldızlar suda izlenir
+3. Taş göle atılır
+4. Gece masalı anlatılır
+
+### Ek Fırsatlar (Living World)
+
+5. İlk yıldızı bulurlar
+6. Yansıma dansını izlerler
+7. Taş dairesini arrange ederler
+8. Sessizce dilek tutarlar
+9. Gökyüzüne bakarlar
+10. Suda看到 yüzlerini
+11. Yıldız sayarlar
+12. Taşları renklere göre sıralarlar
+13. Gün batımını izlerler
+14. Sihirli bir an yaşarlar
+15. Meditasyon yaparlar
+16. Umutla eve dönerler
+
+---
+
+## Camera Design
+
+Wish Pond nasıl çekilir? Kamera gölet alanı içinde doğal hareket eder.
+
+### Genel Akış
+
+1. Wide establishing shot (tüm gölet + yıldızlar)
+2. Entrance approach (giriş)
+3. Following characters: entrance → stars → stones → wish → shore
+4. Quiet rest (dinlenme)
+5. Return to entrance (dönüş)
+
+### Tipik Kamera Yolları
+
+| Yol | Kullanım |
+|-----|----------|
+| Entrance → Stars | Giriş yapar, yıldızları izler |
+| Stars → Stone | Yıldızlardan taşlara |
+| Stone → Wish | Taşlardan dilek köşesine |
+| Wish → Shore | Dilekten gözetlemeye |
+| Shore → Rest | Gözetlemeden dinlenmeye |
+| Rest → Entrance | Dinlenmeden çıkışa |
+
+### Kamera Yüksekliği
+
+- Su seviyesi: 0.05m (su yüzeyi)
+- Gölet kenarı: 0.50m (alçak)
+- Gökyüzü: 1.50m (üstten)
 
 ---
 
@@ -42,19 +666,36 @@ Wish Pond, serinin "dilek ve hayal gücü" tapınağı olarak tasarlanmıştır 
 
 ## OpenArt Production Rules
 
-- **Max 4 referans** — Hero View zorunlu, diğer üçü isteğe bağlı
-- **Hero View zorunlu** — her üretimde ana görünüm referans olarak kullanılır
-- **Tutarlı ışık ve renk** — tüm referanslarda gece mavi-mor tonları, yıldız parlaklığı korunur
-- **Karakter yok** — referanslarda Kiko veya diğer karakterler yer almaz, sadece çevre
+- **Maksimum 4 referans** — Hero View zorunlu
+- Tutarlı aydınlatma ve renk paleti (gece mavi-mor tonları, yıldız parlaklığı)
+- Referanslarda karakter yok — sadece ortam ve detay
+- Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
 
 ---
 
-## Story Function
+## Production Notes
 
-- Dilek sahneleri
-- Gece sahneleri
-- Sihirli anlar
-- Hayal gücü
+- **Best Characters:** Kiko (dilek), Mimi (gece masalı)
+- **Avoid:** Karanlık, korkutucu, kirli su, sivri taş
+- **Typical Duration:** 30–60s per scene
+- **Best Emotional Themes:** Sihir, hayal gücü, umut, dinginlik
+
+---
+
+## Consistency Checklist
+
+```
+✓ Su berrak mı?
+✓ Gece yıldızları görünüyor mu?
+✓ Sessiz mi?
+✓ Sihirli his var mı?
+✓ Sivri köşe yok mu?
+✓ Tüm yüzeyler yumuşak mı?
+✓ Işık yönü tutarlı mı?
+✓ Yansıma güzel mi?
+✓ Taşlar yuvarlak mı?
+✓ Meditatif atmosfer korunuyor mu?
+```
 
 ---
 
@@ -76,105 +717,27 @@ Su berrak ve yumuşak, taşlar yuvarlak, yıldızlar parlak. Her şey doğal ve 
 
 ---
 
-## World Position
-
-```
-Little Forest
-    ↓ 2 dakika
-Wish Pond ← BURASI
-    ↓
-Camping Grove
-```
-
----
-
-## Exterior
-
-### Genel
-
-- Yuvarlak, berrak gölet
-- Gece yıldızlar suda
-- Çevresinde yuvarlak taşlar
-- Sessiz, sihirli
-
----
-
-## Camera Rules
-
-| Açı | Kullanım |
-|---|---|
-| Water level | Su yüzeyi |
-| Reflection | Yansıma |
-| Wide | Tüm gölet + yıldızlar |
-
----
-
-## Soundscape
-
-| Ses | Kaynak |
-|---|---|
-| Sessizlik | Genel |
-| Hafif su | Yumuşak |
-| Twinkle | Sihirli |
-
----
-
-## Forbidden
-
-```
-✗ Karanlık
-✗ Korkutucu
-✗ Kirli su
-✗ Sivri taş
-```
-
----
-
-## Story Opportunities
-
-1. Dilek dilenir
-2. Yıldızlar suda izlenir
-3. Taş göle atılır
-4. Gece masalı anlatılır
-
----
-
-## Production Notes
-
-- **Best Characters:** Kiko (dilek), Mimi (gece masalı)
-- **Avoid:** Karanlık, korkutucu, kirli su, sivri taş
-- **Typical Duration:** 30–60s per scene
-- **Best Emotional Themes:** Sihir, hayal gücü, umut, dinginlik
-
----
-
-## Consistency Checklist
-
-```
-✓ Su berrak mı?
-✓ Gece yıldızları görünüyor mu?
-✓ Sessiz mi?
-✓ Sihirli his var mı?
-✓ Sivri köşe yok mu?
-```
-
----
-
----
-
 ## Quality Checklist
 
 ```
-✓ Emotional Purpose var mı?
-✓ Play Philosophy var mı?
-✓ Material Language var mı?
-✓ Consistency Checklist var mı?
-✓ Story Opportunities var mı?
-✓ Soundscape var mı?
-✓ Forbidden var mı?
-✓ Production Notes var mı?
+✓ Children sihir ve umut hissediyor mu?
+✓ Sınırsız hayal gücü alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Sihirli bir his var mı?
+✓ Işık yumuşak ve gece mi?
+✓ Sesler sessiz ve sakin mi?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
 ```
 
 ---
 
-*Bu belge Wish Pond mekanı için production referansıdır.*
+## Production Goal
+
+This Living World is designed to provide a magical, meditative environment for stories about wishes, hope, and imagination. The pond's consistent identity supports reliable AI-assisted production while maintaining the enchanted warmth essential to Pompom Hills.
+
+---
+
+*Bu belge Wish Pond mekanı için creative referanstır.*
+*Living World Bible v3.0*
+*Son güncelleme: 3 Temmuz 2026*

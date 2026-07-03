@@ -6,8 +6,8 @@
 
 | Character | File | Shots |
 |---|---|---|
-| ✅ Luca | `01-CHARACTERS/drawings/luca.png` | 01, 02, 03, 04 |
-| ✅ Noah | `01-CHARACTERS/drawings/noah.png` | 01, 02, 03, 04 |
+| ✅ Luca | `01-CHARACTERS/drawings/luca.png` | 01, 02, 03, 04, 05, 06 |
+| ✅ Noah | `01-CHARACTERS/drawings/noah.png` | 01, 02, 03, 04, 05, 06 |
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Environment | File | Shots |
 |---|---|---|
-| Central Square | `environment/01-central-square/hero-view.png` | 01, 02, 03, 04 |
+| Central Square | `environment/01-central-square/hero-view.png` | 01, 02, 03, 04, 05, 06 |
 
 ---
 
@@ -23,4 +23,12 @@
 
 | Prop | File | Shots |
 |---|---|---|
-| Ball | (generated) | 01, 02, 03, 04 |
+| Round Yellow Ball | (generated) | 01, 02, 03, 04, 05, 06 |
+
+---
+
+## Prop Continuity
+
+The same round yellow ball must appear in every shot.
+
+Ball must not change colour, size, texture, or shape.

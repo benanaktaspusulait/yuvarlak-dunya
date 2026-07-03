@@ -36,9 +36,9 @@ Noah diğer ucundan.
 
 Birbirlerine bakarlar.
 
-> **"My turn!"**
+> **"Can I try?"**
 
-> **"No, my turn!"**
+> **"I want to try too."**
 
 ---
 
@@ -64,7 +64,7 @@ Topu Luca'ya geri verir.
 
 ### Sahne 4
 
-İkisi birlikte top sektirir.
+İkisi birlikte top atarlar.
 
 **Boop! Boop!**
 
@@ -80,4 +80,42 @@ Gülümserler.
 
 > **"Again!"**
 
+---
+
+### Sahne 5
+
+Luca topu fırlatır.
+
+Top yere düşer.
+
+Yuvarlanmaya başlar.
+
+> **"Oh no!"**
+
+> **"Let's get it!"**
+
+İkisi de koşar.
+
+Topun peşinden.
+
+---
+
+### Sahne 6
+
+Top bir çalının dibinde durur.
+
+Noah topu alır.
+
+> **"We found it!"**
+
+Luca gelir.
+
+İkisi birlikte gülümser.
+
+> **"Together."**
+
+Sessiz gülümseme.
+
 Bazen paylaşmak, oynamaktan bile güzel olur.
+
+Birlikte kovalamak, dostluğu güçlendirir.

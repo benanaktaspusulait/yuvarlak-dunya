@@ -1,4 +1,4 @@
-# E10 — Shot 02 — Both Want It
+# E10 — Shot 06 — Found It Together
 
 ---
 
@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | Episode | S01E10 — My Turn, Your Turn |
-| Shot | 02 / 06 |
+| Shot | 06 / 06 |
 | Duration | 15 seconds |
 | Location | Central Square |
 | Characters | Luca, Noah |
@@ -17,24 +17,24 @@
 
 ## Purpose
 
-Show mild preschool tension.
+Close the episode warmly.
 
-Both children want to play with the same ball.
-The feeling should be gentle curiosity and mild desire, not argument.
+The children find the ball together and the friendship deepens.
+End with quiet smiling.
 
 ---
 
 ## Continuity
 
-Previous shot: Luca and Noah both discovered the ball in Central Square.
+Previous shot: Luca and Noah chased the rolling ball together.
 
-This shot begins exactly one frame after Shot 01.
+This shot begins exactly one frame after Shot 05.
 
 No establishing shot.
 No camera reset.
 
 Maintain:
-- same character positions from the end of Shot 01
+- same character positions from the end of Shot 05
 - same Central Square location
 - same warm morning light
 - same colour identity
@@ -44,7 +44,7 @@ Maintain:
 ## Visual Prompt
 
 ```text
-Luca and Noah both reaching for the same round yellow ball at Central Square, gentle curiosity on their faces, Big Pompom Tree background, warm morning light, soft pastel colours, no other characters, {style} {camera} {lighting}
+Luca and Noah finding the round yellow ball together beside an existing shrub in Central Square, both children smiling with relief, warm morning light, soft pastel colours, Big Pompom Tree in background, gentle ending, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -53,11 +53,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Continue from the exact framing of Shot 01.
+Continue from the exact framing of Shot 05.
 
-Medium child-eye-level composition.
+Wide child-eye-level composition.
 
-Both children reach for the ball gently.
+Gentle settle toward medium as the children find the ball.
 
 Keep the Big Pompom Tree visible in background.
 
@@ -66,12 +66,12 @@ Keep the Big Pompom Tree visible in background.
 ## Dialogue
 
 ```text
-Luca: Can I try?
+Noah: We found it!
 
-Noah: I want to try too.
+Luca: Together!
 ```
 
-The feeling should be mild desire, not conflict.
+End with 2 seconds of quiet smiling after the final line.
 
 ---
 
@@ -80,32 +80,32 @@ The feeling should be mild desire, not conflict.
 | Time | Action | Camera |
 |---|---|---|
 | 0-3 sec | First frame matches @image1 | Static |
-| 3-6 sec | Luca reaches for the ball gently | Medium |
-| 6-9 sec | Noah also reaches for the ball | Medium |
-| 9-12 sec | Both children hold the ball, look at each other | Medium |
-| 12-15 sec | Quiet pause, mild curiosity | Medium hold |
+| 3-6 sec | The ball stops beside an existing shrub | Wide |
+| 6-9 sec | Noah picks up the ball | Settle |
+| 9-12 sec | Luca arrives, both smile | Medium |
+| 12-15 sec | Quiet smiling hold | Medium hold |
 
 ---
 
 ## Sound
 
-- Soft footsteps
+- Soft ball catch
 - Quiet ambient morning
-- Gentle pause
+- Gentle pause after final line
 
 ---
 
 ## Emotional Voice Progression
 
-Gentle desire — soft, hopeful, a little shy. Both children want the same thing.
+Warm relief — soft, happy, a little proud. The problem is solved gently.
 
 ---
 
 ## Emotion
 
-Mild tension.
+Warm ending.
 
-The moment should feel like two children who both want to play, not an argument.
+The moment should feel like two children who found something together and are happy.
 
 ---
 
@@ -113,10 +113,10 @@ The moment should feel like two children who both want to play, not an argument.
 
 Use the production generation standard (`00-CORE/17_VIDEO_GENERATION_STANDARD.md`).
 
-First frame: @image1 from Shot 01.
+First frame: @image1 from Shot 05.
 Location: Central Square.
 Lighting: Warm morning light. Same lighting as Shot 01.
-Ball: Same round yellow ball.
+Ball: Same round yellow ball, found together.
 
 ## Character Presence
 
@@ -133,5 +133,7 @@ Do not introduce any character after the shot has started.
 - [ ] Colour identity matches Shot 01.
 - [ ] Central Square identity preserved.
 - [ ] Same round yellow ball preserved.
-- [ ] No harsh conflict or arguing.
+- [ ] No extra characters.
 - [ ] No on-screen text.
+- [ ] Viewer cannot perceive a shot boundary.
+- [ ] Final 2 seconds are quiet smiling.

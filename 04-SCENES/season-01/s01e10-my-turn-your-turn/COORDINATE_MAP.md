@@ -15,35 +15,52 @@ Kiko = 100 birim (1.00 m)
 | Luca | 100 birim | %100 |
 | Noah | 100 birim | %100 |
 
+## Karakter Ölçek Kuralı
+
+Karakterler Central Square içinde küçük ve çocuk hissi vermeli ama yüz ifadesi ve aksiyon için okunabilir olmalıdır. Geniş kadraj mekan kimliği için, orta kadraj duygusal anlar için kullanılır.
+
 ## Ana Mekan: Central Square (`environment/01-central-square/hero-view.png`)
+
+### Mekan Kimliği
+
+- Big Pompom Tree her zaman arka planda görünmeli
+- Warm morning light tüm bölüm boyunca sabit
+- Soft pastel renkler korunmalı
+- Güvenli açık oyun alanı
+- Yeni mekan eklenmemeli
+- Yeni karakter eklenmemeli
+- Mekan yeniden tasarlanmamalı
 
 ### Karakter Konumları
 
 | Karakter | Başlangıç | Bitiş | Not |
 | --- | --- | --- | --- |
-| Luca | TBD | TBD | Topu ilk görür |
-| Noah | TBD | TBD | Aynı topu görür, sıra paylaşırlar |
+| Luca | TBD | TBD | Topu ilk görür, paylaşır, kovalar, birlikte bulur |
+| Noah | TBD | TBD | Aynı topu görür, paylaşır, kovalar, birlikte bulur |
 
 ### Prop Konumları
 
 | Prop | Başlangıç | Bitiş | Durum |
 | --- | --- | --- | --- |
-| Yellow Ball (`03-PROPS/Toys/1-yellow-ball.png`) | TBD | TBD | Sektirilir, sıra ile atılır |
+| Round Yellow Ball | TBD | TBD | Tüm bölüm boyunca aynı top, renk/boyut değişmez |
 
 ## Kamera (shot bazında)
 
-| Shot | Lens | Yükseklik | Açı |
-| --- | --- | --- | --- |
-| 01 | Wide → Medium | 0.85 m | Eye level |
-| 02 | Medium → Medium close-up | 0.85 m | Eye level |
-| 03 | Medium → Close-up | 0.80 m | Eye level |
-| 04 | Wide → Medium | 0.85 m | Eye level |
+| Shot | Lens | Yükseklik | Açı | Hareket |
+| --- | --- | --- | --- | --- |
+| 01 | Wide → Medium | 0.85 m | Child eye level | Slow settle |
+| 02 | Medium | 0.85 m | Child eye level | Static |
+| 03 | Medium | 0.85 m | Child eye level | Static |
+| 04 | Medium-wide | 0.85 m | Child eye level | Static |
+| 05 | Medium-wide | 0.85 m | Child eye level | Gentle pan right |
+| 06 | Wide → Medium | 0.85 m | Child eye level | Gentle settle |
 
 ## Hava Kilidi
 
 | Alan | Değer |
 | --- | --- |
-| Saat | Sabah-öğle arası |
-| Bulut sayısı | 2 |
+| Saat | Warm morning |
+| Işık | Warm morning sunlight, tüm shot'larda aynı |
+| Bulut sayısı | — |
 | Rüzgar | 0.2 m/sn |
 | Gölge opacity | Max %12 |

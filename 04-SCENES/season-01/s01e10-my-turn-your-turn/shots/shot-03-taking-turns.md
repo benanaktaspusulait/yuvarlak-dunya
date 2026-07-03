@@ -4,128 +4,71 @@
 
 ## Scene Context
 
-| Alan | Değer |
-| --- | --- |
+| Field | Value |
+|---|---|
 | Episode | S01E10 — My Turn, Your Turn |
-| Shot | 03 / 04 |
+| Shot | 03 / 06 |
 | Duration | 15 seconds |
 | Location | Central Square |
 | Characters | Luca, Noah |
-| Time of Day | Morning |
+| Time of Day | Warm Morning |
+
+---
+
+## Purpose
+
+Show the moment of sharing.
+
+Luca decides to let Noah try first.
+The lesson is shown through action, not explained.
 
 ---
 
 ## Continuity
 
-This shot continues directly from Shot 02.
+Previous shot: Both children held the same ball and looked at each other.
 
-Same Central Square location.
+This shot begins exactly one frame after Shot 02.
 
-Both were holding the ball.
-
----
-
-## Start Frame
-
-Use the approved continuity reference frame selected from the previous shot as the exact first frame.
+No establishing shot.
+No camera reset.
 
 Maintain:
-- Character appearance
-- Central Square environment
-- Morning lighting
-- Camera composition
-- Character proportions
-
-Do not redesign the environment.
-
-Luca is already present at the beginning of the shot.
-
-Do not introduce Luca after the shot has started.
-
-The supplied continuity frame is also the lighting reference for this shot.
+- same character positions from the end of Shot 02
+- same Central Square location
+- same warm morning light
+- same colour identity
 
 ---
 
 ## Visual Prompt
 
 ```text
-Luca and Noah taking turns bouncing a round yellow ball at Central Square, both smiling, warm afternoon light, no other characters, {style} {camera} {lighting}
+Luca handing the round yellow ball to Noah at Central Square, both children smiling gently, Big Pompom Tree background, warm morning light, soft pastel colours, sharing moment, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-```Continue directly from @image1.
-
-The first frame of this video must match @image1 exactly.
-
-Treat @image1 as frame zero.
-
-The animation begins only after the first frame has matched @image1 exactly.
-
-Use @image1 as the exact starting composition.
-
-Do not reinterpret @image1.
-
-Do not reposition the camera.
-
-Do not recompose the scene.
-
-Do not adjust framing before movement begins.
-
-Continue the action naturally from @image1.
-
----
-
-## Reference Usage
-
-Use the approved continuity reference frame selected from the previous shot as the primary image reference when generating this shot.
-
-The reference image is supplied by the production workflow and should not be hardcoded into this document.
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
 
 ---
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in @image1.
+Continue from the exact framing of Shot 02.
 
-No camera movement is allowed until the first frame matches @image1 exactly.
+Medium child-eye-level composition.
 
-The first visible frame should appear visually identical to @image1.
+Luca hands the ball to Noah.
 
-Only then may the planned camera movement begin.
-
-Continue naturally from the previous shot.
-
-Keep both Luca and Noah in frame.
-
-Only a very subtle camera movement is allowed.
-
-Avoid reframing.
-
-Avoid dramatic zooms.
-
-The focus should remain on the playful interaction.
+Keep the Big Pompom Tree visible in background.
 
 ---
 
 ## Dialogue
 
-The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in @image1.
-
-Match the lighting and colour grading exactly from @image1.
-
-Do not change:
-- exposure
-- brightness
-- light intensity
-- colour temperature
-- colour grading
-
-```
+```text
 Luca: Your turn.
-Noah: Your turn!
+
+Noah: Thanks!
 ```
 
 ---
@@ -134,44 +77,59 @@ Noah: Your turn!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca gives ball to Noah | Medium |
-| 5-10 sn | Noah bounces ball, smiles | Medium |
-| 10-15 sn | Noah gives ball to Luca | Medium |
+| 0-3 sec | First frame matches @image1 | Static |
+| 3-6 sec | Luca pauses, then hands the ball to Noah | Medium |
+| 6-9 sec | Noah bounces the ball — soft boop | Medium |
+| 9-12 sec | Noah smiles, bounces again | Medium |
+| 12-15 sec | Noah hands the ball back to Luca | Medium hold |
 
 ---
 
 ## Sound
 
-- Soft "boop" ball bounce
+- Soft ball bounce — "boop"
+- Quiet ambient morning
+- Gentle footsteps
 
 ---
 
-## Lighting
+## Emotional Voice Progression
 
-Warm morning sunlight.
+Warm and generous — Luca is kind, Noah is grateful and happy.
 
 ---
 
-## Negative Prompt
+## Emotion
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+Sharing.
 
+The moment should feel like a simple, warm act of kindness between two children.
+
+---
+
+## Production Standard
+
+Use the production generation standard (`00-CORE/17_VIDEO_GENERATION_STANDARD.md`).
+
+First frame: @image1 from Shot 02.
+Location: Central Square.
+Lighting: Warm morning light. Same lighting as Shot 01.
+Ball: Same round yellow ball.
+
+## Character Presence
+
+Luca is already present at the beginning of the shot.
+Noah is already present at the beginning of the shot.
+Do not introduce any character after the shot has started.
 
 ---
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
-
-- [ ] Character integrity verified
-- [ ] Character consistency verified
-- [ ] Object persistence verified
-- [ ] No rendering artefacts
-- [ ] Camera consistency verified
-- [ ] Lighting consistency verified
-- [ ] Canonical rules followed
-
-## Emotional Beat
-
-Include a small emotional moment visible through facial expressions and body language.
-Examples: wonder, joy, surprise, kindness, gratitude, encouragement.
+- [ ] First frame matches @image1 exactly.
+- [ ] Luca and Noah voice identities match Shot 01.
+- [ ] Colour identity matches Shot 01.
+- [ ] Central Square identity preserved.
+- [ ] Same round yellow ball preserved.
+- [ ] No on-screen text.
+- [ ] Viewer cannot perceive a shot boundary.

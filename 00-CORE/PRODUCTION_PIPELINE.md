@@ -891,6 +891,99 @@ Negative prompt blokları için `NEGATIVE_PROMPTS.md` dosyasına bakınız.
 
 ---
 
+## World Builder Policy
+
+World Builder is an optional production tool.
+
+It is not a mandatory step in the production pipeline.
+
+Its purpose is to create persistent environments that provide long-term production value.
+
+The default production workflow remains:
+
+```
+Hero View
++
+World Specification
++
+Shot Continuity
+=
+Episode Production
+```
+
+This workflow should always be preferred whenever it is sufficient.
+
+---
+
+### Use World Builder Only When
+
+Use World Builder when a world requires persistent spatial expansion.
+
+Examples:
+
+- Creating a reusable interior with multiple connected spaces.
+- Creating a large environment that will be revisited many times.
+- Creating a new permanent area of an existing world.
+- Creating a world where future camera positions are unknown.
+- Building a canonical environment that will support many future episodes.
+
+---
+
+### Do Not Use World Builder When
+
+Do not use World Builder if the required episode can be produced consistently using:
+
+- Hero View
+- World Specification
+- Shot Continuity
+
+Examples:
+
+- Single-location stories.
+- Episodes that remain near the Hero View.
+- Stories that only require normal camera continuity.
+- Any production where the existing pipeline already preserves world identity.
+
+In these cases, using World Builder adds unnecessary complexity without improving production quality.
+
+---
+
+### Production Principle
+
+Always choose the simplest production method that preserves canonical world identity.
+
+World Builder should only be introduced when it provides a measurable production advantage.
+
+Do not use World Builder simply because it exists.
+
+---
+
+### Current Project Status
+
+Current canonical workflow:
+
+```
+Character Hero View
+        ↓
+   World Hero View
+        ↓
+  World Specification
+        ↓
+  Episode Planning
+        ↓
+   Shot Documents
+        ↓
+  Shot Continuity
+        ↓
+  Video Generation
+        ↓
+        QA
+```
+
+World Builder is an advanced production tool that may be inserted only when a project genuinely benefits from persistent world expansion.
+
+---
+
 ## Goal
 
 Nihai doküman, jenerik bir AI prompt gibi değil,
@@ -899,4 +992,4 @@ profesyonel bir animasyon stüdyosu production dokümanı gibi okunmalıdır.
 ---
 
 *Bu belge Pompom Hills production pipeline'ının tek kaynaktır.*
-*Son güncelleme: 2 Temmuz 2026*
+*Son güncelleme: 3 Temmuz 2026*

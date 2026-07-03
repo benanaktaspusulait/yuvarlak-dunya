@@ -1,55 +1,33 @@
 # Environment Bible — Tillo's Treehouse
 
-> **Version 2.0** — Upgraded to new production pipeline standard.
+> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> Tillo'nun ağaç evi, yüksekten bakış mekanıdır. Ahşap, yuvarlak, güvenli.
 
 ---
 
 ```
 Environment ID: ENV-011
-File: environment/11-tillos-treehouse.png
-Version: 2.1
+File: 02-WORLDS/11-tillos-treehouse/
+Version: 3.0
 Location: Little Forest yanı
+Type: Exterior World
+Status: Design
+Bible: ✅
+Hero View: ❌
+World Spec: ❌
 ```
+
+---
+
+## Overview
+
+Tillo'nun ağaç evi, büyük bir ağaçta yuvarlak ahşap bir evdir. Alçak ahşap köprü ile Little Forest'a bağlanır. Yüksekten bakış, keşif ve macera hissi verir — ama her zaman güvenli.
 
 ---
 
 ## Purpose
 
-Tillo'nun ağaç evi, yüksekten bakış mekanı.
-
-Ahşap, yuvarlak, güvenli.
-
-Küçük bir köprü ile Little Forest'a bağlanır.
-
----
-
-## Emotional Purpose
-
-Çocuklar, ağaç evde kendilerini güvende ve özel hisseder.
-
-Yükseklik korkusu yerine, keşif heyecanı duyar.
-
-Ahşap sıcaklığı ve yuvarlak formlar, sarma hissi verir.
-
----
-
-## Play Philosophy
-
-Çocuklar hayal güçlerini kullanarak kendi maceralarını yaratır.
-
-Köprüden geçiş,自然 geçiş ve keşif anları üretir.
-
-Yüksekten bakış, perspektif algısını eğlenceli şekilde geliştirir.
-
----
-
-## Material Language
-
-Ahşap sıcak, doğal, elle işlenmiş görünür.
-
-Yuvarlak pencereler ve kapılar, oyuncak ev estetiği taşır.
-
-Köprü yumuşak, kavisli, güvenli bir geçiş malzemesi kullanır.
+Tillo'nun ağaç evi, yüksekten bakış mekanıdır. Ahşap, yuvarlak, güvenli. Çocuklar burada yükseklik korkusu yerine keşif heyecanı duyar. Perspektif algısı gelişir, macera duygusu beslenir.
 
 ---
 
@@ -59,12 +37,58 @@ Tillo's Treehouse provides verticality and perspective contrast to ground-level 
 
 ---
 
-## Story Function
+## Emotional Purpose
 
-- Yüksekten bakış
-- Ağaç ev macerası
+### Bu mekan duygusal olarak neden var?
+
+Yükseklik ve keşif duygusunu temsil eder. Güvenli bir şekilde yüksekte olmak, dünyaya farklı bir açıdan bakmak.
+
+### Çocuklar buraya geldiklerinde nasıl hisseder?
+
+Heyecanlı, meraklı, güvenli. "Buradan her şeyi görebilirim!"
+
+### Bu mekanda doğal olarak hangi hikayeler geçer?
+
 - Köprüden geçiş
-- Sessiz anlar
+- Yüksekten vadiye bakma
+- Pencereden el sallama
+- Ağaç evde kitap okuma
+- Kuşları izleme
+- Yaprakları sayma
+
+### Bu mekan hangi duygusal deneyimleri destekler?
+
+Macera · Keşif · Perspektif · Güven · Sessiz düşünme
+
+---
+
+## Play Philosophy
+
+### Oyun stili
+
+| Özellik | Açıklama |
+|---------|----------|
+| Open-ended | Köprüden geçme, yüksekten bakma, hayal kurma |
+| Hayal gücü | Macera hayali, dünya keşfi |
+| İşbirliği | Birlikte köprüden geçme, birlikte bakma |
+| Gözlem | Kuşları izleme, yaprakları sayma |
+| Yumuşak hareket | Yavaş yürüyüş, dikkatli hareket |
+
+### Kural tabanlı oyun yok
+
+- Yarışma yok
+- Skor yok
+- Rekabet yok
+
+### Doğal etkileşimler
+
+- Köprüden geçme
+- Yüksekten bakma
+- Pencereden el sallama
+- Yaprakları toplama
+- Kuşları izleme
+- Ağaç kabuğuna dokunma
+- Rüzgarı hissetme
 
 ---
 
@@ -78,37 +102,284 @@ Tillo's Treehouse ← BURASI
 Camping Grove
 ```
 
+**Komşuları:**
+- Kuzey: Little Forest (köprü)
+- Güney: Camping Grove (2 dk)
+- Doğu: Tree Hill (3 dk)
+- Batı: Open Meadow (2 dk)
+
 ---
 
-## Exterior
+## Visual Identity
 
 ### Genel
 
 - Büyük ağaçta yuvarlak ev
-- Ahşap, yuvarlak pencereler
+- Sıcak bal rengi ahşap
+- Yuvarlak pencereler
 - Alçak ahşap köprü
 - Güvenli merdiven
+- Yapraklar ve dallar etrafta
+
+### Ağaç Ev
+
+- Büyük, yuvarlak, ahşap
+- Sıcak bal rengi (#FFCC80)
+- Yuvarlak pencereler (sıcak ışık)
+- Yuvarlak kapı
+- Güvenli çitler
+
+### Köprü
+
+- Alçak, ahşap, kavisli
+- Güvenli korkuluklar
+- Yapraklar arasında
+
+### Ağaç
+
+- Büyük, güçlü gövde
+- Geniş dallar
+- Yeşil yapraklar
+- Doğal doku
+
+---
+
+## Spatial Layout
+
+```
+Little Forest (zemin)
+    ↓ ahşap merdiven
+Köprü (yükseklik)
+    ↓
+Ağaç Ev (en yüksek nokta)
+    ↓
+Pencereden bakış (manzara)
+```
+
+Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler yoktur.
+
+---
+
+## World Zones
+
+### Little Forest Girişi
+
+- **Purpose:** Ağaçeva ilk adım
+- **Emotional Purpose:** Merak — "Yukarıda ne var?"
+- **Typical Activities:** Merdivene tırmanma, yukarı bakma
+- **Lighting:** Doğal orman ışığı, yeşil
+- **Mood:** Davetkar, maceracı
+- **Important Props:** Merdiven, ağaç gövdesi
+- **Camera Usage:** Below looking up, approach
+
+### Köprü
+
+- **Purpose:** Geçiş ve yükseklik deneyimi
+- **Emotional Purpose:** Heyecan, keşif
+- **Typical Activities:** Köprüden geçme, aşağıya bakma
+- **Lighting:** Doğal, yapraklar arasından
+- **Mood:** Heyecanlı, güvenli
+- **Important Props:** Ahşap köprü, korkuluklar
+- **Camera Usage:** Bridge POV, tracking
+
+### Ağaç Ev İç Mekanı
+
+- **Purpose:** Ağaçevin kalbi — dinlenme ve keşif
+- **Emotional Purpose:** Güven, yükseklik keyfi
+- **Typical Activities:** Kitap okuma, pencereden bakma, dinlenme
+- **Lighting:** Sıcak iç ışık + doğal pencere ışığı
+- **Mood:** Sıcak, güvenli, maceracı
+- **Important Props:** Yuvarlak pencere, minder, kitaplık
+- **Camera Usage:** Interior wide, medium, close-up
+
+### Pencere Manzarası
+
+- **Purpose:** Yüksekten bakış deneyimi
+- **Emotional Purpose:** Perspektif, keşif, hayranlık
+- **Typical Activities:** Vadiden aşağıya bakma, kuşları izleme
+- **Lighting:** Doğal, geniş
+- **Mood:** Özgür, meraklı
+- **Important Props:** Yuvarlak pencere, manzara
+- **Camera Usage:** Window POV, panoramic
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Ağaç ev | TT-HOUSE-01 | Büyük yuvarlak ahşap ev | ✅ |
+| Köprü | TT-BRIDGE-01 | Alçak ahşap köprü | ✅ |
+| Merdiven | TT-LADDER-01 | Ahşap merdiven | ✅ |
+| Pencere | TT-WINDOW-01 | Yuvarlak pencere | ✅ |
+| Kapı | TT-DOOR-01 | Yuvarlak ahşap kapı | ✅ |
+| Korkuluk | TT-RAILING-01 | Güvenli ahşap korkuluk | ✅ |
+| Minder | TT-CUSHION-01 | İç mekan minderi | ✅ |
+| Kitaplık | TT-SHELF-01 | Küçük ahşap kitaplık | ✅ |
+| Ağaç gövdesi | TT-TRUNK-01 | Büyük ağaç gövdesi | ✅ |
+| Yapraklar | TT-LEAVES-01 | Yeşil yapraklar | ✅ |
 
 ---
 
 ## Camera Rules
 
-| Açı | Kullanım |
-|---|---|
-| Below looking up | Yukarı bakış |
-| Treehouse level | Ev seviyesi |
-| Bridge POV | Köprüden |
-| Wide | Tüm ağaç |
+### Genel
+
+| Açı | Kullanım | Not |
+|-----|----------|-----|
+| Below looking up | Ağaçeva yukarı bakış | Heyecan hissi |
+| Treehouse level | Ev seviyesi | Tam görünüm |
+| Bridge POV | Köprüden geçiş | Yükseklik deneyimi |
+| Wide | Tüm ağaç | Genel manzara |
+| Window POV | Pencereden bakış | Manzara |
+| Interior | İç mekan | Sıcak ortam |
+
+### Kamera Yüksekliği
+
+- Below: 0.50m (zeminden yukarı)
+- Bridge: 2.00m (yükseklik)
+- Treehouse: 3.00m (en yüksek)
+- Interior: 0.75m (çocuk göz hizası)
+
+---
+
+## Canonical Prompt Reference Pack
+
+### Reference 01 — Hero View
+
+**Purpose:** Master environment reference.
+
+**Camera position:** Aşağıdan yukarıya bakan geniş açı. Tüm ağaç ve ağaç ev görünür.
+
+**Framing:** 100% çevre. Karakter yok. Hayvan yok. Saf çevre referansı.
+
+**Composition:**
+- Büyük ağaç gövdesi
+- Yuvarlak ahşap ağaç ev
+- Alçak ahşap köprü
+- Yeşil yapraklar
+- Açık gökyüzü
+
+**Required props:**
+- TT-HOUSE-01, TT-BRIDGE-01, TT-TRUNK-01, TT-LEAVES-01
+
+**Lighting:** Doğal güneş ışığı yapraklar arasından. Sıcak, altın.
+
+**Mood:** Maceracı, güvenli, keşfedici.
+
+**What must always be visible:**
+- Büyük ağaç
+- Yuvarlak ağaç ev
+- Köprü
+- Yeşil yapraklar
+
+**What should never appear:**
+- Karakter
+- Yüksek düşüş
+- Kırık köprü
+- Sivri çivi
+- Karanlık iç
+- Keskin köşe
+
+### Reference 02 — Entrance View
+
+**Purpose:** Köprüden giriş.
+
+**Camera position:** Köprüden ağaçeva bakan açı.
+
+**Used for:**
+- Köprüden geçiş
+- İçeri girme
+- Yükseklik deneyimi
+
+### Reference 03 — Interior View
+
+**Purpose:** İç mekanın genel görünümü.
+
+**Camera position:** İçeriden, geniş açı.
+
+**Used for:**
+- Dinlenme sahneleri
+- Kitap okuma
+- Pencereden bakma
+
+### Reference 04 — Detail View
+
+**Purpose:** Prop ve malzeme detayları.
+
+**Camera position:** Close-up çekimler.
+
+**Composition:**
+- Ahşap doku
+- Pencere detayı
+- Yaprak detayı
+- Köprü detayı
+
+**Purpose for OpenArt:** Prop detayı ve malzeme referansı için.
+
+---
+
+## Prompt Generation Rules
+
+| Kural | Açıklama |
+|-------|----------|
+| Max 4 referans | Her shot'ta en fazla 4 referans kullanılır |
+| Hero View zorunlu | Her üretimde Hero View yüklenir |
+| Tutarlı ışık | Doğal, yapraklar arasından |
+| Tutarlı renk | Bal rengi ahşap + yeşil |
+| Tutarlı malzeme | Doğal ahşap |
+| Tutarlı ölçek | Çocuk boyutu |
+| Karakter yok referanslarda | Referanslar yalnızca ortam |
+
+### Shot Oluşturma Sırası
+
+```
+1. Hero View yükle (zorunlu)
+2. Entrance View ekle (gerekirse)
+3. Interior View ekle (gerekirse)
+4. Karakter referansı yükle
+5. Shot oluştur
+6. Reddetme kurallarını uygula
+7. Kabul et veya yeniden üret
+```
+
+### Reddetme Kuralları
+
+- Yüksek düşüş varsa reddet
+- Kırık köprü varsa reddet
+- Sivri çivi varsa reddet
+- Karanlık iç mekan varsa reddet
+- Keskin köşe varsa reddet
+- Soğuk renk varsa reddet
 
 ---
 
 ## Soundscape
 
-| Ses | Kaynak |
-|---|---|
-| Ahşap çıtırtısı | Köprü |
-| Kuş cıvıltısı | Yakın |
-| Yaprak hışırtısı | Ağaç |
+| Ses | Kaynak | Ne zaman |
+|-----|--------|----------|
+| Ahşap çıtırtısı | Köprü | Geçerken |
+| Kuş cıvıltısı | Yakın | Her zaman |
+| Yaprak hışırtısı | Ağaç | Rüzgarda |
+| Rüzgar | Yükseklik | Her zaman |
+| Sessizlik | İçeride | Dinlenirken |
+
+---
+
+## Animation Rules
+
+### Ağaç
+
+| Aksiyon | Frame | Hız |
+|---------|-------|-----|
+| Yaprak sallanması | 20 frame | Yavaş |
+| Dal hareketi | 25 frame | Çok yavaş |
+
+### Köprü
+
+| Aksiyon | Frame | Hız |
+|---------|-------|-----|
+| Hafif sallanma | 15 frame | Çok yavaş |
 
 ---
 
@@ -119,16 +390,112 @@ Camping Grove
 ✗ Kırık köprü
 ✗ Sivri çivi
 ✗ Karanlık iç
+✗ Keskin köşe
+✗ Soğuk renk
+✗ Karakter (hero view'da)
+✗ Metin veya logo
+✗ Hızlı hareket
+✗ Güvensiz yapı
 ```
 
 ---
 
 ## Story Opportunities
 
+Her fırsat doğal, sakin ve preschool'a uygundur:
+
 1. Köprüden geçilir
 2. Yüksekten vadiye bakılır
 3. Pencereden el sallanır
 4. Ağaç evde kitap okunur
+5. Kuşlar izlenir
+6. Yapraklar toplanır
+7. Rüzgar hissedilir
+8. Ağaç kabuğuna dokunulur
+9. Güneş batışı izlenir
+10. Yıldızlar sayılır
+11. Sessizce oturulur
+12. Manzara seyredilir
+13. Köprüden geri gidilir
+14. Ağaç selamlanır
+15. Yapraklar sayılıyor
+16. Dal kırılmaz, dikkatli olunur
+17. İçeride ısınılır
+18. Pencere açılır
+19. Rüzgar saçları sallar
+20. Ağaç ev selamlanır
+
+---
+
+## Emotional Tone
+
+- Maceracı
+- Güvenli
+- Yüksek
+- Keşfedici
+- Sıcak
+- Ahşap
+- Doğal
+- Özgür
+- Sessiz
+- Hayalperest
+
+---
+
+## Production Notes
+
+### Best Characters
+
+- Tillo (ağaç ev sahibi, yükseklik sevdalısı)
+- Kiko (ziyaretçi, pencereden keşfeden)
+
+### Avoid
+
+- Tehlikeli yükseklik (korumasız)
+- Kırık veya dengesiz yapı
+- Sivri çivi veya talaş
+- Karanlık veya korkutucu iç mekan
+
+### Typical Duration
+
+30–60s per scene
+
+### Best Emotional Themes
+
+- Macera ve keşif
+- Perspektif ve hayranlık
+- Güven ve koruma
+- Sessiz düşünme
+
+### Typical Opening Shots
+
+1. Aşağıdan yukarıya bakış, ağaç ve ağaç ev
+2. Köprüden geçiş, yükseklik hissi
+3. İç mekanın genel görünümü, sıcak ahşap
+
+### Typical Closing Shots
+
+1. Güneş batımı, ağaç ev silueti
+2. Pencereden bakış, son ışık
+3. Ağaç ev sessiz, yapraklar hışırdıyor
+
+### Camera Recommendations
+
+| Durum | Lens | Yükseklik | Not |
+|-------|------|-----------|-----|
+| Aşağıdan yukarı | 24mm | 0.50m | Heyecan hissi |
+| Köprü | 28mm | 2.00m | Yükseklik |
+| Ağaç ev | 28mm | 3.00m | Genel görünüm |
+| İç mekan | 28mm | 0.75m | Sıcak ortam |
+| Close-up | 50mm | 0.60m | Ahşap doku |
+
+### Continuity Notes
+
+- Ağaç ev her zaman yuvarlak ve ahşap
+- Köprü her zaman güvenli ve sağlam
+- Yapraklar her zaman yeşil
+- Işık her zaman doğal ve sıcak
+- İç mekan her zaman sıcak
 
 ---
 
@@ -139,82 +506,192 @@ Camping Grove
 ✓ Köprü güvenli mi?
 ✓ Ahşap sıcak mı?
 ✓ Sivri köşe yok mu?
+✓ Yapraklar yeşil mi?
+✓ Işık doğal mı?
+✓ İç mekan sıcak mı?
+✓ Yükseklik güvenli mi?
+✓ Kırık yapı yok mu?
+✓ Sivri çivi yok mu?
+✓ Karanlık yok mu?
+✓ Soğuk renk yok mu?
 ```
 
 ---
 
-## Canonical OpenArt Reference Pack
+## Emotional Purpose (Özet)
 
-### Reference 01 — Hero View (100% environment, no characters)
-
-Full treehouse structure in large round tree. Wooden bridge connecting to forest. Warm honey-toned wood, round windows with soft light. Leaves and branches framing the scene. No characters present. Safe, inviting atmosphere.
-
-### Reference 02 — Entrance View
-
-Treehouse entrance from bridge perspective. Round wooden doorway with warm interior glow. Sturdy railings on bridge. Leaves rustling in gentle breeze. Welcoming elevation with safe access. Child-friendly scale.
-
-### Reference 03 — Trail View (mid-environment)
-
-View from treehouse looking down at forest floor below. Canopy of leaves overhead. Bridge extending into distance. Safe height with protective railings. Depth created through layered branches and foliage. Warm dappled light.
-
-### Reference 04 — Detail View
-
-Close-up of round window with warm light inside. Wood grain texture of treehouse walls. Tiny details like round doorknob, leaf decorations. Macro perspective showing craftsmanship. Soft natural lighting.
+Tillo'nun ağaç evi, children'lere "yükseklik ve keşif" duygusunu aşılar. Güvenli bir şekilde yüksekte olmak, dünyaya farklı bir açıdan bakmak — her an bir macera. Ahşap sıcaklığı ve yuvarlak formlar, sarma hissi verir.
 
 ---
 
-## OpenArt Production Rules
+## Play Philosophy (Özet)
 
-- Maximum 4 reference images per environment
-- Hero View is mandatory for all OpenArt prompts
-- Consistent warm wood-tone lighting and honey-gold colour palette across all references
-- No characters in any reference images — environment only
-- All wooden structures must appear rounded and safe
-- Heights must feel secure with visible safety features
-- Maintain visual consistency with existing ENV-011 asset
+Ağaç evde oyun=open-ended ve macera keşfidir. Köprüden geçme, yüksekten bakma, hayal kurma — hepsi keşiftir. Rekabet yok; her çocuk kendi ritminde yükseğe tırmanır. Birlikte bakma, birlikte keşfetme.
 
 ---
 
-## Production Notes
+## Material Language
 
-### Best Characters
-
-- Tillo (primary — treehouse owner, loves heights)
-- Kiko (secondary — visits, explores windows)
-
-### Avoid
-
-- Dangerous heights without protection
-- Broken or unstable structures
-- Sharp nails or splinters
-- Dark or scary interiors
-
-### Typical Duration
-
-30-60 seconds per scene
-
-### Best Emotional Themes
-
-- Adventure and exploration
-- Perspective and wonder
-- Safety and security
-- Quiet contemplation
+Ahşap sıcak, doğal, elle işlenmiş görünür. Yuvarlak pencereler ve kapılar, oyuncak ev estetiği taşır. Köprü yumuşak, kavisli, güvenli bir geçiş malzemesi kullanır. Hiçbir yüzey sert veya tehlikeli değil. Her şey doğal ve sıcak.
 
 ---
 
-## Quality Checklist
+## Production Goal
 
-```
-✓ Emotional Purpose tanımı var mı?
-✓ Play Philosophy bölümü var mı?
-✓ Material Language açık mı?
-✓ Kamera açıları tanımlı mı?
-✓ Ses tasarımı net mi?
-✓ Forbidden sınırları belirli mi?
-✓ Karakter uyumu sağlandı mı?
-✓ Production Notes eksiksiz mi?
-```
+This environment is designed as the canonical elevated retreat for PomPom Hills. It will be reused across episodes for perspective moments, bridge crossings, quiet contemplation, and adventure scenes.
 
 ---
 
-*Bu belge Tillo's Treehouse mekanı için production referansıdır.*
+## Hero View Technical Specification
+
+| Parameter | Value |
+|-----------|-------|
+| Camera position | Aşağıdan yukarıya, hafif sol çapraz |
+| Camera height | 0.50m (zemin) |
+| Lens | 24mm (geniş) |
+| Framing | Ağaç %60, gökyüzü %40 |
+| Horizon | Üstte gökyüzü |
+| Lighting direction | Doğal güneş, yapraklar arasından |
+| Lighting softness | Yumuşak, altın |
+| Shadow density | %15-20 |
+| Colour temperature | 5000K, doğal |
+
+---
+
+## Camera Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Default lens | 24–35mm |
+| Below height | 0.50m |
+| Bridge height | 2.00m |
+| Treehouse height | 3.00m |
+| Interior height | 0.75m |
+| Movement philosophy | Yavaş, yumuşak, doğal |
+| Allowed movements | Gentle tilt up, slow pan, bridge tracking |
+| Forbidden movements | Fast zoom, shake, dutch angle |
+
+---
+
+## Lighting Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Primary direction | Doğal güneş, yapraklar arasından |
+| Softness | Yumuşak, dappled |
+| Ambient fill | Doğal, yeşil yansıma |
+| Shadow density | %15-20 |
+| Exposure | Normal |
+| Continuity | Doğal ışık her zaman sabit |
+
+---
+
+## Colour Identity
+
+| Parameter | Value |
+|-----------|-------|
+| White balance | 5000K, doğal |
+| Exposure | Normal |
+| Contrast | Düşük, yumuşak |
+| Saturation | Orta, doğal |
+| Wood colour | Bal rengi (#FFCC80) |
+| Leaf colour | Yeşil (#66BB6A) |
+| Sky colour | Açık mavi (#E3F2FD) |
+| Trunk colour | Kahverengi (#795548) |
+| Highlight behaviour | Doğal, yaprak yansıması |
+| Shadow behaviour | Yumuşak, yeşil tonlu |
+| Forbidden colour shifts | Soğuk mavi, koyu gri, siyah |
+
+---
+
+## Environmental Sound Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Wind | Hafif, yaprak hışırtısı |
+| Birds | Yakın, doğal |
+| Wood | Köprü çıtırtısı |
+| Ambience level | Düşük, doğal |
+| Silence ratio | Yüksek — doğa sesi baskın |
+| Forbidden sounds | Gürültü, sert ses, modern teknoloji |
+
+---
+
+## Continuity Rules
+
+| Element | Rule |
+|---------|------|
+| Ağaç ev | Her zaman yuvarlak ve ahşap |
+| Köprü | Her zaman güvenli ve sağlam |
+| Yapraklar | Her zaman yeşil |
+| Işık | Her zaman doğal |
+| İç mekan | Her zaman sıcak |
+| Yükseklik | Her zaman güvenli |
+
+---
+
+## World Identity Lock
+
+| Locked Element | Value | Acceptable Variations |
+|----------------|-------|----------------------|
+| Ağaç ev şekli | Yuvarlak, ahşap | Hafif boyut farkı |
+| Ahşap rengi | Bal rengi (#FFCC80) | ±10% ton |
+| Yaprak rengi | Yeşil (#66BB6A) | Mevsimsel变化 |
+| Köprü | Alçak, ahşap | Uzunluk varyasyonu |
+
+---
+
+## Common Generation Failures
+
+| Failure | Why It Matters | Fix |
+|---------|---------------|-----|
+| Yüksek düşüş | Güvenliksiz his | Koruyucu ekle |
+| Kırık köprü | Tehlike hissi | Sağlam köprü yap |
+| Sivri çivi | Preschool安全ına aykırı | Yuvarlak vida |
+| Karanlık iç mekan | Korkutucu his | Sıcak ışık ekle |
+| Keskin köşe | Preschool安全ına aykırı | Tüm kenarları yuvarla |
+| Soğuk renk | Sıcaklık kaybolur | Sıcak ahşap tonları |
+
+---
+
+## Video Generation Rules
+
+| Element | Rule |
+|---------|------|
+| Yaprak hareketi | Yavaş sallanma, 20 frame |
+| Köprü hareketi | Çok yavaş sallanma, 15 frame |
+| Kamera hızı | Maks %3 frame/sn pan veya tilt |
+| Rüzgar | Sürekli, yumuşak |
+
+---
+
+## Production Summary
+
+Tillo's Treehouse, PomPom Hills'in yükseklik ve macera mekanıdır. Büyük bir ağaçta yuvarlak ahşap ev, güvenli köprü ve sıcak iç mekanla tanınır. Yüksekten bakış, köprüden geçiş ve sessiz düşünme sahneleri için idealdir. Her üretimde güvenlik ve sıcaklık hissi korunmalıdır.
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline standardına geçirme | — |
+| 2.1 | Düzeltmeler | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+
+---
+
+## Related Documents
+
+| Document | Path |
+|----------|------|
+| World Spec | `02-WORLDS/11-tillos-treehouse/11-tillos-treehouse-world-spec.md` |
+| Global Standard | `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
+| Image Prompts | `02-WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
+
+---
+
+*Bu belge Tillo's Treehouse mekanı için creative referanstır.*
+*Environment Bible v3.0*
+*Son güncelleme: 3 Temmuz 2026*

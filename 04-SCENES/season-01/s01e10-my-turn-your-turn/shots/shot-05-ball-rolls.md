@@ -1,4 +1,4 @@
-# E10 — Shot 04 — Playing Together
+# E10 — Shot 05 — The Ball Rolls Away
 
 ---
 
@@ -7,7 +7,7 @@
 | Field | Value |
 |---|---|
 | Episode | S01E10 — My Turn, Your Turn |
-| Shot | 04 / 06 |
+| Shot | 05 / 06 |
 | Duration | 15 seconds |
 | Location | Central Square |
 | Characters | Luca, Noah |
@@ -17,24 +17,25 @@
 
 ## Purpose
 
-Show the joy of playing together.
+Create a small gentle problem.
 
-Both children throw and catch the ball.
-A small laugh and a near-miss make the moment feel alive.
+Noah bounces the ball and it rolls away.
+The problem comes from their play, not from outside.
+Both children chase it together.
 
 ---
 
 ## Continuity
 
-Previous shot: Noah handed the ball back to Luca after bouncing it.
+Previous shot: Luca and Noah were throwing the ball back and forth, laughing.
 
-This shot begins exactly one frame after Shot 03.
+This shot begins exactly one frame after Shot 04.
 
 No establishing shot.
 No camera reset.
 
 Maintain:
-- same character positions from the end of Shot 03
+- same character positions from the end of Shot 04
 - same Central Square location
 - same warm morning light
 - same colour identity
@@ -44,7 +45,7 @@ Maintain:
 ## Visual Prompt
 
 ```text
-Luca and Noah throwing the round yellow ball back and forth at Central Square, both laughing, Big Pompom Tree background, warm morning light, soft pastel colours, playful movement, no other characters, {style} {camera} {lighting}
+Luca and Noah chasing a round yellow ball as it rolls away across Central Square after Noah bounced it, warm morning light, soft pastel colours, gentle chase, Big Pompom Tree in background, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -53,22 +54,22 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Continue from the exact framing of Shot 03.
+Continue from the exact framing of Shot 04.
 
 Medium-wide child-eye-level composition.
 
-Both children throw and catch the ball.
+Gentle pan right to follow the rolling ball.
 
-Keep the Big Pompom Tree visible in background.
+Keep the Big Pompom Tree visible when composition allows.
 
 ---
 
 ## Dialogue
 
 ```text
-Noah: That was fun!
+Luca: Oh no!
 
-Luca: Again!
+Noah: Let's get it!
 ```
 
 ---
@@ -78,34 +79,33 @@ Luca: Again!
 | Time | Action | Camera |
 |---|---|---|
 | 0-3 sec | First frame matches @image1 | Static |
-| 3-5 sec | Luca throws the ball to Noah | Medium-wide |
-| 5-7 sec | Noah almost misses, catches it with a laugh | Medium-wide |
-| 7-10 sec | Noah throws it back, ball bounces once | Medium-wide |
-| 10-13 sec | Ball goes up, both watch it | Medium |
-| 13-15 sec | Ball lands, both laugh | Medium hold |
+| 3-5 sec | Noah bounces the ball gently | Medium-wide |
+| 5-7 sec | Ball bounces one extra time | Medium-wide |
+| 7-10 sec | Ball starts rolling away across the grass | Pan right |
+| 10-13 sec | Luca and Noah chase after it | Pan follows |
+| 13-15 sec | Both children run together | Medium-wide hold |
 
 ---
 
 ## Sound
 
-- Soft ball bounce — "boop"
-- Children laughing
-- One near-miss giggle
+- Soft ball rolling on grass
+- Gentle footsteps running
 - Quiet ambient morning
 
 ---
 
 ## Emotional Voice Progression
 
-Happy and playful — pure childhood joy, a little messy, a little fun.
+Mild surprise — soft, not scared. A small problem to solve together.
 
 ---
 
 ## Emotion
 
-Joy.
+Mild surprise.
 
-The moment should feel like two children having simple fun together, with a small near-miss that makes them laugh.
+The moment should feel like a gentle, safe adventure — not danger.
 
 ---
 
@@ -113,10 +113,10 @@ The moment should feel like two children having simple fun together, with a smal
 
 Use the production generation standard (`00-CORE/17_VIDEO_GENERATION_STANDARD.md`).
 
-First frame: @image1 from Shot 03.
+First frame: @image1 from Shot 04.
 Location: Central Square.
 Lighting: Warm morning light. Same lighting as Shot 01.
-Ball: Same round yellow ball.
+Ball: Same round yellow ball, now rolling away.
 
 ## Character Presence
 
@@ -133,6 +133,7 @@ Do not introduce any character after the shot has started.
 - [ ] Colour identity matches Shot 01.
 - [ ] Central Square identity preserved.
 - [ ] Same round yellow ball preserved.
+- [ ] No extra characters.
+- [ ] No new environment elements.
 - [ ] No on-screen text.
 - [ ] Viewer cannot perceive a shot boundary.
-- [ ] Near-miss moment feels natural, not forced.

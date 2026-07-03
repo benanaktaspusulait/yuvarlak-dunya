@@ -4,90 +4,73 @@
 
 ## Scene Context
 
-| Alan | Değer |
-| --- | --- |
+| Field | Value |
+|---|---|
 | Episode | S01E10 — My Turn, Your Turn |
-| Shot | 01 / 04 |
+| Shot | 01 / 06 |
 | Duration | 15 seconds |
 | Location | Central Square |
 | Characters | Luca, Noah |
-| Time of Day | Morning |
+| Time of Day | Warm Morning |
+
+---
+
+## Purpose
+
+Open with curiosity.
+
+Luca and Noah discover a round yellow ball in Central Square.
+This should feel like two children finding something playful in the world.
 
 ---
 
 ## Continuity
 
-This is the FIRST shot of the episode.
+This is the first shot of the episode.
 
-No previous shot reference.
-
----
-
-## Start Frame
-
-This is the FIRST shot. No previous shot reference.
-
-Use the approved still image for this shot as the exact first frame.
+Use the approved first-frame still for this shot.
 
 Maintain:
-- Character appearance
-- Central Square environment
-- Morning lighting
-- Camera composition
-- Character proportions
+- Luca and Noah character identity
+- Central Square world identity
+- warm morning light
+- soft pastel colour identity
 
-Do not redesign the environment.
+Do not redesign Central Square.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Luca and Noah at Central Square both looking at a round yellow ball on the grass, excited expressions, Big Pompom Tree background, warm morning light, no other characters, {style} {camera} {lighting}
+Luca and Noah from Pompom Hills already in Central Square, both looking at a round yellow ball on the grass, Big Pompom Tree visible in background, warm morning light, soft pastel colours, childlike wonder, no other characters, {style} {camera} {lighting}
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
-
----
-
-## Reference Usage
-
-This is the FIRST shot. No previous shot reference.
-
-The reference image is supplied by the production workflow and should not be hardcoded into this document.
 
 ---
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in @image1.
+Begin with a stable 35mm wide shot at child eye level.
 
-No camera movement is allowed until the first frame matches @image1 exactly.
+Central Square is established with the Big Pompom Tree in background.
 
-The first visible frame should appear visually identical to @image1.
+Luca and Noah are already in frame, standing near the round yellow ball on the grass.
 
-Only then may the planned camera movement begin.
+Both children look at the ball together.
 
-Begin with a static 35mm wide cinematic shot establishing Central Square.
+Gentle settle toward medium as they both notice it.
 
-Luca and Noah enter from opposite sides, converging on the ball.
-
-Perform a gentle cinematic push-in as they both see the ball.
-
-End on a medium shot showing both characters and the ball.
-
-Camera movement must remain slow, stable and natural.
-
-Warm morning sunlight throughout.
-
-Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
+End on a medium composition of both children looking at the ball.
 
 ---
 
 ## Dialogue
 
-```
+```text
 Luca: A ball!
+
 Noah: I see it!
 ```
 
@@ -97,51 +80,55 @@ Noah: I see it!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Central Square, yellow ball on grass | Wide establishing |
-| 5-10 sn | Luca arrives, sees ball | Medium |
-| 10-15 sn | Noah arrives, sees same ball | Medium |
+| 0-3 sec | Central Square, round yellow ball on grass, Luca and Noah already in frame | Wide |
+| 3-6 sec | Luca crouches slightly toward the ball | Wide |
+| 6-9 sec | Noah steps closer | Settle |
+| 9-12 sec | They look at each other | Medium |
+| 12-15 sec | "A ball!" | Medium hold |
 
 ---
 
 ## Sound
 
 - Birds chirping
-- Footsteps
+- Soft footsteps on grass
+- Gentle ambient morning
 
 ---
 
-## Lighting
+## Emotional Voice Progression
 
-Warm morning sunlight.
+Curious excitement — soft, open, a little breathless.
 
 ---
 
-## Negative Prompt
+## Emotion
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+Discovery.
 
+The moment should feel playful, fresh and safe.
+
+---
+
+## Production Standard
+
+Use the production generation standard (`00-CORE/17_VIDEO_GENERATION_STANDARD.md`).
+
+First frame: approved first-frame still.
+Location: Central Square.
+Lighting: Warm morning light.
+Ball: Same round yellow ball.
+Voice: Luca and Noah established here.
 
 ---
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
-
-- [ ] Character integrity verified
-- [ ] Character consistency verified
-- [ ] Object persistence verified
-- [ ] No rendering artefacts
-- [ ] Camera consistency verified
-- [ ] Lighting consistency verified
-- [ ] Canonical rules followed
-
-## Opening Hook
-
-The first 3-5 seconds should immediately create curiosity.
-Avoid slow introductions. Begin with an interesting visual, a surprising action, a curious question, or an emotional expression.
-
-Examples:
-- Can you hear that?
-- Look what I found!
-- Do you know where stars sleep?
-- What is hiding over there?
+- [ ] Luca identity preserved.
+- [ ] Noah identity preserved.
+- [ ] Central Square identity preserved.
+- [ ] Round yellow ball visible and correctly placed.
+- [ ] Voice identities established clearly.
+- [ ] Colour identity established clearly.
+- [ ] No on-screen text.
+- [ ] Opening creates curiosity within 3-5 seconds.

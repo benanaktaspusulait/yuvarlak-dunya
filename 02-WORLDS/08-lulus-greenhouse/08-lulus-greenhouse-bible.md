@@ -1,25 +1,33 @@
 # Environment Bible — Lulu's Greenhouse
 
-> **Version 2.0** — Upgraded to new production pipeline standard.
+> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> Lulu'nun sera evi, cam duvarların ardındaki yeşil bir dünyadır. Sıcak, nemli, canlı.
 
 ---
 
 ```
 Environment ID: ENV-008
-File: environment/08-lulus-greenhouse.png
-Version: 2.1
+File: 02-WORLDS/08-lulus-greenhouse/
+Version: 3.0
 Location: Tillo's Garden yanı
+Type: Interior/Exterior World
+Status: Design
+Bible: ✅
+Hero View: ❌
+World Spec: ❌
 ```
+
+---
+
+## Overview
+
+Lulu'nun sera evi, yuvarlak cam panellerle çevrili, içi yeşil bitkilerle dolu sıcak bir mekandır. Cam duvarlar sayesinde içi görünür. Sıcak, nemli, canlı — doğayla iç içe, ama korumalı bir dünya.
 
 ---
 
 ## Purpose
 
-Lulu'nun sera evi, bitki bakım merkezi.
-
-Cam duvarlar, içi görünür.
-
-Sıcak, yeşil, canlı.
+Lulu'nun sera evi, bitki bakım merkezidir. Cam duvarlar, içi görünür, sıcak ve yeşil. Çocuklar burada bitki yetiştirme, sıcak ortam hissetme ve doğayla etkileşim kurma deneyimi yaşar.
 
 ---
 
@@ -29,12 +37,59 @@ Lulu's Greenhouse bridges indoor and outdoor worlds with its transparent glass w
 
 ---
 
-## Story Function
+## Emotional Purpose
 
-- Bitki yetiştirme
-- Sıcak ortam
-- İç mekan sahnesi
-- Doğa etkileşimi
+### Bu mekan duygusal olarak neden var?
+
+Sıcaklık ve bakım duygusunu temsil eder. Cam duvarların ardındaki yeşil dünya, güvenli bir sığınak hissi yaratır.
+
+### Çocuklar buraya geldiklerinde nasıl hisseder?
+
+Sıcak, meraklı, huzurlu. "Burada her şey yeşil ve canlı."
+
+### Bu mekanda doğal olarak hangi hikayeler geçer?
+
+- Yeni bitki yetiştirme
+- Sıcak ortam hissetme
+- Çiçek açma gözlemleme
+- Su sulama
+- Camdan dışarıyı izleme
+- Bitki bakımı
+- Nemli havayı hissetme
+
+### Bu mekan hangi duygusal deneyimleri destekler?
+
+Sıcaklık · Bakım · Büyüme · Keşif · Huzur
+
+---
+
+## Play Philosophy
+
+### Oyun stili
+
+| Özellik | Açıklama |
+|---------|----------|
+| Open-ended | Bitkileri izleme, su damlalarını takip etme |
+| Hayal gücü | Büyüme hayali, yeşil dünyanın keşfi |
+| İşbirliği | Birlikte bakım, birlikte büyüme |
+| Gözlem | Camdan bakma, nem hissetme |
+| Yumuşak hareket | Yavaş hareket, dikkatli dokunuş |
+
+### Kural tabanlı oyun yok
+
+- Yarışma yok
+- Skor yok
+- Rekabet yok
+
+### Doğal etkileşimler
+
+- Bitkilere dokunma
+- Su damlalarını izleme
+- Camdan dışarıyı izleme
+- Sıcak havayı hissetme
+- Kokuları koklama
+- Yaprakları sayma
+- Büyüme değişimini gözlemleme
 
 ---
 
@@ -46,56 +101,418 @@ Tillo's Garden
 Lulu's Greenhouse ← BURASI
 ```
 
+**Komşuları:**
+- Kuzey: Tillo's Garden (birkaç adım)
+- Güney: Central Square (2 dk)
+- Doğu: Flower Hill (2 dk)
+- Batı: Little Forest (3 dk)
+
 ---
 
-## Exterior
+## Visual Identity
 
 ### Genel
 
-- Cam duvarlar (yuvarlak çerçeveli)
+- Yuvarlak cam paneller (yuvarlak çerçeveli)
+- İçerisi yeşil bitkilerle dolu
+- Sıcak, nemli atmosfer
+- Camda yoğunlaşma (condensation)
+- Içeriden sıcak ışık
+- Ahşap çerçeve ve raflar
+
+### Dış
+
+- Cam duvarlar yuvarlak çerçeveli
 - İçerisi görünür
-- Yeşil bitkiler dolu
-- Sıcak, nemli
+- Yeşil bitkiler camın ardında
+- Sıcak ışık içeri sızıyor
+
+### İç
+
+- Raflarda saksı bitkileri
+- Yuvarlak saksılar
+- Ahşap raflar
+- Nemli hava
+- Sıcak, yeşil atmosfer
+
+### Cam
+
+- Yuvarlak paneller
+- Yumuşak çerçeveler
+- Yoğunlaşma damlacıkları
+- Sıcak iç ışık yansıması
+
+---
+
+## Spatial Layout
+
+### Dış
+
+```
+    Çimenlik
+        ↓
+    Sera girişi
+        ↓
+    Cam duvarlar (çevre)
+```
+
+### İç
+
+```
+    Giriş
+        ↓
+    Raflar (duvar)
+        ↓
+    Saksı bitkileri (ortas)
+        ↓
+    Pencere (dışarıya bakış)
+        ↓
+    Sulama noktası
+```
+
+Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler yoktur.
+
+---
+
+## World Zones
+
+### Dış Görünüm
+
+- **Purpose:** Sera'nın dış tanıtımı
+- **Emotional Purpose:** Merak — "İçeride ne var?"
+- **Typical Activities:** Dışarıdan bakma, içeri girme
+- **Lighting:** Dış mekan aydınlatması, sıcak
+- **Mood:** Davetkar, yeşil, merak uyandırıcı
+- **Important Props:** Cam duvarlar, ahşap çerçeve
+- **Camera Usage:** Wide establishing, through-glass view
+
+### Giriş
+
+- **Purpose:** Dış ile iç arasındaki köprü
+- **Emotional Purpose:** Geçiş anı — "Artık seradasın"
+- **Typical Activities:** Kapıyı açma, içeri girme
+- **Lighting:** Yarı gölge, sıcak
+- **Mood:** Sıcak, karşılanma
+- **Important Props:** Yuvarlak kapı çerçevesi
+- **Camera Usage:** Door close-up, entrance shot
+
+### İç Mekan
+
+- **Purpose:** Sera'nın kalbi — bitki bakım alanı
+- **Emotional Purpose:** Sıcaklık, bakım, yeşillik
+- **Typical Activities:** Bitki izleme, sulama, bakım
+- **Lighting:** İç mekan sıcak aydınlatması + camdan doğal ışık
+- **Mood:** Sıcak, yeşil, nemli, canlı
+- **Important Props:** Raflar, saksılar, bitkiler, sulama kabı
+- **Camera Usage:** Wide interior, medium, close-up
+
+### Cam Panel Yakını
+
+- **Purpose:** Yoğunlaşma ve nem detayı
+- **Emotional Purpose:** Keşfetme, doğa
+- **Typical Activities:** Camdan bakma, damlacıkları izleme
+- **Lighting:** Doğal ışık, yansıma
+- **Mood:** Merak, huzur
+- **Important Props:** Cam panel, damlacıklar
+- **Camera Usage:** Close-up on glass, through-glass POV
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Cam panel | LG-GLASS-01 | Yuvarlak cam panel, çerçeve dahil | ✅ |
+| Ahşap çerçeve | LG-FRAME-01 | Yuvarlak ahşap çerçeve | ✅ |
+| Saksı | LG-POT-01 | Yuvarlak yeşil saksı | ✅ |
+| Raflar | LG-SHELF-01 | Ahşap raf, bitkiler için | ✅ |
+| Sulama kabı | LG-CAN-01 | Küçük sulama kabı | ✅ |
+| Bitkiler | LG-PLANTS-01 | Yeşil yapraklı bitkiler | ✅ |
+| Çiçekler | LG-FLOWERS-01 | Seralık çiçekler | ✅ |
+| Yoğunlaşma | LG-CONDENSATION-01 | Camdaki su damlacıkları | ✅ |
+| Giriş kapısı | LG-DOOR-01 | Yuvarlak ahşap kapı çerçevesi | ✅ |
+| Zemin | LG-FLOOR-01 | Sıcak fayans zemin | ✅ |
 
 ---
 
 ## Camera Rules
 
-| Açı | Kullanım |
-|---|---|
-| Through glass | İçeriden görünüm |
-| Wide | Tüm sera |
-| Close-up | Bitki detayı |
+### Genel
+
+| Açı | Kullanım | Not |
+|-----|----------|-----|
+| Through glass | Camdan içeriye | Yeşil bitkiler görünür |
+| Wide exterior | Dış görünüm | Tüm sera |
+| Wide interior | İç mekan | Tüm raflar ve bitkiler |
+| Entrance | Giriş | Kapı çerçevesi |
+| Close-up | Bitki detayı | Yaprak, çiçek, damlacık |
+| Condensation | Cam detayı | Yoğunlaşma |
+| POV | İçeriden dışarı | Dış bahçe görünümü |
+
+### Kamera Yüksekliği
+
+- Dış: 0.85m (sera genel)
+- İç: 0.75m (bitki seviyesi)
+- Close-up: 0.40m (detay)
+- Cam panel: 0.60m (yoğunlaşma)
+
+---
+
+## Canonical Prompt Reference Pack
+
+### Reference 01 — Hero View
+
+**Purpose:** Master environment reference.
+
+**Camera position:** Dışarıdan seraya bakan geniş açı. Cam duvarlar görünür, içerideki yeşillik belli olur.
+
+**Framing:** 100% çevre. Karakter yok. Hayvan yok. Saf çevre referansı.
+
+**Composition:**
+- Yuvarlak cam paneller
+- İçeride yeşil bitkiler
+- Ahşap çerçeve
+- Sıcak iç ışık
+- Dışarıda çimen
+
+**Required props:**
+- LG-GLASS-01, LG-FRAME-01, LG-PLANTS-01
+
+**Lighting:** Sıcak altın güneş ışığı camdan içeri. İçeriden sıcak ışık yansıması. Yumuşak gölge.
+
+**Mood:** Sıcak, yeşil, nemli, canlı.
+
+**What must always be visible:**
+- Yuvarlak cam paneller
+- İçerideki yeşillik
+- Ahşap çerçeve
+- Sıcak ışık
+
+**What should never appear:**
+- Karakter
+- Kırık cam
+- Soluk bitki
+- Karanlık
+- Keskin köşe
+- Soğuk renk
+
+### Reference 02 — Entrance View
+
+**Purpose:** Sera'ya giriş.
+
+**Camera position:** Giriş kapısından içeriye bakan açı.
+
+**Used for:**
+- İçeri girme anları
+- Sıcak karşılanma
+- İlk yeşillik görünümü
+
+### Reference 03 — Interior View
+
+**Purpose:** İç mekanın genel görünümü.
+
+**Camera position:** İçeriden, geniş açı.
+
+**Used for:**
+- Bitki bakım sahneleri
+- Sıcak ortam hissi
+- Yeşil dünyanın keşfi
+
+### Reference 04 — Detail View
+
+**Purpose:** Prop ve malzeme detayları.
+
+**Camera position:** Close-up çekimler.
+
+**Composition:**
+- Yoğunlaşma damlacıkları
+- Yaprak detayı
+- Saksı detayı
+- Cam yansıması
+
+**Purpose for OpenArt:** Prop detayı ve malzeme referansı için.
+
+---
+
+## Prompt Generation Rules
+
+| Kural | Açıklama |
+|-------|----------|
+| Max 4 referans | Her shot'ta en fazla 4 referans kullanılır |
+| Hero View zorunlu | Her üretimde Hero View yüklenir |
+| Tutarlı ışık | Sıcak, camdan sızan ışık |
+| Tutarlı renk | Yeşil + altın + ahşap tonları |
+| Tutarlı malzeme | Cam, ahşap, yeşil yaprak |
+| Tutarlı ölçek | Çocuk boyutu, alçak raflar |
+| Karakter yok referanslarda | Referanslar yalnızca ortam |
+
+### Shot Oluşturma Sırası
+
+```
+1. Hero View yükle (zorunlu)
+2. Entrance View ekle (gerekirse)
+3. Interior View ekle (gerekirse)
+4. Karakter referansı yükle
+5. Shot oluştur
+6. Reddetme kurallarını uygula
+7. Kabul et veya yeniden üret
+```
+
+### Reddetme Kuralları
+
+- Kırık cam varsa reddet
+- Soluk bitki varsa reddet
+- Karanlık varsa reddet
+- Keskin köşe varsa reddet
+- Soğuk renk varsa reddet
+- Cam yuvarlak değilse reddet
 
 ---
 
 ## Soundscape
 
-| Ses | Kaynak |
-|---|---|
-| Su damlama | Bitkiler |
-| Kuş cıvıltısı | İçeride |
-| Rüzgar | Dışarıda |
+| Ses | Kaynak | Ne zaman |
+|-----|--------|----------|
+| Su damlama | Bitkiler | Her zaman |
+| Kuş cıvıltısı | İçeride | Sabah |
+| Rüzgar | Dışarıda | Her zaman |
+| Sıcak ambient | İçeride | Her zaman |
+| Cam sesi | Giriş | Kapı açılırken |
+
+---
+
+## Animation Rules
+
+### Bitkiler
+
+| Aksiyon | Frame | Hız |
+|---------|-------|-----|
+| Yaprak sallanması | 20 frame | Çok yavaş |
+| Büyüme | 30 frame | Çok yavaş |
+
+### Su
+
+| Aksiyon | Frame | Hız |
+|---------|-------|-----|
+| Damla akışı | 15 frame | Yavaş |
+| Yoğunlaşma | 25 frame | Çok yavaş |
 
 ---
 
 ## Forbidden
 
 ```
-✗ Sıcak camsız
 ✗ Kırık cam
 ✗ Soluk bitki
 ✗ Karanlık
+✗ Keskin köşe
+✗ Soğuk renk
+✗ Kuru hava
+✗ Karakter (hero view'da)
+✗ Metin veya logo
+✗ Hızlı hareket
+✗ Sert ses
 ```
 
 ---
 
 ## Story Opportunities
 
+Her fırsat doğal, sakin ve preschool'a uygundur:
+
 1. Yeni bir bitki yetiştirilir
 2. Sera sıcaklığı hissedilir
 3. Çiçekler açar
 4. Su sulama yapılır
+5. Camdan dışarı bakılır
+6. Yoğunlaşma damlacıkları izlenir
+7. Yapraklar sayılır
+8. Sıcak hava hissedilir
+9. Yeni çiçek keşfedilir
+10. Bitkilere isim verilir
+11. Sera temizlenir
+12. Yeni saksı hazırlanır
+13. Tohum ekilir
+14. Büyüme gözlemlenir
+15. Cam silinir
+16. Dışarıdan içeriye bakılır
+17. İçeriden dışarıya bakılır
+18. Nemli hava hissedilir
+19. Yeşil yapraklar koklanır
+20. Sera selamlanır
+
+---
+
+## Emotional Tone
+
+- Sıcak
+- Yeşil
+- Nemli
+- Canlı
+- Bakımlı
+- Huzurlu
+- Merak uyandırıcı
+- Doğal
+- Güvenli
+- Büyüyen
+
+---
+
+## Production Notes
+
+### Best Characters
+
+- Lulu (sera sahibi, bitki uzmanı)
+- Tillo (komşu, bitki getirir)
+
+### Avoid
+
+- Kırık cam
+- Soluk veya ölü bitkiler
+- Karanlık atmosfer
+- Soğuk renkler
+- Keskin köşeler
+- Kuru hava
+
+### Typical Duration
+
+30–60s per scene
+
+### Best Emotional Themes
+
+- Büyüme ve bakım
+- Sıcaklık ve konfor
+- Bilimsel merak
+- Yumuşak keşif
+
+### Typical Opening Shots
+
+1. Dışarıdan seraya bakış, camda yeşillik
+2. Girişten içeriye bakış, sıcak hava
+3. İç mekanın genel görünümü, yeşil世界
+
+### Typical Closing Shots
+
+1. Gün batımı, camda altın ışık
+2. İçeride sessizlik, yeşil世界
+3. Yoğunlaşma damlacıkları, huzur
+
+### Camera Recommendations
+
+| Durum | Lens | Yükseklik | Not |
+|-------|------|-----------|-----|
+| Dış genel | 28mm | 0.85m | Tüm sera görünür |
+| İç mekan | 28mm | 0.75m | Tüm raflar ve bitkiler |
+| Cam panel | 35mm | 0.60m | Yoğunlaşma detayı |
+| Close-up | 50mm | 0.40m | Bitki, damlacık |
+
+### Continuity Notes
+
+- Cam her zaman yuvarlak ve temiz
+- İçeride her zaman sıcak ve yeşil
+- Bitkiler her zaman sağlıklı
+- Yoğunlaşma her zaman var
+- Işık her zaman sıcak
 
 ---
 
@@ -106,100 +523,192 @@ Lulu's Greenhouse ← BURASI
 ✓ İçerisi yeşil mi?
 ✓ Sıcak his var mı?
 ✓ Sivri köşe yok mu?
+✓ Cam temiz mi?
+✓ Bitkiler sağlıklı mı?
+✓ Yoğunlaşma var mı?
+✓ Ahşap çerçeve var mı?
+✓ Saksılar yuvarlak mı?
+✓ Işık sıcak mı?
+✓ Soğuk renk yok mu?
+✓ Kırık cam yok mu?
 ```
 
 ---
 
-## Canonical OpenArt Reference Pack
+## Emotional Purpose (Özet)
 
-### Reference 01 — Hero View (100% environment, no characters)
-
-Full greenhouse exterior with rounded glass panels. Warm green interior visible through transparent walls. Condensation on glass, humid atmosphere. Lush plants filling interior space. No characters present. Warm golden light from within.
-
-### Reference 02 — Entrance View
-
-Greenhouse entrance with round wooden door frame. Glass panels reflecting soft daylight. Visible plant silhouettes inside. Welcoming threshold between outdoor garden and interior warmth. Child-friendly door height.
-
-### Reference 03 — Trail View (mid-environment)
-
-Interior view looking outward through glass walls. Rows of potted plants in round containers. Soft diffused light creating warm greenhouse glow. Depth through layered glass and vegetation. Misty humidity visible.
-
-### Reference 04 — Detail View
-
-Close-up of glass panel with condensation droplets. Tiny plant detail inside. Warm moisture atmosphere. Macro view of greenhouse humidity and plant health. Soft natural lighting.
+Lulu's Greenhouse, children'lere "sıcaklık ve bakım" duygusunu aşılar. Cam duvarların ardındaki yeşil dünya, çocuklar için güvenli bir sığınak hissi yaratır. Büyüyen bitkiler, nemli hava, sıcak bir kucaklama — her an bir bakım hikayesi.
 
 ---
 
-## OpenArt Production Rules
+## Play Philosophy (Özet)
 
-- Maximum 4 reference images per environment
-- Hero View is mandatory for all OpenArt prompts
-- Consistent warm lighting and green-gold colour palette across all references
-- No characters in any reference images — environment only
-- Glass must appear rounded with soft reflections
-- Humidity and warmth must be visually suggested
-- Maintain visual consistency with existing ENV-008 asset
-
----
-
-## Production Notes
-
-### Best Characters
-
-- Lulu (primary — greenhouse owner, plant expert)
-- Tillo (secondary — brings plants from garden)
-
-### Avoid
-
-- Broken or cracked glass
-- Dead or wilting plants
-- Cold or dark atmospheres
-- Sharp corners on glass structures
-
-### Typical Duration
-
-30-60 seconds per scene
-
-### Best Emotional Themes
-
-- Growth and nurturing
-- Warmth and comfort
-- Scientific curiosity
-- Gentle discovery
-
----
-
-## Emotional Purpose
-
-Lulu's Greenhouse children'lere "sıcaklık ve bakım" duygusunu aşılar. Cam duvarların ardındaki yeşil dünya, çocuklar için güvenli bir sığınak hissi yaratır. Büyüyen bitkiler, nemli hava, sıcak bir kucaklama — her an bir bakım hikayesi.
-
----
-
-## Play Philosophy
-
-Greenhouse'da oyun=open-ended ve doğal keşiftir. Bitkileri izleme, su damlalarını takip etme, camdan dışarı bakma — hepsi keşiftir. Rekabet yok; her孩子 kendi hızında büyümeyi izler. Birlikte bakım, birlikte büyüme.
+Greenhouse'da oyun=open-ended ve doğal keşiftir. Bitkileri izleme, su damlalarını takip etme, camdan dışarı bakma — hepsi keşiftir. Rekabet yok; her çocuk kendi hızında büyümeyi izler. Birlikte bakım, birlikte büyüme.
 
 ---
 
 ## Material Language
 
-Her yüzey yuvarlak ve sıcak. Cam paneller yumuşak çerçeveli, saksılar yuvarlak, raflar ahşap ve pürüzsüz. Sert veya kırılgan hiçbir şey yok. Her şey nemli ve yeşil, bir çocuk serasından çıkmış gibi.
+Her yüzey yuvarlak ve sıcak. Cam paneller yumuşak çerçeveli, saksılar yuvarlak, raflar ahşap ve pürüzsüz. Sert veya kırılgan hiçbir şey yok. Her şey nemli ve yeşil, bir çocuk serasından çıkmış gibi. Cam, ahşap ve yeşil yaprak üçlüsü her yerde.
 
 ---
 
-## Quality Checklist
+## Production Goal
 
-```
-✓ Children sıcaklık ve bakım hissediyor mu?
-✓ Sınırsız keşfetme alanı var mı?
-✓ Rekabet öğesi yok mu?
-✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
-✓ Yeşil ve canlı bir his var mı?
-✓ Işık sıcak ve yumuşak mı?
-✓ Sesler yumuşak ve doğal mı?
-✓ Hikaye duygusal bir yolculuk sunuyor mu?
-```
+This environment is designed as the canonical greenhouse and plant care location for PomPom Hills. It will be reused across episodes for plant growing scenes, warmth moments, scientific curiosity, and nurturing activities.
 
 ---
 
-*Bu belge Lulu's Greenhouse mekanı için production referansıdır.*
+## Hero View Technical Specification
+
+| Parameter | Value |
+|-----------|-------|
+| Camera position | Dışarıdan seraya, hafif sağ çapraz |
+| Camera height | 0.85m |
+| Lens | 28mm |
+| Framing | Cam duvarlar %50, iç yeşillik %30, dış çimen %20 |
+| Horizon | Üstte çatı |
+| Lighting direction | Dışarıdan camdan içeri + içeriden sıcak ışık |
+| Lighting softness | Çok yumuşak |
+| Shadow density | %10-15 |
+| Colour temperature | 4500K, sıcak |
+
+---
+
+## Camera Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Default lens | 28–50mm |
+| Exterior height | 0.85m |
+| Interior height | 0.75m |
+| Movement philosophy | Yavaş, yumuşak, doğal |
+| Allowed movements | Gentle pan, slow push-in, through-glass |
+| Forbidden movements | Fast zoom, shake, dutch angle |
+
+---
+
+## Lighting Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Primary direction | Camdan içeri + içeriden sıcak |
+| Softness | Çok yumuşak |
+| Ambient fill | Sıcak, yeşil yansıma |
+| Shadow density | %10-15 |
+| Exposure | Normal |
+| Continuity | Sıcak ışık her zaman sabit |
+
+---
+
+## Colour Identity
+
+| Parameter | Value |
+|-----------|-------|
+| White balance | 4500K, sıcak |
+| Exposure | Normal |
+| Contrast | Düşük, yumuşak |
+| Saturation | Orta, yeşil baskın |
+| Glass frame colour | Ahşap (#A1887F) |
+| Plant colour | Yeşil (#66BB6A) |
+| Interior warmth | Altın (#FFF9C4) |
+| Pot colour | Yeşil (#81C784) |
+| Highlight behaviour | Sıcak, cam yansıması |
+| Shadow behaviour | Yumuşak, yeşil tonlu |
+| Forbidden colour shifts | Soğuk mavi, koyu gri, siyah |
+
+---
+
+## Environmental Sound Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Wind | Hafif, dışarıda |
+| Birds | İçeride, yumuşak |
+| Water | Su damlama, sürekli |
+| Ambience level | Düşük, sıcak |
+| Silence ratio | Yüksek — nem ve sessizlik |
+| Forbidden sounds | Gürültü, sert ses, modern teknoloji |
+
+---
+
+## Continuity Rules
+
+| Element | Rule |
+|---------|------|
+| Cam | Her zaman yuvarlak ve temiz |
+| İç mekan | Her zaman sıcak ve yeşil |
+| Bitkiler | Her zaman sağlıklı ve canlı |
+| Yoğunlaşma | Her zaman görünür |
+| Işık | Her zaman sıcak |
+| Ahşap çerçeve | Her zaman doğal |
+
+---
+
+## World Identity Lock
+
+| Locked Element | Value | Acceptable Variations |
+|----------------|-------|----------------------|
+| Cam şekli | Yuvarlak panel | Hafif boyut farkı |
+| Çerçeve malzemesi | Doğal ahşap | Renk tonu varyasyonu |
+| Bitki rengi | Yeşil | Mevsimsel变化 |
+| İç mekan sıcaklığı | Sıcak | Hafif değişim |
+
+---
+
+## Common Generation Failures
+
+| Failure | Why It Matters | Fix |
+|---------|---------------|-----|
+| Kırık cam | Güvenliksiz his | Reddet, yeniden üret |
+| Soluk bitki | Canlılık kaybı | Sağlıklı bitkilerle değiştir |
+| Karanlık iç mekan | Sıcaklık kaybı | Sıcak ışık ekle |
+| Keskin köşe | Preschool安全ına aykırı | Tüm kenarları yuvarla |
+| Soğuk renk | Kimliği bozar | Sıcak yeşil ve altın tonları |
+| Yoğunlaşma yok | Nem hissi kaybolur | Damlacıklar ekle |
+| Cam yuvarlak değil | Kimliğin temeli kaybolur | Yuvarlak panele çevir |
+
+---
+
+## Video Generation Rules
+
+| Element | Rule |
+|---------|------|
+| Yaprak hareketi | Çok yavaş sallanma, 20 frame |
+| Su damlacığı | Yavaş akış, 15 frame |
+| Yoğunlaşma | Yavaş biriken damlacıklar, 25 frame |
+| Kamera hızı | Maks %3 frame/sn pan veya tilt |
+| Işık | Sabit, sıcak, cam yansımalı |
+
+---
+
+## Production Summary
+
+Lulu's Greenhouse, PomPom Hills'in sıcak ve yeşil bakım mekanıdır. Yuvarlak cam paneller, yeşil bitkiler ve nemli atmosferle tanınır. Bitki yetiştirme, bakım ve sıcak keşif sahneleri için idealdir. Her üretimde sıcaklık ve yeşillik hissi korunmalıdır.
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline standardına geçirme | — |
+| 2.1 | Düzeltmeler | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+
+---
+
+## Related Documents
+
+| Document | Path |
+|----------|------|
+| World Spec | `02-WORLDS/08-lulus-greenhouse/08-lulus-greenhouse-world-spec.md` |
+| Global Standard | `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
+| Image Prompts | `02-WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
+
+---
+
+*Bu belge Lulu's Greenhouse mekanı için creative referanstır.*
+*Environment Bible v3.0*
+*Son güncelleme: 3 Temmuz 2026*

@@ -4,19 +4,19 @@
 
 ## Duration
 
-1:00 (4 shots × 15 seconds)
+1:30 (6 shots × 15 seconds)
 
 ---
 
 ## Theme
 
-Sharing and fairness.
+Sharing and taking turns.
 
 ---
 
 ## Learning
 
-Sharing • Taking turns • Friendship
+Taking turns • Sharing • Friendship
 
 ---
 
@@ -37,7 +37,13 @@ Central Square
 
 ## Story Summary
 
-Luca and Noah play with a ball in Central Square. They learn to take turns throwing and catching. They have fun together.
+Luca and Noah discover a round yellow ball in Central Square. They both want to play with it. They learn to take turns. The ball rolls away and they chase it together. They find it and their friendship deepens.
+
+---
+
+## Emotional Progression
+
+Curiosity → Mild desire → Pause and think → Taking turns → Ball rolls away → Finding it together
 
 ---
 
@@ -49,4 +55,5 @@ Luca and Noah play with a ball in Central Square. They learn to take turns throw
 | 02 | /10 | ⬜ |
 | 03 | /10 | ⬜ |
 | 04 | /10 | ⬜ |
-
+| 05 | /10 | ⬜ |
+| 06 | /10 | ⬜ |

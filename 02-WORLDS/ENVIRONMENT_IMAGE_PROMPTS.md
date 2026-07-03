@@ -36,7 +36,7 @@ A round coral pink cottage #F8BBD0 on a soft green hill, round white door #FFFFF
 ## Mimi's Burrow
 
 ```text
-A round underground burrow entrance with soft blue frame #90CAF9, small round flowers on top, round stepping stones #E0E0E0 leading to entrance, soft green grass #C8E6C9, warm sunlight, cozy inviting feel, no characters, {style}, {lighting}, 16:9
+A round underground burrow entrance nestled beneath soft green grass #C8E6C9, round blue frame #90CAF9, small round flowers on top, round stepping stones #E0E0E0 leading to entrance, warm golden light glowing from inside, cozy hidden feel, underground retreat, intimate small scale, soft plush textures, no door open entrance, safe warm inviting atmosphere, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -76,7 +76,7 @@ The highest hill in Pompom Hills, closest to clouds, soft pale green grass, roun
 ## Sun Hill
 
 ```text
-The warmest hill in Pompom Hills, first sunlight every morning, open light green grass, wide view of valley below, bright warm sunshine #FFF9C4, energetic happy feeling, no characters, {style}, {lighting}, 16:9
+The warmest hill in Pompom Hills, first sunlight every morning, wide gently sloping open hill covered in short bright warm green grass #C8E6C9, broad flat crest at summit, panoramic valley view from top, warm golden sunshine #FFF9C4 dominating the scene, sun always visible in upper portion, soft pastel distant hill silhouettes on horizon #E8F5E9, warm blue sky #BBDEFB, scattered warm yellow #FFD54F and orange #FFAB91 flowers, energetic happy optimistic feeling, warmest most sun-drenched spot in the world, no characters, no structures, no fences, no modern objects, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -100,7 +100,7 @@ A gentle rocky hill with round pastel colored stones, small safe caves, gentle w
 ## Tillo's Garden
 
 ```text
-A vegetable garden with round flower beds, soft toy-like soil, green plants growing, round watering can, straw hat on fence, warm sunny feeling, nurturing garden atmosphere, no characters, {style}, {lighting}, 16:9
+A warm outdoor vegetable garden with round low flower beds #8D6E63, soft brown soil, green plants growing, round yellow #FFD54F red #EF5350 and pink #F48FB1 flowers, natural wooden tools including straw hat #FFF9C4 blue round watering can #90CAF9 and small wooden shovel, warm golden sunlight, nurturing patient atmosphere, round stepping stone path #E0E0E0, soft green grass #C8E6C9, no thorns no sharp tools, handcrafted natural feel, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -108,7 +108,7 @@ A vegetable garden with round flower beds, soft toy-like soil, green plants grow
 ## Lulu's Greenhouse
 
 ```text
-A glass greenhouse with round frames, filled with green plants and flowers, warm inside glow, toy-like structure, cozy botanical feel, no characters, {style}, {lighting}, 16:9
+A warm glass greenhouse with rounded glass panels in natural wooden frames #A1887F, filled with lush green plants #66BB6A and flowers inside, condensation droplets on glass, warm humid atmosphere, golden interior light #FFF9C4 glowing through transparent walls, round green pots #81C784 on wooden shelves, cozy botanical sanctuary feel, no broken glass, nurturing alive atmosphere, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -116,7 +116,7 @@ A glass greenhouse with round frames, filled with green plants and flowers, warm
 ## Poppy's Bakery
 
 ```text
-A round warm bakery building beside Central Square, round windows with warm yellow light inside, fresh bread smell feeling, cozy inviting entrance, toy-like bakery, no characters, {style}, {lighting}, 16:9
+A round warm orange-brown bakery building #D7A86E with large round display window showing fresh cookies and bread inside, dark wood arched door #8D6E63, warm golden light glowing from interior #FFB74D, rounded dark brown dome roof #6D4C41, cozy inviting entrance with door bell, toy-like handcrafted bakery, round wooden counter visible inside, fresh baked goods scent feeling, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -132,7 +132,7 @@ A large playground near Central Square with round swings, round slide, soft clim
 ## Tillo's Treehouse
 
 ```text
-A large round treehouse in a big tree, connected by wooden bridge to Little Forest, round windows, warm cozy feeling, toy-like treehouse, no characters, {style}, {lighting}, 16:9
+A large round honey-toned wooden treehouse #FFCC80 nestled in a big tree with green leaves #66BB6A, connected by low wooden bridge #A1887F with secure railings to Little Forest, round windows with warm golden light inside #FFF9C4, sturdy tree trunk #795548 supporting structure, safe elevated adventure feeling, natural sunlight filtering through leaves, toy-like handcrafted wooden structure, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -164,7 +164,7 @@ Purple lavender fields in rows, round bee houses, round windmills, warm sunny at
 ## Rainbow Bridge
 
 ```text
-A round colorful bridge connecting Cloud Hill to Rainbow Creek, rainbow touching the bridge after rain, magical wish-granting feeling, pastel colors, no characters, {style}, {lighting}, 16:9
+A rounded colourful bridge connecting Cloud Hill to Rainbow Creek, vibrant rainbow #EF5350 #FF7043 #FFD54F #66BB6A #42A5F5 #AB47BC arching in the sky and touching the bridge, smooth colourful wishing stones along edges, clear water flowing beneath #E3F2FD, magical sparkle effects drifting through air, post-rain clean hopeful atmosphere, no broken structures, no sharp edges, enchanted wish-granting feeling, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -196,7 +196,7 @@ A small magical forest with round fluffy pompom trees, friendly birds, squirrels
 ## Rainbow Creek
 
 ```text
-A crystal-clear creek running between hills, small wooden bridges, fish, duck families, round colorful stones along banks, gentle flowing water, peaceful nature feeling, no characters, {style}, {lighting}, 16:9
+A crystal-clear shallow creek #E3F2FD flowing gently between green hills, smooth round colourful stones #F48FB1 #FFD54F #42A5F5 #66BB6A along banks, small low wooden bridge #A1887F crossing water, small friendly fish swimming in clear water, green plants and flowers along edges, warm natural sunlight reflecting off water surface, peaceful meditative nature feeling, no deep water, no fast currents, no sharp stones, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -237,6 +237,14 @@ An outdoor painting studio with round easels, colorful art supplies, creative in
 
 ```text
 A long winding walking trail connecting all natural locations, round colorful stepping stones, soft green grass on sides, curved gentle path, adventurous but safe feeling, no characters, {style}, {lighting}, 16:9
+```
+
+---
+
+## Learning Room
+
+```text
+Cozy wooden preschool learning cottage interior, large arched windows with warm golden morning sunlight streaming across the room, rounded wooden ceiling beams, warm wooden floorboards, cream walls with indoor plants everywhere, large round wooden activity table in center with small rounded preschool chairs for 4-6 children, large rounded chalkboard on back wall with simple hand-drawn chalk illustrations of smiling sun mountain tree butterfly rainbow and stars, low wooden bookshelves on side walls with books facing outward small baskets and wooden toy storage, reading corner with soft rug floor cushions tiny bookshelf lantern and stuffed animals, creative corner with paper crayons colour pencils wooden blocks and clay, nature shelf with small globe wooden bird acorns feathers flowers and toy microscope, children's artwork displayed on walls, paper stars, leaf garlands, cloud mobiles, butterflies, small bunting flags, nature posters, animal illustrations, warm morning sunlight, soft window light, gentle bounce lighting, no harsh shadows, warm ambience, no characters, no text, no logos, no blackboard writing, no floating typography, {style}, {lighting}, 16:9
 ```
 
 ---
