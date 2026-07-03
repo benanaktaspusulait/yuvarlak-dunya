@@ -95,7 +95,7 @@ Wide, close-up taş, mağara.
 
 ## Prompt Generation Rules
 
-Max 4 referans.
+Tek Hero View 사용.
 
 ---
 

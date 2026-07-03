@@ -142,5 +142,40 @@
 
 ---
 
+## Character and World Onboarding Policy
+
+Referans: `11-DOCS/02_SEASON_STRATEGY.md` — Character and World Onboarding Policy bölümü.
+
+Her yeni karakter ve her önemli dünya için onboarding süreci:
+
+1. Canon dokümantasyonu tamamlanır
+2. Hero View veya karakter referansı onaylanır
+3. Tanıtım videosu üretilir
+4. Shorts çıkarılır
+5. İlk basit hikaye üretilir
+6. Düzenli bölüm kullanımı başlar
+
+Mevcut karakter intro durumu:
+
+| Karakter | Intro | Shorts | İlk Hikaye | Düzenli Kullanım |
+|----------|-------|--------|------------|------------------|
+| Kiko | ✅ | ✅ | ✅ (E01) | ✅ |
+| Mimi | ✅ | ✅ | ✅ (E01) | ✅ |
+| Opa | ✅ | ✅ | ✅ (E01) | ✅ |
+| Luca | ✅ | ✅ | ✅ (E07) | ✅ |
+| Noah | ✅ | ✅ | ✅ (E08) | ✅ |
+| Arda | ✅ | ✅ | ✅ (E08) | ✅ |
+| Aiko | ❌ | ❌ | ✅ (E16) | ✅ |
+| Sofia | ❌ | ❌ | ✅ (E17) | ✅ |
+| Tillo | ❌ | ❌ | ✅ (E18) | ✅ |
+| Mirnik | ❌ | ❌ | ✅ (E19) | ✅ |
+| Mimo | ❌ | ❌ | ✅ (E20) | ✅ |
+
+Not: İlk 6 karakter (Kiko, Mimi, Opa, Luca, Noah, Arda) tam onboarding'e sahip.
+Kalan 5 cameo karakter (Aiko, Sofia, Tillo, Mirnik, Mimo) intro videosu olmadan hikayelere girmiş.
+Gelecek sezonlarda yeni karakter eklenirken onboarding politikasına uyulmalı.
+
+---
+
 *Bu belge Sezon 1 bölüm rehberi için tek kaynaktır.*
-*Son güncelleme: 3 Temmuz 2026*
+*Son güncelleme: 4 Temmuz 2026*

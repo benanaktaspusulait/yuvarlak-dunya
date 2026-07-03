@@ -729,7 +729,7 @@ Pony Meadow nasıl çekilir? Kamera çayır alanı içinde doğal hareket eder.
 
 | Kural | Açıklama |
 |-------|----------|
-| Max 4 referans | Hiçbir shot 4'ten fazla ortam referansı kullanmaz |
+| Tek Hero View 사용 | Hiçbir shot 4'ten fazla ortam referansı kullanmaz |
 | Hero View zorunlu | Mümkün olan her shot'ta Hero View dahil edilmeli |
 | Tutarlı ışık | Tüm referans görsellerde aynı ışık |
 | Tutarlı renk | Tüm referans görsellerde aynı renk paleti |
@@ -887,7 +887,7 @@ Giriş → Çimenlik → Midilli alanı → Bakım köşesi
 4 views.
 
 ## Prompt Generation Rules
-Max 4 referans.
+Tek Hero View 사용.
 
 ## Emotional Tone
 Sevimli, sıcak, bakım.

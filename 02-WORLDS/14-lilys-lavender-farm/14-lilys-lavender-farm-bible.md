@@ -675,7 +675,7 @@ Lily's Lavender Farm nasıl çekilir? Kamera çiftlik alanı içinde doğal hare
 
 ## OpenArt Production Rules
 
-- **Maksimum 4 referans** — Hero View zorunlu
+- **Tek Hero View 사용** — Hero View zorunlu
 - Tutarlı aydınlatma ve renk paleti (mor lavanta, sıcak güneş, yeşil tonlar)
 - Referanslarda karakter yok — sadece ortam ve doğa detayları
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -809,7 +809,7 @@ Giriş → Lavanta sıraları → Kovan evi → Yeldeğirmeni → Çıkış
 
 ## Prompt Generation Rules
 
-Max 4 referans, Hero zorunlu.
+Tek Hero View 사용, Hero zorunlu.
 
 ---
 

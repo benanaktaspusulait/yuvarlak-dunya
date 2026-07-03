@@ -334,7 +334,7 @@ Ufuk Manzarası (tüm vadi görünür)
 
 | Kural | Açıklama |
 |-------|----------|
-| Max 4 referans | Her shot'ta en fazla 4 referans kullanılır |
+| Tek Hero View 사용 | Her shot'ta en fazla 4 referans kullanılır |
 | Hero View zorunlu | Her üretimde Hero View yüklenir |
 | Tutarlı ışık | Sıcak altın güneş, sabah |
 | Tutarlı renk | Sıcak palet, yeşil + altın |

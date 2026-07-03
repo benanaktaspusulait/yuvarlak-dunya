@@ -149,7 +149,7 @@ Close-up of Opa's face, wise gentle expression, round glasses, soft feathers, wa
 
 ## Prompt Generation Rules
 
-Her sahnede en fazla 4 referans view kullan. Opa ve ağaç birlikte görünürken tree level ve close-up öncelikli.
+Her sahnede en fazla tek Hero View kullan. Opa ve ağaç birlikte görünürken tree level ve close-up öncelikli.
 
 ---
 

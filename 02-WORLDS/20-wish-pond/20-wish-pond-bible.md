@@ -666,7 +666,7 @@ Wish Pond nasıl çekilir? Kamera gölet alanı içinde doğal hareket eder.
 
 ## OpenArt Production Rules
 
-- **Maksimum 4 referans** — Hero View zorunlu
+- **Tek Hero View 사용** — Hero View zorunlu
 - Tutarlı aydınlatma ve renk paleti (gece mavi-mor tonları, yıldız parlaklığı)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -794,7 +794,7 @@ Giriş → Göl kenarı → Su yüzeyi → Yıldızlar
 
 ## Prompt Generation Rules
 
-Max 4 referans.
+Tek Hero View 사용.
 
 ---
 

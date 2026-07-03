@@ -1,94 +1,69 @@
 # Environment Bible — Flower Hill
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
-> Flower Hill, renk ve güzelliğin temsilcisidir. En renkli tepedir.
+> **Version 4.0** — Updated to current single Hero View + World Spec pipeline.
+> Aligned with Cloud Hill production standards.
 
 ---
 
 ```
 Environment ID: ENV-025
-File: 02-WORLDS/25-flower-hill/
-Version: 3.0
-Location: World map position 3
+Version: 4.0
 Type: Exterior World
-Status: Design
+Status: Design / Pending Hero View
 Bible: ✅
-Hero View: ❌
-World Spec: ❌
+Hero View: ❌ Pending
+World Spec: ✅ Draft
 ```
 
 ---
 
 ## Overview
 
-Flower Hill, diyarın en renkli tepesidir. Binlerce renkli çiçek yıl boyunca açar. Yumuşak yeşil tepeler, kavisli patikalar ve tanıdık komşularla çevrilidir. Kiko'nun evi ve Mimi'nin yuvası buradadır.
+Flower Hill, PomPom Hills'in en renkli tepesidir. Yumuşak yeşil yamaç, yoğun ama okunabilir renkli çiçek halısı ve kavisli taş patikasıyla tanınır.
 
 ---
 
 ## Purpose
 
-Flower Hill, renk ve güzelliğin temsilcisidir. En renkli tepedir. Kiko'nun evi buradadır. Mimi'nin yuvası buradadır. Çocuklar burada renk keşfeder, çiçek koklar ve ev hissini deneyimler.
+Renk, güzellik, ev hissi ve doğa keşfinin temsilcisidir. Renk öğrenme, çiçek keşfi, yürüyüş sahneleri ve yumuşak ev tabanı hikayelerini destekler.
 
 ---
 
-## Why This World Exists ⭐
+## Why This World Exists
 
-Flower Hill, diyarın renk paletinin ve yaşam döngüsünün merkezidir. Mevsimlere göre değişen çiçekleriyle sürekli bir yenilik ve güzellik sunar. Ana karakterlerin evi olarak hem güvenli bir liman hem de keşiflerin başlangıç noktasıdır.
+Flower Hill, renk ve güzelliğin somut karşılığıdır. Çocuklar burada renkleri keşfeder, çiçekleri sayar, patikada yürür ve evlerine döner. Doğanın en renkli halini sunar.
 
 ---
 
 ## Emotional Purpose
 
-### Bu mekan duygusal olarak neden var?
+### Neden var?
+Güzellik ve renk duygusunu temsil eder. Her ziyaretçiye "bu dünya ne kadar renkli" hissi verir.
 
-Güzellik ve ev hissini temsil eder. Renkli çiçekler, yumuşak tepeler, tanıdık komşular — her şey güvenli ve davetkar.
+### Çocuklar nasıl hisseder?
+Renkli, mutlu, keşfetmeye istekli. "Bu çiçekler ne kadar güzel!"
 
-### Çocuklar buraya geldiklerinde nasıl hisseder?
+### Hangi hikayeler burada geçer?
+Renk öğrenme, çiçek sayma, patikada yürüyüş, eve dönüş.
 
-Güvende, mutlu, meraklı. "Burada her şey renkli ve güzel."
-
-### Bu mekanda doğal olarak hangi hikayeler geçer?
-
-- Kiko çiçekleri sayar
-- Mimi çiçek koklar
-- Yeni bir renk keşfedilir
-- Kelebekler izlenir
-- Rüzgâr çiçekleri sallar
-- Yağmur sonrası parıltı
-
-### Bu mekan hangi duygusal deneyimleri destekler?
-
+### Hangi duygusal deneyimleri destekler?
 Güzellik · Renk · Ev hissi · Doğa sevgisi · Keşif
 
 ---
 
 ## Play Philosophy
 
-### Oyun stili
-
 | Özellik | Açıklama |
 |---------|----------|
-| Open-ended | Çiçek sayma, renk isimlendirme, yürüyüş |
+| Open-ended | Çiçek sayma, renk keşfi, yürüyüş |
 | Hayal gücü | Renkli dünya hayali |
-| İşbirliği | Birlikte keşfetme, birlikte renk |
+| İşbirliği | Birlikte keşfetme |
 | Gözlem | Çiçek izleme, kelebek takip etme |
-| Yumuşak hareket | Yavaş yürüyüş, dikkatli dokunuş |
 
 ### Kural tabanlı oyun yok
-
 - Yarışma yok
 - Skor yok
 - Rekabet yok
-
-### Doğal etkileşimler
-
-- Çiçekleri sayma
-- Renkleri isimlendirme
-- Çiçek koklama
-- Kelebek izleme
-- Patikada yürüyüş
-- Rüzgârı hissetme
-- Yaprak toplama
 
 ---
 
@@ -101,332 +76,273 @@ Flower Hill ← BURASI
     ↓ 1 dakika
 Kiko's Home (güney)
 Mimi's Burrow (batı)
-Butterfly Meadow (güney)
-Rosie's Rose Garden (doğu)
 ```
 
-**En renkli tepedir. Binlerce çiçek yıl boyunca açar.**
+---
+
+## Connected Canon Locations
+
+Flower Hill, Kiko's Home ve Mimi's Burrow'a bağlanır.
+
+Bu konumlar bağlı canonical world'lerdir, disposable arka plan dekorasyonu değildir.
+
+Kurallar:
+- Flower Hill promptlarında Kiko's Home'u yeniden tasarlamayın.
+- Flower Hill promptlarında Mimi's Burrow'u yeniden tasarlamayın.
+- Görünürlerse yalnızca uzak yumuşak landmark olarak görünürler.
+- Hikaye Kiko's Home'a giriyorsa Kiko's Home canon'unu kullanın.
+- Hikaye Mimi's Burrow'a giriyorsa Mimi's Burrow canon'unu kullanın.
+- Flower Hill kendisi dış bağlayıcı world'dür.
 
 ---
 
-## Visual Identity
+## Generation Workflow
 
-### Genel
+Flower Hill tek referanslı üretim iş akışı kullanır.
 
-- Yumuşak yeşil tepeler
-- Binlerce renkli çiçek
-- Yuvarlak yapraklar
-- Yumuşak rüzgar
-- Kavisli patikalar
-- Sıcak güneş ışığı
+### Ana Referans:
+- Onaylanmış Canon Hero View görseli (henüz yok)
 
-### Çiçekler
+### Teknik Specificasyon:
+- 25-flower-hill-world-spec.md
 
-| Renk | Hex | Miktar |
-|------|-----|--------|
-| Kırmızı | #EF5350 | Çok |
-| Sarı | #FFD54F | Çok |
-| Pembe | #F48FB1 | Çok |
-| Mor | #CE93D8 | Çok |
-| Turuncu | #FF7043 | Orta |
+### Shot Continuity:
+- Önceki shot'ın video referansı
 
-### Çimen
+Tüm gelecek Flower Hill sahneleri yalnızca şunları kullanarak üretilir:
+- Onaylanmış Hero View
+- World Specification
+- Önceki shot continuity
 
-- Yumuşak yeşil (#C8E6C9)
-- Dalgalı
-- Yükselen çimenler
-- Yumuşak doku
-
-### Yol
-
-- Yuvarlak taşlar (#E0E0E0)
-- Kavisli patika
-- Tüm komşulara gider
-- Doğal doku
+Ek ortam referans görselleri üretilmez veya korunmaz.
 
 ---
 
-## Spatial Layout
+## Hero View Creation Mode
 
-```
-Central Square (kuzey)
-    ↓
-Flower Hill (merkez)
-    ↓           ↓
-Kiko's Home   Mimi's Burrow
-    ↓
-Butterfly Meadow (güney)
-```
+### Amaç:
+Flower Hill için tek canonical Hero View'i üretmek.
 
-Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler yoktur.
+Bu görsel, tüm gelecek Flower Hill üretimi için birincil görsel referans haline gelecektir.
 
----
+### Hero View gereksinimleri:
+- Karakter yok
+- Hayvan yok
+- Metin yok
+- Logo yok
+- %100 ortam
+- Yumuşak yuvarlak yeşil tepe
+- Yoğun ama okunabilir çiçek halısı
+- Beş çiçek rengi net görünür: kırmızı, sarı, pembe, mor, turuncu
+- Kavisli taş patikası çiçekler arasında S-krivi olarak görünür
+- Sıcak gündüz ışığı, turuncu gün batımı değil
+- Yumuşak pastel ama renkli palet
+- Çıplak toprak yok
+- Sivri taş yok
+- Kuru çayırlık yok
+- Karanlık atmosfer yok
+- Fotorealistik yok
+- Dağınıklık yok
 
-## World Zones
+### Hero View kompozisyonu:
+- Ön plan: kavisli taş patikası ve yoğun çiçekler
+- Orta plan: yuvarlak Flower Hill çiçek tarlaları
+- Arka plan: yumuşak gökyüzü ve uzak yumuşak tepeler
+- İsteğe bağlı uzak ev landmark'ları yalnızca yumuşak kalırsa
+- Kiko's Home ve Mimi's Burrow Hero View'da yeniden tasarlanmamalı
+- Evler görünürse yalnızca küçük uzak landmark olmalı
 
-### Tepeye Giriş (Central Square tarafı)
+### Hero View kimlik testi:
+Bir izleyici Flower Hill'i hemen tanımalıdır:
+"Pompom Hills'in renkli çiçekli tepesi."
 
-- **Purpose:** Flower Hill'e ilk adım
-- **Emotional Purpose:** Heyecan — "Renkli dünya başlıyor"
-- **Typical Activities:** Yürüyüş, yukarı bakma
-- **Lighting:** Sıcak güneş
-- **Mood:** Davetkar, renkli
-- **Important Props:** Patika, ilk çiçekler
-- **Camera Usage:** Wide establishing, approach
-
-### Çimenlik Alanı
-
-- **Purpose:** Açık yeşil alan
-- **Emotional Purpose:** Özgürlük, keşif
-- **Typical Activities:** Koşma, oturma, çiçek izleme
-- **Lighting:** Doğal, açık
-- **Mood:** Özgür, mutlu
-- **Important Props:** Çimen, çiçekler
-- **Camera Usage:** Wide, medium
-
-### Çiçek Tarlası
-
-- **Purpose:** Renk cümbüşü bölgesi
-- **Emotional Purpose:** Hayranlık, güzellik
-- **Typical Activities:** Çiçek sayma, renk keşfetme, koklama
-- **Lighting:** Sıcak, renkli yansıma
-- **Mood:** Canlı, renkli
-- **Important Props:** Binlerce çiçek
-- **Camera Usage:** Medium, close-up
-
-### Patika
-
-- **Purpose:** Bağlantı yolu
-- **Emotional Purpose:** Yolculuk, keşif
-- **Typical Activities:** Yürüyüş, komşuya gitme
-- **Lighting:** Doğal, gölgeli
-- **Mood:** Sakin, doğal
-- **Important Props:** Yuvarlak taşlar
-- **Camera Usage:** Following, medium
+Genel bir çayırlık değil.
+Rastgele bir bahçe değil.
+Orman değil.
+Çiçekçi dükkanı değil.
+Gerçekçi bir çayırlık değil.
 
 ---
 
-## Props
+## World Identity Lock
 
-| Prop | Asset ID | Açıklama | Reusable |
-|------|----------|----------|:--------:|
-| Kırmızı çiçek | FH-FLOWER-R | Kırmızı yuvarlak çiçekler | ✅ |
-| Sarı çiçek | FH-FLOWER-Y | Sarı yuvarlak çiçekler | ✅ |
-| Pembe çiçek | FH-FLOWER-P | Pembe yuvarlak çiçekler | ✅ |
-| Mor çiçek | FH-FLOWER-V | Mor yuvarlak çiçekler | ✅ |
-| Turuncu çiçek | FH-FLOWER-O | Turuncu yuvarlak çiçekler | ✅ |
-| Çimen | FH-GRASS-01 | Yumuşak yeşil çimen | ✅ |
-| Taş yol | FH-PATH-01 | Yuvarlak taşlar | ✅ |
-| Kelebekler | FH-BUTTERFLY-01 | Renkli kelebekler | ✅ |
+### Kilitli unsurlar:
+- Yumuşak yuvarlak yeşil tepe
+- Yoğun okunabilir çiçek halısı
+- Beş çiçek rengi her zaman görünür: kırmızı, sarı, pembe, mor, turuncu
+- Kavisli taş patikası
+- Sıcak gündüz ışığı
+- Yumuşak preschool el yapımı stili
+- Yalnızca yuvarlak formlar
+- Çıplak toprak yok
+- Sivri taş yok
+- Karanlık atmosfer yok
+- Modern nesne yok
+- Sert gerçekçilik yok
 
----
+### Kabul edilebilir değişimler:
+- Tam çiçek yerleşimi
+- Tam çiçek sayısı
+- Palet içinde hafif renk değişimi
+- Patika eğrisi detayı
+- Rüzgar yönü
+- Küçük dekoratif çiçek kümeleri
 
-## Camera Rules
-
-### Genel
-
-| Açı | Kullanım | Not |
-|-----|----------|-----|
-| Wide establishing | Tüm tepe | Renkli manzara |
-| Medium | Karakter + çiçekler | Etkileşim |
-| Close-up | Çiçek detayı | Renk ve doku |
-| Low angle | Çiçeklerden yukarı | Büyüklük hissi |
-| POV | Patikadan yürüyüş | Yolculuk |
-
-### Kamera Yüksekliği
-
-- Wide: 1.20m (tepe genel)
-- Medium: 0.85m (göz hizası)
-- Close-up: 0.30m (çiçek detayı)
-- Low angle: 0.20m (aşağıdan)
+### Asla değişmemeli:
+- Flower Hill asla genel bir yeşil tepe olmamalı
+- Flower Hill asla orman olmamalı
+- Flower Hill asla gerçekçi vahşi bir çayırlık olmamalı
+- Flower Hill beş renkli çiçek kimliğini kaybetmemeli
+- Flower Hill kuru, kahverengi, seyrek veya soluk olmamalı
+- Patika asla beton, asfalt, toprak yolu veya sivri taş olmamalı
 
 ---
 
-## Canonical Prompt Reference Pack
+## Colour Identity
 
-### Reference 01 — Hero View
+Flower Hill canlı pasteldir.
 
-**Purpose:** Master environment reference.
+Palet renklidir ama kontrollüdür.
 
-**Camera position:** Uzaktan Flower Hill'e bakan geniş açı. Tüm tepe ve çiçekler görünür.
+White balance: sıcak gündüz ışığı, yaklaşık 5500K.
+Exposure: hafif parlak, aşırı pozlanmış değil.
+Contrast: düşük.
+Saturation: orta-yüksek pastel, asla neon.
 
-**Framing:** 100% çevre. Karakter yok. Hayvan yok. Saf çevre referansı.
+### Çiçek renkleri:
+- Kırmızı #EF5350
+- Sarı #FFD54F
+- Pembe #F48FB1
+- Mor #CE93D8
+- Turuncu #FF7043
 
-**Composition:**
-- Yumuşak yeşil tepe
-- Binlerce renkli çiçek
-- Kavisli patika
-- Açık gökyüzü
-- Sıcak güneş
+### Çimen:
+- Yumuşak yeşil #C8E6C9
 
-**Required props:**
-- FH-FLOWER-R, FH-FLOWER-Y, FH-FLOWER-P, FH-GRASS-01
+### Patika:
+- Yumuşak gri #E0E0E0
 
-**Lighting:** Sıcak altın güneş ışığı. Renkli yansıma. Yumuşak gölge.
-
-**Mood:** Renkli, güzel, davetkar.
-
-**What must always be visible:**
-- Renkli çiçekler
-- Yeşil çimen
-- Patika
-- Sıcak ışık
-
-**What should never appear:**
-- Karakter
-- Bozkır
-- Kuru toprak
-- Sivri taş
-- Soluk renk
-- Karanlık
-- Hız
-- Keskin köşe
-
-### Reference 02 — Entrance View
-
-**Purpose:** Flower Hill'e giriş.
-
-**Camera position:** Central Square'dan Flower Hill'e bakan açı.
-
-**Used for:**
-- İlk adım
-- Renk keşfi
-- Heyecan anı
-
-### Reference 03 — Trail View
-
-**Purpose:** Patika boyunca yürüyüş.
-
-**Camera position:** Patikada, orta mesafe.
-
-**Used for:**
-- Yürüyüş sahneleri
-- Komşuya ziyaret
-- Doğa etkileşimi
-
-### Reference 04 — Detail View
-
-**Purpose:** Prop ve malzeme detayları.
-
-**Camera position:** Close-up çekimler.
-
-**Composition:**
-- Çiçek detayı
-- Yaprak detayı
-- Taş yol doku
-- Kelebek
-
-**Purpose for OpenArt:** Prop detayı ve malzeme referansı için.
+### Yasak renk değişimleri:
+- Neon renk
+- Çamurumsu renk
+- Gri solma
+- Turuncu gün batımı kayması
+- Mavi soğuk kayma
+- Yüksek kontrast HDR
+- Gerçekçi fotoğrafçılık rengi
+- Koyu yeşil orman paleti
+- Kahverengi kuru çayırlık paleti
 
 ---
 
-## Prompt Generation Rules
+## Lighting Identity
 
-| Kural | Açıklama |
-|-------|----------|
-| Max 4 referans | Her shot'ta en fazla 4 referans kullanılır |
-| Hero View zorunlu | Her üretimde Hero View yüklenir |
-| Tutarlı ışık | Sıcak altın, renkli |
-| Tutarlı renk | 5 renk paleti (kırmızı, sarı, pembe, mor, turuncu) |
-| Tutarlı malzeme | Yumuşak çimen, yuvarlak çiçek |
-| Tutarlı ölçek | Çocuk boyutu |
-| Karakter yok referanslarda | Referanslar yalnızca ortam |
+Sıcak sabah gündüz ışığı.
 
-### Shot Oluşturma Sırası
+Yumuşak preschool ışığı.
+Düşük kontrast.
+Sert gölge yok.
+Dramatik gün batımı görünümü yok.
+Sinematik renk derecelendirmesi yok.
+HDR yok.
+Turuncu kayma yok.
 
-```
-1. Hero View yükle (zorunlu)
-2. Entrance View ekle (gerekirse)
-3. Trail View ekle (gerekirse)
-4. Karakter referansı yükle
-5. Shot oluştur
-6. Reddetme kurallarını uygula
-7. Kabul et veya yeniden üret
-```
+Işık renk berrakliğini desteklemeli, onu bastırmamalı.
 
-### Reddetme Kuralları
-
-- Bozkır varsa reddet
-- Kuru toprak varsa reddet
-- Sivri taş varsa reddet
-- Soluk renk varsa reddet
-- Karanlık varsa reddet
-- Hız varsa reddet
-- Keskin köşe varsa reddet
+Flower Hill çiçeklerden dolayı renklidir, aşırı ışık yüzünden değil.
 
 ---
 
-## Soundscape
+## Flower Density
 
-| Ses | Kaynak | Ne zaman |
-|-----|--------|----------|
-| Kuş cıvıltısı | Çok | Her zaman |
-| Rüzgar | Çiçekler | Her zaman |
-| Arı vızıltısı | Uzaktan | Gündüz |
-| Yaprak hışırtısı | Ağaçlar | Rüzgarda |
+"Binlerce çiçek" fikri korunur ama production-safe yapılır.
 
----
+Çiçek yoğunluğu bol ama okunabilir hissetmelidir.
 
-## Animation Rules
+Çiçekler renkli bir halı oluşturmalı ama patika her zaman görünmeli ve karakterler okunabilir olmalı.
 
-### Çiçekler
+Her pikseli çiçeklerle örtmeyin.
 
-| Aksiyon | Frame | Hız |
-|---------|-------|-----|
-| Sallanma | 20 frame | Yavaş |
-| Açılma | 30 frame | Çok yavaş (ilkbahar) |
-| Dökülme | 25 frame | Yavaş (sonbahar) |
+Sahneyi görsel olarak gürültülü yapmayın.
 
-### Çimen
+Kaotik çiçek karmaşası yaratmayın.
 
-| Aksiyon | Frame | Hız |
-|---------|-------|-----|
-| Dalgalanma | 15 frame | Hafif |
-| Yükselme | 20 frame | Rüzgârda |
+Yoğun kümeler ve net yürüme alanı kullanın.
+
+Beş renk her geniş shot'ta görünür olmalı.
 
 ---
 
-## Forbidden
+## Camera Identity
 
-```
-✗ Bozkır
-✗ Kuru toprak
-✗ Sivri taş
-✗ Soluk renk
-✗ Karanlık
-✗ Hız
-✗ Keskin köşe
-✗ Karakter (hero view'da)
-✗ Metin veya logo
-✗ Gürültü
-```
+| Parametre | Değer |
+|-----------|-------|
+| Varsayılan lens | 24–35mm |
+| Geniş yükseklik | 1.20m |
+| Orta yükseklik | 0.85m |
+| Close-up yükseklik | 0.30m |
+| Hareket felsefesi | Yavaş, yumuşak, doğal |
+| İzin verilen hareketler | Yavaş pan, yavaş takip |
+| Yasak hareketler | Hızlı zoom, sarsıntı, dutch angle |
+
+### Character Occupancy:
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Hero View | 0 (karakter yok) |
+| Geniş hikaye shotları | 10–20% (ortam baskın) |
+| Orta | 30–45% |
+| Close-up | 60–75% |
+
+Hero View karaktersizdir.
+Bölüm shotları karakter içerebilir.
+
+---
+
+## Reusable Assets
+
+| Asset ID | Açıklama |
+|----------|----------|
+| FH-FLOWER-R | Kırmızı çiçekler |
+| FH-FLOWER-Y | Sarı çiçekler |
+| FH-FLOWER-P | Pembe çiçekler |
+| FH-FLOWER-V | Mor çiçekler |
+| FH-FLOWER-O | Turuncu çiçekler |
+| FH-GRASS-01 | Yumuşak yeşil çimen |
+| FH-PATH-01 | Kavisli taş patikası |
+| FH-BUTTERFLY-01 | Renkli kelebekler |
+
+---
+
+## Common Generation Failures
+
+| Failure | Neden Önemli | Çözüm |
+|---------|-------------|-------|
+| Genel çayırlık | Flower Hill kimliğini kaybeder | Kavisli patika, yoğun beş renkli çiçek halısı ekle |
+| Çiçekler çok seyrek | Renk kimliği kaybolur | Çiçek yoğunluğunu artır |
+| Çiçekler çok kaotik | Preschool okunabilirliği bozulur | Kümeli okunabilir çiçek tarlaları kullan |
+| Patika yok | Geçiş kimliği kaybolur | Kavisli taş patikası ekle |
+| Çok neon | PomPom Hills paletini bozar | Canlı pastel kullan |
+| Çok soluk | Flower Hill renk kimliğini bozar | Beş renkli pastel paleti geri yükle |
+| Evler yeniden tasarlandı | Bağlı canonical world'leri bozar | Evleri uzak tut veya çıkar |
+| Orman görünümü | Flower Hill başka bir world olur | Açık tepe, çiçekler ve patika koru |
 
 ---
 
 ## Story Opportunities
 
-Her fırsat doğal, sakin ve preschool'a uygundur:
-
-1. Kiko çiçekleri sayar
-2. Mimi çiçek koklar
-3. Yeni bir renk keşfedilir
-4. Kelebekler çiçeklerin üstünde
-5. Rüzgâr çiçekleri sallar
-6. Yağmur sonrası çiçekler parlar
-7. Sonbaharda yapraklar dökülür
-8. İlk kar düşer
-9. Çiçekler selamlanır
-10. Renkler isimlendirilir
-11. Patikada yürüyüş yapılır
-12. Komşuya ziyaret edilir
-13. Çiçek tohumu ekilir
-14. Büyüme izlenir
-15. Gökkuşağı görünür
-16. Güneş batışı renklenir
-17. Sabah çiy damlaları izlenir
-18. Çiçek yaprakları toplanır
-19. Renkli dünya selamlanır
-20. Eve dönüş yapılır
+1. Renk öğrenme
+2. Çiçek sayma
+3. Patikada yürüyüş
+4. Kelebek izleme
+5. Rüzgar çiçekleri sallar
+6. Gün batımı renkleri
+7. Sabah çiçek kokusu
+8. Yağmur sonrası temizlik
+9. Sonbahar yaprakları
+10. İlk kar
+11. Eve dönüş
+12. Komşu ziyareti
 
 ---
 
@@ -447,306 +363,33 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ## Production Notes
 
-### Best Characters
-
-- Kiko (ev sahibi, renk keşfeden)
-- Mimi (komşu, çiçek koklayan)
-
-### Avoid
-
-- Soluk renkler
-- Kuru toprak
-- Bozkır
-- Karanlık
-- Hız
-- Sivri taşlar
-
-### Typical Duration
-
-30–60s per scene
-
-### Best Emotional Themes
-
-- Güzellik ve renk
-- Ev hissi ve güven
-- Doğa sevgisi
-- Keşif ve hayranlık
-
-### Typical Opening Shots
-
-1. Flower Hill'in genel görünümü, renkli çiçekler
-2. Patikadan tepeye bakış
-3. Çiçek tarlası yakın çekim
-
-### Typical Closing Shots
-
-1. Gün batımı, çiçekler üzerinde altın ışık
-2. Flower Hill sessiz, son renk
-3. Eve dönüş, sıcak ışık
-
-### Camera Recommendations
-
-| Durum | Lens | Yükseklik | Not |
-|-------|------|-----------|-----|
-| Genel tepe | 28mm | 1.20m | Tüm çiçekler |
-| Çiçek yakın | 50mm | 0.30m | Renk detayı |
-| Patika | 35mm | 0.85m | Yürüyüş |
-| Low angle | 24mm | 0.20m | Büyüklük |
-
-### Continuity Rules
-
-- Çiçekler her zaman renkli
-- En az 5 farklı renk her zaman var
-- Çimen her zaman yeşil
-- Yol her zaman yuvarlak taşlar
-- Işık her zaman sıcak
+- **En İyi Karakterler:** Kiko, Mimi
+- **Kaçınılması Gerekenler:** Karanlık, soluk renk, hızlı hareket
+- **Tipik Süre:** 30–60s
+- **En İyi Duygusal Temalar:** Güzellik, renk, ev hissi, doğa sevgisi
 
 ---
 
 ## Consistency Checklist
 
 ```
-✓ Çiçekler renkli mi?
-✓ En az 5 farklı renk var mı?
-✓ Çimen yeşil mi?
-✓ Yol yuvarlak taşlardan mı?
-✓ Tüm komşular görünüyor mu?
+✓ Çiçekler renkli ve beş renk görünüyor mu?
+✓ Patika kavisli ve görünür mü?
+✓ Çimen yumuşak yeşil mi?
+✓ Işık sıcak gündüz mü?
+✓ Neon renk yok mu?
 ✓ Sivri köşe yok mu?
-✓ Rüzgar var mı?
-✓ Bozkır yok mu?
-✓ Kuru toprak yok mu?
-✓ Soluk renk yok mu?
 ✓ Karanlık yok mu?
-✓ Hız yok mu?
+✓ Komşu evler yumuşak ve uzak mı (görünürse)?
+✓ Hero View karaktersiz mi?
+✓ Renk paleti tutarlı mı?
 ```
-
----
-
-## Emotional Purpose (Özet)
-
-Flower Hill, children'lere "güzellik ve ev hissi" verir. Renkli çiçekler, yumuşak tepeler, tanıdık komşular — her şey güvenli ve davetkar. Keşfetme heyecanı, eve dönüş huzuru, renklerin coşkusu bir arada yaşar.
-
----
-
-## Play Philosophy (Özet)
-
-Flower Hill'de oyun=open-ended ve renk keşfidir. Çiçekleri sayma, renkleri isimlendirme, patikada yürüyüş — hepsi keşiftir. Rekabet yok; her çocuk kendi ritminde renklere hayran kalır. Birlikte keşfetme, birlikte renk.
-
----
-
-## Material Language
-
-Her yüzey yumuşak ve renkli. Çimenler tüylü, çiçekler yuvarlak yapraklı, taşlar pürüzsüz. Sert veya soluk yüzey yok. Her şey canlı ve oyuncak gibi, bir çocuk bahçesinden çıkmış gibi.
 
 ---
 
 ## Production Goal
 
-This environment is designed as the canonical colour and beauty location for PomPom Hills. It will be reused across episodes for colour learning, flower discovery, walking scenes, and home-base establishing shots.
-
----
-
-## Hero View Technical Specification
-
-| Parameter | Value |
-|-----------|-------|
-| Camera position | Uzaktan, hafif yukarıdan |
-| Camera height | 1.20m |
-| Lens | 28mm |
-| Framing | Çiçekler %40, çimen %30, gökyüzü %30 |
-| Horizon | Üstte gökyüzü |
-| Lighting direction | Üstten sıcak güneş |
-| Lighting softness | Yumuşak, altın |
-| Shadow density | %10-15 |
-| Colour temperature | 5500K, sıcak |
-
----
-
-## Camera Identity
-
-| Parameter | Value |
-|-----------|-------|
-| Default lens | 24–50mm |
-| Wide height | 1.20m |
-| Medium height | 0.85m |
-| Close-up height | 0.30m |
-| Movement philosophy | Yavaş, yumuşak, doğal |
-| Allowed movements | Gentle pan, slow tracking, low-angle |
-| Forbidden movements | Fast zoom, shake, dutch angle |
-
----
-
-## Lighting Identity
-
-| Parameter | Value |
-|-----------|-------|
-| Primary direction | Üstten, sıcak güneş |
-| Softness | Yumuşak, altın |
-| Ambient fill | Renkli, doğal |
-| Shadow density | %10-15 |
-| Exposure | Normal |
-| Continuity | Sıcak ışık her zaman sabit |
-
----
-
-## Colour Identity
-
-| Parameter | Value |
-|-----------|-------|
-| White balance | 5500K, sıcak |
-| Exposure | Normal |
-| Contrast | Düşük, yumuşak |
-| Saturation | Yüksek, canlı |
-| Flower colours | Kırmızı (#EF5350), Sarı (#FFD54F), Pembe (#F48FB1), Mor (#CE93D8), Turuncu (#FF7043) |
-| Grass colour | Yeşil (#C8E6C9) |
-| Path colour | Gri (#E0E0E0) |
-| Highlight behaviour | Sıcak, renkli yansıma |
-| Shadow behaviour | Yumuşak, yeşil tonlu |
-| Forbidden colour shifts | Koyu gri, siyah, soluk, bozkır |
-
----
-
-## Environmental Sound Identity
-
-| Parameter | Value |
-|-----------|-------|
-| Wind | Hafif, çiçekler |
-| Birds | Çok, doğal |
-| Bees | Uzaktan, gündüz |
-| Ambience level | Orta, canlı |
-| Silence ratio | Düşük — doğa sesi baskın |
-| Forbidden sounds | Gürültü, sert ses, modern teknoloji |
-
----
-
-## Continuity Rules
-
-| Element | Rule |
-|---------|------|
-| Çiçekler | Her zaman renkli, en az 5 renk |
-| Çimen | Her zaman yeşil |
-| Yol | Her zaman yuvarlak taşlar |
-| Işık | Her zaman sıcak |
-| Rüzgâr | Her zaman var |
-
----
-
-## World Identity Lock
-
-| Locked Element | Value | Acceptable Variations |
-|----------------|-------|----------------------|
-| Çiçek renkleri | 5 renk (kırmızı, sarı, pembe, mor, turuncu) | Ton varyasyonu |
-| Çimen rengi | Yeşil (#C8E6C9) | ±10% ton |
-| Taş yolu | Yuvarlak, gri (#E0E0E0) | Boyut farkı |
-
----
-
-## Common Generation Failures
-
-| Failure | Why It Matters | Fix |
-|---------|---------------|-----|
-| Bozkır | Kimlik kaybolur | Çiçekler ekle |
-| Kuru toprak | Canlılık kaybolur | Yeşil çimen ekle |
-| Sivri taş | Preschool安全ına aykırı | Yuvarlak taşlar |
-| Soluk renk | Güzellik kaybolur | Canlı renkler ekle |
-| Karanlık | Sıcaklık kaybolur | Sıcak ışık ekle |
-| Hız | Sakinlik bozulur | Yavaş hareket |
-| Keskin köşe | Preschool安全ına aykırı | Tüm kenarları yuvarla |
-
----
-
-## Video Generation Rules
-
-| Element | Rule |
-|---------|------|
-| Çiçek hareketi | Yavaş sallanma, 20 frame |
-| Çimen hareketi | Hafif dalgalanma, 15 frame |
-| Rüzgâr | Sürekli, yumuşak |
-| Kamera hızı | Maks %3 frame/sn pan veya tilt |
-
----
-
-## Production Summary
-
-Flower Hill, PomPom Hills'in renk ve güzellik merkezidir. Binlerce renkli çiçek, yumuşak yeşil tepeler ve kavisli patikalarla tanınır. Renk öğrenme, çiçek keşfi ve yürüyüş sahneleri için idealdir. Her üretimde renklilik ve güzellik hissi korunmalıdır.
-
----
-
-## Production QA
-
-```
-✓ World Identity: Flower Hill tanınabilir mi?
-✓ Camera: Doğal mı?
-✓ Lighting: Sıcak ve renkli mi?
-✓ Colour: 5 renk paleti tutarlı mı?
-✓ Atmosphere: Renkli ve güzel mi?
-✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
-```
-
-## Canonical Reusable Assets
-
-| Asset ID | Description |
-|----------|-------------|
-| FH-FLOWER-R | Kırmızı çiçekler |
-| FH-FLOWER-Y | Sarı çiçekler |
-| FH-FLOWER-P | Pembe çiçekler |
-| FH-FLOWER-V | Mor çiçekler |
-| FH-FLOWER-O | Turuncu çiçekler |
-| FH-GRASS-01 | Yumuşak yeşil çimen |
-| FH-PATH-01 | Yuvarlak taşlar |
-| FH-BUTTERFLY-01 | Renkli kelebekler |
-
-## World Navigation
-
-```
-Central Square → Flower Hill girişi → Çimenlik → Çiçek tarlası → Patika → Kiko's Home / Mimi's Burrow
-```
-
-## View Transition Rules
-
-### Default Sequence
-
-```
-1. Wide establishing (tüm tepe)
-2. Medium (çiçekler)
-3. Close-up (renk detayı)
-4. Low angle (çiçeklerden yukarı)
-5. POV (patikadan yürüyüş)
-```
-
-### When to Use
-
-| Durum | Kullanım |
-|-------|----------|
-| Bölüm açılışı | Wide establishing |
-| Renk öğrenme | Close-up |
-| Yürüyüş | POV |
-| Kapanış | Wide establishing |
-
-## Character Occupancy
-
-| Shot Type | Max Characters |
-|-----------|:--------------:|
-| Wide establishing | 0 |
-| Medium | 1-2 |
-| Close-up | 0-1 |
-| Low angle | 0-1 |
-
-## Typical Episode Usage
-
-### Story Types That Fit
-
-- Renk keşfi
-- Çiçek sayma
-- Yürüyüş
-- Eve dönüş
-
-### Story Types That Don't Fit
-
-- Bozkır
-- Karanlık
-- Hız
-- Sivri taş
+Flower Hill, renk ve güzellik mekanı olarak production-ready hale gelmek için Hero View üretilmesini bekliyor. Hero View onaylandıktan sonra tüm sahneler tek referans ile üretilecek.
 
 ---
 
@@ -755,22 +398,14 @@ Central Square → Flower Hill girişi → Çimenlik → Çiçek tarlası → Pa
 | Version | Changes | Breaking |
 |---------|---------|:--------:|
 | 1.0 | İlk oluşturma | — |
-| 2.0 | Production pipeline standardına geçirme | — |
-| 2.1 | Düzeltmeler | — |
-| 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
-
----
-
-## Related Documents
-
-| Document | Path |
-|----------|------|
-| World Spec | `02-WORLDS/25-flower-hill/25-flower-hill-world-spec.md` |
-| Global Standard | `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
-| Image Prompts | `02-WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | — |
+| 4.0 | Tek Hero View + World Spec pipeline'a geçiş, multi-reference kaldırıldı, Hero View Creation Mode eklendi, renk dili düzeltildi, World Identity Lock eklendi | ✅ Breaking |
 
 ---
 
 *Bu belge Flower Hill mekanı için creative referanstır.*
-*Environment Bible v3.0*
+*Environment Bible v4.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---

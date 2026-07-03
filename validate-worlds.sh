@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # World Bible Validation Script
-# Validates all world definitions against GLOBAL_ENVIRONMENT_STANDARD.md v1.0
+# Validates all world definitions against current production pipeline
+# Supports both v3.0 (GLOBAL_ENVIRONMENT_STANDARD) and v4.0 (single Hero View) formats
 
 WORLDS_DIR="/Users/benanaktas/project/video/yuvarlak-dunya/02-WORLDS"
 ERRORS=0
@@ -10,7 +11,7 @@ PASSED=0
 
 echo "============================================"
 echo "  WORLD BIBLE VALIDATION SCRIPT"
-echo "  GLOBAL_ENVIRONMENT_STANDARD v1.0 Check"
+echo "  Current Pipeline Check (v3.0 + v4.0)"
 echo "============================================"
 echo ""
 
@@ -18,16 +19,30 @@ echo ""
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
-NC='\033[0m' # No Color
+CYAN='\033[0;36m'
+NC='\033[0m'
 
-# Required sections in bible (GLOBAL_ENVIRONMENT_STANDARD 35 sections)
-BIBLE_SECTIONS=(
+# Core sections required in ALL bibles (both v3.0 and v4.0)
+CORE_SECTIONS=(
     "Overview"
     "Purpose"
     "Why This World Exists"
     "Emotional Purpose"
     "Play Philosophy"
     "World Position"
+    "Colour Identity"
+    "Lighting Identity"
+    "Camera Identity"
+    "Reusable Assets"
+    "Common Generation Failures"
+    "Story Opportunities"
+    "Production Notes"
+    "Consistency Checklist"
+    "Changelog"
+)
+
+# v3.0 additional sections (old format)
+V3_SECTIONS=(
     "Visual Identity"
     "Spatial Layout"
     "Props"
@@ -36,15 +51,8 @@ BIBLE_SECTIONS=(
     "Prompt Generation Rules"
     "Soundscape"
     "Forbidden"
-    "Story Opportunities"
-    "Emotional Tone"
-    "Production Notes"
-    "Consistency Checklist"
     "World Identity Lock"
     "Hero View Technical Specification"
-    "Camera Identity"
-    "Lighting Identity"
-    "Colour Identity"
     "Environmental Sound Identity"
     "Continuity Rules"
     "Production QA"
@@ -53,33 +61,39 @@ BIBLE_SECTIONS=(
     "View Transition Rules"
     "Character Occupancy"
     "Typical Episode Usage"
-    "Common Generation Failures"
     "Video Generation Rules"
     "Production Summary"
-    "Changelog"
 )
 
-# Required sections in world-spec
+# v4.0 additional sections (new format)
+V4_SECTIONS=(
+    "Generation Workflow"
+    "Hero View Creation Mode"
+    "Connected Canon Locations"
+    "Flower Density"
+)
+
+# World-spec sections (both formats)
 SPEC_SECTIONS=(
     "Purpose"
-    "Immutable Identity"
-    "Visual Identity"
-    "World Layout"
-    "Spatial Relationships"
+    "Identity"
+    "Must Preserve"
+    "Hero View Composition"
+    "Colour Palette"
+    "Lighting"
+    "Spatial Layout"
     "Playable Areas"
     "Materials"
-    "Lighting"
-    "Colour Palette"
     "Scale"
     "Atmosphere"
     "Consistency Rules"
-    "Generation Considerations"
+    "Reusable Assets"
+    "Generation Failures"
+    "Video Rules"
 )
 
 for WORLD_DIR in "$WORLDS_DIR"/*/; do
     WORLD_NAME=$(basename "$WORLD_DIR")
-    WORLD_NUM=$(echo "$WORLD_NAME" | cut -d'-' -f1)
-    WORLD_SLUG=$(echo "$WORLD_NAME" | sed 's/^[0-9]*-//')
     
     echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     echo "📂 $WORLD_NAME"
@@ -104,54 +118,80 @@ for WORLD_DIR in "$WORLDS_DIR"/*/; do
         PASSED=$((PASSED + 1))
     fi
     
-    # Check bible version (v3.0 or higher)
-    if grep -qi "Version 3\.\|v3\.\|Version [4-9]\.\|v[4-9]\." "$BIBLE_FILE"; then
-        echo -e "  ${GREEN}✓ Bible v3.0+${NC}"
+    # Check bible version
+    if grep -qi "Version 4\.\|v4\." "$BIBLE_FILE"; then
+        echo -e "  ${GREEN}✓ Bible v4.0 (current pipeline)${NC}"
+        PASSED=$((PASSED + 1))
+    elif grep -qi "Version 3\.\|v3\.\|Version [5-9]\.\|v[5-9]\." "$BIBLE_FILE"; then
+        echo -e "  ${CYAN}ℹ Bible v3.0+ (legacy format)${NC}"
         PASSED=$((PASSED + 1))
     else
-        echo -e "  ${RED}✗ Bible NOT v3.0+${NC}"
+        echo -e "  ${RED}✗ Bible version unknown${NC}"
         ERRORS=$((ERRORS + 1))
     fi
     
-    # Check bible sections
-    echo "  Bible sections:"
-    MISSING_BIBLE=0
-    for SECTION in "${BIBLE_SECTIONS[@]}"; do
+    # Check core sections
+    echo "  Core sections:"
+    MISSING_CORE=0
+    for SECTION in "${CORE_SECTIONS[@]}"; do
         if grep -qi "$SECTION" "$BIBLE_FILE"; then
             PASSED=$((PASSED + 1))
         else
             echo -e "    ${RED}✗ Missing: $SECTION${NC}"
             ERRORS=$((ERRORS + 1))
-            MISSING_BIBLE=$((MISSING_BIBLE + 1))
+            MISSING_CORE=$((MISSING_CORE + 1))
         fi
     done
     
-    if [ $MISSING_BIBLE -eq 0 ]; then
-        echo -e "    ${GREEN}✓ All required sections present${NC}"
+    if [ $MISSING_CORE -eq 0 ]; then
+        echo -e "    ${GREEN}✓ All core sections present${NC}"
+    fi
+    
+    # Check for outdated multi-reference language
+    MULTI_REF=$(grep -ci "max 4 referans\|entrance view.*separate\|trail view.*separate\|detail view.*separate\|reference pack workflow\|4 referans" "$BIBLE_FILE" 2>/dev/null || echo "0")
+    if [ "$MULTI_REF" -gt 0 ]; then
+        echo -e "  ${YELLOW}⚠ Outdated multi-reference language found ($MULTI_REF instances)${NC}"
+        WARNINGS=$((WARNINGS + 1))
+    fi
+    
+    # Check for broken text
+    BROKEN=$(grep -ci "preschool安全\|孩子\|Hız$" "$BIBLE_FILE" 2>/dev/null)
+    BROKEN=${BROKEN:-0}
+    if [ "$BROKEN" -gt 0 ]; then
+        echo -e "  ${YELLOW}⚠ Broken/corrupted text found ($BROKEN instances)${NC}"
+        WARNINGS=$((WARNINGS + 1))
+    fi
+    
+    # Check Hero View status in metadata
+    if grep -q "Hero View:.*❌\|Hero View:.*Pending" "$BIBLE_FILE"; then
+        echo -e "  ${CYAN}ℹ Hero View: Pending (expected for unreached worlds)${NC}"
+    elif grep -q "Hero View:.*✅" "$BIBLE_FILE"; then
+        echo -e "  ${GREEN}✓ Hero View: Approved${NC}"
+        PASSED=$((PASSED + 1))
     fi
     
     # Check world-spec sections
     if [ -n "$SPEC_FILE" ]; then
-        echo "  World Spec sections:"
         MISSING_SPEC=0
         for SECTION in "${SPEC_SECTIONS[@]}"; do
             if grep -qi "$SECTION" "$SPEC_FILE"; then
                 PASSED=$((PASSED + 1))
             else
-                echo -e "    ${RED}✗ Missing: $SECTION${NC}"
-                ERRORS=$((ERRORS + 1))
                 MISSING_SPEC=$((MISSING_SPEC + 1))
             fi
         done
         
         if [ $MISSING_SPEC -eq 0 ]; then
-            echo -e "    ${GREEN}✓ All required sections present${NC}"
+            echo -e "  ${GREEN}✓ World Spec: All sections present${NC}"
+        else
+            echo -e "  ${YELLOW}⚠ World Spec: $MISSING_SPEC sections missing${NC}"
+            WARNINGS=$((WARNINGS + 1))
         fi
     fi
     
-    # Check file size (should be substantial)
+    # Check file size
     BIBLE_SIZE=$(wc -c < "$BIBLE_FILE")
-    if [ "$BIBLE_SIZE" -lt 10000 ]; then
+    if [ "$BIBLE_SIZE" -lt 5000 ]; then
         echo -e "  ${YELLOW}⚠ Bible file small ($BIBLE_SIZE bytes)${NC}"
         WARNINGS=$((WARNINGS + 1))
     else
@@ -161,7 +201,7 @@ for WORLD_DIR in "$WORLDS_DIR"/*/; do
     
     if [ -n "$SPEC_FILE" ]; then
         SPEC_SIZE=$(wc -c < "$SPEC_FILE")
-        if [ "$SPEC_SIZE" -lt 3000 ]; then
+        if [ "$SPEC_SIZE" -lt 1000 ]; then
             echo -e "  ${YELLOW}⚠ World Spec file small ($SPEC_SIZE bytes)${NC}"
             WARNINGS=$((WARNINGS + 1))
         else

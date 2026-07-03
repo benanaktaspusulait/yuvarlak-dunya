@@ -675,7 +675,7 @@ Close-up of ancient tree bark texture with moss. Round growth rings visible on c
 
 ## OpenArt Production Rules
 
-- **Maksimum 4 referans** — Hero View zorunlu
+- **Tek Hero View 사용** — Hero View zorunlu
 - Tutarlı aydınlatma ve renk paleti (koyu yeşil #66BB6A, sıcak kahverengi)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -809,7 +809,7 @@ Giriş → Ağaç yol → Tepenin zirvesi → Manzara
 
 ## Prompt Generation Rules
 
-Max 4 referans.
+Tek Hero View 사용.
 
 ---
 

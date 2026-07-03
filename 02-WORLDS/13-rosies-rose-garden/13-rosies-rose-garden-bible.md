@@ -139,7 +139,7 @@ Giriş Kapısı → Dairesel Labirent → Kalp Şeklinde Tarhlar → Merkez Çe�
 
 ## Prompt Generation Rules
 
-- Max 4 referans kullan
+- Tek Hero View 사용 kullan
 - Her prompt'ta kalp tarhı görünür olmalı
 - Diken kesinlikle yok
 - Warm, pastel tonlar tercih et

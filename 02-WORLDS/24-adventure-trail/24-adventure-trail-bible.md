@@ -675,7 +675,7 @@ Close-up of round trail marker stone with path texture. Small discoveries along 
 
 ## OpenArt Production Rules
 
-- **Maksimum 4 referans** — Hero View zorunlu
+- **Tek Hero View 사용** — Hero View zorunlu
 - Tutarlı aydınlatma ve renk paleti (sıcak doğal, toprak tonları)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -809,7 +809,7 @@ Central Square → Patika → Flower Hill → Little Forest → ...
 
 ## Prompt Generation Rules
 
-Max 4 referans.
+Tek Hero View 사용.
 
 ---
 

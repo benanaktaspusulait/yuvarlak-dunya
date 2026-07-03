@@ -69,7 +69,7 @@ Wide establishing, medium group, close-up.
 
 ## Prompt Generation Rules
 
-Max 4 referans, Hero zorunlu.
+Tek Hero View 사용, Hero zorunlu.
 
 ## Soundscape
 

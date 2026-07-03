@@ -953,7 +953,7 @@ Güven · Rahatlık · Sıcaklık · Dostluk
 
 | Kural | Açıklama |
 |-------|----------|
-| Max 4 referans | Her shot'ta en fazla 4 |
+| Tek Hero View 사용 | Her shot'ta en fazla 4 |
 | Hero View zorunlu | Her üretimde |
 | Tutarlı ışık | Sıcak sabah |
 | Tutarlı renk | Pembe + beyaz |
@@ -1082,7 +1082,7 @@ Güven · Rahatlık · Sıcaklık · Dostluk
 ### Story Types That Don't Fit
 - Karanlık
 - Korku
-- Hız
+- Hızlı kamera hareketi veya aceleci aksiyon
 - Rekabet
 
 ## Common Generation Failures

@@ -734,7 +734,7 @@ Poppy's Bakery nasıl çekilir? Kamera fırın içinde doğal hareket eder.
 
 ## OpenArt Production Rules
 
-- **Maksimum 4 referans** — Hero View zorunlu
+- **Tek Hero View 사용** — Hero View zorunlu
 - Tutarlı aydınlatma ve renk paleti (sıcak turuncu-kahverengi tonları)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -954,7 +954,7 @@ Pixar kalitesinde preschool illüstrasyon. Yumuşak kil + peluş malzemeler. Yal
 
 | Kural | Açıklama |
 |-------|----------|
-| Max 4 referans | Her shot'ta en fazla 4 referans kullanılır |
+| Tek Hero View 사용 | Her shot'ta en fazla 4 referans kullanılır |
 | Hero View zorunlu | Her üretimde Hero View yüklenir |
 | Tutarlı ışık | Sıcak altın, turuncu tonları |
 | Tutarlı renk | Turuncu-kahverengi palet |

@@ -15,6 +15,75 @@
 
 ---
 
+## World Production Methods
+
+### İki Production Methodu
+
+1. **Description-Based (İç Mekan)** — İç mekan ihtiyacı olan world'ler için OpenArt'a description ile üretilir
+2. **Image-Based (Dış Mekan)** — Dış mekan world'leri için önce image üretilir, sonra OpenArt'ta kullanılır
+
+### Method Kategorilendirmesi
+
+| Dünya | Tip | Hero View | Production Method | Durum |
+|-------|-----|:---------:|-------------------|-------|
+| Central Square | Dış | ✅ | Image-Based | 🟢 Production Ready |
+| Cloud Hill | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Kiko's Home | İç+Dış | ✅ | Hybrid | 🟢 Production Ready |
+| Sun Hill | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Mimi's Burrow | İç | ✅ | Description-Based | 🟡 Kısmi |
+| Opa's Tree | Dış | ✅ | Image-Based | 🟢 Production Ready |
+| Tillo's Garden | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Lulu's Greenhouse | İç | ✅ | Description-Based | 🔴 Major Revision |
+| Poppy's Bakery | İç | ✅ | Description-Based | 🟡 Kısmi |
+| Benny's Playground | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Tillo's Treehouse | İç+Dış | ✅ | Hybrid | 🔴 Major Revision |
+| Milo's Pond | Dış | ✅ | Image-Based | 🔴 Major Revision |
+| Rosie's Rose Garden | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Lily's Lavender Farm | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Rainbow Bridge | Dış | ✅ | Image-Based | 🔴 Major Revision |
+| Friendship Meadow | Dış | ✅ | Image-Based | 🔴 Major Revision |
+| Butterfly Meadow | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Little Forest | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Rainbow Creek | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Wish Pond | Dış | ✅ | Image-Based | 🔴 Major Revision |
+| Camping Grove | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Story Circle | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Art Corner | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Adventure Trail | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Flower Hill | Dış | ✅ | Image-Based | 🟢 Production Ready |
+| Tree Hill | Dış | ✅ | Image-Based | 🟡 Kısmi |
+| Stone Hill | Dış | ✅ | Image-Based | 🟢 Production Ready |
+| Paddle Cove | Dış | ❌ | Image-Based | 🔴 Major Revision |
+| Pony Meadow | Dış | ❌ | Image-Based | 🟡 Kısmi |
+| Hobby Horse Trail | Dış | ❌ | Image-Based | 🟡 Kısmi |
+| Learning Room | İç | ❌ | Description-Based | 🟡 Kısmi |
+
+### Flower Hill Durumu
+
+Flower Hill **dış mekan** world'üdür — iç mekan ihtiyacı yoktur.
+
+- ✅ Bible mevcut (v3.0)
+- ✅ Hero View image mevcut (`12-ENVIRONMENT/25-flower-hill/hero-view.png`)
+- ✅ Audit skoru: 8/10 (Gold standard)
+- ✅ Production Ready durumunda
+
+**Production Method:** Image-Based
+- Hero view image zaten var
+- OpenArt'ta bu image referans olarak kullanılacak
+- Açıklama ile değil, görsel ile üretilecek
+
+### Öncelik Sıralaması (Mimi Filtreli)
+
+Mimi'nin en çok kullanıldığı Production Ready olmayan world'ler:
+
+| Dünya | Mimi Bölüm | Durum | Öncelik |
+|-------|:----------:|-------|:-------:|
+| Flower Hill | 5 | 🟢 Production Ready | ✅ Hemen |
+| Butterfly Meadow | 3 | 🟡 Kısmi | ⚠️ Düzelt |
+| Cloud Hill | 2 | 🟡 Kısmi | ⚠️ Düzelt |
+
+---
+
 ## Content Output
 
 ### Long Episodes
@@ -136,25 +205,44 @@
 
 ## Worlds Completed
 
-| World | Production Status | Episodes Used |
-|-------|-------------------|---------------|
-| Central Square | Production Ready | 16 |
-| Opa's Tree | Production Ready | 5 |
-| Opa's Tree (Night) | Production Ready | 1 |
-| Stone Hill | Production Ready | 2 |
-| Kiko's Cozy Hillside Home | Production Ready | 2 |
+| World | Production Status | Episodes Used | Production Method |
+|-------|-------------------|---------------|-------------------|
+| Central Square | 🟢 Production Ready | 16 | Image-Based |
+| Opa's Tree | 🟢 Production Ready | 5 | Image-Based |
+| Stone Hill | 🟢 Production Ready | 2 | Image-Based |
+| Kiko's Home | 🟢 Production Ready | 2 | Hybrid |
+| Flower Hill | 🟢 Production Ready | 0 (planlandı) | Image-Based |
 
-### Worlds Planned
+### Worlds — Kısmi (Düzeltme Gerekli)
 
-| World | Status |
-|-------|--------|
-| Little Forest | Planned |
-| Butterfly Meadow | Planned |
-| Rainbow Bridge | Planned |
-| Cloud Hill | Planned |
-| Paddle Cove | Planned |
-| Pony Meadow | Planned |
-| Hobby Horse Trail | Planned |
+| World | Audit Skoru | Ana Sorun | Production Method |
+|-------|:-----------:|-----------|-------------------|
+| Butterfly Meadow | 7/10 | Yürüme alanı dar | Image-Based |
+| Little Forest | 6/10 | Prop yoğunluğu yüksek | Image-Based |
+| Cloud Hill | 7/10 | Dış mekan bölümü seyrek | Image-Based |
+| Rainbow Creek | 7/10 | Köprü daraltması | Image-Based |
+| Rainbow Bridge | 4/10 | Köprü dar, yürüme alanı yok | Image-Based |
+| Poppy's Bakery | 6/10 | İç mekan düzeni belirsiz | Description-Based |
+| Mimi's Burrow | 6/10 | İç mekan spesifikasyonu eksik | Description-Based |
+
+### Worlds — Major Revision Gerekli
+
+| World | Audit Skoru | Ana Sorun | Production Method |
+|-------|:-----------:|-----------|-------------------|
+| Tillo's Treehouse | 4/10 | İç mekan spec yok | Hybrid |
+| Lulu's Greenhouse | 4/10 | İç mekan layout yok | Description-Based |
+| Friendship Meadow | 5/10 | Sadece 4 hikaye anı | Image-Based |
+| Milo's Pond | 4/10 | Küçük, 2-3 karakter için yetersiz | Image-Based |
+| Wish Pond | 4/10 | Sadece gece kullanımı | Image-Based |
+
+### Worlds — Hero View Eksik
+
+| World | Durum | Production Method |
+|-------|-------|-------------------|
+| Paddle Cove | Hero view yok | Image-Based |
+| Pony Meadow | Hero view yok | Image-Based |
+| Hobby Horse Trail | Hero view yok | Image-Based |
+| Learning Room | Hero view yok | Description-Based |
 
 ---
 

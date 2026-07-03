@@ -682,7 +682,7 @@ Close-up of round campfire stones with warm embers. Safe flame contained within 
 
 ## OpenArt Production Rules
 
-- **Maksimum 4 referans** — Hero View zorunlu
+- **Tek Hero View 사용** — Hero View zorunlu
 - Tutarlı aydınlatma ve renk paleti (sıcak ateş + yıldız ışığı)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -811,7 +811,7 @@ Giriş → Kamp alanı → Çadırlar → Ateş → Gökyüzü
 
 ## Prompt Generation Rules
 
-Max 4 referans.
+Tek Hero View 사용.
 
 ---
 

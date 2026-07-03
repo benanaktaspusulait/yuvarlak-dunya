@@ -360,7 +360,7 @@ Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler
 
 | Kural | Açıklama |
 |-------|----------|
-| Max 4 referans | Her shot'ta en fazla 4 referans kullanılır |
+| Tek Hero View 사용 | Her shot'ta en fazla 4 referans kullanılır |
 | Hero View zorunlu | Her üretimde Hero View yüklenir |
 | Tutarlı ışık | Sıcak gündüz |
 | Tutarlı renk | Pastel + renkli bayraklar |
@@ -433,7 +433,7 @@ Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler
 ✗ Kavga
 ✗ Gözyaşı
 ✗ Üzüntü
-✗ Hız
+✗ Hızlı kamera hareketi veya aceleci aksiyon
 ✗ Zaman tutma
 ✗ Puan
 ✗ Keskin köşe
@@ -499,7 +499,7 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 - 3'ten fazla karakter
 - Yarış
 - Rekabet
-- Hız
+- Hızlı kamera hareketi veya aceleci aksiyon
 - Düşme
 
 ### Typical Duration
@@ -789,7 +789,7 @@ Central Square → Giriş (tahta atlar) → Kavisli patika → Köprü → Çiç
 
 - Yarış
 - Rekabet
-- Hız
+- Hızlı kamera hareketi veya aceleci aksiyon
 - Düşme
 
 ---

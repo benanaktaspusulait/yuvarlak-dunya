@@ -688,7 +688,7 @@ Benny's Playground nasıl çekilir? Kamera oyun alanı içinde doğal hareket ed
 
 ## OpenArt Production Rules
 
-- **Maksimum 4 referans** — Hero View zorunlu
+- **Tek Hero View 사용** — Hero View zorunlu
 - Tutarlı aydınlatma ve renk paleti (canlı, neşeli tonlar)
 - Referanslarda karakter yok — sadece ortam ve ekipman
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -810,7 +810,7 @@ Giriş → Salıncaklar → Kaydırak → Top havuzu → Dinlenme alanı
 
 ## Prompt Generation Rules
 
-Max 4 referans, Hero zorunlu, tutarlı ışık.
+Tek Hero View 사용, Hero zorunlu, tutarlı ışık.
 
 ---
 

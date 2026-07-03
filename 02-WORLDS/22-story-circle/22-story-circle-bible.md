@@ -275,7 +275,7 @@ Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler
 **What should never appear:**
 - Karakter
 - Gürültü
-- Hız
+- Hızlı kamera hareketi veya aceleci aksiyon
 - Sivri köşe
 - Karanlık
 - Yapay ışık
@@ -322,7 +322,7 @@ Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler
 
 | Kural | Açıklama |
 |-------|----------|
-| Max 4 referans | Her shot'ta en fazla 4 referans kullanılır |
+| Tek Hero View 사용 | Her shot'ta en fazla 4 referans kullanılır |
 | Hero View zorunlu | Her üretimde Hero View yüklenir |
 | Tutarlı ışık | Sıcak amber, doğal |
 | Tutarlı renk | Yeşil + amber + doğal tonlar |
@@ -387,7 +387,7 @@ Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler
 
 ```
 ✗ Gürültü
-✗ Hız
+✗ Hızlı kamera hareketi veya aceleci aksiyon
 ✗ Sivri köşe
 ✗ Karanlık
 ✗ Yapay ışık
@@ -739,7 +739,7 @@ Camping Grove → Giriş yolu → Ağaç altı → Oturma alanı → Merkez (ağ
 ### Story Types That Don't Fit
 
 - Gürültü
-- Hız
+- Hızlı kamera hareketi veya aceleci aksiyon
 - Karanlık
 - Rekabet
 

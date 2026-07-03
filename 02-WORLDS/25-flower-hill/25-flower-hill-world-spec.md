@@ -1,138 +1,167 @@
-# Flower Hill — World Creation Specification
+# Flower Hill — World Specification v4.0
 
-> Source of truth: `25-flower-hill-bible.md` (canonical, creative). This document
-> is a production-oriented extraction for AI-assisted world generation. It does
-> not replace the Bible and does not duplicate its storytelling, educational,
-> character, or workflow content.
-
----
-
-## Purpose
-
-Flower Hill is the most colourful hill in Pompom Hills — a soft green hillside covered in thousands of round flowers in five vibrant colours. It is home to Kiko's House and Mimi's Burrow, making it both a place of beauty and a safe home base.
+> Source of truth: 25-flower-hill-bible.md (canonical, creative).
+> This document is a dense generation instruction set.
+> Aligned with current single Hero View + World Spec pipeline.
 
 ---
 
-## Immutable Identity
+## Usage
 
-The following elements define the canonical identity of Flower Hill and must never change:
+### Mode A — Hero View Creation:
+Use this text to generate the first Canon Hero View.
 
-- Soft green hill with rounded contours
-- Thousands of round flowers in 5 colours: red, yellow, pink, purple, orange
-- Curved stepping-stone path connecting all neighbours
-- Warm golden sunlight
-- At least 5 different flower colours always visible
-- No barren ground, no sharp stones, no dark atmosphere
-- Gentle breeze moving flowers and grass
+### Mode B — Scene Generation:
+After a Hero View is approved, use the uploaded Hero View image plus this specification.
+
+If the uploaded Hero View and this text disagree, follow the uploaded Hero View.
 
 ---
 
-## Visual Identity
+## Identity
 
-A soft green hillside blanketed in thousands of round colourful flowers — red, yellow, pink, purple, and orange. A curved stepping-stone path winds through the flowers connecting all neighbours. The grass is soft and plush, the flowers are round and vibrant, the sunlight is warm and golden. The overall feeling is a "colour paradise" — the most beautiful, inviting hill in all of Pompom Hills.
-
----
-
-## World Layout
-
-The world reads as one continuous flower-covered hillside. Central Square connects from the north via a stone path, which winds through the flowers to Kiko's Home and Mimi's Burrow below, continuing to Butterfly Meadow in the south. There are no separate zones — just one flowing hillside of colour.
+Flower Hill is the most colourful hill in Pompom Hills: a soft rounded green hillside covered in abundant but readable colourful flowers, with a curved stepping-stone path.
 
 ---
 
-## Spatial Relationships
+## Must Preserve
 
-- The path from Central Square leads directly to the hilltop.
-- The flowers cover every surface of the hill.
-- Kiko's Home is visible on the southern slope.
-- Mimi's Burrow is visible on the western slope.
-- The path connects to all neighbouring locations.
-- The sky is always visible above the hilltop.
-
----
-
-## Playable Areas
-
-**Hilltop** — Purpose: the highest point with the widest view. Visual identity: flowers, open sky, path convergence. Important props: flowers, path. Typical use: arrival, wide view, colour discovery.
-
-**Flower Fields** — Purpose: the heart of the hill — immersive colour. Visual identity: thousands of flowers in 5 colours, soft grass beneath. Important props: flowers. Typical use: colour learning, flower counting, sensory experience.
-
-**Path** — Purpose: the connecting route between neighbours. Visual identity: curved stepping stones through flowers. Important props: stones, flowers on sides. Typical use: walking, transitioning, exploring.
-
-**Slope Areas** — Purpose: gentle slopes leading to homes. Visual identity: flowers thinning slightly, homes visible. Important props: flowers, homes in distance. Typical use: approach, departure.
+- soft rounded green hill
+- dense readable flower carpet
+- five flower colours (red, yellow, pink, purple, orange)
+- curved stepping-stone path
+- warm morning daylight
+- soft handcrafted preschool style
+- rounded shapes only
+- no dry/barren ground
+- no sharp stones
+- no dark mood
+- no modern objects
+- no harsh realism
 
 ---
 
-## Materials
+## Hero View Composition
 
-Grass: soft plush green. Flowers: round, soft petals in vibrant colours. Path stones: smooth, round, grey-brown. All surfaces read as soft, colourful, and child-safe. No sharp edges, no rough surfaces, no barren ground.
-
----
-
-## Lighting
-
-Primary light is warm golden sunlight bathing the entire hillside. Flowers catch and reflect light creating a rainbow effect. Shadows are soft and short. The overall feeling is bright, warm, and celebratory.
+- no characters
+- no animals
+- wide 16:9 environment
+- foreground: curved stepping-stone path and dense flowers
+- midground: rolling Flower Hill with flower fields
+- background: soft sky and distant gentle hills
+- five colours clearly visible
+- path clearly visible as S-curve
+- warm morning daylight
+- not cluttered
+- optional distant home landmarks only if soft and small
+- Kiko's Home and Mimi must not be redesigned
 
 ---
 
 ## Colour Palette
 
-| Asset ID | Element | Hex |
-|----------|---------|-----|
-| FH-FLOWER-R | Red flowers | #EF5350 |
-| FH-FLOWER-Y | Yellow flowers | #FFD54F |
-| FH-FLOWER-P | Pink flowers | #F48FB1 |
-| FH-FLOWER-V | Purple flowers | #CE93D8 |
-| FH-FLOWER-O | Orange flowers | #FF7043 |
-| FH-GRASS-01 | Grass | #C8E6C9 |
-| FH-PATH-01 | Path stones | #E0E0E0 |
+Vibrant pastel. Colourful but controlled.
 
-White balance: 5500K warm. Exposure: normal. Contrast: low. Saturation: high (vibrant).
-No neon. No pure black. No muted or dull tones.
+White balance: warm daylight, approximately 5500K.
+Exposure: gently bright, not overexposed.
+Contrast: low.
+Saturation: medium-high pastel, never neon.
+
+### Flower colours:
+- red #EF5350
+- yellow #FFD54F
+- pink #F48FB1
+- purple #CE93D8
+- orange #FF7043
+
+### Grass:
+- soft green #C8E6C9
+
+### Path:
+- soft grey #E0E0E0
+
+### Forbidden colour shifts:
+- neon colour
+- muddy colour
+- grey desaturation
+- orange sunset shift
+- blue cold shift
+- high contrast HDR
+- realistic photography colour
+- dark green forest palette
+- brown dry field palette
+
+---
+
+## Lighting
+
+Warm morning daylight.
+Soft preschool light.
+Low contrast.
+No hard shadows.
+No dramatic golden-hour look.
+No cinematic colour grading.
+No HDR.
+No orange shift.
+
+Lighting should support colour clarity, not overpower it.
+
+---
+
+## Flower Density
+
+Abundant but readable.
+Dense clusters with clear walking space.
+Path always visible.
+Characters always readable.
+Five colours visible in every wide shot.
+
+---
+
+## Spatial Layout
+
+```
+Central Square → Flower Hill girişi → Çimenlik → Çiçek tarlası → Patika → Kiko's Home / Mimi
+```
+
+---
+
+## Playable Areas
+
+**Hilltop** — Purpose: en geniş manzara. Visual identity: çiçekler, açık gökyüzü, patika kesişimi. Typical use: varış, geniş bakış.
+
+**Flower Fields** — Purpose: renk cümbüşü bölgesi. Visual identity: binlerce çiçek, beş renk. Typical use: renk öğrenme, çiçek sayma.
+
+**Path** — Purpose: bağlantı yolu. Visual identity: kavisli taşlar, çiçekler arasında. Typical use: yürüyüş, keşif.
+
+---
+
+## Materials
+
+Grass: soft plush green. Flowers: round, soft petals in vibrant pastel colours. Path stones: smooth, round, grey-brown. All surfaces read as soft, colourful, and child-safe.
 
 ---
 
 ## Scale
 
-Everything is sized for small preschool children walking through flowers. The hill is gentle, not steep. The path is wide enough for comfortable walking. The flowers are large enough to see colours clearly but small enough to feel like a carpet of colour. The overall feeling is immersive but not overwhelming.
+Everything sized for small preschool children. Hill is gentle, not steep. Path is wide enough for comfortable walking. Flowers large enough to see colours clearly.
 
 ---
 
 ## Atmosphere
 
-Colourful. Beautiful. Warm. Inviting. Joyful. Every surface reads as vibrant and alive. The mood is consistently bright and happy — a place where children feel "this is the most beautiful place in the world."
+Colourful. Beautiful. Warm. Inviting. Joyful.
 
 ---
 
 ## Consistency Rules
 
-- At least 5 flower colours are always visible — never fewer.
-- The grass is always soft green — never brown, never barren.
-- The path is always round stones — never concrete, never sharp.
-- No barren ground, no dark areas, no cold tones.
-- The flower carpet is always dense — never sparse.
-- The hill's gentle slope is preserved across every generation.
-
----
-
-## Generation Considerations
-
-The hill must be generated as a dense carpet of colourful flowers — not as a few scattered blooms or a generic green hill. Keep all shapes rounded. Keep colours vibrant and saturated. The hill's identity — its colour abundance, its beauty, its warmth — must be preserved exactly across every generation.
-
----
-
-## Colour Palette (Detailed)
-
-| Asset ID | Element | Hex |
-|----------|---------|-----|
-| FH-FLOWER-R | Red | #EF5350 |
-| FH-FLOWER-Y | Yellow | #FFD54F |
-| FH-FLOWER-P | Pink | #F48FB1 |
-| FH-FLOWER-V | Purple | #CE93D8 |
-| FH-FLOWER-O | Orange | #FF7043 |
-| FH-GRASS-01 | Grass | #C8E6C9 |
-| FH-PATH-01 | Path | #E0E0E0 |
-
-White balance: 5500K. Exposure: normal. Contrast: low. Saturation: high.
+- At least 5 flower colours always visible
+- Grass always soft green
+- Path always round stones
+- No barren ground
+- No dark areas
+- Flower carpet always dense but readable
 
 ---
 
@@ -151,40 +180,18 @@ White balance: 5500K. Exposure: normal. Contrast: low. Saturation: high.
 
 ---
 
-## Framing
-
-Flowers always visible in every wide shot — they are the primary visual anchor. The hill fills the frame with colour.
-
-| Shot | Max Character % | Flowers Visible |
-|------|:---------------:|:---------------:|
-| Wide establishing | 15–20% | Always |
-| Medium single | 30–35% | Yes |
-| Medium two characters | 40–45% | Yes |
-| Close-up | 65–75% | Partial |
-
-Emotional peak = wide shot showing entire hill as a carpet of colour.
-
----
-
-## Navigation
-
-Default flow: Central Square (approach) → Hilltop (arrival) → Flower Fields (immersion) → Path (exploration) → Homes (destination).
-The journey through colour — from first glimpse to full immersion — should feel magical and unhurried.
-**Alternative openings are permitted when story continuity requires them.**
-
----
-
-## Generation Failures — Quick Reference
+## Generation Failures
 
 | Failure | Fix |
 |---------|-----|
-| Fewer than 5 flower colours | Add missing colours |
-| Sparse flowers | Increase density — carpet effect |
-| Barren or brown ground | Cover with green grass |
-| Sharp stones on path | Smooth all stones |
-| Cold or muted colours | Increase saturation |
-| Dark atmosphere | Add warm sunlight |
-| No breeze effect | Add gentle flower movement |
+| Generic meadow | Add curved path, dense five-colour flower carpet |
+| Flowers too sparse | Increase flower density |
+| Flowers too chaotic | Use clustered readable flower fields |
+| Path missing | Add curved stepping-stone path |
+| Too neon | Use vibrant pastel |
+| Too muted | Restore five-colour pastel palette |
+| Homes redesigned | Keep homes distant or omit |
+| Forest look | Keep open hill, flowers and path |
 
 ---
 
@@ -192,10 +199,13 @@ The journey through colour — from first glimpse to full immersion — should f
 
 | Element | Rule |
 |---------|------|
-| FH-FLOWER movement | Gentle sway, 20 sec cycle |
-| FH-GRASS-01 movement | Soft wave, 15 sec cycle |
-| Wind | Constant, gentle, through flowers |
+| Flower movement | Gentle sway, 20 sec cycle |
+| Grass movement | Soft wave, 15 sec cycle |
 | Camera speed | Max 3% frame/sec pan or track |
-| Environmental rhythm | Flowers, grass, wind all move on the same gentle breath |
+| Wind | Constant, gentle |
 
-Every animated frame passes the same QA as a still image.
+---
+
+*This specification supports the current Pompom Hills production pipeline.*
+*Flower Hill — World Specification v4.0*
+*Last updated: 3 Temmuz 2026*
