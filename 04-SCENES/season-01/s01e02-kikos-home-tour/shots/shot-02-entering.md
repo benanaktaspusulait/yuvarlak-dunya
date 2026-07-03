@@ -2,7 +2,7 @@
 
 > **Parent Episode:** S01E02 — Kiko's Home Tour
 > **Shot:** 02 of 04 | **Duration:** 4–14 seconds (10 seconds)
-> **@image1 = Shot 01 last frame**
+> **the previous shot reference = Shot 01 last frame**
 
 ---
 
@@ -20,10 +20,10 @@
 
 ## Continuity
 
-**@image1 = Shot 01 last frame (frame zero for this shot)**
+**the previous shot reference = Shot 01 last frame (frame zero for this shot)**
 **Lighting lock:** First frame must preserve identical lighting from Shot 01.
 
-The first frame of this shot MUST be visually identical to @image1.
+The first frame of this shot MUST be visually identical to the previous shot reference.
 
 Begin animation from that exact frame.
 
@@ -41,6 +41,25 @@ Do NOT repeat any introduction.
 
 ---
 
+## Background Object Lock
+
+The background is locked from the first frame of this shot.
+
+Maintain all visible background objects throughout the entire video.
+
+Do not remove, replace, repaint or transform any visible background object.
+
+If a tree is visible, it remains the same tree.
+If a path is visible, it remains the same path.
+If a bush is visible, it remains the same bush.
+If a house is visible, it remains the same house.
+If a landmark is visible, it remains in the same relative position.
+
+Do not introduce new trees or remove existing background objects.
+Do not reinterpret the environment during the shot.
+
+Only the main characters and any props may move unless camera movement naturally changes what is visible.
+
 ## Visual Prompt
 
 ```
@@ -48,9 +67,9 @@ Do NOT repeat any introduction.
 # KIKO SHOWS HER HOME
 # SHOT 02
 
-Use @image1 (Shot 01 last frame) as continuity reference.
+Use the previous shot reference (Shot 01 last frame) as continuity reference.
 
-The first frame of this shot MUST be visually identical to @image1.
+The first frame of this shot MUST be visually identical to the previous shot reference.
 Begin animation from that exact frame.
 No establishing shot. No camera reposition. No camera zoom. No scene reset. No fade in.
 The viewer must feel that this shot starts one frame after the previous shot ended.
@@ -83,7 +102,7 @@ Dialogue:
 
 Then she opens the door and walks inside.
 
-The camera initially remains exactly where @image1 ended.
+The camera initially remains exactly where the previous shot reference ended.
 
 Continue from the exact framing of Shot 01. Camera position is identical.
 
@@ -193,6 +212,8 @@ No fast camera movement.
 No teleportation.
 No scene resets.
 No new establishing shot.
+
+The Kiko's Home background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
 ```
 
 ---
@@ -242,3 +263,10 @@ Transition: Natural, no sudden changes.
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
+- [ ] Background objects visible in the first frame remain stable.
+- [ ] No background object disappears or is replaced.
+- [ ] Environment is not reinterpreted during the shot.
+- [ ] No background object morphing.
+- [ ] No new environment elements appear.
+- [ ] Camera movement does not cause background repainting.
+- [ ] Same physical location is preserved throughout the shot.

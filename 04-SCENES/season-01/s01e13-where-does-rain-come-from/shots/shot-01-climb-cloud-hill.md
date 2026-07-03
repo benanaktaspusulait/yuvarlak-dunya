@@ -49,6 +49,25 @@ Do not redesign Cloud Hill.
 
 ---
 
+## Background Object Lock
+
+The background is locked from the first frame of this shot.
+
+Maintain all visible background objects throughout the entire video.
+
+Do not remove, replace, repaint or transform any visible background object.
+
+If a tree is visible, it remains the same tree.
+If a path is visible, it remains the same path.
+If a bush is visible, it remains the same bush.
+If a house is visible, it remains the same house.
+If a landmark is visible, it remains in the same relative position.
+
+Do not introduce new trees or remove existing background objects.
+Do not reinterpret the environment during the shot.
+
+Only the main characters and any props may move unless camera movement naturally changes what is visible.
+
 ## Visual Prompt
 
 ```text
@@ -56,6 +75,8 @@ Luca and Mimi from Pompom Hills arriving at Cloud Hill on a cloudy day, Luca pau
 
 Do not display dialogue as on-screen text.
 No speech bubbles. No captions. No subtitles. No text.
+
+The Cloud Hill background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
 ```
 
 ---
@@ -200,6 +221,13 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No classroom or teacher feeling.
 - [ ] No on-screen text.
 - [ ] Opening creates curiosity within 3-5 seconds.
+- [ ] Background objects visible in the first frame remain stable.
+- [ ] No background object disappears or is replaced.
+- [ ] Environment is not reinterpreted during the shot.
+- [ ] No background object morphing.
+- [ ] No new environment elements appear.
+- [ ] Camera movement does not cause background repainting.
+- [ ] Same physical location is preserved throughout the shot.
 
 ## Scale
 

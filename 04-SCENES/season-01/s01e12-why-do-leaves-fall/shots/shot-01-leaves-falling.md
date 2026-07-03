@@ -26,11 +26,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in @image1.
+The shot must begin from the identical camera position shown in the previous shot reference.
 
-No camera movement is allowed until the first frame matches @image1 exactly.
+No camera movement is allowed until the opening frame continues seamlessly from the previous shot reference.
 
-The first visible frame should appear visually identical to @image1.
+The first visible frame should appear visually identical to the previous shot reference.
 
 Only then may the planned camera movement begin.
 

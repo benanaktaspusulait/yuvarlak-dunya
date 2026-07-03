@@ -18,7 +18,7 @@ CONTINUITY
 
 This shot begins exactly one frame after Shot 03.
 
-The first frame MUST match @image1 exactly.
+The first frame MUST match the previous shot reference exactly.
 
 The first frame must preserve identical lighting from Shot 03.
 
@@ -33,6 +33,25 @@ No zoom.
 Maintain the same camera position, lighting, colour profile and atmosphere established in Shot 03.
 
 Apply all Pompom Hills Visual Continuity Rules.
+
+## Background Object Lock
+
+The background is locked from the first frame of this shot.
+
+Maintain all visible background objects throughout the entire video.
+
+Do not remove, replace, repaint or transform any visible background object.
+
+If a tree is visible, it remains the same tree.
+If a path is visible, it remains the same path.
+If a bush is visible, it remains the same bush.
+If a house is visible, it remains the same house.
+If a landmark is visible, it remains in the same relative position.
+
+Do not introduce new trees or remove existing background objects.
+Do not reinterpret the environment during the shot.
+
+Only the main characters and any props may move unless camera movement naturally changes what is visible.
 
 ==================================================
 SCENE
@@ -163,14 +182,23 @@ No lighting change.
 
 No world reset.
 
+The Kiko's Home background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
+
 ==================================================
 QA CHECKLIST
 ==================================================
 
-- [ ] First frame matches @image1 exactly.
+- [ ] The opening frame must continue seamlessly from the previous shot video reference or exported continuity frame.
 - [ ] Visual continuity preserved from Shot 03.
 - [ ] Character continuity preserved.
 - [ ] Voice continuity preserved.
 - [ ] Lighting continuity preserved.
 - [ ] Colour continuity preserved.
 - [ ] Episode ends with a warm emotional farewell.
+- [ ] Background objects visible in the first frame remain stable.
+- [ ] No background object disappears or is replaced.
+- [ ] Environment is not reinterpreted during the shot.
+- [ ] No background object morphing.
+- [ ] No new environment elements appear.
+- [ ] Camera movement does not cause background repainting.
+- [ ] Same physical location is preserved throughout the shot.

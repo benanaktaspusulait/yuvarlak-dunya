@@ -2,7 +2,7 @@
 
 > **Parent Episode:** S01E02 — Kiko's Home Tour
 > **Shot:** 03 of 04 | **Duration:** 14–22 seconds (8 seconds)
-> **@image1 = Shot 02 last frame (interior)**
+> **the previous shot reference = Shot 02 last frame (interior)**
 
 ---
 
@@ -20,10 +20,10 @@
 
 ## Continuity
 
-**@image1 = Shot 02 last frame (interior)**
+**the previous shot reference = Shot 02 last frame (interior)**
 **Lighting lock:** First frame must preserve identical interior lighting from Shot 02.
 
-The first frame of this shot MUST be visually identical to @image1.
+The first frame of this shot MUST be visually identical to the previous shot reference.
 
 Begin animation from that exact frame.
 
@@ -40,6 +40,25 @@ Camera is now inside the house. Continue from the exact framing of the previous 
 
 ---
 
+## Background Object Lock
+
+The background is locked from the first frame of this shot.
+
+Maintain all visible background objects throughout the entire video.
+
+Do not remove, replace, repaint or transform any visible background object.
+
+If a tree is visible, it remains the same tree.
+If a path is visible, it remains the same path.
+If a bush is visible, it remains the same bush.
+If a house is visible, it remains the same house.
+If a landmark is visible, it remains in the same relative position.
+
+Do not introduce new trees or remove existing background objects.
+Do not reinterpret the environment during the shot.
+
+Only the main characters and any props may move unless camera movement naturally changes what is visible.
+
 ## Visual Prompt
 
 ```
@@ -51,7 +70,7 @@ Do not rush.
 
 The environment should feel calm, readable and memorable for preschool children.
 
-Use @image1 (Shot 02 last frame — interior) as continuity reference.
+Use the previous shot reference (Shot 02 last frame — interior) as continuity reference.
 
 The interior must be the inside of the SAME house. Do NOT redesign the house.
 One continuous rounded living space. No separate rooms. No realistic architecture.
@@ -74,6 +93,8 @@ SCALE: Kiko 15–20% of frame. Environment remains dominant, but Kiko is clearly
 CAMERA: Interior wide shot. Gentle pan movements only. Child eye level. No camera repositioning.
 LIGHTING: Apply Pompom Hills Visual Continuity Rules. Maintain the canonical interior colour profile established in Shot 02. No change in colour temperature, exposure, saturation, contrast or lighting mood.
 NEGATIVE: No text, no redesigned interior, no hard walls, no separate rooms, no sudden lighting changes, no camera repositioning.
+
+The Kiko's Home background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
 ```
 
 ---
@@ -119,7 +140,7 @@ Do not introduce Kiko after the shot has started.
 
 ## QA Checklist
 
-- [ ] First frame matches @image1 exactly
+- [ ] First frame matches the previous shot reference exactly
 - [ ] Continuity from Shot 02 preserved
 - [ ] Character integrity and consistency verified
 - [ ] Object persistence verified
@@ -129,3 +150,10 @@ Do not introduce Kiko after the shot has started.
 - [ ] Canonical rules followed
 - [ ] Dialogue timing feels natural for the shot duration
 - [ ] Visual colour profile matches previous shot
+- [ ] Background objects visible in the first frame remain stable.
+- [ ] No background object disappears or is replaced.
+- [ ] Environment is not reinterpreted during the shot.
+- [ ] No background object morphing.
+- [ ] No new environment elements appear.
+- [ ] Camera movement does not cause background repainting.
+- [ ] Same physical location is preserved throughout the shot.

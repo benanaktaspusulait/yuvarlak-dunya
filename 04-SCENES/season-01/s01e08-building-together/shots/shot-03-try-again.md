@@ -56,17 +56,17 @@ Match the lighting and colour grading exactly from the supplied continuity refer
 Do not change the established exposure, brightness or moonlight intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-```Continue directly from @image1.
+```Continue directly from the previous shot video reference.
 
-The first frame of this video must match @image1 exactly.
+The opening frame must continue seamlessly from the previous shot video reference or exported continuity frame.
 
-Treat @image1 as frame zero.
+Treat the previous shot video reference as the starting point.
 
-The animation begins only after the first frame has matched @image1 exactly.
+The animation begins only after the opening frame continues seamlessly from the previous shot reference.
 
-Use @image1 as the exact starting composition.
+Use the previous shot video reference as the exact starting composition.
 
-Do not reinterpret @image1.
+Do not reinterpret the previous shot reference.
 
 Do not reposition the camera.
 
@@ -74,7 +74,7 @@ Do not recompose the scene.
 
 Do not adjust framing before movement begins.
 
-Continue the action naturally from @image1.
+Continue the action naturally from the previous shot reference.
 
 ---
 
@@ -88,11 +88,11 @@ The reference image is supplied by the production workflow and should not be har
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in @image1.
+The shot must begin from the identical camera position shown in the previous shot reference.
 
-No camera movement is allowed until the first frame matches @image1 exactly.
+No camera movement is allowed until the opening frame continues seamlessly from the previous shot reference.
 
-The first visible frame should appear visually identical to @image1.
+The first visible frame should appear visually identical to the previous shot reference.
 
 Only then may the planned camera movement begin.
 
@@ -112,9 +112,9 @@ The focus should remain on the emotional interaction.
 
 ## Dialogue
 
-The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in @image1.
+The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in the previous shot reference.
 
-Match the lighting and colour grading exactly from @image1.
+Match the lighting and colour grading exactly from the previous shot reference.
 
 Do not change:
 - exposure

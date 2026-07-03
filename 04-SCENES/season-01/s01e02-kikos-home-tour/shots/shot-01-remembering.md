@@ -2,7 +2,7 @@
 
 > **Parent Episode:** S01E02 — Kiko's Home Tour
 > **Shot:** 01 of 04 | **Duration:** 0–4 seconds
-> **This is the FIRST shot of this episode. No @image1 needed.**
+> **This is the FIRST shot of this episode. No the previous shot reference needed.**
 
 ---
 
@@ -31,9 +31,28 @@ This is the FIRST shot of this episode.
 
 Visual continuity with S01E01 is maintained through identical world, lighting, and character design.
 
-**No @image1 reference needed.**
+**No the previous shot reference reference needed.**
 
 ---
+
+## Background Object Lock
+
+The background is locked from the first frame of this shot.
+
+Maintain all visible background objects throughout the entire video.
+
+Do not remove, replace, repaint or transform any visible background object.
+
+If a tree is visible, it remains the same tree.
+If a path is visible, it remains the same path.
+If a bush is visible, it remains the same bush.
+If a house is visible, it remains the same house.
+If a landmark is visible, it remains in the same relative position.
+
+Do not introduce new trees or remove existing background objects.
+Do not reinterpret the environment during the shot.
+
+Only the main characters and any props may move unless camera movement naturally changes what is visible.
 
 ## Visual Prompt
 
@@ -72,6 +91,8 @@ SCALE: Kiko ~8% of frame.
 CAMERA: Wide, 50mm, static, 0.85m. Same position as S01E01 Shot 04.
 LIGHTING: Warm morning sunlight — identical to S01E01.
 NEGATIVE: No text, no extra characters, no redesigned environment, no teleportation, no position change.
+
+The Kiko's Home background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
 ```
 
 ---
@@ -128,6 +149,13 @@ Do not introduce Kiko after the shot has started.
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
+- [ ] Background objects visible in the first frame remain stable.
+- [ ] No background object disappears or is replaced.
+- [ ] Environment is not reinterpreted during the shot.
+- [ ] No background object morphing.
+- [ ] No new environment elements appear.
+- [ ] Camera movement does not cause background repainting.
+- [ ] Same physical location is preserved throughout the shot.
 
 ## Reference Usage
 
