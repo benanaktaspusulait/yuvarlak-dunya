@@ -1,3 +1,7 @@
+# Render Prompts
+
+Use the previous shot as Video Reference for all continuation shots.
+
 # S01E06 — Render Prompts
 ## Global Standard
 

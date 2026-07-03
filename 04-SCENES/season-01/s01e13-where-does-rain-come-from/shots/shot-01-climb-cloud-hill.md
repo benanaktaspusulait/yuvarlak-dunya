@@ -1,3 +1,7 @@
+# Opening Hook
+
+The first 3-5 seconds should immediately create curiosity.
+
 # E13 — Shot 01 — Climbing Cloud Hill
 
 ---

@@ -1,3 +1,7 @@
+# Opening Hook
+
+The first 3-5 seconds should immediately create curiosity.
+
 # Goodnight Tree — Shot 01 — Arda Arrives
 
 ---
