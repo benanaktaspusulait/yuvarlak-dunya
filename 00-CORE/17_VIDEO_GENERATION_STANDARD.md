@@ -2,6 +2,9 @@
 
 > Tüm shot dosyaları bu standarttan üretir.
 > Her shot bu dosyaya atıfta bulunur, aynı kuralları tekrar etmez.
+> Pacing, hook, camera-emphasis and ending style (retention) decisions are defined in
+> `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` — that document does not override the
+> continuity/technical rules below (e.g. Camera Rules, Text Safety), it builds on top of them.
 
 ---
 

@@ -306,6 +306,210 @@ When facing a production decision, ask:
 
 ---
 
+## Character and World Onboarding Policy
+
+This policy governs how new major characters and reusable worlds enter the regular episode system. It does not change existing canon, existing character designs, existing world designs, or the current publishing cadence.
+
+### 1. Core Rule
+
+No new major character or reusable world should enter the regular episode system without an onboarding video first.
+
+A character or world must be introduced to the audience before it becomes part of normal educational stories.
+
+The goal is to build recognition gradually. Children should know:
+
+- who the character is
+- where the world is
+- what feeling the character/world represents
+- why they should care
+
+### 2. Character Onboarding
+
+Before a new character becomes active in regular episodes, create a character introduction package.
+
+**Required:**
+
+1. **Character Introduction Video**
+
+   Format:
+   - 30–60 seconds
+   - simple and warm
+   - one clear emotional trait
+   - one clear visual identity
+   - one memorable action or gesture
+   - no complex story
+   - no multiple new characters
+
+   Example titles: *Meet Kiko!*, *Meet Noah!*, *Meet Mimi!*, *Meet Arda!*, *Meet Opa!*
+
+2. **Character Shorts**
+
+   Each character intro should produce 3–5 Shorts. Shorts should focus on:
+   - character name
+   - signature movement
+   - personality
+   - emotional hook
+   - one simple line
+
+3. **Character Caption / Description**
+
+   Every intro should clearly explain:
+   - character name
+   - personality
+   - role in Pompom Hills
+   - what children may learn with this character
+
+4. **First Story Use**
+
+   After introduction, the character can appear in:
+   - one simple story
+   - one educational episode
+   - one friendship or discovery moment
+
+   Do not immediately place a new character into complex multi-character episodes.
+
+### 3. New Character Cadence
+
+After the first core group is launched, new characters should be introduced slowly.
+
+Default cadence: **one new character every 2–3 months.**
+
+A new character launch should feel like a small event. Recommended launch flow:
+
+| Week | Activity |
+|------|----------|
+| 1 | Teaser Shorts |
+| 2 | Character Introduction Video |
+| 3 | First simple story episode |
+| 4 | Character joins existing world or existing friend |
+
+### 4. First Core Group Exception
+
+The first core group may be introduced faster because the audience needs to understand the initial cast.
+
+Core launch phase:
+- introduce the first 6 characters
+- give each one a clear intro video
+- use Shorts to reinforce recognition
+- then move into educational stories
+
+After the first 6 characters are known, do not continue only with introductions. Shift the main content toward preschool learning stories.
+
+### 5. World Onboarding
+
+Before a reusable world becomes active in regular episodes, create a world introduction package.
+
+**Required before regular use:**
+
+1. **Canon Hero View** — the world must have one approved Hero View.
+2. **World Specification** — the world must have a production-ready World Spec.
+3. **World Introduction Video**
+
+   Create a short world intro before using the world in larger stories.
+
+   Format:
+   - 30–60 seconds for simple worlds
+   - 60–90 seconds for important recurring worlds
+   - no complex plot
+   - one character maximum, or no character
+   - the world itself is the hero
+
+   Example titles: *Welcome to Cloud Hill*, *Let's Visit Flower Hill*, *Kiko's Home Tour*, *Welcome to Central Square*, *Meet Opa's Tree*
+
+4. **World Shorts**
+
+   Each world intro should produce 3–5 Shorts. Shorts should show:
+   - the main landmark
+   - the emotional feeling of the world
+   - one simple action
+   - one visual identity element
+   - one reason children will remember it
+
+### 6. World Introduction Purpose
+
+A world intro video is not just a beautiful environment shot. It must answer:
+
+- What is this place?
+- What feeling does it create?
+- What can children do here?
+- What makes it different from other worlds?
+- What visual element should children remember?
+
+Examples:
+
+| World | Feeling to Convey |
+|-------|-------------------|
+| Cloud Hill | sky, clouds, soft wind, looking up, wonder |
+| Flower Hill | colour, flowers, path, beauty, gentle walking |
+| Central Square | meeting, playing, sharing, community |
+| Kiko's Home | warmth, safety, reading corner, home feeling |
+
+### 7. When a World Does Not Need Introduction
+
+Not every background location needs a world intro. A world intro is required only when the location is:
+
+- reusable
+- canonical
+- visually distinct
+- likely to appear in multiple future episodes
+- important for character or story identity
+
+If a location appears only once as a minor background, it does not require a full onboarding video.
+
+### 8. World Rollout Cadence
+
+Do not introduce all worlds early. Worlds should be rolled out gradually.
+
+Recommended early worlds:
+- Central Square
+- Kiko's Home
+- Cloud Hill
+- Flower Hill
+- Opa's Tree
+
+New worlds should be introduced only when:
+- the story needs them
+- the production pipeline can support them
+- Hero View and World Spec are ready
+- there is a clear episode use case
+
+### 9. Character + World Pairing
+
+When possible, introduce a character with the world that best supports them.
+
+| Character | Paired World(s) |
+|-----------|------------------|
+| Kiko | Kiko's Home / Flower Hill |
+| Luca | Cloud Hill / discovery worlds |
+| Noah | Central Square / building or play stories |
+| Opa | Opa's Tree |
+| Mimi | Flower Hill / nature stories |
+
+This helps children associate characters with places.
+
+### 10. Onboarding Order
+
+Recommended order for any new major character or world:
+
+1. Canon documentation complete
+2. Hero View or character reference approved
+3. Intro video produced
+4. Shorts extracted
+5. First simple story produced
+6. Regular episode use begins
+
+Do not skip the intro stage unless the character or world has already been clearly introduced in previous content.
+
+### 11. Strategic Principle
+
+Pompom Hills grows through recognition. Children need repetition. Parents need clarity.
+
+The audience should not meet too many new characters or worlds at once. Every new character and every important world should feel like a meaningful addition to the universe, not just another asset.
+
+The goal is not to reveal everything quickly. The goal is to build familiarity, trust, and anticipation over time.
+
+---
+
 ## Quality Gates
 
 Every episode must pass these gates before release:
@@ -340,4 +544,4 @@ This happens by building carefully, one episode at a time.
 ---
 
 *This roadmap guides production decisions for the Pompom Hills project.*
-*Last updated: 2 Temmuz 2026*
+*Last updated: 4 Temmuz 2026*
