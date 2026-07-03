@@ -23,11 +23,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 02
 
 ```text
-Continue directly from @image1. The first frame of this video must match @image1 exactly.
+Use Shot 01 video as Video Reference.
 
 Luca and Noah both reaching for the same round yellow ball at Central Square, gentle curiosity on their faces, Big Pompom Tree background, warm morning light, soft pastel colours, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from @image1.
+The opening frame should seamlessly continue from the final frame of Shot 01.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -37,11 +37,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 03
 
 ```text
-Continue directly from @image1. The first frame of this video must match @image1 exactly.
+Use Shot 02 video as Video Reference.
 
 Luca handing the round yellow ball to Noah at Central Square, both children smiling gently, Big Pompom Tree background, warm morning light, soft pastel colours, sharing moment, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from @image1.
+The opening frame should seamlessly continue from the final frame of Shot 02.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -51,11 +51,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 04
 
 ```text
-Continue directly from @image1. The first frame of this video must match @image1 exactly.
+Use Shot 03 video as Video Reference.
 
 Luca and Noah throwing the round yellow ball back and forth at Central Square, both laughing, Noah almost misses and giggles, Big Pompom Tree background, warm morning light, soft pastel colours, playful movement, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from @image1.
+The opening frame should seamlessly continue from the final frame of Shot 03.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -65,11 +65,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 05
 
 ```text
-Continue directly from @image1. The first frame of this video must match @image1 exactly.
+Use Shot 04 video as Video Reference.
 
 Luca and Noah chasing a round yellow ball as it rolls away across Central Square after Noah bounced it, warm morning light, soft pastel colours, gentle chase, Big Pompom Tree in background, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from @image1.
+The opening frame should seamlessly continue from the final frame of Shot 04.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -79,11 +79,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 06
 
 ```text
-Continue directly from @image1. The first frame of this video must match @image1 exactly.
+Use Shot 05 video as Video Reference.
 
 Luca and Noah finding the round yellow ball together beside an existing shrub in Central Square, both children smiling with relief, warm morning light, soft pastel colours, Big Pompom Tree in background, gentle ending, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from @image1.
+The opening frame should seamlessly continue from the final frame of Shot 05.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

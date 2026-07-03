@@ -28,7 +28,9 @@ End with quiet smiling.
 
 Previous shot: Luca and Noah chased the rolling ball together.
 
-This shot begins exactly one frame after Shot 05.
+Use Shot 05 as the Video Reference.
+
+This shot continues seamlessly from the final frame of Shot 05.
 
 No establishing shot.
 No camera reset.
@@ -53,7 +55,9 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Continue from the exact framing of Shot 05.
+Use the previous shot (Shot 05) as the Video Reference.
+
+The opening frame should seamlessly continue from the final frame of Shot 05.
 
 Wide child-eye-level composition.
 
@@ -113,7 +117,7 @@ The moment should feel like two children who found something together and are ha
 
 Use the production generation standard (`00-CORE/17_VIDEO_GENERATION_STANDARD.md`).
 
-First frame: @image1 from Shot 05.
+Previous Shot: Use Shot 05 as Video Reference.
 Location: Central Square.
 Lighting: Warm morning light. Same lighting as Shot 01.
 Ball: Same round yellow ball, found together.

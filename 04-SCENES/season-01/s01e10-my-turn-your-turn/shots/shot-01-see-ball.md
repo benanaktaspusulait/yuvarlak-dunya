@@ -22,6 +22,11 @@ Open with curiosity.
 Luca and Noah discover a round yellow ball in Central Square.
 This should feel like two children finding something playful in the world.
 
+## Opening Hook
+
+The first 3-5 seconds should immediately create curiosity.
+Begin with an interesting visual — two children already in frame, noticing something together.
+
 ---
 
 ## Continuity
@@ -119,6 +124,22 @@ Location: Central Square.
 Lighting: Warm morning light.
 Ball: Same round yellow ball.
 Voice: Luca and Noah established here.
+
+## Scale
+
+Characters should feel small and childlike within Central Square, but must remain readable for facial expression and action.
+
+Use wide framing for environment identity and medium framing for emotional beats.
+
+## Reference Usage
+
+This is the first shot. Use the approved first-frame still as the primary image reference.
+
+The reference image is supplied by the production workflow.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different Central Square, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in
 
 ---
 

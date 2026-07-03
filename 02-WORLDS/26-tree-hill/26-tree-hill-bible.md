@@ -1,14 +1,20 @@
 # Environment Bible — Tree Hill
 
-> **Version 2.0** — Upgraded to new production pipeline standard.
+> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+
+> This document describes the creative definition and production-ready specifications
+> for Tree Hill. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
+> — see `Production Readiness` below.
 
 ---
 
 ```
 Environment ID: ENV-026
-File: (background location)
-Version: 2.1
+File: 02-WORLDS/26-tree-hill/
+Version: 3.0
 Location: World map position 5
+Type: Living World
+Status: Production Ready
 ```
 
 ---
@@ -27,25 +33,208 @@ Sakinlik ve huzur hissi.
 
 ## Why This World Exists ⭐
 
-Tree Hill anchors the series with ancient wisdom and natural grandeur, showing children the respect owed to old-growth forests. The towering trees with their round canopies create a cathedral-like atmosphere that inspires quiet contemplation. It serves as a spiritual center for the world, grounding faster-paced adventures with its timeless stillness.
+Tree Hill anchors the series with ancient wisdom and natural grandeur, showing children the respect owed to old-growth forests. The towering trees with their round canopies create a cathedral-like atmosphere that inspires quiet contemplation. It serves as a spiritual center for the world, grounding faster-paced adventures with its timeless stillness. Tepe, Pompom Hills'in "bilgelik kalbi" olarak tasarlanmıştır — her macera burada bir ağaç gölgesinde oturmaya başlar.
 
 ---
 
-## Emotional Purpose — Why children feel safe/happy here
+## World Structure
 
-Tree Hill, çocukların doğanın kucağında huzur bulduğu bir sığınak. Dev ağaçlar onları korur gibi hissettirir — tıpkı büyükanne gibi. Sessizlik korkutucu değil, sarıcıdır. Kamp ateşi sıcaklık ve birlik duygusu yaratır. Burada "büyümek" güvenlidir.
+Tree Hill tek bir bağlantılı yaşam alanıdır. Dışarıdan orman girişine doğal bir akış sağlar. Bu paylaşımlı alanın içinde yumuşak aktivite bölgeleri doğal olarak ortaya çıkar:
+
+- Ancient Gate (Antik Kapı)
+- Cathedral Canopy (Katedral Taç)
+- Moss Garden (Yosun Bahçesi)
+- Camp Clearing (Kamp Açıklığı)
+- Wisdom Stump (Bilgelik Kütüğü)
+- Sky View Point (Gökyüzü Bakış Noktası)
+
+**Bunlar ayrılmış alanlar değildir.** Tek bir bağlantılı tepe alanı içinde yumuşak
+işlevsel bölgelerdir.
+
+```
+Central Square Yolu (Central Square Yolu)
+    ↓ taş yol
+Ancient Gate (Antik Kapı)
+    ↓
+One Continuous Hill Space
+    (Cathedral Canopy · Moss Garden · Camp Clearing · Wisdom Stump · Sky View Point
+     — yumuşak bölgeler, duvarsız, tek alanın içinde bir arada)
+```
+
+Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler yoktur. Tepe, tek bir yuvarlak ağaç çemberi etrafında doğal bir akış oluşturur.
 
 ---
 
-## Play Philosophy — Open-ended play, imagination, cooperation (no competition)
+## World Zones
 
-Burada belirli bir oyun yok — çocukların hayal gücü devreye girer. Yaprak toplama, yıldız izleme, hikaye anlatma... Hepsi gönüllü, hepsi paylaşarak. Kimse "en iyisini" yapmaz, herkes kendi ritminde keşfeder. Sessizlik bile bir oyun biçimidir.
+### Ancient Gate (Antik Kapı)
+
+- **Purpose:** Tree Hill'e ilk karşılaştığı alan
+- **Emotional Purpose:** Saygı ve merak — "Burası çok özel bir yer"
+- **Typical Activities:** Giriş yapma, ağaçlara dokunma, etrafa bakma
+- **Typical Stories:** Kiko tepeye gelir, en eski ağacı görür
+- **Lighting:** Sabah günışığı, yapraklar arasından
+- **Mood:** Saygılı, sakin, doğal
+- **Important Props:** En eski ağaç, hoş geldin yolu
+- **Camera Usage:** Wide establishing, through-trees entrance
+- **Characters:** Kiko, Tillo, herkes
+- **Transition →** Cathedral Canopy
+
+### Cathedral Canopy (Katedral Taç)
+
+- **Purpose:** Dev ağaçların tavan oluşturduğu alan
+- **Emotional Purpose:** Büyüklük, koruma, huzur
+- **Typical Activities:** Yukarı bakma, taç izleme, nefes alma
+- **Typical Stories:** Kiko yukarı bakar, taçların dansını izler
+- **Lighting:** Yapraklar arasından süzülen ışık
+- **Mood:** Büyüleyici, sakin, koruyucu
+- **Important Props:** Dev ağaç taçları, süzülen ışık
+- **Camera Usage:** Canopy shot, upward angle
+- **Characters:** Kiko, Tillo
+- **Transition →** Moss Garden
+
+### Moss Garden (Yosun Bahçesi)
+
+- **Purpose:** Yumuşak yosun zemininin bulunduğu alan
+- **Emotional Purpose:** Yumuşaklık, doğayla bağlantı, huzur
+- **Typical Activities:** Yosuna dokunma, oturma, yürüyüş
+- **Typical Stories:** Kiko yosunun üstüne oturur, yumuşak hisseder
+- **Lighting:** Gölge, yumuşak
+- **Mood:** Yumuşak, sakin, doğal
+- **Important Props:** Yeşil yosun, yuvarlak taşlar
+- **Camera Usage:** Low angle moss, ground-level shot
+- **Characters:** Kiko, herkes
+- **Transition →** Camp Clearing
+
+### Camp Clearing (Kamp Açıklığı)
+
+- **Purpose:** Kamp ateşi ve toplanma alanı
+- **Emotional Purpose:** Sıcaklık, birlikte olma, güvenlik
+- **Typical Activities:** Ateş izleme, toplanma, sohbet
+- **Typical Stories:** Birlikte ateş başında otururlar
+- **Lighting:** Ateş ışığı, sıcak turuncu
+- **Mood:** Sıcak, samimi, güvenli
+- **Important Props:** Yuvarlak taşlar, güvenli ateş, oturma yerleri
+- **Camera Usage:** Fire-level shot, warm glow
+- **Characters:** Kiko, Tillo, herkes
+- **Transition →** Wisdom Stump
+
+### Wisdom Stump (Bilgelik Kütüğü)
+
+- **Purpose:** Eski bir ağacın kütüğü
+- **Emotional Purpose:** Bilgelik, geçmiş, saygı
+- **Typical Activities:** Oturma, dinleme, düşünme
+- **Typical Stories:** Tillo kütüğe oturur, hikaye anlatır
+- **Lighting:** Yumuşak, doğal
+- **Mood:** Bilge, sakin, saygılı
+- **Important Props:** Büyük, yuvarlak kütük
+- **Camera Usage:** Close-up stump, storytelling frame
+- **Characters:** Tillo, Kiko
+- **Transition →** Sky View Point
+
+### Sky View Point (Gökyüzü Bakış Noktası)
+
+- **Purpose:** Gökyüzünü izleme alanı
+- **Emotional Purpose:** Büyüklük, hayal gücü, sonsuzluk
+- **Typical Activities:** Gökyüzü izleme, yıldız sayma, hayal kurma
+- **Typical Stories:** Kiko gökyüzüne bakar, hayal eder
+- **Lighting:** Açık, yıldız ışığı
+- **Mood:** Açık, hayalperest, sonsuz
+- **Important Props:** Açık gökyüzü, yıldızlar
+- **Camera Usage:** Sky shot, wide view
+- **Characters:** Kiko, herkes
+- **Transition →** Ancient Gate
 
 ---
 
-## Material Language — Soft, rounded, handcrafted, toy-like materials
+## Transition Spaces
 
-Kalın, yuvarlak gövdeler, yumuşak yosun zemin, yuvarlak taçlar. Hiçbir dal sivri değil — her şey kucaklanabilir görünür. Yapraklar büyük ve yumuşak, kamp ateşi oyuncak gibi parlar. Doğanın kendisi burada bir oyuncak haline gelir.
+Bu alanlar bir zone'dan diğerine geçiş sağlar. Geçiş sahneleri için kullanılır.
+
+| Geçiş | Nereden → Nereye | Kullanım |
+|-------|-------------------|----------|
+| Hill Path | Dış → Tepe | Bölüm açılışları |
+| Canopy Walk | Gate → Canopy | Ağaçlar arası |
+| Moss Trail | Canopy → Moss | Yosun bahçesi |
+| Camp Path | Moss → Camp | Kamp alanı |
+| Stump Walk | Camp → Stump | Bilgelik kütüğü |
+| Sky Trail | Stump → Sky | Gökyüzü noktası |
+
+---
+
+## Spatial Relationships
+
+Mekanların birbirini "gördüğü" ve birbirine bağlandığı ilişkiler:
+
+- The ancient gate is always visible from the path.
+- The cathedral canopy can be seen from the entrance.
+- The moss garden is visible from the canopy.
+- The camp clearing is visible from the moss garden.
+- The wisdom stump is visible from the camp clearing.
+- The sky view point provides a view of the entire hill.
+
+---
+
+## Character Flow
+
+Tree Hill'daki doğal hareket kalıpları:
+
+**Sabah Rutini:**
+1. Kiko tepeye giriş yapar (Ancient Gate)
+2. Ağaç taçlarını izler (Cathedral Canopy)
+3. Yosun bahçesinde oturur (Moss Garden)
+4. Kamp açıklığına gider (Camp Clearing)
+
+**Sessiz An:**
+1. Kütüğe oturur (Wisdom Stump)
+2. Gökyüzüne bakar (Sky View Point)
+3. Sessizce oturur (Moss Garden)
+4. Ağaç seslerini dinler (Cathedral Canopy)
+
+**Kamp Zamanı:**
+1. Kamp ateşi yakılır (Camp Clearing)
+2. Hikaye anlatılır (Wisdom Stump)
+3. Yıldızlar izlenir (Sky View Point)
+4. Dinlenilir (Moss Garden)
+
+**Akşam Zamanı:**
+1. Güneş batar (Sky View Point)
+2. Ateş parlar (Camp Clearing)
+3. Sesler diner (Cathedral Canopy)
+4. Uyku zamanı (Camp Clearing)
+
+---
+
+## Living Rules
+
+Tree Hill'i yaşayan bir yer hissettiren küçük kurallar:
+
+- Ağaçlar her zaman eski ve bilge
+- Yosun her zaman yumuşak
+- Taşlar her zaman yuvarlak
+- Ateş her zaman güvenli
+- Sessizlik her zaman sarıcı
+- Gökyüzü her zaman açık
+- Her ağaç bir hikaye anlatır
+- Her yaprak bir sır saklar
+
+---
+
+## Production Readiness
+
+This Living World has been intentionally designed to support AI-assisted world creation.
+
+The canonical creative definition is contained within this document.
+
+A shorter, production-oriented extraction of this Bible — for AI-assisted
+world generation — is maintained separately in
+`26-tree-hill-world-spec.md`. That document is a translation layer, not a
+replacement: this Bible remains the single source of truth.
+
+Implementation-specific production prompts (which AI tool, prompt syntax,
+character limits) are workflow details, not world design, and are kept out
+of both documents deliberately — this Bible and its spec stay valid
+regardless of which generation tool is used today or in the future.
 
 ---
 
@@ -56,6 +245,7 @@ Kalın, yuvarlak gövdeler, yumuşak yosun zemin, yuvarlak taçlar. Hiçbir dal 
 - Gece gökyüzü izleme
 - Hikaye anlatma
 - Doğa etkileşimi
+- Bilgelik arama
 
 ---
 
@@ -63,51 +253,280 @@ Kalın, yuvarlak gövdeler, yumuşak yosun zemin, yuvarlak taçlar. Hiçbir dal 
 
 ```
 Central Square
-    ↓
+    ↓ 1 dakika
 Tree Hill ← BURASI
-    ↓
+    ↓ 2 dakika
 Camping Grove
 Story Circle
 Adventure Trail
 ```
 
+**Komşuları:**
+- Kuzey: Central Square (1 dk)
+- Güney: Camping Grove (2 dk)
+- Doğu: Story Circle (2 dk)
+- Batı: Adventure Trail (2 dk)
+
+**Yol tarifi:**
+Central Square'den güneye doğru yürüyünce Tree Hill'e ulaşılır. Tepeden çıkınca sağa gidilir, Camping Grove'a ulaşılır. Düz devam edilirse Story Circle'a ulaşılır.
+
 ---
 
 ## Exterior
 
-### Genel
+### Genel Görünüm
 
-- Koyu yeşil (#66BB6A)
-- Birçok ağaç
-- Sessiz, huzurlu
-- Kamp alanları
+Büyük, yuvarlak, eski orman tepesi.
+
+Dikdörtgen yok.
+
+Sivri köşe yok.
+
+Her şey yuvarlak ve yumuşak.
+
+**Alan:** ~20 metre çap
+**Ağaç Yüksekliği:** 4-6 metre
+**Şekil:** Yuvarlak tepe, geniş taçlar
 
 ### Ağaçlar
 
-- Farklı boyutlar
-- Yuvarlak taçlar
-- Kalın gövdeler
-- Eski ve bilge
+- Adet: 8-12 (eski, büyük)
+- Biçim: Yuvarlak taçlar, kalın gövdeler
+- Renk: Koyu yeşil (#66BB6A)
+- Gövde: Koyu kahverengi (#5D4037)
+- Yaş: Çok eski, bilge
+
+### Yosun
+
+- Renk: Yeşil (#81C784)
+- Doku: Yumuşak, tüylü
+- Konum: Zemin, taşlar üzerinde
+
+### Taşlar
+
+- Biçim: Yuvarlak, pürüzsüz
+- Renk: Sıcak gri (#BDBDBD)
+- Boyut: Küçük-orta
+- Konum: Yerde, kamp alanında
+
+### Kamp Açıklığı
+
+- Biçim: Yuvarlak, açık
+- Konum: Tepenin merkezi
+- Ateş: Güvenli, contained
+
+### Kütük
+
+- Biçim: Büyük, yuvarlak
+- Renk: Koyu kahverengi
+- Boyut: Oturma yüksekliği
+
+---
+
+## Interior
+
+**Tree Hill açık havada bir tepedir — kapalı iç mekan yoktur.**
+
+Tüm aktiviteler dışarıda gerçekleşir. Ağaç gölgesinde dinlenme alanları vardır.
 
 ---
 
 ## Camera Rules
 
-| Açı | Kullanım |
-|---|---|
-| Through trees | Ağaçlar arasından |
-| Canopy | Tavan yapraklar |
-| Wide | Tüm tepe |
+### Dış Çekimler
+
+| Açı | Kullanım | Not |
+|---|---|---|
+| Through trees | Ağaçlar arasından | Gizli bakış |
+| Canopy | Tavan yapraklar | Büyüklük |
+| Wide | Tüm tepe | Genel görünüm |
+| Low angle | Yerden yukarı | Güçlü |
+
+### Kamera Yüksekliği
+
+- Genel: 0.85 m (göz hizası)
+- Düşük: 0.30 m (yosun seviyesi)
+- Üstten: 2.00 m (ağaç tepesi)
+
+---
+
+## Spatial Layout
+
+### Genel
+
+```
+    Antik Kapı
+        ↓
+    Katedral Taç → Yosun Bahçesi → Kamp Açıklığı
+        ↓
+    Bilgelik Kütüğü → Gökyüzü Bakış
+```
+
+### Detaylı
+
+```
+    [Antik Kapı]
+        ↓
+    [Katedral Taç] ←──→ [Yosun Bahçesi]
+        ↓
+    [Kamp Açıklığı]
+        ↓
+    [Bilgelik Kütüğü] ←──→ [Gökyüzü Bakış]
+```
+
+---
+
+## Permanent Objects
+
+| Obje | Pozisyon | Renk | Not |
+|---|---|---|---|
+| Ağaçlar | Tüm alan | Yeşil+kahverengi | Her zaman eski |
+| Yosun | Zemin | Yeşil | Her zaman yumuşak |
+| Taşlar | Kamp alanında | Gri | Her zaman yuvarlak |
+| Kamp Ateşi | Merkez | Turuncu | Her zaman güvenli |
+| Kütük | Kamp alanında | Kahverengi | Her zaman bilge |
+| Gökyüzü | Üstte | Mavi | Her zaman açık |
+
+---
+
+## Optional Props
+
+| Prop | Ne zaman | Nerede |
+|---|---|---|
+| Battaniye | Uyku sahnesi | Camp Clearing'de |
+| Yaprak | Toplama sahnesi | Moss Garden'da |
+| Taş | Oturma sahnesi | Kamp alanında |
+| Yıldız haritası | Gözlem sahnesi | Sky View'da |
+
+---
+
+## Seasonal Changes
+
+### İlkbahar
+- Yapraklar açar
+- Kuşlar gelir
+- Hava sıcak
+
+### Yaz
+- En çok yaprak
+- En çok gölge
+- Kamp için ideal
+
+### Sonbahar
+- Yapraklar renklenir
+- Dökülme
+- Renk cümbüşü
+
+### Kış
+- Yapraklar dökülür
+- Sessiz
+- İç mekan alternatifi
+
+---
+
+## Time of Day
+
+### Sabah
+- İlk ışık
+- Kuşlar uyanır
+- Yapraklar parlar
+
+### Öğle
+- Güneş tam tepede
+- Gölge maximum
+- Sessiz
+
+### Akşam
+- Altın ışık
+- Ateş yakılır
+- Sessizlik başlar
+
+### Gece
+- Yıldızlar görünür
+- Ateş parlar
+- Hikaye zamanı
+
+---
+
+## Weather
+
+### Güneşli
+- En sık görülen
+- Işık güzel
+- Kamp için ideal
+
+### Rüzgarlı
+- Yapraklar sallanır
+- Sesler güzel
+- Doğal
+
+### Yağmurlu
+- Sessiz
+- Farklı güzellik
+- İç mekan alternatifi
+
+### Sisli
+- Gizemli
+- Büyülü
+- Sessiz
 
 ---
 
 ## Soundscape
 
-| Ses | Kaynak |
-|---|---|
-| Kuş cıvıltısı | Ağaçlarda |
-| Yaprak hışırtısı | Rüzgârda |
-| Ateş çıtırtısı | Kamp ateşi |
+| Ses | Kaynak | Ne zaman |
+|---|---|---|
+| Kuş cıvıltısı | Ağaçlarda | Sabah |
+| Yaprak hışırtısı | Rüzgârda | Her zaman |
+| Ateş çıtırtısı | Kamp ateşi | Gece |
+| Sessizlik | Genel | Her zaman |
+
+---
+
+## Lighting
+
+| Zaman | Işık | Renk | Gölge |
+|---|---|---|---|
+| Sabah | Yapraklar arasından | Sarı-yeşil | Yumuşak |
+| Öğle | Gölge | Yeşil | Maximum |
+| Akşam | Altın ışık | Turuncu-altın | Uzun |
+| Gece | Ateş + yıldız | Turuncu + sarı | Yumuşak |
+
+---
+
+## Texture
+
+| Yüzey | Doku | Not |
+|---|---|---|
+| Ağaç gövdeleri | Doğal, pürüzsüz | Kahverengi |
+| Yosun | Yumuşak, tüylü | Yeşil |
+| Yapraklar | İpeksi, yumuşak | Renkli |
+| Taşlar | Pürüzsüz, yuvarlak | Gri |
+| Zemin | Yumuşak, doğal | Yeşil |
+
+---
+
+## Character Usage
+
+| Karakter | Sıklık | Neden |
+|---|---|---|
+| Tillo | Her bölüm | Bilge |
+| Kiko | Sık sık | Keşifçi |
+| Mimi | Nadiren | Sessiz izleyici |
+| Luca | Nadiren | Tırmanıcı |
+
+---
+
+## Common Actions
+
+| Aksiyon | Nerede | Not |
+|---|---|---|
+| Ağaç izleme | Cathedral Canopy | Büyüklük |
+| Yosunda oturma | Moss Garden | Huzur |
+| Ateş izleme | Camp Clearing | Sıcaklık |
+| Hikaye dinleme | Wisdom Stump | Bilgelik |
+| Gökyüzü izleme | Sky View Point | Hayal gücü |
+| Giriş yapma | Ancient Gate | Saygı |
 
 ---
 
@@ -118,11 +537,69 @@ Adventure Trail
 ✗ Korkutucu ses
 ✗ Kaybolma
 ✗ Sivri dal
+✗ Keskin köşe
+✗ Hızlı hareket
+✗ Büyük kalabalık
+✗ Tehlikeli ateş
+✗ Metal yüzey
+✗ Yapay ortam
 ```
 
 ---
 
+## Animation Rules
+
+### Ağaçlar
+
+| Aksiyon | Frame | Hız |
+|---|---|---|
+| Salınma | 30 frame periyot | Çok yavaş |
+| Yaprak dökme | Sonbaharda | Yavaş |
+
+### Yapraklar
+
+| Aksiyon | Frame | Hız |
+|---|---|---|
+| Düşme | 20 frame | Yavaş |
+| Uçma | 15 frame | Orta |
+| Yere inme | 10 frame | Yavaş |
+
+### Ateş
+
+| Aksiyon | Frame | Hız |
+|---|---|---|
+| çırpınma | 10 frame | Hızlı |
+| Parıltı | 15 frame | Ritmik |
+
+---
+
+## Camera Safe Area
+
+| Obje | Pozisyon | Not |
+|---|---|---|
+| Ağaçlar | Tüm alan | Her zaman görünür |
+| Yosun | Zemin | Her zaman görünür |
+| Kamp Ateşi | Merkez | Her zaman görünür |
+| Tillo | Kütükte | Ana karakter |
+| Kiko | Tillo'nun yanında | Keşifçi |
+
+---
+
+## Asset References
+
+| Asset | Dosya | Kullanım |
+|---|---|---|
+| Tillo | `01-CHARACTERS/drawings/tillo.png` | Bilge |
+| Kiko | `01-CHARACTERS/drawings/kiko.png` | Keşifçi |
+| Tree Hill | `environment/26-tree-hill.png` | Genel görünüm |
+| Ancient Tree | `03-PROPS/Nature/ancient-tree.png` | Eski ağaç |
+| Moss | `03-PROPS/Nature/moss.png` | Yosun |
+
+---
+
 ## Story Opportunities
+
+Her fırsat doğal, sakin ve preschool'a uygundur:
 
 1. Kamp ateşi yakılır
 2. Yıldızlar izlenir
@@ -130,17 +607,49 @@ Adventure Trail
 4. Yaprak toplanır
 5. Sincap görülür
 
+### Ek Fırsatlar (Living World)
+
+6. En eski ağaca dokunurlar
+7. Ağaç taçlarını sayarlar
+8. Yosunun üstünde otururlar
+9. Kütüğe tırmanırlar
+10. Gökyüzünü izlerler
+11. Yaprak dökümünü izlerler
+12. Kuş seslerini dinlerler
+13. Sessizce otururlar
+14. Hikaye anlatırlar
+15. Kamp ateşi söndürürler
+16. Tepeden ayrılırlar
+
 ---
 
-## Consistency Checklist
+## Camera Design
 
-```
-✓ Ağaçlar yuvarlak mı?
-✓ Sessiz mi?
-✓ Güvenli mi?
-✓ Kamp alanı var mı?
-✓ Sivri dal yok mu?
-```
+Tree Hill nasıl çekilir? Kamera tepe alanı içinde doğal hareket eder.
+
+### Genel Akış
+
+1. Wide establishing shot (tüm tepe)
+2. Ancient gate approach (giriş)
+3. Following characters: gate → canopy → moss → camp → stump → sky
+4. Return to gate (dönüş)
+
+### Tipik Kamera Yolları
+
+| Yol | Kullanım |
+|-----|----------|
+| Gate → Canopy | Giriş yapar, yukarı bakar |
+| Canopy → Moss | Taçlardan yosuna |
+| Moss → Camp | Yosundan kampa |
+| Camp → Stump | Kamptan kütüğe |
+| Stump → Sky | Kütükten gökyüzüne |
+| Sky → Gate | Gökyüzünden çıkışa |
+
+### Kamera Yüksekliği
+
+- Genel: 0.85m (göz hizası)
+- Düşük: 0.30m (yosun seviyesi)
+- Üstten: 2.00m (ağaç tepesi)
 
 ---
 
@@ -166,56 +675,79 @@ Close-up of ancient tree bark texture with moss. Round growth rings visible on c
 
 ## OpenArt Production Rules
 
-- Maximum 4 reference images per environment
-- Hero View is mandatory for all OpenArt prompts
-- Consistent deep green (#66BB6A) and warm brown colour palette across all references
-- No characters in any reference images — environment only
-- Trees must appear ancient, wise, and protective
-- Atmosphere must feel calm and safe, never dark or scary
-- Maintain visual consistency with existing ENV-026 asset
+- **Maksimum 4 referans** — Hero View zorunlu
+- Tutarlı aydınlatma ve renk paleti (koyu yeşil #66BB6A, sıcak kahverengi)
+- Referanslarda karakter yok — sadece ortam ve detay
+- Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
+- Ağaçlar her zaman eski, bilge ve koruyucu görünmeli
 
 ---
 
 ## Production Notes
 
-### Best Characters
+- **Best Characters:** Tillo (bilge), Kiko (keşifçi)
+- **Avoid:** Karanlık orman, korkutucu ses, kaybolma, sivri dal
+- **Typical Duration:** 30–60s per scene
+- **Best Emotional Themes:** Bilgelik, sakinlik, doğanın büyüklüğü, zamansızlık
 
-- Tillo (contemplative moments)
-- All characters (camping group scenes)
+---
 
-### Avoid
+## Consistency Checklist
 
-- Dark or threatening forest atmospheres
-- Dead or damaged trees
-- Sharp branches or thorns
-- Feelings of being lost or scared
+```
+✓ Ağaçlar yuvarlak mı?
+✓ Sessiz mi?
+✓ Güvenli mi?
+✓ Kamp alanı var mı?
+✓ Sivri dal yok mu?
+✓ Tüm yüzeyler yumuşak mı?
+✓ Işık yönü tutarlı mı?
+✓ Yosun var mı?
+✓ Gökyüzü görünüyor mu?
+✓ Bilge atmosfer korunuyor mu?
+```
 
-### Typical Duration
+---
 
-30-60 seconds per scene
+## Emotional Purpose
 
-### Best Emotional Themes
+Tree Hill, çocukların doğanın kucağında huzur bulduğu bir sığınak. Dev ağaçlar onları korur gibi hissettirir — tıpkı büyükanne gibi. Sessizlik korkutucu değil, sarıcıdır. Kamp ateşi sıcaklık ve birlik duygusu yaratır. Burada "büyümek" güvenlidir.
 
-- Wisdom and stillness
-- Nature's grandeur
-- Peaceful contemplation
-- Timelessness and respect
+---
+
+## Play Philosophy
+
+Burada belirli bir oyun yok — çocukların hayal gücü devreye girer. Yaprak toplama, yıldız izleme, hikaye anlatma... Hepsi gönüllü, hepsi paylaşarak. Kimse "en iyisini" yapmaz, herkes kendi ritminde keşfeder. Sessizlik bile bir oyun biçimidir.
+
+---
+
+## Material Language
+
+Kalın, yuvarlak gövdeler, yumuşak yosun zemin, yuvarlak taçlar. Hiçbir dal sivri değil — her şey kucaklanabilir görünür. Yapraklar büyük ve yumuşak, kamp ateşi oyuncak gibi parlar. Doğanın kendisi burada bir oyuncak haline gelir.
 
 ---
 
 ## Quality Checklist
 
 ```
-✓ Çocuklar burada güvende hissediyor mu?
-✓ Oyun açık uçlu ve hayal gücüne dayalı mı?
-✓ Malzemeler yumuşak ve yuvarlak mı?
-✓ Rekabet veya yarışma unsuru var mı?
-✓ Sessizlik ve huzur hissi var mı?
-✓ Sivri dal veya korkutucu öğe yok mu?
-✓ Her yaştan çocuk erişebilir mi?
-✓ Duygusal olarak sarıcı mı?
+✓ Children huzur ve korunma hissediyor mu?
+✓ Sınırsız keşfetme alanı var mı?
+✓ Rekabet öğesi yok mu?
+✓ Tüm yüzeyler yumuşak ve yuvarlak mı?
+✓ Doğal, sıcak bir his var mı?
+✓ Işık yapraklar arasından süzülüyor mu?
+✓ Sesler sakin ve doğal mı?
+✓ Hikaye duygusal bir yolculuk sunuyor mu?
 ```
 
 ---
 
-*Bu belge Tree Hill mekanı için production referansıdır.*
+## Production Goal
+
+This Living World is designed to provide a wise, contemplative environment for stories about stillness, nature, and wisdom. The hill's consistent identity supports reliable AI-assisted production while maintaining the timeless warmth essential to Pompom Hills.
+
+---
+
+*Bu belge Tree Hill mekanı için creative referanstır.*
+*Living World Bible v3.0*
+*Son güncelleme: 3 Temmuz 2026*

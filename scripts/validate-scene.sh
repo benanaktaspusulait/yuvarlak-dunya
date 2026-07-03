@@ -1,11 +1,11 @@
 #!/bin/bash
-# validate-scene.sh — Sahne kalite kontrolü (v2)
+# validate-scene.sh — Sahne kalite kontrolü (v3)
 # Kullanım: bash scripts/validate-scene.sh <sahne_dizini>
 
 SCENE_DIR="${1:-.}"
 
 echo "============================================"
-echo "  SAHNE QA KONTROLÜ v2"
+echo "  SAHNE QA KONTROLÜ v3"
 echo "  Dizin: $SCENE_DIR"
 echo "============================================"
 echo
@@ -38,10 +38,10 @@ if [ "$SINGLE_FILE" -eq 1 ]; then
     grep -qi "Shot 01\|Shot 02\|Shot 03\|Shot 04" "$TARGET" && echo "  ✅ Shot yapısı" || { echo "  ❌ Shot yapısı eksik"; ERRORS=$((ERRORS+1)); }
     grep -qi "dialogue\|Kiko:" "$TARGET" && echo "  ✅ Dialogue" || { echo "  ❌ Dialogue eksik"; ERRORS=$((ERRORS+1)); }
     grep -qi "render prompt\|Create a cinematic\|OPENART" "$TARGET" && echo "  ✅ Render Prompt" || { echo "  ❌ Render Prompt eksik"; ERRORS=$((ERRORS+1)); }
-    grep -qi "scale\|8%\|SMALL preschool" "$TARGET" && echo "  ✅ Scale" || echo "  ⚠️  Scale eksik"
+    grep -qi "scale\|SMALL preschool\|%.*frame.*only\|%.*entire frame" "$TARGET" && echo "  ✅ Scale" || echo "  ⚠️  Scale eksik"
     grep -qi "No subtitles\|No text" "$TARGET" && echo "  ✅ Text Safety" || { echo "  ❌ Text Safety eksik"; ERRORS=$((ERRORS+1)); }
-    grep -qi "negative\|NEGATIVE\|reject" "$TARGET" && echo "  ✅ Negative Prompt" || echo "  ⚠️  Negative Prompt eksik"
-    grep -qi "continuity\|previous shot\|continuity frame" "$TARGET" && echo "  ✅ Continuity" || echo "  ⚠️  Continuity eksik"
+    grep -qi "negative\|NEGATIVE" "$TARGET" && echo "  ✅ Negative Prompt" || echo "  ⚠️  Negative Prompt eksik"
+    grep -qi "continuity\|previous shot\|continuity frame\|Video Reference" "$TARGET" && echo "  ✅ Continuity" || echo "  ⚠️  Continuity eksik"
     grep -qi "QA\|quality" "$TARGET" && echo "  ✅ QA bölümü" || echo "  ⚠️  QA eksik"
     echo
 
@@ -76,11 +76,11 @@ else
     echo "2. SHOT-01 KONTROLÜ"
     SHOT01=$(find "$SCENE_DIR/shots" -name "shot-01*.md" 2>/dev/null | head -1)
     if [ -f "$SHOT01" ]; then
-        grep -qi "Opening Hook\|Hook\|ilk saniye\|first second" "$SHOT01" && echo "  ✅ Opening Hook" || echo "  ⚠️  Opening Hook eksik"
-        grep -qi "6-8%\|SMALL preschool\|scale\|%.*frame" "$SHOT01" && echo "  ✅ Scale talimatı" || echo "  ⚠️  Scale eksik"
-        grep -qi "No subtitles\|No text\|no on-screen" "$SHOT01" && echo "  ✅ Text Safety" || { echo "  ❌ Text Safety eksik"; ERRORS=$((ERRORS+1)); }
-        grep -qi "Negative Prompt\|negative prompt\|NEGATIVE\|reject" "$SHOT01" && echo "  ✅ Negative Prompt" || echo "  ⚠️  Negative Prompt eksik"
-        grep -qi "Reference Usage\|reference image\|world reference" "$SHOT01" && echo "  ✅ Reference Usage" || echo "  ⚠️  Reference Usage eksik"
+        grep -qi "Opening Hook\|## Hook\|ilk saniye\|first 3.*second\|first 3-5" "$SHOT01" && echo "  ✅ Opening Hook" || echo "  ⚠️  Opening Hook eksik"
+        grep -qi "Scale\|SMALL preschool\|characters.*small\|childlike.*frame" "$SHOT01" && echo "  ✅ Scale talimatı" || echo "  ⚠️  Scale eksik"
+        grep -qi "No subtitles\|No text\|no on-screen\|No speech bubbles" "$SHOT01" && echo "  ✅ Text Safety" || { echo "  ❌ Text Safety eksik"; ERRORS=$((ERRORS+1)); }
+        grep -qi "## Negative Prompt\|negative prompt\|NEGATIVE\|Reject immediately" "$SHOT01" && echo "  ✅ Negative Prompt" || echo "  ⚠️  Negative Prompt eksik"
+        grep -qi "## Reference Usage\|reference image\|world reference\|first-frame still" "$SHOT01" && echo "  ✅ Reference Usage" || echo "  ⚠️  Reference Usage eksik"
     else
         echo "  ❌ shot-01 bulunamadı"
         ERRORS=$((ERRORS+1))
@@ -99,19 +99,19 @@ else
 
     for f in $(find "$SCENE_DIR/shots" -name "shot-0[2-9]*.md" -o -name "shot-1*.md" 2>/dev/null); do
         # Frame Lock
-        grep -qi "frame zero\|@image1\|continuity frame\|previous shot" "$f" && FRAME_LOCK=$((FRAME_LOCK+1))
+        grep -qi "frame zero\|@image1\|continuity frame\|previous shot\|Video Reference\|Use.*Shot.*as\|Use the previous shot" "$f" && FRAME_LOCK=$((FRAME_LOCK+1))
         
         # Camera Lock
-        grep -qi "identical camera\|same camera\|continuity\|camera position" "$f" && CAMERA_LOCK=$((CAMERA_LOCK+1))
+        grep -qi "identical camera\|same camera\|camera position\|Continue from the exact framing\|seamlessly continue" "$f" && CAMERA_LOCK=$((CAMERA_LOCK+1))
         
         # Lighting Lock
-        grep -qi "first frame must preserve\|lighting.*identical\|same lighting\|colour grading" "$f" && LIGHTING_LOCK=$((LIGHTING_LOCK+1))
+        grep -qi "first frame must preserve\|lighting.*identical\|same lighting as\|colour grading exactly\|Match the lighting" "$f" && LIGHTING_LOCK=$((LIGHTING_LOCK+1))
         
         # Character Presence
-        grep -qi "already present\|character.*present\|Do not introduce" "$f" && CHAR_PRESENCE=$((CHAR_PRESENCE+1))
+        grep -qi "already present\|Do not introduce any character\|characters are already in frame" "$f" && CHAR_PRESENCE=$((CHAR_PRESENCE+1))
         
         # Text Safety
-        grep -qi "No subtitles\|No text\|no on-screen" "$f" && TEXT_SAFETY=$((TEXT_SAFETY+1))
+        grep -qi "No subtitles\|No text\|no on-screen\|No speech bubbles" "$f" && TEXT_SAFETY=$((TEXT_SAFETY+1))
         
         # Dialogue Conflict (hem diyalog var hem "no dialogue" denmiş)
         HAS_DIALOG=$(grep -c "^Kiko:\|^Mimi:\|^Opa:\|^Luca:\|^Noah:\|^Arda:" "$f" 2>/dev/null)
@@ -165,8 +165,8 @@ else
     if [ -f "$SCENE_DIR/09-render-prompts.md" ]; then
         RP_SIZE=$(wc -c < "$SCENE_DIR/09-render-prompts.md")
         [ "$RP_SIZE" -gt 200 ] && echo "  ✅ Render prompts yeterli ($RP_SIZE byte)" || echo "  ⚠️  Render prompts çok kısa ($RP_SIZE byte)"
-        grep -qi "@image1\|@image2\|@image" "$SCENE_DIR/09-render-prompts.md" && echo "  ✅ Image reference kullanılıyor" || echo "  ⚠️  Image reference eksik"
-        grep -qi "No subtitles\|No text" "$SCENE_DIR/09-render-prompts.md" && echo "  ✅ Text Safety" || echo "  ⚠️  Text Safety eksik"
+        grep -qi "@image1\|@image2\|@image\|Video Reference\|Use.*Shot.*as\|Use the previous shot\|first-frame still" "$SCENE_DIR/09-render-prompts.md" && echo "  ✅ Image reference kullanılıyor" || echo "  ⚠️  Image reference eksik"
+        grep -qi "No subtitles\|No text\|No speech bubbles\|No captions" "$SCENE_DIR/09-render-prompts.md" && echo "  ✅ Text Safety" || echo "  ⚠️  Text Safety eksik"
     fi
     echo
 
@@ -184,22 +184,22 @@ else
     grep -qi "colour\|color\|pastel\|warm.*light\|soft.*shadow" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Color Continuity eksik"
     
     # Lighting Continuity
-    grep -qi "lighting\|moonlight\|sunlight\|exposure\|shadow" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Lighting Continuity eksik"
+    grep -qi "lighting\|sunlight\|exposure\|shadow" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Lighting Continuity eksik"
     
     # Camera Continuity
     grep -qi "camera\|35mm\|50mm\|eye level\|wide shot" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Camera Continuity eksik"
     
     # Scale Continuity
-    grep -qi "scale\|6-8%\|SMALL preschool\|%.*frame\|environment hero" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Scale Continuity eksik"
+    grep -qi "Scale\|SMALL preschool\|characters.*small\|childlike.*frame\|environment hero" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Scale Continuity eksik"
     
     # Character Continuity
-    grep -qi "already present\|character.*present\|Do not introduce\|consistency" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Character Continuity eksik"
+    grep -qi "already present\|Do not introduce any character\|characters are already in frame\|consistency" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Character Continuity eksik"
     
     # World Continuity
     grep -qi "LOCKED\|locked\|Do not redesign\|Do not regenerate\|same place" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  World Continuity eksik"
     
     # Frame Continuity
-    grep -qi "frame zero\|@image1\|continuity frame\|previous shot" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Frame Continuity eksik"
+    grep -qi "frame zero\|@image1\|continuity frame\|previous shot\|Video Reference\|Use.*Shot.*as\|Use the previous shot" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Frame Continuity eksik"
     
     echo "  Visual Continuity: $VC_RULES/$VC_TOTAL kural uygulanmış"
     [ "$VC_RULES" -eq "$VC_TOTAL" ] && echo "  ✅ Tüm Visual Continuity kuralları uygulanmış" || { echo "  ⚠️  $((VC_TOTAL-VC_RULES)) kural eksik"; WARNINGS=$((WARNINGS+1)); }

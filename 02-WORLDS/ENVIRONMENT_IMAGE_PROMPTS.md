@@ -60,7 +60,7 @@ Large round pompom tree #81C784 with thick soft trunk #A1887F, wide comfortable 
 ## Flower Hill
 
 ```text
-A gentle hill covered in thousands of round colorful flowers, red #EF5350, yellow #FFD54F, pink #F48FB1, purple #CE93D8, soft green grass #C8E6C9, curved stepping-stone path #E0E0E0, light blue sky #BBDEFB, warm sunlight, most colorful hill in Pompom Hills, no characters, {style}, {lighting}, 16:9
+A gentle hill covered in thousands of round colourful flowers, red #EF5350, yellow #FFD54F, pink #F48FB1, purple #CE93D8, orange #FF7043, at least 5 different colours always visible, dense carpet of flowers, soft green grass #C8E6C9, curved stepping-stone path #E0E0E0 winding through flowers, light blue sky #BBDEFB, warm golden sunlight, most colourful hill in Pompom Hills, gentle breeze moving flowers, no barren ground, no sharp stones, no dark atmosphere, vibrant joyful feeling, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -220,7 +220,7 @@ A forest campsite with round tents, campfire with round stones, night sky watchi
 ## Story Circle
 
 ```text
-A huge ancient storytelling tree with round canopy, round sitting stones in circle around it, warm cozy atmosphere for evening stories, wise safe feeling, no characters, {style}, {lighting}, 16:9
+A huge ancient storytelling tree #5D4037 with wide spreading branches and green leaves #66BB6A, round sitting stones #9E9E9E arranged in circle beneath canopy, warm amber sunlight #FFB74D filtering through leaves creating dappled light patterns, soft green grass #C8E6C9, peaceful wise atmosphere, natural stone path approaching, timeless sacred gathering space, no modern elements, no sharp edges, no noise, wise safe feeling, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---
@@ -245,6 +245,14 @@ A long winding walking trail connecting all natural locations, round colorful st
 
 ```text
 Cozy wooden preschool learning cottage interior, large arched windows with warm golden morning sunlight streaming across the room, rounded wooden ceiling beams, warm wooden floorboards, cream walls with indoor plants everywhere, large round wooden activity table in center with small rounded preschool chairs for 4-6 children, large rounded chalkboard on back wall with simple hand-drawn chalk illustrations of smiling sun mountain tree butterfly rainbow and stars, low wooden bookshelves on side walls with books facing outward small baskets and wooden toy storage, reading corner with soft rug floor cushions tiny bookshelf lantern and stuffed animals, creative corner with paper crayons colour pencils wooden blocks and clay, nature shelf with small globe wooden bird acorns feathers flowers and toy microscope, children's artwork displayed on walls, paper stars, leaf garlands, cloud mobiles, butterflies, small bunting flags, nature posters, animal illustrations, warm morning sunlight, soft window light, gentle bounce lighting, no harsh shadows, warm ambience, no characters, no text, no logos, no blackboard writing, no floating typography, {style}, {lighting}, 16:9
+```
+
+---
+
+## Hobby Horse Trail
+
+```text
+A winding soft nature path with green grass borders #C8E6C9, colourful bunting flags stretching along the path, small low wooden bridge #A1887F, rounded flower arch covered in flowers, bell pole with round bell, hobby horses in 5 colours #F48FB1 #90CAF9 #FFD54F #A5D6A7 #CE93D8 at entrance, round bushes and small pompom trees, warm golden sunlight, playful imaginative atmosphere, no racing no competition no speed, cooperative adventure feeling, no sharp edges, soft rounded handcrafted materials, no characters, no text, no logos, {style}, {lighting}, 16:9
 ```
 
 ---

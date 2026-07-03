@@ -28,7 +28,9 @@ A small laugh and a near-miss make the moment feel alive.
 
 Previous shot: Noah handed the ball back to Luca after bouncing it.
 
-This shot begins exactly one frame after Shot 03.
+Use Shot 03 as the Video Reference.
+
+This shot continues seamlessly from the final frame of Shot 03.
 
 No establishing shot.
 No camera reset.
@@ -44,7 +46,7 @@ Maintain:
 ## Visual Prompt
 
 ```text
-Luca and Noah throwing the round yellow ball back and forth at Central Square, both laughing, Big Pompom Tree background, warm morning light, soft pastel colours, playful movement, no other characters, {style} {camera} {lighting}
+Luca and Noah throwing the round yellow ball back and forth at Central Square, both laughing, Noah almost misses and giggles, Big Pompom Tree background, warm morning light, soft pastel colours, playful movement, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -53,7 +55,9 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Continue from the exact framing of Shot 03.
+Use the previous shot (Shot 03) as the Video Reference.
+
+The opening frame should seamlessly continue from the final frame of Shot 03.
 
 Medium-wide child-eye-level composition.
 
@@ -113,7 +117,7 @@ The moment should feel like two children having simple fun together, with a smal
 
 Use the production generation standard (`00-CORE/17_VIDEO_GENERATION_STANDARD.md`).
 
-First frame: @image1 from Shot 03.
+Previous Shot: Use Shot 03 as Video Reference.
 Location: Central Square.
 Lighting: Warm morning light. Same lighting as Shot 01.
 Ball: Same round yellow ball.

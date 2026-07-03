@@ -5,20 +5,43 @@
 
 ---
 
-## First Frame Lock
+## Production Pipeline
 
-Shot 02+ için:
+Gerçek üretim akışı:
 
-Treat @image1 as the complete visual master reference.
+```
+Shot 01 Image
+    ↓
+Frame to Video
+    ↓
+Shot 01 Video
+    ↓
+Shot 02 (Video Reference: Shot 01 Video)
+    ↓
+Shot 02 Video
+    ↓
+Shot 03 (Video Reference: Shot 02 Video)
+    ↓
+...devam eder
+```
 
-The first visible frame must be visually indistinguishable from @image1.
+---
 
-Only after the first frame matches perfectly may animation begin.
+## First Frame Continuity
 
-Do not reinterpret @image1.
-Do not reposition the camera.
-Do not recompose the scene.
-Do not adjust framing before movement begins.
+When generating this shot, use the previous shot as the Video Reference.
+
+The opening frame should seamlessly continue from the final frame of the previous shot.
+
+The viewer should not perceive a scene cut.
+
+Maintain:
+- character position
+- camera height
+- framing
+- lighting
+- colour grading
+- world identity
 
 ---
 
@@ -43,7 +66,7 @@ Do not generate alternate voices.
 
 Match the colour grading of the previous shot exactly.
 
-Treat the previous shot as the colour master reference. Never rebalance colours between shots.
+The previous shot is the colour master reference. Never rebalance colours between shots.
 
 Maintain:
 - identical white balance
@@ -160,7 +183,7 @@ In each shot file, replace the repeated sections with:
 ```text
 Use the production generation standard (17_VIDEO_GENERATION_STANDARD.md).
 
-First frame: Continue from @image1.
+Previous Shot: Use the previous shot as Video Reference.
 Location: Central Square.
 Lighting: Warm morning light.
 Ball: Same round yellow ball.
@@ -171,4 +194,4 @@ This keeps shot files short and maintainable.
 ---
 
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 1.0*
+*Versiyon: 2.0 — Real Pipeline*

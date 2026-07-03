@@ -29,7 +29,9 @@ Both children chase it together.
 
 Previous shot: Luca and Noah were throwing the ball back and forth, laughing.
 
-This shot begins exactly one frame after Shot 04.
+Use Shot 04 as the Video Reference.
+
+This shot continues seamlessly from the final frame of Shot 04.
 
 No establishing shot.
 No camera reset.
@@ -54,7 +56,9 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Continue from the exact framing of Shot 04.
+Use the previous shot (Shot 04) as the Video Reference.
+
+The opening frame should seamlessly continue from the final frame of Shot 04.
 
 Medium-wide child-eye-level composition.
 
@@ -113,7 +117,7 @@ The moment should feel like a gentle, safe adventure — not danger.
 
 Use the production generation standard (`00-CORE/17_VIDEO_GENERATION_STANDARD.md`).
 
-First frame: @image1 from Shot 04.
+Previous Shot: Use Shot 04 as Video Reference.
 Location: Central Square.
 Lighting: Warm morning light. Same lighting as Shot 01.
 Ball: Same round yellow ball, now rolling away.
