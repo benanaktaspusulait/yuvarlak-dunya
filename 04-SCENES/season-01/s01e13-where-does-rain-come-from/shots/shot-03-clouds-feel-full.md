@@ -33,6 +33,8 @@ Previous shot: Luca asked whether rain comes from the moving cloud.
 
 This shot begins exactly one frame after Shot 02.
 
+Cloud state: the same cloud looks slightly fuller — subtle, still pastel, not dark.
+
 No establishing shot.
 No camera reset.
 No fade in.
@@ -144,7 +146,7 @@ No teacher-style framing.
 ```text
 Mimi: Hmm...
 
-Mimi: It looks... full.
+Mimi: It looks so full.
 
 Luca: Full?
 ```
@@ -188,6 +190,12 @@ The cloud may appear slightly fuller or darker, but the overall colour and light
 No sudden darkening.
 No contrast increase.
 No colour shift.
+
+---
+
+## Emotional Voice Progression
+
+Thinking — quieter, slower. Genuinely working it out.
 
 ---
 

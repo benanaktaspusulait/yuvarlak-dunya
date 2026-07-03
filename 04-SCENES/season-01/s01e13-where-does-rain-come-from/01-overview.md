@@ -1,5 +1,9 @@
 # S01E13 — Where Does Rain Come From
 
+> **Episode Template v1.0 — PRODUCTION READY**
+> Locked 3 July 2026. Do not modify story, pacing, or production pipeline.
+> Update only if a real production run reveals a repeating problem.
+
 ---
 
 ## Duration

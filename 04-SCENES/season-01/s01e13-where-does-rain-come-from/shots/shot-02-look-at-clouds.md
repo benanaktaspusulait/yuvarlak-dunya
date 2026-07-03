@@ -29,6 +29,8 @@ Previous shot: Luca and Mimi climbed Cloud Hill and noticed the large clouds.
 
 This shot begins exactly one frame after Shot 01.
 
+Cloud state: one cloud moves slowly across the sky — same cloud, not a new sky.
+
 No establishing shot.
 No camera reset.
 No fade in.
@@ -143,7 +145,7 @@ Mimi: See that one?
 
 Luca: It's moving!
 
-Luca: Rain comes from there?
+Luca: Is that a rain cloud?
 ```
 
 Keep the last line curious, not answered.
@@ -182,6 +184,12 @@ The cloud may look slightly fuller, but the lighting identity must not change.
 
 No colour shift.
 No sudden darkening.
+
+---
+
+## Emotional Voice Progression
+
+Wonder — warmer, slightly more animated. Something is happening.
 
 ---
 

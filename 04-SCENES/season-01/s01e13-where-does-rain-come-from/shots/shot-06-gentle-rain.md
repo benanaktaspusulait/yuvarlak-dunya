@@ -31,6 +31,8 @@ Previous shot: the first raindrop landed on Luca's hand and Mimi connected it to
 
 This shot begins exactly one frame after Shot 05.
 
+Cloud state: gentle light rain begins — soft, friendly, not scary.
+
 No establishing shot.
 No camera reset.
 No fade in.
@@ -152,6 +154,8 @@ The final line should feel warm and shared.
 
 Leave a quiet hold after the line.
 
+The last 2 seconds are silent — camera holds, both children look up at the clouds, gentle rain continues. No dialogue.
+
 ---
 
 ## Shot Breakdown
@@ -162,7 +166,7 @@ Leave a quiet hold after the line.
 | 3-6 sec | Gentle rain begins | Wide hold |
 | 6-9 sec | Luca and Mimi share a quiet smile | Stable |
 | 9-12 sec | Luca says the final line | Stable |
-| 12-15 sec | Both look back up at the clouds | Wide hold |
+| 12-15 sec | Both look up at the clouds — camera holds, rain continues, no dialogue | Wide hold |
 
 ---
 
@@ -188,6 +192,12 @@ Rain may glisten slightly, but the exposure, white balance and palette must rema
 No colour shift.
 No lighting change.
 No dramatic storm darkness.
+
+---
+
+## Emotional Voice Progression
+
+Warm joyful discovery — full and easy. The best feeling, shared.
 
 ---
 

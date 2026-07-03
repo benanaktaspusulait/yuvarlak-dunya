@@ -32,6 +32,8 @@ No previous shot reference.
 
 Use the approved first-frame still for this shot.
 
+Cloud state: normal soft clouds — Hero View cloud layout.
+
 Maintain:
 - Luca and Mimi character identity
 - Cloud Hill world identity
@@ -46,7 +48,7 @@ Do not redesign Cloud Hill.
 ## Visual Prompt
 
 ```text
-Luca and Mimi from Pompom Hills gently climbing Cloud Hill on a cloudy day, rounded grassy hill, open sky, CH-STONE-01 visible from a distance as the existing Cloud Hill summit stone, soft preschool handcrafted style, grass moving slightly in the wind, Luca notices the large normal soft clouds above and pauses with quiet wonder, Mimi follows his gaze, calm emotional curiosity, no other characters, {style} {camera} {lighting}
+Luca and Mimi from Pompom Hills arriving at Cloud Hill on a cloudy day, Luca pauses and looks up at the large soft clouds, Mimi follows his gaze, rounded grassy hill, open sky, CH-STONE-01 visible from a distance as the existing Cloud Hill summit stone, soft preschool handcrafted style, grass moving slightly in the wind, Luca notices the large normal soft clouds above and pauses with quiet wonder, Mimi follows his gaze, calm emotional curiosity, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text.
 No speech bubbles. No captions. No subtitles. No text.
@@ -132,7 +134,7 @@ Keep a small pause after "Wow..."
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Luca and Mimi climb gently uphill | Wide, child eye level |
+| 0-3 sec | Luca pauses and looks up at the clouds — Mimi follows his gaze | Wide, child eye level |
 | 3-6 sec | Grass moves in soft wind | Stable wide |
 | 6-9 sec | Luca slows and looks up | Slow upward pan begins |
 | 9-12 sec | Mimi follows Luca's gaze | Medium |
@@ -158,6 +160,12 @@ Soft diffused cloudy light.
 No harsh shadows.
 No dramatic storm lighting.
 No colour shift.
+
+---
+
+## Emotional Voice Progression
+
+Curious excitement — soft, open, a little breathless.
 
 ---
 

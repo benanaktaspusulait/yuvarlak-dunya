@@ -32,6 +32,8 @@ Previous shot: Luca and Mimi quietly noticed that the cloud looked full.
 
 This shot begins exactly one frame after Shot 03.
 
+Cloud state: the same cloud becomes slightly darker and heavier — still pastel, not storm.
+
 No establishing shot.
 No camera reset.
 No fade in.
@@ -193,6 +195,12 @@ The first frame must preserve identical lighting from Shot 03.
 No sudden darkening.
 No contrast increase.
 No colour shift.
+
+---
+
+## Emotional Voice Progression
+
+Quiet anticipation — almost a whisper. Waiting, listening.
 
 ---
 

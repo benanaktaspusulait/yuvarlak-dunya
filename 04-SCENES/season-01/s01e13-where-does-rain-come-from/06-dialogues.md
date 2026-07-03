@@ -27,12 +27,12 @@ Leave room for silence, looking, thinking, waiting, and watching.
 | 02 | Luca | "It's moving!" |
 | 02 | Luca | "Is that a rain cloud?" |
 | 03 | Mimi | "Hmm..." |
-| 03 | Mimi | "It looks... full." |
+| 03 | Mimi | "It looks so full." |
 | 03 | Luca | "Full?" |
 | 04 | Luca | "It's quiet." |
 | 04 | Mimi | "Listen." |
 | 05 | Luca | "A drop." |
-| 05 | Mimi | "From the cloud." |
+| 05 | Mimi | "The cloud!" |
 | 06 | Luca | "Hello, rain!" |
 
 ---

@@ -30,6 +30,8 @@ Previous shot: Luca held out his hand while he and Mimi waited quietly.
 
 This shot begins exactly one frame after Shot 04.
 
+Cloud state: the first small raindrop falls from that cloud.
+
 No establishing shot.
 No camera reset.
 No fade in.
@@ -145,7 +147,7 @@ No dramatic reveal.
 ```text
 Luca: A drop.
 
-Mimi: From the cloud.
+Mimi: The cloud!
 ```
 
 Keep a quiet pause after the drop lands before Luca speaks.
@@ -188,6 +190,12 @@ Rain may glisten slightly, but the exposure, white balance and palette must rema
 
 No colour shift.
 No lighting change.
+
+---
+
+## Emotional Voice Progression
+
+Gentle surprise — small voice, wide-eyed. Not loud, not dramatic.
 
 ---
 
