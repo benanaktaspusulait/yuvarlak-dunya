@@ -6,10 +6,18 @@
 
 ```
 Environment ID: ENV-013
-File: environment/13-rosies-rose-garden.png
+File: environment/13-rosies-rose-garden/
 Version: 2.1
 Location: Flower Hill doğusu
+Type: Outdoor Garden
+Status: Design Approved — World Spec Ready
 ```
+
+> The canonical creative definition is contained within this document.
+> A shorter, production-oriented extraction for AI-assisted world generation
+> is maintained separately in `13-rosies-rose-garden-world-spec.md`.
+> That document is a translation layer, not a replacement: this Bible
+> remains the single source of truth.
 
 ---
 
@@ -59,23 +67,11 @@ Rosie's Rose Garden, çocukların doğanın zarafetini ve renk zenginliğini ke�
 
 ---
 
-## Canonical OpenArt Reference Pack
+## Production Readiness
 
-| Ref | Adı | Açıklama |
-|---|---|---|
-| Reference 01 | Hero View | %100 ortam, karakter yok — tam bahçe panoraması, pembe güller, kalp çiçekler, kelebekler |
-| Reference 02 | Entrance View | Giriş açısı — beyaz alçak çit, davetkar geçit, içeri görünen gülleri labirenti |
-| Reference 03 | Trail View | Orta mesafe ortam — bahçe yolları, çit detayları, çiçek tarhları |
-| Reference 04 | Detail View | Yakın detay — gül yaprağı, kelebek, kalp şeklinde çiçek, renk paleti |
-
----
-
-## OpenArt Production Rules
-
-- **Maksimum 4 referans** — Hero View zorunlu
-- Tutarlı aydınlatma ve renk paleti (pembe-kırmızı-sarı pastel tonlar)
-- Referanslarda karakter yok — sadece ortam ve çiçek detayları
-- Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
+Bu mekan prompt bazlı üretim için hazırdır.
+Production promptları ve generation workflow detayları `13-rosies-rose-garden-world-spec.md` dosyasında tutulur.
+Bu Bible yaratıcı referans olarak kalır — tool-specific prompt syntax burada yer almaz.
 
 ---
 
