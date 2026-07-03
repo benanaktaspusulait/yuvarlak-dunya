@@ -1,111 +1,170 @@
-# Shot 04 — Welcome
+# POMPOM HILLS
+# S01E02 — Kiko's Home Tour
+# SHOT 04 — Warm Goodbye
 
-> **Parent Episode:** S01E02 — Kiko's Home Tour
-> **Shot:** 04 of 04 | **Duration:** 12–15 seconds
-> **@image1 = Shot 03 last frame**
+==================================================
+PURPOSE
+==================================================
 
----
+End the episode with a warm, memorable farewell.
 
-## Scene Context
+This is not another house tour.
 
-| Alan | Değer |
-|------|-------|
-| Episode | Kiko's Home Tour |
-| Shot | 04 / 04 |
-| Duration | 3 seconds |
-| Location | Kiko's Home — Interior |
-| Characters | Kiko |
+This is an emotional ending that leaves children looking forward to the next episode.
 
----
+==================================================
+CONTINUITY
+==================================================
 
-## Continuity
+This shot begins exactly one frame after Shot 03.
 
-**@image1 = Shot 03 last frame**
-**Lighting lock:** First frame must preserve identical interior lighting from Shot 03.
-
-The first frame of this shot MUST be visually identical to @image1.
-
-Begin animation from that exact frame.
+The first frame MUST match @image1 exactly.
 
 No establishing shot.
-No camera reposition.
-No camera zoom.
-No scene reset.
+
+No camera reset.
+
 No fade in.
 
-The viewer must feel that this shot starts one frame after the previous shot ended.
+No zoom.
 
-Kiko is in the centre of the room after the tour.
+Maintain the same camera position, lighting, colour profile and atmosphere established in Shot 03.
 
----
+Apply all Pompom Hills Visual Continuity Rules.
 
-## Visual Prompt
+==================================================
+SCENE
+==================================================
 
-```
-Use @image1 (Shot 03 last frame) as continuity reference.
-Continue seamlessly from the previous shot.
+Kiko is standing near the reading corner after finishing the short house tour.
 
-Kiko stands in the middle of the room. She faces camera. She smiles warmly. She waves.
+She looks around her cozy home with a happy smile.
 
-WORLD: Kiko's Home interior. LOCKED.
-CHARACTER: Kiko — no redesign.
-SCALE: Kiko ~8% of frame.
-CAMERA: Interior wide. Static. Child eye level. Kiko remains in place. Do not walk.
-LIGHTING: Warm interior light.
-NEGATIVE: No text, no redesigned interior.
-```
+If the storybook is already visible nearby, Kiko gently hugs it.
 
----
+If not, she simply places one hand over her heart.
 
-## Dialogue
+She then turns back toward the camera.
 
-```
-Kiko: Next time I'll show you even more!
-```
+She smiles warmly.
 
----
+Dialogue:
 
-## Character Signature
+"I'm so happy you visited my home!"
 
-Kiko's signature warm smile and gentle farewell wave — the interior version of her welcoming gesture.
+She gives a gentle wave.
 
----
+Near the end, she may take one small gentle step toward the camera.
 
-## Shot Breakdown
+Dialogue:
 
-| Time | Action | Camera |
-|------|--------|--------|
-| 12–13 sn | Kiko faces camera, smiles | Interior wide, static |
-| 13–14 sn | Kiko waves, speaks | Interior wide, static |
-| 14–15 sn | Hold — warm smile | Interior wide, static |
+"I can't wait to show you even more of Pompom Hills!"
 
----
+She waves again.
 
-## Sound
+Hold the smile naturally for a moment.
 
-- Soft indoor ambience
-- Kiko's voice (warm, welcoming)
-- Gentle musical sting at end
+Fade out slowly.
 
----
+==================================================
+CAMERA
+==================================================
 
-## Lighting
+Interior wide shot.
 
-Warm interior light — safe, complete.
+Static camera.
 
----
+Child eye level.
 
-Kiko is already present at the beginning of the shot.
+No camera repositioning.
 
-Do not introduce Kiko after the shot has started.
+No walking camera.
 
-## QA Checklist
+No cuts.
 
-- [ ] First frame matches @image1 exactly
-- [ ] Visual continuity preserved from Shot 03
-- [ ] Character integrity and consistency verified
-- [ ] Object persistence verified
-- [ ] No rendering artefacts
-- [ ] Camera consistency verified
-- [ ] Lighting consistency verified
-- [ ] Canonical rules followed
+Only a very subtle natural breathing motion if needed.
+
+==================================================
+CHARACTER
+==================================================
+
+Kiko mostly remains in place.
+
+Near the end, she may take one small gentle step toward the camera.
+
+Only small natural movements:
+
+• blinking
+• breathing
+• smiling
+• gentle wave
+• small head tilt
+• hugging the storybook if it is already visible nearby
+• placing one hand over her heart if the storybook is not visible
+• one small step toward the camera near the end
+
+==================================================
+LIGHTING
+==================================================
+
+Apply Pompom Hills Visual Continuity Rules.
+
+Maintain the identical interior lighting, colour temperature, exposure and atmosphere from Shot 03.
+
+==================================================
+EMOTION
+==================================================
+
+Warm.
+
+Safe.
+
+Calm.
+
+Loving.
+
+Preschool friendly.
+
+The ending should feel like saying goodbye to a friend.
+
+==================================================
+NEGATIVE
+==================================================
+
+No redesign.
+
+No new room.
+
+No new furniture.
+
+No new characters.
+
+No subtitles.
+
+No on-screen text.
+
+No duplicated objects.
+
+No duplicated limbs.
+
+No fast movement.
+
+No sudden camera motion.
+
+No colour shift.
+
+No lighting change.
+
+No world reset.
+
+==================================================
+QA CHECKLIST
+==================================================
+
+- [ ] First frame matches @image1 exactly.
+- [ ] Visual continuity preserved from Shot 03.
+- [ ] Character continuity preserved.
+- [ ] Voice continuity preserved.
+- [ ] Lighting continuity preserved.
+- [ ] Colour continuity preserved.
+- [ ] Episode ends with a warm emotional farewell.

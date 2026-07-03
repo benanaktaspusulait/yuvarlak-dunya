@@ -262,7 +262,7 @@ WORLD: Kiko's Home interior. LOCKED.
 CHARACTER: Kiko — no redesign.
 SCALE: Kiko 15–20% of frame.
 CAMERA: Interior wide shot. Static. Child eye level. Kiko remains in place. Do not walk.
-LIGHTING: Warm interior light.
+LIGHTING: Apply Pompom Hills Visual Continuity Rules. Maintain identical interior colour profile from Shot 03.
 NEGATIVE: No text, no redesigned interior.
 ```
 
