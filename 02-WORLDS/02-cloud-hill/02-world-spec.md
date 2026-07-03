@@ -1,16 +1,16 @@
 # Cloud Hill — World Specification
 
-> Aligned with Bible v5.2.
-> Source of truth: `01-world-bible.md`. Primary visual reference: `00-hero-view.png`.
-> This document is a dense generation instruction set — not a summary of the Bible.
-> **Whenever text and image appear to disagree, the Hero View takes precedence.**
+> This specification defines the canonical Cloud Hill world.
+> Primary visual reference: the uploaded reference image.
+> This document is a dense generation instruction set.
+> **If this specification and the uploaded reference image disagree, follow the uploaded reference image.**
 
 ---
 
 ## Canonical Reference
 
 ```
-Primary Reference : 00-hero-view.png — Cloud Hill Hero View v1
+Primary Reference : The uploaded reference image supplied with this specification
 Status            : Canon — accepted 3 July 2026
 Overrides         : All previous text-only descriptions of hill shape,
                     cloud layout, stone position, and sky ratio
@@ -19,16 +19,16 @@ Overrides         : All previous text-only descriptions of hill shape,
 This image is the visual definition of Cloud Hill. Every future generation
 must match the silhouette, sky composition, stone position, and colour
 register of this image. If a generated hill does not immediately resemble
-the Hero View silhouette on first glance, reject it.
+the uploaded reference image on first glance, reject it.
 
 ---
 
 ## Identity
 
-- **The Canon Hero View is the visual source of truth.** Text descriptions
+- **The uploaded reference image is the visual source of truth.** Text descriptions
   below are secondary to the image.
 - One perfectly smooth grass dome with a broad rounded summit — silhouette
-  must match the Canon Hero View exactly.
+  must match the uploaded reference image exactly.
 - CH-STONE-01 visible at the summit, slightly right of centre — this stone
   is the primary visual anchor of the summit. When the summit is visible,
   the stone should normally be visible unless deliberately hidden by framing.
@@ -44,7 +44,7 @@ the Hero View silhouette on first glance, reject it.
 
 ## Hero View Composition
 
-The Canon Hero View defines the canonical composition. All wide shots derive from it.
+The uploaded reference image defines the canonical composition. All wide shots derive from it.
 
 | Zone | Frame % |
 |------|:-------:|
@@ -65,7 +65,7 @@ The Canon Hero View defines the canonical composition. All wide shots derive fro
 
 | Asset ID | Element | Hex |
 |----------|---------|-----|
-| CH-GRASS-01 | Grass | #A5D6A7 — note: Hero View reads slightly brighter; both acceptable |
+| CH-GRASS-01 | Grass | #A5D6A7 — note: uploaded reference image reads slightly brighter; both acceptable |
 | CH-SKY-LOW | Sky at horizon | #E3F2FD |
 | CH-SKY-HIGH | Sky at zenith | #BBDEFB |
 | CH-CLOUD-A | Large cloud (upper left) | #F5F5F5 |
@@ -84,7 +84,7 @@ No neon. No pure black. No cool shift in daytime.
 
 | Asset ID | Description |
 |----------|-------------|
-| CH-HILL-DOME | Full-width smooth grass dome — silhouette must match Canon Hero View |
+| CH-HILL-DOME | Full-width smooth grass dome — silhouette must match the uploaded reference image |
 | CH-SUMMIT | Broad rounded plateau at top |
 | CH-STONE-01 | Flat round grey stone, 40 cm × 15 cm, summit right-of-centre — **primary visual anchor** |
 | CH-CLOUD-A | Large rounded cumulus, upper left |
@@ -126,7 +126,7 @@ Summit arrival — sky opening moment — must not be skipped.
 
 | Failure | Fix |
 |---------|-----|
-| Hill silhouette does not match Hero View | Reject — regenerate referencing Canon Hero View |
+| Hill silhouette does not match uploaded reference image | Reject — regenerate referencing the uploaded reference image |
 | Sky < 60% of frame | Reframe upward or regenerate |
 | Grey or dark clouds | Reject — CH-CLOUD must be fully white |
 | Jagged hill silhouette | Reject — smooth dome only |
