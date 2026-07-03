@@ -206,3 +206,4 @@ Freya a gentle nature-loving girl introducing herself in Lily's Lavender Farm, P
 ## Negative Prompt
 
 Use `NEGATIVE_PROMPTS.md` common negative prompt.
+- No subtitles burned into video. No text on screen. No captions.

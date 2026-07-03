@@ -206,3 +206,4 @@ Sofia a cheerful creative girl introducing herself in Rosie's Rose Garden, Pompo
 ## Negative Prompt
 
 Use `NEGATIVE_PROMPTS.md` common negative prompt.
+- No subtitles burned into video. No text on screen. No captions.

@@ -209,3 +209,4 @@ Mirnik a playful orange tabby kitten introducing himself in Little Forest, Pompo
 ## Negative Prompt
 
 Use `NEGATIVE_PROMPTS.md` common negative prompt.
+- No subtitles burned into video. No text on screen. No captions.

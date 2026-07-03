@@ -256,6 +256,7 @@ Reject immediately if any of these happen:
 - Mimi's bush missing or changed
 - Environment regenerated
 - New environment created
+- No subtitles burned into video. No text on screen. No captions.
 - Different flowers or landscape
 - Different world layout
 - Extra buildings

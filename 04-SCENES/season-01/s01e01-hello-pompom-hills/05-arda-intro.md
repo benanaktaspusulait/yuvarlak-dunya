@@ -112,3 +112,4 @@ Arda a joyful laughing toddler boy introducing himself in Friendship Meadow, Pom
 ## Negative Prompt
 
 Use `NEGATIVE_PROMPTS.md` common negative prompt.
+- No subtitles burned into video. No text on screen. No captions.

@@ -206,3 +206,4 @@ Tillo a gentle rabbit gardener introducing himself in Pompom Hills, 85 units tal
 ## Negative Prompt
 
 Use `NEGATIVE_PROMPTS.md` common negative prompt.
+- No subtitles burned into video. No text on screen. No captions.

@@ -253,6 +253,7 @@ Reject immediately if any of these happen:
 - Benches or lamp posts shrink
 - Environment regenerated
 - New environment created
+- No subtitles burned into video. No text on screen. No captions.
 - Different flowers
 - Different landscape
 - Different world layout

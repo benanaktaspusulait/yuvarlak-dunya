@@ -202,3 +202,4 @@ Amara a joyful girl introducing herself in Friendship Meadow, Pompom Hills, 100 
 ## Negative Prompt
 
 Use `NEGATIVE_PROMPTS.md` common negative prompt.
+- No subtitles burned into video. No text on screen. No captions.

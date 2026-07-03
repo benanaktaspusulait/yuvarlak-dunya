@@ -205,3 +205,4 @@ Aiko a calm thoughtful girl introducing herself in Butterfly Meadow, Pompom Hill
 ## Negative Prompt
 
 Use `NEGATIVE_PROMPTS.md` common negative prompt.
+- No subtitles burned into video. No text on screen. No captions.
