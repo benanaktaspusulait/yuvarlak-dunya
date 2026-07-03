@@ -18,12 +18,32 @@ The first 3-5 seconds should immediately create curiosity.
 
 ---
 
+## Background Object Lock
+
+The background is locked from the first frame of this shot.
+
+Maintain all visible background objects throughout the entire video.
+
+Do not remove, replace, repaint or transform any visible background object.
+
+If a tree is visible, it remains the same tree.
+If a path is visible, it remains the same path.
+If a bush is visible, it remains the same bush.
+If a house is visible, it remains the same house.
+If a landmark is visible, it remains in the same relative position.
+
+Do not introduce new trees or remove existing background objects.
+Do not reinterpret the environment during the shot.
+
+Only the main characters and any props may move unless camera movement naturally changes what is visible.
+
 ## Visual Prompt
 
 ```text
 Arda arrives at Opa's Tree at sunset. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Wide, 35mm, static, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+The Pompom Hills background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
 ```
 
 ---
@@ -88,6 +108,13 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
+- [ ] Background objects visible in the first frame remain stable.
+- [ ] No background object disappears or is replaced.
+- [ ] Environment is not reinterpreted during the shot.
+- [ ] No background object morphing.
+- [ ] No new environment elements appear.
+- [ ] Camera movement does not cause background repainting.
+- [ ] Same physical location is preserved throughout the shot.
 
 
 ## Scale

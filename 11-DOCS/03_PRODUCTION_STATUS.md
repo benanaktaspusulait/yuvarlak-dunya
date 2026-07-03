@@ -9,7 +9,7 @@
 
 | Area | Status |
 |------|--------|
-| **Date** | 2 Temmuz 2026 |
+| **Date** | 3 Temmuz 2026 |
 | **Phase** | Phase 1 — Foundation |
 | **Season** | Season 1 |
 
@@ -22,11 +22,12 @@
 | Metric | Count |
 |--------|-------|
 | **Planned** | 26 |
-| **Produced** | 2 |
+| **Produced** | 3 |
 | **Released** | 0 |
 
 | Episode | Title | Status |
 |---------|-------|--------|
+| S01E10 | My Turn, Your Turn | ✅ Produced |
 | S01E11 | İyi Geceler Ağaç | ✅ Produced |
 | S01E14 | Yıldızlar Ne Söyler | ✅ Produced |
 
@@ -34,11 +35,11 @@
 
 | Metric | Count |
 |--------|-------|
-| **Produced** | 7 |
+| **Produced** | 15 |
 | **Released** | 0 |
 
-| Short | Character | Status |
-|-------|-----------|--------|
+| Short | Character/Episode | Status |
+|-------|-------------------|--------|
 | Kiko Intro | Kiko | ✅ |
 | Mimi Intro | Mimi | ✅ |
 | Arda Intro | Arda | ✅ |
@@ -46,6 +47,14 @@
 | Noah Intro | Noah | ✅ |
 | Luca Intro | Luca | ✅ |
 | Opa Intro v2 | Opa | ✅ |
+| A Ball! | S01E10 | ✅ |
+| Can I Try? | S01E10 | ✅ |
+| Your Turn | S01E10 | ✅ |
+| Again! | S01E10 | ✅ |
+| Oh No! The Ball! | S01E10 | ✅ |
+| Together! | S01E10 | ✅ |
+| Can We Share? | S01E10 | ✅ |
+| The Ball Rolled Away! | S01E10 | ✅ |
 
 ### Facebook Stories
 
@@ -73,7 +82,7 @@
 | Metric | Count |
 |--------|-------|
 | **Produced** | 0 |
-| **Needed** | 33 (26 episodes + 7 shorts) |
+| **Needed** | 41 (26 episodes + 15 shorts) |
 
 ---
 
@@ -92,9 +101,11 @@
 
 | Item | Status |
 |------|--------|
+| S01E10 ready to publish | ⏳ Awaiting channel creation |
 | S01E11 ready to publish | ⏳ Awaiting channel creation |
 | S01E14 ready to publish | ⏳ Awaiting channel creation |
 | 7 character intros ready | ⏳ Awaiting channel creation |
+| 8 S01E10 shorts ready | ⏳ Awaiting channel creation |
 
 ---
 
@@ -105,7 +116,7 @@
 | Batch 1 | S01E01, S01E02, S01E03 | Not started |
 | Batch 2 | S01E04, S01E05, S01E06 | Not started |
 | Batch 3 | S01E07, S01E08, S01E09 | Not started |
-| Batch 4 | S01E10, S01E11, S01E12 | S01E11 produced |
+| Batch 4 | S01E10, S01E11, S01E12 | S01E10 + S01E11 produced |
 | Batch 5 | S01E13, S01E14, S01E15 | S01E14 produced |
 
 ---
@@ -197,4 +208,4 @@
 
 *This document tracks the current state of production.*
 *This document changes frequently.*
-*Last updated: 2 Temmuz 2026*
+*Last updated: 3 Temmuz 2026*

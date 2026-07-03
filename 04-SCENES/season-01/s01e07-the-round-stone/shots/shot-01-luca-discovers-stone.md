@@ -40,12 +40,32 @@ Do not redesign the environment.
 
 ---
 
+## Background Object Lock
+
+The background is locked from the first frame of this shot.
+
+Maintain all visible background objects throughout the entire video.
+
+Do not remove, replace, repaint or transform any visible background object.
+
+If a tree is visible, it remains the same tree.
+If a path is visible, it remains the same path.
+If a bush is visible, it remains the same bush.
+If a house is visible, it remains the same house.
+If a landmark is visible, it remains in the same relative position.
+
+Do not introduce new trees or remove existing background objects.
+Do not reinterpret the environment during the shot.
+
+Only the main characters and any props may move unless camera movement naturally changes what is visible.
+
 ## Visual Prompt
 
 ```text
 Luca from Pompom Hills walking among rounded rocks on Stone Hill, spots a round flat stone on the ground, bends down to pick it up, examines it with a curious expression, warm morning sunlight, Stone Hill environment with rounded rock formations, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+The Stone Hill background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
 ```
 
 ---
@@ -133,6 +153,13 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
+- [ ] Background objects visible in the first frame remain stable.
+- [ ] No background object disappears or is replaced.
+- [ ] Environment is not reinterpreted during the shot.
+- [ ] No background object morphing.
+- [ ] No new environment elements appear.
+- [ ] Camera movement does not cause background repainting.
+- [ ] Same physical location is preserved throughout the shot.
 
 ## Opening Hook
 
