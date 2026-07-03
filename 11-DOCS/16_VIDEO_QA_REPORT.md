@@ -122,18 +122,31 @@ Issues: [None / List issues]
 
 ---
 
+## Production Continuity Gate
+
+| Gate | Result | Notes |
+|------|--------|-------|
+| Voice QA | ✅ Pass / ❌ Fail | Same identity, pitch, timbre, speed, pronunciation, accent, emotional tone, recording quality |
+| Colour QA | ✅ Pass / ❌ Fail | Same white balance, exposure, colour temperature, saturation, contrast, brightness, pastel palette |
+| Lighting QA | ✅ Pass / ❌ Fail | Same light direction, intensity, shadow softness, ambient lighting, highlight behaviour |
+
+If any gate fails, Production Ready must be NO.
+
+---
+
 ## Quality Score
 
 | Category | Weight | Score | Weighted |
 |----------|:------:|:-----:|:--------:|
 | Voice Identity | 15% | /10 | |
 | Colour Identity | 15% | /10 | |
-| Character Integrity | 15% | /10 | |
+| Lighting Continuity | 15% | /10 | |
+| Character Integrity | 10% | /10 | |
 | Character Consistency | 10% | /10 | |
 | World / Environment Consistency | 10% | /10 | |
 | Object Persistence | 10% | /10 | |
-| Asset Consistency | 10% | /10 | |
-| Spatial Continuity | 10% | /10 | |
+| Asset Consistency | 5% | /10 | |
+| Spatial Continuity | 5% | /10 | |
 | Rendering Quality | 5% | /10 | |
 | **Total** | **100%** | | **/10** |
 

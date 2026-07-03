@@ -1,13 +1,13 @@
-# E13 — Shot 02 — They Look at Big Clouds
+# E13 — Shot 02 — Looking at the Moving Cloud
 
 ---
 
 ## Scene Context
 
-| Alan | Değer |
-| --- | --- |
+| Field | Value |
+|---|---|
 | Episode | S01E13 — Where Does Rain Come From |
-| Shot | 02 / 04 |
+| Shot | 02 / 06 |
 | Duration | 15 seconds |
 | Location | Cloud Hill |
 | Characters | Luca, Mimi |
@@ -15,61 +15,37 @@
 
 ---
 
+## Purpose
+
+Let the children notice one cloud together.
+
+The audience should begin to wonder about rain with Luca, without receiving an explanation.
+
+---
+
 ## Continuity
 
-Previous shot: Luca and Mimi climbed Cloud Hill and looked up.
+Previous shot: Luca and Mimi climbed Cloud Hill and noticed the large clouds.
 
-This shot continues at the top of the hill.
+This shot begins exactly one frame after Shot 01.
+
+No establishing shot.
+No camera reset.
+No fade in.
+No zoom.
+
+Maintain:
+- same character positions from the end of Shot 01
+- same Cloud Hill location
+- same soft cloudy lighting
+- same colour identity
+- same atmosphere
 
 ---
 
 ## Start Frame
 
-Match the approved continuity reference image from the previous shot.
-
-Continue naturally from the supplied continuity image.
-
-Use the continuity image as the exact starting composition.
-
-Do not reinterpret the starting frame.
-
-Maintain:
-- camera distance
-- character positions
-- lighting
-- world proportions
-- world identity
-
-Luca and Mimi at the top of Cloud Hill.
-
-Maintain:
-- Character appearance
-- Cloud Hill environment
-- Cloudy lighting
-- Camera composition
-- Character proportions
-
-Do not redesign the environment.
-
-Luca is already present at the beginning of the shot.
-
-Do not introduce Luca after the shot has started.
-
-The supplied continuity frame is also the lighting reference for this shot.
-
----
-
-## Visual Prompt
-
-```text
-Luca and Mimi standing on Cloud Hill looking up at large rain clouds forming, clouds dark and heavy, wind blowing gently, soft diffused light, Cloud Hill with grass bending in wind, no other characters, {style} {camera} {lighting}
-
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-```Continue directly from @image1.
+Continue directly from @image1.
 
 The first frame of this video must match @image1 exactly.
 
@@ -77,25 +53,64 @@ Treat @image1 as frame zero.
 
 The animation begins only after the first frame has matched @image1 exactly.
 
-Use @image1 as the exact starting composition.
-
 Do not reinterpret @image1.
-
 Do not reposition the camera.
-
 Do not recompose the scene.
-
 Do not adjust framing before movement begins.
-
-Continue the action naturally from @image1.
 
 ---
 
-## Reference Usage
+## Visual Prompt
 
-Previous shot reference: Luca and Mimi climbing.
+```text
+Luca and Mimi standing on Cloud Hill, looking up at one large cloud drifting slowly across the sky, the grass bends gently in the wind, Mimi quietly points to the moving cloud, Luca watches with curiosity, soft diffused cloudy light, preschool friendly wonder, no other characters, {style} {camera} {lighting}
 
-The reference image is supplied by the production workflow and should not be hardcoded into this document.
+Match the lighting and colour grading exactly from @image1.
+Treat the previous shot as the colour master reference. Never rebalance colours between shots.
+Maintain identical white balance, warmth, exposure, saturation and contrast.
+Avoid any colour shift or cinematic grading.
+
+Do not display dialogue as on-screen text.
+No speech bubbles. No captions. No subtitles. No text.
+```
+
+---
+
+## Voice Continuity
+
+The speaking voices MUST remain identical to Shot 01.
+
+Maintain:
+- same Luca voice identity
+- same Mimi voice identity
+- same pitch
+- same timbre
+- same speaking speed
+- same warmth
+- same preschool naturalness
+
+Do not generate a narrator or alternate voice.
+
+---
+
+## Colour Continuity
+
+Match the colour grading of Shot 01.
+
+Treat the previous shot as the colour master reference. Never rebalance colours between shots.
+
+Maintain:
+- identical white balance
+- identical warmth
+- identical exposure
+- identical saturation
+- identical pastel palette
+- identical contrast
+
+Avoid any colour shift.
+Do not introduce cinematic grading.
+
+The entire episode must appear colour graded as one continuous film.
 
 ---
 
@@ -105,43 +120,33 @@ The shot must begin from the identical camera position shown in @image1.
 
 No camera movement is allowed until the first frame matches @image1 exactly.
 
-The first visible frame should appear visually identical to @image1.
+Begin in a medium child-eye-level composition.
 
-Only then may the planned camera movement begin.
+Mimi makes a small quiet point toward one cloud.
 
-Begin with a medium shot of both characters.
+Use a slow tilt up to show the cloud moving.
 
-Slow tilt up to show the darkening clouds.
-
-Return to the characters as wind picks up.
-
-End on a wide shot showing the dramatic sky.
+Settle back to Luca and Mimi without a cut.
 
 Camera movement must remain slow, stable and natural.
 
-Soft diffused light with darker clouds.
-
-Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
+No tight framing.
+No push-in.
+No dramatic sky reveal.
 
 ---
 
 ## Dialogue
 
-The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in @image1.
+```text
+Mimi: See that one?
 
-Match the lighting and colour grading exactly from @image1.
+Luca: It's moving!
 
-Do not change:
-- exposure
-- brightness
-- light intensity
-- colour temperature
-- colour grading
-
+Luca: Rain comes from there?
 ```
-Mimi: They look so big today.
-Luca: Where does rain come from?
-```
+
+Keep the last line curious, not answered.
 
 ---
 
@@ -149,17 +154,23 @@ Luca: Where does rain come from?
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Both look up at clouds | Medium |
-| 5-10 sn | Clouds darken, wind picks up | Tilt up |
-| 10-15 sn | Luca asks question | Medium |
+| 0-3 sec | First frame matches @image1 | Static |
+| 3-6 sec | Mimi quietly points at one cloud | Medium |
+| 6-9 sec | Cloud drifts; grass bends | Slow tilt up |
+| 9-12 sec | Luca watches the cloud move | Tilt settles |
+| 12-15 sec | Luca asks the question softly | Medium hold |
 
 ---
 
 ## Sound
 
-- Wind gust
-- Grass bending
-- Distant thunder
+- Soft wind
+- Grass rustle
+- Optional very soft distant cloud murmur
+- Quiet pause before Luca's question
+
+No loud thunder.
+No dramatic music cue.
 
 ---
 
@@ -167,16 +178,24 @@ Luca: Where does rain come from?
 
 Soft diffused cloudy light.
 
-Clouds darkening slightly.
+The cloud may look slightly fuller, but the lighting identity must not change.
 
-Even illumination.
+No colour shift.
+No sudden darkening.
+
+---
+
+## Emotion
+
+Wonder.
+
+The shot should feel like noticing something real in the world.
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
-
+low quality, blurry, deformed, extra limbs, duplicated limbs, text, watermark, captions, subtitles, speech bubbles, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, new narrator, teacher pose, classroom, school, redesigned environment, different Cloud Hill, dramatic storm, heavy thunder, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in, camera reset, colour shift, lighting change
 
 ---
 
@@ -184,16 +203,11 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 Reference: 16_VIDEO_QA_SPEC.md
 
-- [ ] Character integrity verified
-- [ ] Character consistency verified
-- [ ] Object persistence verified
-- [ ] No rendering artefacts
-- [ ] Camera consistency verified
-- [ ] Lighting consistency verified
-- [ ] Canonical rules followed
-
-## Micro Actions
-
-Every 3-6 seconds introduce a small visual action.
-Examples: wave, blink, look around, pick up object, walk, jump, point, smile, laugh, sit, stand.
-Actions should feel natural.
+- [ ] First frame matches @image1 exactly.
+- [ ] Luca and Mimi voice identities match Shot 01.
+- [ ] Colour identity matches Shot 01.
+- [ ] Cloud Hill identity preserved.
+- [ ] Mimi observes instead of teaching.
+- [ ] Luca's question remains unanswered in this shot.
+- [ ] No on-screen text.
+- [ ] Micro-actions occur every 3-5 seconds.

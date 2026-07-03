@@ -46,6 +46,7 @@ The following elements define the identity of a world and should remain consiste
 - saturation
 - exposure
 - contrast
+- brightness
 - pastel palette
 - matte handcrafted finish
 
@@ -100,14 +101,20 @@ Do not change:
 - colour palette
 - white balance
 - exposure
+- colour temperature
 - saturation
 - contrast
+- brightness
 - furniture style
 - atmosphere
 - lighting identity
 - overall proportions
 
 Do not create another interpretation of the same location.
+
+Do not introduce cool shift, warm shift, green tint, magenta tint, orange grading, HDR look or cinematic LUT unless explicitly required by the story.
+
+Reference: `SHOT_PRODUCTION_STANDARD.md`
 
 ---
 

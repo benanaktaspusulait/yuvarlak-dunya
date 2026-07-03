@@ -86,6 +86,21 @@ Zaman dilimi (sabah/öğle/akşam/gece) sahne boyunca tutarlıdır.
 
 Ambiyans döngüleri mekanla eşleşir.
 
+Karakter sesi tüm speaking shot'larda aynı kalır.
+
+Voice continuity için:
+
+- aynı voice identity
+- aynı pitch
+- aynı timbre
+- aynı speaking speed
+- aynı pronunciation
+- aynı accent
+- aynı recording quality
+- aynı emotional warmth
+
+Önceki shot mevcutsa, önceki shot sesi voice reference olarak kullanılır.
+
 Yasak sesler hiçbir sahnede kullanılmaz:
 - Bağırma
 - Çığlık
@@ -141,6 +156,27 @@ En iyi sürekliliği sağlayan kareyi seç.
 En iyi kare son kareden önce olabilir.
 
 Süreklilik, güzellikten üstün tutulur.
+
+### 9.1 First Frame Master Lock
+
+Continuation shot'larda ilk görünen frame, continuity reference frame'den ayırt edilemez olmalıdır.
+
+Benzer değil.
+Yakın değil.
+Aynı.
+
+Required wording:
+
+```text
+Treat @image1 as the complete visual master reference.
+Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
+The viewer must not perceive a shot boundary.
+
+The first visible frame must be visually indistinguishable from @image1.
+Not similar. Not close. Identical.
+
+Only after the first frame matches perfectly may animation begin.
+```
 
 ---
 
@@ -322,9 +358,11 @@ Devam sahneleri, bir önceki videoda zaten söylenen diyalogları tekrar etmemel
 ✗ Yeni obje ekleme
 ✗ Mevcut objeleri silme
 ✗ Dialogue tekrarı
-✗ Platform-specific tag'ler (@image1, @image2)
+✗ Platform-specific tag'ler reusable bible/core dosyalarında hardcode edilmemeli
 ✗ Dosya adları ("3.png")
 ```
+
+Not: Shot promptlarında production tool'un verdiği continuity image tag'i (`@image1`, `@image2` gibi) Frame Lock için kullanılabilir. Yasak olan, bu tag'leri world/character bible veya reusable core asset tanımlarına sabitlemektir.
 
 ---
 

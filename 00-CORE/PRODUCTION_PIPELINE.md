@@ -13,7 +13,8 @@ onaylı dünyaya karakter/prop yerleştirir.
 > diyalog, kısa Visual Prompt, continuity) içerir. Ortak kurallar burada tutulur; sahnelerde
 > tekrar edilmez.
 
-İlişkili dosyalar: `CONTINUITY_RULES.md` (süreklilik kuralları),
+İlişkili dosyalar: `SHOT_PRODUCTION_STANDARD.md` (shot-level production continuity standardı),
+`CONTINUITY_RULES.md` (süreklilik kuralları),
 `VISUAL_CONTINUITY_RULES.md` ve `WORLD_IDENTITY_RULES.md` (görsel/world identity kuralları),
 `AUDIO_GUIDE.md` ve `EPISODE_AUDIO_WORKFLOW.md` (voice/audio identity kuralları),
 `NEGATIVE_PROMPTS.md` (araç bazlı negative listeleri), `VARIABLES.md` (prompt değişkenleri),
@@ -227,6 +228,10 @@ Maintain identical layout, architecture, trees, flowers, paths, benches, lamp po
 - If **random unreadable text or signs** appear → reject (accept only if tiny and unreadable
   in video).
 - If the **lighting** differs from the locked warm daylight → reject.
+- If the **first visible frame** is not visually indistinguishable from `@image1` → reject.
+- If the **character voice** changes between speaking shots → reject.
+- If the **colour grade** shifts warmer, cooler, brighter, darker or more cinematic between shots → reject.
+- If the **lighting direction, intensity, shadow softness or ambient light** changes between shots → reject.
 
 ---
 
@@ -290,7 +295,7 @@ Bu bölümler, "Goodnight, Tree" (E11) bölümünün üretim sürecinde edinilen
 ## Story Structure
 
 - Start with 1-minute episodes.
-- Each episode consists of 4 shots.
+- Each episode consists of 6 shots.
 - Each shot is approximately 15 seconds.
 - Use only one world whenever possible.
 - Prefer only 2-3 characters per episode.
@@ -501,17 +506,21 @@ Continuity reference image kullanırken, AI aydınlatmayı aynen korumalıdır.
 ### Lighting Identity
 
 ```
-- Warm morning sunlight
-- Soft ambient preschool lighting
-- Gentle shadows
-- Natural bounce lighting
-- No dramatic contrast
+- identical light direction
+- identical light intensity
+- identical shadow softness
+- identical ambient lighting
+- identical highlight behaviour
+- identical cloud brightness
+- identical grass brightness
 ```
 
 ### Kurallar
 
 ```
 Do not reinterpret the lighting.
+
+Continue it.
 
 Do not brighten the scene.
 
@@ -536,22 +545,24 @@ Continuity frame'den establish edilen renk paletini ve grading'i koru.
 
 ```
 - identical white balance
-- identical warmth
 - identical exposure
+- identical colour temperature
 - identical saturation
-- identical pastel palette
 - identical contrast
+- identical brightness
+- identical pastel palette
 ```
 
 ### Avoid
 
 ```
-- blue tint
+- cool shift
+- warm shift
 - green tint
-- orange tint
+- magenta tint
+- orange grading
 - HDR look
 - cinematic LUT
-- warmer or cooler reinterpretation
 ```
 
 ### Kurallar
@@ -559,7 +570,7 @@ Continuity frame'den establish edilen renk paletini ve grading'i koru.
 ```
 Match the colour grading of the previous shot.
 
-Avoid any colour shift.
+Avoid any colour shift: no cool shift, warm shift, green tint, magenta tint, orange grading, HDR look or cinematic LUT.
 
 Do not introduce cinematic grading.
 
@@ -587,18 +598,29 @@ For Shot 01, match the approved character Voice ID or voice reference.
 
 For Shot 02+, match the previous speaking shot.
 
-The speaking voice MUST remain identical to the previous shot.
+When the production system provides a previous shot, the previous shot is also the voice reference.
+
+The speaking voice MUST remain identical throughout the entire episode.
 
 Maintain:
 
 - same voice identity
-- same pitch
 - same timbre
+- same pitch
 - same speaking speed
-- same emotional warmth
-- same preschool narration style
+- same warmth
+- same preschool energy
+- same pronunciation
+- same accent
+- same age impression
+- same emotional tone
+- same recording quality
 
-Do not generate a different narrator or alternate voice.
+Never generate a different interpretation of the character voice.
+Never replace the voice with a narrator.
+Never make the character sound older or younger.
+
+All speaking shots in one episode must sound as if they were recorded during the same recording session.
 ```
 
 Eğer kullanılan sistem Voice Reference veya Voice ID destekliyorsa, aynı karakter için her sahnede aynı Voice ID kullanılmalıdır. Desteklemiyorsa, ses değişimi model sınırlaması olarak QA'da işaretlenmelidir.

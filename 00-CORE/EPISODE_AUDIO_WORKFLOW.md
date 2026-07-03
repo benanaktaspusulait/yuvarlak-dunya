@@ -130,13 +130,20 @@ For every speaking character, maintain:
 - same pitch
 - same timbre
 - same speaking speed
-- same emotional warmth
-- same preschool narration style
+- same warmth
+- same preschool energy
 - same speaking rhythm
+- same pronunciation
+- same accent
+- same recording quality
 
 If the production system supports Voice Reference or Voice ID, use the same Voice ID for the same character in every shot. If Voice ID is not available, reuse the closest approved character voice reference and flag any drift in QA.
 
-Do not generate a different narrator, alternate performer, older/younger version, or different emotional delivery unless the story explicitly requires it.
+When a previous shot exists, treat the previous shot audio as the voice reference.
+
+All speaking shots in one episode must sound as if they were recorded during the same recording session.
+
+Do not generate a different narrator, alternate performer, older/younger version, accent shift, pronunciation shift, recording-quality shift, or different emotional delivery unless the story explicitly requires it.
 
 ---
 

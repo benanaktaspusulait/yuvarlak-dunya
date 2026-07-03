@@ -25,23 +25,34 @@ For Shot 01, match the approved character Voice ID or voice reference.
 
 For Shot 02+, match the previous speaking shot.
 
-The speaking voice MUST remain identical to the previous shot.
+The speaking voice MUST remain identical throughout the entire episode.
 
 Maintain:
 
 - same voice identity
-- same pitch
 - same timbre
+- same pitch
 - same speaking speed
-- same emotional warmth
-- same preschool narration style
+- same warmth
+- same preschool energy
+- same pronunciation
+- same accent
+- same age impression
+- same emotional tone
+- same recording quality
 
-Do not generate a different narrator or alternate voice.
+Never generate a different interpretation of the character voice.
+Never replace the voice with a narrator.
+Never make the character sound older or younger.
+
+If multiple shots belong to the same episode, their voices must sound as if they were recorded during the same recording session.
 ```
 
 Voice Reference veya Voice ID destekleyen sistemlerde aynı karakter için her shot'ta aynı Voice ID kullanılmalıdır.
 
 Voice ID desteklenmiyorsa, onaylı karakter voice reference'ı yeniden kullanılmalı ve ses kayması QA'da işaretlenmelidir.
+
+Önceki shot mevcutsa, önceki shot sesi aynı zamanda voice reference olarak kabul edilir.
 
 ## Ortak Negatif Ses Promptu
 

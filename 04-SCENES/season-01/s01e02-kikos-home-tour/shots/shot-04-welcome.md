@@ -20,6 +20,8 @@ This shot begins exactly one frame after Shot 03.
 
 The first frame MUST match @image1 exactly.
 
+The first frame must preserve identical lighting from Shot 03.
+
 No establishing shot.
 
 No camera reset.
@@ -37,6 +39,10 @@ SCENE
 ==================================================
 
 Kiko is standing near the reading corner after finishing the short house tour.
+
+Kiko is already present at the beginning of the shot.
+
+Do not introduce Kiko after the shot has started.
 
 She looks around her cozy home with a happy smile.
 

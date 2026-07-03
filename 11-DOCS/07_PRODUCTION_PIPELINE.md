@@ -18,10 +18,14 @@ Current production priority:
 
 1. Voice Identity
 2. Colour Identity
-3. World Identity
+3. Lighting Identity
 4. Character Identity
+5. World Identity
+6. Story and tempo
 
 The goal is not pixel-perfect reproduction. The goal is that the episode feels like one continuous production.
+
+Reference: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
 
 ---
 
@@ -43,14 +47,16 @@ One emotional idea. Maximum 2–3 characters. One world. No conflict.
 
 ## 3. Shot Planning
 
-4 shots × 15 seconds = 60 seconds.
+6 shots × 15 seconds = 90 seconds.
 
 | Shot | Purpose |
 |------|---------|
 | 01 | Establishing — world and characters |
 | 02 | Development — emotional moment builds |
-| 03 | Climax — key emotional beat |
-| 04 | Resolution — gentle ending |
+| 03 | Thinking — quiet observation |
+| 04 | Waiting — silence and environment carry the moment |
+| 05 | Discovery — key emotional beat |
+| 06 | Resolution — gentle ending |
 
 ---
 
@@ -60,10 +66,15 @@ One emotional idea. Maximum 2–3 characters. One world. No conflict.
 
 ```
 Continue directly from @image1.
-The first frame must match @image1 exactly.
 Treat @image1 as frame zero.
+Treat @image1 as the complete visual master reference.
+The first visible frame must be visually indistinguishable from @image1.
+Not similar. Not close. Identical.
+Only after the first frame matches perfectly may animation begin.
 Do not reinterpret @image1.
 Do not reposition the camera.
+Preserve colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions and character performance.
+The viewer must not perceive a shot boundary.
 Continue the action naturally from @image1.
 [Scene description]
 [Lighting identity]
@@ -94,18 +105,29 @@ For Shot 01, match the approved character Voice ID or voice reference.
 
 For Shot 02+, match the previous speaking shot.
 
-The speaking voice MUST remain identical to the previous shot.
+When the production system provides a previous shot, the previous shot is also the voice reference.
+
+The speaking voice MUST remain identical throughout the entire episode.
 
 Maintain:
 
 - same voice identity
-- same pitch
 - same timbre
+- same pitch
 - same speaking speed
-- same emotional warmth
-- same preschool narration style
+- same warmth
+- same preschool energy
+- same pronunciation
+- same accent
+- same age impression
+- same emotional tone
+- same recording quality
 
-Do not generate a different narrator or alternate voice.
+Never generate a different interpretation of the character voice.
+Never replace the voice with a narrator.
+Never make the character sound older or younger.
+
+If multiple shots belong to the same episode, their voices must sound as if they were recorded during the same recording session.
 ```
 
 If the production tool supports Voice Reference or Voice ID, use the same Voice ID for the same character in every shot. If no Voice ID is available, use the closest available character voice reference and treat voice drift as a model limitation to flag in QA.
@@ -115,11 +137,18 @@ If the production tool supports Voice Reference or Voice ID, use the same Voice 
 Lighting identity and colour identity are separate locks.
 
 ```text
-Warm morning sunlight
-Soft ambient preschool lighting
-Gentle shadows
-Natural bounce lighting
-No dramatic contrast
+Preserve:
+
+- light direction
+- light intensity
+- shadow softness
+- ambient lighting
+- highlight behaviour
+- cloud brightness
+- grass brightness
+
+Do not reinterpret the lighting.
+Continue it.
 ```
 
 ### Colour Identity
@@ -130,14 +159,23 @@ Every shot must match the colour grading of the previous shot.
 Maintain:
 
 - identical white balance
-- identical warmth
 - identical exposure
+- identical colour temperature
 - identical saturation
-- identical pastel palette
 - identical contrast
+- identical brightness
+- identical pastel palette
 
-Avoid any colour shift.
-Do not introduce cinematic grading.
+Never introduce:
+
+- cool shift
+- warm shift
+- green tint
+- magenta tint
+- orange grading
+- HDR look
+- cinematic LUT
+
 The entire episode must appear colour graded as one continuous film.
 ```
 
@@ -149,9 +187,11 @@ Pastel palette
 Soft saturation
 Low contrast
 Matte handcrafted finish
-No blue tint
+No cool shift
+No warm shift
 No green tint
-No orange shift
+No magenta tint
+No orange grading
 No HDR look
 No cinematic LUT
 ```
@@ -186,10 +226,12 @@ No cinematic LUT
 
 - [ ] Reference image correct
 - [ ] Frame Lock included
+- [ ] First visible frame must be visually indistinguishable from @image1
 - [ ] Camera Lock included
 - [ ] Lighting Lock included
 - [ ] Colour Identity Lock included
 - [ ] Voice Continuity included for speaking shots
+- [ ] Previous shot audio or Voice ID selected as voice reference for speaking shots
 - [ ] Character presence verified
 - [ ] Text safety confirmed
 
@@ -232,7 +274,11 @@ Maintain:
 - same personality
 - same warmth
 - same speaking rhythm
-- same pitch and timbre
+- same pitch
+- same timbre
+- same pronunciation
+- same accent
+- same recording quality
 
 Do not allow a shot to introduce a different narrator, alternate performer, older/younger version, or different emotional delivery unless the story explicitly requires it.
 
@@ -301,6 +347,9 @@ Subtitle creation and upload rules are defined in `SUBTITLE_WORKFLOW.md`.
 - Lighting must be locked, not suggested
 - Colour identity must be locked separately from lighting
 - Voice identity must be locked across speaking shots
+- Previous shot audio must be treated as voice reference
+- @image1 must be treated as the complete visual master reference
+- The first visible frame must be visually indistinguishable from @image1, not merely similar
 - Music is episode-level, not shot-level
 
 ---
@@ -311,6 +360,7 @@ Subtitle creation and upload rules are defined in `SUBTITLE_WORKFLOW.md`.
 - Not locking lighting
 - Treating colour as part of lighting only
 - Regenerating a new voice for each shot
+- Accepting similar-but-not-identical first frames
 - Using final frame automatically
 - Adding shot-level music
 - Not including character presence notes
@@ -320,9 +370,11 @@ Subtitle creation and upload rules are defined in `SUBTITLE_WORKFLOW.md`.
 ## 17. Best Practices
 
 - Always use Frame Lock
-- Always match lighting from reference
-- Always match colour grading from the previous shot
+- Always treat @image1 as the complete visual master reference
+- Always match lighting from the previous shot without reinterpretation
+- Always match colour grading from the previous shot exactly
 - Always reuse the locked character Voice ID or voice reference
+- Always use the previous shot as voice reference when available
 - Always include negative prompts
 - Always verify before rendering
 - Always reuse existing assets

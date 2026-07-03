@@ -38,22 +38,50 @@ Bu şablonu kullanarak yeni sahne dosyası oluşturun.
 
 ## Voice Continuity
 
+Follow `00-CORE/SHOT_PRODUCTION_STANDARD.md`.
+
 For Shot 01, match the approved character Voice ID or voice reference.
 
 For Shot 02+, match the previous speaking shot.
 
-The speaking voice MUST remain identical to the previous shot.
+When the production system provides a previous shot, the previous shot is also the voice reference.
+
+The speaking voice MUST remain identical throughout the entire episode.
 
 Maintain:
 
 - same voice identity
-- same pitch
 - same timbre
+- same pitch
 - same speaking speed
-- same emotional warmth
-- same preschool narration style
+- same warmth
+- same preschool energy
+- same pronunciation
+- same accent
+- same age impression
+- same emotional tone
+- same recording quality
 
-Do not generate a different narrator or alternate voice.
+Never generate a different interpretation of the character voice.
+Never replace the voice with a narrator.
+Never make the character sound older or younger.
+
+If multiple shots belong to the same episode, their voices must sound as if they were recorded during the same recording session.
+
+## First Frame Lock
+
+For Shot 02+ continuation shots:
+
+```text
+Treat @image1 as the complete visual master reference.
+Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
+The viewer must not perceive a shot boundary.
+
+The first visible frame must be visually indistinguishable from @image1.
+Not similar. Not close. Identical.
+
+Only after the first frame matches perfectly may animation begin.
+```
 
 ## Visual Prompt
 
@@ -103,11 +131,16 @@ LIGHTING
 
 ----------------------------------------
 COLOUR CONTINUITY
-Match the colour grading of the previous shot.
-Maintain identical white balance, warmth, exposure, saturation, pastel palette and contrast.
-Avoid any colour shift.
-No blue tint. No green tint. No orange shift. No HDR look. No cinematic LUT.
+Match the previous shot exactly.
+Maintain identical white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette.
+Never introduce cool shift, warm shift, green tint, magenta tint, orange grading, HDR look or cinematic LUT.
 The entire episode must appear colour graded as one continuous film.
+
+----------------------------------------
+LIGHTING CONTINUITY
+Preserve the lighting from the previous shot exactly.
+Maintain identical light direction, light intensity, shadow softness, ambient lighting, highlight behaviour, cloud brightness and grass brightness.
+Do not reinterpret the lighting. Continue it.
 
 ----------------------------------------
 STYLE
@@ -144,20 +177,27 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 - Continuity frame: [Kare referansı]
 - Devam kuralları: `CONTINUITY_RULES.md`
 - Voice continuity: same Voice ID or approved voice reference for each speaking character
-- Colour continuity: match previous shot white balance, exposure, saturation and contrast
+- Shot production standard: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
+- Colour continuity: match previous shot white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette
+- Lighting continuity: match previous shot light direction, intensity, shadow softness, ambient lighting and highlight behaviour
 
 ## QA Checklist
 
 Reference: `16_VIDEO_QA_SPEC.md`
+Standard: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
 
 - [ ] Character integrity verified
 - [ ] Character consistency verified
 - [ ] Voice identity verified
+- [ ] Voice pitch, timbre, speaking speed, pronunciation, accent and recording quality match previous speaking shot
 - [ ] Object persistence verified
 - [ ] No rendering artefacts
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
+- [ ] Light direction, intensity, shadow softness, ambient lighting and highlight behaviour match previous shot
 - [ ] Colour identity verified
+- [ ] White balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette match previous shot
+- [ ] The viewer cannot perceive a shot boundary
 - [ ] Canonical rules followed
 ```
 
@@ -167,7 +207,7 @@ Reference: `16_VIDEO_QA_SPEC.md`
 
 - Bu template her yeni sahne dosyasında kullanılmalıdır.
 - `[]` ile belirtilen yerler sahneye göre değiştirilir.
-- Her sahne 15 saniye (4 shot × 15 sn = 60 sn toplam bölüm).
+- Her shot 15 saniye (6 shot × 15 sn = 90 sn toplam bölüm).
 - Maksimum 3 karakter.
 - Tek mekan tercih edilir.
 - Tek duygusal hedef.

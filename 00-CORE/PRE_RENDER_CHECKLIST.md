@@ -22,15 +22,22 @@
 Every continuation shot must include:
 
 ```text
-The first frame of this video must match @image exactly.
+Treat @image1 as the complete visual master reference.
+Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
+The viewer must not perceive a shot boundary.
 
-Treat @image as frame zero.
+The first visible frame must be visually indistinguishable from @image1.
+Not similar. Not close. Identical.
 
-The animation begins only after the first frame has matched @image exactly.
+Treat @image1 as frame zero.
+
+The animation begins only after the first frame has matched @image1 perfectly.
 ```
 
 - [ ] Is Frame Lock included?
 - [ ] Is the correct @image number used?
+- [ ] Does the prompt treat @image1 as the complete visual master reference?
+- [ ] Does the prompt require the first visible frame to be visually indistinguishable from @image1?
 - [ ] Does the prompt prevent camera repositioning before motion starts?
 
 ---
@@ -65,11 +72,18 @@ The animation begins only after the first frame has matched @image exactly.
 
 - [ ] Does the prompt match lighting from the continuity frame?
 - [ ] Does it lock:
+  - [ ] light direction
+  - [ ] light intensity
+  - [ ] shadow softness
+  - [ ] ambient lighting
+  - [ ] highlight behaviour
+  - [ ] cloud brightness
+  - [ ] grass brightness
   - [ ] exposure
   - [ ] brightness
-  - [ ] moonlight intensity
   - [ ] colour temperature
-- [ ] Does it prevent the scene becoming brighter or darker?
+- [ ] Does it prevent the scene becoming brighter, darker, warmer, cooler, harsher or more cinematic?
+- [ ] Does it say: "Do not reinterpret the lighting. Continue it."
 
 ---
 
@@ -78,12 +92,14 @@ The animation begins only after the first frame has matched @image exactly.
 - [ ] Does the prompt match colour grading from the previous shot?
 - [ ] Does it lock:
   - [ ] white balance
-  - [ ] warmth
   - [ ] exposure
+  - [ ] colour temperature
   - [ ] saturation
-  - [ ] pastel palette
   - [ ] contrast
-- [ ] Does it prevent blue tint, green tint or orange shift?
+  - [ ] brightness
+  - [ ] pastel palette
+- [ ] Does it prevent cool shift and warm shift?
+- [ ] Does it prevent green tint, magenta tint or orange grading?
 - [ ] Does it prevent HDR look or cinematic LUT?
 - [ ] Will the episode feel colour graded as one continuous film?
 
@@ -126,8 +142,11 @@ No text.
 For every speaking shot:
 
 - [ ] Is the same character Voice ID or voice reference selected?
+- [ ] Is the previous shot audio treated as the voice reference when available?
 - [ ] Does the shot include a Voice Continuity section?
-- [ ] Does the prompt require the same pitch, timbre, speed, warmth and preschool style?
+- [ ] Does the prompt require the same voice identity, timbre, pitch, speaking speed, warmth and preschool energy?
+- [ ] Does the prompt require the same pronunciation, accent, age impression, emotional tone and recording quality?
+- [ ] Does the prompt say all speaking shots must sound as if recorded during the same recording session?
 - [ ] Does it reject a different narrator or alternate voice?
 
 ---
@@ -140,14 +159,18 @@ Before pressing Generate Video, confirm:
 - [ ] Correct characters
 - [ ] Correct @image tag
 - [ ] Frame Lock included
+- [ ] First visible frame must be visually indistinguishable from @image1
 - [ ] Lighting Lock included
 - [ ] Colour Identity Lock included
 - [ ] Camera Lock included
 - [ ] Voice Continuity checked for speaking shots
+- [ ] Previous shot audio / Voice ID checked for speaking shots
 - [ ] No close-up risk
 - [ ] No world redesign risk
 - [ ] No colour shift risk
 - [ ] No voice drift risk
+- [ ] No lighting reinterpretation risk
+- [ ] No perceivable shot-boundary risk
 - [ ] No text risk
 - [ ] No shot-level music dependency
 

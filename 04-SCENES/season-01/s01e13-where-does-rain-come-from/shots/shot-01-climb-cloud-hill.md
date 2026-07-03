@@ -1,13 +1,13 @@
-# E13 — Shot 01 — Luca and Mimi Climb Cloud Hill
+# E13 — Shot 01 — Climbing Cloud Hill
 
 ---
 
 ## Scene Context
 
-| Alan | Değer |
-| --- | --- |
+| Field | Value |
+|---|---|
 | Episode | S01E13 — Where Does Rain Come From |
-| Shot | 01 / 04 |
+| Shot | 01 / 06 |
 | Duration | 15 seconds |
 | Location | Cloud Hill |
 | Characters | Luca, Mimi |
@@ -15,80 +15,116 @@
 
 ---
 
-## Continuity
+## Purpose
 
-This is the FIRST shot of the episode.
+Open with curiosity.
 
-No previous shot reference.
+Luca and Mimi arrive at Cloud Hill and notice the clouds.
+This should feel like two children discovering something in the world, not the beginning of a lesson.
 
 ---
 
-## Start Frame
+## Continuity
 
-This is the FIRST shot. No previous shot reference.
+This is the first shot of the episode.
 
-Use the approved still image for this shot as the exact first frame.
+No previous shot reference.
+
+Use the approved first-frame still for this shot.
 
 Maintain:
-- Character appearance
-- Cloud Hill environment
-- Cloudy lighting
-- Camera composition
-- Character proportions
+- Luca and Mimi character identity
+- Cloud Hill world identity
+- soft cloudy lighting
+- pastel colour identity
+- rounded preschool handcrafted style
 
-Do not redesign the environment.
+Do not redesign Cloud Hill.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Luca and Mimi from Pompom Hills climbing Cloud Hill on a cloudy day, looking up at big fluffy clouds above, soft grey sky, Cloud Hill environment with gentle slopes, no other characters, {style} {camera} {lighting}
+Luca and Mimi from Pompom Hills gently climbing Cloud Hill on a cloudy day, rounded grassy hill, open sky, CH-STONE-01 visible from a distance as the existing Cloud Hill summit stone, soft preschool handcrafted style, grass moving slightly in the wind, Luca notices the large normal soft clouds above and pauses with quiet wonder, Mimi follows his gaze, calm emotional curiosity, no other characters, {style} {camera} {lighting}
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+Do not display dialogue as on-screen text.
+No speech bubbles. No captions. No subtitles. No text.
 ```
 
 ---
 
-## Reference Usage
+## Voice Continuity
 
-This is the FIRST shot. No previous shot reference.
+This shot establishes Luca and Mimi's speaking voices for the episode.
 
-The reference image is supplied by the production workflow and should not be hardcoded into this document.
+Maintain:
+- Luca's same voice identity in all later shots
+- Mimi's same voice identity in all later shots
+- same pitch
+- same timbre
+- same speaking speed
+- same warmth
+- same preschool naturalness
+
+Do not generate a narrator.
+Do not generate alternate voices.
+
+---
+
+## Colour Continuity
+
+This shot establishes the episode colour identity.
+
+Maintain:
+- warm cloudy white balance
+- soft pastel palette
+- gentle exposure
+- low contrast
+- soft saturation
+- handcrafted matte finish
+
+Avoid:
+- blue tint
+- green tint
+- orange shift
+- HDR look
+- cinematic LUT
 
 ---
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in @image1.
+Begin with a stable 35mm wide shot at child eye level.
 
-No camera movement is allowed until the first frame matches @image1 exactly.
+Luca and Mimi climb into view from lower frame.
 
-The first visible frame should appear visually identical to @image1.
+Keep CH-STONE-01 visible from a distance as a Cloud Hill identity anchor.
 
-Only then may the planned camera movement begin.
+After the first frame is established, use a very slow settle toward medium as Luca notices the clouds.
 
-Begin with a static 35mm wide cinematic shot of Cloud Hill.
+End on a medium composition of both children looking up.
 
-Luca and Mimi enter from the lower frame, climbing upward.
+Camera movement must stay slow, stable and natural.
 
-Gentle pan up to show the big clouds above.
-
-End on a medium shot of both looking up.
-
-Camera movement must remain slow, stable and natural.
-
-Soft diffused cloudy light throughout.
-
-Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
+No zoom.
+No push-in.
+No handheld motion.
+No sudden camera movement.
 
 ---
 
 ## Dialogue
 
+```text
+Luca: Wow...
+
+Luca: They're huge.
+
+Mimi: They are.
 ```
-Luca: Wow, look at the clouds!
-```
+
+Keep a small pause after "Wow..."
 
 ---
 
@@ -96,9 +132,11 @@ Luca: Wow, look at the clouds!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca and Mimi climbing uphill | Wide establishing |
-| 5-10 sn | They stop, look up at clouds | Medium |
-| 10-15 sn | Clouds drift slowly above | Medium, tilt up |
+| 0-3 sec | Luca and Mimi climb gently uphill | Wide, child eye level |
+| 3-6 sec | Grass moves in soft wind | Stable wide |
+| 6-9 sec | Luca slows and looks up | Slow upward pan begins |
+| 9-12 sec | Mimi follows Luca's gaze | Medium |
+| 12-15 sec | Both quietly watch the large clouds | Medium hold |
 
 ---
 
@@ -106,7 +144,10 @@ Luca: Wow, look at the clouds!
 
 - Soft wind
 - Footsteps on grass
-- Distant thunder
+- Gentle grass rustle
+- Open-air quiet
+
+No thunder in this shot unless extremely soft and distant.
 
 ---
 
@@ -115,15 +156,22 @@ Luca: Wow, look at the clouds!
 Soft diffused cloudy light.
 
 No harsh shadows.
+No dramatic storm lighting.
+No colour shift.
 
-Even, gentle illumination.
+---
+
+## Emotion
+
+Curiosity.
+
+The moment should feel quiet, fresh and safe.
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
-
+low quality, blurry, deformed, extra limbs, duplicated limbs, text, watermark, captions, subtitles, speech bubbles, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, new narrator, teacher pose, classroom, school, redesigned environment, different Cloud Hill, dramatic storm, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in
 
 ---
 
@@ -131,21 +179,12 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 Reference: 16_VIDEO_QA_SPEC.md
 
-- [ ] Character integrity verified
-- [ ] Character consistency verified
-- [ ] Object persistence verified
-- [ ] No rendering artefacts
-- [ ] Camera consistency verified
-- [ ] Lighting consistency verified
-- [ ] Canonical rules followed
-
-## Opening Hook
-
-The first 3-5 seconds should immediately create curiosity.
-Avoid slow introductions. Begin with an interesting visual, a surprising action, a curious question, or an emotional expression.
-
-Examples:
-- Can you hear that?
-- Look what I found!
-- Do you know where stars sleep?
-- What is hiding over there?
+- [ ] Luca identity preserved.
+- [ ] Mimi identity preserved.
+- [ ] Cloud Hill identity preserved.
+- [ ] Voice identities established clearly.
+- [ ] Colour identity established clearly.
+- [ ] Lighting is soft and consistent.
+- [ ] No classroom or teacher feeling.
+- [ ] No on-screen text.
+- [ ] Opening creates curiosity within 3-5 seconds.

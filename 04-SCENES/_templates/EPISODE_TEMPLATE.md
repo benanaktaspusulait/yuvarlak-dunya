@@ -19,7 +19,7 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 60 saniye (4 sahne × 15 sn) |
+| Süre | 90 saniye (6 sahne × 15 sn) |
 | Hedef yaş | 3-4 |
 | Ana duygu | [Duygu] |
 | Ana tema | [Tema] |
@@ -53,6 +53,8 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 | 02 | `02-[sahne-adı].md` | 15 sn | [Karakter] | [Amaç] |
 | 03 | `03-[sahne-adı].md` | 15 sn | [Karakter] | [Amaç] |
 | 04 | `04-[sahne-adı].md` | 15 sn | [Karakter] | [Amaç] |
+| 05 | `05-[sahne-adı].md` | 15 sn | [Karakter] | [Amaç] |
+| 06 | `06-[sahne-adı].md` | 15 sn | [Karakter] | [Amaç] |
 
 ---
 
@@ -76,12 +78,16 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 | --- | --- |
 | [Karakter] | [Voice ID or approved voice reference + ses notları] |
 
+Reference: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
+
 Voice continuity rule:
 
 ```text
-The speaking voice MUST remain identical across all shots.
+The speaking voice MUST remain identical throughout the entire episode.
 Use the same Voice ID or approved voice reference for the same character.
-Maintain the same pitch, timbre, speaking speed, warmth and preschool narration style.
+Maintain the same voice identity, timbre, pitch, speaking speed, warmth, preschool energy, pronunciation, accent, age impression, emotional tone and recording quality.
+All speaking shots must sound as if they were recorded during the same recording session.
+Never replace the voice with a narrator or alternate performer.
 ```
 
 ---
@@ -90,8 +96,19 @@ Maintain the same pitch, timbre, speaking speed, warmth and preschool narration 
 
 ```text
 The full episode must appear colour graded as one continuous film.
-Maintain identical white balance, warmth, exposure, saturation, pastel palette and contrast across all shots.
-No blue tint. No green tint. No orange shift. No HDR look. No cinematic LUT.
+Maintain identical white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette across all shots.
+No cool shift. No warm shift. No green tint. No magenta tint. No orange grading. No HDR look. No cinematic LUT.
+The viewer must not perceive a shot boundary.
+```
+
+---
+
+## Lighting Notes
+
+```text
+The lighting must continue across shots without reinterpretation.
+Maintain identical light direction, light intensity, shadow softness, ambient lighting, highlight behaviour, cloud brightness and grass brightness.
+Do not allow the episode to become brighter, darker, warmer, cooler, harsher or more cinematic between shots.
 ```
 
 ---
@@ -129,7 +146,7 @@ Her bölüm klasörü (`04-SCENES/season-NN/sNNeNN-slug/`) şu dosyaları içerm
 ---
 
 
-- Her bölüm 4 sahne × 15 saniye = 60 saniye.
+- Her bölüm 6 sahne × 15 saniye = 90 saniye.
 - Maksimum 3 karakter.
 - Tek mekan tercih edilir.
 - Tek duygusal hedef.
@@ -145,14 +162,24 @@ Her bölüm klasörü (`04-SCENES/season-NN/sNNeNN-slug/`) şu dosyaları içerm
 | 02 | /10 | ⬜ |
 | 03 | /10 | ⬜ |
 | 04 | /10 | ⬜ |
+| 05 | /10 | ⬜ |
+| 06 | /10 | ⬜ |
 
 Reference: `16_VIDEO_QA_SPEC.md`
 
 Required episode-level checks:
 
-- [ ] Voice identity remains consistent across speaking shots.
-- [ ] Colour identity remains consistent across all shots.
-- [ ] Episode feels like one continuous recording.
+- [ ] Voice continuity checked first.
+- [ ] Colour continuity checked second.
+- [ ] Lighting continuity checked third.
+- [ ] Character continuity checked after voice/colour/lighting.
+- [ ] World continuity checked after character continuity.
+- [ ] Story and tempo checked last.
+- [ ] Voice identity, pitch, timbre, speaking speed, pronunciation, accent, emotional tone and recording quality remain consistent across speaking shots.
+- [ ] White balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette remain consistent across all shots.
+- [ ] Light direction, light intensity, shadow softness, ambient lighting and highlight behaviour remain consistent across all shots.
+- [ ] Episode feels like one uninterrupted animated film.
+- [ ] The viewer cannot perceive where one shot ends and the next begins.
 
 ---
 

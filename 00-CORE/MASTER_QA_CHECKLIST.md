@@ -16,6 +16,23 @@
 
 ---
 
+## QA Priority Order
+
+Run the assembled episode QA in this order:
+
+1. Voice continuity
+2. Colour continuity
+3. Lighting continuity
+4. Character continuity
+5. World continuity
+6. Story and tempo
+
+If voice, colour or lighting continuity fails, the episode is not production-ready.
+
+Reference: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
+
+---
+
 ## 1. World Identity
 
 ```
@@ -51,10 +68,12 @@ Reference: `01-CHARACTERS/`, `00-CORE/CHARACTER_GUIDE.md`
 ```
 ✓ White balance consistent across all shots — no warm/cool drift?
 ✓ Exposure consistent — no brightening or darkening between shots?
+✓ Colour temperature consistent — no warmer/cooler shot drift?
 ✓ Saturation consistent — no vivid outlier shots?
 ✓ Contrast consistent — no HDR or cinematic look in any shot?
+✓ Brightness consistent — no perceived brightness jump?
 ✓ Pastel palette preserved — no neon or oversaturated element?
-✓ No blue tint / green tint / orange shift in any shot?
+✓ No cool shift / warm shift / green tint / magenta tint / orange grading in any shot?
 ✓ Grass colour within canonical range for this world?
 ✓ Sky colour within canonical range for this world?
 ✓ Episode reads as one continuous colour-graded film, not a collection of separately generated shots?
@@ -68,6 +87,10 @@ Reference: `00-CORE/VISUAL_STYLE_GUIDE.md`, world's Colour Identity section
 
 ```
 ✓ Light direction consistent — same angle across all shots in a scene?
+✓ Light intensity consistent — no sudden brighter/dimmer shot?
+✓ Shadow softness consistent — no hard-shadow outlier?
+✓ Ambient lighting consistent — no fill-light jump?
+✓ Highlight behaviour consistent — no glossy or sparkly outlier?
 ✓ No hard shadows or dramatic contrast in any shot?
 ✓ Shadow side of all characters lifted — no pure darkness?
 ✓ Time of day consistent within each scene?
@@ -102,6 +125,9 @@ Reference: `00-CORE/VISUAL_STYLE_GUIDE.md`, world's Camera Identity section
 ✓ Character voice consistent across all speaking shots?
 ✓ Same pitch, timbre, and speaking speed throughout?
 ✓ Same emotional warmth and preschool narration style?
+✓ Same pronunciation and accent throughout?
+✓ Same recording quality throughout?
+✓ Speaking shots sound like the same recording session?
 ✓ No alternate narrator or different voice appearing in any shot?
 ✓ Voice volume consistent — no sudden loud or quiet shot?
 ```

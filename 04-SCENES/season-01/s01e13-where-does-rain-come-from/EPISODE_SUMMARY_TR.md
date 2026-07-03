@@ -4,64 +4,141 @@
 
 ## Hikaye
 
+Bu bölüm bir ders anlatımı gibi ilerlemez.
+
+Luca ve Mimi, Cloud Hill'de birlikte gözlem yapar.
+Bulutlar, rüzgar, çimler, CH-STONE-01 taşı ve ilk yağmur damlası hikayenin parçasıdır.
+
+Çocuk izleyici cevabı açıklama yoluyla değil, karakterlerle birlikte fark ederek hisseder.
+
+Süre: 90 saniye.
+
+Yapı: 6 sahne × 15 saniye.
+
 ---
 
 ### Sahne 1
 
 Bulutlu bir gün.
 
-Luca ve Mimi Cloud Hill'e tırmanıyor.
+Luca ve Mimi Cloud Hill'e tırmanır.
 
-Gökyüzü gri bulutlarla dolu.
+Rüzgar çimleri yavaşça hareket ettirir.
 
-Luca yukarı bakıyor.
+Luca büyük bulutları fark eder ve durur.
 
-> **"Wow, look at the clouds!"**
+> **"Wow..."**
+
+Kısa bir sessizlik.
+
+> **"They're huge."**
+
+Mimi de yukarı bakar.
+
+> **"They are."**
 
 ---
 
 ### Sahne 2
 
-Mimi de yukarı bakıyor.
+İkisi tepedeki otların arasında durur.
 
-Bulutlar bugün çok büyük görünüyor.
+Bulutlar yavaşça sürüklenir.
 
-> **"They look so big today."**
+Bir bulut diğerlerinden daha koyu ve daha ağır görünür.
 
-Luca soruyor.
+Mimi sessizce bulutu işaret eder.
 
-> **"Where does rain come from?"**
+> **"See that one?"**
+
+Luca dikkatle bakar.
+
+> **"It's moving!"**
+
+Rüzgar biraz artar.
+
+Luca buluta bakarak sorar.
+
+> **"Rain comes from there?"**
 
 ---
 
 ### Sahne 3
 
-Mimi açıklıyor.
+Luca ve Mimi otların yanına çömelir.
 
-> **"Clouds hold water inside."**
+Bulut gökyüzünde biraz daha koyulaşır.
 
-Luca şaşırıyor.
+Mimi açıklamaz; sadece bakar, düşünür ve bulutu izler.
 
-> **"Really?"**
+> **"Hmm..."**
 
-Mimi gülümseyerek devam ediyor.
+Bir sessizlik olur.
 
-> **"Yes, until they get too heavy."**
+Mimi yumuşakça söyler.
+
+> **"It looks... full."**
+
+Luca buluta daha dikkatli bakar.
+
+> **"Full?"**
+
+İkisi cevap vermeden gökyüzünü izler.
 
 ---
 
 ### Sahne 4
 
-Birden damlacıklar düşmeye başlıyor.
+Cloud Hill kısa bir süre daha sessizleşir.
 
-> **"It's starting to rain!"**
+Rüzgar çimleri hafifçe hareket ettirir.
 
-Mimi gülüyor.
+Luca yavaşça elini uzatır.
 
-> **"See? The clouds let go."**
+> **"It's quiet."**
 
-İkisi de gülümseyerek yağmuru izliyor.
+Mimi buluta ve çimlere bakar.
+
+> **"Listen."**
+
+İkisi bekler.
 
 ---
 
-*Bulutlar su taşır, ağırlaştığında bırakır.*
+### Sahne 5
+
+İlk yağmur damlası Luca'nın eline düşer.
+
+Luca eline bakar.
+
+Sessizlik.
+
+> **"A drop."**
+
+Mimi damladan buluta bakar.
+
+> **"From the cloud."**
+
+---
+
+### Sahne 6
+
+Yumuşak yağmur başlar.
+
+Luca ve Mimi birlikte gülümser.
+
+Luca bulutlara bakar.
+
+> **"Hello, rain!"**
+
+İkisi yağmurun içinde sakin sakin gökyüzünü izler.
+
+Bölüm, birlikte keşfetmiş olmanın sıcak hissiyle biter.
+
+---
+
+## Son Duygu
+
+Bu bölümün sonunda çocuk şunu hissetmeli:
+
+> "Yağmurun bulutlardan geldiğini birlikte fark ettik."

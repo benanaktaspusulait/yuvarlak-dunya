@@ -23,13 +23,20 @@ Maintain:
 - same pitch
 - same timbre
 - same speaking speed
-- same emotional warmth
-- same preschool narration style
+- same warmth
+- same preschool energy
 - same speaking rhythm
+- same pronunciation
+- same accent
+- same recording quality
 
 Voice Reference veya Voice ID destekleyen sistemlerde aynı karakter için her shot'ta aynı Voice ID kullanılmalıdır.
 
-Farklı narrator, alternate voice, daha büyük/küçük yaş izlenimi veya farklı performer hissi kabul edilmez.
+Bir bölümdeki tüm speaking shot'lar aynı kayıt seansında kaydedilmiş gibi duyulmalıdır.
+
+Önceki shot mevcutsa, önceki shot aynı zamanda voice reference olarak kabul edilir.
+
+Farklı narrator, alternate voice, daha büyük/küçük yaş izlenimi, farklı accent, farklı pronunciation veya farklı performer hissi kabul edilmez.
 
 ---
 

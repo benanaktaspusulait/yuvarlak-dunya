@@ -40,8 +40,15 @@ A scene is considered production-ready only when:
 - Characters remain visually consistent
 - Objects behave consistently
 - The world remains coherent
+- Voice identity remains identical across speaking shots
+- Colour identity remains identical across all shots
+- Lighting identity continues without reinterpretation
 - Camera movement feels believable
 - Animation artefacts are absent or negligible
+
+Voice, colour and lighting continuity are production gates.
+
+If any of these fail, reject the affected shot even if story, acting and composition are otherwise strong.
 
 ---
 
@@ -102,6 +109,55 @@ Focus: Global coherence.
 | Colour identity | Episode feels colour graded as one continuous film |
 | Lighting consistency | Same time of day throughout |
 | Prop consistency | Same objects throughout |
+
+---
+
+## Production Continuity Gate
+
+Run this gate before evaluating story, tempo or emotional flow.
+
+Reference: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
+
+### Voice QA
+
+| Check | Requirement |
+|-------|-------------|
+| Voice identity | Same character voice throughout |
+| Pitch | No higher or lower drift between shots |
+| Timbre | Same vocal texture and body |
+| Speaking speed | Same pace and rhythm |
+| Emotional tone | Same warmth and preschool energy |
+| Pronunciation | Same pronunciation style |
+| Accent | Same accent |
+| Recording quality | Same clarity, dryness and processing |
+| Narrator safety | No alternate narrator replaces the character |
+
+### Colour QA
+
+| Check | Requirement |
+|-------|-------------|
+| White balance | Identical across shots |
+| Exposure | No brighter or darker shot drift |
+| Colour temperature | No warmer or cooler drift |
+| Saturation | Same soft pastel saturation |
+| Contrast | Same low-contrast preschool finish |
+| Brightness | Same perceived brightness |
+| Palette | Same pastel palette |
+| Grading safety | No cool shift, warm shift, green tint, magenta tint, orange grading, HDR look or cinematic LUT |
+
+### Lighting QA
+
+| Check | Requirement |
+|-------|-------------|
+| Light direction | Same direction across continuation shots |
+| Light intensity | Same intensity |
+| Shadow softness | Same soft preschool shadows |
+| Ambient lighting | Same ambient fill |
+| Highlight behaviour | Same highlight rolloff and sparkle level |
+| Cloud brightness | Same brightness relationship to sky |
+| Grass brightness | Same brightness relationship to environment |
+
+Reject the shot if any Voice QA, Colour QA or Lighting QA item fails.
 
 ---
 
@@ -282,8 +338,14 @@ Detect lighting problems.
 | What to Detect | Example |
 |----------------|---------|
 | Light direction changes | Shadow direction shifts |
+| Light intensity changes | Same scene suddenly becomes brighter or dimmer |
 | Colour temperature changes | Warm light becomes cool |
 | Shadow inconsistencies | Shadows appear or disappear |
+| Shadow softness changes | Soft preschool shadows become hard or dramatic |
+| Ambient lighting changes | Gentle fill becomes dark or contrasty |
+| Highlight behaviour changes | Matte finish becomes glossy or sparkly |
+| Cloud brightness changes | Clouds suddenly become too bright or dark |
+| Grass brightness changes | Grass jumps brighter or darker than previous shot |
 | Sudden exposure shifts | Image suddenly brightens or darkens |
 | Flickering | Rapid brightness changes |
 | Time-of-day inconsistencies | Night becomes day mid-scene |
@@ -296,12 +358,17 @@ Detect colour grading drift between shots.
 |----------------|---------|
 | White balance changes | Warm white balance becomes cool |
 | Warmth drift | Shot 2 is yellow, Shot 3 is orange, Shot 4 is cool |
+| Colour temperature changes | Same scene becomes warmer or cooler |
 | Saturation changes | Pastel palette becomes vivid or washed out |
 | Exposure mismatch | One shot is visibly brighter or darker |
 | Contrast shift | Low contrast becomes cinematic or harsh |
+| Brightness mismatch | Perceived brightness jumps between shots |
 | Blue tint | Warm preschool scene becomes cold |
 | Green tint | Interior or skin tones become greenish |
+| Magenta tint | Neutral colours become pink/purple |
 | Orange shift | Warm light becomes overly orange |
+| Warm shift | Shot becomes noticeably warmer than the previous shot |
+| Cool shift | Shot becomes noticeably cooler than the previous shot |
 | HDR look | Matte handcrafted finish becomes glossy/high dynamic range |
 | Cinematic LUT | Preschool palette becomes filmic/dramatic |
 
@@ -319,6 +386,9 @@ Detect voice drift between speaking shots.
 | Personality change | Warm curious voice becomes narrator-like |
 | Warmth change | Gentle delivery becomes flat or harsh |
 | Rhythm change | Speaking cadence no longer matches prior shots |
+| Pronunciation change | Same character pronounces words with different diction |
+| Accent change | Same character suddenly has a different accent |
+| Recording quality change | One shot sounds wetter, noisier, more processed or less clear |
 | Alternate narrator | A new unseen narrator speaks for the character |
 
 ### 15. Camera Consistency
@@ -383,6 +453,7 @@ Recommendation: [What to do about it]
 - Lighting changes between shots
 - Colour identity changes between shots
 - Voice identity changes between speaking shots
+- First frame of a continuation shot is visibly different from @image1
 
 ### When to Regenerate Entire Scene
 
@@ -390,6 +461,7 @@ Recommendation: [What to do about it]
 - Character appears fundamentally different across scene
 - Character voice appears fundamentally different across scene
 - Colour grade drifts across the scene
+- Lighting identity drifts across the scene
 - Camera movement is impossible throughout
 - Multiple critical issues across all shots
 
@@ -418,12 +490,15 @@ Recommendation: [What to do about it]
 
 | Category | Weight |
 |----------|--------|
-| Character Integrity | 25% |
-| Character Consistency | 20% |
-| Object Persistence | 15% |
-| Environment Consistency | 15% |
-| Rendering Quality | 15% |
-| Camera Consistency | 10% |
+| Voice Identity | 15% |
+| Colour Identity | 15% |
+| Lighting Continuity | 15% |
+| Character Integrity | 15% |
+| Character Consistency | 10% |
+| Environment Consistency | 10% |
+| Object Persistence | 10% |
+| Camera Consistency | 5% |
+| Rendering Quality | 5% |
 
 ---
 
@@ -566,10 +641,12 @@ In addition to general QA rules, Pompom Hills content must pass these checks:
 
 - White balance must remain unchanged across shots
 - Exposure must remain unchanged across shots
+- Colour temperature must remain unchanged across shots
 - Saturation must remain unchanged across shots
 - Contrast must remain unchanged across shots
+- Brightness must remain unchanged across shots
 - Pastel palette must remain stable
-- No blue tint, green tint or orange shift
+- No cool shift, warm shift, green tint, magenta tint or orange grading
 - No HDR look
 - No cinematic LUT
 - The episode must feel like one continuous colour grade
@@ -577,12 +654,19 @@ In addition to general QA rules, Pompom Hills content must pass these checks:
 ### Voice Rules
 
 - Voice must match the previous speaking shot
+- Same voice identity must be preserved
+- Same pitch must be preserved
+- Same timbre must be preserved
+- Same speaking speed must be preserved
 - Same age impression must be preserved
 - Same personality must be preserved
 - Same warmth must be preserved
 - Same speaking rhythm must be preserved
-- Same pitch and timbre must be preserved
+- Same pronunciation must be preserved
+- Same accent must be preserved
+- Same recording quality must be preserved
 - Same Voice ID or approved voice reference must be used when available
+- Previous shot audio must be used as voice reference when available
 - No different narrator or alternate voice
 
 ### Emotional Safety Rules

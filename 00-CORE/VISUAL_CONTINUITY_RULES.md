@@ -46,23 +46,25 @@ Amaç yalnızca benzer görünmek değildir. Amaç, tüm bölümün tek bir sür
 ```
 Her shot korumalıdır:
 - identical white balance
-- identical warmth
 - identical exposure
+- identical colour temperature
 - identical saturation
-- identical pastel palette
 - identical contrast
+- identical brightness
+- identical pastel palette
 - matte handcrafted finish
 ```
 
 ### Avoid
 
 ```
-- blue tint
+- cool shift
+- warm shift
 - green tint
-- orange shift
+- magenta tint
+- orange grading
 - HDR look
 - cinematic LUT
-- warmer or cooler reinterpretation
 ```
 
 ### Production Rules
@@ -70,7 +72,7 @@ Her shot korumalıdır:
 ```
 Match the colour grading of the previous shot.
 
-Avoid any colour shift.
+Avoid any colour shift: no cool shift, warm shift, green tint, magenta tint, orange grading, HDR look or cinematic LUT.
 
 Do not introduce cinematic grading.
 
@@ -104,21 +106,28 @@ Lighting Identity ve Colour Identity ayrı kilitlerdir. Lighting ışığın dav
 ### Default Lighting Identity
 
 ```
-- Warm morning sunlight
-- Soft ambient preschool lighting
-- Gentle shadows
-- Natural bounce lighting
-- No dramatic contrast
+- identical light direction
+- identical light intensity
+- identical shadow softness
+- identical ambient lighting
+- identical highlight behaviour
+- identical cloud brightness
+- identical grass brightness
 ```
 
 ### Match
 
 ```
+- light direction
+- light intensity
+- shadow softness
+- ambient lighting
+- highlight behaviour
+- cloud brightness
+- grass brightness
 - exposure
 - brightness
 - colour temperature
-- moonlight/sunlight intensity
-- shadow softness
 - lantern brightness
 - night sky colour
 - contrast
@@ -211,10 +220,29 @@ Her continuation shot, bir önceki shot'ın reference frame'inden devam etmelidi
 
 ```
 - Use the approved continuity reference frame
-- The first frame must match @image1 exactly
+- Treat @image1 as the complete visual master reference
+- The first visible frame must be visually indistinguishable from @image1
+- Not similar. Not close. Identical.
 - Treat @image1 as frame zero
+- Only after the first frame matches perfectly may animation begin
 - Do not reinterpret the starting frame
-- Match: camera distance, character positions, lighting, world proportions
+- Match: framing, camera distance, character positions, colour identity, lighting identity, exposure, white balance, atmosphere, world proportions, character proportions and character performance
+- The viewer must not perceive a shot boundary
+```
+
+### Master Reference Paragraph
+
+Every continuation shot prompt should include:
+
+```text
+Treat @image1 as the complete visual master reference.
+Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
+The viewer must not perceive a shot boundary.
+
+The first visible frame must be visually indistinguishable from @image1.
+Not similar. Not close. Identical.
+
+Only after the first frame matches perfectly may animation begin.
 ```
 
 ---
@@ -224,15 +252,23 @@ Her continuation shot, bir önceki shot'ın reference frame'inden devam etmelidi
 Her shot için:
 
 ```
+- [ ] First visible frame is visually indistinguishable from @image1
 - [ ] Colour grading matches the previous shot
 - [ ] White balance remains consistent
 - [ ] Warmth remains consistent
+- [ ] Colour temperature remains consistent
+- [ ] Brightness remains consistent
 - [ ] Lighting mood remains consistent
+- [ ] Light direction remains consistent
+- [ ] Light intensity remains consistent
+- [ ] Shadow softness remains consistent
+- [ ] Ambient lighting remains consistent
+- [ ] Highlight behaviour remains consistent
 - [ ] Exposure matches neighbouring shots
 - [ ] Saturation remains consistent
 - [ ] Contrast remains consistent
 - [ ] No unexpected colour shift
-- [ ] No blue tint, green tint, orange shift, HDR look or cinematic LUT
+- [ ] No cool shift, warm shift, green tint, magenta tint, orange grading, HDR look or cinematic LUT
 - [ ] Camera distance preserved
 - [ ] No close-ups unless necessary
 - [ ] Character scale correct (6-8% frame)

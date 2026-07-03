@@ -17,7 +17,7 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 ### 1. Dosya Yapısı
 
 - [ ] `shots/` klasörü var mı?
-- [ ] 4 shot dosyası var mı? (shot-01, shot-02, shot-03, shot-04)
+- [ ] 6 shot dosyası var mı? (shot-01 ... shot-06)
 - [ ] `09-render-prompts.md` var mı?
 - [ ] `01-overview.md` var mı?
 
@@ -34,6 +34,8 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 ### 3. Shot-02+ Kontrolü
 
 - [ ] Frame Lock var mı? (frame zero, @image1)
+- [ ] First visible frame visually indistinguishable from @image1 olarak yazılmış mı?
+- [ ] @image1 complete visual master reference olarak tanımlanmış mı?
 - [ ] Camera Lock var mı? (identical camera position)
 - [ ] Lighting Lock var mı? (first frame must preserve exact lighting)
 - [ ] Colour Identity Lock var mı? (white balance, exposure, saturation, contrast)
@@ -84,6 +86,13 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 ### 9. Lighting Continuity
 
 - [ ] Işık continuity reference'dan mı geliyor?
+- [ ] Light direction unchanged mı?
+- [ ] Light intensity unchanged mı?
+- [ ] Shadow softness unchanged mı?
+- [ ] Ambient lighting unchanged mı?
+- [ ] Highlight behaviour unchanged mı?
+- [ ] Cloud brightness unchanged mı?
+- [ ] Grass brightness unchanged mı?
 - [ ] Exposure kilitli mi?
 - [ ] Brightness kilitli mi?
 - [ ] Sahne parlaklaşmamış/kararmamış mı?
@@ -92,10 +101,13 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 
 - [ ] White balance unchanged mı?
 - [ ] Exposure unchanged mı?
+- [ ] Colour temperature unchanged mı?
 - [ ] Saturation unchanged mı?
 - [ ] Contrast unchanged mı?
+- [ ] Brightness unchanged mı?
 - [ ] Pastel palette korunuyor mu?
-- [ ] Blue tint / green tint / orange shift yok mu?
+- [ ] Cool shift / warm shift yok mu?
+- [ ] Blue tint / green tint / magenta tint / orange grading yok mu?
 - [ ] HDR look veya cinematic LUT yok mu?
 - [ ] Episode tek bir continuous recording gibi görünüyor mu?
 
@@ -117,12 +129,20 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 ### 13. Voice QA
 
 - [ ] Voice matches previous shot mı?
+- [ ] Same voice identity korunuyor mu?
+- [ ] Same pitch korunuyor mu?
+- [ ] Same timbre korunuyor mu?
+- [ ] Same speaking speed korunuyor mu?
+- [ ] Same emotional tone korunuyor mu?
 - [ ] Same age impression korunuyor mu?
 - [ ] Same personality korunuyor mu?
 - [ ] Same warmth korunuyor mu?
 - [ ] Same speaking rhythm korunuyor mu?
-- [ ] Same pitch and timbre korunuyor mu?
+- [ ] Same pronunciation korunuyor mu?
+- [ ] Same accent korunuyor mu?
+- [ ] Same recording quality korunuyor mu?
 - [ ] Voice ID veya voice reference aynı mı?
+- [ ] Previous shot audio voice reference olarak kullanılmış mı?
 - [ ] Farklı narrator veya alternate voice oluşmamış mı?
 
 ### 14. Shot Duration Feasibility
@@ -164,6 +184,11 @@ Bir sahne şu durumlarda reddedilir:
 | 12 | Renk tonu shot'lar arasında değişmiş | Evet → Red |
 | 13 | Karakter sesi shot'lar arasında değişmiş | Evet → Red |
 | 14 | Yeni establishing shot | Evet → Red |
+| 15 | İlk frame @image1'den ayırt edilebilir derecede farklı | Evet → Red |
+| 16 | Light direction / intensity / shadow softness değişmiş | Evet → Red |
+| 17 | Voice pitch / pronunciation / accent / recording quality değişmiş | Evet → Red |
+
+Voice QA, Colour QA veya Lighting QA maddelerinden herhangi biri fail olursa shot reddedilir.
 
 ---
 
