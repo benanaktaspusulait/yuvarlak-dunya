@@ -23,6 +23,18 @@
 **@image1 = Shot 03 last frame**
 **Lighting lock:** First frame must preserve identical interior lighting from Shot 03.
 
+The first frame of this shot MUST be visually identical to @image1.
+
+Begin animation from that exact frame.
+
+No establishing shot.
+No camera reposition.
+No camera zoom.
+No scene reset.
+No fade in.
+
+The viewer must feel that this shot starts one frame after the previous shot ended.
+
 Kiko is in the centre of the room after the tour.
 
 ---
@@ -38,7 +50,7 @@ Kiko stands in the middle of the room. She faces camera. She smiles warmly. She 
 WORLD: Kiko's Home interior. LOCKED.
 CHARACTER: Kiko — no redesign.
 SCALE: Kiko ~8% of frame.
-CAMERA: Interior wide, 50mm, static.
+CAMERA: Interior wide. Static. Child eye level. Do not walk. Remain in place.
 LIGHTING: Warm interior light.
 NEGATIVE: No text, no redesigned interior.
 ```
@@ -48,14 +60,14 @@ NEGATIVE: No text, no redesigned interior.
 ## Dialogue
 
 ```
-Kiko: Welcome inside!
+Kiko: Next time I'll show you even more!
 ```
 
 ---
 
 ## Character Signature
 
-Warm smile, gentle wave — Kiko's welcoming gesture. The interior version of her exterior wave from S01E01.
+Kiko's signature warm smile and gentle farewell wave — the interior version of her welcoming gesture.
 
 ---
 
@@ -83,10 +95,15 @@ Warm interior light — safe, complete.
 
 ---
 
+Kiko is already present at the beginning of the shot.
+
+Do not introduce Kiko after the shot has started.
+
 ## QA Checklist
 
-- [ ] Character integrity verified
-- [ ] Character consistency verified
+- [ ] First frame matches @image1 exactly
+- [ ] Visual continuity preserved from Shot 03
+- [ ] Character integrity and consistency verified
 - [ ] Object persistence verified
 - [ ] No rendering artefacts
 - [ ] Camera consistency verified

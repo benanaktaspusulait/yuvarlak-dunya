@@ -23,11 +23,12 @@
 | Property | Value |
 |----------|-------|
 | Name | Entering |
-| Duration | 4–8 seconds |
-| Action | Kiko walks to door, opens it, steps inside, camera follows |
+| Duration | 10 seconds (4–14 sn) |
+| Action | Kiko pauses, speaks, opens door, steps inside, camera follows |
 | Camera | Follow from behind, child eye level (0.75m), through doorway |
-| Dialogue | None — movement only |
+| Dialogue | "Oh! I almost forgot!" / "Come on... let me show you inside!" |
 | Continuity | **@image1 = Shot 01 last frame** |
+| Scale | Kiko 15–20% of frame during doorway transition |
 | Transition | Door opens naturally, camera follows through |
 
 ---
@@ -37,10 +38,10 @@
 | Property | Value |
 |----------|-------|
 | Name | Tour |
-| Duration | 8–12 seconds |
+| Duration | 8 seconds (14–22 sn) |
 | Action | Kiko walks through room, points to reading corner, toy corner, window |
-| Camera | Interior wide, 50mm, gentle pan following Kiko |
-| Dialogue | "This is where I read stories." / "And these are my favourite toys." / "I love looking outside from here." |
+| Camera | Interior wide, 50mm, gentle pans only. No camera repositioning. |
+| Dialogue | "This is where I read stories." / "I love looking outside from here." |
 | Continuity | **@image1 = Shot 02 last frame (interior)** |
 
 ---
@@ -50,7 +51,7 @@
 | Property | Value |
 |----------|-------|
 | Name | Welcome |
-| Duration | 12–15 seconds |
+| Duration | 2 seconds (22–24 sn) |
 | Action | Kiko in centre of room, faces camera, waves |
 | Camera | Interior wide, 50mm, static |
 | Dialogue | "Welcome inside!" |
@@ -61,7 +62,7 @@
 
 ## Total Duration
 
-4 + 4 + 4 + 3 = **15 seconds**
+4 + 10 + 8 + 2 = **24 seconds**
 
 ---
 

@@ -44,7 +44,7 @@ Shot 03 (8–12 sn):
 Kiko: And this big tree keeps us cool on sunny days!
 
 Shot 04 (12–15 sn):
-Kiko: I can't wait to show you more of Pompom Hills!
+Kiko: I hope you'll visit again soon!
 ```
 
 ---
@@ -98,7 +98,7 @@ Kiko: I can't wait to show you more of Pompom Hills!
 |----------|-------|
 | Action | Kiko waves, hops, smiles, hold |
 | Camera | Wide, 50mm, static |
-| Dialogue | "I can't wait to show you more of Pompom Hills!" |
+| Dialogue | "I hope you'll visit again soon!" |
 | Character signature | One small joyful hop (signature goodbye) |
 | Continuity | Previous: Shot 03 last frame |
 

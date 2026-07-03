@@ -92,6 +92,22 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Dramatic push-in/pull-back yok mu?
 - [ ] Yeni establishing shot yok mu?
 
+### 11. Dialogue Continuity
+
+- [ ] Diyalog talimatları çelişkili mi?
+- [ ] Bir shot'ta hem diyalog var hem "no dialogue" denmiş mi?
+- [ ] Önceki shot'tan diyalog tekrarlanmış mı?
+- [ ] Sessiz shot'larda diyalog satırı var mı?
+- [ ] Devam shot'larında neden devam ettiği açıklanmış mı?
+
+### 12. Shot Duration Feasibility
+
+- [ ] Shot süresi, diyalog, aksiyon, kamera hareketi ve geçiş için gerçekçi mi?
+- [ ] Diyalog + gezinme varsa minimum 8 saniye mi?
+- [ ] Diyalog + kapı + yeni alana geçiş varsa minimum 10 saniye mi?
+- [ ] Dışarıdan içeriye geçiş varsa minimum 10-12 saniye mi?
+- [ ] Shot aşırı yüklü değil mi? (gerekirse iki shot'a bölünmeli)
+
 ---
 
 ## Otomatik Kontrol Script'i

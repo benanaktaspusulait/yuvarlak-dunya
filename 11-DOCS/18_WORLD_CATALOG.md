@@ -12,8 +12,9 @@
 | Total worlds | 30 |
 | Bible ready | 30 |
 | Hero view image | 27 |
-| Used in Season 1 | 4 |
-| Planned for future | 26 |
+| Production Ready | 5 |
+| Used in Season 1 | 5 |
+| Planned for future | 25 |
 
 ---
 
@@ -22,6 +23,7 @@
 | # | World | Purpose | Atmosphere | Characters | Episodes Used | Bible | Image | Status |
 |---|-------|---------|------------|------------|:------------:|:-----:|:-----:|--------|
 | 1 | **Central Square** | Heart of the world — everyone meets here | Warm, communal | Kiko, Mimi, Opa, Noah, Arda, Luca | 16 | ✅ | ✅ | 🟢 Production Ready |
+| 3 | **Kiko's Cozy Hillside Home** | Kiko's safe home base — where adventures begin and end | Cozy, warm, safe | Kiko | 2 | ✅ | ✅ | 🟢 Production Ready |
 | 6 | **Opa's Tree** | Opa's home and storytelling place | Wise, calm, safe | Opa, Kiko, Arda | 5 | ✅ | ✅ | 🟢 Production Ready |
 | 6n | **Opa's Tree (Night)** | Nighttime version of Opa's Tree | Dreamy, bedtime | Opa, Luca, Kiko | 1 | ✅ | ✅ | 🟢 Production Ready |
 | 27 | **Stone Hill** | Gentle rocky hill for discovery | Curious, exploratory | Luca, Kiko | 2 | ✅ | ✅ | 🟢 Production Ready |

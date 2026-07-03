@@ -13,7 +13,7 @@
 | Episode | Kiko's Home Tour |
 | Shot | 01 / 04 |
 | Duration | 4 seconds |
-| Location | Kiko's Home — Front Garden |
+| Location | Kiko's Home — Front Garden (near door) |
 | Characters | Kiko |
 
 ---
@@ -23,6 +23,11 @@
 **Opening Hook:** First shot — starts immediately with Kiko remembering something. No delay. Voice + movement from frame 1.
 
 This is the FIRST shot of this episode.
+
+**This shot begins EXACTLY where S01E01 ended:**
+- Kiko is near the front door
+- She has just finished waving and hopping
+- She is about to leave but suddenly remembers
 
 Visual continuity with S01E01 is maintained through identical world, lighting, and character design.
 
@@ -37,29 +42,36 @@ Visual continuity with S01E01 is maintained through identical world, lighting, a
 # KIKO'S HOME TOUR
 # SHOT 01
 
-This is the FIRST shot of this episode.
-Start the new episode from this moment.
+CONTINUATION: This shot begins exactly where the previous video ended.
+The previous video ended with Kiko near the front door, waving goodbye.
+She has just finished her hop. She is about to leave.
 
-Kiko is standing near the large tree in her front garden.
-She suddenly smiles as if she remembers something.
+Do NOT restart the scene.
+Do NOT move Kiko to a different position.
+Continue from the exact final frame of the previous video.
+
+Kiko is standing near the front door in her front garden.
+She has just finished waving and hopping.
+She is about to leave — but suddenly she pauses.
+She smiles as if she remembers something.
 
 Dialogue:
 "Oh! I almost forgot!"
 
-She turns toward her house.
+She turns toward the door.
 She looks back at the viewer.
 
 Dialogue:
 "Come on! Let me show you inside."
 
-She begins walking naturally toward the front door.
+She reaches for the door handle.
 
 WORLD: Same Kiko's Home exterior. LOCKED. DO NOT redesign.
 CHARACTER: Kiko — coral pink shirt, white shorts, brown pigtails. No redesign.
 SCALE: Kiko ~8% of frame.
-CAMERA: Wide, 50mm, static, 0.85m.
+CAMERA: Wide, 50mm, static, 0.85m. Same position as S01E01 Shot 04.
 LIGHTING: Warm morning sunlight — identical to S01E01.
-NEGATIVE: No text, no extra characters, no redesigned environment, no teleportation.
+NEGATIVE: No text, no extra characters, no redesigned environment, no teleportation, no position change.
 ```
 
 ---
@@ -102,6 +114,10 @@ Small excited bounce before turning toward house. Kiko's "I have an idea" moment
 Warm morning sunlight — identical to S01E01.
 
 ---
+
+Kiko is already present at the beginning of the shot.
+
+Do not introduce Kiko after the shot has started.
 
 ## QA Checklist
 

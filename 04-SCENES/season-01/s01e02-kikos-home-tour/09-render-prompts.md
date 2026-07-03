@@ -21,29 +21,36 @@ Pixar-quality preschool animation, soft plush toy texture, rounded shapes only, 
 # KIKO'S HOME TOUR
 # SHOT 01
 
-This is the FIRST shot of this episode.
-Start the new episode from this moment.
+CONTINUATION: This shot begins exactly where the previous video ended.
+The previous video ended with Kiko near the front door, waving goodbye.
+She has just finished her hop. She is about to leave.
 
-Kiko is standing near the large tree in her front garden.
-She suddenly smiles as if she remembers something.
+Do NOT restart the scene.
+Do NOT move Kiko to a different position.
+Continue from the exact final frame of the previous video.
+
+Kiko is standing near the front door in her front garden.
+She has just finished waving and hopping.
+She is about to leave — but suddenly she pauses.
+She smiles as if she remembers something.
 
 Dialogue:
 "Oh! I almost forgot!"
 
-She turns toward her house.
+She turns toward the door.
 She looks back at the viewer.
 
 Dialogue:
 "Come on! Let me show you inside."
 
-She begins walking naturally toward the front door.
+She reaches for the door handle.
 
 WORLD: Same Kiko's Home exterior. LOCKED. DO NOT redesign.
 CHARACTER: Kiko — coral pink shirt, white shorts, brown pigtails. No redesign.
 SCALE: Kiko ~8% of frame.
-CAMERA: Wide, 50mm, static, 0.85m.
+CAMERA: Wide, 50mm, static, 0.85m. Same position as S01E01 Shot 04.
 LIGHTING: Warm morning sunlight — identical to S01E01.
-NEGATIVE: No text, no extra characters, no redesigned environment, no teleportation.
+NEGATIVE: No text, no extra characters, no redesigned environment, no teleportation, no position change.
 ```
 
 ---
@@ -57,11 +64,13 @@ NEGATIVE: No text, no extra characters, no redesigned environment, no teleportat
 
 Use @image1 (Shot 01 last frame) as continuity reference.
 
+The first frame of this shot MUST be visually identical to @image1.
+Begin animation from that exact frame.
+No establishing shot. No camera reposition. No camera zoom. No scene reset. No fade in.
+The viewer must feel that this shot starts one frame after the previous shot ended.
+
 This shot begins immediately after Shot 01.
-The previous shot has already happened.
-Kiko has already welcomed the viewer.
-She has already shown the flowers.
-She has already shown the big tree.
+Shot 01 ended with Kiko near the front door after her garden introduction.
 
 Do NOT repeat any introduction.
 Do NOT wave hello.
@@ -72,35 +81,29 @@ Continue naturally from the current moment.
 SCENE
 --------------------------------------------------
 
-Kiko is standing near the large tree in her front garden.
+Kiko is at the front door after finishing the garden introduction.
 
-She suddenly smiles as if she remembers something.
+She pauses.
+She blinks.
+Then suddenly she smiles as if she remembered something.
 
 Dialogue:
 "Oh! I almost forgot!"
 
-She turns toward her house.
-She looks back at the viewer.
+Kiko gently turns toward the camera and points to the door.
 
 Dialogue:
-"Come on! Let me show you inside."
+"Come on... let me show you inside!"
 
-She begins walking naturally toward the front door.
+Then she opens the door and walks inside.
 
-The camera follows behind her at child eye level.
+Camera follows behind her at child eye level.
 
-Show a continuous walk along the garden path.
-Keep the movement slow and natural.
-
-When Kiko reaches the front door, she opens it.
-
-The camera stays behind Kiko and follows her through the doorway.
-
-Do NOT cut.
-Do NOT teleport.
-Do NOT restart the scene.
-
-The movement from the garden into the house must feel continuous.
+Keep the movement continuous.
+Do not restart the scene.
+Do not introduce Kiko again.
+Do not repeat the garden tour.
+Do not add new characters.
 
 --------------------------------------------------
 INTERIOR
@@ -122,15 +125,16 @@ Visible areas:
 Kiko walks a few steps inside.
 She smiles.
 
-Dialogue:
-"Welcome inside!"
+Dialogue timing:
 
-She points toward the reading corner.
+"Oh! I almost forgot!"
+(Kiko pauses, smiles.)
 
-Dialogue:
-"This is my favourite place."
+"Come on... let me show you inside!"
+(Kiko opens the door and begins walking.)
 
-Fade out.
+After entering the house there is no further dialogue.
+Allow the camera to focus on the transition into the interior.
 
 --------------------------------------------------
 WORLD
@@ -155,7 +159,11 @@ No teleportation.
 No scene reset.
 No new establishing shot.
 
-The viewer should feel that the camera simply followed Kiko from the garden into the house.
+The camera initially remains exactly where @image1 ended.
+
+As Kiko begins walking toward the door, the camera naturally follows her while preserving the existing viewing angle.
+
+Avoid abrupt camera repositioning.
 
 --------------------------------------------------
 CHARACTER
@@ -168,8 +176,8 @@ No clothing changes.
 No facial changes.
 No scale changes.
 
-Kiko occupies ~8% of frame.
-Environment is the hero.
+Kiko occupies 15–20% of frame during the doorway transition.
+The environment remains dominant, but Kiko must be clearly readable.
 
 --------------------------------------------------
 LIGHTING
@@ -178,6 +186,8 @@ LIGHTING
 Exterior: Warm morning sunlight.
 Interior: Warm interior light consistent with exterior.
 Transition: Natural, no sudden changes.
+The lighting transition must be gradual while crossing the doorway.
+No sudden exposure or colour temperature change.
 
 --------------------------------------------------
 NEGATIVE
@@ -202,27 +212,37 @@ No new establishing shot.
 ## Shot 03 — Tour
 
 ```
+Episode Goal:
+
+The purpose of this shot is to slowly introduce one or two areas of Kiko's home.
+
+Do not rush.
+
+The environment should feel calm, readable and memorable for preschool children.
+
 Use @image1 (Shot 02 last frame — interior) as continuity reference.
-Continue seamlessly from the previous shot.
 
 The interior must be the inside of the SAME house. Do NOT redesign the house.
 One continuous rounded living space. No separate rooms. No realistic architecture.
 Everything remains rounded and child-friendly.
 
-Interior visible zones:
-- Reading Corner (left side)
-- Small Round Table (centre)
-- Toy Corner (right side)
-- Cozy Window Seat (wall)
+Important visible areas include:
+- Reading Corner
+- Round Table
+- Toy Corner
+- Window Seat
 
-Kiko slowly walks through the room. She points naturally while talking. She moves from zone to zone.
+Kiko slowly walks between the featured areas of this shot.
+She naturally points while talking.
+
+The camera remains in the same general position and only performs slow pan movements. No cuts, no teleporting, no new camera placement.
 
 WORLD: Kiko's Home interior. LOCKED. DO NOT redesign.
 CHARACTER: Kiko — no redesign.
-SCALE: Kiko ~8% of frame.
-CAMERA: Interior wide, 50mm, gentle pan following Kiko.
-LIGHTING: Warm interior light, consistent with exterior warmth.
-NEGATIVE: No text, no redesigned interior, no hard walls, no separate rooms.
+SCALE: Kiko 15–20% of frame. Environment remains dominant, but Kiko is clearly readable.
+CAMERA: Interior wide shot. Gentle pan movements only. Child eye level. No camera repositioning.
+LIGHTING: Apply Pompom Hills Visual Continuity Rules. Maintain the canonical interior colour profile established in Shot 02. No change in colour temperature, exposure, saturation, contrast or lighting mood.
+NEGATIVE: No text, no redesigned interior, no hard walls, no separate rooms, no sudden lighting changes, no camera repositioning.
 ```
 
 ---
@@ -235,10 +255,13 @@ Continue seamlessly from the previous shot.
 
 Kiko stands in the middle of the room. She faces camera. She smiles warmly. She waves.
 
+Dialogue:
+"Next time I'll show you even more!"
+
 WORLD: Kiko's Home interior. LOCKED.
 CHARACTER: Kiko — no redesign.
-SCALE: Kiko ~8% of frame.
-CAMERA: Interior wide, 50mm, static.
+SCALE: Kiko 15–20% of frame.
+CAMERA: Interior wide shot. Static. Child eye level. Do not walk. Remain in place.
 LIGHTING: Warm interior light.
 NEGATIVE: No text, no redesigned interior.
 ```

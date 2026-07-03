@@ -131,6 +131,7 @@
 | Opa's Tree | Production Ready | 5 |
 | Opa's Tree (Night) | Production Ready | 1 |
 | Stone Hill | Production Ready | 2 |
+| Kiko's Cozy Hillside Home | Production Ready | 2 |
 
 ### Worlds Planned
 

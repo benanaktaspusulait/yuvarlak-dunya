@@ -31,13 +31,11 @@
 | Central Square | ✅ | ✅ | ✅ | Production Ready |
 | Opa's Tree | ✅ | ✅ | ✅ | Production Ready |
 | Stone Hill | ✅ | ✅ | ✅ | Production Ready |
+| Kiko's Cozy Hillside Home | ✅ | ✅ | ✅ | Production Ready |
 | Cloud Hill | ✅ | ✅ | ❌ | Planned |
 | Little Forest | ✅ | ✅ | ❌ | Planned |
 | Butterfly Meadow | ✅ | ✅ | ❌ | Planned |
 | Rainbow Bridge | ✅ | ✅ | ❌ | Planned |
-| Paddle Cove | ✅ | ❌ | ❌ | Planned |
-| Pony Meadow | ✅ | ❌ | ❌ | Planned |
-| Hobby Horse Trail | ✅ | ❌ | ❌ | Planned |
 | (27 total) | ✅ | ✅ | Partial | Mixed |
 
 ---

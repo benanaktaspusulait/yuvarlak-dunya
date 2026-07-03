@@ -1,7 +1,7 @@
 # Shot 02 — Entering
 
 > **Parent Episode:** S01E02 — Kiko's Home Tour
-> **Shot:** 02 of 04 | **Duration:** 4–8 seconds
+> **Shot:** 02 of 04 | **Duration:** 4–14 seconds (10 seconds)
 > **@image1 = Shot 01 last frame**
 
 ---
@@ -12,7 +12,7 @@
 |------|-------|
 | Episode | Kiko's Home Tour |
 | Shot | 02 / 04 |
-| Duration | 4 seconds |
+| Duration | 10 seconds |
 | Location | Kiko's Home — Front Garden → Interior |
 | Characters | Kiko |
 
@@ -20,8 +20,20 @@
 
 ## Continuity
 
-**@image1 = Shot 01 last frame**
+**@image1 = Shot 01 last frame (frame zero for this shot)**
 **Lighting lock:** First frame must preserve identical lighting from Shot 01.
+
+The first frame of this shot MUST be visually identical to @image1.
+
+Begin animation from that exact frame.
+
+No establishing shot.
+No camera reposition.
+No camera zoom.
+No scene reset.
+No fade in.
+
+The viewer must feel that this shot starts one frame after the previous shot ended.
 
 This shot begins immediately after Shot 01.
 Kiko has already welcomed the viewer.
@@ -38,11 +50,13 @@ Do NOT repeat any introduction.
 
 Use @image1 (Shot 01 last frame) as continuity reference.
 
+The first frame of this shot MUST be visually identical to @image1.
+Begin animation from that exact frame.
+No establishing shot. No camera reposition. No camera zoom. No scene reset. No fade in.
+The viewer must feel that this shot starts one frame after the previous shot ended.
+
 This shot begins immediately after Shot 01.
-The previous shot has already happened.
-Kiko has already welcomed the viewer.
-She has already shown the flowers.
-She has already shown the big tree.
+Shot 01 ended with Kiko near the front door after her garden introduction.
 
 Do NOT repeat any introduction.
 Do NOT wave hello.
@@ -53,35 +67,33 @@ Continue naturally from the current moment.
 SCENE
 --------------------------------------------------
 
-Kiko is standing near the large tree in her front garden.
+Kiko is at the front door after finishing the garden introduction.
 
-She suddenly smiles as if she remembers something.
+She pauses.
+She blinks.
+Then suddenly she smiles as if she remembered something.
 
 Dialogue:
 "Oh! I almost forgot!"
 
-She turns toward her house.
-She looks back at the viewer.
+Kiko gently turns toward the camera and points to the door.
 
 Dialogue:
-"Come on! Let me show you inside."
+"Come on... let me show you inside!"
 
-She begins walking naturally toward the front door.
+Then she opens the door and walks inside.
 
-The camera follows behind her at child eye level.
+The camera initially remains exactly where @image1 ended.
 
-Show a continuous walk along the garden path.
-Keep the movement slow and natural.
+As Kiko begins walking toward the door, the camera naturally follows her while preserving the existing viewing angle.
 
-When Kiko reaches the front door, she opens it.
+Avoid abrupt camera repositioning.
 
-The camera stays behind Kiko and follows her through the doorway.
-
-Do NOT cut.
-Do NOT teleport.
-Do NOT restart the scene.
-
-The movement from the garden into the house must feel continuous.
+Keep the movement continuous.
+Do not restart the scene.
+Do not introduce Kiko again.
+Do not repeat the garden tour.
+Do not add new characters.
 
 --------------------------------------------------
 INTERIOR
@@ -103,15 +115,16 @@ Visible areas:
 Kiko walks a few steps inside.
 She smiles.
 
-Dialogue:
-"Welcome inside!"
+Dialogue timing:
 
-She points toward the reading corner.
+"Oh! I almost forgot!"
+(Kiko pauses, smiles.)
 
-Dialogue:
-"This is my favourite place."
+"Come on... let me show you inside!"
+(Kiko opens the door and begins walking.)
 
-Fade out.
+After entering the house there is no further dialogue.
+Allow the camera to focus on the transition into the interior.
 
 --------------------------------------------------
 WORLD
@@ -149,8 +162,8 @@ No clothing changes.
 No facial changes.
 No scale changes.
 
-Kiko occupies ~8% of frame.
-Environment is the hero.
+Kiko occupies 15–20% of frame during the doorway transition.
+The environment remains dominant, but Kiko must be clearly readable.
 
 --------------------------------------------------
 LIGHTING
@@ -159,6 +172,8 @@ LIGHTING
 Exterior: Warm morning sunlight.
 Interior: Warm interior light consistent with exterior.
 Transition: Natural, no sudden changes.
+The lighting transition must be gradual while crossing the doorway.
+No sudden exposure or colour temperature change.
 
 --------------------------------------------------
 NEGATIVE
@@ -183,7 +198,8 @@ No new establishing shot.
 ## Dialogue
 
 ```
-(No dialogue — movement only)
+Kiko: Oh! I almost forgot!
+Kiko: Come on... let me show you inside!
 ```
 
 ---
@@ -192,10 +208,10 @@ No new establishing shot.
 
 | Time | Action | Camera |
 |------|--------|--------|
-| 4–5 sn | Kiko walks toward door | Follow from behind, 0.75m |
-| 5–6 sn | Kiko opens door | Follow from behind |
-| 6–7 sn | Kiko steps inside | Follow through doorway |
-| 7–8 sn | Camera enters interior | Follow, now inside |
+| 4–6 sn | Kiko pauses, blinks, smiles | Follow from behind, 0.75m |
+| 6–8 sn | "Oh! I almost forgot!" — turns to camera | Follow from behind |
+| 8–11 sn | "Come on... let me show you inside!" — points to door, opens it | Follow from behind |
+| 11–14 sn | Kiko enters, camera follows inside | Follow, now inside |
 
 ---
 

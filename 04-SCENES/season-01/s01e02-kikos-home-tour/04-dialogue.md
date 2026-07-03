@@ -8,19 +8,20 @@
 
 ```
 Shot 01 (0–4 sn):
-Kiko: Oh! I almost forgot!
-Kiko: Come on! Let me show you inside!
+Kiko: I hope you'll visit again soon!
 
 Shot 02 (4–8 sn):
-(Kiko walks toward door, opens it, enters. Camera follows. No dialogue.)
+Kiko: Oh! I almost forgot!
+(Kiko pauses, smiles.)
+Kiko: Come on... let me show you inside!
+(Kiko opens door, walks inside, camera follows. No further dialogue after entering.)
 
-Shot 03 (8–12 sn):
+Shot 03 (14–22 sn):
 Kiko: This is where I read stories.
-Kiko: And these are my favourite toys.
 Kiko: I love looking outside from here.
 
-Shot 04 (12–15 sn):
-Kiko: Welcome inside!
+Shot 04 (22–24 sn):
+Kiko: Next time I'll show you even more!
 ```
 
 ---

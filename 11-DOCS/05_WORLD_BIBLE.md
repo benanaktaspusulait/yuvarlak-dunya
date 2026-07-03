@@ -84,6 +84,24 @@ Pompom Hills is a gentle preschool world where everything is round, safe, and en
 | **Typical emotional tone** | Curiosity, gentle adventure |
 | **Production complexity** | Low (minimal props) |
 
+### Kiko's Cozy Hillside Home
+
+| Attribute | Detail |
+|-----------|--------|
+| **Purpose** | Kiko's home — safe, warm, familiar base for adventures |
+| **Visual identity** | Coral-pink round cottage, rounded dome roof, white arched door, round windows, garden path, soft fence, flowers, tree |
+| **Atmosphere** | Cozy, warm, safe, familiar |
+| **Lighting** | Warm morning sunlight, soft shadows |
+| **Typical stories** | Home introductions, gentle routines, safe exploration |
+| **Characters commonly appearing** | Kiko |
+| **Reusable assets** | House exterior, garden, flowers, tree, fence, path |
+| **Production status** | Production Ready |
+| **Supports episodes** | 2+ of 26 |
+| **Best character combinations** | Kiko (solo), Kiko+Mimi |
+| **Camera presets** | Wide garden establishing, medium on Kiko, interior-exterior transitions |
+| **Typical emotional tone** | Warmth, safety, home comfort |
+| **Production complexity** | Medium (interior-exterior continuity required) |
+
 ---
 
 ## Future Worlds

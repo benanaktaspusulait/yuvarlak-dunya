@@ -32,9 +32,9 @@ Just as Kiko is about to leave, she remembers something exciting. She turns back
 | Sıra | Dosya | Süre | Karakter | Amaç |
 |------|-------|------|----------|------|
 | 01 | `shots/shot-01-remembering.md` | 0–4 sn | Kiko | Hatırlama — davet |
-| 02 | `shots/shot-02-entering.md` | 4–8 sn | Kiko | Kapıdan geçiş — kesintisiz |
-| 03 | `shots/shot-03-tour.md` | 8–12 sn | Kiko | İç mekan tanıtımı |
-| 04 | `shots/shot-04-welcome.md` | 12–15 sn | Kiko | Karşılama — kapanış |
+| 02 | `shots/shot-02-entering.md` | 4–14 sn | Kiko | Kapıdan geçiş — kesintisiz |
+| 03 | `shots/shot-03-tour.md` | 14–22 sn | Kiko | İç mekan tanıtımı |
+| 04 | `shots/shot-04-welcome.md` | 22–24 sn | Kiko | Karşılama — kapanış |
 
 ---
 

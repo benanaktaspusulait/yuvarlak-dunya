@@ -557,6 +557,169 @@ Ardışık shot'lar arasında renk tonu değişmemelidir. Farklı renk grading'i
 
 ---
 
+## Dialogue Continuity
+
+Shot dokümanları içindeki diyalog çelişkilerini önler.
+
+### Core Rule
+
+Bir shot dokümanı asla çelişkili diyalog talimatları içermemelidir.
+
+Eğer bir shot diyalog içeriyorsa, doküman şu bilgileri net bir şekilde tanımlamalıdır:
+
+- Kesin diyalog cümlesi
+- Kim söylüyor
+- Ne zaman söyleniyor
+- Ne önce olur
+- Ne sonra olur
+
+Eğer bir shot sessizse, doküman şu ifadeyi eklemelidir:
+
+```
+This shot has no dialogue.
+```
+
+Ancak shot'ın başka bir yerinde diyalog satırları içermemelidir.
+
+### Kurallar
+
+```
+Bir shot dokümanı asla çelişkili diyalog talimatları içermemelidir.
+
+Eğer shot diyalog içeriyorsa:
+- Kesin diyalog cümlesi tanımlanmalı
+- Kim söylüyor belirtilmeli
+- Ne zaman söyleniyor belirtilmeli
+- Ne önce olur belirtilmeli
+- Ne sonra olur belirtilmeli
+
+Eğer shot sessizse:
+- "This shot has no dialogue." ifadesi eklenmeli
+- Shot'ın başka yerinde diyalog satırı olmamalı
+```
+
+### Yanlış Örnek
+
+```
+Önceki shot:
+"Come on! Let me show you inside!"
+
+Sonraki shot:
+"Come on! Let me show you inside!"
+```
+
+### Doğru Örnek
+
+```
+Önceki shot:
+"See you soon!"
+
+Sonraki shot:
+"Oh! I almost forgot! Come on... let me show you inside!"
+```
+
+---
+
+## Continuation Dialogue Rule
+
+Devam shot'larında diyalog sürekliliği.
+
+### Kurallar
+
+```
+Bir shot önceki shot'tan devam ediyorsa:
+
+- Daha önce olan diyalogu tekrarlama
+- Önceki shot'ın son satırını tekrarlama (kasıtlı olarak senaryolaştırılmadıkça)
+- Yalnızca net bir duygusal veya hikaye beat'i oluşturuyorsa yeni diyalog kullan
+- Devam diyalogu neden sahnenin devam ettiğini açıklamalı
+```
+
+### Yanlış Örnek
+
+```
+Önceki shot:
+"Come on! Let me show you inside!"
+
+Sonraki shot:
+"Come on! Let me show you inside!"
+```
+
+### Doğru Örnek
+
+```
+Önceki shot:
+"See you soon!"
+
+Sonraki shot:
+"Oh! I almost forgot! Come on... let me show you inside!"
+```
+
+---
+
+## Shot Duration Feasibility Rule
+
+Shot dokümanlarının çok az sürede çok fazla aksiyon, diyalog, kamera hareketi ve dünya geçişi istemesini önler.
+
+### Core Rule
+
+Her shot süresi, içerdiği aksiyon miktarı için gerçekçi olmalıdır.
+
+Onaylamadan önce, istenen süre içinde şunların sığabileceğini değerlendirin:
+
+- Diyalog satırları
+- Karakter duraklaması
+- Yüz ifadesi
+- Hareket
+- Yürüyüş
+- Kapı açma
+- Girme veya çıkma
+- Kamera hareketi
+- Dünya geçişi
+- Duygusal an
+
+### Minimum Süre Rehberi
+
+| Aksiyon Tipi | Minimum Süre |
+|--------------|--------------|
+| Basit tepke veya hareket | 2-4 saniye |
+| Kısa diyalog + basit aksiyon | 4-6 saniye |
+| İki diyalog satırı + tepki | 6-8 saniye |
+| Diyalog + yürüyüş + nesne etkileşimi | 8-10 saniye |
+| Kapı açma / girme / çıkma geçişi | minimum 8 saniye |
+| Diyalog + kapı açma + yeni alana girme | minimum 10 saniye |
+| Dışarıdan içeriye geçiş | minimum 10-12 saniye |
+
+### Kurallar
+
+```
+Eğer bir shot hem diyalog hem gezinme içeriyorsa, 8 saniyeden kısa olmamalıdır.
+
+Eğer bir shot diyalog, kapı etkileşimi ve yeni alana girme içeriyorsa, 10 saniyeden kısa olmamalıdır.
+
+Eğer bir shot aşırı yüklü hissediliyorsa, iki shot'a bölün.
+```
+
+### Shot Document Checklist
+
+Her shot dokümanına şu maddeyi ekleyin:
+
+```
+- [ ] Shot süresi, diyalog, aksiyon, kamera hareketi ve geçiş için gerçekçi mi?
+```
+
+### Neden Önemli
+
+AI video üretimi, aşırı yüklü shot'larda:
+- Aksiyonları atlayabilir
+- Diyalogları görmezden gelebilir
+- Geçişleri aceleye getirebilir
+- Sahneyi yeniden başlatabilir
+
+Bu kural, shot'ların gerçekçi olmasını sağlar.
+
+---
+
 ## Reference Frame Selection
 
 Bir shot'ın son karesi otomatik olarak bir sonraki shot için en iyi referans karesi **değildir**.
