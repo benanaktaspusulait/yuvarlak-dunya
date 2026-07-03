@@ -756,44 +756,143 @@ This environment is designed as the permanent canonical learning space for all P
 ✓ World Identity: Learning Room tanınabilir mi?
 ✓ Camera: Çocuk göz hizasında mı?
 ✓ Lighting: Sıcak ve yumuşak mı?
-✓ Colour: Pastel ve tutarlı mı?
-✓ Scale: Çocuk boyutunda mı?
-✓ Atmosphere: Güvenli ve yaratıcı mı?
+✓ Colour: Pastel palet tutarlı mı?
+✓ Atmosphere: Yaratıcı ve öğrenme dolu mu?
 ✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
 ```
-
----
 
 ## Canonical Reusable Assets
 
 | Asset ID | Description |
 |----------|-------------|
-| LR-TABLE-01 | Büyük yuvarlak ahşap aktivite masası |
-| LR-CHAIR-01 | Küçük yuvarlak preschool sandalyesi |
-| LR-BOARD-01 | Büyük yuvarlak tebeşir tahtası |
-| LR-SHELF-01 | Alçak ahşap raf (büyük) |
-| LR-SHELF-02 | Küçük kitaplık (okuma köşesi) |
+| LR-TABLE-01 | Büyük yuvarlak ahşap masa |
+| LR-CHAIR-01 | Küçük yuvarlak sandalyeler |
+| LR-BOARD-01 | Büyük yuvarlak tahta |
+| LR-SHELF-01 | Alçak ahşap raf |
 | LR-RUG-01 | Yumuşak yuvarlak halı |
-| LR-CUSHION-01 | Yerde oturma minderi |
-| LR-LANTERN-01 | Okuma köşesi feneri |
-| LR-STUFFED-01 | Peluş hayvan |
 | LR-CRAYONS-01 | Boya kalemi kutusu |
-| LR-PENCILS-01 | Renkli kurşun kalemler |
-| LR-PAPER-01 | Çizim kağıtları |
 | LR-BLOCKS-01 | Ahşap yapı blokları |
-| LR-CLAY-01 | Şekillendirme kili |
-| LR-MAGNIFY-01 | Büyüteç |
 | LR-GLOBE-01 | Küçük oyuncak globe |
-| LR-BIRD-01 | Ahşap kuş |
-| LR-MICROSCOPE-01 | Oyuncak mikroskop |
-| LR-LEAVES-01 | Yaprak koleksiyonu |
-| LR-FLOWERS-01 | Çiçekler |
-| LR-BASKET-01 | Depolama sepeti |
-| LR-BUNTING-01 | Süs bayrakları |
-| LR-STARS-01 | Kağıt yıldızlar |
-| LR-GARLAND-01 | Yaprak çelenk |
-| LR-CLOUD-MOBILE-01 | Bulut mobil |
-| LR-BUTTERFLY-01 | Kelebek süs |
+| LR-MAGNIFY-01 | Büyüteç |
+| LR-PLANTS-01 | İç mekan bitkileri |
+
+## World Navigation
+
+```
+Giriş → Aktivite alanı (merkez) → Tahta (arka duvar) → Okuma köşesi → Yaratıcı köşe → Doğa rafı
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide interior (tüm oda)
+2. Medium (masa + tahta)
+3. Close-up (prop detayı)
+4. Window shot (pencere)
+5. Detail (doğa rafı)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide interior |
+| Grup etkinliği | Medium |
+| Çizim | Close-up |
+| Sessiz an | Window shot |
+| Kapanış | Wide interior |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide interior | 0 |
+| Medium | 2-4 |
+| Close-up | 1-2 |
+| Window shot | 0-1 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Hikaye zamanı
+- Çizim etkinliği
+- Renk öğrenme
+- Sessiz okuma
+
+### Story Types That Don't Fit
+
+- Gürültü
+- Hız
+- Karanlık
+- Rekabet
+
+---
+
+## Canonical Prompt Reference Pack
+
+| Ref | Ad | Açıklama |
+|-----|-----|----------|
+| 01 | Hero View | %100 ortam, karakter yok — tüm oda görünür |
+| 02 | Entrance View | Giriş açısı — kapıdan içeri |
+| 03 | Activity View | Masa etrafı — grup etkinliği |
+| 04 | Detail View | Prop detayı — boyama, kitap |
+
+---
+
+## Prompt Generation Rules
+
+| Kural | Açıklama |
+|-------|----------|
+| Max 4 referans | Her shot'ta en fazla 4 referans kullanılır |
+| Hero View zorunlu | Her üretimde Hero View yüklenir |
+| Tutarlı ışık | Sıcak sabah güneş ışığı |
+| Tutarlı renk | Pastel palet |
+| Tutarlı malzeme | Ahşap, peluş, doğal |
+| Tutarlı ölçek | Çocuk boyutu |
+| Karakter yok referanslarda | Referanslar yalnızca ortam |
+
+---
+
+## World Identity Lock
+
+| Locked Element | Value | Acceptable Variations |
+|----------------|-------|----------------------|
+| Masa şekli | Yuvarlak, ahşap | Hafif boyut farkı |
+| Tahta rengi | Koyu yeşil veya krem | Ton varyasyonu |
+| Pencere | Kemerli | Hafif form farkı |
+
+---
+
+## Common Generation Failures
+
+| Failure | Why It Matters | Fix |
+|---------|---------------|-----|
+| Keskin köşe | Preschool安全ına aykırı | Tüm kenarları yuvarla |
+| Karanlık iç mekan | Sıcaklık kaybolur | Sıcak ışık ekle |
+| Modern mobilya | Kimlik bozulur | Ahşap ile değiştir |
+| Metin veya logo | Dikkat dağıtır | Kaldır |
+| Soğuk renk | Sıcaklık kaybolur | Pastel tonlar ekle |
+| Büyük ölçek | Çocuk hissi kaybolur | Küçük, çocuk boyutu |
+
+---
+
+## Video Generation Rules
+
+| Element | Rule |
+|---------|------|
+| Işık hareketi | Yavaş değişim, 30 frame |
+| Yaprak hareketi | Çok yavaş, 25 frame |
+| Kamera hızı | Maks %3 frame/sn pan veya tilt |
+| Ortam | Sabit, sıcak, sessiz |
+
+---
+
+## Production Summary
+
+Learning Room, PomPom Hills'in kalıcı öğrenme mekanıdır. Yuvarlak ahşap mobilyalar, sıcak sabah ışığı ve yaratıcı köşelerle tanınır. Hikaye zamanı, çizim etkinlikleri ve sessiz okuma sahneleri için idealdir. Her üretimde sıcaklık ve yaratıcılık hissi korunmalıdır.
 
 ---
 

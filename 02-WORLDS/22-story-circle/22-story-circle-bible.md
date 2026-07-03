@@ -667,6 +667,84 @@ Story Circle, PomPom Hills'in hikaye anlatma mekanıdır. Büyük hikaye ağacı
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Story Circle tanınabilir mi?
+✓ Camera: Doğal mı?
+✓ Lighting: Sıcak amber mi?
+✓ Colour: Doğal palet tutarlı mı?
+✓ Atmosphere: Huzurlu ve bilge mi?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| SC-TREE-01 | Büyük hikaye ağacı |
+| SC-STONES-01 | Yuvarlak oturma taşları |
+| SC-TRUNK-01 | Kalın ağaç gövdesi |
+| SC-BRANCH-01 | Geniş dallar |
+| SC-LEAVES-01 | Yeşil yapraklar |
+| SC-PATH-01 | Doğal taş yolu |
+| SC-GRASS-01 | Yumuşak yeşil çimen |
+
+## World Navigation
+
+```
+Camping Grove → Giriş yolu → Ağaç altı → Oturma alanı → Merkez (ağaç) → Art Corner
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide establishing (ağaç + taşlar)
+2. Below looking up (aşağıdan)
+3. Circle view (taşların ortasından)
+4. Close-up (ağaç kabuğu, taş)
+5. Canopy view (yukarıya)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide establishing |
+| Ağaç ile temas | Below looking up |
+| Hikaye zamanı | Circle view |
+| Detay | Close-up |
+| Kapanış | Canopy view |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide establishing | 0 |
+| Circle view | 3-6 |
+| Close-up | 1-2 |
+| Canopy view | 0 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Hikaye anlatma
+- Akşam rutini
+- Sessiz anlar
+- Bilgelik
+
+### Story Types That Don't Fit
+
+- Gürültü
+- Hız
+- Karanlık
+- Rekabet
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

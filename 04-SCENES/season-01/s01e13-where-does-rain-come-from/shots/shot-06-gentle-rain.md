@@ -154,7 +154,7 @@ The final line should feel warm and shared.
 
 Leave a quiet hold after the line.
 
-The last 2 seconds are silent — camera holds, both children look up at the clouds, gentle rain continues. No dialogue.
+The last 2 seconds are silent — camera holds, both children look up at the clouds, gentle rain continues. Quiet moment.
 
 ---
 
@@ -166,7 +166,7 @@ The last 2 seconds are silent — camera holds, both children look up at the clo
 | 3-6 sec | Gentle rain begins | Wide hold |
 | 6-9 sec | Luca and Mimi share a quiet smile | Stable |
 | 9-12 sec | Luca says the final line | Stable |
-| 12-15 sec | Both look up at the clouds — camera holds, rain continues, no dialogue | Wide hold |
+| 12-15 sec | Both look up at the clouds — camera holds, rain continues, quiet moment | Wide hold |
 
 ---
 

@@ -68,18 +68,24 @@ Match the colour grading of the previous shot exactly.
 
 The previous shot is the colour master reference. Never rebalance colours between shots.
 
+CRITICAL: Do NOT desaturate between shots. Do NOT make colours softer or paler.
+Each shot must maintain the SAME saturation level as the first shot.
+
 Maintain:
 - identical white balance
 - identical warmth
 - identical exposure
-- identical saturation
-- identical pastel palette
+- identical saturation (DO NOT reduce)
+- identical pastel palette (DO NOT soften)
 - identical contrast
 
 Avoid:
 - blue tint
 - green tint
 - orange shift
+- desaturation
+- softening of colours
+- fading of colours
 - HDR look
 - cinematic LUT
 

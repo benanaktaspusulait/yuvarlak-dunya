@@ -85,13 +85,15 @@ Then she opens the door and walks inside.
 
 The camera initially remains exactly where @image1 ended.
 
+Continue from the exact framing of Shot 01. Camera position is identical.
+
 As Kiko begins walking toward the door, the camera naturally follows her while preserving the existing viewing angle.
 
 Avoid abrupt camera repositioning.
 
 Keep the movement continuous.
 Do not restart the scene.
-Do not introduce Kiko again.
+Do not introduce Kiko again. Kiko is already present at the beginning of the shot.
 Do not repeat the garden tour.
 Do not add new characters.
 

@@ -128,3 +128,7 @@ Do not introduce Kiko after the shot has started.
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
+
+## Reference Usage
+
+This is the first shot. Use the approved first-frame still as the primary image reference.

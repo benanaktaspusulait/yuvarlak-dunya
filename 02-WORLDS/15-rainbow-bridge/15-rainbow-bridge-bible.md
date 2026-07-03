@@ -667,6 +667,86 @@ Rainbow Bridge, PomPom Hills'in en sihirli geçiş mekanıdır. Yuvarlak renkli 
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Rainbow Bridge tanınabilir mi?
+✓ Camera: Doğal mı?
+✓ Lighting: Sihirli ve parlak mı?
+✓ Colour: Gökkuşağı paleti tutarlı mı?
+✓ Atmosphere: Sihirli ve umutlu mu?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| RB-BRIDGE-01 | Yuvarlak renkli köprü |
+| RB-RAINBOW-01 | Gökkuşağı (6 renk) |
+| RB-STONES-01 | Pürüzsüz dilek taşları |
+| RB-RAILING-01 | Renkli korkuluk |
+| RB-WATER-01 | akan su |
+| RB-SPARKLE-01 | Sihirli parıltı |
+| RB-FLOWERS-01 | Renkli çiçekler |
+
+## World Navigation
+
+```
+Cloud Hill → Köprü girişi → Köprü ortası → Dilek taşları → Köprü çıkışı → Rainbow Creek
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide establishing (köprü + gökkuşağı)
+2. Entrance (giriş)
+3. POV (köprüden geçiş)
+4. Close-up (dilek taşı)
+5. Wide exit (çıkış)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide establishing |
+| Geçiş | POV |
+| Dilek | Close-up |
+| Kapanış | Wide exit |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide establishing | 0 |
+| POV | 1 |
+| Close-up | 1 |
+| Wide exit | 1-2 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Sihirli geçiş
+- Dilek dileme
+- Renk keşfi
+- Umut
+
+### Story Types That Don't Fit
+
+- Karanlık
+- Fırtına
+- Hız
+- Kırık köprü
+
+---
+
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

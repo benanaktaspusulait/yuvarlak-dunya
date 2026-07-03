@@ -19,6 +19,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 02
 
 ```text
+Use Shot 01 video as Video Reference.
 Luca and Kiko following a butterfly through Butterfly Meadow, walking carefully among tall flowers, butterfly leading the way, sunny day, colorful meadow, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.

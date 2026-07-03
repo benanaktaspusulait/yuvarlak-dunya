@@ -672,6 +672,84 @@ Flower Hill, PomPom Hills'in renk ve güzellik merkezidir. Binlerce renkli çiç
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Flower Hill tanınabilir mi?
+✓ Camera: Doğal mı?
+✓ Lighting: Sıcak ve renkli mi?
+✓ Colour: 5 renk paleti tutarlı mı?
+✓ Atmosphere: Renkli ve güzel mi?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| FH-FLOWER-R | Kırmızı çiçekler |
+| FH-FLOWER-Y | Sarı çiçekler |
+| FH-FLOWER-P | Pembe çiçekler |
+| FH-FLOWER-V | Mor çiçekler |
+| FH-FLOWER-O | Turuncu çiçekler |
+| FH-GRASS-01 | Yumuşak yeşil çimen |
+| FH-PATH-01 | Yuvarlak taşlar |
+| FH-BUTTERFLY-01 | Renkli kelebekler |
+
+## World Navigation
+
+```
+Central Square → Flower Hill girişi → Çimenlik → Çiçek tarlası → Patika → Kiko's Home / Mimi's Burrow
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide establishing (tüm tepe)
+2. Medium (çiçekler)
+3. Close-up (renk detayı)
+4. Low angle (çiçeklerden yukarı)
+5. POV (patikadan yürüyüş)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide establishing |
+| Renk öğrenme | Close-up |
+| Yürüyüş | POV |
+| Kapanış | Wide establishing |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide establishing | 0 |
+| Medium | 1-2 |
+| Close-up | 0-1 |
+| Low angle | 0-1 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Renk keşfi
+- Çiçek sayma
+- Yürüyüş
+- Eve dönüş
+
+### Story Types That Don't Fit
+
+- Bozkır
+- Karanlık
+- Hız
+- Sivri taş
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

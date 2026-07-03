@@ -211,6 +211,12 @@ The audience should feel Luca and Mimi are close to understanding something.
 
 low quality, blurry, deformed, extra limbs, duplicated limbs, text, watermark, captions, subtitles, speech bubbles, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, new narrator, teacher pose, classroom, school, explaining gesture, lecture pose, redesigned environment, different Cloud Hill, dramatic storm, heavy thunder, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in, camera reset, colour shift, lighting change
 
+## Character Presence
+
+Luca is already present at the beginning of the shot.
+Mimi is already present at the beginning of the shot.
+Do not introduce any character after the shot has started.
+
 ---
 
 ## QA Checklist

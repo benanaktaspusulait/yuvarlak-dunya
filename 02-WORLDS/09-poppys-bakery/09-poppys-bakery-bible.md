@@ -19,6 +19,12 @@ Status: Production Ready
 
 ---
 
+## Overview
+
+Poppy's Bakery, PomPom Hills'in sıcak kalbi olan bir fırındır. Yuvarlak turuncu-kahverengi binası, taze kurabiye kokusu ve sıcak iç mekanıyla paylaşım ve cömertlik deneyimleri sunar.
+
+---
+
 ## Purpose
 
 Poppy'nin fırını sıcaklık ve lezzet mekanı.
@@ -1267,6 +1273,12 @@ Poppy's Bakery, PomPom Hills'in sıcak kalbidir. Yuvarlak turuncu-kahverengi bin
 
 ---
 
+## Production Goal
+
+This Living World is designed to provide a warm, sensory-rich environment for stories about sharing, generosity, and discovery. The bakery's consistent identity supports reliable AI-assisted production while maintaining the aromatic warmth essential to Pompom Hills.
+
+---
+
 *Bu belge Poppy's Bakery mekanı için creative referanstır.*
-*Living World Bible v3.1*
+*Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*

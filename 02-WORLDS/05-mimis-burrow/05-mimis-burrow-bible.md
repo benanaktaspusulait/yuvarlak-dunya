@@ -677,6 +677,85 @@ Mimi's Burrow, PomPom Hills'in gizli sığınak mekanıdır. Yeraltında, sıcak
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Mimi's Burrow tanınabilir mi?
+✓ Camera: Çocuk göz hizasında mı?
+✓ Lighting: Sıcak ve yumuşak mı?
+✓ Colour: Mavi + yeşil palet tutarlı mı?
+✓ Atmosphere: Güvenli ve sıcak mı?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| MB-DOOR-01 | Yuvarlak mavi giriş çerçevesi |
+| MB-PILLOW-01 | Yuvarlak mavi peluş yastık |
+| MB-WINDOW-01 | Küçük yuvarlak pencere |
+| MB-SHELF-01 | Küçük kitaplık |
+| MB-CARROT-BOX-01 | Yuvarlak turuncu havuç kutusu |
+| MB-FLOWERS-01 | Üstteki çiçekler |
+| MB-STONES-01 | Yuvarlak gri taşlar |
+| MB-GRASS-01 | Yumuşak yeşil çimen |
+
+## World Navigation
+
+```
+Dışarıdan giriş → Taş yolu → Mavi çerçeve → İç mekan → Yastık → Pencere → Kitaplık → Havuç kutusu
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide exterior (giriş)
+2. Entrance close-up (mavi çerçeve)
+3. Interior wide (iç mekan)
+4. Close-up (yastık, havuç)
+5. Window POV (dışarı bakış)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide exterior |
+| İçeri girme | Entrance close-up |
+| Uyku sahnesi | Interior wide |
+| Yemek sahnesi | Close-up |
+| Kapanış | Window POV |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide exterior | 0 |
+| Entrance | 1 |
+| Interior wide | 2 |
+| Close-up | 1-2 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Uyku sahneleri
+- Sessiz okuma
+- Arkadaş ziyareti
+- Gizli keşif
+
+### Story Types That Don't Fit
+
+- Hızlı hareket
+- Gürültü
+- Korku
+- Rekabet
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

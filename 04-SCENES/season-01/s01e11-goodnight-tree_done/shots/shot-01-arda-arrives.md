@@ -85,3 +85,13 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
 
+
+## Scale
+
+Characters should feel small and childlike within the environment, but must remain readable for facial expression and action.
+
+Use wide framing for environment identity and medium framing for emotional beats.
+
+## Reference Usage
+
+This is the first shot. Use the approved first-frame still as the primary image reference.

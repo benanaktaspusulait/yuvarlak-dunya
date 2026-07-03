@@ -688,6 +688,93 @@ Rainbow Creek, PomPom Hills'in doğal sakinlik mekanıdır. Berrak su, renkli ta
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Rainbow Creek tanınabilir mi?
+✓ Camera: Doğal mı?
+✓ Lighting: Doğal ve su yansımalı mı?
+✓ Colour: Doğal palet tutarlı mı?
+✓ Atmosphere: Huzurlu ve sakin mi?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+---
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| RC-CREEK-01 | Berrak akan su |
+| RC-STONES-01 | Yuvarlak renkli taşlar |
+| RC-BRIDGE-01 | Alçak ahşap köprü |
+| RC-FISH-01 | Küçük balıklar |
+| RC-PLANTS-01 | Yeşil su bitkileri |
+| RC-FLOWERS-01 | Kenar çiçekleri |
+
+---
+
+## World Navigation
+
+```
+Stone Hill → Çay başlangıcı → Taşlar → Köprü → Flower Hill
+```
+
+---
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide establishing (tüm çay)
+2. Water level (su yüzeyi)
+3. Bridge POV (köprüden)
+4. Close-up (taş, balık)
+5. Wide exit (çıkış)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide establishing |
+| Su etkileşimi | Water level |
+| Geçiş | Bridge POV |
+| Keşif | Close-up |
+| Kapanış | Wide exit |
+
+---
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide establishing | 0 |
+| Water level | 0-1 |
+| Bridge POV | 1 |
+| Close-up | 1 |
+
+---
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Sessiz anlar
+- Doğa gözlemi
+- Su etkileşimi
+- Yürüyüş
+
+### Story Types That Don't Fit
+
+- Derin su
+- Hızlı akıntı
+- Karanlık
+- Korku
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

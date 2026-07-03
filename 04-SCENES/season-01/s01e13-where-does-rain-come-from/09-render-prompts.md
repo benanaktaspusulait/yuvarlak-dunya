@@ -74,6 +74,7 @@ No on-screen text.
 ## Shot 02
 
 ```text
+Use Shot 01 video as Video Reference.
 Luca and Mimi standing on Cloud Hill, looking up at one large cloud drifting slowly across the sky, CH-STONE-01 visible at mid-distance as they move toward it, the grass bends gently in the wind, Mimi quietly points to the moving cloud, Luca watches with curiosity and asks "Is that a rain cloud?", warmer and slightly more animated emotional tone — something is happening, soft diffused cloudy light, preschool friendly wonder, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the previous shot.

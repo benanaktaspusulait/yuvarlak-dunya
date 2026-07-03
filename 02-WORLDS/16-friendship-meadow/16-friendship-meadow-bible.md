@@ -749,6 +749,148 @@ This Living World is designed to provide a wide, joyful environment for stories 
 
 ---
 
+## Overview
+
+Friendship Meadow, geniş çimenlik bir alandır. Piknikler ve grup oyunları için ideal.
+
+---
+
+## Why This World Exists
+
+Arkadaşlık ve birlikte vakit geçirme duygusunu temsil eder.
+
+---
+
+## Emotional Purpose
+
+Arkadaşlık, neşe, paylaşım.
+
+---
+
+## Play Philosophy
+
+Birlikte oynama, işbirliği, paylaşım.
+
+---
+
+## Visual Identity
+
+Geniş yeşil çimenlik, açık gökyüzü.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Açık çimenlik → Piknik alanı → Oyun bölgesi
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Çimen | FM-GRASS-01 | Yumuşak yeşil | ✅ |
+| Çiçekler | FM-FLOWERS-01 | Renkli çiçekler | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+4 views.
+
+---
+
+## Prompt Generation Rules
+Max 4 referans.
+
+---
+
+## Emotional Tone
+Neşeli, arkadaşça, açık.
+
+---
+
+## World Identity Lock
+Geniş çimenlik, açık gökyüzü.
+
+---
+
+## Hero View Technical Specification
+28mm, 1.0m.
+
+---
+
+## Camera Identity
+28-35mm.
+
+---
+
+## Lighting Identity
+Sıcak güneş.
+
+---
+
+## Colour Identity
+Yeşil çimen, mavi gökyüzü.
+
+---
+
+## Environmental Sound Identity
+Kuş, rüzgar, gülüşme.
+
+---
+
+## Continuity Rules
+Geniş çimenlik.
+
+---
+
+## Production QA
+Tanınabilir mi?
+
+---
+
+## Canonical Reusable Assets
+FM-GRASS-01, FM-FLOWERS-01.
+
+---
+
+## World Navigation
+Giriş → Çimenlik → Piknik.
+
+---
+
+## View Transition Rules
+Wide → Medium.
+
+---
+
+## Character Occupancy
+Wide: 0-2, Medium: 2-4.
+
+---
+
+## Typical Episode Usage
+Piknik, oyun, arkadaşlık.
+
+---
+
+## Common Generation Failures
+Dar alan → Genişlet.
+
+---
+
+## Video Generation Rules
+Rüzgar: 15 frame.
+
+---
+
+## Production Summary
+Friendship Meadow arkadaşlık mekanıdır.
+
+---
+
 *Bu belge Friendship Meadow mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*

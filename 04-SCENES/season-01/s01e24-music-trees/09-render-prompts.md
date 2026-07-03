@@ -4,6 +4,8 @@
 
 ## OpenArt Compact Prompt
 
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 Use Music Hill (new location) (@image1) as FINAL background.
 Insert characters (@image2) into existing world.
@@ -13,4 +15,6 @@ Character LOCKED: Use @image2 exactly.
 Small preschool child (~6-8% frame).
 Environment hero (~92-94%).
 Reject if characters too large, environment changes.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

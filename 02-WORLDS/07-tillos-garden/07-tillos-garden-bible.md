@@ -704,6 +704,86 @@ Tillo's Garden, PomPom Hills'in doğal bakım ve büyüme mekanıdır. Yuvarlak 
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Tillo's Garden tanınabilir mi?
+✓ Camera: Çocuk göz hizasında mı?
+✓ Lighting: Sıcak ve doğal mı?
+✓ Colour: Toprak + yeşil palet tutarlı mı?
+✓ Atmosphere: Doğal ve bakım hissi var mı?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| TG-BED-01 | Yuvarlak çiçek tarhı |
+| TG-SOFT-01 | Yumuşak kahverengi toprak |
+| TG-HAT-01 | Saman yuvarlak şapka |
+| TG-CAN-01 | Mavi yuvarlak sulama kabı |
+| TG-SHOVEL-01 | Ahşap yuvarlak kazma |
+| TG-SEED-BOX-01 | Ahşap tohum kutusu |
+| TG-FLOWERS-01 | Yuvarlak çiçekler |
+| TG-PATH-01 | Yuvarlak taş yolu |
+| TG-GRASS-01 | Yumuşak yeşil çimen |
+
+## World Navigation
+
+```
+Giriş yolu → Tarhlar → Orta alan → Tillo'nun köşesi → Sulama noktası
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide establishing (tüm bahçe)
+2. Medium (tarh + bitki)
+3. Close-up (tohum, filiz)
+4. Ground level (toprak)
+5. Wide rest (dinlenme)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide establishing |
+| Ekim sahnesi | Medium |
+| Büyüme izleme | Close-up |
+| Sulama | Ground level |
+| Kapanış | Wide rest |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide establishing | 0 |
+| Medium | 1-2 |
+| Close-up | 1 |
+| Ground level | 0-1 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Tohum ekme
+- Büyüme izleme
+- Sulama
+- Doğa keşfi
+
+### Story Types That Don't Fit
+
+- Hızlı hareket
+- Karanlık
+- Rekabet
+- Gürültü
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

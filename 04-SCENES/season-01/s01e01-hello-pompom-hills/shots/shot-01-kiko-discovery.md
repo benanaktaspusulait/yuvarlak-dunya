@@ -138,3 +138,7 @@ Examples:
 - Look what I found!
 - Do you know where stars sleep?
 - What is hiding over there?
+
+## Reference Usage
+
+This is the first shot. Use the approved first-frame still as the primary image reference.

@@ -746,6 +746,168 @@ This Living World is designed to provide a calm, sensory-rich environment for st
 
 ---
 
+## Overview
+
+Milo'nun gölü, sakin ve huzurlu bir su birikintisi. Ördekler, balıklar, nilüfer yaprakları.
+
+---
+
+## Why This World Exists
+
+Doğanın sakinliğini ve suyun huzurunu sunar. Çocuklar suyla güvenli etkileşim kurar.
+
+---
+
+## Emotional Purpose
+
+Huzur, sakinlik, doğa sevgisi.
+
+---
+
+## Play Philosophy
+
+Gözlem, sakinlik, doğa etkileşimi.
+
+---
+
+## Visual Identity
+
+Küçük yuvarlak göl, berrak su, yeşil kenarlar.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Göl kenarı → Su yüzeyi → nilüferler → Çıkış
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Göl | MP-POND-01 | Yuvarlak göl | ✅ |
+| Ördekler | MP-DUCK-01 | Küçük ördekler | ✅ |
+| Nilüfer | MP-LILY-01 | Yeşil nilüfer yaprakları | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 views.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans, Hero zorunlu.
+
+---
+
+## Emotional Tone
+
+Huzurlu, sakin, doğal.
+
+---
+
+## World Identity Lock
+
+Yuvarlak göl, berrak su.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 0.85m.
+
+---
+
+## Camera Identity
+
+28-35mm, yavaş.
+
+---
+
+## Lighting Identity
+
+Doğal, yumuşak.
+
+---
+
+## Colour Identity
+
+Mavi su, yeşil kenar.
+
+---
+
+## Environmental Sound Identity
+
+Su, kuş, sessizlik.
+
+---
+
+## Continuity Rules
+
+Yuvarlak göl, berrak su.
+
+---
+
+## Production QA
+
+Tanınabilir mi? Sakin mi?
+
+---
+
+## Canonical Reusable Assets
+
+MP-POND-01, MP-DUCK-01, MP-LILY-01.
+
+---
+
+## World Navigation
+
+Giriş → Göl → Nilüferler.
+
+---
+
+## View Transition Rules
+
+Wide → Water level → Close-up.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Medium: 1, Close-up: 1.
+
+---
+
+## Typical Episode Usage
+
+Sessiz anlar, doğa.
+
+---
+
+## Common Generation Failures
+
+Derin su → Sığ yap. Karanlık → Aydınlık.
+
+---
+
+## Video Generation Rules
+
+Su hareketi: 15 frame.
+
+---
+
+## Production Summary
+
+Milo'nun gölü huzur mekanıdır.
+
+---
+
 *Bu belge Milo's Pond mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*

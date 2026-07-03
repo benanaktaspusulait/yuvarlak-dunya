@@ -688,6 +688,85 @@ Lulu's Greenhouse, PomPom Hills'in sıcak ve yeşil bakım mekanıdır. Yuvarlak
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Lulu's Greenhouse tanınabilir mi?
+✓ Camera: Çocuk göz hizasında mı?
+✓ Lighting: Sıcak ve yeşil mi?
+✓ Colour: Yeşil + altın palet tutarlı mı?
+✓ Atmosphere: Sıcak ve nemli mi?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| LG-GLASS-01 | Yuvarlak cam panel |
+| LG-FRAME-01 | Doğal ahşap çerçeve |
+| LG-POT-01 | Yuvarlak yeşil saksı |
+| LG-SHELF-01 | Ahşap raf |
+| LG-PLANTS-01 | Yeşil yapraklı bitkiler |
+| LG-FLOWERS-01 | Seralık çiçekler |
+| LG-CONDENSATION-01 | Camdaki damlacıklar |
+| LG-DOOR-01 | Yuvarlak ahşap kapı çerçevesi |
+
+## World Navigation
+
+```
+Dışarıdan bakış → Giriş → İç mekan → Raflar → Bitkiler → Pencere → Sulama noktası
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide exterior (dış görünüm)
+2. Through glass (camdan içeri)
+3. Interior wide (iç mekan)
+4. Close-up (bitki, damlacık)
+5. POV (dışarıya bakış)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide exterior |
+| İçeri girme | Through glass |
+| Bitki bakımı | Interior wide |
+| Keşif | Close-up |
+| Kapanış | POV |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide exterior | 0 |
+| Through glass | 0-1 |
+| Interior wide | 1-2 |
+| Close-up | 1 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Bitki yetiştirme
+- Sıcak ortam
+- Doğa keşfi
+- Bakım sahneleri
+
+### Story Types That Don't Fit
+
+- Kırık cam
+- Soluk bitki
+- Karanlık
+- Soğuk hava
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

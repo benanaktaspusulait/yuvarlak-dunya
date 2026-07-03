@@ -201,3 +201,17 @@ The journey from street to interior — the temperature and scent change — sho
 | Environmental rhythm | All movement on the same warm, cozy breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Generation Considerations
+
+The interior must be generated as a single open room with soft activity
+zones, not as separate walled rooms — this is the defining trait of this
+world and the most common failure point to watch for. Keep all shapes
+rounded with no sharp corners anywhere, inside or outside. Keep the colour
+palette limited to the warm orange-brown set defined above. Favor a soft,
+matte, handcrafted material language over any glossy, metallic, or
+photorealistic rendering. Treat the bakery's exterior shape, colours, and
+proportions as a fixed identity to preserve exactly, not to reinterpret,
+across every generation.

@@ -196,3 +196,9 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No classroom or teacher feeling.
 - [ ] No on-screen text.
 - [ ] Opening creates curiosity within 3-5 seconds.
+
+## Scale
+
+Characters should feel small and childlike within the environment, but must remain readable for facial expression and action.
+
+Use wide framing for environment identity and medium framing for emotional beats.

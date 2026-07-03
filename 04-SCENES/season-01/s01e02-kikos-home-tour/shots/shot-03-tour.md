@@ -36,7 +36,7 @@ No fade in.
 
 The viewer must feel that this shot starts one frame after the previous shot ended.
 
-Camera is now inside the house. Continue from the interior view.
+Camera is now inside the house. Continue from the exact framing of the previous shot. Camera position is identical.
 
 ---
 

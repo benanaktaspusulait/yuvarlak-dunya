@@ -148,3 +148,9 @@ Examples:
 - Look what I found!
 - Do you know where stars sleep?
 - What is hiding over there?
+
+## Scale
+
+Characters should feel small and childlike within the environment, but must remain readable for facial expression and action.
+
+Use wide framing for environment identity and medium framing for emotional beats.

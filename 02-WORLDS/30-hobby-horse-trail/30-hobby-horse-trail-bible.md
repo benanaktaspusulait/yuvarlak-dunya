@@ -714,6 +714,86 @@ Hobby Horse Trail, PomPom Hills'in hayal gücü ve neşe mekanıdır. Renkli bay
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Hobby Horse Trail tanınabilir mi?
+✓ Camera: Doğal mı?
+✓ Lighting: Sıcak ve neşeli mi?
+✓ Colour: Pastel + renkli palet tutarlı mı?
+✓ Atmosphere: Eğlenceli ve hayalperest mi?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| HH-HORSE-P | Mercan pembe tahta at |
+| HH-HORSE-B | Açık mavi tahta at |
+| HH-HORSE-Y | Sarı tahta at |
+| HH-HORSE-G | Yeşil tahta at |
+| HH-HORSE-V | Mor tahta at |
+| HH-BUNTING-01 | Renkli bayraklar |
+| HH-BRIDGE-01 | Ahşap köprü |
+| HH-ARCH-01 | Çiçek kemeri |
+| HH-BELL-01 | Zil direği |
+| HH-GRASS-01 | Yumuşak çimen |
+
+## World Navigation
+
+```
+Central Square → Giriş (tahta atlar) → Kavisli patika → Köprü → Çiçek kemeri → Zil direği → Dinlenme → Bitiş
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide establishing (tüm patika)
+2. Entrance (giriş)
+3. Trail (yürüyüş)
+4. Close-up (tahta at)
+5. Wide exit (bitiş)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Entrance |
+| Yürüyüş | Trail |
+| Keşif | Close-up |
+| Kapanış | Wide exit |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide establishing | 0 |
+| Entrance | 1-2 |
+| Trail | 2-4 |
+| Close-up | 1 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Hayal gücü oyunu
+- Birlikte yürüyüş
+- Paylaşma
+- Keşif
+
+### Story Types That Don't Fit
+
+- Yarış
+- Rekabet
+- Hız
+- Düşme
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

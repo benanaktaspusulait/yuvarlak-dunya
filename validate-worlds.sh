@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # World Bible Validation Script
-# Validates all world definitions are upgraded to Living World Bible v3.0 standard
+# Validates all world definitions against GLOBAL_ENVIRONMENT_STANDARD.md v1.0
 
 WORLDS_DIR="/Users/benanaktas/project/video/yuvarlak-dunya/02-WORLDS"
 ERRORS=0
@@ -10,7 +10,7 @@ PASSED=0
 
 echo "============================================"
 echo "  WORLD BIBLE VALIDATION SCRIPT"
-echo "  Living World Bible v3.0 Standard Check"
+echo "  GLOBAL_ENVIRONMENT_STANDARD v1.0 Check"
 echo "============================================"
 echo ""
 
@@ -20,37 +20,43 @@ GREEN='\033[0;32m'
 YELLOW='\033[1;33m'
 NC='\033[0m' # No Color
 
-# Required sections in bible
+# Required sections in bible (GLOBAL_ENVIRONMENT_STANDARD 35 sections)
 BIBLE_SECTIONS=(
-    "Version 3.0"
-    "World Structure"
-    "World Zones"
-    "Transition Spaces"
-    "Spatial Relationships"
-    "Character Flow"
-    "Living Rules"
-    "Production Readiness"
-    "World Position"
-    "Exterior"
-    "Camera Rules"
-    "Permanent Objects"
-    "Optional Props"
-    "Seasonal Changes"
-    "Time of Day"
-    "Weather"
-    "Soundscape"
-    "Lighting"
-    "Texture"
-    "Character Usage"
-    "Common Actions"
-    "Animation Rules"
-    "Story Opportunities"
-    "Consistency Checklist"
+    "Overview"
+    "Purpose"
+    "Why This World Exists"
     "Emotional Purpose"
     "Play Philosophy"
-    "Material Language"
-    "Quality Checklist"
-    "Production Goal"
+    "World Position"
+    "Visual Identity"
+    "Spatial Layout"
+    "Props"
+    "Camera Rules"
+    "Canonical Prompt Reference Pack"
+    "Prompt Generation Rules"
+    "Soundscape"
+    "Forbidden"
+    "Story Opportunities"
+    "Emotional Tone"
+    "Production Notes"
+    "Consistency Checklist"
+    "World Identity Lock"
+    "Hero View Technical Specification"
+    "Camera Identity"
+    "Lighting Identity"
+    "Colour Identity"
+    "Environmental Sound Identity"
+    "Continuity Rules"
+    "Production QA"
+    "Canonical Reusable Assets"
+    "World Navigation"
+    "View Transition Rules"
+    "Character Occupancy"
+    "Typical Episode Usage"
+    "Common Generation Failures"
+    "Video Generation Rules"
+    "Production Summary"
+    "Changelog"
 )
 
 # Required sections in world-spec
@@ -98,12 +104,12 @@ for WORLD_DIR in "$WORLDS_DIR"/*/; do
         PASSED=$((PASSED + 1))
     fi
     
-    # Check bible version
-    if grep -q "Version 3.0" "$BIBLE_FILE"; then
-        echo -e "  ${GREEN}✓ Bible v3.0${NC}"
+    # Check bible version (v3.0 or higher)
+    if grep -qi "Version 3\.\|v3\.\|Version [4-9]\.\|v[4-9]\." "$BIBLE_FILE"; then
+        echo -e "  ${GREEN}✓ Bible v3.0+${NC}"
         PASSED=$((PASSED + 1))
     else
-        echo -e "  ${RED}✗ Bible NOT v3.0${NC}"
+        echo -e "  ${RED}✗ Bible NOT v3.0+${NC}"
         ERRORS=$((ERRORS + 1))
     fi
     
@@ -145,7 +151,7 @@ for WORLD_DIR in "$WORLDS_DIR"/*/; do
     
     # Check file size (should be substantial)
     BIBLE_SIZE=$(wc -c < "$BIBLE_FILE")
-    if [ "$BIBLE_SIZE" -lt 5000 ]; then
+    if [ "$BIBLE_SIZE" -lt 10000 ]; then
         echo -e "  ${YELLOW}⚠ Bible file small ($BIBLE_SIZE bytes)${NC}"
         WARNINGS=$((WARNINGS + 1))
     else
@@ -155,7 +161,7 @@ for WORLD_DIR in "$WORLDS_DIR"/*/; do
     
     if [ -n "$SPEC_FILE" ]; then
         SPEC_SIZE=$(wc -c < "$SPEC_FILE")
-        if [ "$SPEC_SIZE" -lt 1000 ]; then
+        if [ "$SPEC_SIZE" -lt 3000 ]; then
             echo -e "  ${YELLOW}⚠ World Spec file small ($SPEC_SIZE bytes)${NC}"
             WARNINGS=$((WARNINGS + 1))
         else

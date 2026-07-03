@@ -1,4 +1,8 @@
 # S01E03 — Render Prompts
+## Global Standard
+
+All render prompts follow `00-CORE/17_VIDEO_GENERATION_STANDARD.md`.
+
 
 ---
 

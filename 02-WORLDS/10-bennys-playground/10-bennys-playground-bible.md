@@ -754,6 +754,170 @@ Her yüzey yumuşak ve yuvarlak. Ekipmanlar renkli ve pürüzsüz, zemin yumuşa
 
 ---
 
+## Overview
+
+Benny's Playground, PomPom Hills'in en eğlenceli oyun alanıdır. Yuvarlak salıncaklar, kaydırak, top havuzu ve yumuşak zemin.
+
+---
+
+## Why This World Exists
+
+Çocukların doğal olarak hareket etme ve oynama ihtiyacını karşılar. Güvenli, yuvarlak, yumuşak bir oyun alanı.
+
+---
+
+## Emotional Purpose
+
+Enerji, neşe, keşif. Çocuklar burada özgürce oynar.
+
+---
+
+## Play Philosophy
+
+Open-ended, rekabetsiz, hayal gücüne dayalı oyun.
+
+---
+
+## Visual Identity
+
+Büyük yuvarlak oyun alanı, renkli ekipmanlar, yumuşak zemin.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Salıncaklar → Kaydırak → Top havuzu → Dinlenme alanı
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Salıncak | BP-SWING-01 | Yuvarlak salıncak | ✅ |
+| Kaydırak | BP-SLIDE-01 | Yuvarlak kaydırak | ✅ |
+| Top havuzu | BP-BALLPIT-01 | Renkli toplar | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 view: Hero, Entrance, Trail, Detail.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans, Hero zorunlu, tutarlı ışık.
+
+---
+
+## Emotional Tone
+
+Eğlenceli, enerjik, renkli, güvenli.
+
+---
+
+## World Identity Lock
+
+Yuvarlak ekipman, yumuşak zemin, renkli palet.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 1.0m, sıcak güneş.
+
+---
+
+## Camera Identity
+
+28-35mm, 0.85-1.0m, yavaş hareket.
+
+---
+
+## Lighting Identity
+
+Sıcak güneş, yumuşak gölge.
+
+---
+
+## Colour Identity
+
+Sıcak palet, renkli ekipman.
+
+---
+
+## Environmental Sound Identity
+
+Gülüşme, kuş, rüzgar.
+
+---
+
+## Continuity Rules
+
+Yuvarlak ekipman, yumuşak zemin, renkli.
+
+---
+
+## Production QA
+
+Tanınabilir mi? Yuvarlak mı? Güvenli mi?
+
+---
+
+## Canonical Reusable Assets
+
+BP-SWING-01, BP-SLIDE-01, BP-BALLPIT-01.
+
+---
+
+## World Navigation
+
+Giriş → Salıncaklar → Kaydırak → Top havuzu.
+
+---
+
+## View Transition Rules
+
+Wide → Medium → Close-up → Wide.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Medium: 2-4, Close-up: 1.
+
+---
+
+## Typical Episode Usage
+
+Oyun, enerji, arkadaşlık.
+
+---
+
+## Common Generation Failures
+
+Keskin köşe → Yuvarlak yap. Sert zemin → Yumuşak yap.
+
+---
+
+## Video Generation Rules
+
+Salıncak: 20 frame. Kamera: %3/sn.
+
+---
+
+## Production Summary
+
+Benny's Playground, enerji ve neşe mekanıdır.
+
+---
+
+---
+
 ## Production Goal
 
 This Living World is designed to provide a safe, dynamic environment for stories about movement, friendship, and discovery. The playground's consistent identity supports reliable AI-assisted production while maintaining the energetic warmth essential to Pompom Hills.

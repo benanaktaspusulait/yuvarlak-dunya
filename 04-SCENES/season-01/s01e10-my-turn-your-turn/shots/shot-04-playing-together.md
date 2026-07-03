@@ -121,6 +121,7 @@ Previous Shot: Use Shot 03 as Video Reference.
 Location: Central Square.
 Lighting: Warm morning light. Same lighting as Shot 01.
 Ball: Same round yellow ball.
+Colour: Do NOT desaturate. Maintain FULL saturation from Shot 01.
 
 ## Character Presence
 

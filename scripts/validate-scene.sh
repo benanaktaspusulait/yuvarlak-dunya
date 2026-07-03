@@ -178,7 +178,7 @@ else
     # 9. Visual Continuity Rules
     echo "9. VISUAL CONTINUITY RULES"
     VC_RULES=0
-    VC_TOTAL=7
+    VC_TOTAL=8
     
     # Color Continuity
     grep -qi "colour\|color\|pastel\|warm.*light\|soft.*shadow" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Color Continuity eksik"
@@ -200,6 +200,9 @@ else
     
     # Frame Continuity
     grep -qi "frame zero\|@image1\|continuity frame\|previous shot\|Video Reference\|Use.*Shot.*as\|Use the previous shot" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Frame Continuity eksik"
+    
+    # Anti-Desaturation
+    grep -qi "Do NOT desaturate\|Maintain FULL saturation\|vibrant\|saturation.*DO NOT" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Anti-Desaturation eksik"
     
     echo "  Visual Continuity: $VC_RULES/$VC_TOTAL kural uygulanmış"
     [ "$VC_RULES" -eq "$VC_TOTAL" ] && echo "  ✅ Tüm Visual Continuity kuralları uygulanmış" || { echo "  ⚠️  $((VC_TOTAL-VC_RULES)) kural eksik"; WARNINGS=$((WARNINGS+1)); }

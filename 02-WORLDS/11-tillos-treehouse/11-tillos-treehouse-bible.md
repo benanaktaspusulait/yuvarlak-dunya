@@ -670,6 +670,86 @@ This environment is designed as the canonical elevated retreat for PomPom Hills.
 Tillo's Treehouse, PomPom Hills'in yükseklik ve macera mekanıdır. Büyük bir ağaçta yuvarlak ahşap ev, güvenli köprü ve sıcak iç mekanla tanınır. Yüksekten bakış, köprüden geçiş ve sessiz düşünme sahneleri için idealdir. Her üretimde güvenlik ve sıcaklık hissi korunmalıdır.
 
 ---
+## Production QA
+
+```
+✓ World Identity: Tillo's Treehouse tanınabilir mi?
+✓ Camera: Doğal mı?
+✓ Lighting: Doğal ve sıcak mı?
+✓ Colour: Bal rengi + yeşil palet tutarlı mı?
+✓ Atmosphere: Güvenli ve maceracı mı?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| TT-HOUSE-01 | Yuvarlak ahşap ağaç ev |
+| TT-BRIDGE-01 | Alçak ahşap köprü |
+| TT-LADDER-01 | Ahşap merdiven |
+| TT-WINDOW-01 | Yuvarlak pencere |
+| TT-DOOR-01 | Yuvarlak ahşap kapı |
+| TT-RAILING-01 | Güvenli korkuluk |
+| TT-CUSHION-01 | İç mekan minderi |
+| TT-TRUNK-01 | Büyük ağaç gövdesi |
+| TT-LEAVES-01 | Yeşil yapraklar |
+
+## World Navigation
+
+```
+Little Forest → Merdiven → Köprü → Ağaç ev → Pencere manzarası
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Below looking up (aşağıdan yukarı)
+2. Bridge POV (köprüden)
+3. Treehouse level (ev seviyesi)
+4. Interior (iç mekan)
+5. Window POV (pencereden)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Below looking up |
+| Köprüden geçiş | Bridge POV |
+| İç mekan | Interior |
+| Manzara | Window POV |
+| Kapanış | Wide treehouse |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Below looking up | 0 |
+| Bridge POV | 1 |
+| Interior | 1-2 |
+| Close-up | 1 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Yüksekten bakış
+- Köprüden geçiş
+- Sessiz anlar
+- Keşif
+
+### Story Types That Don't Fit
+
+- Yüksek düşüş
+- Kırık köprü
+- Karanlık
+- Hız
+
+---
+
 
 ## Changelog
 

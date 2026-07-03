@@ -19,6 +19,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 02
 
 ```text
+Use Shot 01 video as Video Reference.
 Kiko and Opa sitting together under Opa's tree, relaxed poses, dappled sunlight, peaceful atmosphere, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.

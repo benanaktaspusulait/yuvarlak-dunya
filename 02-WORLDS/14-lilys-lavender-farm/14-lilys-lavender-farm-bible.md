@@ -750,3 +750,167 @@ This Living World is designed to provide a sensory-rich environment for stories 
 *Bu belge Lily's Lavender Farm mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Overview
+
+Lily'nin lavanta çiftliği, mor lavanta tarlaları, kovan evleri ve yeldeğirmenleriyle dolu huzurlu bir mekan.
+
+---
+
+## Why This World Exists
+
+Doğanın güzelliğini ve huzurunu sunar. Lavanta kokusu, mor renk, sakin atmosfer.
+
+---
+
+## Emotional Purpose
+
+Huzur, güzellik, doğa sevgisi.
+
+---
+
+## Play Philosophy
+
+Gözlem, sakinlik, keşif.
+
+---
+
+## Visual Identity
+
+Mor lavanta sıraları, ahşap kovanlar, yeldeğirmenleri.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Lavanta sıraları → Kovan evi → Yeldeğirmeni → Çıkış
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Lavanta | LF-LAVENDER-01 | Mor lavanta | ✅ |
+| Kovan | LF-HIVE-01 | Ahşap kovan | ✅ |
+| Yeldeğirmeni | LF-MILL-01 | Yuvarlak yeldeğirmeni | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 views.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans, Hero zorunlu.
+
+---
+
+## Emotional Tone
+
+Huzurlu, mor, doğal.
+
+---
+
+## World Identity Lock
+
+Mor lavanta, ahşap.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 1.0m.
+
+---
+
+## Camera Identity
+
+28-35mm, yavaş.
+
+---
+
+## Lighting Identity
+
+Sıcak, doğal.
+
+---
+
+## Colour Identity
+
+Mor #CE93D8, yeşil.
+
+---
+
+## Environmental Sound Identity
+
+Arı vızıltısı, rüzgar.
+
+---
+
+## Continuity Rules
+
+Mor lavanta sıraları.
+
+---
+
+## Production QA
+
+Tanınabilir mi? Huzurlu mu?
+
+---
+
+## Canonical Reusable Assets
+
+LF-LAVENDER-01, LF-HIVE-01, LF-MILL-01.
+
+---
+
+## World Navigation
+
+Giriş → Lavanta → Kovan → Yeldeğirmeni.
+
+---
+
+## View Transition Rules
+
+Wide → Medium → Close-up.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Medium: 1, Close-up: 0-1.
+
+---
+
+## Typical Episode Usage
+
+Huzur, doğa, keşif.
+
+---
+
+## Common Generation Failures
+
+Soluk renk → Mor lavanta ekle.
+
+---
+
+## Video Generation Rules
+
+Lavanta sallanması: 20 frame.
+
+---
+
+## Production Summary
+
+Lily's Lavender Farm huzur ve güzellik mekanıdır.
+
+---

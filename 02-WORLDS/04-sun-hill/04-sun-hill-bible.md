@@ -665,6 +665,82 @@ Sun Hill, PomPom Hills'in enerji ve umut kaynağıdır. İlk güneş ışığın
 
 ---
 
+## Production QA
+
+```
+✓ World Identity: Sun Hill tanınabilir mi?
+✓ Camera: Doğal mı?
+✓ Lighting: Sıcak ve yumuşak mı?
+✓ Colour: Sıcak palet tutarlı mı?
+✓ Atmosphere: Sıcak ve enerjik mi?
+✓ World Recognition: Diğer mekanlardan ayrışıyor mu?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| SH-GRASS-01 | Kısa sıcak yeşil çimen |
+| SH-PLATEAU-01 | Geniş düz tepe düzlüğü |
+| SH-STONE-01 | Yuvarlak ısınmış taş |
+| SH-FLOWERS-01 | Sarı ve turuncu çiçekler |
+| SH-HORIZON-01 | Uzak pastel tepeler |
+
+## World Navigation
+
+```
+Central Square → Sun Hill girişi → Yamaç → Tepe düzlüğü → Güneş noktası → Ufuk manzarası
+```
+
+## View Transition Rules
+
+### Default Sequence
+
+```
+1. Wide establishing (tüm tepe)
+2. Sunrise shot (güneş)
+3. Medium (çimen + güneş)
+4. Close-up (çiçek, taş)
+5. POV (ufuk manzarası)
+```
+
+### When to Use
+
+| Durum | Kullanım |
+|-------|----------|
+| Bölüm açılışı | Wide establishing |
+| Sabah sahnesi | Sunrise shot |
+| Enerji anı | Medium |
+| Keşif | Close-up |
+| Kapanış | POV ufuk |
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide establishing | 0 |
+| Medium single | 1-2 |
+| Medium group | 2-3 |
+| Close-up | 1-2 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+
+- Sabah sahneleri
+- Enerji ve neşe
+- Güneş izleme
+- Ufuk manzarası
+
+### Story Types That Don't Fit
+
+- Karanlık sahneler
+- Yağmurlu hava
+- Kış sahneleri
+- Hızlı hareket
+
+---
+
 ## Changelog
 
 | Version | Changes | Breaking |

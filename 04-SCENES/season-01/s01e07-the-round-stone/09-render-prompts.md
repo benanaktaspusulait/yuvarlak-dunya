@@ -19,6 +19,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Shot 02
 
 ```text
+Use Shot 01 video as Video Reference.
 Luca showing a round stone to Kiko on Stone Hill, Kiko looking at the stone with wonder, warm morning light, Stone Hill with rounded rocks, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
