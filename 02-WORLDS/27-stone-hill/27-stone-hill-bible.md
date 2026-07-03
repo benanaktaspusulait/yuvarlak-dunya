@@ -1,125 +1,244 @@
 # Environment Bible — Stone Hill
 
-> **🔒 LOCKED** — Production used. Do not modify without Creative Director approval.
-> World appears in published videos. Changes require production safety review.
+> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
 
 ---
 
 ```
 Environment ID: ENV-027
-File: (background location)
-Version: 2.1
-Location: World map position 6
+File: 02-WORLDS/27-stone-hill/
+Version: 3.0
+Location: PomPom Hills
+Type: Exterior World
+Status: Design
+Bible: ✅
+Hero View: ❌
+World Spec: ❌
 ```
+
+---
+
+## Overview
+
+Stone Hill, yuvarlak pastel renkli taşlarla dolu yumuşak bir tepedir.
 
 ---
 
 ## Purpose
 
-Stone Hill, yumuşak kayalı tepe.
-
-Yuvarlak taşlar, küçük mağaralar.
-
-Milo'nun Göleti buradan başlar.
-
-Keşif ve macera hissi.
+Doğanın gücünü ve güzelliğini temsil eder. Taşlar, su, keşif.
 
 ---
 
-## Story Function
+## Why This World Exists
 
-- Taş keşfi
-- Mağara macerası
-- Yürüyüş sahneleri
-- Doğa etkileşimi
+Doğanın çeşitliliğini ve dokusal zenginliği sunar.
+
+---
+
+## Emotional Purpose
+
+Keşif, merak, doğa sevgisi.
+
+---
+
+## Play Philosophy
+
+Keşif, gözlem, dokunma.
 
 ---
 
 ## World Position
 
 ```
-Central Square
+Rainbow Creek
     ↓
 Stone Hill ← BURASI
-    ↓
-Milo's Pond
-Rainbow Creek
-Adventure Trail
 ```
 
 ---
 
-## Exterior
+## Visual Identity
 
-### Genel
+Yuvarlak pastel taşlar, küçük mağaralar, şelaleler.
 
-- Gri-yeşil (#9E9E9E)
-- Yuvarlak taşlar
-- Küçük mağaralar
-- Şelaleler
+---
 
-### Taşlar
+## Spatial Layout
 
-- Yuvarlak
-- Farklı boyutlar
-- Yumuşak doku
-- Basamak olarak kullanılabilir
+```
+Giriş → Taşlar → Mağara → Şelale → Çıkış
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Taşlar | SH-STONES-01 | Yuvarlak pastel taşlar | ✅ |
+| Mağara | SH-CAVE-01 | Küçük yuvarlak mağara | ✅ |
 
 ---
 
 ## Camera Rules
 
-| Açı | Kullanım |
-|---|---|
-| Low level | Taş yakını |
-| Cave entrance | Mağara girişi |
-| Wide | Tüm tepe |
-| Waterfall | Şelale |
+Wide, close-up taş, mağara.
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 views.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans.
 
 ---
 
 ## Soundscape
 
-| Ses | Kaynak |
-|---|---|
-| Su sesi | Şelale |
-| Taş tınlaması | Adımlar |
-| Kuş cıvıltısı | Uzaktan |
+Su, taş, kuş.
 
 ---
 
 ## Forbidden
 
-```
-✗ Sivri taş
-✗ Derin mağara
-✗ Karanlık
-✗ Düşme riski
-✗ Hız
-```
+Karanlık mağara, sharp taş.
 
 ---
 
-## Story Seeds
+## Story Opportunities
 
-1. Yuvarlak taşlar toplanır
-2. Şelale izlenir
-3. Mağara keşfedilir
-4. Taşlar üst üste dizilir
-5. Su kenarında oturulur
+Taş keşfi, mağara, su.
+
+---
+
+## Emotional Tone
+
+Keşif, doğal, meraklı.
+
+---
+
+## Production Notes
+
+Keşif karakterleri.
 
 ---
 
 ## Consistency Checklist
 
-```
-✓ Taşlar yuvarlak mı?
-✓ Mağaralar güvenli mi?
-✓ Şelale yumuşak mı?
-✓ Sivri köşe yok mu?
-✓ Düşme riski yok mu?
-```
+Taşlar yuvarlak mı? Pastel mi?
 
 ---
 
-*Bu belge Stone Hill mekanı için production referansıdır.*
+## World Identity Lock
+
+Yuvarlak taşlar sabit.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 1.0m.
+
+---
+
+## Camera Identity
+
+28-35mm.
+
+---
+
+## Lighting Identity
+
+Doğal, sıcak.
+
+---
+
+## Colour Identity
+
+Pastel taşlar.
+
+---
+
+## Environmental Sound Identity
+
+Su, taş.
+
+---
+
+## Continuity Rules
+
+Taşlar her zaman yuvarlak.
+
+---
+
+## Production QA
+
+Tanınabilir mi?
+
+---
+
+## Canonical Reusable Assets
+
+SH-STONES-01, SH-CAVE-01.
+
+---
+
+## World Navigation
+
+Giriş → Taşlar → Mağara.
+
+---
+
+## View Transition Rules
+
+Wide → Close-up.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Close-up: 1.
+
+---
+
+## Typical Episode Usage
+
+Keşif, doğa.
+
+---
+
+## Common Generation Failures
+
+Keskin taş → Yuvarlak yap.
+
+---
+
+## Video Generation Rules
+
+Su: 15 frame.
+
+---
+
+## Production Summary
+
+Stone Hill keşif mekanıdır.
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ |
+
+---
+
+*Bu belge Stone Hill mekanı için creative referanstır.*
+*Environment Bible v3.0*
+*Son güncelleme: 3 Temmuz 2026*

@@ -751,3 +751,174 @@ This Living World is designed to provide a wise, contemplative environment for s
 *Bu belge Tree Hill mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Overview
+
+Tree Hill, birçok eski yuvarlak ağacın bulunduğu sessiz bir orman tepesidir.
+
+---
+
+## Why This World Exists
+
+Doğanın sakinliğini ve zamanın geçişini temsil eder.
+
+---
+
+## Emotional Purpose
+
+Huzur, sakinlik, doğa sevgisi.
+
+---
+
+## Play Philosophy
+
+Gözlem, sakinlik, hayal gücü.
+
+---
+
+## Visual Identity
+
+Eski yuvarlak ağaçlar, sessiz atmosfer.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Ağaç yol → Tepenin zirvesi → Manzara
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Ağaçlar | TH-TREE-01 | Eski yuvarlak ağaçlar | ✅ |
+| Yapraklar | TH-LEAVES-01 | Yaprak yığınları | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 views.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans.
+
+---
+
+## Emotional Tone
+
+Sessiz, sakin, doğal.
+
+---
+
+## World Identity Lock
+
+Eski yuvarlak ağaçlar.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 1.0m.
+
+---
+
+## Camera Identity
+
+28-35mm.
+
+---
+
+## Lighting Identity
+
+Doğal, gölgeli.
+
+---
+
+## Colour Identity
+
+Koyu yeşil, kahverengi.
+
+---
+
+## Environmental Sound Identity
+
+Yaprak, kuş, sessizlik.
+
+---
+
+## Continuity Rules
+
+Eski ağaçlar.
+
+---
+
+## Production QA
+
+Tanınabilir mi?
+
+---
+
+## Canonical Reusable Assets
+
+TH-TREE-01, TH-LEAVES-01.
+
+---
+
+## World Navigation
+
+Giriş → Ağaçlar → Zirve.
+
+---
+
+## View Transition Rules
+
+Wide → Medium → POV.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Medium: 1.
+
+---
+
+## Typical Episode Usage
+
+Sessiz anlar, dinlenme.
+
+---
+
+## Common Generation Failures
+
+Genç ağaç → Eski yap.
+
+---
+
+## Video Generation Rules
+
+Yaprak: 25 frame.
+
+---
+
+## Production Summary
+
+Tree Hill sakinlik mekanıdır.
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

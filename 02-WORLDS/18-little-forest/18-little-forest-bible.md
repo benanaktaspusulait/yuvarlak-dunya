@@ -746,6 +746,149 @@ Ponpon ağaçlar yumuşak, mantarlar yuvarlak, yapraklar ipeksi. Her şey doğal
 
 ---
 
+## Overview
+
+Little Forest, küçük ve büyülü bir ormandır. Yuvarlak kabarık ağaçlar, kuşlar, sincaplar, mantar çemberleri.
+
+---
+
+## Why This World Exists
+
+Doğanın keşfini ve büyüsünü sunar. Güvenli, korkutucu olmayan bir orman deneyimi.
+
+---
+
+## Emotional Purpose
+
+Merak, keşif, doğa sevgisi, güven.
+
+---
+
+## Play Philosophy
+
+Keşif, gözlem, hayal gücü.
+
+---
+
+## Visual Identity
+
+Yuvarlak kabarık ağaçlar, yeşil atmosfer, doğal doku.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Ağaç yol → Mantar çemberi → Kuş gözlemi → Çıkış
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Ağaçlar | LF-TREE-01 | Yuvarlak kabarık ağaçlar | ✅ |
+| Mantar | LF-MUSHROOM-01 | Yuvarlak mantarlar | ✅ |
+| Kuşlar | LF-BIRD-01 | Küçük kuşlar | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+4 views.
+
+---
+
+## Prompt Generation Rules
+Max 4 referans.
+
+---
+
+## Emotional Tone
+Büyülü, güvenli, doğal.
+
+---
+
+## World Identity Lock
+Yuvarlak ağaçlar, yeşil.
+
+---
+
+## Hero View Technical Specification
+28mm, 0.85m.
+
+---
+
+## Camera Identity
+28-35mm.
+
+---
+
+## Lighting Identity
+Doğal, yapraklar arasından.
+
+---
+
+## Colour Identity
+Yeşil #66BB6A, kahverengi.
+
+---
+
+## Environmental Sound Identity
+Kuş, yaprak, rüzgar.
+
+---
+
+## Continuity Rules
+Yuvarlak ağaçlar.
+
+---
+
+## Production QA
+Tanınabilir mi? Güvenli mi?
+
+---
+
+## Canonical Reusable Assets
+LF-TREE-01, LF-MUSHROOM-01, LF-BIRD-01.
+
+---
+
+## World Navigation
+Giriş → Ağaçlar → Mantar → Kuşlar.
+
+---
+
+## View Transition Rules
+Wide → Medium → Close-up.
+
+---
+
+## Character Occupancy
+Wide: 0, Medium: 1, Close-up: 1.
+
+---
+
+## Typical Episode Usage
+Keşif, doğa.
+
+---
+
+## Common Generation Failures
+Korkutucu → Güvenli yap.
+
+---
+
+## Video Generation Rules
+Yaprak: 20 frame.
+
+---
+
+## Production Summary
+Little Forest keşif mekanıdır.
+
+---
+
 ## Production Goal
 
 This Living World is designed to provide a magical, discovery-rich environment for stories about curiosity, adventure, and nature. The forest's consistent identity supports reliable AI-assisted production while maintaining the enchanted warmth essential to Pompom Hills.
@@ -755,3 +898,13 @@ This Living World is designed to provide a magical, discovery-rich environment f
 *Bu belge Little Forest mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

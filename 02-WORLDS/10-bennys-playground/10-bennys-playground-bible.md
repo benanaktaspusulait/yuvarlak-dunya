@@ -927,3 +927,13 @@ This Living World is designed to provide a safe, dynamic environment for stories
 *Bu belge Benny's Playground mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

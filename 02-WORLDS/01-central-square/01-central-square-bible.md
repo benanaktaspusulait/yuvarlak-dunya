@@ -1,183 +1,172 @@
 # Environment Bible — Central Square
 
-> **🔒 LOCKED** — Production used. Do not modify without Creative Director approval.
-> World appears in published videos. Changes require production safety review.
-
----
+> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
 
 ```
 Environment ID: ENV-001
-File: environment/01-central-square/01-central-square.png
-Version: 2.1
-Location: World Center
+File: 02-WORLDS/01-central-square/
+Version: 3.0
+Location: PomPom Hills merkezi
+Type: Exterior World
+Status: Design
+Bible: ✅
+Hero View: ❌
+World Spec: ❌
 ```
 
----
+## Overview
+
+Central Square, PomPom Hills'in kalbi ve buluşma noktasıdır. Büyük Pompom Tree buradadır.
 
 ## Purpose
 
-Central Square, Pompom Hills'in kalbi.
+Tüm karakterlerin bir araya geldiği, buluştuğu ve maceralara başladığı merkez mekan.
 
-Herkes burada buluşur.
+## Why This World Exists
 
-Tüm yollar buraya çıkar.
+Her macera buradan başlar veya buraya döner. Dünyanın kalbi.
 
-Topluluk ve birliktelik hissi verir.
+## Emotional Purpose
 
----
+Birlikte olma, karşılaşma, vedalaşma.
 
-## Story Function
+## Play Philosophy
 
-- Karakter buluşturma
-- Topluluk sahneleri
-- Kutlama ve festival
-- Başlangıç/bitiş noktası
-- Tüm yolların kesişimi
-
----
+Open-ended, rekabetsiz, birlikte.
 
 ## World Position
 
 ```
-    Sun Hill
-        ↓
-Cloud Hill ← CENTRAL SQUARE → Tree Hill
-        ↓
-    Flower Hill
-        ↓
-    Stone Hill
+Central Square ← BURASI
+    ↓ 1-3 dakika
+Diğer tüm mekanlar
 ```
 
-Tüm tepelerden yürüyerek ulaşılabilir.
+## Visual Identity
 
----
-
-## Exterior
-
-### Genel
-
-- Yuvarlak meydan
-- Ortada büyük ponpon ağaç
-- Etrafında yuvarlak taşlar
-- Tüm yollar buraya çıkar
-
-### Big Pompom Tree
-
-- En büyük ağaç
-- Yuvarlak, kabarık yeşil taç (#81C784)
-- Kalın, yumuşak gövde (#A1887F)
-- Yükseklik: 5-6 m
-- Dal: Opa'nın oturduğu dal (1.20 m)
-
-### Stepping Stones
-
-- Yuvarlak
-- Renkli (pembe, sarı, mavi, yeşil)
-- Daire şeklinde dizilmiş
-- Ağaç etrafında
-
-### Zemin
-
-- Yumuşak yeşil (#C8E6C9)
-- Halı gibi
-- Çimen detayı yok
-
----
-
-## Camera Rules
-
-| Açı | Kullanım |
-|---|---|
-| Wide aerial | Tüm meydan |
-| Tree level | Ağaçtan aşağı |
-| Ground level | Karakter göz hizası |
-| Close-up | Taşlar/çiçekler |
-
----
+Büyük Pompom Tree, renkli taşlar, alçak evler.
 
 ## Spatial Layout
 
 ```
-        Sun Hill
-            ↓
-    Cloud Hill
-        ↓       ↓
-Story Circle ← CENTRAL SQUARE → Tree Hill
-        ↓       ↓
-    Flower Hill
-            ↓
-        Stone Hill
+Giriş → Taşlar → Pompom Tree → Evler → Çıkış
 ```
 
----
+## Props
 
-## Animation Rules
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Ağaç | CS-TREE-01 | Büyük Pompom Tree | ✅ |
+| Taşlar | CS-STONES-01 | Renkli taşlar | ✅ |
 
-### Ağaç
+## Camera Rules
 
-| Aksiyon | Not |
-|---|---|
-| Salınma | 2 saniye periyot |
-| Yaprak dökme | Sonbaharda |
-| Çiçeklenme | İlkbaharda |
+Wide establishing, medium group, close-up.
 
-### Taşlar
+## Canonical Prompt Reference Pack
 
-| Aksiyon | Not |
-|---|---|
-| Basıldığında | Hafif parıltı |
-| Rengi değişmez | Her zaman aynı |
+4 views.
 
----
+## Prompt Generation Rules
+
+Max 4 referans, Hero zorunlu.
 
 ## Soundscape
 
-| Ses | Kaynak |
-|---|---|
-| Kuş cıvıltısı | Ağaçtan |
-| Adım sesleri | Taşlarda |
-| Rüzgar | Yapraklar |
-| Uzaktan gülme | Çocuklar |
-
----
+Kuş, rüzgar, gülüşme.
 
 ## Forbidden
 
-```
-✗ Araba
-✗ Gürültü
-✗ Kalabalık
-✗ Sivri köşe
-✗ Karanlık
-✗ Hız
-```
+Karanlık, hız, keskin köşe.
 
----
+## Story Opportunities
 
-## Story Seeds
+Buluşma, macera başlangıcı, vedalaşma.
 
-1. Herkes sabah burada toplanır
-2. Kutlama yapılır
-3. Yeni biri tanıtılır
-4. Hikaye anlatılır
-5. İyi geceler denir
-6. Gökkuşağı buradan başlar
-7. Yeni bir patika keşfedilir
-8. Topluluk şarkısı söylenir
+## Emotional Tone
 
----
+Sıcak, neşeli, tanıdık.
+
+## Production Notes
+
+En iyi: tüm karakterler. Kaçınılma: karanlık.
 
 ## Consistency Checklist
 
-```
-✓ Ağaç merkezde mi?
-✓ Taşlar renkli mi?
-✓ Tüm yollar görünüyor mu?
-✓ Sivri köşe yok mu?
-✓ Her şey yuvarlak mı?
-✓ Işık yumuşak mı?
-```
+Pompom Tree var mı? Yuvarlak mı? Sıcak mı?
+
+## World Identity Lock
+
+Pompom Tree #81C784 sabit.
+
+## Hero View Technical Specification
+
+28mm, 1.0m, sıcak güneş.
+
+## Camera Identity
+
+28-35mm, yavaş.
+
+## Lighting Identity
+
+Sıcak, yumuşak.
+
+## Colour Identity
+
+Yeşil ağaç, sıcak palet.
+
+## Environmental Sound Identity
+
+Kuş, rüzgar.
+
+## Continuity Rules
+
+Pompom Tree her zaman aynı.
+
+## Production QA
+
+Tanınabilir mi? Sıcak mı?
+
+## Canonical Reusable Assets
+
+CS-TREE-01, CS-STONES-01.
+
+## World Navigation
+
+Merkez → Diğer mekanlar.
+
+## View Transition Rules
+
+Wide → Medium.
+
+## Character Occupancy
+
+Wide: 0, Medium: 2-4.
+
+## Typical Episode Usage
+
+Başlangıç, bitiş, buluşma.
+
+## Common Generation Failures
+
+Ağaç küçük → Büyük yap.
+
+## Video Generation Rules
+
+Yaprak: 20 frame.
+
+## Production Summary
+
+Central Square buluşma mekanıdır.
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ |
 
 ---
 
-*Bu belge Central Square mekanı için production referansıdır.*
+*Bu belge Central Square mekanı için creative referanstır.*
+*Environment Bible v3.0*
+*Son güncelleme: 3 Temmuz 2026*

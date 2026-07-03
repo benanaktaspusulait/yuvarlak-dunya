@@ -1,86 +1,50 @@
 # Environment Bible — Rosie's Rose Garden
 
-> **Version 2.0** — Upgraded to new production pipeline standard.
+> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
 
 ---
 
 ```
 Environment ID: ENV-013
-File: environment/13-rosies-rose-garden/
-Version: 2.1
-Location: Flower Hill doğusu
-Type: Outdoor Garden
-Status: Design Approved — World Spec Ready
+File: 02-WORLDS/13-rosies-rose-garden/
+Version: 3.0
+Location: PomPom Hills
+Type: Exterior World
+Status: Design
+Bible: ✅
+Hero View: ❌
+World Spec: ❌
 ```
 
-> The canonical creative definition is contained within this document.
-> A shorter, production-oriented extraction for AI-assisted world generation
-> is maintained separately in `13-rosies-rose-garden-world-spec.md`.
-> That document is a translation layer, not a replacement: this Bible
-> remains the single source of truth.
+---
+
+## Overview
+
+Rosie'nin Gül Bahçesi, kalp şeklinde çiçek tarhları ve renkli güllerle dolu büyülü bir labirenttir. Her adım yeni bir güzellik, her köşe yeni bir keşif sunar. Dikensiz tasarımı, çocukların güvenle ve huzurla doğanın zarafetini deneyimlemesini sağlar.
 
 ---
 
 ## Purpose
 
-Rosie's Rose Garden, güzellik ve zarafet mekanı.
+Güzel olan şeyleri izleme, keşfetme ve hayal gücüne taşıma anları sunar.
 
-Güller, kelebekler, kalp şeklinde çiçekler.
+---
 
-Çocuklar için "güzel olan şeyleri izleme" anları.
+## Why This World Exists
+
+Doğanın zarafetini ve renk zenginliğini çocukların hizmetine sunar. Dikensiz güller ve kalp şeklinde çiçek tarhları, çocukların güvenle güzellikle etkileşime girmesini sağlar. Labirent yapısı, keşif duygusunu pekiştirir.
 
 ---
 
 ## Emotional Purpose
 
-Çocuklar, çiçeklerin güzelliğiyle kendilerini mutlu ve huzurlu hisseder.
-
-Pastel renkler ve kelebekler, zarif bir sakinlik duygusu taşır.
-
-Dikensiz tasarım, güvensizlik duygusunu tamamen ortadan kaldırır.
+Çocuklar, çiçeklerin güzelliğiyle mutlu ve huzurlu hisseder. Pastel renkler ve kelebekler, zarif bir sakinlik duygusu taşır. Dikensiz tasarım, güvensizlik duygusunu tamamen ortadan kaldırır.
 
 ---
 
 ## Play Philosophy
 
-Çocuklar çiçekleri keşfederek hayal güçlerini renklere taşır.
-
-Kelebeklerle etkileşim, sakin ve gözlemci oyun üretir.
-
-İşbirliği ve doğa sevgisi, rekabet olmadan doğal şekilde gelişir.
-
----
-
-## Material Language
-
-Güller yuvarlak, yumuşak, elle boyanmış bir his taşır.
-
-Çitler alçak, beyaz, yuvarlak uçlu, oyuncak ev estetiği taşır.
-
-Kelebek kanatları ince, doğal, doku hissi veren malzemeler kullanır.
-
----
-
-## Why This World Exists ⭐
-
-Rosie's Rose Garden, çocukların doğanın zarafetini ve renk zenginliğini keşfetmesini sağlamak için tasarlanmıştır. Dikensiz güller ve kalp şeklinde çiçekler, çocukların güvenle güzellikle etkileşime girmesini sağlar. Kelebekler ve pastel renkler, sakin ve göz alıcı sahneler üretir.
-
----
-
-## Production Readiness
-
-Bu mekan prompt bazlı üretim için hazırdır.
-Production promptları ve generation workflow detayları `13-rosies-rose-garden-world-spec.md` dosyasında tutulur.
-Bu Bible yaratıcı referans olarak kalır — tool-specific prompt syntax burada yer almaz.
-
----
-
-## Story Function
-
-- Renk keşfi
-- Çiçek izleme
-- Kelebek etkileşimi
-- Sessiz, zarif anlar
+Gözlem, hayal gücü ve sakinlik üzerine kuruludur. Çocuklar çiçekleri keşfederek renklere dair hayal güçlerini genişletir. Kelebeklerle etkileşim, sakin ve gözlemci bir oyun üretir. İşbirliği ve doğa sevgisi, rekabet olmadan doğal şekilde gelişir.
 
 ---
 
@@ -90,130 +54,370 @@ Bu Bible yaratıcı referans olarak kalır — tool-specific prompt syntax burad
 Mimi's Burrow
     ↓ 1 dakika
 Rosie's Rose Garden ← BURASI
-    ↓
+    ↓ 1 dakika
 Lily's Lavender Farm
 ```
 
 ---
 
-## Exterior
+## Visual Identity
 
-### Genel
+| Öğe | Tanım |
+|-----|-------|
+| **Genel Karakter** | Pembe-tonlu, çiçek dolu, davetkar bir bahçe |
+| **Renk Paleti** | Pembe (#F48FB1), kırmızı (#EF5350), sarı (#FFD54F), beyaz, yeşil |
+| **Malzeme Hissi** | Yuvarlak, yumuşak, elle boyanmış oyuncak ev estetiği |
+| **Işıl** | Sıcak, altın saat güneş ışığı |
+| **Sis/Rüzgar** | Nazik gül kokulu hışırtı |
 
-- Pembe gülleri labirenti
-- Kalp şeklinde çiçek tarhları
-- Kelebekler
-- Alçak, yuvarlak çit
+---
 
-### Güller
+## Spatial Layout
 
-- Pembe (#F48FB1)
-- Kırmızı (#EF5350)
-- Sarı (#FFD54F)
-- Hepsi yuvarlak yapraklar
-- Diken YOK
+```
+Giriş Kapısı → Dairesel Labirent → Kalp Şeklinde Tarhlar → Merkez Çeşme → Çıkış
+```
 
-### Çit
+**Ölçek:** Küçük çocuk boyunda, alçak çitlerle çevreli. Her koridor en az bir kalp tarhı barındırır.
 
-- Alçak
-- Yuvarlak uçlu
-- Beyaz
-- Davetkar
+**Akış:** Girişten içeri, labirent boyunca ilerle, merkeze ulaş, geri dönüş.
+
+---
+
+## Material Language
+
+| Malzeme | Karakter |
+|---------|----------|
+| **Gül Yaprakları** | Yuvarlak, yumuşak, pastel tonlarda, elle boyanmış his |
+| **Gül Gövdesi** | Yeşil, yuvarlak, ince, diken yok |
+| **Çit** | Alçak, beyaz, yuvarlak uçlu, oyuncak ev estetiği |
+| **Kelebek Kanatları** | İnce, doğal, doku hissi, yarı saydam |
+| **Yer** | Yumuşak yeşil çim, kalp şeklinde toprak |
+| **Su** | Merkez çeşmede berrak, nazik akış |
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Pembe Güller | RG-ROSES-PINK-01 | Pembe (#F48FB1) yuvarlak yapraklı güller | ✅ |
+| Kırmızı Güller | RG-ROSES-RED-01 | Kırmızı (#EF5350) yuvarlak yapraklı güller | ✅ |
+| Sarı Güller | RG-ROSES-YELLOW-01 | Sarı (#FFD54F) yuvarlak yapraklı güller | ✅ |
+| Kalp Tarhları | RG-BEDS-HEART-01 | Kalp şeklinde çiçek tarhları | ✅ |
+| Beyaz Çit | RG-FENCE-WHITE-01 | Alçak, yuvarlak uçlu beyaz çit | ✅ |
+| Kelebek | RG-BUTTERFLY-01 | Renkli, ince kanatlı kelebek | ✅ |
+| Merkez Çeşme | RG-FOUNTAIN-01 | Küçük, yuvarlak, beyaz çeşme | ❌ |
 
 ---
 
 ## Camera Rules
 
-| Açı | Kullanım |
-|---|---|
-| Close-up | Gül detayı |
-| Medium | Karakter + gül |
-| Wide | Tüm bahçe |
-| Through fence | Çitten bakış |
+| Açı | Kullanım | Not |
+|-----|----------|-----|
+| **Wide** | Tüm bahçe görünümü | Labirent yapısı ve kalp tarhları görünür |
+| **Medium** | Karakter + gül | Keşif anları |
+| **Close-up** | Gül detayı, kelebek | Zarif, sakin detaylar |
+| **Through Fence** | Çitten bakış | Davetkar, merak uyandırıcı |
+
+**Lens:** 28-35mm arası. Tüm açılar yumuşak ve warm.
+
+**Hero View:** 28mm, 1.0m yükseklik. Tüm bahçe görünür, labirent yapısı okunabilir, kalp tarhları belirgin.
 
 ---
 
-## Animation Rules
+## Canonical Prompt Reference Pack
 
-### Güller
+| # | Prompt | Açı | Odak |
+|---|--------|-----|------|
+| 1 | Tüm bahçe wide — labirent, kalp tarhları, merkez çeşme | Wide | Mekan tanıtımı |
+| 2 | Rosie pembe gül koklar — close-up | Close-up | Karakter anı |
+| 3 | Kelebek kalp tarhının üstünde — medium | Medium | Detay keşif |
+| 4 | Çitten bahçe görünümü — through fence | Through Fence | Davetkar bakış |
 
-| Aksiyon | Not |
-|---|---|
-| Sallanma | 20 frame, yavaş |
-| Açılma | Yavaş, 30 frame |
-| Dökülme | Yaprak yavaşça iner |
+---
+
+## Prompt Generation Rules
+
+- Max 4 referans kullan
+- Her prompt'ta kalp tarhı görünür olmalı
+- Diken kesinlikle yok
+- Warm, pastel tonlar tercih et
+- Çocuk boyutunda mekan ölçeği koru
 
 ---
 
 ## Soundscape
 
-| Ses | Kaynak |
-|---|---|
-| Kuş cıvıltısı | Yüksek, güzel |
-| Kelebek kanatları | Hışırtı |
-| Rüzgar | Güller |
+| Ses | Kaynak | Duygu |
+|-----|--------|-------|
+| Kuş cıvıltısı | Yüksek, güzel | Sevinç, huzur |
+| Kelebek kanatları | Hışırtı | Zarif, sakin |
+| Rüzgar | Güller arası | Nazik, doğal |
+| Su | Merkez çeşme | Dinginlik |
+| Adım | Çimen üzerinde | Keşif |
 
 ---
 
 ## Forbidden
 
 ```
-✗ Diken
-✗ Soluk renk
-✗ Kırık çiçek
-✗ Karanlık
-✗ Hız
+✗ Diken — hiçbir gülde, hiçbir yerde
+✗ Soluk renk — palet her zaman canlı ve pastel
+✗ Kırık çiçek — tüm güller sağlam ve güzel
+✗ Karanlık — her zaman aydınlık
+✗ Hız — tüm hareketler yavaş ve zarif
+✗ Sivri köşe — her şey yuvarlak
+✗ Büyük çit — çitler her zaman alçak
+✗ Boyut büyüklüğü — mekan çocuk boyunda
 ```
 
 ---
 
 ## Story Opportunities
 
-1. Kiko pembe gül koklar
-2. Kelebek gülün üstüne konar
-3. Kalp şeklinde çiçek bulunur
-4. Gül yaprakları uçar
-5. Renkler sayılır
+1. Kiko pembe gül koklar — burun kıvrılır, gözler kapanır
+2. Kelebek gülün üstüne konar — kanatlar yavaşça açılıp kapanır
+3. Kalp şeklinde çiçek bulunur — şaşırma ve sevinç anı
+4. Gül yaprakları uçar — rüzgarla dans eder
+5. Renkler sayılır — pembe, kırmızı, sarı
+6. Labirentte kaybolma — ama her zaman güzel
+7. Merkez çeşmede su izleme — dingin an
+8. Çiçeklerle selfi — Rosie ve arkadaşları
 
 ---
 
-## Consistency Checklist
+## Emotional Tone
 
-```
-✓ Güller yuvarlak mı?
-✓ Diken yok mu?
-✓ Renkler canlı mı?
-✓ Çit alçak mı?
-✓ Kelebekler var mı?
-✓ Sivri köşe yok mu?
-```
+Güzel, romantik, sakin, keşif dolu, güvenli, zarif.
+
+---
+
+## Character Occupancy
+
+| Açı | Maksimum Karakter |
+|-----|-------------------|
+| Wide | 0 |
+| Medium | 1 |
+| Close-up | 1 |
+
+---
+
+## Typical Episode Usage
+
+| Kullanım | Süre | Not |
+|----------|------|-----|
+| Sahne geçişi | 5-10 sn | Wide bahçe görünümü |
+| Karakter anı | 15-30 sn | Rosie veya Kiko keşif |
+| Detay çekimi | 10-20 sn | Gül, kelebek, çeşme |
+| Duygu anı | 10-15 sn | Koklama, izleme |
 
 ---
 
 ## Production Notes
 
 | Kategori | Detay |
-|---|---|
+|----------|-------|
 | **En İyi Karakterler** | Rosie, Kiko — güzellik ve keşif temalarıyla doğal uyum |
-| **Kaçınılması Gerekenler** | Diken, soluk renk, kırık çiçek, karanlık, hızlı hareket |
+| **Kaçınılması Gerekenler** | Diken, soluk renk, kırık çiçek, karanlık, hızlı hareket, boyut |
 | **Tipik Süre** | 30–60 saniye |
 | **En İyi Duygusal Temalar** | Güzellik, zarafet, sakinlik, renk keşfi, doğa sevgisi |
 
 ---
 
-## Quality Checklist
+## Consistency Checklist
 
 ```
-✓ Emotional Purpose tanımı var mı?
-✓ Play Philosophy bölümü var mı?
-✓ Material Language açık mı?
-✓ Kamera açıları tanımlı mı?
-✓ Ses tasarımı net mi?
-✓ Forbidden sınırları belirli mi?
-✓ Karakter uyumu sağlandı mı?
-✓ Production Notes eksiksiz mi?
+✓ Kalp şeklinde tarhlar var mı?
+✓ Renkli pembe-kırmızı-sarı güller var mı?
+✓ Diken kesinlikle yok mu?
+✓ Beyaz çit alçak ve yuvarlak mı?
+✓ Kelebekler mevcut mu?
+✓ Sivri köşe yok mu?
+✓ Warm güneş ışığı var mı?
+✓ Pastel tonlar korunuyor mu?
 ```
 
 ---
 
-*Bu belge Rosie's Rose Garden mekanı için production referansıdır.*
+## World Identity Lock
+
+Kalp şeklinde çiçek tarhları her zaman mevcut olmalıdır. Bu world'ün imzasıdır ve hiçbir varyasyonda kaldırılamaz.
+
+---
+
+## Hero View Technical Specification
+
+| Parametre | Değer |
+|-----------|-------|
+| Lens | 28mm |
+| Yükseklik | 1.0m |
+| Açı | Wide, légèrement yukarından |
+| Odak | Tüm bahçe görünür, labirent okunabilir, kalp tarhları belirgin |
+
+---
+
+## Camera Identity
+
+| Parametre | Değer |
+|-----------|-------|
+| Lens Aralığı | 28-35mm |
+| Hareket | Yavaş, sabit veya nazik pan |
+| Renk Sıcaklığı | Warm, altın saat |
+
+---
+
+## Lighting Identity
+
+| Parametre | Değer |
+|-----------|-------|
+| Ana Kaynak | Sıcak güneş ışığı (altın saat) |
+| Yoğunluk | Orta-yüksek |
+| Yön | Yukarıdan, hafif açıyla |
+| Gölge | Yumuşak, doğal |
+| Ton | Warm, pastel |
+
+---
+
+## Colour Identity
+
+| Renk | HEX | Kullanım |
+|------|-----|----------|
+| Pembe | #F48FB1 | Ana gül rengi |
+| Kırmızı | #EF5350 | Vurgu gül |
+| Sarı | #FFD54F | Vurgu gül |
+| Beyaz | #FFFFFF | Çit, çeşme |
+| Yeşil | #81C784 | Yapraklar, çim |
+
+---
+
+## Environmental Sound Identity
+
+| Ses | Karakter |
+|-----|----------|
+| Kuş cıvıltısı | Yüksek, güzel, sürekli |
+| Kelebek | Nazik hışırtı |
+| Rüzgar | Güller arası fısıltı |
+| Su | Merkez çeşme, nazik akış |
+
+---
+
+## Continuity Rules
+
+1. Kalp şeklinde tarhlar her zaman mevcut
+2. Güller her zaman yuvarlak ve dikensiz
+3. Çitler her zaman alçak ve beyaz
+4. Warm ışık her zaman korunur
+5. Boyut her zaman çocuk ölçeğinde
+
+---
+
+## Production QA
+
+```
+✓ Tanınabilir mi? — Rosie's Rose Garden hemen tanınıyor mu?
+✓ Güzel mi? — Görsel olarak çekici ve zarif mi?
+✓ Güvenli mi? — Diken, sivri köşe, karanlık yok mu?
+✓ Tutarlı mı? — Her çekimde kalp tarhları ve renkler korunuyor mu?
+```
+
+---
+
+## Canonical Reusable Assets
+
+| Asset ID | Açıklama |
+|----------|----------|
+| RG-ROSES-PINK-01 | Pembe güller |
+| RG-ROSES-RED-01 | Kırmızı güller |
+| RG-ROSES-YELLOW-01 | Sarı güller |
+| RG-BEDS-HEART-01 | Kalp şeklinde tarhlar |
+| RG-FENCE-WHITE-01 | Beyaz çit |
+| RG-BUTTERFLY-01 | Kelebek |
+| RG-FOUNTAIN-01 | Merkez çeşme |
+
+---
+
+## World Navigation
+
+```
+Giriş Kapısı
+    ↓
+Dairesel Labirent (sol veya sağ koldan ilerle)
+    ↓
+Kalp Şeklinde Tarhlar (her kolda en az bir tane)
+    ↓
+Merkez Çeşme (labirentin kalbi)
+    ↓
+Çıkış (farklı yoldan geri dönüş)
+```
+
+---
+
+## View Transition Rules
+
+| Geçiş | Kural |
+|-------|-------|
+| Wide → Medium | Yavaş zoom, 2 sn |
+| Medium → Close-up | Nazik ilerleme, 1.5 sn |
+| Close-up → Wide | Yavaş çekilme, 2 sn |
+| Through Fence → Wide | Fence arkasından açılma, 2.5 sn |
+
+---
+
+## Typical Episode Usage
+
+| Sahne | Süre | Açıklama |
+|-------|------|----------|
+| Giriş | 5-10 sn | Wide bahçe görünümü, tanıtım |
+| Keşif | 15-30 sn | Karakter labirentte ilerler |
+| Detay | 10-20 sn | Gül, kelebek, çeşme |
+| Duygu | 10-15 sn | Koklama, izleme, şaşırma |
+
+---
+
+## Common Generation Failures
+
+| Hata | Çözüm |
+|------|-------|
+| Dikenli gül → | Kaldır, yuvarlak yaprak ekle |
+| Kare tarh → | Kalp şekline çevir |
+| Koyu renk → | Pastel ve warm tonlara çevir |
+| Büyük çit → | Alçalt, yuvarlak uç ekle |
+| Sivri köşe → | Yuvarla, yumuşat |
+
+---
+
+## Video Generation Rules
+
+| Öğe | Kural |
+|-----|-------|
+| Gül sallanması | 20 frame, yavaş, nazik |
+| Kelebek uçuşu | 15 frame, dairesel, zarif |
+| Yaprak düşüşü | 30 frame, yavaş, spiral |
+| Su akışı | Sürekli, nazik, berrak |
+| Karakter yürüyüşü | Yavaş, çimen üzerinde |
+
+---
+
+## Production Summary
+
+Rosie's Rose Garden, güzellik ve zarafetin mekanıdır. Kalp şeklinde tarhları, renkli gülleri ve sakin atmosferiyle, çocukların doğanın dilini keşfettiği güvenli bir cennettir.
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk tasarım | — |
+| 2.0 | Production pipeline standardına güncelleme | ✅ |
+| 2.1 | Detay güncellemeleri | ❌ |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu, tam yeniden yazım | ✅ |
+
+---
+
+*Bu belge Rosie's Rose Garden mekanı için creative referanstır.*
+
+*Environment Bible v3.0*
+
+*Son güncelleme: 3 Temmuz 2026*

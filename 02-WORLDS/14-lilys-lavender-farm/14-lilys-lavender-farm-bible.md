@@ -914,3 +914,11 @@ Lavanta sallanması: 20 frame.
 Lily's Lavender Farm huzur ve güzellik mekanıdır.
 
 ---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

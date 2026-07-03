@@ -878,6 +878,234 @@ Her yüzey yumuşak ve el yapımı hissi verir. Duvarlar mat, oyuncak hissi; kap
 
 ---
 
+## Overview
+
+Kiko'nun evi, PomPom Hills'in en tanıdık yeridir. Yuvarlak, tek katlı, pembe bir kulübe. Güvenli, sıcak, davetkar.
+
+## Why This World Exists
+
+Kiko's Home, serinin güvenli üssüdür — her macera buradan başlar ve buraya döner. Çocuk izleyicinin tanıdık ve sıcak bir ev hissini deneyimlemesi, dünyaya bağlanmasını sağlar.
+
+## Emotional Purpose
+
+### Bu mekan duygusal olarak neden var?
+Güven ve ev hissini temsil eder. Kapıya gelindiğinde içeri girmek isteyen bir mekan.
+
+### Çocuklar buraya geldiklerinde nasıl hisseder?
+Güvende, rahat, mutlu. "Eve geldim."
+
+### Bu mekanda doğal olarak hangi hikayeler geçer?
+Uyanma, kapı karşılama, oyun, kitap okuma, uyku.
+
+### Bu mekan hangi duygusal deneyimleri destekler?
+Güven · Rahatlık · Sıcaklık · Dostluk
+
+## Play Philosophy
+
+### Oyun stili
+| Özellik | Açıklama |
+|---------|----------|
+| Open-ended | Oyuncak kutusu, kitap, çizim |
+| Hayal gücü | Ev oyunu, misafir ağırlama |
+| İşbirliği | Birlikte oynama, paylaşma |
+
+### Kural tabanlı oyun yok
+- Yarışma yok
+- Skor yok
+- Rekabet yok
+
+## Visual Identity
+
+### Genel
+- Yuvarlak, tek katlı, pembe ev (#F8BBD0)
+- Yuvarlak beyaz kapı
+- Yuvarlak pencereler
+- Pembe çatı
+- Sıcak, davetkar his
+
+## Spatial Layout
+
+```
+Ön bahçe → Kapı → Giriş → İç mekan (oturma, yatak, mutfak, pencere)
+```
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Kapı | KH-DOOR-01 | Yuvarlak beyaz kapı | ✅ |
+| Pencere | KH-WINDOW-01 | Yuvarlak pencere | ✅ |
+| Masa | KH-TABLE-01 | Yuvarlak beyaz masa | ✅ |
+| Sandalye | KH-CHAIR-01 | Küçük yuvarlak sandalye | ✅ |
+| Halı | KH-RUG-01 | Pembe puantiyeli halı | ✅ |
+| Oyuncak kutusu | KH-TOYBOX-01 | Sarı yuvarlak kutu | ✅ |
+
+## Canonical Prompt Reference Pack
+
+| Ref | Açıklama |
+|-----|----------|
+| 01 | Hero View — dış cephe, kapı merkezde |
+| 02 | Entrance View — kapıdan içeri |
+| 03 | Interior Wide — tüm iç mekan |
+| 04 | Detail View — oyuncak, kitap |
+
+## Prompt Generation Rules
+
+| Kural | Açıklama |
+|-------|----------|
+| Max 4 referans | Her shot'ta en fazla 4 |
+| Hero View zorunlu | Her üretimde |
+| Tutarlı ışık | Sıcak sabah |
+| Tutarlı renk | Pembe + beyaz |
+| Karakter yok referanslarda | Sadece ortam |
+
+## Emotional Tone
+
+- Sıcak
+- Güvende
+- Davetkar
+- Tanıdık
+- Mutlu
+
+## World Identity Lock
+
+| Locked Element | Value |
+|----------------|-------|
+| Ev rengi | Pembe #F8BBD0 |
+| Kapı | Yuvarlak, beyaz |
+| Pencere | Yuvarlak |
+
+## Hero View Technical Specification
+
+| Parameter | Value |
+|-----------|-------|
+| Camera height | 0.85m |
+| Lens | 28mm |
+| Lighting | Sıcak sabah güneş |
+| Colour temp | 5000K |
+
+## Camera Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Default lens | 28-35mm |
+| Height | 0.75-0.85m |
+| Movement | Yavaş, yumuşak |
+
+## Lighting Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Direction | Üstten sıcak güneş |
+| Softness | Yumuşak |
+| Shadow | %10-15 |
+
+## Colour Identity
+
+| Parameter | Value |
+|-----------|-------|
+| White balance | 5000K sıcak |
+| Wall | Pembe #F8BBD0 |
+| Door | Beyaz #FFFFFF |
+| Roof | Koyu pembe #E91E63 |
+
+## Environmental Sound Identity
+
+| Parameter | Value |
+|-----------|-------|
+| Birds | Sabah cıvıltı |
+| Wind | Hafif yaprak |
+| Silence | Yüksek |
+
+## Continuity Rules
+
+| Element | Rule |
+|---------|------|
+| Ev | Her zaman yuvarlak ve pembe |
+| Kapı | Her zaman beyaz |
+| Pencere | Her zaman yuvarlak |
+
+## Production QA
+
+```
+✓ Kiko's Home tanınabilir mi?
+✓ Yuvarlak forme sadık mı?
+✓ Pembe palet tutarlı mı?
+✓ Sıcak ışık var mı?
+✓ Güvenli his var mı?
+```
+
+## Canonical Reusable Assets
+
+| Asset ID | Description |
+|----------|-------------|
+| KH-DOOR-01 | Yuvarlak beyaz kapı |
+| KH-WINDOW-01 | Yuvarlak pencere |
+| KH-TABLE-01 | Yuvarlak masa |
+| KH-RUG-01 | Pembe halı |
+| KH-TOYBOX-01 | Sarı oyuncak kutusu |
+
+## World Navigation
+
+```
+Ön bahçe → Kapı → Giriş → İç mekan → Arka bahçe
+```
+
+## View Transition Rules
+
+### Default Sequence
+```
+1. Wide exterior
+2. Door approach
+3. Interior entrance
+4. Wide interior
+5. Close-up
+```
+
+## Character Occupancy
+
+| Shot Type | Max Characters |
+|-----------|:--------------:|
+| Wide exterior | 0 |
+| Medium | 1-2 |
+| Interior | 2-3 |
+| Close-up | 1 |
+
+## Typical Episode Usage
+
+### Story Types That Fit
+- Sabah uyanma
+- Arkadaş ziyareti
+- Uyku sahnesi
+- Güvenli alan
+
+### Story Types That Don't Fit
+- Karanlık
+- Korku
+- Hız
+- Rekabet
+
+## Common Generation Failures
+
+| Failure | Fix |
+|---------|-----|
+| Dikdörtgen ev | Yuvarlak forma çevir |
+| Soğuk renk | Pembe palet |
+| Keskin köşe | Yuvarlak mobilya |
+
+## Video Generation Rules
+
+| Element | Rule |
+|---------|------|
+| Kapı hareketi | Yavaş, 20 frame |
+| Kamera | Maks %3 frame/sn |
+
+## Production Summary
+
+Kiko's Home, PomPom Hills'in güvenli üssüdür. Yuvarlak pembe ev, sıcak iç mekan ve tanıdık atmosferle tanınır. Her bölümün başlangıç ve bitiş noktasıdır.
+
+---
+
 ## Production Goal
 
 This Living World is intentionally designed to validate whether AI production tools can maintain one coherent environment containing multiple connected spaces.
@@ -889,3 +1117,13 @@ If successful, this design philosophy will become the standard for future homes 
 *Bu belge Kiko's Home mekanı için creative referanstır.*
 *Living World Bible v3.1*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

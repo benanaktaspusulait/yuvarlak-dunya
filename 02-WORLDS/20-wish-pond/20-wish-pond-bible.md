@@ -738,6 +738,180 @@ This Living World is designed to provide a magical, meditative environment for s
 
 ---
 
+## Overview
+
+Wish Pond, PomPom Hills'in en büyülü gölüdür. Gece yıldızlar suyun üstünde parlar.
+
+---
+
+## Why This World Exists
+
+Dilek ve umut duygusunu temsil eder. Büyülü ama güvenli bir atmosfer.
+
+---
+
+## Emotional Purpose
+
+Umut, hayal gücü, sihir.
+
+---
+
+## Play Philosophy
+
+Hayal kurma, dilek dileme, sakinlik.
+
+---
+
+## Visual Identity
+
+Yuvarlak göl, berrak su, gece yıldızları.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Göl kenarı → Su yüzeyi → Yıldızlar
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Göl | WP-POND-01 | Yuvarlak göl | ✅ |
+| Yıldızlar | WP-STARS-01 | Parlayan yıldızlar | ✅ |
+| Taşlar | WP-STONES-01 | Yuvarlak taşlar | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 views.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans.
+
+---
+
+## Emotional Tone
+
+Büyülü, umutlu, sakin.
+
+---
+
+## World Identity Lock
+
+Parlayan yıldızlar, berrak su.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 0.85m.
+
+---
+
+## Camera Identity
+
+28-35mm.
+
+---
+
+## Lighting Identity
+
+Yumuşak ay ışığı.
+
+---
+
+## Colour Identity
+
+Mavi su, altın yıldızlar.
+
+---
+
+## Environmental Sound Identity
+
+Su, sessizlik, büyülü tını.
+
+---
+
+## Continuity Rules
+
+Parlayan yıldızlar.
+
+---
+
+## Production QA
+
+Tanınabilir mi? Büyülü mü?
+
+---
+
+## Canonical Reusable Assets
+
+WP-POND-01, WP-STARS-01, WP-STONES-01.
+
+---
+
+## World Navigation
+
+Giriş → Göl → Yıldızlar.
+
+---
+
+## View Transition Rules
+
+Wide → Water level → Close-up.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Close-up: 0-1.
+
+---
+
+## Typical Episode Usage
+
+Dilek, hayal, gece.
+
+---
+
+## Common Generation Failures
+
+Karanlık → Yumuşak ışık.
+
+---
+
+## Video Generation Rules
+
+Yıldız parıltısı: yavaş.
+
+---
+
+## Production Summary
+
+Wish Pond dilek ve umut mekanıdır.
+
+---
+
+---
+
 *Bu belge Wish Pond mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

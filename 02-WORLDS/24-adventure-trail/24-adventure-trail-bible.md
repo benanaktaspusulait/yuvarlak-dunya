@@ -751,3 +751,174 @@ This Living World is designed to provide a winding, discovery-rich environment f
 *Bu belge Adventure Trail mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Overview
+
+Adventure Trail, tüm mekanları birbirine bağlayan uzun bir yürüyüş patikasıdır.
+
+---
+
+## Why This World Exists
+
+Keşif ve yolculuk duygusunu temsil eder.
+
+---
+
+## Emotional Purpose
+
+Macera, keşif, yolculuk.
+
+---
+
+## Play Philosophy
+
+Yürüyüş, keşif, gözlem.
+
+---
+
+## Visual Identity
+
+Kavisli taş patika, yeşil kenarlar.
+
+---
+
+## Spatial Layout
+
+```
+Central Square → Patika → Flower Hill → Little Forest → ...
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Patika | AT-PATH-01 | Yuvarlak taşlar | ✅ |
+| Çiçekler | AT-FLOWERS-01 | Kenar çiçekleri | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 views.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans.
+
+---
+
+## Emotional Tone
+
+Macera, doğal, keşif.
+
+---
+
+## World Identity Lock
+
+Kavisli patika, taşlar.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 1.0m.
+
+---
+
+## Camera Identity
+
+28-35mm.
+
+---
+
+## Lighting Identity
+
+Doğal, sıcak.
+
+---
+
+## Colour Identity
+
+Yeşil, doğal tonlar.
+
+---
+
+## Environmental Sound Identity
+
+Yaprak, kuş, adım.
+
+---
+
+## Continuity Rules
+
+Kavisli patika.
+
+---
+
+## Production QA
+
+Tanınabilir mi?
+
+---
+
+## Canonical Reusable Assets
+
+AT-PATH-01, AT-FLOWERS-01.
+
+---
+
+## World Navigation
+
+Giriş → Patika → Varış.
+
+---
+
+## View Transition Rules
+
+Wide → Following.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Medium: 1-2.
+
+---
+
+## Typical Episode Usage
+
+Yürüyüş, keşif.
+
+---
+
+## Common Generation Failures
+
+Düz patika → Kavisli yap.
+
+---
+
+## Video Generation Rules
+
+Yavaş yürüyüş.
+
+---
+
+## Production Summary
+
+Adventure Trail keşif patikasıdır.
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

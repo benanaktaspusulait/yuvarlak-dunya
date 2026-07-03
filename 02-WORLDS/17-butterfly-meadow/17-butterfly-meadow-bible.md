@@ -748,3 +748,174 @@ This Living World is designed to provide a magical, sensory-rich environment for
 *Bu belge Butterfly Meadow mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Overview
+
+Butterfly Meadow, binlerce kelebeğin uçtuğu büyülü bir çayırlıktır.
+
+---
+
+## Why This World Exists
+
+Doğanın güzelliğini ve sihrini sunar. Kelebekler, çiçekler, sakinlik.
+
+---
+
+## Emotional Purpose
+
+Hayranlık, güzellik, sakinlik.
+
+---
+
+## Play Philosophy
+
+Gözlem, hayal gücü, sakinlik.
+
+---
+
+## Visual Identity
+
+Binlerce renkli kelebek, çiçek dolu çayırlık.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Çiçek tarlası → Kelebek bölgesi → Sessiz köşe
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Kelebekler | BM-BUTTERFLY-01 | Renkli kelebekler | ✅ |
+| Çiçekler | BM-FLOWERS-01 | Pastel çiçekler | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 views.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans.
+
+---
+
+## Emotional Tone
+
+Büyülü, sakin, güzel.
+
+---
+
+## World Identity Lock
+
+Binlerce kelebek, pastel renkler.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 0.85m.
+
+---
+
+## Camera Identity
+
+28-35mm.
+
+---
+
+## Lighting Identity
+
+Doğal, sıcak.
+
+---
+
+## Colour Identity
+
+Pastel renkler, yeşil.
+
+---
+
+## Environmental Sound Identity
+
+Kelebek çırpıntısı, sessizlik.
+
+---
+
+## Continuity Rules
+
+Binlerce kelebek.
+
+---
+
+## Production QA
+
+Tanınabilir mi? Büyülü mü?
+
+---
+
+## Canonical Reusable Assets
+
+BM-BUTTERFLY-01, BM-FLOWERS-01.
+
+---
+
+## World Navigation
+
+Giriş → Çiçekler → Kelebekler.
+
+---
+
+## View Transition Rules
+
+Wide → Close-up kelebek.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Close-up: 0-1.
+
+---
+
+## Typical Episode Usage
+
+Kelebek izleme, sakinlik.
+
+---
+
+## Common Generation Failures
+
+Az kelebek → Binlerce ekle.
+
+---
+
+## Video Generation Rules
+
+Kelebek uçuşu: sürekli.
+
+---
+
+## Production Summary
+
+Butterfly Meadow büyü mekanıdır.
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

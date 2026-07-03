@@ -756,6 +756,177 @@ This Living World is designed to provide a warm, intimate environment for storie
 
 ---
 
+## Overview
+
+Camping Grove, yuvarlak çadırlar ve kamp ateşiyle dolu orman kampıdır.
+
+---
+
+## Why This World Exists
+
+Macera ve doğa deneyimini güvenli bir şekilde sunar.
+
+---
+
+## Emotional Purpose
+
+Macera, keşif, birlikte olma.
+
+---
+
+## Play Philosophy
+
+Keşif, gözlem, hayal gücü.
+
+---
+
+## Visual Identity
+
+Yuvarlak çadırlar, kamp ateşi, ağaçlar.
+
+---
+
+## Spatial Layout
+
+```
+Giriş → Kamp alanı → Çadırlar → Ateş → Gökyüzü
+```
+
+---
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Çadırlar | CG-TENT-01 | Yuvarlak çadırlar | ✅ |
+| Ateş | CG-FIRE-01 | Yuvarlak taşlı ateş | ✅ |
+
+---
+
+## Canonical Prompt Reference Pack
+
+4 views.
+
+---
+
+## Prompt Generation Rules
+
+Max 4 referans.
+
+---
+
+## Emotional Tone
+
+Macera, sıcak, güvenli.
+
+---
+
+## World Identity Lock
+
+Yuvarlak çadırlar, orman.
+
+---
+
+## Hero View Technical Specification
+
+28mm, 1.0m.
+
+---
+
+## Camera Identity
+
+28-35mm.
+
+---
+
+## Lighting Identity
+
+Sıcak ateş ışığı.
+
+---
+
+## Colour Identity
+
+Yeşil, turuncu ateş.
+
+---
+
+## Environmental Sound Identity
+
+Ateş çıtırtısı, kuş.
+
+---
+
+## Continuity Rules
+
+Yuvarlak çadırlar.
+
+---
+
+## Production QA
+
+Tanınabilir mi?
+
+---
+
+## Canonical Reusable Assets
+
+CG-TENT-01, CG-FIRE-01.
+
+---
+
+## World Navigation
+
+Giriş → Kamp → Ateş → Gökyüzü.
+
+---
+
+## View Transition Rules
+
+Wide → Medium → Close-up.
+
+---
+
+## Character Occupancy
+
+Wide: 0, Medium: 2-3.
+
+---
+
+## Typical Episode Usage
+
+Kamp, macera.
+
+---
+
+## Common Generation Failures
+
+Tehlikeli → Güvenli yap.
+
+---
+
+## Video Generation Rules
+
+Ateş: 15 frame.
+
+---
+
+## Production Summary
+
+Camping Grove macera mekanıdır.
+
+---
+
 *Bu belge Camping Grove mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

@@ -740,6 +740,108 @@ This Living World is designed to provide a colourful, creative environment for s
 
 ---
 
+## Overview
+
+Art Corner, yuvarlak tuvaller ve renkli sanat malzemeleriyle dolu dış mekan stüdyosudur.
+
+## Why This World Exists
+
+Yaratıcılık ve sanat ifadesini teşvik eder.
+
+## Emotional Purpose
+
+Yaratıcılık, ifade, keşif.
+
+## Play Philosophy
+
+Çizim, boyama, yaratıcı keşif.
+
+## Visual Identity
+
+Yuvarlak tuvaller, renkli boyalar, doğal stüdyo.
+
+## Spatial Layout
+
+```
+Giriş → Tuvaller → Boya alanı → Sergi köşesi
+```
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Tuvaller | AC-EASEL-01 | Yuvarlak tuvaller | ✅ |
+| Boyalar | AC-PAINT-01 | Renkli boyalar | ✅ |
+
+## Canonical Prompt Reference Pack
+4 views.
+
+## Prompt Generation Rules
+Max 4 referans.
+
+## Emotional Tone
+Yaratıcı, renkli, ilham verici.
+
+## World Identity Lock
+Yuvarlak tuvaller, renkli.
+
+## Hero View Technical Specification
+28mm, 0.85m.
+
+## Camera Identity
+28-35mm.
+
+## Lighting Identity
+Doğal, sıcak.
+
+## Colour Identity
+Renkli palet.
+
+## Environmental Sound Identity
+Sessizlik, kuş.
+
+## Continuity Rules
+Yuvarlak tuvaller.
+
+## Production QA
+Tanınabilir mi?
+
+## Canonical Reusable Assets
+AC-EASEL-01, AC-PAINT-01.
+
+## World Navigation
+Giriş → Tuvaller → Boya.
+
+## View Transition Rules
+Wide → Close-up.
+
+## Character Occupancy
+Wide: 0, Close-up: 1.
+
+## Typical Episode Usage
+Çizim, boyama.
+
+## Common Generation Failures
+Dikdörtgen → Yuvarlak yap.
+
+## Video Generation Rules
+Yavaş hareket.
+
+## Production Summary
+Art Corner yaratıcılık mekanıdır.
+
+---
+
 *Bu belge Art Corner mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

@@ -870,6 +870,108 @@ This Living World is designed to provide a safe, sensory-rich environment for st
 
 ---
 
+## Overview
+
+Paddle Cove, çocuklar için güvenli bir koy ve su oyunu alanıdır.
+
+## Why This World Exists
+
+Su ile güvenli etkileşimi ve macera duygusunu sunar.
+
+## Emotional Purpose
+
+Macera, keşif, su sevgisi.
+
+## Play Philosophy
+
+Su etkileşimi, keşif, gözlem.
+
+## Visual Identity
+
+Yuvarlak koy, berrak su, renkli kayıklar.
+
+## Spatial Layout
+
+```
+Giriş → Koy → Su kenarı → Kayıklar → Çıkış
+```
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Koy | PC-COVE-01 | Yuvarlak koy | ✅ |
+| Kayıklar | PC-BOAT-01 | Renkli kayıklar | ✅ |
+
+## Canonical Prompt Reference Pack
+4 views.
+
+## Prompt Generation Rules
+Max 4 referans.
+
+## Emotional Tone
+Eğlenceli, maceracı, güvenli.
+
+## World Identity Lock
+Yuvarlak koy, renkli kayıklar.
+
+## Hero View Technical Specification
+28mm, 1.0m.
+
+## Camera Identity
+28-35mm.
+
+## Lighting Identity
+Sıcak güneş.
+
+## Colour Identity
+Mavi su, renkli.
+
+## Environmental Sound Identity
+Su, kuş, neşe.
+
+## Continuity Rules
+Yuvarlak koy.
+
+## Production QA
+Tanınabilir mi?
+
+## Canonical Reusable Assets
+PC-COVE-01, PC-BOAT-01.
+
+## World Navigation
+Giriş → Koy → Kayıklar.
+
+## View Transition Rules
+Wide → Medium → Close-up.
+
+## Character Occupancy
+Wide: 0, Medium: 1-2.
+
+## Typical Episode Usage
+Su oyunu, macera.
+
+## Common Generation Failures
+Derin su → Sığ yap.
+
+## Video Generation Rules
+Su hareketi: 15 frame.
+
+## Production Summary
+Paddle Cove su macerası mekanıdır.
+
+---
+
 *Bu belge Paddle Cove mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |

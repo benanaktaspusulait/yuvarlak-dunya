@@ -1,6 +1,6 @@
 # Environment Bible — Learning Room
 
-> **Version 1.0** — Canonical interior environment.
+> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
 > This is the permanent Learning Room of PomPom Hills.
 > Not a real school classroom — a warm preschool learning space where curiosity, creativity and friendship come alive.
 
@@ -9,7 +9,7 @@
 ```
 Environment ID: ENV-031
 File: 02-WORLDS/31-learning-room/
-Version: 1.0
+Version: 3.0
 Location: PomPom Hills (interior)
 Type: Interior World
 Status: Design

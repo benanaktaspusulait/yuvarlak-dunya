@@ -850,9 +850,108 @@ Bu bir binme alanı değil. Bu bir hayvan teması mekanıdır.
 ## Production Goal
 
 This Living World is designed to provide a gentle, animal-rich environment for stories about tenderness, patience, and friendship with animals. The meadow's consistent identity supports reliable AI-assisted production while maintaining the compassionate warmth essential to Pompom Hills.
+## Overview
+
+Pony Meadow, yumuşak çimenlik ve sevimli oyuncak midillilerle dolu bir çayırlıktır.
+
+## Why This World Exists
+
+Hayvan sevgisini ve bakım duygusunu güvenli bir şekilde sunar.
+
+## Emotional Purpose
+
+Sevgi, bakım, neşe.
+
+## Play Philosophy
+
+Bakım, hayal gücü, sakinlik.
+
+## Visual Identity
+
+Yeşil çimenlik, yuvarlak oyuncak midilliler.
+
+## Spatial Layout
+
+```
+Giriş → Çimenlik → Midilli alanı → Bakım köşesi
+```
+
+## Props
+
+| Prop | Asset ID | Açıklama | Reusable |
+|------|----------|----------|:--------:|
+| Midilliler | PM-PONY-01 | Yuvarlak oyuncak midilliler | ✅ |
+| Çimen | PM-GRASS-01 | Yumuşak yeşil | ✅ |
+
+## Canonical Prompt Reference Pack
+4 views.
+
+## Prompt Generation Rules
+Max 4 referans.
+
+## Emotional Tone
+Sevimli, sıcak, bakım.
+
+## World Identity Lock
+Yuvarlak midilliler, yeşil.
+
+## Hero View Technical Specification
+28mm, 0.85m.
+
+## Camera Identity
+28-35mm.
+
+## Lighting Identity
+Sıcak güneş.
+
+## Colour Identity
+Yeşil, pastel.
+
+## Environmental Sound Identity
+Kuş, yumuşak ses.
+
+## Continuity Rules
+Yuvarlak midilliler.
+
+## Production QA
+Tanınabilir mi?
+
+## Canonical Reusable Assets
+PM-PONY-01, PM-GRASS-01.
+
+## World Navigation
+Giriş → Çimenlik → Midilliler.
+
+## View Transition Rules
+Wide → Medium → Close-up.
+
+## Character Occupancy
+Wide: 0, Medium: 1-2.
+
+## Typical Episode Usage
+Bakım, sevgi.
+
+## Common Generation Failures
+Gerçek at → Oyuncak yap.
+
+## Video Generation Rules
+Yavaş hareket.
+
+## Production Summary
+Pony Meadow bakım ve sevgi mekanıdır.
 
 ---
 
 *Bu belge Pony Meadow mekanı için creative referanstır.*
 *Living World Bible v3.0*
 *Son güncelleme: 3 Temmuz 2026*
+
+---
+
+## Changelog
+
+| Version | Changes | Breaking |
+|---------|---------|:--------:|
+| 1.0 | İlk oluşturma | — |
+| 2.0 | Production pipeline | — |
+| 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
