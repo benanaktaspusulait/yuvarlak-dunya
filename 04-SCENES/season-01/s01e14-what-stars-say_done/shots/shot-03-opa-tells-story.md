@@ -57,6 +57,26 @@ Do not introduce either character after the shot has started.
 ## Visual Prompt
 
 ```text
+Continue directly from @image1.
+
+The first frame of this video must match @image1 exactly.
+
+Treat @image1 as frame zero.
+
+The animation begins only after the first frame has matched @image1 exactly.
+
+Use @image1 as the exact starting composition.
+
+Do not reinterpret @image1.
+
+Do not reposition the camera.
+
+Do not recompose the scene.
+
+Do not adjust framing before movement begins.
+
+Continue the action naturally from @image1.
+
 Continue naturally from @image1.
 
 Use @image2 as the exact starting composition.
@@ -75,7 +95,18 @@ Luca is already present at the beginning of the shot.
 
 Do not introduce either character after the shot has started.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in @image1.
+
+Match the lighting and colour grading exactly from @image1.
+
+Do not change:
+- exposure
+- brightness
+- light intensity
+- colour temperature
+- colour grading
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
 
 ---
@@ -89,6 +120,18 @@ The reference image is supplied by the production workflow and should not be har
 ---
 
 ## Camera Direction
+
+
+
+## Camera Direction
+
+The shot must begin from the identical camera position shown in @image1.
+
+No camera movement is allowed until the first frame matches @image1 exactly.
+
+The first visible frame should appear visually identical to @image1.
+
+Only then may the planned camera movement begin.
 
 Begin from the established composition.
 
