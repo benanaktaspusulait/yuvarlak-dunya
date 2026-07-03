@@ -4,8 +4,9 @@
 > This document describes a connected living environment, not just an exterior.
 
 > **Version 3.1** — Evolved from Environment Bible to Living World Bible.
-> Implementation layers (World Specification, OpenArt prompts) separated into
-> dedicated production documents; see `Production Readiness` below.
+> This document is the single source of truth: creative definition and
+> production-ready specifications together. Tool-specific prompt syntax
+> (e.g. OpenArt) is not embedded here — see `Production Readiness` below.
 
 ---
 
@@ -280,12 +281,10 @@ This Living World has been intentionally designed to support AI-assisted world c
 
 The canonical creative definition is contained within this document.
 
-Implementation-specific production prompts belong in separate production
-documents and should not modify this Living World Bible.
-
-See:
-- `03-kikos-home-world-spec.md` — deterministic World Specification (tool-agnostic)
-- `03-kikos-home-openart.md` — OpenArt-specific production prompts
+Implementation-specific production prompts (which AI tool, prompt syntax,
+character limits) are workflow details, not world design, and are kept out
+of this section deliberately — this Bible stays valid regardless of which
+generation tool is used today or in the future.
 
 ---
 
@@ -878,10 +877,6 @@ Her yüzey yumuşak ve el yapımı hissi verir. Duvarlar mat, oyuncak hissi; kap
 This Living World is intentionally designed to validate whether AI production tools can maintain one coherent environment containing multiple connected spaces.
 
 If successful, this design philosophy will become the standard for future homes and other complex environments in Pompom Hills.
-
-Deterministic production-ready specifications (spatial zone areas, material
-specs, camera positions, colour palette, quality gates) are maintained in
-`03-kikos-home-world-spec.md`, not in this Bible.
 
 ---
 
