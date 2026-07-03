@@ -16,7 +16,8 @@ File: 12-ENVIRONMENT/03-kikos-home/
 Version: 3.1
 Location: Flower Hill
 Type: Living World
-Status: Design Approved — Production Layer Pending Test
+Status: Production Ready — In Use
+First Used: S01E02 Kiko's Home Tour
 ```
 
 ---

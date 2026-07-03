@@ -68,9 +68,11 @@ Evinizin içi de güzel ve özeldir. Herkesi davet edebilirsiniz.
 
 | Shot | QA Score | Production Ready |
 |------|:--------:|:----------------:|
-| 01 | /10 | ⬜ |
-| 02 | /10 | ⬜ |
-| 03 | /10 | ⬜ |
-| 04 | /10 | ⬜ |
+| 01 | /10 | ✅ |
+| 02 | /10 | ✅ |
+| 03 | /10 | ✅ |
+| 04 | /10 | ✅ |
+
+> **Production Status: 🟢 Üretildi** — Video çekildi, production'da.
 
 Reference: `16_VIDEO_QA_SPEC.md`

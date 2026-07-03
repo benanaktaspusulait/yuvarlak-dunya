@@ -12,7 +12,7 @@
 | Format | 3D animasyon |
 | Bölüm süresi | 60 saniye (4 shot × 15 sn) |
 | Toplam süre | ~26 dakika |
-| Üretilen | 2/26 |
+| Üretilen | 3/26 |
 
 ---
 
@@ -21,7 +21,8 @@
 | # | Başlık (TR) | Kısa Özet | Karakterler | Mekan | Süre | Yapıldı? |
 |---|-------------|-----------|-------------|-------|------|----------|
 | 01 | Merhaba Pompom Hills | Kiko uyanır, dünyayı keşfeder, Mimi ve Opa ile tanışır, tüm arkadaşlarıyla selamlaşır | Kiko, Mimi, Opa + 10 | Central Square | 7 dk | ❌ |
-| 02 | Zıpla Zıpla Kiko | Kiko sarı bir top bulur, Mimi ile oynar, kelebekler arasında zıplarlar | Kiko, Mimi, Opa | Flower Hill → Central Square | 3 dk | ❌ |
+| 02a | Kiko'nun Ev Turu | Kiko izleyicileri içeriye davet eder, evin okuma köşesi, oyuncak köşesi ve penceresini gösterir | Kiko | Kiko's Home (Dış Bahçe → İç) | 15 sn | ✅ |
+| 02b | Zıpla Zıpla Kiko | Kiko sarı bir top bulur, Mimi ile oynar, kelebekler arasında zıplarlar | Kiko, Mimi, Opa | Flower Hill → Central Square | 3 dk | ❌ |
 | 03 | Küçük Çiçek | Kiko tohum bulur, diker, sulayarak bekler, Mimi yardım eder, çiçek açar | Kiko, Mimi, Tillo, Opa | Tillo's Garden | 3 dk | ❌ |
 | 04 | Mimi'nin Büyük Esnemesi | Mimi durmadan esner, Kiko ona rahat bir yer arar, ağacın altında uyur | Kiko, Mimi, Opa | Mimi's Burrow | 3 dk | ❌ |
 | 05 | Renkler Her Yerde | Kiko renkleri keşfeder, Mimi ile birlikte mor lavanta bulurlar, gökkuşağı yaparlar | Kiko, Mimi, Opa | Friendship Meadow | 3 dk | ❌ |
@@ -94,13 +95,13 @@
 |--------|-------|
 | Toplam bölüm | 26 |
 | Yazılan | 26/26 (%100) |
-| Üretilen | 2/26 (%7.7) |
+| Üretilen | 3/26 (%11.5) |
 | Yayınlanan | 0/26 (%0) |
 
 | Durum | Kod | Sayı |
 |-------|-----|------|
-| ✅ Üretildi | _done klasörü | 2 |
-| ❌ Üretilmedi | Normal klasör | 24 |
+| ✅ Üretildi | _done klasörü / tamamlandı | 3 |
+| ❌ Üretilmedi | Normal klasör | 23 |
 
 ---
 
@@ -142,4 +143,4 @@
 ---
 
 *Bu belge Sezon 1 bölüm rehberi için tek kaynaktır.*
-*Son güncelleme: 2 Temmuz 2026*
+*Son güncelleme: 3 Temmuz 2026*

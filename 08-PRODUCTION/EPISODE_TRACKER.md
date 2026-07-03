@@ -7,7 +7,8 @@
 | Bölüm | Başlık | Karakter | Mekan | Durum | Sahne Sayısı |
 |-------|--------|----------|-------|-------|--------------|
 | S01E01 | Hello Pompom Hills | Kiko, Mimi, Opa + 10 komşu | Central Square | 🟢 Tamamlandı | 15 sahne |
-| S01E02 | Bounce, Bounce, Kiko! | Kiko, Mimi, Opa | Flower Hill → Butterfly Meadow → Central Square | 🟡 Yazıldı | 4 sahne |
+| S01E02-A | Kiko's Home Tour | Kiko | Kiko's Home (Front Garden → Interior) | 🟢 Üretildi | 4 sahne |
+| S01E02-B | Bounce, Bounce, Kiko! | Kiko, Mimi, Opa | Flower Hill → Butterfly Meadow → Central Square | 🟡 Yazıldı | 4 sahne |
 | S01E03 | The Little Flower | Kiko, Mimi, Opa | Tillo's Garden | 🟡 Yazıldı | 4 sahne |
 | S01E04 | Mimi's Big Yawn | Mimi, Kiko | Farklı mekanlar → Ağaç altı | 🟡 Yazıldı | 4 sahne |
 | S01E05 | Colours Everywhere | Kiko, Mimi | Rosie's Garden → Central Square | 🟡 Yazıldı | 4 sahne |
@@ -53,7 +54,7 @@
 |--------|-------|
 | Toplam bölüm | 26 |
 | Sahne dosyası yazılan | 11 (%42.3) |
-| Üretilen | 2 (%7.7) |
+| Üretilen | 3 (%11.5) |
 | Yayınlanan | 0 |
 | Henüz planlanmayan | 15 |
 
@@ -90,7 +91,7 @@
 | Tillo's Garden | 1 |
 | Rosie's Garden | 1 |
 | Butterfly Meadow | 1 |
-| Little Forest | 0 |
+| Kiko's Home | 1 | S01E02-A (Kiko's Home Tour) |
 | Rainbow Creek | 0 |
 | Milo's Pond | 0 |
 | Wish Pond | 0 |
@@ -116,4 +117,4 @@
 ---
 
 *Bu dosya Sezon 1 bölüm takibi için tek kaynaktır.*
-*Son güncelleme: 2 Temmuz 2026*
+*Son güncelleme: 3 Temmuz 2026*
