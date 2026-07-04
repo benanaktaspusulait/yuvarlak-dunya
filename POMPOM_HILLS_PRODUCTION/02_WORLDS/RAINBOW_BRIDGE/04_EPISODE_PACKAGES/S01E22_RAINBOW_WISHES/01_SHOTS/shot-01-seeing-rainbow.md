@@ -72,6 +72,12 @@ Mimi: So pretty!
 
 ---
 
+## Natural Character Motion Rule
+
+No character stands frozen. Every 2-3 seconds, one of these must occur: a blink, a breath, a head tilt, an ear twitch, a small weight shift, a hand gesture, or a step. These motions are subtle and continuous, never abrupt. Characters are always gently alive even when standing still.
+
+---
+
 ## Sound
 
 - Soft post-rain ambience
@@ -91,16 +97,20 @@ Warm, gentle, low contrast.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
 - [ ] Character integrity verified
 - [ ] Background objects stable throughout shot
 - [ ] Lighting consistency verified
-- [ ] Characters do not suddenly appear fully centered after the opening.
-- [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
-- [ ] No character pop-in occurs after the opening.
+- [ ] No static talking pose or frozen characters
+- [ ] Natural micro-motion present every 2-3 seconds
+- [ ] Dialogue density appropriate (no long pauses)
+- [ ] No music — natural ambience only
+- [ ] Negative prompt includes frozen/empty-time terms
+- [ ] Camera remains stable (no over-lock)
+- [ ] Shot feels calm but alive, not static
 
 ## Opening Hook
 

@@ -202,18 +202,44 @@ No extra dialogue after Mimi's final line.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | First second holds near Shot 07 frame; Kiko and Mimi stand together | Medium-wide |
-| 5-9 sn | They look around at the existing colours in the square | Gentle settle |
-| 9-13 sn | Final lines: all their colours together in Central Square | Medium-wide |
+| 0-1 sn | Continuity hold; first second holds near Shot 07 frame | Medium-wide |
+| 1-3 sn | Kiko and Mimi stand together and look around at existing colours | Medium-wide |
+| 3-5 sn | Kiko says: "All our colours together." | Medium-wide |
+| 5-7 sn | Mimi adds: "In Central Square!" and smiles | Medium-wide |
+| 7-10 sn | Both look at each other warmly; gentle shared reaction | Gentle settle |
+| 10-13 sn | They stand quietly, enjoying the moment | Medium-wide |
 | 13-15 sn | Silent warm final hold | Quiet hold |
 
 ---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## Sound
 
 - Warm Central Square ambience
 - Distant birds
 - Very soft ending tone under the final hold
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -230,7 +256,7 @@ low quality, blurry, deformed, extra limbs, text, readable text, watermark, logo
 
 teleporting character, disappearing character, character hidden behind bush, character walking through bushes, character clipping through objects, character emerging from opposite side, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, character occluded by foreground plants, walking through flowerbeds, walking through planters, walking through benches
 
-intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
+intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement
 
 ## QA Checklist
 
@@ -258,6 +284,16 @@ Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 - [ ] No object changes identity, duplicates, disappears or shifts side.
 - [ ] Camera movement does not hide a character or regenerate the environment.
 - [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Stronger Ending
 

@@ -95,9 +95,14 @@ Kiko: A ball! Let's play!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko finds a yellow ball on Flower Hill | Wide, 35mm, static |
-| 5-10 sn | Character interaction | Wide, 35mm, static |
-| 10-15 sn | Key moment | Wide, 35mm, static |
+| 0-1 sn | Continuity hold — Flower Hill Home Cluster, warm glow, stable composition | Wide, 35mm, static |
+| 1-3 sn | Kiko enters from the edge of the frame, small steps on the garden path | Wide, 35mm, static |
+| 3-5 sn | Kiko notices a yellow ball on the ground, stops, eyes widen | Wide, 35mm, static |
+| 5-7 sn | Kiko bends slightly, reaches toward the ball, picks it up with both hands | Wide, 35mm, static |
+| 7-9 sn | Kiko holds the ball up, turns it in her hands, examines it | Wide, 35mm, static |
+| 9-11 sn | Kiko says "A ball! Let's play!" — small excited bounce | Wide, 35mm, static |
+| 11-13 sn | Kiko hugs the ball gently, smiles | Wide, 35mm, static |
+| 13-15 sn | Kiko looks forward, holding the ball — final continuity frame | Wide, 35mm, static |
 
 ---
 
@@ -106,6 +111,7 @@ Kiko: A ball! Let's play!
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -133,7 +139,28 @@ They are loaded into OpenArt at production time.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## QA Checklist
 
@@ -156,6 +183,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Kiko does not suddenly appear fully centered after the empty opening.
 - [ ] Kiko is introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Opening Hook
 

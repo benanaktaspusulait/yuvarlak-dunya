@@ -84,6 +84,12 @@ Both: We wish for... friendship forever!
 
 ---
 
+## Natural Character Motion Rule
+
+No character stands frozen. Every 2-3 seconds, one of these must occur: a blink, a breath, a head tilt, an ear twitch, a small weight shift, a hand gesture, or a step. These motions are subtle and continuous, never abrupt. Characters are always gently alive even when standing still.
+
+---
+
 ## Sound
 
 - Two sparkle chimes merging into one
@@ -105,10 +111,17 @@ Characters are already present at the beginning of the shot. Do not introduce an
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement
 
 ## QA Checklist
 
 - [ ] Character integrity verified
-- [] Background objects stable throughout shot
+- [ ] Background objects stable throughout shot
 - [ ] Lighting consistency verified
+- [ ] No static talking pose or frozen characters
+- [ ] Natural micro-motion present every 2-3 seconds
+- [ ] Dialogue density appropriate (no long pauses)
+- [ ] Negative prompt includes frozen/empty-time terms
+- [ ] Camera remains stable (no over-lock)
+- [ ] Shot feels calm but alive, not static
+- [ ] Sparkle merge effect feels natural

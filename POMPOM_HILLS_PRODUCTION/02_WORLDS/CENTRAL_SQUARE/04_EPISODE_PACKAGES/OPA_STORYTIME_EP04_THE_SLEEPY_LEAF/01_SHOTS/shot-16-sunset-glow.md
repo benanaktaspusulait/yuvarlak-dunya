@@ -54,16 +54,46 @@ Begin from the identical camera position of the Shot 15 reference. Static wide h
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Sunset glow deepens gently. | Wide, 28mm, static |
-| 5-10 sn | Kiko and Noah settle peacefully. | Wide, 28mm, static |
-| 10-15 sn | Opa holds the closed book; quiet warmth. | Wide, 28mm, static |
+| 0-1 sn | Continuity hold; wide group frame | Wide, 28mm, static |
+| 1-3 sn | Sunset glow deepens gently across the blanket | Wide, 28mm, static |
+| 3-5 sn | Kiko settles comfortably, small shift | Wide, 28mm, static |
+| 5-7 sn | Noah leans against Opa gently | Wide, 28mm, static |
+| 7-10 sn | Opa holds the closed book, warm blink | Wide, 28mm, static |
+| 10-12 sn | All three breathe quietly; golden light shifts | Wide, 28mm, static |
+| 12-15 sn | Quiet group warmth; shared peaceful moment | Wide, 28mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
 ## Sound
 
 - Soft outdoor sunset ambience
-- Warm ambience
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -84,7 +114,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling, different world, abrupt cut to black
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling, different world, abrupt cut to black, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -95,6 +125,16 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
 - [ ] No abrupt cut to black
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

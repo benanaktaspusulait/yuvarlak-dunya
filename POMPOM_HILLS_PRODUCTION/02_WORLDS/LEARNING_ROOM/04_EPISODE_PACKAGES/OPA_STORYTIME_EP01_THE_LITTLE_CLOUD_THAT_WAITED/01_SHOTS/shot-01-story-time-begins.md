@@ -59,9 +59,40 @@ Opa: Of course. Come close, little friends.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca and Mimi settle on the rug near Opa's story chair. | Wide, 28mm, static |
-| 5-10 sn | Luca asks for a story; Mimi adds "a gentle one?" | Wide, 28mm, static |
-| 10-15 sn | Opa smiles, invites them close, lifts the rounded picture book. | Wide, 28mm, static |
+| 0-1 sn | Luca and Mimi settle on the rug near Opa's story chair, looking up at him. | Wide, 28mm, static |
+| 1-3 sn | Opa blinks warmly, hands resting on the rounded book in his lap. | Wide, 28mm, static |
+| 3-5 sn | Luca glances at the book, then up at Opa's face. | Wide, 28mm, static |
+| 5-7 sn | Luca: "Opa, can you read us a story?" | Wide, 28mm, static |
+| 7-10 sn | Mimi leans slightly forward: "A gentle one?" | Wide, 28mm, static |
+| 10-12 sn | Opa smiles, nods softly. | Wide, 28mm, static |
+| 12-13 sn | Opa: "Of course. Come close, little friends." | Wide, 28mm, static |
+| 13-15 sn | Opa lifts the rounded picture book; children shift closer on the rug. | Wide, 28mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -69,7 +100,8 @@ Opa: Of course. Come close, little friends.
 
 - Soft indoor room tone (Reading Corner)
 - Very light page/cushion movement
-- Gentle warm ambience (no music bed at shot level)
+- Gentle warm ambience
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -90,7 +122,7 @@ Loaded into OpenArt at production time; not hardcoded here.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## Opening Hook
 
@@ -112,6 +144,16 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] Characters do not suddenly appear fully centered after the opening bumper.
 - [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

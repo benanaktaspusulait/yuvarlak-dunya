@@ -59,9 +59,39 @@ Mimi: I love this corner.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko welcomes Opa and Mimi into her reading corner. | Wide, 28mm, static |
-| 5-10 sn | Opa settles into the story chair, invites them close. | Wide, 28mm, static |
-| 10-15 sn | Mimi settles on the cushion; Opa lifts the rounded picture book. | Wide, 28mm, static |
+| 0-1 sn | Continuity hold from opening bumper; warm Reading Corner visible. | Wide, 28mm, static |
+| 1-3 sn | Kiko waves Opa and Mimi in with a small welcoming gesture. | Wide, 28mm, static |
+| 3-5 sn | Kiko: "Opa, come sit with us in my reading corner!" — she steps aside. | Wide, 28mm, static |
+| 5-7 sn | Opa walks to the story chair, settles in gently. | Wide, 28mm, static |
+| 7-10 sn | Opa: "Come close, little friends." — he gestures with a soft hand wave. | Wide, 28mm, static |
+| 10-12 sn | Mimi hops onto the cushion, looks up at Opa. | Wide, 28mm, static |
+| 12-15 sn | Mimi: "I love this corner." — Opa lifts the rounded picture book. | Wide, 28mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -70,7 +100,7 @@ Mimi: I love this corner.
 - Soft indoor room tone (Reading Corner)
 - Distant garden birdsong through the round window
 - Very light page/cushion movement
-- Gentle warm ambience (no music bed at shot level)
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -91,7 +121,7 @@ Loaded into OpenArt at production time; not hardcoded here.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, modern furniture, harsh lighting, scary shadows, adult lecture feeling, different world
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, modern furniture, harsh lighting, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## Opening Hook
 
@@ -113,6 +143,16 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] Characters do not suddenly appear fully centered after the opening bumper.
 - [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

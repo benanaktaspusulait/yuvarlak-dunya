@@ -55,9 +55,39 @@ Noah: It found a nice spot.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa: "The leaf was calm at last." | Medium, 35mm, static |
-| 5-10 sn | Noah: "It found a nice spot." | Medium, 35mm, static |
-| 10-15 sn | Noah nods, understanding. | Medium, 35mm, static |
+| 0-1 sn | Continuity hold; Opa and Noah in frame | Medium, 35mm, static |
+| 1-3 sn | Opa's expression softens, gentle blink | Medium, 35mm, static |
+| 3-5 sn | Opa: "The leaf was calm at last." | Medium, 35mm, static |
+| 5-7 sn | Noah nods slowly, absorbing the idea | Medium, 35mm, static |
+| 7-10 sn | Noah: "It found a nice spot." | Medium, 35mm, static |
+| 10-12 sn | Noah looks at Opa, small smile | Medium, 35mm, static |
+| 12-15 sn | Opa and Noah share a gentle glance | Medium, 35mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -65,6 +95,7 @@ Noah: It found a nice spot.
 
 - Soft outdoor sunset ambience
 - Gentle warm ambience
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -85,7 +116,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling, different world
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -96,6 +127,16 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
 - [ ] No perceivable shot boundary
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

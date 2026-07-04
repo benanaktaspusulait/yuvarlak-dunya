@@ -9,8 +9,8 @@
 | Episode | The Little Flower |
 | Shot | 01 / 04 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Tillo's Garden |
+| Characters | Kiko |
 
 ---
 
@@ -83,9 +83,14 @@ Kiko: A seed! Let's plant it!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko finds a seed in Tillo's Garden | Established composition, 50mm, static |
-| 5-10 sn | Character interaction | Established composition, 50mm, static |
-| 10-15 sn | Key moment | Established composition, 50mm, static |
+| 0-1 sn | Continuity hold — Tillo's Garden, soft glow, stable composition | Established composition, 50mm, static |
+| 1-3 sn | Kiko enters from the edge, small steps along the garden path | Established composition, static |
+| 3-5 sn | Kiko stops, notices something on the ground, bends slightly | Established composition, static |
+| 5-7 sn | Kiko picks up a small seed, holds it up to look at it | Established composition, static |
+| 7-9 sn | Kiko examines the seed closely, turns it in her fingers | Established composition, static |
+| 9-11 sn | Kiko says "A seed! Let's plant it!" — small excited bounce | Established composition, static |
+| 11-13 sn | Kiko clutches the seed gently, looks around the garden | Established composition, static |
+| 13-15 sn | Kiko stands ready, seed in hand — continuity frame | Established composition, static |
 
 ---
 
@@ -94,6 +99,7 @@ Kiko: A seed! Let's plant it!
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -121,7 +127,28 @@ They are loaded into OpenArt at production time.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## QA Checklist
 
@@ -144,6 +171,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Characters do not suddenly appear fully centered after the opening.
 - [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Opening Hook
 

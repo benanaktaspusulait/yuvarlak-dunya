@@ -110,9 +110,17 @@ Kiko: Our wishes feel warm!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | They smile. Wishes feel warm. | Wide, 35mm, static |
-| 5-10 sn | Character interaction | Wide, 35mm, static |
-| 10-15 sn | Key moment | Wide, 35mm, static |
+| 0-3 sn | Kiko and Mimi smile at each other | Wide, 35mm, static |
+| 3-6 sn | They hold hands, a gentle squeeze | Wide, 35mm, static |
+| 6-9 sn | They look up at the rainbow together | Wide, 35mm, static |
+| 9-12 sn | Kiko nods softly, Mimi's ears perk | Wide, 35mm, static |
+| 12-15 sn | They lean against each other, warm smile | Wide, 35mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+No character stands frozen. Every 2-3 seconds, one of these must occur: a blink, a breath, a head tilt, an ear twitch, a small weight shift, a hand gesture, or a step. These motions are subtle and continuous, never abrupt. Characters are always gently alive even when standing still.
 
 ---
 
@@ -134,7 +142,7 @@ Soft, gentle glow.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## Stronger Ending
 
@@ -143,19 +151,13 @@ Avoid abrupt endings.
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
-
 - [ ] Character integrity verified
-- [ ] Character consistency verified
-- [ ] Object persistence verified
-- [ ] No rendering artefacts
-- [ ] Camera consistency verified
+- [ ] Background objects stable throughout shot
 - [ ] Lighting consistency verified
-- [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
+- [ ] No static talking pose or frozen characters
+- [ ] Natural micro-motion present every 2-3 seconds
+- [ ] Dialogue density appropriate (no long pauses)
+- [ ] No music — natural ambience only
+- [ ] Negative prompt includes frozen/empty-time terms
+- [ ] Camera remains stable (no over-lock)
+- [ ] Shot feels calm but alive, not static

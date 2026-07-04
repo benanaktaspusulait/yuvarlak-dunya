@@ -195,6 +195,29 @@ The silence after "Listen" is more important than the dialogue.
 
 ---
 
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
+
+---
+
 ## Sound
 
 - Soft wind
@@ -204,6 +227,8 @@ The silence after "Listen" is more important than the dialogue.
 
 No thunder cue.
 No explanatory music cue.
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -235,7 +260,7 @@ The audience should feel something is about to happen, but the moment must remai
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, duplicated limbs, text, watermark, captions, subtitles, speech bubbles, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, new narrator, teacher pose, classroom, school, explaining gesture, lecture pose, redesigned environment, different Cloud Hill, dramatic storm, heavy thunder, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in, camera reset, colour shift, lighting change
+low quality, blurry, deformed, extra limbs, duplicated limbs, text, watermark, captions, subtitles, speech bubbles, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, new narrator, teacher pose, classroom, school, explaining gesture, lecture pose, redesigned environment, different Cloud Hill, dramatic storm, heavy thunder, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in, camera reset, colour shift, lighting change, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ---
 

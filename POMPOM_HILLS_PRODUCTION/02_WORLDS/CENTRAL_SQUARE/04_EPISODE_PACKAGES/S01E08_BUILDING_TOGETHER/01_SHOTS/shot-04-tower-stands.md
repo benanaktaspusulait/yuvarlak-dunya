@@ -152,15 +152,43 @@ Arda: Together!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Tower stands tall | Wide |
-| 5-10 sn | Both look at tower proudly | Medium |
-| 10-15 sn | Both smile warmly | Established composition |
+| 0-1 sn | Continuity hold — tower standing, both near it | Wide |
+| 1-3 sn | Noah looks up at the tower, eyes wide | Medium |
+| 3-5 sn | Arda leans back to see the top, impressed | Medium |
+| 5-7 sn | Noah turns to Arda, speaks proudly | Medium |
+| 7-10 sn | Arda nods, they both look at the tower together | Medium |
+| 10-13 sn | Both stand up slowly, step back to admire it | Medium |
+| 13-15 sn | Shared proud smile, gentle blink | Established composition |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
 ## Sound
 
 - Peaceful ambient
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -174,7 +202,7 @@ Warm, proud feeling.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, background music, music, melody, song, soundtrack, musical bed
 
 
 ---
@@ -197,6 +225,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Stronger Ending
 

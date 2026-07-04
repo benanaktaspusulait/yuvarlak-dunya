@@ -59,8 +59,38 @@ Mimi: I like listening too.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-7 sn | Static medium on the book page shows soft bird illustrations as Opa describes the chatty birds. | Static medium, 50mm, static |
-| 7-15 sn | Mimi reacts quietly, softly recognising herself, and says she likes listening too. | Static medium, 50mm, static |
+| 0-1 sn | Continuity hold: book page visible with soft bird illustrations. | Static medium, 50mm, static |
+| 1-3 sn | Opa's voice describes the chatty birds; gentle glow pulses on the bird illustrations. | Static medium, 50mm, static |
+| 3-5 sn | Opa says: "All the other birds talked and sang all day." | Static medium, 50mm, static |
+| 5-7 sn | Small page flutter from the soft rain breeze through the window. | Static medium, 50mm, static |
+| 7-9 sn | Mimi's face appears at the edge of frame, she looks at the page, small blink. | Static medium, 50mm, static |
+| 9-11 sn | Mimi leans in gently, recognition in her eyes, small smile. | Static medium, 50mm, static |
+| 11-13 sn | Mimi says: "I like listening too." | Static medium, 50mm, static |
+| 13-15 sn | Opa glances at Mimi warmly; soft continuity hold on the page. | Static medium, 50mm, static |
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -70,6 +100,7 @@ Mimi: I like listening too.
 - Very soft rain ambience outside the window (never loud rain, never thunder)
 - Very light page movement
 - Warm ambience
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -86,7 +117,7 @@ Continue Shot 03 lighting exactly. Soft diffused rainy-day window light, warm in
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -100,7 +131,17 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
-- [ ] No perceivable shot boundary
+- [ ] No perceivable shot boundary.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

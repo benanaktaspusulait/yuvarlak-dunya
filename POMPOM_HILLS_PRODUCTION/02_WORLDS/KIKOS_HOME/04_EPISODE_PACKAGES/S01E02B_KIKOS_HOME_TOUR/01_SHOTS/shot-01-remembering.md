@@ -131,6 +131,7 @@ Small excited bounce before turning toward house. Kiko's "I have an idea" moment
 - Birds chirping (morning)
 - Soft garden ambience
 - Kiko's voice
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -143,6 +144,29 @@ Warm morning sunlight — identical to S01E01.
 Kiko is already present at the beginning of the shot.
 
 Do not introduce Kiko after the shot has started.
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
+
+---
 
 ## QA Checklist
 
@@ -163,6 +187,16 @@ Do not introduce Kiko after the shot has started.
 - [ ] Characters do not suddenly appear fully centered after the opening.
 - [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Reference Usage
 

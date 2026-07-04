@@ -144,9 +144,14 @@ Kiko: Hello, Mimi!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Mimi hops in from right | Medium |
-| 5-10 sn | Kiko turns, they meet | Two-shot |
-| 10-15 sn | They smile at each other | Medium, gentle hold |
+| 0-1 sn | Continuity hold — Kiko in Central Square, stable composition | Static medium |
+| 1-3 sn | Mimi hops in from the right, ears bouncing with each hop | Medium follow |
+| 3-5 sn | Kiko turns head toward Mimi, eyes light up, small smile | Medium |
+| 5-7 sn | Mimi lands, takes a small hop forward toward Kiko | Medium two-shot |
+| 7-9 sn | Kiko and Mimi take one step toward each other, both smiling | Medium two-shot |
+| 9-11 sn | Mimi says "Hello, Kiko!" — small hand wave | Medium two-shot |
+| 11-13 sn | Kiko says "Hello, Mimi!" — gentle nod, arms open slightly | Medium two-shot |
+| 13-15 sn | Both stand facing each other, small shared smile — continuity frame | Medium two-shot |
 
 ---
 
@@ -155,6 +160,7 @@ Kiko: Hello, Mimi!
 - Birds chirping
 - Soft footsteps
 - Gentle hop sound for Mimi
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -178,7 +184,28 @@ Reject if characters too large, environment changes.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## QA Checklist
 
@@ -198,6 +225,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Micro Actions
 

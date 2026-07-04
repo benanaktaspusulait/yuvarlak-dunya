@@ -59,9 +59,39 @@ Kiko: All day long?
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-6 sn | Opa describes the leaf dancing on branches and in the breeze. | Medium, 50mm, static |
-| 6-11 sn | Cutaway glance up to a single leaf gently dancing on a branch. | Medium + glance up, 50mm |
-| 11-15 sn | Kiko asks "all day long?" with gentle curiosity. | Medium, 50mm, static |
+| 0-1 sn | Continuity hold; Opa and Kiko in frame | Medium, 50mm, static |
+| 1-3 sn | Opa gestures gently upward toward the branch | Medium, 50mm, static |
+| 3-6 sn | Opa: "It danced on branches, it danced in the breeze." | Medium, 50mm, static |
+| 6-8 sn | Cutaway glance up to a single leaf gently dancing on a branch | Medium + glance up, 50mm |
+| 8-11 sn | Leaf sways softly in the breeze | Medium + glance up, 50mm |
+| 11-13 sn | Camera returns to Kiko; Kiko tilts head with curiosity | Medium, 50mm, static |
+| 13-15 sn | Kiko: "All day long?" | Medium, 50mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -69,7 +99,7 @@ Kiko: All day long?
 
 - Soft outdoor sunset ambience
 - Gentle breeze rustling a single leaf
-- Warm golden-hour stillness
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -86,7 +116,7 @@ Continue Shot 02 lighting exactly. Warm golden-hour sunset light, long soft shad
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -101,6 +131,16 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
 - [ ] No perceivable shot boundary
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

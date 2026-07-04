@@ -60,9 +60,38 @@ Opa: She was. And so are you, little ones.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca says he liked the story. | Medium three-shot, 35mm, static |
-| 5-10 sn | Mimi adds that the quiet bird was brave. | Medium three-shot, 35mm, static |
-| 10-15 sn | Opa warmly says she was, and so are they. | Medium three-shot, 35mm, static |
+| 0-1 sn | Continuity hold: three-shot, Opa holds the book. | Medium three-shot, 35mm, static |
+| 1-3 sn | Luca looks up at Opa, small smile forming. | Medium three-shot, 35mm, static |
+| 3-5 sn | Luca says: "I liked that story, Opa." | Medium three-shot, 35mm, static |
+| 5-7 sn | Mimi nods, looks at the page, then at Opa. | Medium three-shot, 35mm, static |
+| 7-9 sn | Mimi says: "Me too. The quiet bird was brave." | Medium three-shot, 35mm, static |
+| 9-11 sn | Opa looks at both children warmly, small blink. | Medium three-shot, 35mm, static |
+| 11-13 sn | Opa says: "She was. And so are you, little ones." | Medium three-shot, 35mm, static |
+| 13-15 sn | Children lean slightly toward Opa; warm shared moment, continuity hold. | Medium three-shot, 35mm, static |
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -72,6 +101,7 @@ Opa: She was. And so are you, little ones.
 - Very soft rain ambience outside the window (never loud rain, never thunder)
 - Very light cushion movement
 - Warm ambience
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -88,7 +118,7 @@ Continue Shot 12 lighting exactly. Soft diffused rainy-day window light, warm in
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -103,7 +133,17 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
-- [ ] No perceivable shot boundary
+- [ ] No perceivable shot boundary.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

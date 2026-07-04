@@ -89,17 +89,6 @@ Camera movement must remain slow, stable and natural.
 
 ## Dialogue
 
-The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in the previous shot reference.
-
-Match the lighting and colour grading exactly from the previous shot reference.
-
-Do not change:
-- exposure
-- brightness
-- light intensity
-- colour temperature
-- colour grading
-
 ```
 Kiko: Let's go together!
 ```
@@ -110,9 +99,44 @@ Kiko: Let's go together!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko joins. They enter together. | Medium, 50mm, tracking |
-| 5-10 sn | Character interaction | Medium, 50mm, tracking |
-| 10-15 sn | Key moment | Medium, 50mm, tracking |
+| 0-2 sn | Kiko enters from the left, small wave, joins Luca near the cave entrance | Medium, 50mm, tracking |
+| 2-4 sn | Kiko: "Let's go together!" — Luca nods, both face the cave mouth | Medium, 50mm, tracking |
+| 4-7 sn | Kiko and Luca exchange a reassuring glance, then step forward side by side | Medium, 50mm, tracking |
+| 7-9 sn | They cross the cave threshold together, shoulders slightly hunched with curiosity | Medium, 50mm, tracking |
+| 9-12 sn | Inside the cave entrance, Kiko touches the wall gently, Luca watches the light shift | Medium, 50mm, tracking |
+| 12-15 sn | Both look deeper into the cave, Kiko gestures forward, Luca takes the first step | Medium, 50mm, tracking |
+
+---
+
+## Natural Character Motion Rule
+
+Characters must never freeze, hold a static pose, or stare silently. Every character must show continuous natural micro-motion throughout the entire shot.
+
+Required micro-motion at all times:
+- Gentle breathing (chest rise/fall)
+- Subtle weight shifting between feet
+- Natural blinking
+- Ear or tail movement (for animal-like characters)
+- Head micro-turns following gaze
+- Hand or arm gestures during speech
+
+During dialogue:
+- Mouth sync to speech
+- Head tilts and nods
+- Hand gestures matching speech emphasis
+- Eye contact shifts between listener and surroundings
+
+Between dialogue beats:
+- Characters look around naturally
+- Shift posture
+- React to environment (wind, sounds, light changes)
+- Fidget, adjust stance, or take small steps
+
+Never allowed:
+- Characters frozen mid-scene
+- Silent staring without micro-motion
+- Static talking poses
+- Characters standing perfectly still waiting for next dialogue
 
 ---
 
@@ -121,6 +145,8 @@ Kiko: Let's go together!
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+
+**No-music rule:** This shot uses natural ambience only. No background music, melody, song, soundtrack or musical bed.
 
 ---
 
@@ -134,7 +160,7 @@ Soft, gentle glow.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -147,16 +173,6 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
-
-## Micro Actions
-
-Every 3-6 seconds introduce a small visual action.
-Examples: wave, blink, look around, pick up object, walk, jump, point, smile, laugh, sit, stand.
-Actions should feel natural.
+- [ ] Background lock verified — all visible objects stable throughout shot
+- [ ] No static talking poses or frozen characters
+- [ ] Natural character motion continuous — breathing, blinking, micro-movements present

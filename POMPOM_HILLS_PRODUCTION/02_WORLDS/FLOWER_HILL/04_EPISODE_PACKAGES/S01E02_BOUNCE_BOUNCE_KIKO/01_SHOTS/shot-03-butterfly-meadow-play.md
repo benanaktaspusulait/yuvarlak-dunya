@@ -110,9 +110,14 @@ Kiko: Catch it, Mimi! / Mimi: So fun!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | They play in Butterfly Meadow | Wide, 35mm, slow pan |
-| 5-10 sn | Character interaction | Wide, 35mm, slow pan |
-| 10-15 sn | Key moment | Wide, 35mm, slow pan |
+| 0-1 sn | Continuity hold — Butterfly Meadow, soft glow, stable composition | Wide, 35mm, slow pan |
+| 1-3 sn | Kiko and Mimi walk together through the meadow, gentle steps | Wide, slow pan follows |
+| 3-5 sn | A butterfly flutters past — both characters track it with their eyes | Wide, slow pan |
+| 5-7 sn | Kiko reaches out gently toward the butterfly, it lands on her hand | Wide, slow pan |
+| 7-9 sn | Kiko says "Catch it, Mimi!" — passes the butterfly toward Mimi | Wide, slow pan |
+| 9-11 sn | Mimi says "So fun!" — small clap, butterfly lifts off again | Wide, slow pan |
+| 11-13 sn | Both watch the butterfly fly away, small shared smiles | Wide, slow pan |
+| 13-15 sn | Kiko and Mimi stand together in the meadow — continuity frame | Wide, slow pan settles |
 
 ---
 
@@ -121,6 +126,7 @@ Kiko: Catch it, Mimi! / Mimi: So fun!
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -134,7 +140,28 @@ Soft, gentle glow.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## QA Checklist
 
@@ -154,6 +181,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Emotional Beat
 

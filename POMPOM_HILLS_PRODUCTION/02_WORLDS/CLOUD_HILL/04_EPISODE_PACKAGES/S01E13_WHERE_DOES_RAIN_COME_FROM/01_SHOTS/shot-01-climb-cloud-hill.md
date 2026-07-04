@@ -176,6 +176,29 @@ Keep a small pause after "Wow..."
 
 ---
 
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
+
+---
+
 ## Sound
 
 - Soft wind
@@ -184,6 +207,8 @@ Keep a small pause after "Wow..."
 - Open-air quiet
 
 No thunder in this shot unless extremely soft and distant.
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -213,7 +238,7 @@ The moment should feel quiet, fresh and safe.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, duplicated limbs, text, watermark, captions, subtitles, speech bubbles, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, new narrator, teacher pose, classroom, school, redesigned environment, different Cloud Hill, dramatic storm, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in
+low quality, blurry, deformed, extra limbs, duplicated limbs, text, watermark, captions, subtitles, speech bubbles, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, new narrator, teacher pose, classroom, school, redesigned environment, different Cloud Hill, dramatic storm, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, tight framing, push-in, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ---
 
@@ -240,6 +265,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Characters do not suddenly appear fully centered after the empty opening.
 - [ ] Characters are introduced by camera reveal, visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

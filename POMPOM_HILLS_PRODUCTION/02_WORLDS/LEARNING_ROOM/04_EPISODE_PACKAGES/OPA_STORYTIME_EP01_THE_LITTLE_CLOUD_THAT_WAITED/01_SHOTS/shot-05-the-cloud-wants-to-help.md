@@ -59,9 +59,40 @@ Opa: Not yet. The wind whispered, "Wait."
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca asks "so the cloud rained?" | Medium, 35mm, static |
-| 5-10 sn | Opa pauses kindly: "Not yet. The wind whispered, wait." | Medium, 35mm, static |
-| 10-15 sn | Luca tilts his head, curious. | Medium, 35mm, static |
+| 0-1 sn | Continuity hold: Opa and Luca on the rug, book open. | Medium, 35mm, static |
+| 1-3 sn | Luca blinks, shifts slightly on the rug. | Medium, 35mm, static |
+| 3-5 sn | Luca: "So the cloud rained?" | Medium, 35mm, static |
+| 5-7 sn | Opa shakes his head gently, finger raised. | Medium, 35mm, static |
+| 7-10 sn | Opa: "Not yet. The wind whispered, 'Wait.'" | Medium, 35mm, static |
+| 10-12 sn | Luca tilts his head to the side, curious. | Medium, 35mm, static |
+| 12-13 sn | Luca blinks, processing the idea of waiting. | Medium, 35mm, static |
+| 13-15 sn | Opa smiles softly; Luca looks back at the book page. | Medium, 35mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -69,6 +100,7 @@ Opa: Not yet. The wind whispered, "Wait."
 
 - Soft indoor room tone
 - Gentle warm ambience
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -89,7 +121,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -101,7 +133,17 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
-- [ ] No perceivable shot boundary
+- [ ] No perceivable shot boundary.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

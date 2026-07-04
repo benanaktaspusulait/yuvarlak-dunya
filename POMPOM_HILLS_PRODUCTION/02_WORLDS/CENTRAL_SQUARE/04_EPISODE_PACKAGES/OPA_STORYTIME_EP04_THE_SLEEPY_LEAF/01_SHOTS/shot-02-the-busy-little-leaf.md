@@ -60,9 +60,39 @@ Opa: Dancing in the wind, all day long.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa begins the story with a gentle hand gesture toward the tree. | Medium, 50mm, static |
-| 5-10 sn | Noah laughs and asks what the leaf was so busy doing. | Medium, 50mm, static |
-| 10-15 sn | Opa answers warmly about dancing in the wind. | Medium, 50mm, static |
+| 0-1 sn | Continuity hold; Opa and Noah in frame from Shot 01 | Medium, 50mm, static |
+| 1-3 sn | Opa begins with a gentle hand gesture toward the tree | Medium, 50mm, static |
+| 3-5 sn | Opa: "Once, there was a busy little leaf who never wanted to stop." | Medium, 50mm, static |
+| 5-7 sn | Noah laughs softly, eyes bright | Medium, 50mm, static |
+| 7-10 sn | Noah: "What was it so busy doing?" | Medium, 50mm, static |
+| 10-12 sn | Opa leans slightly forward, warm expression | Medium, 50mm, static |
+| 12-15 sn | Opa: "Dancing in the wind, all day long." | Medium, 50mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -70,7 +100,7 @@ Opa: Dancing in the wind, all day long.
 
 - Soft outdoor sunset ambience
 - Gentle breeze through the Big Pompom Tree
-- Warm golden-hour stillness
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -87,7 +117,7 @@ Continue Shot 01 lighting exactly. Warm golden-hour sunset light, long soft shad
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -101,6 +131,16 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
 - [ ] No perceivable shot boundary
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

@@ -9,8 +9,8 @@
 | Episode | The Little Flower |
 | Shot | 03 / 04 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Tillo's Garden |
+| Characters | Kiko, Mimi |
 
 ---
 
@@ -110,9 +110,14 @@ Mimi: Look! A sprout!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | They wait. A sprout appears. | Gentle focus shift, 50mm, slow push-in |
-| 5-10 sn | Character interaction | Gentle focus shift, 50mm, slow push-in |
-| 10-15 sn | Key moment | Gentle focus shift, 50mm, slow push-in |
+| 0-1 sn | Continuity hold — Kiko and Mimi watching the soil, stable composition | Gentle focus shift, 50mm, slow push-in |
+| 1-3 sn | Both characters lean forward slightly, watching intently | Slow push-in |
+| 3-5 sn | A tiny green sprout pushes through the soil | Slow push-in |
+| 5-7 sn | Kiko's eyes widen, she gasps softly, hands come together | Slow push-in |
+| 7-9 sn | Mimi says "Look! A sprout!" — points at the sprout | Slow push-in |
+| 9-11 sn | Kiko nods, small amazed smile, leans closer to the sprout | Slow push-in |
+| 11-13 sn | Both characters look at each other, shared joyful expression | Slow push-in |
+| 13-15 sn | Both look back at the sprout, gentle wonder — continuity frame | Slow push-in settles |
 
 ---
 
@@ -121,6 +126,7 @@ Mimi: Look! A sprout!
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -134,7 +140,28 @@ Soft, gentle glow.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## QA Checklist
 
@@ -154,6 +181,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Emotional Beat
 

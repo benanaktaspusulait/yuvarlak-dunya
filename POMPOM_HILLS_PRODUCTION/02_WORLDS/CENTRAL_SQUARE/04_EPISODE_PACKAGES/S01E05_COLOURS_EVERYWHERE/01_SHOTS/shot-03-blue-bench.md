@@ -17,198 +17,91 @@
 
 ## Continuity
 
-This shot continues directly from Shot 02.
+Shot 03 continues from the approved Shot 02 final frame.
 
-Kiko and Mimi are already present in the same Central Square set. They notice the same
-pastel blue bench established in the Central Square set, visible from the current angle
-or reached with only a tiny natural camera settle.
+`@image1` is the approved Shot 02 final frame: Kiko and Mimi together, Kiko on red/pink stepping stone.
+
+OpenArt does not know the previous video. It only knows `@image1`. All OpenArt-facing prompt language must use `@image1` as the only visual continuity source.
 
 Apply all Pompom Hills Visual Continuity Rules.
 
 ---
 
-## Central Square Visual Identity
+## Blue Bench Rule
 
-Same Central Square layout: Big Pompom Tree, rounded paths, coloured stepping-stone
-ring, soft grass, pastel bench and planters if already visible, warm morning daylight.
+The pastel blue bench must already be visible in `@image1`.
 
----
-
-## Environment Anchors
-
-- Same physical Central Square area from Shot 02.
-- Big Pompom Tree remains in the background.
-- The soft pastel blue bench was seeded in the Central Square Friends Micro-Opening and
-  preserved through Shot 01 and Shot 02 continuity, and is visible from the current
-  angle or reached with only a tiny natural camera settle.
-- Kiko and Mimi remain together near the same rounded path.
-- No new path, landmark, road, shop, fountain or water feature appears.
+**HARD RULE: Do not create, reveal, move, resize, duplicate, repaint, or replace the bench. Do not use camera movement to find the bench. If the bench is not visible in `@image1`, do not invent a new blue bench or new blue object.**
 
 ---
 
-## Character Scale / Age Lock
+## Camera Continuity
 
-**Kiko and Mimi must remain small, toddler-like, and preschool-safe.**
-
-Both characters must keep approved Pompom Hills proportions:
-- Small childlike bodies
-- Rounded soft faces
-- Large expressive eyes
-- Short toddler proportions
-- Soft toy-like preschool animation style
-- Small scale within Central Square
-
-They must NOT look like:
-- Older children or school-age children
-- Teenagers or adults
-- Realistic human children
-- Tall or oversized characters
-
-Kiko and Mimi should match each other's preschool scale.
-Neither character should appear larger, older, or more realistic than the other.
-Both must remain small within the Central Square environment and must not dominate the frame.
+The camera preserves the `@image1` composition.
+Do not pull back, widen, reset, push in, pan, tilt, zoom, track, settle, drift, or reframe.
+Characters may move naturally inside the stable composition.
+Stable composition does not mean frozen characters.
 
 ---
 
-## Blue Bench Hard Lock
+## Sky and Lighting Absolute Lock
 
-The blue bench must be the same existing pastel blue bench already visible in the current continuity frame or reachable with only a tiny natural camera settle.
+The sky, lighting and colour grading must be inherited from `@image1` only.
 
-**HARD RULE: Do not create a new blue bench. Do not introduce a large foreground blue bench. Do not create a new blue object for the colour discovery.**
+The sky must remain the same clean bright blue morning sky visible in `@image1`.
+Do not reinterpret the sky.
+Do not stylize the sky.
+Do not make the sky warmer, orange, golden, sunset-like, grey, cloudy, dramatic, painterly, or overcast.
 
-Do not move, duplicate, resize, repaint, or replace the bench.
-If the bench is not safely visible from the Shot 02 final frame, use only a tiny natural camera settle; do not jump to a different area.
-
----
-
-## Start Frame
-
-Start from the approved exported final continuity frame from Shot 02. Preserve the
-established composition, lighting, background objects and character proportions before
-the bench discovery begins.
-
-Kiko and Mimi are already present at the beginning of the shot.
+The `@image1` sky and lighting override all mood, style, lighting, atmosphere and colour instructions.
 
 ---
 
-## Background Object Lock
+## @image1 Reference Language Rule
 
-The first frame defines the physical Central Square set. All visible benches, trees,
-paths, flowerbeds, stepping stones, grass and distant houses remain stable throughout.
+OpenArt does not know the previous video, previous shot, or final frame history.
+OpenArt only knows the attached reference image: `@image1`.
 
-Do not replace the blue bench with another object. Do not repaint the environment.
+Correct wording:
+- Use `@image1` as the exact locked first frame and only visual continuity source.
+- Preserve exactly what is visible in `@image1`.
+- `@image1` is the only visual continuity reference.
 
-## Central Square Safety Lock
+---
 
-Do not introduce camera reset, environment redesign, background morphing, new landmarks,
-new paths, new buildings, roads, cars, traffic, shops with readable signs, fountain,
-water feature, bridge, river, pond, crowd, extra characters, text, readable text,
-captions, subtitles, speech bubbles, logo, title card or subscribe graphics.
+## Natural Character Motion Rule
 
-Preserve the same Central Square layout, Big Pompom Tree position, rounded paths,
-coloured stepping-stone ring, grass, benches, planters, bunting or flags if visible,
-distant houses only at the far edge, warm morning daylight, Episode Colour Master from
-Shot 01, Kiko and Mimi scale and identity, and stable preschool-safe motion.
+Shot 03 should feel alive and gently animated, not frozen.
 
-## Required Global QA Locks
+After the first 1-second continuity hold:
+- Mimi notices the blue bench and turns her head.
+- Mimi points and says: "I see blue!"
+- Kiko follows Mimi's point, looks at the bench, smiles.
+- Kiko points and says: "A blue bench!"
+- Both characters look at the bench together.
+- Both characters may blink, breathe, smile, turn their heads, and make small hand gestures.
 
-This shot must pass the global QA rules in `00-CORE/17_VIDEO_GENERATION_STANDARD.md` and `11-DOCS/16_VIDEO_QA_SPEC.md` for:
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+All movement must be continuous, visible, soft and preschool-safe.
 
-- Hard Background Lock
-- Intra-Shot Character Continuity Lock
-- Single Visible Path Rule
-- Occlusion Is Not A Transition
-- Camera Must Not Break Continuity
-- First Second Continuity Hold
-- Object Identity Lock
+---
 
-These locks are global production gates. Do not restate or weaken them locally. Keep the shot-specific guard below as the local application of the global rules.
+## Ghosting Prevention Rule
 
-## Shot-Specific Continuity Guard
+Kiko must remain a single solid character at all times.
+No ghost Kiko. No transparent duplicate. No double exposure.
+No motion smear. No character trail.
 
-Kiko and Mimi must stay in front of or beside the blue bench, not behind it. They must
-not pass behind the bench, bushes or planters, and they must not disappear. The blue
-bench must stay in the same position throughout the shot. Use pointing and looking
-instead of walking.
+Mimi must remain a single solid character at all times.
+No ghost Mimi. No transparent duplicate. No double exposure.
+No motion smear. No character trail.
 
+---
 
 ## Visual Prompt
 
-```text
-Kiko and Mimi already together in the same Central Square area, noticing the same pastel blue bench established in the Central Square set, visible from the current angle or reached with only a tiny natural camera settle, Big Pompom Tree in background, coloured stepping-stone ring stable, warm morning daylight, gentle discovery mood, no other characters, {style} {camera} {lighting}
-
-Kiko and Mimi must remain small and toddler-like, with approved preschool proportions. Do not make either character look older, taller, realistic, school-age, or oversized. Keep both characters small within Central Square.
-
-The blue bench must already exist in @image1 or be reachable with only a tiny natural camera settle. Do not create a new blue bench, new blue object, or large foreground bench.
-
-Use @image1 as the starting continuity frame from Shot 02.
-
-Preserve Kiko, Mimi, the same Central Square layout, Big Pompom Tree, rounded paths, stepping-stone ring, blue bench, camera position, lighting and Episode Colour Master from @image1.
-
-Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Central Square background is locked from the first frame; keep all visible benches, trees, paths, flowerbeds, stepping stones and landmarks stable throughout the shot.
-```
-
----
-
-## Reference Usage
-
-OpenArt Reference Setup:
-
-@image1 = approved exported final continuity frame from Shot 02.
-
-Use `@image1` as the required starting continuity reference. Preserve the same Central
-Square layout, lighting, camera position, Kiko and Mimi appearances, blue bench and
-Episode Colour Master.
-
----
-
-## Camera Direction
-
-Begin from the Shot 02 continuity frame with no camera reset. The first 1 second should visually hold close to @image1 before new action begins. After that, Kiko and Mimi turn
-their attention toward the blue bench.
-
-Use a stable child-eye-level medium-wide frame. Keep both Kiko and Mimi in frame. Do not
-introduce new characters, new landmarks, new paths, roads, shops, fountains, water
-features or a different Central Square area.
-
-**Do not push in so far that Kiko, Mimi, or the bench become oversized. Keep the shot medium-wide enough to preserve both characters' small childlike scale and the Central Square environment.**
-
-If the bench is not already fully visible, reach it only with a tiny natural camera
-settle; do not jump to a different area or reset the camera.
-
----
-
-## Transition Continuity Rule
-
-@image1 must be the approved final continuity frame of Shot 02.
-
-The first frame should match `@image1` closely: same camera angle, same lens feel, same
-character scale, same character positions, same Big Pompom Tree position, same path
-layout, same lighting and same colour grading.
-
----
-
-## Character Presence
-
-Kiko and Mimi are already present at the beginning of the shot. Do not introduce any
-character after the shot has started.
-
----
-
-## Emotional Beat
-
-The discovery is small and clear: Mimi notices blue first, then Kiko names the bench.
-Their expressions should show gentle recognition and delight.
-
----
-
-## Voice Continuity
-
-Kiko and Mimi voices match the earlier speaking shots. Maintain identical voice identity,
-pitch, timbre, warmth, pronunciation, accent and recording quality.
+See `03_VIDEO_EXPORTS/shot-03-openart-prompt.md` for the OpenArt-facing Visual Prompt.
 
 ---
 
@@ -221,73 +114,50 @@ Kiko: A blue bench!
 
 ---
 
-## Shot Breakdown
-
-| Time | Action | Camera |
-|---|---|---|
-| 0-5 sn | First second holds near Shot 02 frame; Mimi sees blue on the bench | Medium-wide |
-| 5-10 sn | Mimi points gently toward the blue bench | Stable |
-| 10-15 sn | Kiko names the blue bench | Medium-wide hold |
-
----
-
 ## Sound
 
-- Soft ambient breeze
-- Tiny colour-discovery chime
-- Gentle character footsteps
+Natural ambience only.
+- Soft breeze
+- Distant birds
+- Gentle tiny foot sounds
+- Soft fabric-like character movement
+
+No music.
+No background music.
+No melody.
+No song.
+No soundtrack.
+No musical bed.
+No chime.
 
 ---
 
 ## Lighting
 
-Warm morning daylight. Match the Shot 01 Episode Colour Master exactly. No exposure,
-brightness, contrast, saturation or colour temperature drift. Do NOT desaturate.
+Same clean blue morning daylight from @image1.
+Preserve the exact sky colour, lighting, colour grading, exposure and contrast from @image1.
+No warm/orange/sunset/golden sky.
+No lighting reinterpretation.
+Do NOT desaturate.
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond
+See `03_VIDEO_EXPORTS/shot-03-openart-prompt.md` for the OpenArt-facing Negative Prompt.
 
-teleporting character, disappearing character, character hidden behind bush, character walking through bushes, character clipping through objects, character emerging from opposite side, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, character occluded by foreground plants, walking through flowerbeds, walking through planters, walking through benches
-
-intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
-
-older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, medium character, aged-up Kiko, aged-up Mimi, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame, Kiko too large, Mimi too large
-
-new blue bench, new blue object, large foreground blue bench, blue bench appearing from nowhere, bench spawning, duplicated bench, resized bench, moved bench
+---
 
 ## QA Checklist
 
-Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
-
-- [ ] `@image1` continuity preserved from Shot 02 final frame.
-- [ ] The first 1 second visually holds close to `@image1` before the blue bench discovery begins.
-- [ ] Both Kiko and Mimi remain visible and consistent.
-- [ ] Kiko and Mimi look toddler-like and preschool-safe, not older or school-age.
-- [ ] Kiko and Mimi keep approved small rounded proportions.
-- [ ] Neither character becomes oversized in the frame.
-- [ ] Kiko and Mimi match each other's preschool scale.
-- [ ] Both characters remain small within the Central Square environment.
-- [ ] Camera does not push in so far that either character dominates the frame.
-- [ ] Blue bench already existed in @image1 or was reached only with a tiny natural camera settle.
-- [ ] No new blue bench or blue object appears.
-- [ ] Blue bench does not duplicate, resize, move, repaint, or appear from nowhere.
-- [ ] Camera does not jump to a different area to find the bench.
-- [ ] Blue bench is the same pastel blue bench seeded in the Central Square Friends Micro-Opening and preserved through the previous continuity frames.
-- [ ] No new landmarks, roads, shops, fountains, water features or alternate Central Square area appear.
-- [ ] Big Pompom Tree and rounded paths remain stable.
-- [ ] Camera does not reset.
-- [ ] Lighting and Episode Colour Master preserved.
-- [ ] No on-screen text, captions, logo or title card.
-- [ ] No character disappears inside the same shot.
-- [ ] No character reappears from a different side inside the same shot.
-- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
-- [ ] No occlusion is used as a transition.
-- [ ] Character path remains continuously visible and physically possible.
-- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
-- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
-- [ ] No object changes identity, duplicates, disappears or shifts side.
-- [ ] Camera movement does not hide a character or regenerate the environment.
-- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
+- [ ] First 1 second matches @image1 almost exactly.
+- [ ] Kiko and Mimi position, scale and identity match @image1.
+- [ ] Blue bench already exists in @image1; no new bench created.
+- [ ] Camera preserves @image1 composition; no pull-back, push-in, zoom, pan, tilt, tracking or reframing.
+- [ ] Characters feel alive with gentle preschool-safe movement.
+- [ ] Dialogue is supported by visual action.
+- [ ] No static talking pose.
+- [ ] No ghosting, duplicate, transparent character, double exposure or motion smear.
+- [ ] Sky, lighting, colour grading, exposure and contrast match @image1.
+- [ ] Natural ambience only; no music, melody, song, soundtrack or chime.
+- [ ] Final frame is usable as @image1 for the next shot.

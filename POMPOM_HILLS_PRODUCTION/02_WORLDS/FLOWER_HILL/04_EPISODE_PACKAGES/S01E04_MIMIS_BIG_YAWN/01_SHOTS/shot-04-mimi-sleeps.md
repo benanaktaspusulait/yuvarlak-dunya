@@ -110,17 +110,44 @@ Kiko: Goodnight, Mimi.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Mimi falls asleep. Kiko watches. | Gentle focus shift, 50mm, slow pull-back |
-| 5-10 sn | Character interaction | Gentle focus shift, 50mm, slow pull-back |
-| 10-15 sn | Key moment | Gentle focus shift, 50mm, slow pull-back |
+| 0-1 sn | Continuity hold; Mimi settles onto the soft grass under the tree | Gentle focus shift, 50mm, slow pull-back |
+| 1-3 sn | Mimi's eyes close slowly; her breathing becomes gentle | Gentle focus shift, 50mm, slow pull-back |
+| 3-5 sn | Kiko sits beside Mimi and watches with a warm smile | Gentle focus shift, 50mm, slow pull-back |
+| 5-7 sn | Kiko whispers: "Goodnight, Mimi." softly | Gentle focus shift, 50mm, slow pull-back |
+| 7-10 sn | Mimi's body relaxes completely; she is fully asleep | Gentle focus shift, 50mm, slow pull-back |
+| 10-13 sn | The camera slowly pulls back; Kiko stays watching | Gentle focus shift, 50mm, slow pull-back |
+| 13-15 sn | A few soft stars twinkle above; warm final hold | Gentle focus shift, 50mm, slow pull-back |
 
 ---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## Sound
 
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -134,7 +161,7 @@ Soft, gentle glow.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement
 
 ## QA Checklist
 
@@ -154,6 +181,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Stronger Ending
 

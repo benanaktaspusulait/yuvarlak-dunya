@@ -89,17 +89,6 @@ Camera movement must remain slow, stable and natural.
 
 ## Dialogue
 
-The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in the previous shot reference.
-
-Match the lighting and colour grading exactly from the previous shot reference.
-
-Do not change:
-- exposure
-- brightness
-- light intensity
-- colour temperature
-- colour grading
-
 ```
 Kiko: So beautiful!
 ```
@@ -110,9 +99,44 @@ Kiko: So beautiful!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | They are amazed. So beautiful! | Medium, 50mm, static |
-| 5-10 sn | Character interaction | Medium, 50mm, static |
-| 10-15 sn | Key moment | Medium, 50mm, static |
+| 0-2 sn | Close on Luca and Kiko's faces, eyes reflecting crystal light, expressions softening with wonder | Medium, 50mm, static |
+| 2-4 sn | Kiko: "So beautiful!" — Kiko turns to Luca, both sharing a delighted smile | Medium, 50mm, static |
+| 4-7 sn | Luca gently tugs Kiko's hand, pointing upward at the most brilliant crystal cluster | Medium, 50mm, static |
+| 7-9 sn | Both look up together, subtle head tilt, warm glow on their faces from crystal reflections | Medium, 50mm, static |
+| 9-12 sn | Kiko does a small happy hop, Luca laughs softly, shoulders relaxing with joy | Medium, 50mm, static |
+| 12-15 sn | Final warm moment: both lean slightly toward each other, content smiles, crystal light dancing | Medium, 50mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+Characters must never freeze, hold a static pose, or stare silently. Every character must show continuous natural micro-motion throughout the entire shot.
+
+Required micro-motion at all times:
+- Gentle breathing (chest rise/fall)
+- Subtle weight shifting between feet
+- Natural blinking
+- Ear or tail movement (for animal-like characters)
+- Head micro-turns following gaze
+- Hand or arm gestures during speech
+
+During dialogue:
+- Mouth sync to speech
+- Head tilts and nods
+- Hand gestures matching speech emphasis
+- Eye contact shifts between listener and surroundings
+
+Between dialogue beats:
+- Characters look around naturally
+- Shift posture
+- React to environment (wind, sounds, light changes)
+- Fidget, adjust stance, or take small steps
+
+Never allowed:
+- Characters frozen mid-scene
+- Silent staring without micro-motion
+- Static talking poses
+- Characters standing perfectly still waiting for next dialogue
 
 ---
 
@@ -121,6 +145,8 @@ Kiko: So beautiful!
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+
+**No-music rule:** This shot uses natural ambience only. No background music, melody, song, soundtrack or musical bed.
 
 ---
 
@@ -134,7 +160,7 @@ Soft, gentle glow.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -147,15 +173,6 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
-
-## Stronger Ending
-
-End with a warm smile, a memorable final sentence, or a simple question encouraging reflection.
-Avoid abrupt endings.
+- [ ] Background lock verified — all visible objects stable throughout shot
+- [ ] No static talking poses or frozen characters
+- [ ] Natural character motion continuous — breathing, blinking, micro-movements present

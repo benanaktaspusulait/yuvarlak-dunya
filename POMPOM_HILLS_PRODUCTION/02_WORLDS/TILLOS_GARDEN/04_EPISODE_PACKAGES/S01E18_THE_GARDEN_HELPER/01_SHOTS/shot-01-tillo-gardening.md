@@ -83,9 +83,13 @@ Tillo: Hello, Kiko! Want to help?
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Tillo is gardening. Kiko arrives. | Medium, 50mm, static |
-| 5-10 sn | Character interaction | Medium, 50mm, static |
-| 10-15 sn | Key moment | Medium, 50mm, static |
+| 0-1 sn | Tillo is tending the garden, patting soil around a plant | Medium, 50mm, static |
+| 1-3 sn | He brushes his hands on his apron, looks at the flowers | Medium, 50mm, static |
+| 3-5 sn | Kiko walks into frame from the side, waving gently | Medium, 50mm, static |
+| 5-7 sn | Tillo turns, smiles, and gestures toward the garden tools | Medium, 50mm, static |
+| 7-10 sn | Tillo speaks, pointing at a small plant. Kiko listens | Medium, 50mm, static |
+| 10-13 sn | Kiko nods excitedly, bouncing slightly on her feet | Medium, 50mm, static |
+| 13-15 sn | Tillo picks up a small watering can, holds it out to Kiko | Medium, 50mm, static |
 
 ---
 
@@ -94,6 +98,8 @@ Tillo: Hello, Kiko! Want to help?
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -121,7 +127,7 @@ They are loaded into OpenArt at production time.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -144,6 +150,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Characters do not suddenly appear fully centered after the opening.
 - [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Opening Hook
 
@@ -155,6 +171,27 @@ Examples:
 - Look what I found!
 - Do you know where stars sleep?
 - What is hiding over there?
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## Scale
 

@@ -59,9 +59,39 @@ Noah: The sky is so orange!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko and Noah walk to the soft blanket near the Big Pompom Tree; Kiko asks to sit. | Wide, 35mm, static |
-| 5-10 sn | Opa joins them and warmly invites them close. | Wide, 35mm, static |
-| 10-15 sn | Noah looks up at the golden sky in wonder. | Wide, 35mm, static |
+| 0-1 sn | Kiko and Noah walk toward the blanket near the Big Pompom Tree | Wide, 35mm, static |
+| 1-3 sn | Kiko reaches the blanket edge, looks up at Opa | Wide, 35mm, static |
+| 3-5 sn | Kiko: "Opa, can we sit on the blanket?" | Wide, 35mm, static |
+| 5-7 sn | Opa smiles and gestures warmly toward the blanket | Wide, 35mm, static |
+| 7-10 sn | Opa: "Come close, little friends." | Wide, 35mm, static |
+| 10-12 sn | Noah settles beside Kiko on the blanket | Wide, 35mm, static |
+| 12-15 sn | Noah looks up at the golden sky: "The sky is so orange!" | Wide, 35mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -69,7 +99,7 @@ Noah: The sky is so orange!
 
 - Soft outdoor sunset ambience (Central Square)
 - Gentle breeze, distant calm birdsong settling for evening
-- Warm golden-hour stillness (no music bed at shot level)
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -90,7 +120,7 @@ Loaded into OpenArt at production time; not hardcoded here.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, market stalls, modern street furniture, adult lecture feeling, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## Opening Hook
 
@@ -112,6 +142,16 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] Characters do not suddenly appear fully centered after the opening bumper.
 - [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

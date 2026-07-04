@@ -110,17 +110,44 @@ Kiko: Let's find a soft spot!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | They try different spots. Too windy, too bright. | Wide, 35mm, tracking |
-| 5-10 sn | Character interaction | Wide, 35mm, tracking |
-| 10-15 sn | Key moment | Wide, 35mm, tracking |
+| 0-1 sn | Continuity hold; Kiko and Mimi stand together looking around | Wide, 35mm, tracking |
+| 1-3 sn | Kiko points to a spot; wind rustles nearby leaves — too windy | Wide, 35mm, tracking |
+| 3-5 sn | Mimi shakes her head gently; they walk forward together | Wide, 35mm, tracking |
+| 5-7 sn | They stop near a sunlit patch; Mimi squints from the brightness | Wide, 35mm, tracking |
+| 7-10 sn | Kiko looks at Mimi with gentle concern; Mimi shields her eyes | Wide, 35mm, tracking |
+| 10-13 sn | They both look around for another spot; Kiko points ahead | Wide, 35mm, tracking |
+| 13-15 sn | They walk forward together, continuing the search | Wide, 35mm, tracking |
 
 ---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ## Sound
 
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -134,7 +161,7 @@ Soft, gentle glow.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement
 
 ## QA Checklist
 
@@ -154,6 +181,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Micro Actions
 

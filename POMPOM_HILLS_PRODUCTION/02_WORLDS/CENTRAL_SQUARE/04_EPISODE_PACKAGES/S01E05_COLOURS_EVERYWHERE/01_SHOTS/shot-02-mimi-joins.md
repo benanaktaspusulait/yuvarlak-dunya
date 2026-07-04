@@ -17,9 +17,11 @@
 
 ## Continuity
 
-This shot continues directly from Shot 01.
+Shot 02 continues from the approved Shot 01 final frame.
 
-Kiko is already present in Central Square near the red detail (entered from the lower-left path in Shot 01). Mimi enters gently from a different visible Central Square path — preferably from the right side path near the yellow planter and purple bunting area. This avoids crossing Kiko's entrance path and creates a natural convergence toward the center.
+`@image1` is the approved Shot 01 final frame: Kiko is standing on the red/pink stepping stone, Big Pompom Tree trunk behind her, clean blue sky, medium-close framing.
+
+OpenArt does not know the previous video. It only knows `@image1`. All OpenArt-facing prompt language must use `@image1` as the only visual continuity source.
 
 Apply all Pompom Hills Visual Continuity Rules.
 
@@ -27,8 +29,7 @@ Apply all Pompom Hills Visual Continuity Rules.
 
 ## Central Square Visual Identity
 
-Same Central Square set: Big Pompom Tree, rounded paths, coloured stepping-stone ring,
-soft green grass, pastel benches or planters if visible, warm morning daylight.
+Same Central Square set from `@image1`: Big Pompom Tree, rounded paths, coloured stepping-stone ring, soft green grass, same clean blue morning daylight from `@image1`.
 
 Never redesign the square or move to a different area.
 
@@ -36,11 +37,11 @@ Never redesign the square or move to a different area.
 
 ## Environment Anchors
 
-- Same Big Pompom Tree position from Shot 01.
-- Same rounded path and stepping-stone ring layout.
-- Kiko remains near the same red detail from Shot 01 (lower-left area).
-- Mimi enters from the right side visible path (near yellow planter and purple bunting).
-- Mimi's entrance path must be fully visible from the first moment she appears.
+- Kiko remains on the red/pink stepping stone from `@image1`.
+- Big Pompom Tree position matches `@image1`.
+- Same rounded path and stepping-stone ring layout from `@image1`.
+- Same clean blue sky from `@image1`.
+- Mimi becomes visible inside the existing `@image1` composition after 1 second.
 - No other characters enter or appear.
 
 ---
@@ -65,65 +66,23 @@ Mimi must NOT look like:
 
 Mimi should match Kiko's preschool scale and should not appear larger, older, or more realistic than Kiko.
 Mimi must not dominate the frame.
-Mimi should remain small within the Central Square environment during her entrance and greeting.
+Mimi should remain small within the `@image1` composition during her entrance and greeting.
 
 ---
 
 ## Start Frame
 
-Start from the approved exported final continuity frame from Shot 01 as closely as
-possible. Preserve the established composition, lighting, background objects, Kiko
-position and character proportions while allowing natural motion.
-
-Kiko is already present at the beginning of the shot.
-
-Mimi is not yet in frame at the first frame. Mimi must not pop into the frame or appear
-suddenly. She should enter through visible, natural motion from the Central Square path
-area, remaining consistent in scale and style.
-
----
-
-## Strict Frame Match Lock
-
-Shot 02 must begin as a direct continuation of Shot 01.
-
-The first frame of Shot 02 must match the approved exported final frame of Shot 01 as closely as possible.
-
-Preserve exactly:
-- Kiko position
-- Kiko scale
-- Kiko pose direction
-- Camera angle
-- Camera height
-- Lens feel
-- Big Pompom Tree position
-- Rounded path layout
-- Stepping-stone ring position
-- Benches and planters if visible
-- Yellow planter if visible
-- Purple bunting if visible
-- Distant houses if visible
-- Lighting
-- Colour grading
-- Exposure
-- Contrast
-
-Do not recompose the scene to introduce Mimi.
-Do not move Kiko to make room for Mimi.
-Do not change the camera angle to show Mimi.
-Do not reset to a wider, closer, higher, lower, or cleaner composition.
-Do not create a new establishing shot.
-
-Mimi's entrance must adapt to the existing Shot 01 final frame, not the other way around.
+The first frame and first 1 second must match `@image1` almost exactly. Kiko remains visible in the same position, scale and general direction from `@image1`, with only tiny natural idle motion such as blinking, breathing, a small smile, or a very slight head/hand movement. Mimi is not visible during this continuity hold.
 
 ---
 
 ## Delayed Mimi Introduction Rule
 
-Shot 02 must begin with a 2-second locked hold of the approved Shot 01 final continuity frame.
+Shot 02 must begin with a 1-second locked hold of `@image1`.
 
-During 0-2 seconds:
-- Kiko is already visible and must remain exactly where she was in Shot 01 final frame
+During 0-1 second:
+- Kiko stays in the same position, scale and general direction from @image1, but may make tiny natural idle motion such as blinking, breathing, a small smile, or a very slight head/hand movement
+- Kiko must not step away, change side, change scale, turn fully, or shift position
 - Mimi is not visible yet
 - Mimi does not begin entering
 - No camera pull-back
@@ -132,13 +91,37 @@ During 0-2 seconds:
 - No new establishing shot
 - The frame must match `@image1` almost exactly
 
-Mimi may only begin entering after the 2-second locked hold.
+Mimi may only begin entering after the 1-second locked hold.
 
-After 2 seconds, Mimi enters from the right-side visible path near the yellow planter / purple bunting area, inside the already-locked composition.
+After 1 second, Mimi becomes visible inside the existing locked `@image1` composition, preferably in the existing right-side or right-midground area if visible. Mimi should be small, fully or mostly visible, and in correct perspective scale.
 
-If showing Mimi's full entrance path requires widening, pulling back, or recomposing the shot, do not show the full path. Instead, after the 2-second hold, start Mimi partially visible at the right edge of the existing frame.
+Do not widen the frame to show Mimi.
+Do not require a full visible entrance path.
+Mimi must adapt to the locked `@image1` composition.
 
 Mimi's entrance is secondary to frame continuity.
+
+---
+
+## Mimi Placement Rule
+
+Mimi should not appear as a tiny distant background character.
+Mimi should not appear hidden behind the tree, flowers, benches or frame edge.
+Mimi should be visible enough for a greeting, but must not be close to the camera or oversized.
+Mimi must fit naturally into the existing right-side or right-midground space of `@image1`.
+If there is not enough safe space for a full walking entrance, do not widen the camera and do not create a new path. Instead, Mimi becomes visible already within the existing right-side or right-midground area of `@image1`, small, fully or mostly visible, and in correct perspective scale.
+
+---
+
+## Full-Shot Camera Lock
+
+The camera must preserve the `@image1` composition and must not pull back, widen, reset, pan, tilt, zoom, or create a new establishing shot. After the first 1 second, tiny natural animation movement is allowed, but the camera must not reframe the scene or change the story composition.
+
+Do not pull back to reintroduce Central Square.
+Do not create a wide establishing frame.
+Do not zoom in for dialogue.
+Do not track Mimi.
+Do not track Kiko.
 
 ---
 
@@ -147,8 +130,7 @@ Mimi's entrance is secondary to frame continuity.
 The first frame defines the physical Central Square set. All visible benches, trees,
 paths, flowerbeds, stepping stones, planters and distant houses remain stable throughout.
 
-Only Kiko and Mimi may move unless gentle camera movement naturally changes what is
-visible.
+Only Kiko and Mimi may move. The camera remains locked.
 
 ## Central Square Safety Lock
 
@@ -157,68 +139,173 @@ new paths, new buildings, roads, cars, traffic, shops with readable signs, fount
 water feature, bridge, river, pond, crowd, extra characters, text, readable text,
 captions, subtitles, speech bubbles, logo, title card or subscribe graphics.
 
-Preserve the same Central Square layout, Big Pompom Tree position, rounded paths,
-coloured stepping-stone ring, grass, benches, planters, bunting or flags if visible,
-distant houses only at the far edge, warm morning daylight, Episode Colour Master from
-Shot 01, Kiko and Mimi scale and identity, and stable preschool-safe motion.
+Preserve the same Central Square layout from `@image1`, Big Pompom Tree position, rounded paths,
+coloured stepping-stone ring, grass, benches, planters, same clean blue morning daylight from `@image1`, Kiko and Mimi scale and identity, and stable preschool-safe motion.
 
-## Required Global QA Locks
+---
 
-This shot must pass the global QA rules in `00-CORE/17_VIDEO_GENERATION_STANDARD.md` and `11-DOCS/16_VIDEO_QA_SPEC.md` for:
+## Sky and Lighting Absolute Lock
 
-- Hard Background Lock
-- Intra-Shot Character Continuity Lock
-- Single Visible Path Rule
-- Occlusion Is Not A Transition
-- Camera Must Not Break Continuity
-- First Second Continuity Hold
-- Object Identity Lock
+The sky, lighting and colour grading must be inherited from `@image1` only.
 
-These locks are global production gates. Do not restate or weaken them locally. Keep the shot-specific guard below as the local application of the global rules.
+The sky must remain the same clean bright blue morning sky visible in `@image1`.
+Do not reinterpret the sky.
+Do not stylize the sky.
+Do not make the sky warmer, orange, golden, sunset-like, grey, cloudy, dramatic, painterly, or overcast.
+
+The `@image1` sky and lighting override all mood, style, lighting, atmosphere and colour instructions.
+
+---
+
+## @image1 Reference Language Rule
+
+OpenArt does not know the previous video, previous shot, or final frame history.
+OpenArt only knows the attached reference image: `@image1`.
+
+Therefore, all OpenArt-facing prompts must describe continuity only through `@image1`.
+
+Correct wording:
+- Use `@image1` as the exact locked first frame and only visual continuity source.
+- Preserve exactly what is visible in `@image1`.
+- `@image1` is the only visual continuity reference.
+
+---
 
 ## Shot-Specific Continuity Guard
 
-**Mimi's entrance is secondary to continuity.** If showing the full right-side entrance path requires changing the camera or layout, do not change the camera. Instead, start Mimi already partially visible on the right-side path, at the edge of the existing frame, so she can join Kiko naturally without breaking continuity.
+**Mimi's entrance is secondary to continuity.** The locked `@image1` frame is the priority.
 
-**Mimi must not walk from far away.** Mimi begins after the 2-second hold, already near the right edge of the existing frame, partially visible if needed. No long path crossing, no running, no camera tracking.
+Kiko does not change position, side or scale during the first 1 second, but may have tiny natural idle motion. The camera and background remain locked. After the 1-second locked hold, Mimi becomes visible inside the existing `@image1` composition. Mimi must not force the camera to widen or recompose.
 
-Mimi's entrance is the highest-risk movement in the episode. **Mimi enters from the right side visible path (near the yellow planter and purple bunting area)**, not from the same lower-left path Kiko used in Shot 01. This avoids crossing Kiko's entrance path and creates a natural convergence.
+Mimi must adapt to the locked `@image1` composition. If the right-side area is not visible in `@image1`, place Mimi already small and mostly visible within the existing right-side or midground space of `@image1`. Do not create a new path and do not widen the camera.
 
-Mimi must enter from a fully visible rounded path only, remain visible during the entire entrance, and use a short, simple, straight or gently curved visible path. Mimi must not enter from behind bushes, planters, benches, tree trunks, houses, walls or foreground plants. Mimi must not disappear during the entrance, reappear from another side, or cross through the red planter, bush, flowerbed or bench. Kiko stays visible and does not change side suddenly.
+**HARD RULE: Do not widen the frame to show Mimi. Do not require a full visible entrance path.**
 
-Mimi's full entrance path must be visible from the first moment she appears until she
-reaches Kiko. **Mimi should not start too far away. She may begin partially visible on the right-side path if needed, so she can reach Kiko naturally within 15 seconds without rushing, teleporting, or crossing behind objects.** Use a wide enough frame to show the complete entrance path. Mimi must not
-enter from behind bushes, benches, planters, tree trunks, houses, walls or foreground
-plants. If a safe visible entrance cannot be maintained, reduce Mimi's movement and
-start her already partially visible on the path instead of hiding her entrance.
+---
 
-Keep Mimi not visible in the first frame if possible, but never allow hidden entrance or
-pop-in.
+## Natural Character Motion Rule
 
+Shot 02 should feel alive and gently animated, not frozen.
+
+After the first 1-second continuity hold:
+- Mimi makes 2-3 small soft hops or steps from the existing right-side/right-midground area toward Kiko.
+- Mimi waves gently and says: "Hi Kiko!"
+- Kiko turns naturally toward Mimi.
+- Kiko smiles and points or gestures gently toward the red/pink stepping stone.
+- Kiko says: "I'm finding colours!"
+- Both characters may blink, breathe, smile, turn their heads, and make small hand gestures.
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not make either character slide, teleport, or pop.
+All movement must be continuous, visible, soft and preschool-safe.
+
+---
+
+## Ghosting Prevention Rule
+
+Kiko must remain a single solid character at all times.
+No ghost Kiko.
+No transparent duplicate.
+No double exposure.
+No motion smear.
+No overlapping duplicate face or body.
+No character trail.
+No semi-transparent Kiko during head turn.
+Kiko may turn her head and upper body naturally, but she must not duplicate, blur into a second copy, or leave a ghost image behind.
+
+Mimi must remain a single solid character at all times.
+No ghost Mimi.
+No transparent duplicate.
+No double exposure.
+No motion smear.
+No character trail.
+
+---
 
 ## Visual Prompt
 
 ```text
-First 2 seconds must match @image1 almost exactly. Kiko remains visible in the same position and scale. Mimi is not visible during the first 2 seconds. Do not introduce Mimi at the first frame. Do not pull back, widen, or recompose. Mimi may only begin entering after the 2-second locked hold, inside the existing Shot 01 final frame composition.
+Duration: 15 seconds.
 
-The first frame must match @image1 almost exactly. Treat @image1 as the locked Shot 01 final continuity frame, not just a loose reference. Kiko, camera angle, background layout, lighting, colour grading, and object positions must remain unchanged.
+Use @image1 as the exact first frame and only visual continuity source.
 
-Do not recompose the scene for Mimi. Mimi must enter only if she can enter naturally within the locked composition. If Mimi cannot safely enter from the right path without changing the camera, start Mimi already partially visible on the right-side path while preserving the exact @image1 composition.
+Do not reinterpret @image1.
+Do not use memory of any previous video.
+Only preserve what is visible in @image1.
 
-Kiko standing in Central Square near the red detail (seeded in the Central Square Friends Micro-Opening) she noticed, Mimi entering gently from the right side visible path near the yellow planter and purple bunting area, Big Pompom Tree in background, coloured stepping-stone ring and soft green grass stable, warm morning daylight, no other characters, {style} {camera} {lighting}
+The clean blue sky from @image1 has absolute priority.
+Use only the same sky, lighting, colour grading, exposure and contrast from @image1.
+Do not warm up the lighting.
+Do not create sunset, golden hour, orange sky, dramatic clouds, grey sky, or painterly sky.
 
-Mimi must remain small and toddler-like, with approved preschool proportions. Do not make Mimi look older, taller, realistic, school-age, or oversized. Mimi should match Kiko's scale and remain small within Central Square.
+0-1 second:
+Hold @image1 almost exactly.
+Kiko remains visible in the same position, scale and general direction from @image1, with only tiny natural idle motion such as blinking, breathing, a small smile, or a very slight hand movement.
+Kiko does not step away, change side, change scale, or leave the red/pink stepping stone.
+Mimi is not visible.
+No new character appears.
+No camera pull-back.
+No wider frame.
+No new side objects.
+No lighting change.
+No colour grading change.
 
-Use @image1 as the starting continuity frame from Shot 01.
+After 1 second:
+Mimi becomes visible inside the existing @image1 composition, in the existing right-side or right-midground area.
+Mimi is readable enough to greet Kiko.
+Mimi is not close to the camera, oversized, cropped, or foreground close-up.
+Mimi is not a tiny distant background character.
 
-Preserve Kiko, the same red detail, the Big Pompom Tree, rounded paths, stepping-stone ring, camera position, lighting and Episode Colour Master from @image1.
+Mimi makes 2-3 small soft hops or steps toward Kiko.
+Mimi waves gently and says: "Hi Kiko!"
+Kiko turns naturally toward Mimi, smiles, and gestures gently toward the red/pink stepping stone.
+Kiko says: "I'm finding colours!"
 
-Mimi enters from the right side visible path (near yellow planter and purple bunting), NOT from the lower-left path Kiko used in Shot 01. Mimi's full entrance path must be visible from the first moment she appears until she reaches Kiko. Use a wide enough frame to show the complete entrance path. Mimi must not enter from behind bushes, benches, planters, tree trunks, houses, walls or foreground plants. If a safe visible entrance cannot be maintained, reduce Mimi's movement and start her already partially visible on the path instead of hiding her entrance. Keep Mimi not visible in the first frame if possible, but never allow hidden entrance or pop-in.
+Kiko keeps the exact @image1 scale and remains on the red/pink stepping stone.
+Mimi remains toddler-like and in correct perspective scale for her position.
+Both characters remain preschool-safe, soft, expressive and alive.
 
-Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
+The camera must preserve the @image1 composition.
+Do not pull back to show more of Central Square.
+Do not create a new establishing shot.
+Do not push in to a close-up.
+Do not zoom in for dialogue.
+Do not track Mimi.
+Do not track Kiko.
+Do not reframe the scene.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Central Square background is locked from the first frame; keep all visible benches, trees, paths, flowerbeds, stepping stones and landmarks stable throughout the shot.
+Kiko must remain a single solid character.
+No ghost Kiko.
+No transparent duplicate Kiko.
+No double exposure.
+No motion smear.
+No character trail.
+
+Mimi must remain a single solid character.
+No ghost Mimi.
+No transparent duplicate Mimi.
+No double exposure.
+No motion smear.
+No character trail.
+
+No other characters.
+No text.
+No captions.
+No subtitles.
+No speech bubbles.
+
+Natural ambience only:
+soft breeze, distant birds, gentle footsteps or tiny hop sounds.
+No music.
+No background music.
+No melody.
+No song.
+No soundtrack.
+
+Dialogue:
+Mimi: Hi Kiko!
+Kiko: I'm finding colours!
 ```
 
 ---
@@ -227,52 +314,15 @@ The Central Square background is locked from the first frame; keep all visible b
 
 OpenArt Reference Setup:
 
-@image1 = approved exported final continuity frame from Shot 01.
+`@image1` = the approved Shot 01 final frame. This is the only visual continuity source.
 
-Use `@image1` as the required starting continuity reference. Preserve the same Central
-Square layout, lighting, camera position, Kiko appearance, red object and Episode Colour
-Master. Continue naturally from `@image1`; do not reset the camera or redesign the
-environment.
+Use `@image1` as the required starting continuity reference. Preserve the same Kiko position, scale, identity, camera framing, lighting, colour grading and Central Square layout from `@image1`.
 
 ---
 
 ## Camera Direction
 
-**The camera must remain locked for the first 2 seconds. No camera pull-back, no push-in, no framing expansion, no new establishing shot.** Mimi enters only after the first 2 seconds. The camera may only make a very tiny natural settle after the first second. Mimi's entrance must happen inside the existing Shot 01 final composition.
-
-The first 1 second should visually hold close to @image1 before new action begins.
-After that, Mimi enters gently from the right side path (near yellow planter and purple bunting), and Kiko turns toward her.
-
-Use a wide enough frame to show Mimi's complete entrance path from the right side from the first moment she appears until she reaches Kiko. Mimi must not enter from behind bushes, benches,
-planters, tree trunks, houses, walls or foreground plants. If a safe visible entrance
-cannot be maintained, reduce Mimi's movement and start her already partially visible on
-the path instead of hiding her entrance. Keep Mimi not visible in the first frame if
-possible, but never allow hidden entrance or pop-in.
-
-Keep movement slow, stable and preschool-friendly. Do not introduce new characters,
-new landmarks, new paths, roads, shops, fountains, water features or a different Central
-Square area.
-
-**Do not push in so far that Mimi becomes oversized or appears older. Keep the shot medium-wide enough to preserve both characters' small childlike scale and the Central Square environment.**
-
----
-
-## Transition Continuity Rule
-
-@image1 must be the approved final continuity frame of Shot 01.
-
-The first frame of this shot should match `@image1` as closely as possible in camera
-angle, camera height, lens feel, framing, Kiko position, character scale, background
-object positions, Big Pompom Tree position, path layout, lighting, colour grading,
-exposure and contrast.
-
----
-
-## Character Presence
-
-Kiko is already present at the beginning of the shot.
-Mimi enters through visible motion only. Do not introduce any character except Mimi's
-planned natural entrance.
+**The camera must preserve the `@image1` composition.** No camera pull-back, no push-in, no pan, no tilt, no zoom, no reframing, no tracking. After the first 1 second, tiny natural animation movement is allowed, but the camera must not reframe the scene or change the story composition.
 
 ---
 
@@ -296,93 +346,101 @@ Kiko: I'm finding colours!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-2 sn | Locked hold on Shot 01 final frame, Kiko visible, Mimi not visible, no camera pull-back | Static / locked |
-| 2-5 sn | Mimi enters from right edge/path inside the locked composition, already near the edge, partially visible if needed | Very tiny natural settle only |
-| 5-7 sn | Mimi reaches Kiko and stops | Stable |
-| 7-9 sn | Mimi: "Hi Kiko!" | Stable |
-| 9-12 sn | Kiko turns and smiles | Stable |
-| 12-15 sn | Kiko: "I'm finding colours!" | Medium-wide hold |
+| 0-1 sn | @image1 continuity hold; Kiko visible with tiny idle motion; Mimi not visible | Stable continuity camera |
+| 1-3 sn | Mimi becomes visible in right-side/right-midground area and makes first small hop/step toward Kiko | Stable composition |
+| 3-5 sn | Mimi makes another small hop/step and waves gently | Stable composition |
+| 5-7 sn | Mimi says: "Hi Kiko!" | Stable composition |
+| 7-10 sn | Kiko turns naturally toward Mimi; no ghosting or duplicate body | Stable composition |
+| 10-13 sn | Kiko gestures gently toward the red/pink stepping stone | Stable composition |
+| 13-15 sn | Kiko smiles and says: "I'm finding colours!" | Stable composition |
 
 Character entrance rules:
-- No full walk from far away
-- No long path crossing
-- No running
-- Camera does not track the character
-- Mimi is already near the right edge, entering with a small natural movement
-- Mimi begins after the 2-second hold, already near the right edge of the existing frame, partially visible if needed
+- Mimi appears inside existing @image1 composition
+- Mimi makes 2-3 small soft hops or steps toward Kiko
+- Mimi waves gently
+- Kiko turns naturally toward Mimi
+- No ghosting, no duplicate, no motion smear
+- Camera preserves @image1 composition
 
 ---
 
 ## Sound
 
-- Soft footsteps on rounded path
-- Gentle hop sound
-- Warm Central Square ambience
+Natural ambience only.
+- Soft breeze
+- Distant birds
+- Gentle footsteps
+- Tiny soft hop sounds
+
+No music.
+No background music.
+No melody.
+No song.
+No soundtrack.
+No musical bed.
+No rhythmic background track.
 
 ---
 
 ## Lighting
 
-Warm morning daylight. Match the Shot 01 Episode Colour Master. No lighting change,
-no exposure change, no colour temperature drift. Do NOT desaturate.
+Same clean blue morning daylight from @image1.
+Preserve the exact sky colour, lighting, colour grading, exposure and contrast from @image1.
+No warm/orange/sunset/golden sky.
+No lighting reinterpretation.
+Do NOT desaturate.
+
+---
+
+## Production Standard
+
+Use the production generation standard (`00-CORE/17_VIDEO_GENERATION_STANDARD.md`).
+Reference source: use original downloaded/exported production media only. Never use screenshots.
+Colour master: use the approved original Shot 01 still as the Episode Colour Master.
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond
+camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed Kiko position, changed Kiko scale, changed lighting, changed colour grading, sky colour shift, sunset sky, orange sky, golden sky, grey sky, dramatic sky, Mimi visible in first frame, new character in first 1 second, Mimi too large, oversized Mimi, giant foreground Mimi, cropped Mimi, Mimi too close to camera, Mimi dominating frame, Kiko too large, Kiko changed position, extra characters, text, captions, subtitles, speech bubbles, tiny distant Mimi, background-only Mimi, unreadable Mimi, Mimi hidden behind tree, Mimi hidden behind flowers, Mimi appearing behind objects, Mimi wrong perspective scale, Mimi too far away, Kiko frozen unnaturally, frozen Kiko pose, static talking pose, characters frozen, no movement, ghost Kiko, duplicate Kiko, transparent Kiko, double exposure Kiko, motion smear Kiko, character trail, ghost Mimi, duplicate Mimi, transparent Mimi, double exposure Mimi, motion smear Mimi, music, background music, melody, song, soundtrack, musical bed
 
-teleporting character, disappearing character, character hidden behind bush, character walking through bushes, character clipping through objects, character emerging from opposite side, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, character occluded by foreground plants, walking through flowerbeds, walking through planters, walking through benches
-
-intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
-
-older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, medium character, aged-up Mimi, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame, Mimi too large, Mimi older than Kiko
-
-new composition, recomposed scene, camera reposition, new establishing shot, different first frame, changed Kiko position, changed Kiko scale, changed camera angle, changed lens, changed background layout, continuity break between shots, Shot 02 not matching Shot 01 final frame, moving Kiko to introduce Mimi, camera reset to show Mimi
-
-Mimi visible in first frame, Mimi entering in first frame, character introduced at video start, new character in first 2 seconds, first-frame character introduction, camera pull-back to introduce Mimi, wider reset to introduce Mimi, recomposed Shot 01 frame, Shot 01-to-Shot 02 mismatch
+---
 
 ## QA Checklist
 
 Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 
-- [ ] Opening frame continues from Shot 01 final continuity frame.
-- [ ] `@image1` continuity preserved from Shot 01 final frame.
-- [ ] The first 1 second visually holds close to `@image1` before Mimi enters.
-- [ ] Kiko remains visible and consistent.
-- [ ] Mimi looks toddler-like and preschool-safe, not older or school-age.
-- [ ] Mimi keeps approved small rounded proportions.
-- [ ] Mimi does not become oversized in the frame.
-- [ ] Mimi matches Kiko's scale and does not appear larger or older than Kiko.
-- [ ] Camera does not push in so far that Mimi dominates the frame.
-- [ ] Mimi identity, age and scale match approved character reference.
-- [ ] Both Kiko and Mimi remain small within the Central Square environment.
-- [ ] First frame of Shot 02 matches Shot 01 final frame almost exactly.
-- [ ] Kiko position, scale and pose direction match Shot 01 final frame.
-- [ ] Camera angle, lens feel and framing match Shot 01 final frame.
-- [ ] Background object positions match Shot 01 final frame.
-- [ ] Mimi entrance does not cause camera reset or recomposition.
-- [ ] Mimi adapts to the locked Shot 01 final frame.
-- [ ] If right-side entrance cannot be shown safely, Mimi starts partially visible at the edge instead of changing the camera.
-- [ ] Shot 02 does not begin as a new establishing shot.
-- [ ] No visible continuity break occurs between Shot 01 and Shot 02.
-- [ ] Mimi enters naturally through visible motion from the right side path (near yellow planter).
-- [ ] Mimi does not enter from the same lower-left path Kiko used in Shot 01.
-- [ ] Mimi does not rush, teleport, or cross behind objects to reach Kiko.
-- [ ] Mimi does not start too far away to reach Kiko naturally within 15 seconds.
-- [ ] Mimi may be partially visible on the right-side path if needed to keep the entrance readable and safe.
-- [ ] First 2 seconds match Shot 01 final frame almost exactly.
-- [ ] Kiko remains in the same position, scale and direction during the first 2 seconds.
-- [ ] Mimi is not visible during the first 2 seconds.
-- [ ] Mimi does not begin entering during the first 2 seconds.
-- [ ] No camera pull-back occurs before Mimi enters.
-- [ ] No wider reset occurs before Mimi enters.
-- [ ] Mimi enters only after the locked continuity hold.
-- [ ] Mimi enters inside the existing Shot 01 final composition.
-- [ ] Mimi entrance does not force recomposition.
-- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
-
-## Micro Actions
-
-Every 3-5 seconds include a small gentle action: Kiko turns, Mimi hops softly, both
-look at the red detail, both smile.
+- [ ] First 1 second matches @image1 almost exactly.
+- [ ] Kiko position, scale, general direction and identity match @image1; only tiny natural idle motion is allowed.
+- [ ] Mimi is not visible during the first 1 second.
+- [ ] Mimi is visible only after 1 second.
+- [ ] Camera remains locked for the entire 15 seconds.
+- [ ] No pull-back, push-in, zoom, pan, tilt, tracking or reframing occurs.
+- [ ] Shot 02 does not return to a wide establishing frame.
+- [ ] Mimi does not force camera recomposition.
+- [ ] Mimi appears inside the existing right-side or right-midground area of @image1.
+- [ ] Mimi is readable enough to greet Kiko.
+- [ ] Mimi is not a tiny distant background character.
+- [ ] Mimi is not hidden behind the tree, flowers, benches, objects, or frame edge.
+- [ ] Mimi is not close to the camera, oversized, cropped, or foreground close-up.
+- [ ] Kiko keeps the exact scale from @image1.
+- [ ] Shot feels alive and gently animated, not frozen.
+- [ ] Mimi makes small visible movement after appearing.
+- [ ] Mimi waves gently before or while greeting Kiko.
+- [ ] Kiko turns naturally toward Mimi without ghosting.
+- [ ] Kiko remains a single solid character; no transparent duplicate or double exposure.
+- [ ] Mimi remains a single solid character; no transparent duplicate or double exposure.
+- [ ] No character trail or motion smear appears.
+- [ ] The shot is not only a static talking pose.
+- [ ] Natural ambience only; no music, melody, song, soundtrack or musical bed.
+- [ ] Camera preserves @image1 composition without pull-back, push-in, tracking or reframing.
+- [ ] Mimi is small, toddler-like, fully or mostly visible, and correct perspective scale.
+- [ ] Kiko remains on the red/pink stepping stone from @image1.
+- [ ] Sky, lighting, colour grading, exposure and contrast match @image1.
+- [ ] No other characters appear.
+- [ ] No text, captions, subtitles, or speech bubbles.
+- [ ] Kiko does not freeze unnaturally during the first 1 second.
+- [ ] Kiko may blink, breathe, smile slightly, or make a tiny idle motion.
+- [ ] Kiko does not change position, side, scale, or leave the red/pink stepping stone during the first 1 second.
+- [ ] Mimi is still not visible during the first 1 second.
+- [ ] Full video has been watched for intra-shot character continuity.

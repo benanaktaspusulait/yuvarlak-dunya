@@ -82,9 +82,36 @@ Kiko: The leaves are falling...
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko sees leaves falling. She looks sad. | Wide, 35mm, static |
-| 5-10 sn | Character interaction | Wide, 35mm, static |
-| 10-15 sn | Key moment | Wide, 35mm, static |
+| 0-1 sn | Continuity hold — night meadow, leaves drifting | Wide, 35mm, static |
+| 1-3 sn | Kiko looks up, notices a leaf spiraling down | Wide, 35mm, static |
+| 3-5 sn | She tilts her head, follows its path with her eyes | Wide, 35mm, static |
+| 5-7 sn | Another leaf drifts past her — she reaches out gently | Wide, 35mm, static |
+| 7-10 sn | Kiko's expression softens to mild sadness, she blinks | Wide, 35mm, static |
+| 10-13 sn | She says her line, shoulders drop slightly | Wide, 35mm, static |
+| 13-15 sn | A leaf lands near her feet — she looks down at it | Wide, 35mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -93,6 +120,8 @@ Kiko: The leaves are falling...
 - Crickets chirping (night)
 - Soft night wind
 - Gentle ambient sounds
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -120,7 +149,7 @@ They are loaded into OpenArt at production time.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 
 ---
@@ -146,6 +175,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Characters do not suddenly appear fully centered after the opening.
 - [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Opening Hook
 

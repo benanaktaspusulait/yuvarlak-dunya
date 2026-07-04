@@ -117,9 +117,36 @@ Arda: Yes!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Central Square, Noah sits with blocks | Wide establishing |
-| 5-10 sn | Arda arrives, sits next to Noah | Medium |
-| 10-15 sn | Both look at blocks, smile | Established composition |
+| 0-1 sn | Continuity hold — Central Square, blocks on ground | Wide establishing |
+| 1-3 sn | Noah arranges blocks, picks one up, examines it | Wide |
+| 3-5 sn | Arda enters from rounded path, small steps toward Noah | Wide |
+| 5-7 sn | Arda sits down next to Noah, leans in | Medium |
+| 7-10 sn | Noah hands a block to Arda, Arda takes it | Medium |
+| 10-13 sn | Both look at blocks together, Noah points at a shape | Medium |
+| 13-15 sn | Small shared smile, both blink | Established composition |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -127,6 +154,7 @@ Arda: Yes!
 
 - Birds chirping
 - Footsteps
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -138,7 +166,7 @@ Warm morning sunlight.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, background music, music, melody, song, soundtrack, musical bed
 
 
 ---
@@ -164,6 +192,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Characters do not suddenly appear fully centered after the empty opening.
 - [ ] Characters are introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Opening Hook
 
