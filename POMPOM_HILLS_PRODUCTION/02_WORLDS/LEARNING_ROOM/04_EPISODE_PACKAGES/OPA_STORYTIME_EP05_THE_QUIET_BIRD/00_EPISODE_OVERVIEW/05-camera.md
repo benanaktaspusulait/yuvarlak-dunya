@@ -16,5 +16,5 @@
 | 08 | 28mm | 0.75m | Slow pull-back to wide hold |
 
 No fast zoom, no handheld shake, no whip pan. See `00-CORE/17_VIDEO_GENERATION_STANDARD.md`
-§ Camera Rules and `02-WORLDS/31-learning-room/31-learning-room-bible.md` § Camera
+§ Camera Rules and `POMPOM_HILLS_PRODUCTION/02_WORLDS/LEARNING_ROOM/00_CANON/31-learning-room-bible.md` § Camera
 Identity.

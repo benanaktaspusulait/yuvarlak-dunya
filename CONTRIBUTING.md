@@ -8,9 +8,12 @@ Bu repo Pompom Hills / Yuvarlak Dunya prodüksiyon dosyasıdır. Katkılar; 3-4 
 yuvarlak-dunya/
 ├── 00-CORE/         ← Tek kaynak master dosyalar
 ├── 01-CHARACTERS/   ← Karakter bible dosyaları + drawings/
-├── 02-WORLDS/       ← Mekan bible dosyaları
+├── POMPOM_HILLS_PRODUCTION/ ← Dünya-bazlı üretim paketleri (tek kaynak)
+│   ├── 00_GLOBAL_RULES/     ← Şablonlar + global environment/world standartları
+│   ├── 02_WORLDS/           ← Her dünya: canon bible + world-spec + hero view +
+│   │                          o dünyada geçen bölüm paketleri (shots/overview/metadata)
+│   └── 03_EPISODES/         ← Seri-seviyesi dosyalar (Opa's Storytime bumper'ları vb.)
 ├── 03-PROPS/        ← Prop kütüphanesi
-├── 04-SCENES/       ← Sahne dosyaları + şablonlar
 ├── 05-AI-PROMPTS/   ← AI üretim promptları
 ├── 06-ASSETS/       ← Referans görseller
 ├── 07-BRANDING/     ← Marka dosyaları + metadata/
@@ -18,7 +21,7 @@ yuvarlak-dunya/
 ├── 09-ARCHIVE/      ← Eski dosyalar
 ├── 10-LICENSING/    ← Lisanslama stratejisi
 ├── scripts/         ← Otomasyon scriptleri
-├── subtitles/       ← Altyazı dosyaları
+├── 14-SUBTITLES/    ← Altyazı dosyaları
 └── .github/         ← GitHub Actions
 ```
 
@@ -71,8 +74,8 @@ Dosya adları küçük harf, tire ayracı ve sürüm bilgisiyle yazılır.
 
 ```text
 01-CHARACTERS/01-kiko.md
-02-WORLDS/01-central-square.md
-04-SCENES/season-01/s01e01-hello-pompom-hills/01-kiko-intro.md
+POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/00_CANON/01-central-square-bible.md
+POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/S01E01_HELLO_POMPOM_HILLS/01_SHOTS/shot-01-kiko-discovery.md
 ```
 
 ## Yeni Dosya Ekleme
@@ -83,14 +86,19 @@ Dosya adları küçük harf, tire ayracı ve sürüm bilgisiyle yazılır.
 3. `05-AI-PROMPTS/voice/` dizinine ses promptu ekle
 
 ### Yeni Mekan
-1. `02-WORLDS/` dizinine `[sıra]-[isim]-bible.md` formatında dosya ekle
-2. `00-CORE/WORLD_BIBLE.md`'yi güncelle
-3. `environment/` dizinine referans görsel ekle
+1. `POMPOM_HILLS_PRODUCTION/02_WORLDS/<WORLD_NAME>/` altında dünya klasörünü aç
+   (bkz. `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/EPISODE_TEMPLATES/WORLD_BIBLE_TEMPLATE.md`)
+2. `00_CANON/[sıra]-[isim]-bible.md` formatında bible dosyasını ekle
+3. `02_WORLD_SPEC/[sıra]-[isim]-world-spec.md` formatında world-spec dosyasını ekle
+4. `00-CORE/WORLD_BIBLE.md`'yi güncelle
+5. `01_HERO_VIEW/` dizinine referans görsel ekle
 
 ### Yeni Bölüm
-1. `04-SCENES/season-01/` dizininde `s01e[XX]-[bolum-adi]/` klasörü aç
-2. `04-SCENES/_templates/EPISODE_TEMPLATE.md` şablonunu kullan
-3. Her sahne için `04-SCENES/_templates/SCENE_TEMPLATE.md` şablonunu kullan
+1. İlgili dünyanın altında `POMPOM_HILLS_PRODUCTION/02_WORLDS/<WORLD_NAME>/04_EPISODE_PACKAGES/`
+   dizininde `S01Exx_BOLUM_ADI/` klasörünü aç (bkz. mevcut paketler örnek olarak)
+2. `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/EPISODE_TEMPLATES/EPISODE_TEMPLATE.md` şablonunu kullan
+3. Her sahne için `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/EPISODE_TEMPLATES/SCENE_TEMPLATE.md` şablonunu kullan
+4. Shot dosyalarını paketin `01_SHOTS/` alt klasörüne ekle
 
 ## Pull Request Checklist
 

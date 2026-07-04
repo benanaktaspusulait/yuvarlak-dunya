@@ -21,7 +21,7 @@
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
 | Kiko's Home | `environment/03-kikos-home.png` | 01 |
-| Flower Hill | `02-WORLDS/25-flower-hill-bible.md` (render plate yok) | 02-04, 08 |
+| Flower Hill | `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL-bible.md` (render plate yok) | 02-04, 08 |
 | Butterfly Meadow | `environment/17-butterfly-meadow.png` | 05 |
 | Rainbow Creek | `environment/19-rainbow-creek.png` | 06-07 |
 | Central Square | `environment/01-central-square/hero-view.png` | 09-12 |

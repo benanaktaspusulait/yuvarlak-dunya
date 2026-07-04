@@ -6,15 +6,15 @@
 
 | Kontrol | Durum |
 |---|---|
-| World bible (`02-WORLDS/32-crystal-cave/`) | ❌ Eksik — sadece `SEASON_2_ONBOARDING/worlds/crystal-cave.md` onboarding taslağı var |
+| World bible (`POMPOM_HILLS_PRODUCTION/02_WORLDS/32-crystal-cave/`) | ❌ Eksik — sadece `SEASON_2_ONBOARDING/worlds/crystal-cave.md` onboarding taslağı var |
 | World Spec | ❌ Eksik |
 | Canon Hero View | ❌ Eksik |
 | Onboarding policy uygunluğu | ✅ Format + "no complex plot, one character maximum" kuralına uygun tasarlandı |
 
 **Bu bölüm en kısıtlı (bloklu) bölümdür.** Policy §5, madde 1-2: bir dünyanın tanıtım videosu üretilmeden önce Canon Hero View ve production-ready World Spec zorunludur. Bu ikisi de yok. Render'a girmeden önce:
 
-1. `02-WORLDS/32-crystal-cave/32-crystal-cave-bible.md` yazılmalı (bkz. Stone Hill / Rainbow Creek formatı örnek alınabilir)
-2. `02-WORLDS/32-crystal-cave/32-crystal-cave-world-spec.md` yazılmalı
+1. `POMPOM_HILLS_PRODUCTION/02_WORLDS/32-crystal-cave/32-crystal-cave-bible.md` yazılmalı (bkz. Stone Hill / Rainbow Creek formatı örnek alınabilir)
+2. `POMPOM_HILLS_PRODUCTION/02_WORLDS/32-crystal-cave/32-crystal-cave-world-spec.md` yazılmalı
 3. Hero View görseli üretilip onaylanmalı
 4. Bu shot dosyaları Hero View'e göre güncellenmeli
 

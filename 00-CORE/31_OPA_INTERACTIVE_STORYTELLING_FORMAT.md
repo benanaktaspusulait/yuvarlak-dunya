@@ -230,10 +230,10 @@ Allowed locations:
 
 - Indoor Reading Corner
 - Cozy Book Nook
-- Classroom Reading Area (e.g. Learning Room, `02-WORLDS/31-learning-room/` — Reading Corner zone)
-- Opa's Tree / Story Circle (`02-WORLDS/06-opas-tree/`, `02-WORLDS/22-story-circle/`)
+- Classroom Reading Area (e.g. Learning Room, `POMPOM_HILLS_PRODUCTION/02_WORLDS/LEARNING_ROOM/` — Reading Corner zone)
+- Opa's Tree / Story Circle (`POMPOM_HILLS_PRODUCTION/02_WORLDS/OPA_TREE/`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/STORY_CIRCLE/`)
 - Outdoor Story Blanket
-- Character Home Reading Spot (e.g. Kiko's Home Reading Corner, `02-WORLDS/03-kikos-home/`)
+- Character Home Reading Spot (e.g. Kiko's Home Reading Corner, `POMPOM_HILLS_PRODUCTION/02_WORLDS/KIKOS_HOME/`)
 - Rainy-day indoor reading space
 
 Do not force every episode to happen at Opa's Tree. Do not create a new world if an existing approved reading/story location already fits — see `00-CORE/CONTINUITY_RULES.md` §11.1 No Generic Worlds Rule for how to reference an established location by name.
@@ -376,7 +376,7 @@ Playlist: Opa's Storytime | Gentle Preschool Stories
 
 ## 18. Production Files
 
-Each Opa's Storytime episode uses the standard episode package defined in `04-SCENES/_templates/EPISODE_TEMPLATE.md` (Kanonik Bölüm Klasör Yapısı): `01-overview.md`, `02-beat-sheet.md`, `03-storyboard.md`, `04-assets.md`, `05-camera.md`, `06-dialogues.md`, `07-sfx.md`, `08-animation-notes.md`, `09-render-prompts.md`, `COORDINATE_MAP.md`, `EPISODE_SUMMARY.md`, `EPISODE_SUMMARY_TR.md`, optional `SHORTS_PLAN.md` and `shots/`.
+Each Opa's Storytime episode uses the standard episode package defined in `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/EPISODE_TEMPLATES/EPISODE_TEMPLATE.md` (Kanonik Bölüm Klasör Yapısı): `01-overview.md`, `02-beat-sheet.md`, `03-storyboard.md`, `04-assets.md`, `05-camera.md`, `06-dialogues.md`, `07-sfx.md`, `08-animation-notes.md`, `09-render-prompts.md`, `COORDINATE_MAP.md`, `EPISODE_SUMMARY.md`, `EPISODE_SUMMARY_TR.md`, optional `SHORTS_PLAN.md` and `shots/`.
 
 The Episode Lock table in each episode's `01-overview.md` should also record `Series` and `Playlist` (see `EPISODE_TEMPLATE.md`).
 

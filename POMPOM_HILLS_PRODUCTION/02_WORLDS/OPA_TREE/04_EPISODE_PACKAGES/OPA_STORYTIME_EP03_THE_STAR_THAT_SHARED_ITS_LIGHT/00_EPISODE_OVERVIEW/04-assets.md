@@ -6,7 +6,7 @@
 
 | Asset | Type | Status |
 |---|---|---|
-| Opa's Tree Hero View (night) | World Reference | ✅ (`02-WORLDS/06-opas-tree/`) |
+| Opa's Tree Hero View (night) | World Reference | ✅ (`POMPOM_HILLS_PRODUCTION/02_WORLDS/OPA_TREE/`) |
 | Opa PNG | Character Reference | ✅ |
 | Luca PNG | Character Reference | ✅ |
 | Noah PNG | Character Reference | ✅ |
@@ -14,7 +14,7 @@
 | OT-TRUNK-01 | Prop (thick textured trunk) | ✅ |
 | Night sky / soft star glow overlay | Environmental element | ✅ — per `00-CORE/WORLD_BIBLE.md` § Night |
 
-Reference: `02-WORLDS/06-opas-tree/06-opas-tree-world-spec.md`.
+Reference: `POMPOM_HILLS_PRODUCTION/02_WORLDS/OPA_TREE/02_WORLD_SPEC/06-opas-tree-world-spec.md`.
 
 No new picture book needed — this episode uses Opa's spoken storytelling (Story
 Circle-style oral masal), not a physical book, per

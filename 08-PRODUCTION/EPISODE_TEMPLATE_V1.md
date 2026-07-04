@@ -100,7 +100,7 @@ Shot 06  Joy + closing wide with silent hold
 
 | File | Path |
 |------|------|
-| Full episode | `04-SCENES/season-01/s01e13-where-does-rain-come-from/` |
+| Full episode | `POMPOM_HILLS_PRODUCTION/02_WORLDS/CLOUD_HILL/04_EPISODE_PACKAGES/S01E13_WHERE_DOES_RAIN_COME_FROM/` |
 | Production report template | `S01E13_PRODUCTION_REPORT.md` |
 
 ---

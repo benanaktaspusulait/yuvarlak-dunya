@@ -71,7 +71,7 @@
 
 - `11-DOCS/05_WORLD_BIBLE.md` — canonical world reference
 - `11-DOCS/WORLD_CATALOG.md` — complete world inventory
-- `02-WORLDS/` — world bible documents
+- `POMPOM_HILLS_PRODUCTION/02_WORLDS/` — world bible documents
 - `08-PRODUCTION/ASSET_TRACKER.md` — asset production status
 
 ---

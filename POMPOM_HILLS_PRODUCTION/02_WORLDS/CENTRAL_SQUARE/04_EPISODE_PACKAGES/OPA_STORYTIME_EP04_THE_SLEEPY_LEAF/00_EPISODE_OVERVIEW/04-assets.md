@@ -6,7 +6,7 @@
 
 | Asset | Type | Status |
 |---|---|---|
-| Central Square Hero View (sunset) | World Reference | ✅ (`02-WORLDS/01-central-square/`) |
+| Central Square Hero View (sunset) | World Reference | ✅ (`POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/`) |
 | Opa PNG | Character Reference | ✅ |
 | Kiko PNG | Character Reference | ✅ |
 | Noah PNG | Character Reference | ✅ |
@@ -15,7 +15,7 @@
 | Soft story blanket (outdoor) | Prop | 🔴 New — simple round/soft-edged picnic blanket, pastel palette |
 | Single dancing leaf (story visual) | Prop | 🔴 New — soft imagination visual per §11 |
 
-Reference: `02-WORLDS/01-central-square/01-central-square-world-spec.md`.
+Reference: `POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/02_WORLD_SPEC/01-central-square-world-spec.md`.
 
 No physical book needed — this episode uses Opa's spoken storytelling with a
 subtle in-world visual cue (the actual leaf on the tree), not a book, per

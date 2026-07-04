@@ -30,7 +30,7 @@
 
 **Çözüm:** S01E01 için 4 shot dosyası oluşturulmalı.
 
-**Dosya yolu:** `04-SCENES/season-01/s01e01-hello-pompom-hills/shots/`
+**Dosya yolu:** `POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/S01E01_HELLO_POMPOM_HILLS/01_SHOTS/`
 
 ---
 

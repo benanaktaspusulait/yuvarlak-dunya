@@ -4,7 +4,7 @@
 
 ## ⚠️ Production Gate Warning
 
-**Bu shot dosyası render'a hazır DEĞİLDİR.** Crystal Cave için Canon Hero View ve World Spec henüz onaylanmamıştır (Policy §5, madde 1-2). Bu, yalnızca bir **görsel konsept taslağıdır**. Gerçek render öncesi `02-WORLDS/32-crystal-cave/` altında bible + world-spec + Hero View tamamlanmalı ve bu dosya güncellenmelidir.
+**Bu shot dosyası render'a hazır DEĞİLDİR.** Crystal Cave için Canon Hero View ve World Spec henüz onaylanmamıştır (Policy §5, madde 1-2). Bu, yalnızca bir **görsel konsept taslağıdır**. Gerçek render öncesi `POMPOM_HILLS_PRODUCTION/02_WORLDS/32-crystal-cave/` altında bible + world-spec + Hero View tamamlanmalı ve bu dosya güncellenmelidir.
 
 ---
 
@@ -131,4 +131,4 @@ No characters in this shot. Entrance should feel small, safe and inviting — ne
 
 ## Reference Usage
 
-No canon reference available yet. Use Stone Hill's existing bible (`02-WORLDS/27-stone-hill/27-stone-hill-bible.md`) for the surrounding area only. Cave interior has no reference.
+No canon reference available yet. Use Stone Hill's existing bible (`POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/00_CANON/27-stone-hill-bible.md`) for the surrounding area only. Cave interior has no reference.

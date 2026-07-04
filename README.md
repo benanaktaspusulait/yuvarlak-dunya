@@ -35,11 +35,12 @@ yuvarlak-dunya/
 │
 ├── 01-CHARACTERS/              ← Karakter bible dosyaları (13 karakter)
 │   └── drawings/               ← Karakter referans çizimleri (PNG)
-├── 02-WORLDS/                  ← Mekan bible dosyaları (27 mekan)
+├── POMPOM_HILLS_PRODUCTION/     ← Dünya-bazlı üretim paketleri (tek kaynak)
+│   ├── 00_GLOBAL_RULES/         ← Şablonlar + global environment/world standartları
+│   ├── 02_WORLDS/               ← Her dünya: canon bible + world-spec + hero view +
+│   │                              o dünyada geçen bölüm paketleri (31 mekan)
+│   └── 03_EPISODES/             ← Seri-seviyesi dosyalar (Opa's Storytime bumper'ları vb.)
 ├── 03-PROPS/                   ← Prop kütüphanesi + prop görselleri
-├── 04-SCENES/                  ← Sahne dosyaları + şablonlar
-│   ├── season-01/              ← Sezon 1 sahneleri
-│   └── _templates/             ← Şablonlar
 ├── 05-AI-PROMPTS/              ← AI üretim promptları + ses dosyaları
 ├── 06-ASSETS/                  ← Genel referans görseller (world/karakter/prop hariç)
 ├── 07-BRANDING/                ← Marka, sosyal medya, kanal görselleri
@@ -67,7 +68,7 @@ yuvarlak-dunya/
 | Dünya tanımı | `00-CORE/WORLD_BIBLE.md` |
 | Karakter tanımı | `00-CORE/CHARACTER_GUIDE.md` |
 | Karakter detayları | `01-CHARACTERS/{karakter}.md` |
-| Mekan detayları | `02-WORLDS/{mekan}.md` |
+| Mekan detayları | `POMPOM_HILLS_PRODUCTION/02_WORLDS/{MEKAN}/00_CANON/{mekan}-bible.md` |
 | Üretim akışı | `00-CORE/PRODUCTION_PIPELINE.md` |
 | Süreklilik kuralları | `00-CORE/CONTINUITY_RULES.md` |
 | Prompt yazma | `05-AI-PROMPTS/` |
@@ -75,7 +76,7 @@ yuvarlak-dunya/
 | YouTube metadata (title/description/tags/Shorts) | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |
 | Video stili, pacing, hook, retention | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
 | Opa's Storytime (interactive storytelling sub-series, format, playlist) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` |
-| Bölüm detayları | `04-SCENES/season-01/{bolum}/` |
+| Bölüm detayları | `POMPOM_HILLS_PRODUCTION/02_WORLDS/{MEKAN}/04_EPISODE_PACKAGES/{bolum}/` |
 | Üretim takibi | `08-PRODUCTION/` |
 | Mekan görselleri (PNG) | `environment/NN-slug.png` veya çok görünümlü `environment/NN-slug/hero-view.png` |
 | Karakter görselleri (PNG) | `01-CHARACTERS/drawings/{karakter}.png` |
@@ -86,7 +87,7 @@ yuvarlak-dunya/
 
 - Numaralı mekan/dosya: `NN-slug` — **2 haneli sıfır dolgulu** numara + **küçük harf, tireli** slug (örn. `06-opas-tree`).
 - Çok görünümlü mekan klasörlerinde görünüm dosyaları: `hero-view.png`, `left-view.png`, `right-view.png`, `top-view.png`.
-- Mekan numaraları `02-WORLDS/` bible'ları ile `environment/` görselleri arasında **birebir** eşleşir (25=flower-hill, 26=tree-hill, 27=stone-hill).
+- Mekan numaraları `POMPOM_HILLS_PRODUCTION/02_WORLDS/` bible'ları ile `environment/` görselleri arasında **birebir** eşleşir (25=flower-hill, 26=tree-hill, 27=stone-hill).
 
 ## Prompt Variable System
 
@@ -107,20 +108,20 @@ Tüm promptlar bu üç değişkenle başlar veya biter:
 1. `00-CORE/CREATIVE_BIBLE.md` oku — projenin ruhunu anla
 2. `00-CORE/WORLD_BIBLE.md` oku — dünyayı tanı
 3. `00-CORE/CHARACTER_GUIDE.md` oku — karakterleri tanı
-4. `04-SCENES/_templates/SCENE_TEMPLATE.md` kullanarak yeni sahne yaz
+4. `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/EPISODE_TEMPLATES/SCENE_TEMPLATE.md` kullanarak yeni sahne yaz
 5. `05-AI-PROMPTS/` ile OpenArt'ta üret
 
 ## Üretim Akışı
 
 ```
 1. World Reference oluştur (bir kez)
-   └── 02-WORLDS/ → Hero Pack PNG'leri
+   └── POMPOM_HILLS_PRODUCTION/02_WORLDS/ → Hero Pack PNG'leri
         ↓
 2. Character Reference oluştur (bir kez)
    └── 01-CHARACTERS/ → Character PNG'leri
         ↓
 3. Sahne yaz
-   └── 04-SCENES/season-01/ → Scene MD dosyaları
+   └── POMPOM_HILLS_PRODUCTION/02_WORLDS/{MEKAN}/04_EPISODE_PACKAGES/ → Scene MD dosyaları
         ↓
 4. Compact Prompt oluştur
    └── 600-800 karakter OpenArt optimized

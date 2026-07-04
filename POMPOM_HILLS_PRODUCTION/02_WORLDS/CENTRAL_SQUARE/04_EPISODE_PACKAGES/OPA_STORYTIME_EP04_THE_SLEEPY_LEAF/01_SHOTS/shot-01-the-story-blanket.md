@@ -83,7 +83,7 @@ Warm golden-hour sunlight, low sun, long soft shadows and a warm ambient glow ac
 
 This is the FIRST story shot (after the shared opening bumper).
 
-- World Reference: Central Square — Outdoor Story Blanket at sunset (`02-WORLDS/01-central-square/`)
+- World Reference: Central Square — Outdoor Story Blanket at sunset (`POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/`)
 - Character References: Opa, Kiko, Noah sheets
 
 Loaded into OpenArt at production time; not hardcoded here.

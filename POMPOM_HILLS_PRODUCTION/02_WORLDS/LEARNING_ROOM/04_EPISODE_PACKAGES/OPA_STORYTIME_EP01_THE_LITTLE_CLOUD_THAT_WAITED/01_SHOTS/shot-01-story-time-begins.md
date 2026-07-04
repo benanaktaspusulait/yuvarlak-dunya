@@ -83,7 +83,7 @@ Warm morning sunlight through the arched window, soft ambient glow. Shadow side 
 
 This is the FIRST story shot (after the shared opening bumper).
 
-- World Reference: Learning Room — Reading Corner (`02-WORLDS/31-learning-room/`)
+- World Reference: Learning Room — Reading Corner (`POMPOM_HILLS_PRODUCTION/02_WORLDS/LEARNING_ROOM/`)
 - Character References: Opa, Luca, Mimi sheets
 
 Loaded into OpenArt at production time; not hardcoded here.

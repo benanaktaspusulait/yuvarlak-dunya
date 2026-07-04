@@ -19,8 +19,8 @@ oku, sonra işe başla.
 Varsayılan olarak DEĞİŞTİRME (aksi açıkça istenmedikçe):
 
 - Character canon (`00-CORE/CHARACTER_GUIDE.md`, `01-CHARACTERS/*`)
-- World canon (`00-CORE/WORLD_BIBLE.md`, `02-WORLDS/*`)
-- Episode script'leri (`04-SCENES/season-01/*`, `04-SCENES/season-02-onboarding/*`)
+- World canon (`00-CORE/WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/*`)
+- Episode script'leri (`POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/*`)
 - Production/teknik standartlar (`00-CORE/TECH_SPECS.md`, `00-CORE/17_VIDEO_GENERATION_STANDARD.md`,
   `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/CONTINUITY_RULES.md`)
 
@@ -35,9 +35,9 @@ bu dosyalara dokunmaz.
 | Yapılacak iş | Önce oku |
 |---|---|
 | Yeni karakter ekleme/değiştirme | `00-CORE/CHARACTER_GUIDE.md`, `01-CHARACTERS/`, `CONTRIBUTING.md` §"Yeni Karakter" |
-| Yeni dünya/mekan ekleme/değiştirme | `00-CORE/WORLD_BIBLE.md`, `02-WORLDS/`, `CONTRIBUTING.md` §"Yeni Mekan" |
-| Yeni bölüm/sahne yazımı | `00-CORE/SERIES_STRUCTURE.md`, `04-SCENES/_templates/`, `00-CORE/CONTINUITY_RULES.md` |
-| Opa's Storytime bölümü (interactive storytelling sub-series) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`, ardından ilgili mekan (`02-WORLDS/`) ve karakter (`01-CHARACTERS/`) dosyaları |
+| Yeni dünya/mekan ekleme/değiştirme | `00-CORE/WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/`, `CONTRIBUTING.md` §"Yeni Mekan" |
+| Yeni bölüm/sahne yazımı | `00-CORE/SERIES_STRUCTURE.md`, `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/EPISODE_TEMPLATES/`, `00-CORE/CONTINUITY_RULES.md` |
+| Opa's Storytime bölümü (interactive storytelling sub-series) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`, ardından ilgili mekan (`POMPOM_HILLS_PRODUCTION/02_WORLDS/`) ve karakter (`01-CHARACTERS/`) dosyaları |
 | Shot/video üretimi (kamera, renk, süreklilik, teknik) | `00-CORE/17_VIDEO_GENERATION_STANDARD.md`, `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/VISUAL_CONTINUITY_RULES.md` |
 | Video pacing / hook / retention stili, micro-opening & warm-closing / bumper (dış feedback dahil) | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
 | YouTube title / description / tags / Shorts metadata | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |

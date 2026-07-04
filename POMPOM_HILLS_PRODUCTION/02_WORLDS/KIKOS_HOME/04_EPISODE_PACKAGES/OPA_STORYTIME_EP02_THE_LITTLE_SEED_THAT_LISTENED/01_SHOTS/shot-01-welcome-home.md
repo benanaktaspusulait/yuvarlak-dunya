@@ -84,7 +84,7 @@ Warm morning light through the round window, cosy interior glow. Shadow side lif
 
 This is the FIRST story shot (after the shared opening bumper).
 
-- World Reference: Kiko's Home — Reading Corner (`02-WORLDS/03-kikos-home/`)
+- World Reference: Kiko's Home — Reading Corner (`POMPOM_HILLS_PRODUCTION/02_WORLDS/KIKOS_HOME/`)
 - Character References: Opa, Kiko, Mimi sheets
 
 Loaded into OpenArt at production time; not hardcoded here.

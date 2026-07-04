@@ -42,7 +42,7 @@ Mekan her shot'ta aynı kalır.
 
 Mekan asla yeniden tasarlanmaz.
 
-Referans: `11-DOCS/05_WORLD_BIBLE.md`, `02-WORLDS/`
+Referans: `11-DOCS/05_WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/`
 
 ---
 

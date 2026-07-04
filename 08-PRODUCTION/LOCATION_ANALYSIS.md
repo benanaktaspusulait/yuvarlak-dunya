@@ -49,7 +49,7 @@ Her mekan için potansiyel bölüm ve sahne kombinasyonlarını listeler.
 > Flower Hill has two production zones — **Nature Field Zone** (open flower
 > field, colour learning, walking) and **Home Cluster Zone** (Kiko's Home,
 > Mimi's Burrow, home/neighbour stories). See
-> `02-WORLDS/25-flower-hill/25-flower-hill-bible.md` § Visual Richness &
+> `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/00_CANON/25-flower-hill-bible.md` § Visual Richness &
 > World Charm. New episodes below must specify which zone they use.
 
 | Bölüm | Karakter | Konu | Zone | Durum |

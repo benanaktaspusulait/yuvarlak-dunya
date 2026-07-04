@@ -151,4 +151,4 @@ Fifi is small and fast but never dominates the sky-dominant composition. Sky mus
 
 ## Reference Usage
 
-This is the first shot. Use the Cloud Hill Hero View (`02-WORLDS/02-cloud-hill/00-hero-view.png`) as the environment reference. Character reference pending canon approval.
+This is the first shot. Use the Cloud Hill Hero View (`POMPOM_HILLS_PRODUCTION/02_WORLDS/CLOUD_HILL/01_HERO_VIEW/00-hero-view.png`) as the environment reference. Character reference pending canon approval.

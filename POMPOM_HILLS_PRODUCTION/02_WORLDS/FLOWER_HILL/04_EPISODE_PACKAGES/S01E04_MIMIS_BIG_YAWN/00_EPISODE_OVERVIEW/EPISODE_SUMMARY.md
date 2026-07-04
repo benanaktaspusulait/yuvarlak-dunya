@@ -20,7 +20,7 @@
 
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
-| Flower Hill — Nature Field Zone | `02-WORLDS/25-flower-hill/25-flower-hill-bible.md` (legacy reference images: `12-ENVIRONMENT/25-flower-hill/`) | 01-04 |
+| Flower Hill — Nature Field Zone | `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/00_CANON/25-flower-hill-bible.md` (legacy reference images: `12-ENVIRONMENT/25-flower-hill/`) | 01-04 |
 | Cloud Hill | `environment/02-cloud-hill.png` | 05 |
 | Sun Hill | `environment/04-sun-hill.png` | 06 |
 | Central Square | `environment/01-central-square/hero-view.png` | 07 |

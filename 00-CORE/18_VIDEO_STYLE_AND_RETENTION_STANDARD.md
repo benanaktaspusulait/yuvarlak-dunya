@@ -465,7 +465,7 @@ moonlight, magic glow.
 **Transition:** The final frame of the micro-opening should visually connect to the first
 episode shot. It should feel like entering the same Stone Hill world, not a separate trailer.
 
-> Consistent with the Stone Hill identity used in `04-SCENES/season-01/s01e07-the-round-stone/`
+> Consistent with the Stone Hill identity used in `POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/04_EPISODE_PACKAGES/S01E07_THE_ROUND_STONE/`
 > (rounded stone discovery area, warm morning daylight) and the world canon in
 > `00-CORE/WORLD_BIBLE.md` §6.
 
