@@ -215,6 +215,8 @@ teleporting character, disappearing character, character hidden behind bush, cha
 
 intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
 
+character pop-in after opening, sudden character appearance, character spawning in scene, character materializing, character suddenly centered after empty opening, hard cut to character without entrance, hidden character entrance, character entering from behind bushes, character appearing from nowhere, unexplained character appearance
+
 ## QA Checklist
 
 Reference: 11-DOCS/16_VIDEO_QA_SPEC.md

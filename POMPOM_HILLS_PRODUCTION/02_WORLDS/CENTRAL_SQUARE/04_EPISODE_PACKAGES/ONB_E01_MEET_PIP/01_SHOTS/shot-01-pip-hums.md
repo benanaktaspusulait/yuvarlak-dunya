@@ -26,6 +26,18 @@ The Giant Pompom Tree remains the same tree. The circular flower beds remain in 
 
 ---
 
+## Continuity
+
+This is the first story shot of the episode. It begins after the optional Central Square
+Friends Micro-Opening pre-roll (a reusable world asset, not a story shot).
+
+Use the approved Central Square Friends Micro-Opening final frame as `@image1` for
+environment continuity only. Pip must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Central Square Shot 01: Pip may already be partially visible on a branch at the edge of the frame (Method C), or the camera gently reveals Pip on the branch (Method A). Do not have Pip pop into the center of Central Square.
+
+---
+
 ## Visual Prompt
 
 ```text
@@ -143,6 +155,9 @@ Reference: `16_VIDEO_QA_SPEC.md`
 - [ ] Background objects visible in the first frame remain stable.
 - [ ] No background object disappears or is replaced.
 - [ ] Environment is not reinterpreted during the shot.
+- [ ] Pip does not suddenly appear fully centered after the empty opening.
+- [ ] Pip is introduced by camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ---
 

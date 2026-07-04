@@ -111,6 +111,9 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted during shot
 - [ ] Series opening beat present ("Come close, little friends.")
+- [ ] Characters do not suddenly appear fully centered after the opening bumper.
+- [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ## Scale
 

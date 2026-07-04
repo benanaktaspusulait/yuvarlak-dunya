@@ -6,11 +6,30 @@
 
 | Alan | Değer |
 | --- | --- |
-| Episode | Colorful Flowers |
-| Shot | 01 / 04 |
+| Episode | S01E25 — Colorful Flowers |
+| Shot | 01 / 08 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Painting Garden |
+| Characters | Sofia |
+| Time of Day | Morning — warm soft daylight |
+
+---
+
+## Continuity
+
+This is the FIRST shot of the episode. No previous shot reference.
+
+Sofia walks into the Painting Garden and notices a patch of colourful flowers.
+
+---
+
+## Continuity
+
+This is the first shot of the episode. No previous shot reference.
+
+If this episode uses a world micro-opening, the first character must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Characters must not suddenly appear in the middle of the frame. Use camera reveal (Method A), visible character entrance (Method B), or first frame character already partially visible (Method C).
 
 ---
 
@@ -36,28 +55,22 @@ Only the main characters and any props may move unless camera movement naturally
 ## Visual Prompt
 
 ```text
-Sofia finds colourful flowers. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Established composition, 50mm, static, no other characters, {style} {camera} {lighting}
+Sofia from Pompom Hills walks into the Painting Garden and stops — her eyes widen with wonder. She sees a patch of colourful round flowers: red, blue, yellow, and purple. Painting Garden — soft pastel garden, flower beds, gentle paths, warm morning daylight. Medium, 50mm, static, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
-The Pompom Hills background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
+The Painting Garden background is locked from the first frame; keep all visible flower beds, paths, garden elements and environment stable throughout the shot.
 ```
 
 ---
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in the previous shot reference.
-
-No camera movement is allowed until the opening frame continues seamlessly from the previous shot reference.
-
-The first visible frame should appear visually identical to the previous shot reference.
-
-Only then may the planned camera movement begin.
-
-Established composition, 50mm, static.
+Medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
+
+Focus on Sofia's discovery and wonder expression.
 
 ---
 
@@ -73,56 +86,34 @@ Sofia: Look at these colours!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Sofia finds colourful flowers. | Established composition, 50mm, static |
-| 5-10 sn | Character interaction | Established composition, 50mm, static |
-| 10-15 sn | Key moment | Established composition, 50mm, static |
+| 0-3 sn | Sofia walks into frame, notices the flowers | Medium, 50mm, static |
+| 3-7 sn | Her eyes widen. She leans forward with wonder. | Medium, 50mm, static |
+| 7-10 sn | She points at the flowers. Mouth open in delight. | Medium, 50mm, static |
+| 10-13 sn | She kneels down closer to the flowers. | Medium, 50mm, static |
+| 13-15 sn | She gently touches a red flower petal. | Medium, 50mm, static |
 
 ---
 
 ## Sound
 
-- Crickets chirping (night)
-- Soft night wind
-- Gentle ambient sounds
+- Soft morning birdsong
+- Gentle breeze through flowers
+- Sofia's delighted gasp
+- Warm ambient morning tone
 
 ---
 
 ## Lighting
 
-Warm moonlight or soft daylight.
+Warm soft morning daylight.
 
-Soft, gentle glow.
-
----
+Gentle, low contrast, pastel palette. No harsh shadows.
 
 ---
-
-## Reference Usage
-
-This is the FIRST shot. No previous shot reference.
-
-The reference images are supplied by the production workflow:
-
-- World Reference: The established environment for this episode
-- Character Reference: The character sheet for the lead character in this shot
-
-These references should not be hardcoded into this document.
-They are loaded into OpenArt at production time.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
-
-## Opening Hook
-
-The first 3-5 seconds should immediately create curiosity.
-Avoid slow introductions. Begin with an interesting visual, a surprising action, a curious question, or an emotional expression.
-
-Examples:
-- Can you hear that?
-- Look what I found!
-- Do you know where stars sleep?
-- What is hiding over there?
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, night sky, stars, moonlight
 
 ## QA Checklist
 
@@ -133,18 +124,22 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Object persistence verified
 - [ ] No rendering artefacts
 - [ ] Camera consistency verified
-- [ ] Lighting consistency verified
+- [ ] Lighting consistency verified (warm morning daylight)
 - [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
+- [ ] Background objects visible in the first frame remain stable
+- [ ] No background object disappears or is replaced
+- [ ] Environment is not reinterpreted during the shot
+- [ ] No background object morphing
+- [ ] No new environment elements appear
+- [ ] Same physical location is preserved throughout the shot
+- [ ] Characters do not suddenly appear fully centered after the opening.
+- [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
+
+## Opening Hook
+
+The first 3-5 seconds should create curiosity through Sofia's surprised expression — she discovers something beautiful.
 
 ## Scale
 
-Characters should feel small and childlike within the environment, but must remain readable for facial expression and action.
-
-Use wide framing for environment identity and medium framing for emotional beats.
+Sofia should feel small and childlike within the Painting Garden, but must remain readable for facial expression and action.

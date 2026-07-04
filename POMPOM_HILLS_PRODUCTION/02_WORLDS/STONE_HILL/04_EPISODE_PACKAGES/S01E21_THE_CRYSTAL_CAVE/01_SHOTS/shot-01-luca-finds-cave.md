@@ -14,6 +14,23 @@
 
 ---
 
+## Continuity
+
+This is the first story shot of the episode. It begins after the optional Stone Hill
+Adventures Micro-Opening pre-roll (a reusable world asset, not a story shot).
+
+Use the approved Stone Hill Adventures Micro-Opening final frame as `@image1` for
+environment continuity only. Luca must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Stone Hill Shot 01: Use one of these options:
+- Option A: Camera gently turns/settles from the opening final frame to reveal Luca already on the pebble path.
+- Option B: Luca enters from the opposite side of the camera through a visible pebble path.
+- Option C: Luca is partially visible at the edge of the first story frame and continues naturally into the scene.
+
+Do not let Luca pop into the middle of the frame. Do not let Luca enter from behind rocks, bushes or foreground objects.
+
+---
+
 ## Background Object Lock
 
 The background is locked from the first frame of this shot.
@@ -131,6 +148,9 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Luca does not suddenly appear fully centered after the empty opening.
+- [ ] Luca is introduced by camera reveal, visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ## Opening Hook
 

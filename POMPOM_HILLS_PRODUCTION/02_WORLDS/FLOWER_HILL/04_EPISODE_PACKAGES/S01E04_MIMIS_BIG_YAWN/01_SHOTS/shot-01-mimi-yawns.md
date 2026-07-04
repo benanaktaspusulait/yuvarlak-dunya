@@ -6,11 +6,26 @@
 
 | Alan | Değer |
 | --- | --- |
-| Episode | Mimi's Big Yawn |
-| Shot | 01 / 04 |
+| Episode | S01E04 — Mimi's Big Yawn |
+| Shot | 01 / 08 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Flower Hill — Home Cluster Zone |
+| Characters | Kiko, Mimi |
+| Time of Day | Evening — soft golden light fading into blue dusk |
+
+---
+
+## Continuity
+
+This is the first story shot of the episode. It begins after the optional Flower Hill
+Friends Micro-Opening pre-roll (a reusable world asset, not a story shot).
+
+Use the approved Flower Hill Friends Micro-Opening final frame as `@image1` for
+environment continuity only. Kiko and Mimi must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Flower Hill Shot 01: Characters may be partially visible at the edge of the first story frame on a visible path, or entering through a visible garden path (Method C or B). Do not have characters pop into the center of Flower Hill.
+
+The episode begins with a warm evening setting in Flower Hill. Mimi is already present with Kiko.
 
 ---
 
@@ -36,35 +51,30 @@ Only the main characters and any props may move unless camera movement naturally
 ## Visual Prompt
 
 ```text
-Mimi yawns again and again. Kiko notices. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Medium, 50mm, static, no other characters, {style} {camera} {lighting}
+Mimi from Pompom Hills yawns widely — her mouth opens big, her eyes half-close, her ears droop gently. Kiko stands nearby and notices with a curious tilt of her head. Flower Hill Home Cluster Zone — soft pastel dome homes, flower-covered hills, gentle evening light, warm golden-to-blue dusk sky. Medium, 50mm, static, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
-The Pompom Hills background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
+The Flower Hill background is locked from the first frame; keep all visible dome homes, flower fences, paths and environment elements stable throughout the shot.
 ```
 
 ---
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in the previous shot reference.
-
-No camera movement is allowed until the opening frame continues seamlessly from the previous shot reference.
-
-The first visible frame should appear visually identical to the previous shot reference.
-
-Only then may the planned camera movement begin.
-
 Medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
+
+Focus on Mimi's yawn and Kiko's reaction.
 
 ---
 
 ## Dialogue
 
 ```
-Kiko: Mimi, are you sleepy? / Mimi: Yawn... so sleepy...
+Kiko: Mimi, are you sleepy?
+Mimi: Yawn... so sleepy...
 ```
 
 ---
@@ -73,45 +83,34 @@ Kiko: Mimi, are you sleepy? / Mimi: Yawn... so sleepy...
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Mimi yawns again and again. Kiko notices. | Medium, 50mm, static |
-| 5-10 sn | Character interaction | Medium, 50mm, static |
-| 10-15 sn | Key moment | Medium, 50mm, static |
+| 0-3 sn | Mimi stands still, her eyes begin to droop | Medium, 50mm, static |
+| 3-7 sn | Mimi yawns widely — mouth open, ears flop, eyes half-close | Medium, 50mm, static |
+| 7-10 sn | Kiko tilts her head, notices the yawn | Medium, 50mm, static |
+| 10-13 sn | Kiko leans in gently, asks softly | Medium, 50mm, static |
+| 13-15 sn | Mimi nods slowly, another small yawn begins | Medium, 50mm, static |
 
 ---
 
 ## Sound
 
-- Crickets chirping (night)
-- Soft night wind
-- Gentle ambient sounds
+- Soft evening birdsong fading
+- Gentle breeze through flowers
+- Mimi's soft yawn sound
+- Warm ambient evening tone
 
 ---
 
 ## Lighting
 
-Warm moonlight or soft daylight.
+Soft golden evening light fading into blue dusk.
 
-Soft, gentle glow.
-
----
+Warm, gentle, low contrast. No harsh shadows.
 
 ---
-
-## Reference Usage
-
-This is the FIRST shot. No previous shot reference.
-
-The reference images are supplied by the production workflow:
-
-- World Reference: The established environment for this episode
-- Character Reference: The character sheet for the lead character in this shot
-
-These references should not be hardcoded into this document.
-They are loaded into OpenArt at production time.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, night sky with stars, moonlight, harsh contrast
 
 ## QA Checklist
 
@@ -122,29 +121,22 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Object persistence verified
 - [ ] No rendering artefacts
 - [ ] Camera consistency verified
-- [ ] Lighting consistency verified
+- [ ] Lighting consistency verified (warm evening dusk)
 - [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
+- [ ] Background objects visible in the first frame remain stable
+- [ ] No background object disappears or is replaced
+- [ ] Environment is not reinterpreted during the shot
+- [ ] No background object morphing
+- [ ] No new environment elements appear
+- [ ] Same physical location is preserved throughout the shot
+- [ ] Characters do not suddenly appear fully centered after the empty opening.
+- [ ] Characters are introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ## Opening Hook
 
-The first 3-5 seconds should immediately create curiosity.
-Avoid slow introductions. Begin with an interesting visual, a surprising action, a curious question, or an emotional expression.
-
-Examples:
-- Can you hear that?
-- Look what I found!
-- Do you know where stars sleep?
-- What is hiding over there?
+The first 3-5 seconds should immediately create curiosity through Mimi's big yawn — a visually expressive, relatable moment that signals the story is about sleepiness.
 
 ## Scale
 
-Characters should feel small and childlike within the environment, but must remain readable for facial expression and action.
-
-Use wide framing for environment identity and medium framing for emotional beats.
+Characters should feel small and childlike within the Flower Hill environment, but must remain readable for facial expression and action.

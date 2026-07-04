@@ -17,26 +17,26 @@
 
 ## Continuity
 
-This is the FIRST shot of the episode.
+This is the first story shot of the episode. It begins after the optional Central Square
+Friends Micro-Opening pre-roll (a reusable world asset, not a story shot).
 
-No previous shot reference.
+Use the approved Central Square Friends Micro-Opening final frame as `@image1` for
+environment continuity only. Do not copy `@image1` as an empty frame. Noah and Arda must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Central Square Shot 01: Noah and/or Arda may be partially visible at the edge of the first story frame on a clear rounded path, or entering through a visible rounded path (Method C or B). Do not have characters pop into the center of Central Square.
+
+Apply all Pompom Hills Visual Continuity Rules.
 
 ---
 
 ## Start Frame
 
-This is the FIRST shot. No previous shot reference.
+This is the first story shot. Noah and Arda are introduced naturally after the empty Central Square Friends Micro-Opening. Characters may be partially visible at the edge of the first story frame on a clear rounded path, or entering through a fully visible path (Method C or B from the Character Introduction After Empty Opening Rule).
 
-Use the approved still image for this shot as the exact first frame.
+The first story frame should still preserve the opening environment, but characters should not suddenly appear centered in the scene. Preserve the Central Square environment, warm morning daylight, camera height, Big Pompom Tree position, rounded paths and character proportions from `@image1`.
 
-Maintain:
-- Character appearance
-- Central Square environment
-- Morning lighting
-- Camera composition
-- Character proportions
-
-Do not redesign the environment.
+The first 1 second should visually hold close to @image1 before new action begins.
+For Shot 01, this applies to the Central Square environment continuity; character entrances should feel natural and continuous, not like a pop-in.
 
 ---
 
@@ -161,6 +161,9 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Characters do not suddenly appear fully centered after the empty opening.
+- [ ] Characters are introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ## Opening Hook
 

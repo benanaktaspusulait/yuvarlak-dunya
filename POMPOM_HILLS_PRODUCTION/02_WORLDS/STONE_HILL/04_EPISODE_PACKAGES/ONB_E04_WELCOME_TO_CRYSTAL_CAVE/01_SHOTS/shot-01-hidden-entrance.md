@@ -26,6 +26,16 @@ The Stone Hill entrance area (SH-STONES-01 rounded pastel stones, existing flowe
 
 ---
 
+## Continuity
+
+This is the first story shot of the episode. It begins after the optional Stone Hill
+Adventures Micro-Opening pre-roll (a reusable world asset, not a story shot).
+
+Use the approved Stone Hill Adventures Micro-Opening final frame as `@image1` for
+environment continuity only. This is an environment-only shot — no characters appear. The environment must match the micro-opening set.
+
+---
+
 ## Visual Prompt (CONCEPT — pending Hero View)
 
 ```text

@@ -17,9 +17,11 @@
 
 ## Continuity
 
-This is the FIRST shot of the episode.
+This is the first shot of the episode. No previous shot reference.
 
-No previous shot reference.
+If this episode uses a world micro-opening, the first character must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Characters must not suddenly appear in the middle of the frame. Use camera reveal (Method A), visible character entrance (Method B), or first frame character already partially visible (Method C).
 
 ---
 
@@ -160,6 +162,9 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Characters do not suddenly appear fully centered after the opening.
+- [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ## Opening Hook
 

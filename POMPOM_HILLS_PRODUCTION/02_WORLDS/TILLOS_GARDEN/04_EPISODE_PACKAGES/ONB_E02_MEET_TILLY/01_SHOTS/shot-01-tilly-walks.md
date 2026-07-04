@@ -22,6 +22,14 @@ Maintain all visible background objects throughout the entire video. The round f
 
 ---
 
+## Continuity
+
+This is the first story shot of the episode. Tilly must be introduced naturally, not suddenly appear in the middle of the frame.
+
+Preferred approach for Tillo's Garden Shot 01: Tilly may be partially visible at the edge of the first story frame walking along the stone path (Method C), or Tilly enters through the visible stone path (Method B). Do not have Tilly pop into the center of Tillo's Garden.
+
+---
+
 ## Visual Prompt
 
 ```text
@@ -139,6 +147,9 @@ Reference: `16_VIDEO_QA_SPEC.md`
 - [ ] Background objects visible in the first frame remain stable.
 - [ ] No background object disappears or is replaced.
 - [ ] Environment is not reinterpreted during the shot.
+- [ ] Tilly does not suddenly appear fully centered in the frame.
+- [ ] Tilly is introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ---
 

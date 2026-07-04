@@ -31,9 +31,13 @@ Begin with an interesting visual — two children already in frame, noticing som
 
 ## Continuity
 
-This is the first shot of the episode.
+This is the first story shot of the episode. It begins after the optional Central Square
+Friends Micro-Opening pre-roll (a reusable world asset, not a story shot).
 
-Continuity reference: approved original Shot 01 still as the Episode Colour Master.
+Use the approved Central Square Friends Micro-Opening final frame as `@image1` for
+environment continuity only. Do not copy `@image1` as an empty frame. Luca and Noah must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Central Square Shot 01: Luca and Noah may be partially visible at the edge of the first story frame on a clear rounded path, or entering through a visible rounded path (Method C or B). Do not have characters pop into the center of Central Square.
 
 Maintain:
 - Luca and Noah character identity
@@ -230,3 +234,6 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Characters do not suddenly appear fully centered after the empty opening.
+- [ ] Characters are introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.

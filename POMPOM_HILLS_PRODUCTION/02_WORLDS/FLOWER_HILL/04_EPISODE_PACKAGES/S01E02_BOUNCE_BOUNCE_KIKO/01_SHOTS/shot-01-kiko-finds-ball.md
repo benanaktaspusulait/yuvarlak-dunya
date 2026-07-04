@@ -22,6 +22,18 @@ Use `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/hero-view.png` a
 
 ---
 
+## Continuity
+
+This is the first story shot of the episode. It begins after the optional Flower Hill
+Friends Micro-Opening pre-roll (a reusable world asset, not a story shot).
+
+Use the approved Flower Hill Friends Micro-Opening final frame as `@image1` for
+environment continuity only. Kiko must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Flower Hill Shot 01: Kiko may be partially visible at the edge of the first story frame on a visible path, or entering through a visible garden path (Method C or B). Do not have Kiko pop into the center of Flower Hill.
+
+---
+
 ## Background Object Lock
 
 The background is locked from the first frame of this shot.
@@ -141,6 +153,9 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Kiko does not suddenly appear fully centered after the empty opening.
+- [ ] Kiko is introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ## Opening Hook
 

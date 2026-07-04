@@ -30,9 +30,18 @@ This should feel like two children discovering something in the world, not the b
 
 ## Continuity
 
-This is the first shot of the episode.
+This is the first story shot of the episode. It begins after the optional Cloud Hill
+Moments Micro-Opening pre-roll (a reusable world asset, not a story shot).
 
-No previous shot reference.
+Use the approved Cloud Hill Moments Micro-Opening final frame as `@image1` for
+environment continuity only. Luca and Mimi must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Cloud Hill Shot 01: Use one of these options:
+- Option A: Camera gently turns/settles from the opening final frame to reveal Luca and Mimi already on the hill.
+- Option B: Luca and Mimi enter from a visible grassy path.
+- Option C: Luca and Mimi are partially visible at the edge of the first story frame and continue naturally into the scene.
+
+Do not let characters pop into the middle of the frame. Do not let characters enter from behind clouds, bushes or foreground objects.
 
 Use the approved first-frame still for this shot.
 
@@ -228,6 +237,9 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Characters do not suddenly appear fully centered after the empty opening.
+- [ ] Characters are introduced by camera reveal, visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ## Scale
 

@@ -174,7 +174,7 @@ pitch, timbre, warmth, pronunciation, accent and recording quality.
 ## Dialogue
 
 ```text
-Mimi: Blue!
+Mimi: I see blue!
 Kiko: A blue bench!
 ```
 
@@ -184,7 +184,7 @@ Kiko: A blue bench!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | First second holds near Shot 02 frame; Mimi spots the bench | Medium-wide |
+| 0-5 sn | First second holds near Shot 02 frame; Mimi sees blue on the bench | Medium-wide |
 | 5-10 sn | Mimi points gently toward the blue bench | Stable |
 | 10-15 sn | Kiko names the blue bench | Medium-wide hold |
 

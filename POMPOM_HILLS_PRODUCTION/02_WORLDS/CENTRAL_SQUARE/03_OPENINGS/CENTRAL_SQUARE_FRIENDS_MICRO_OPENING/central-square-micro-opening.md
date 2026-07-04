@@ -44,6 +44,10 @@ set, pastel blue bench, yellow flower planter, small soft purple bunting or
 flags visible as a subtle fixed set detail, low pastel houses only at the far
 edge of the square, warm morning daylight.
 
+No readable text, no gibberish text, no signposts with writing, no fake signs,
+no rainbow, no literal rainbow, no magical rainbow, no glow beam, no sparkles,
+no fantasy sky effects.
+
 These colour objects (red, blue, yellow, green and purple anchors) are stable
 physical set pieces from the first frame onward. They are not optional and must
 not be described as conditional on composition. Keep them small, pastel and
@@ -52,7 +56,9 @@ preschool-safe so the shot does not feel crowded.
 ## Motion
 
 A single very slow camera glide or soft push-in. The movement should feel like
-entering the square gently, not like a trailer or title sequence.
+entering the square gently, not like a trailer or title sequence. The
+composition must be a clean, stable, reusable continuity frame — not a
+poster-like showcase image, not a hero collage, not a promotional image.
 
 ## Mood
 
@@ -149,7 +155,7 @@ This is an empty environment shot with no characters. Negative terms are limited
 object/background stability; character-disappearance terms are not relevant here and
 are intentionally omitted (they remain in the story shot files).
 
-low quality, blurry, deformed, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, new objects appearing, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, path redesign, stepping-stone ring redesign, Big Pompom Tree shifting, tree position shift, bench position shift, planter position shift, bush position shift
+low quality, blurry, deformed, text, readable text, gibberish text, sign text, signpost with writing, fake signs, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, new objects appearing, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond, rainbow, magical rainbow, glow beam, sparkles, fantasy sky effects, dramatic poster composition, cluttered environment, oversized foreground house, dominant house, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, path redesign, stepping-stone ring redesign, Big Pompom Tree shifting, tree position shift, bench position shift, planter position shift, bush position shift
 
 ## Reject The Generation If
 
@@ -163,6 +169,11 @@ low quality, blurry, deformed, text, readable text, watermark, logo, title card,
 - Lighting or colour grading changes.
 - Any character appears.
 - Text, logo, captions, subtitles, signs, roads, cars, shops, fountains, water features, crowds or extra characters appear.
+- Any sign with readable or gibberish text appears.
+- A rainbow appears in the sky.
+- Purple bunting or flags are missing.
+- Houses dominate the frame or are too large.
+- Composition looks like a poster or showcase rather than a clean continuity frame.
 
 ## Approval Checklist
 
@@ -188,4 +199,9 @@ low quality, blurry, deformed, text, readable text, watermark, logo, title card,
 - [ ] Warm morning daylight only.
 - [ ] Camera movement is slow and stable.
 - [ ] No roads, cars, shops, readable signs, fountain or water feature appear.
+- [ ] No signs with readable or gibberish text.
+- [ ] No rainbow in the sky.
+- [ ] Purple bunting / flags visible as a seeded colour anchor.
+- [ ] Houses remain small and far edge only, not visually dominant.
+- [ ] Frame feels clean and reusable for continuity, not poster-like.
 - [ ] Final frame can cut naturally into Shot 01.

@@ -113,13 +113,15 @@ or redesign the square to include everything.
 ## Visual Prompt
 
 ```text
-Kiko and Mimi already together in the same Central Square area, standing warmly near the Big Pompom Tree and seeing the existing colours around the square as a soft rainbow-like feeling: red detail, blue bench, yellow flowers, green grass and purple flags all in the same stable set, warm morning daylight, peaceful final shared moment, no other characters, {style} {camera} {lighting}
+Kiko and Mimi already together in the same Central Square area, standing warmly near the Big Pompom Tree and feeling that the colours they found belong together in Central Square, warm morning daylight, peaceful final shared moment, no other characters, {style} {camera} {lighting}
 
 Use @image1 as the starting continuity frame from Shot 07.
 
-Preserve Kiko, Mimi, the same Central Square layout, Big Pompom Tree, rounded paths, stepping-stone ring, visible colour objects, camera position, lighting and Episode Colour Master from @image1.
+Preserve Kiko, Mimi, the same Central Square layout, Big Pompom Tree, rounded paths, stepping-stone ring, camera position, lighting and Episode Colour Master from @image1.
 
-Do not generate a literal rainbow beam, magical rainbow, glow effects, sparkles, portal, light beam or fantasy magic. Prefer a warm colour composition using the existing objects in the square. A very subtle rainbow-like feeling is allowed only if it stays soft, non-magical and does not redesign the sky or environment.
+The rainbow-like feeling must come from the seeded and preserved Central Square colour anchors, not from new objects, magic, glow, sky redesign, or literal rainbow beams. It is not required to show every colour object clearly in one frame. If some colour anchors are off-screen, Kiko and Mimi may remember them through a calm shared reaction. Do not pan, reset, rearrange objects, or redesign the square to include everything.
+
+Do not generate a literal rainbow beam, magical rainbow, glow effects, sparkles, portal, light beam or fantasy magic. Prefer a warm emotional colour-composition feeling using the existing Central Square mood.
 
 Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
 
@@ -146,9 +148,11 @@ objects and Episode Colour Master.
 Begin from the Shot 07 continuity frame with no camera reset. The first 1 second should visually hold close to @image1 before new action begins. After that, the final shared
 colour moment begins.
 
-Use a gentle medium-wide frame with both characters and the same Central Square colour
-objects visible. Allow a very slow peaceful settle or tiny pull-back that stays inside
-the existing set.
+Use a gentle medium-wide frame with both characters visible and the same Central Square
+set readable. Visible colour anchors may remain visible if they are already naturally in
+frame, but do not force every colour object into the shot. It is better to preserve
+continuity than to include every colour anchor in the final frame. Allow a very slow
+peaceful settle or tiny pull-back that stays inside the existing set.
 
 The final 2 seconds are silent and warm. No extra dialogue after the final line. No
 logo, no title card, no captions, no subtitles, no subscribe graphics and no end-card
@@ -186,7 +190,7 @@ pitch, timbre, warmth, pronunciation, accent and recording quality.
 ## Dialogue
 
 ```text
-Kiko: All colours together.
+Kiko: All our colours together.
 Mimi: In Central Square!
 ```
 
@@ -200,7 +204,7 @@ No extra dialogue after Mimi's final line.
 |---|---|---|
 | 0-5 sn | First second holds near Shot 07 frame; Kiko and Mimi stand together | Medium-wide |
 | 5-9 sn | They look around at the existing colours in the square | Gentle settle |
-| 9-13 sn | Final lines: all colours together in Central Square | Medium-wide |
+| 9-13 sn | Final lines: all their colours together in Central Square | Medium-wide |
 | 13-15 sn | Silent warm final hold | Quiet hold |
 
 ---

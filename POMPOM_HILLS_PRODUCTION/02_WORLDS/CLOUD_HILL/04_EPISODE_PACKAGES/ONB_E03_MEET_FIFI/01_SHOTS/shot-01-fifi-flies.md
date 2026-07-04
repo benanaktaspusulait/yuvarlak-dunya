@@ -22,6 +22,18 @@ Maintain all visible background objects throughout the entire video. The hill si
 
 ---
 
+## Continuity
+
+This is the first story shot of the episode. It begins after the optional Cloud Hill
+Moments Micro-Opening pre-roll (a reusable world asset, not a story shot).
+
+Use the approved Cloud Hill Moments Micro-Opening final frame as `@image1` for
+environment continuity only. Fifi must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Cloud Hill Shot 01: Fifi may already be partially visible flying at the edge of the frame (Method C), or the camera gently reveals Fifi in flight (Method A). Do not have Fifi pop into the center of Cloud Hill.
+
+---
+
 ## Visual Prompt
 
 ```text
@@ -140,6 +152,9 @@ Reference: `16_VIDEO_QA_SPEC.md`
 - [ ] Sky ratio verified at 60-65%.
 - [ ] Cloud count verified at 2-3, white and rounded.
 - [ ] Canonical rules followed.
+- [ ] Fifi does not suddenly appear fully centered after the empty opening.
+- [ ] Fifi is introduced by camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ---
 

@@ -173,8 +173,8 @@ pitch, timbre, warmth, pronunciation, accent and recording quality.
 ## Dialogue
 
 ```text
-Kiko: Red, blue, yellow...
-Mimi: Green and purple!
+Kiko: We found red, blue, yellow...
+Mimi: Green and purple too!
 ```
 
 ---
@@ -183,7 +183,7 @@ Mimi: Green and purple!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | First second holds near Shot 06 frame; Kiko starts remembering | Medium-wide |
+| 0-5 sn | First second holds near Shot 06 frame; Kiko remembers the colours they found together | Medium-wide |
 | 5-10 sn | Kiko points gently across the same square | Stable |
 | 10-15 sn | Mimi adds the last colours with a smile | Medium-wide hold |
 

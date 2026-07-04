@@ -48,7 +48,7 @@ Create a very slow, stable camera glide or soft push-in moving gently toward the
 
 The Big Pompom Tree leaves may rustle very slightly. Grass may move very slightly in a soft breeze.
 
-No characters appear. No story action. No reveal. No readable text. No logo. No title card. No captions. No subtitles. No traffic. No cars. No roads. No shops with readable signs. No crowd. No fountain. No water feature. No bridge. No river. No pond. No modern city.
+No characters appear. No story action. No reveal. No readable text. No gibberish text. No sign text. No signposts with writing. No fake signs. No logo. No title card. No captions. No subtitles. No traffic. No cars. No roads. No shops with readable signs. No crowd. No fountain. No water feature. No bridge. No river. No pond. No modern city. No rainbow. No magical rainbow. No glow beam. No sparkles. No fantasy sky effects.
 
 Camera: extremely slow, stable, child-eye-level, 28-35mm, no fast zoom, no shake, no whip pan. Camera movement must not cause tree position shift, bench position shift, planter position shift, bush position shift, path redesign, stepping-stone ring redesign, background morphing, new objects appearing or objects disappearing.
 
@@ -64,7 +64,7 @@ object/background stability; character-disappearance terms are not relevant here
 are intentionally omitted (they remain in the story shot files).
 
 ```text
-low quality, blurry, deformed, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, new objects appearing, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, path redesign, stepping-stone ring redesign, Big Pompom Tree shifting, tree position shift, bench position shift, planter position shift, bush position shift
+low quality, blurry, deformed, text, readable text, gibberish text, sign text, signpost with writing, fake signs, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, new objects appearing, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond, rainbow, magical rainbow, glow beam, sparkles, fantasy sky effects, dramatic poster composition, cluttered environment, oversized foreground house, dominant house, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, path redesign, stepping-stone ring redesign, Big Pompom Tree shifting, tree position shift, bench position shift, planter position shift, bush position shift
 ```
 
 ## OpenArt Settings
@@ -89,6 +89,11 @@ Accept if:
 - no characters
 - no text, logo, title card, captions or subtitles
 - no roads, cars, traffic, shops, crowd, fountain or water feature
+- no signs with readable or gibberish text
+- no rainbow in the sky
+- purple bunting / flags visible as a seeded colour anchor
+- houses remain small and far edge only, not visually dominant
+- frame feels clean and reusable for continuity, not poster-like
 - final frame can cut naturally into Shot 01
 
 Reject if:
@@ -115,6 +120,11 @@ Reject if:
 - Lighting or colour grading changes.
 - Any character appears.
 - Text, logo, captions, subtitles, signs, roads, cars, shops, fountains, water features, crowds or extra characters appear.
+- Any sign with readable or gibberish text appears.
+- A rainbow appears in the sky.
+- Purple bunting or flags are missing.
+- Houses dominate the frame or are too large.
+- Composition looks like a poster or showcase rather than a clean continuity frame.
 
 ## Save As
 

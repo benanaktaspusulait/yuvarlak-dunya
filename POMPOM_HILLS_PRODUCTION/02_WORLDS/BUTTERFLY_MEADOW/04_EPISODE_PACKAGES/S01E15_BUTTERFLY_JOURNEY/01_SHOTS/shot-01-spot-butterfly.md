@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | S01E15 — Butterfly Journey |
-| Shot | 01 / 04 |
+| Shot | 01 / 12 |
 | Duration | 15 seconds |
 | Location | Butterfly Meadow |
 | Characters | Luca, Kiko |
@@ -17,26 +17,11 @@
 
 ## Continuity
 
-This is the FIRST shot of the episode.
+This is the first shot of the episode. No previous shot reference.
 
-No previous shot reference.
+If this episode uses a world micro-opening, the first character must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
 
----
-
-## Start Frame
-
-This is the FIRST shot. No previous shot reference.
-
-Use the approved still image for this shot as the exact first frame.
-
-Maintain:
-- Character appearance
-- Butterfly Meadow environment
-- Sunny lighting
-- Camera composition
-- Character proportions
-
-Do not redesign the environment.
+Characters must not suddenly appear in the middle of the frame. Use camera reveal (Method A), visible character entrance (Method B), or first frame character already partially visible (Method C).
 
 ---
 
@@ -47,15 +32,6 @@ The background is locked from the first frame of this shot.
 Maintain all visible background objects throughout the entire video.
 
 Do not remove, replace, repaint or transform any visible background object.
-
-If a tree is visible, it remains the same tree.
-If a path is visible, it remains the same path.
-If a bush is visible, it remains the same bush.
-If a house is visible, it remains the same house.
-If a landmark is visible, it remains in the same relative position.
-
-Do not introduce new trees or remove existing background objects.
-Do not reinterpret the environment during the shot.
 
 Only the main characters and any props may move unless camera movement naturally changes what is visible.
 
@@ -71,23 +47,7 @@ The Butterfly Meadow background is locked from the first frame; keep all visible
 
 ---
 
-## Reference Usage
-
-This is the FIRST shot. No previous shot reference.
-
-The reference image is supplied by the production workflow and should not be hardcoded into this document.
-
----
-
 ## Camera Direction
-
-The shot must begin from the identical camera position shown in the previous shot reference.
-
-No camera movement is allowed until the opening frame continues seamlessly from the previous shot reference.
-
-The first visible frame should appear visually identical to the previous shot reference.
-
-Only then may the planned camera movement begin.
 
 Begin with a static 35mm wide cinematic shot of Butterfly Meadow.
 
@@ -101,16 +61,13 @@ End on a medium shot of both pointing at it.
 
 Camera movement must remain slow, stable and natural.
 
-Bright sunny light throughout.
-
-Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
-
 ---
 
 ## Dialogue
 
 ```
 Luca: Look, a butterfly!
+Kiko: So pretty!
 ```
 
 ---
@@ -119,17 +76,20 @@ Luca: Look, a butterfly!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Wide shot of meadow, flowers | Wide establishing |
-| 5-10 sn | Butterfly enters, Luca spots it | Medium |
-| 10-15 sn | Luca points, Kiko looks | Medium |
+| 0-3 sn | Wide shot of meadow, flowers swaying gently | Wide establishing |
+| 3-7 sn | Luca and Kiko walk among flowers | Wide, gentle follow |
+| 7-10 sn | Butterfly enters frame — colorful wings | Medium, gentle pan |
+| 10-13 sn | Luca points. Kiko looks. Eyes wide. | Medium |
+| 13-15 sn | Butterfly flutters ahead. They look at each other. | Medium |
 
 ---
 
 ## Sound
 
 - Birds singing
-- Soft breeze
-- Wing flutter
+- Soft breeze through flowers
+- Wing flutter sound
+- Warm ambient morning tone
 
 ---
 
@@ -137,9 +97,7 @@ Luca: Look, a butterfly!
 
 Bright sunny day.
 
-Vibrant colors.
-
-Soft shadows.
+Vibrant colors. Soft shadows.
 
 ---
 
@@ -149,8 +107,6 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
-
 - [ ] Character integrity verified
 - [ ] Character consistency verified
 - [ ] Object persistence verified
@@ -158,27 +114,11 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified
 - [ ] Lighting consistency verified
 - [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
+- [ ] Background objects stable throughout shot
+- [ ] Characters do not suddenly appear fully centered after the opening.
+- [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] No character pop-in occurs after the opening.
 
 ## Opening Hook
 
-The first 3-5 seconds should immediately create curiosity.
-Avoid slow introductions. Begin with an interesting visual, a surprising action, a curious question, or an emotional expression.
-
-Examples:
-- Can you hear that?
-- Look what I found!
-- Do you know where stars sleep?
-- What is hiding over there?
-
-## Scale
-
-Characters should feel small and childlike within the environment, but must remain readable for facial expression and action.
-
-Use wide framing for environment identity and medium framing for emotional beats.
+First 3-5 seconds: the butterfly flies into frame — an immediate visual surprise that creates curiosity.
