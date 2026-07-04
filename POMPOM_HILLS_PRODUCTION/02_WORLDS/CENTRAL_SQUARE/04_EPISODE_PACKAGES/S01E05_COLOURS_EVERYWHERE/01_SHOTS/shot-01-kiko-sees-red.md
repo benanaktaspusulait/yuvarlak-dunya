@@ -48,8 +48,8 @@ feature, modern city, dark lighting, night sky, stars or moonlight.
 - Big Pompom Tree remains the main background landmark.
 - Coloured stepping-stone ring remains around the tree.
 - Rounded Central Square paths stay in the same layout.
-- Kiko starts near the same red rounded flower planter or red bunting detail already
-  visible in the square.
+- Kiko starts near the same red rounded flower planter or red bunting detail, seeded
+  in the Central Square Friends Micro-Opening and already visible in the square.
 - Warm morning light stays consistent.
 - No other characters appear in this shot.
 
@@ -221,7 +221,7 @@ intra-shot character disappearance, character disappearing within the same shot,
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
+Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 
 - [ ] Kiko identity preserved.
 - [ ] Central Square identity preserved.
@@ -230,13 +230,23 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Shot 01 creates a new story first frame with Kiko already visible.
 - [ ] Shot 01 approved still becomes the Episode Colour Master.
 - [ ] Big Pompom Tree remains stable.
-- [ ] Red object is part of the same Central Square set.
+- [ ] Red object is part of the same Central Square set seeded in the Central Square Friends Micro-Opening.
 - [ ] No other characters appear.
 - [ ] No on-screen text, captions, logo or title card.
 - [ ] Warm morning daylight only.
 - [ ] No roads, cars, shops, fountains, water features or alternate location.
 - [ ] Background objects visible in the first frame remain stable.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] No character disappears inside the same shot.
+- [ ] No character reappears from a different side inside the same shot.
+- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
+- [ ] No occlusion is used as a transition.
+- [ ] Character path remains continuously visible and physically possible.
+- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
+- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
+- [ ] No object changes identity, duplicates, disappears or shifts side.
+- [ ] Camera movement does not hide a character or regenerate the environment.
+- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
 
 ## Scale
 

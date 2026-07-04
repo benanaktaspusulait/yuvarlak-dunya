@@ -8,10 +8,11 @@ File: POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/
 Version: 3.1
 Location: PomPom Hills merkezi
 Type: Exterior World
-Status: Design
+Status: Production Ready
 Bible: ✅
-Hero View: ❌
-World Spec: ❌
+Hero View: ✅
+World Spec: ✅
+Opening Micro-Opening: ✅
 ```
 
 ## Overview

@@ -36,7 +36,9 @@ background morphing, new objects appearing or objects disappearing.
 
 Use this image as the first frame for a 4-second Central Square Friends Micro-Opening.
 
-Keep the same natural Central Square environment from the reference image: Big Pompom Tree centered as the main landmark, rounded paths, coloured stepping-stone ring, soft carpet-like grass, red rounded planter or red bunting accent, pastel blue bench, yellow flower planter, small purple bunting or flags if composition allows, low pastel houses only at the far edge of the square, and warm morning daylight.
+Keep the same natural Central Square environment from the reference image: Big Pompom Tree centered as the main landmark, rounded paths, coloured stepping-stone ring, soft carpet-like grass, one visible red rounded planter or one visible red bunting accent fixed in the set, pastel blue bench, yellow flower planter, small soft purple bunting or flags visible as a subtle fixed set detail, low pastel houses only at the far edge of the square, and warm morning daylight.
+
+All colour anchors (red, blue, yellow, green and purple) are stable fixed set pieces, not optional or composition-dependent. They must remain small, pastel and preschool-safe so the frame does not feel crowded.
 
 This is an empty environment shot. No characters appear. Because there are no characters, the main approval focus is object stability.
 
@@ -57,12 +59,12 @@ The final frame should still feel like the same Central Square location and shou
 
 ## Negative Prompt
 
+This is an empty environment shot with no characters. Negative terms are limited to
+object/background stability; character-disappearance terms are not relevant here and
+are intentionally omitted (they remain in the story shot files).
+
 ```text
-low quality, blurry, deformed, extra limbs, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond
-
-teleporting character, disappearing character, character hidden behind bush, character walking through bushes, character clipping through objects, character emerging from opposite side, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, character occluded by foreground plants, walking through flowerbeds, walking through planters, walking through benches
-
-intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
+low quality, blurry, deformed, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, new objects appearing, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, path redesign, stepping-stone ring redesign, Big Pompom Tree shifting, tree position shift, bench position shift, planter position shift, bush position shift
 ```
 
 ## OpenArt Settings
@@ -78,8 +80,11 @@ Accept if:
 - the approved Central Square Friends Micro-Opening frame is preserved
 - Big Pompom Tree remains centered or visually dominant
 - rounded paths and stepping-stone ring remain stable
-- red, blue, yellow and purple Central Square details remain subtle and stable if visible
+- red, blue, yellow, green and purple Central Square colour anchors are all present, subtle, and stable as fixed set details
 - all visible trees, benches, planters, bushes, paths and stepping stones stay fixed
+- Big Pompom Tree does not shift, resize, duplicate or change shape
+- no object appears, disappears, duplicates, morphs or changes identity
+- camera movement does not redesign the set
 - slow stable movement only
 - no characters
 - no text, logo, title card, captions or subtitles

@@ -38,8 +38,8 @@ daylight.
 
 - Same physical Central Square area from Shot 06.
 - Big Pompom Tree remains the main background landmark.
-- Red detail, blue bench, yellow flowers, green grass and purple flags remain part of
-  the same square if visible.
+- Red, blue, yellow, green and purple colour anchors all belong to the same seeded
+  Central Square set. Do not rearrange or newly create them.
 - Kiko and Mimi do not travel to a new location.
 - No new landmark appears.
 
@@ -99,22 +99,26 @@ colour objects across the square, but they must not walk from object to object, 
 objects to show all colours, move the camera into a new square layout, or cross behind
 bushes, plants or benches. Both characters remain visible for the full shot.
 
+It is not required to show every colour object clearly in one frame. It is better to
+preserve continuity than to rearrange the environment. If some colour anchors are
+off-screen, Kiko and Mimi may remember or point gently toward them. Do not pan, reset,
+or redesign the square to include everything.
+
 
 ## Visual Prompt
 
 ```text
-Kiko and Mimi already together in the same Central Square area, gently pointing back across the same visible square to remember the colours they found: red detail, blue bench, yellow flowers, green grass and purple flags, Big Pompom Tree in background, rounded paths and stepping-stone ring stable, warm morning daylight, no other characters, {style} {camera} {lighting}
+Kiko and Mimi already together in the same Central Square area, gently remembering the colours they found in the same seeded Central Square set, Big Pompom Tree in background, rounded paths and stepping-stone ring stable, warm morning daylight, no other characters, {style} {camera} {lighting}
 
 Use @image1 as the starting continuity frame from Shot 06.
 
-Preserve Kiko, Mimi, the same Central Square layout, Big Pompom Tree, rounded paths, stepping-stone ring, visible colour objects, camera position, lighting and Episode Colour Master from @image1.
+Preserve Kiko, Mimi, the same Central Square layout, Big Pompom Tree, rounded paths, stepping-stone ring, camera position, lighting and Episode Colour Master from @image1.
 
-If not all colour objects are visible from the camera angle, characters may point gently across the same square; do not reset the camera or move to a new location.
+The red, blue, yellow, green and purple colour anchors belong to the same seeded Central Square set, but it is not required to show every colour object clearly in this frame. If some anchors are off-screen, Kiko and Mimi may remember or point gently toward them. Do not pan, reset, rearrange objects, or redesign the square to include everything.
 
 Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Central Square background is locked from the first frame; keep all visible benches, trees, paths, flowerbeds, stepping stones, bunting and landmarks stable throughout the shot.
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. The Central Square background is locked from the first frame; keep all visible benches, trees, paths, flowerbeds, stepping stones, bunting and landmarks stable throughout the shot.
 ```
 
 ---
@@ -210,15 +214,25 @@ intra-shot character disappearance, character disappearing within the same shot,
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
+Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 
 - [ ] `@image1` continuity preserved from Shot 06 final frame.
 - [ ] The first 1 second visually holds close to `@image1` before the remembering gesture begins.
 - [ ] Both Kiko and Mimi remain visible and consistent.
-- [ ] The remembered colours belong to the same Central Square set.
+- [ ] The remembered colours (red, blue, yellow, green, purple) all belong to the same seeded Central Square set.
 - [ ] If not all colour objects are visible, characters point gently across the same square without camera reset or new location.
 - [ ] No object rearrangement or environment redesign is used to show colours.
 - [ ] Big Pompom Tree and rounded paths remain stable.
 - [ ] Camera does not reset.
 - [ ] Lighting and Episode Colour Master preserved.
 - [ ] No on-screen text, captions, logo or title card.
+- [ ] No character disappears inside the same shot.
+- [ ] No character reappears from a different side inside the same shot.
+- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
+- [ ] No occlusion is used as a transition.
+- [ ] Character path remains continuously visible and physically possible.
+- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
+- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
+- [ ] No object changes identity, duplicates, disappears or shifts side.
+- [ ] Camera movement does not hide a character or regenerate the environment.
+- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.

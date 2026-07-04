@@ -38,7 +38,9 @@ daylight.
 
 - Same physical Central Square area from Shot 05.
 - Big Pompom Tree remains the main background landmark.
-- Small purple bunting or flags are already established in the visible Central Square set.
+- Small purple bunting or flags were seeded in the Central Square Friends Micro-Opening
+  and preserved through previous continuity frames, already established in the visible
+  Central Square set.
 - Kiko and Mimi remain near the same local path and grass area.
 - No new festival, stage, sign or alternate location appears.
 
@@ -207,14 +209,24 @@ intra-shot character disappearance, character disappearing within the same shot,
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
+Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 
 - [ ] `@image1` continuity preserved from Shot 05 final frame.
 - [ ] The first 1 second visually holds close to `@image1` before the purple flag discovery begins.
 - [ ] Both Kiko and Mimi remain visible and consistent.
-- [ ] Purple bunting or flags are already established in the same Central Square set.
+- [ ] Purple bunting or flags were seeded in the Central Square Friends Micro-Opening and preserved through previous continuity frames.
 - [ ] No signs, readable text, stage, festival crowd or alternate location appears.
 - [ ] Big Pompom Tree and rounded paths remain stable.
 - [ ] Camera does not reset.
 - [ ] Lighting and Episode Colour Master preserved.
 - [ ] No on-screen text, captions, logo or title card.
+- [ ] No character disappears inside the same shot.
+- [ ] No character reappears from a different side inside the same shot.
+- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
+- [ ] No occlusion is used as a transition.
+- [ ] Character path remains continuously visible and physically possible.
+- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
+- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
+- [ ] No object changes identity, duplicates, disappears or shifts side.
+- [ ] Camera movement does not hide a character or regenerate the environment.
+- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.

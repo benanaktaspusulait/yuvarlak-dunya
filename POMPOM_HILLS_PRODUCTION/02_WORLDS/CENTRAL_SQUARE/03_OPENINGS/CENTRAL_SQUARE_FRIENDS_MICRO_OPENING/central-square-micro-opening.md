@@ -39,9 +39,15 @@ None. This is a calm empty Central Square world asset.
 
 Calm Central Square environment only: Big Pompom Tree centered as the main
 landmark, rounded paths, coloured stepping-stone ring, soft carpet-like grass,
-red rounded planter or red bunting accent, pastel blue bench, yellow flower
-planter, small purple bunting or flags if composition allows, low pastel houses
-only at the far edge of the square, warm morning daylight.
+one visible red rounded planter or one visible red bunting accent, fixed in the
+set, pastel blue bench, yellow flower planter, small soft purple bunting or
+flags visible as a subtle fixed set detail, low pastel houses only at the far
+edge of the square, warm morning daylight.
+
+These colour objects (red, blue, yellow, green and purple anchors) are stable
+physical set pieces from the first frame onward. They are not optional and must
+not be described as conditional on composition. Keep them small, pastel and
+preschool-safe so the shot does not feel crowded.
 
 ## Motion
 
@@ -118,14 +124,14 @@ Preferred practical workflow: shot-first.
 ## Visual Prompt
 
 ```text
-Calm empty establishing view of Central Square in Pompom Hills, Big Pompom Tree centered as the main landmark, rounded paths leading through the square, coloured stepping-stone ring around the tree, soft carpet-like green grass, red rounded planter or red bunting accent, pastel blue bench, yellow flower planter, small purple bunting or flags if composition allows, low pastel houses only at the far edge of the square, warm morning daylight, no characters, {style} {camera} {lighting}
+Calm empty establishing view of Central Square in Pompom Hills, Big Pompom Tree centered as the main landmark, rounded paths leading through the square, coloured stepping-stone ring around the tree, soft carpet-like green grass, one visible red rounded planter or one visible red bunting accent fixed in the set, pastel blue bench, yellow flower planter, small soft purple bunting or flags visible as a subtle fixed set detail, low pastel houses only at the far edge of the square, warm morning daylight, no characters, {style} {camera} {lighting}
 
 This is an empty environment shot. No characters appear. Because there are no characters, the main approval focus is object stability.
 
-This is the short story-external Central Square Friends Micro-Opening. Its final frame must lead smoothly into Shot 01 using the same Central Square set and warm morning atmosphere.
+This is the short story-external Central Square Friends Micro-Opening. Its final frame must lead smoothly into Shot 01 using the same Central Square set and warm morning atmosphere. All colour anchors (red, blue, yellow, green, purple) must be seeded here as stable fixed set details so later story shots can rely on them.
 
 Do not display any on-screen text. No title card. No logo. No speech bubbles. No captions. No subtitles. No text.
-The Central Square background is locked; keep the Big Pompom Tree, rounded paths, stepping-stone ring, grass, red accent, blue bench, yellow planter, purple bunting or flags if visible, planters and distant houses stable throughout.
+The Central Square background is locked; keep the Big Pompom Tree, rounded paths, stepping-stone ring, grass, red planter or bunting accent, blue bench, yellow planter, purple bunting or flags, planters and distant houses stable throughout.
 The camera movement must not cause tree position shift, bench position shift, planter position shift, bush position shift, path redesign, stepping-stone ring redesign, background morphing, new objects appearing or objects disappearing.
 ```
 
@@ -139,11 +145,11 @@ No fast zoom. No shake. No whip pan. No reveal of a different place.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond
+This is an empty environment shot with no characters. Negative terms are limited to
+object/background stability; character-disappearance terms are not relevant here and
+are intentionally omitted (they remain in the story shot files).
 
-teleporting character, disappearing character, character hidden behind bush, character walking through bushes, character clipping through objects, character emerging from opposite side, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, character occluded by foreground plants, walking through flowerbeds, walking through planters, walking through benches
-
-intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
+low quality, blurry, deformed, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, new objects appearing, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, path redesign, stepping-stone ring redesign, Big Pompom Tree shifting, tree position shift, bench position shift, planter position shift, bush position shift
 
 ## Reject The Generation If
 
@@ -165,8 +171,20 @@ intra-shot character disappearance, character disappearing within the same shot,
 - [ ] No text, title card, captions or logo appear.
 - [ ] Big Pompom Tree is centered or visually dominant.
 - [ ] Rounded paths and coloured stepping-stone ring remain stable.
-- [ ] Red, blue, yellow and purple Central Square details are included subtly if composition allows.
-- [ ] All visible trees, benches, planters, bushes, paths and stepping stones stay fixed.
+- [ ] One visible red rounded planter or red bunting accent is present as a fixed set detail.
+- [ ] Pastel blue bench is present as a fixed set detail.
+- [ ] Yellow flower planter is present as a fixed set detail.
+- [ ] Small soft purple bunting or flags are visible as a subtle fixed set detail.
+- [ ] Green grass patch and coloured stepping-stone ring are present as fixed set details.
+- [ ] All visible trees stay fixed.
+- [ ] All benches stay fixed.
+- [ ] All planters stay fixed.
+- [ ] All bushes stay fixed.
+- [ ] Rounded paths stay fixed.
+- [ ] Coloured stepping-stone ring stays fixed.
+- [ ] Big Pompom Tree does not shift, resize, duplicate or change shape.
+- [ ] No object appears, disappears, duplicates, morphs or changes identity.
+- [ ] Camera movement does not redesign the set.
 - [ ] Warm morning daylight only.
 - [ ] Camera movement is slow and stable.
 - [ ] No roads, cars, shops, readable signs, fountain or water feature appear.

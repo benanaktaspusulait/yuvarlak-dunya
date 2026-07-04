@@ -101,6 +101,14 @@ side-switching or reappearance from another side. The final frame must be stable
 and end-screen friendly. No magical rainbow beam, redesigned sky, added glow or
 sparkles.
 
+The rainbow-like feeling comes from the seeded and preserved colour anchors, not from
+new objects, magic, glow, sky redesign or literal rainbow beams.
+
+It is not required to show every colour object clearly in one frame. It is better to
+preserve continuity than to rearrange the environment. If some colour anchors are
+off-screen, Kiko and Mimi may remember or point gently toward them. Do not pan, reset,
+or redesign the square to include everything.
+
 
 ## Visual Prompt
 
@@ -222,19 +230,30 @@ intra-shot character disappearance, character disappearing within the same shot,
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
+Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 
 - [ ] `@image1` continuity preserved from Shot 07 final frame.
 - [ ] The first 1 second visually holds close to `@image1` before the final shared colour moment begins.
 - [ ] Both Kiko and Mimi remain visible and consistent.
-- [ ] The rainbow-like feeling comes from existing Central Square colour objects.
+- [ ] The rainbow-like feeling comes from the seeded and preserved colour anchors, not from new objects, magic, glow, sky redesign or literal rainbow beams.
 - [ ] No literal rainbow beam, magical rainbow, glow effects, sparkles, portal, light beam or fantasy magic appears.
 - [ ] No redesigned sky or alternate location appears.
 - [ ] No new landmarks, roads, shops, fountains, water features or crowds appear.
+- [ ] It is not required to show every colour object clearly in one frame; off-screen anchors may be remembered or pointed toward gently without rearranging or redesigning the square.
 - [ ] Final 2 seconds are silent, warm and peaceful.
 - [ ] Final frame is clean and end-screen friendly if natural space is available.
 - [ ] No title card, logo, captions, subscribe graphics or end-card graphics are generated inside the video.
 - [ ] Lighting and Episode Colour Master preserved.
+- [ ] No character disappears inside the same shot.
+- [ ] No character reappears from a different side inside the same shot.
+- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
+- [ ] No occlusion is used as a transition.
+- [ ] Character path remains continuously visible and physically possible.
+- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
+- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
+- [ ] No object changes identity, duplicates, disappears or shifts side.
+- [ ] Camera movement does not hide a character or regenerate the environment.
+- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
 
 ## Stronger Ending
 

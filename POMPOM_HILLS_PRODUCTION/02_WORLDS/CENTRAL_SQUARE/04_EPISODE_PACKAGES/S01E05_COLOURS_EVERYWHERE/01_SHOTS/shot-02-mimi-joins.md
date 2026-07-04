@@ -102,17 +102,26 @@ bushes, planters, benches, tree trunks, houses, walls or foreground plants. Mimi
 not disappear during the entrance, reappear from another side, or cross through the red
 planter, bush, flowerbed or bench. Kiko stays visible and does not change side suddenly.
 
+Mimi's full entrance path must be visible from the first moment she appears until she
+reaches Kiko. Use a wide enough frame to show the complete entrance path. Mimi must not
+enter from behind bushes, benches, planters, tree trunks, houses, walls or foreground
+plants. If a safe visible entrance cannot be maintained, reduce Mimi's movement and
+start her already partially visible on the path instead of hiding her entrance.
+
+Keep Mimi not visible in the first frame if possible, but never allow hidden entrance or
+pop-in.
+
 
 ## Visual Prompt
 
 ```text
-Kiko standing in Central Square near the red detail she noticed, Mimi entering gently from the same visible rounded path, Big Pompom Tree in background, coloured stepping-stone ring and soft green grass stable, warm morning daylight, no other characters, {style} {camera} {lighting}
+Kiko standing in Central Square near the red detail (seeded in the Central Square Friends Micro-Opening) she noticed, Mimi entering gently from the same visible rounded path, Big Pompom Tree in background, coloured stepping-stone ring and soft green grass stable, warm morning daylight, no other characters, {style} {camera} {lighting}
 
 Use @image1 as the starting continuity frame from Shot 01.
 
 Preserve Kiko, the same red detail, the Big Pompom Tree, rounded paths, stepping-stone ring, camera position, lighting and Episode Colour Master from @image1.
 
-Mimi must enter naturally through visible motion from the Central Square path; do not make her appear suddenly or pop into the frame.
+Mimi's full entrance path must be visible from the first moment she appears until she reaches Kiko. Use a wide enough frame to show the complete entrance path. Mimi must not enter from behind bushes, benches, planters, tree trunks, houses, walls or foreground plants. If a safe visible entrance cannot be maintained, reduce Mimi's movement and start her already partially visible on the path instead of hiding her entrance. Keep Mimi not visible in the first frame if possible, but never allow hidden entrance or pop-in.
 
 Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
 
@@ -142,6 +151,13 @@ position and framing before Mimi's entrance becomes noticeable.
 
 The first 1 second should visually hold close to @image1 before new action begins.
 After that, Mimi enters gently from the visible path, and Kiko turns toward her.
+
+Use a wide enough frame to show Mimi's complete entrance path from the first moment she
+appears until she reaches Kiko. Mimi must not enter from behind bushes, benches,
+planters, tree trunks, houses, walls or foreground plants. If a safe visible entrance
+cannot be maintained, reduce Mimi's movement and start her already partially visible on
+the path instead of hiding her entrance. Keep Mimi not visible in the first frame if
+possible, but never allow hidden entrance or pop-in.
 
 Keep movement slow, stable and preschool-friendly. Do not introduce new characters,
 new landmarks, new paths, roads, shops, fountains, water features or a different Central
@@ -219,7 +235,7 @@ intra-shot character disappearance, character disappearing within the same shot,
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
+Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 
 - [ ] Opening frame continues from Shot 01 final continuity frame.
 - [ ] `@image1` continuity preserved from Shot 01 final frame.
@@ -227,12 +243,23 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Kiko remains visible and consistent.
 - [ ] Mimi enters naturally through visible motion from the Central Square path.
 - [ ] Mimi does not pop in or appear suddenly.
+- [ ] Mimi's full entrance path is visible from the first moment she appears until she reaches Kiko.
 - [ ] Central Square layout preserved.
 - [ ] Big Pompom Tree, paths and stepping-stone ring remain stable.
 - [ ] No extra characters appear.
 - [ ] No camera reset or environment redesign.
 - [ ] No on-screen text, captions, logo or title card.
 - [ ] Warm morning daylight and Episode Colour Master preserved.
+- [ ] No character disappears inside the same shot.
+- [ ] No character reappears from a different side inside the same shot.
+- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
+- [ ] No occlusion is used as a transition.
+- [ ] Character path remains continuously visible and physically possible.
+- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
+- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
+- [ ] No object changes identity, duplicates, disappears or shifts side.
+- [ ] Camera movement does not hide a character or regenerate the environment.
+- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
 
 ## Micro Actions
 

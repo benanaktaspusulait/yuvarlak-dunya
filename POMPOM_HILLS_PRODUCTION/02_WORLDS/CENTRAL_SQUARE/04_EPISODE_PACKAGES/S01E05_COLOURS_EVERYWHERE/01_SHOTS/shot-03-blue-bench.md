@@ -38,8 +38,9 @@ ring, soft grass, pastel bench and planters if already visible, warm morning day
 
 - Same physical Central Square area from Shot 02.
 - Big Pompom Tree remains in the background.
-- The soft pastel blue bench is established in the Central Square set and is visible
-  from the current angle or reached with only a tiny natural camera settle.
+- The soft pastel blue bench was seeded in the Central Square Friends Micro-Opening and
+  preserved through Shot 01 and Shot 02 continuity, and is visible from the current
+  angle or reached with only a tiny natural camera settle.
 - Kiko and Mimi remain together near the same rounded path.
 - No new path, landmark, road, shop, fountain or water feature appears.
 
@@ -214,14 +215,24 @@ intra-shot character disappearance, character disappearing within the same shot,
 
 ## QA Checklist
 
-Reference: 16_VIDEO_QA_SPEC.md
+Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 
 - [ ] `@image1` continuity preserved from Shot 02 final frame.
 - [ ] The first 1 second visually holds close to `@image1` before the blue bench discovery begins.
 - [ ] Both Kiko and Mimi remain visible and consistent.
-- [ ] Blue bench is the same pastel blue bench established in the Central Square set.
+- [ ] Blue bench is the same pastel blue bench seeded in the Central Square Friends Micro-Opening and preserved through the previous continuity frames.
 - [ ] No new landmarks, roads, shops, fountains, water features or alternate Central Square area appear.
 - [ ] Big Pompom Tree and rounded paths remain stable.
 - [ ] Camera does not reset.
 - [ ] Lighting and Episode Colour Master preserved.
 - [ ] No on-screen text, captions, logo or title card.
+- [ ] No character disappears inside the same shot.
+- [ ] No character reappears from a different side inside the same shot.
+- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
+- [ ] No occlusion is used as a transition.
+- [ ] Character path remains continuously visible and physically possible.
+- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
+- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
+- [ ] No object changes identity, duplicates, disappears or shifts side.
+- [ ] Camera movement does not hide a character or regenerate the environment.
+- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
