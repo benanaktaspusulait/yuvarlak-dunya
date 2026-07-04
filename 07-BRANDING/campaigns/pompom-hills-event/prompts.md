@@ -4,6 +4,12 @@
 > Bu dosya bir pazarlama/kampanya asset paketidir — production canon (karakter, dünya, senaryo) değildir.
 > Karakter ve dünya kilitleri için tek kaynak: `01-CHARACTERS/`, `00-CORE/WORLD_BIBLE.md`, `07-BRANDING/COLOR_PALETTE_LOCK.md`.
 > Prompt kuralları için tek kaynak: `CONTRIBUTING.md` § Prompt Ekleme Kuralları.
+>
+> **Platform format kuralı:** Bu dosyadaki 5 sahne konsept/kompozisyon seviyesindedir.
+> Her sahne gerçek platforma (Story/Feed/YouTube) yayınlanmadan önce
+> `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SOCIAL_MEDIA_IMAGE_FORMAT_STANDARD.md`'deki
+> per-platform recomposition kuralına uymalıdır — tek görsel üretip üç platforma
+> otomatik crop ile koymak yasaktır.
 
 ---
 
