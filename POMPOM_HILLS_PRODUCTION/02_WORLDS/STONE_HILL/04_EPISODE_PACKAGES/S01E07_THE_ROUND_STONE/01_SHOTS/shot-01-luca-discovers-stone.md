@@ -23,11 +23,16 @@ Adventures Micro-Opening pre-roll (a reusable world asset, not a story shot — 
 and the episode overview's § Optional Pre-Roll).
 
 The story does not depend on the pre-roll, but the visual transition should match its
-approved final frame.
+approved final frame. Luca must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
 
-Use the approved Shot 01 still as the opening frame and Episode Colour Master. Luca is
-already visible in this still, walking slowly along the pebble path; he does not enter
-from off-screen.
+Preferred approach for Stone Hill Shot 01: Luca should not suddenly appear centered after the empty opening. Use one of these options:
+- Option A: Camera gently turns/settles from the opening final frame to reveal Luca already on the pebble path.
+- Option B: Luca enters from the opposite side of the camera through a visible pebble path.
+- Option C: Luca is partially visible at the edge of the first story frame and continues naturally into the scene.
+
+Do not let Luca pop into the middle of the frame. Do not let Luca enter from behind rocks, bushes or foreground objects.
+
+Use the approved Shot 01 still as the opening frame and Episode Colour Master.
 
 Use the approved pre-roll final frame as a soft visual continuity reference for lighting,
 pebble path, rounded stones, moss and warm morning atmosphere. Luca appears in Shot 01;
@@ -52,8 +57,13 @@ generic rocky field.
 ## Start Frame
 
 This is the first story shot. The optional Stone Hill Adventures Micro-Opening pre-roll
-may play immediately before it, but Shot 01 does not depend on the pre-roll as a
-previous-shot reference for character or story continuity.
+may play immediately before it. Luca should be introduced naturally after the empty opening, not suddenly appear centered in the frame.
+
+Preferred structure after empty opening:
+- 0-1 sec: Hold very close to opening final frame.
+- 1-4 sec: Camera gently reveals Luca OR Luca begins entering through visible pebble path.
+- 4-10 sec: Luca performs first story action (walking, noticing stone).
+- 10-15 sec: Dialogue / emotional beat.
 
 This still defines the Episode Colour Master (exposure, brightness, colour temperature,
 saturation, contrast). All later shots must match it.
@@ -89,9 +99,11 @@ slowly if planned.
 ## Visual Prompt
 
 ```text
-Luca from Pompom Hills walking carefully along the soft pebble path on Stone Hill, rounded stone discovery area, smooth round toy-like stones, warm moss patches, gentle slope, he notices a smooth round flat stone, bends down and gently picks it up, curious expression, warm morning daylight, no other characters, {style} {camera} {lighting}
+Luca from Pompom Hills naturally entering or being revealed on the soft pebble path on Stone Hill, rounded stone discovery area, smooth round toy-like stones, warm moss patches, gentle slope, he notices a smooth round flat stone, bends down and gently picks it up, curious expression, warm morning daylight, no other characters, {style} {camera} {lighting}
 
-Use @image1 as the environment continuity reference for lighting, pebble path, rounded stones, moss and warm morning Stone Hill atmosphere, while adding Luca already visible on the pebble path.
+Use @image1 as the environment continuity reference for lighting, pebble path, rounded stones, moss and warm morning Stone Hill atmosphere.
+
+Luca should not suddenly appear centered after the empty opening. Introduce Luca by camera reveal, visible entrance through pebble path, or partial edge reveal (Character Introduction After Empty Opening Rule). The first second should preserve the opening environment.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot.
@@ -130,18 +142,21 @@ into this document.
 ## Camera Direction
 
 This is the first story shot of the episode. It begins after the optional Stone Hill
-Adventures Micro-Opening pre-roll; no previous *story* shot reference exists.
+Adventures Micro-Opening pre-roll.
 
 Match the approved Stone Hill micro-opening final frame in lighting, path feel, rounded
 stones, moss and warm morning atmosphere, while keeping Luca stylized and
 preschool-friendly.
 
 Begin with a soft 35mm wide establishing shot that shows the Stone Hill discovery area.
+The first 1 second should hold close to the opening final frame.
 
-Luca is already visible near the lower-left area of the frame, walking slowly along the
-pebble path among the rounded stones. He does not need a separate entrance; the shot
-opens with him already in view. Within the first 3-5 seconds he notices the smooth round
-flat stone.
+Luca should be introduced naturally, not suddenly appear centered. Options:
+- Camera gently turns/settles to reveal Luca already on the pebble path (Method A)
+- Luca enters from camera-left or camera-right through visible pebble path (Method B)
+- Luca is partially visible at edge of frame and continues entering naturally (Method C)
+
+Within the first 3-5 seconds he notices the smooth round flat stone.
 
 Perform a gentle cinematic push-in as Luca spots the stone.
 
@@ -197,9 +212,10 @@ Luca: Oh! What's this?
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca walks the pebble path, spots stone | Wide establishing |
-| 5-10 sn | Bends down, gently picks up stone | Gentle push-in to medium |
-| 10-15 sn | Examines stone, curious smile | Established composition |
+| 0-1 sn | Hold close to opening final frame | Wide |
+| 1-4 sn | Luca naturally enters or is revealed on pebble path | Gentle reveal/settle |
+| 4-10 sn | Luca walks, spots stone, bends down | Gentle push-in to medium |
+| 10-15 sn | Gently picks up stone, examines, curious smile | Established composition |
 
 ---
 
@@ -242,6 +258,12 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No background object morphing
 - [ ] Round stone prop is child-safe and consistent
 - [ ] Same physical location is preserved throughout the shot
+- [ ] Luca does not suddenly appear centered after the empty opening
+- [ ] Luca is introduced by camera reveal, visible entrance, or partial edge reveal
+- [ ] Luca's entrance path is visible and physically possible
+- [ ] Luca does not enter from behind rocks, bushes or foreground objects
+- [ ] The transition from empty opening to Luca's first appearance feels natural
+- [ ] No character pop-in occurs after the opening
 
 ## Opening Hook
 

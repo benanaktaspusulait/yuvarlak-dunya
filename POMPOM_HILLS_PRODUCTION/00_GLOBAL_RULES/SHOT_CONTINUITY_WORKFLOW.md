@@ -62,6 +62,14 @@ its approved final frame as the environment continuity reference for Shot 01 —
 Episode Colour Master. Shot 01 itself defines the Episode Colour Master once its own still
 is approved.
 
+### Character Introduction After Empty Opening
+When the opening has no characters, Shot 01 must introduce the first character naturally using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule:
+- Camera Reveal (Method A)
+- Visible Character Entrance (Method B)
+- First Frame Character Already Partially Visible (Method C)
+
+Do not allow character pop-in or sudden appearance. The character must not suddenly spawn into the middle of the frame after an empty opening. See the global QA test in `11-DOCS/16_VIDEO_QA_SPEC.md` for rejection criteria.
+
 The micro-opening is not part of the story duration and is not renumbered as `shot-00`
 inside the episode's shot list (see `MICRO_OPENING_AND_CLOSING_STANDARD.md` §2B and the
 S01E07 example at

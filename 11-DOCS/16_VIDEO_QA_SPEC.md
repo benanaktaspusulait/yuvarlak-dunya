@@ -257,6 +257,25 @@ short shot.
 
 ---
 
+## Character Introduction After Empty Opening QA
+
+When the opening has no characters and Shot 01 introduces the first character, QA must check:
+
+- [ ] Opening final frame and Shot 01 first frame feel like the same physical set.
+- [ ] The first character does not suddenly spawn into the middle of the frame.
+- [ ] The character is introduced by camera reveal, visible entrance, or partially visible edge entrance.
+- [ ] If camera reveal is used, the camera movement is slow, stable and does not reset the environment.
+- [ ] If visible entrance is used, the full entrance path is readable and safe.
+- [ ] If partial edge entrance is used, the character is already logically entering, not randomly standing.
+- [ ] Character does not enter from bushes, trees, planters, benches, walls, houses, dense grass or foreground plants.
+- [ ] Character does not pop in.
+- [ ] Character does not teleport.
+- [ ] Character does not appear from a hidden occlusion.
+- [ ] The first 1 second still preserves the opening environment, lighting and layout.
+- [ ] The transition does not feel like an accidental jump cut.
+
+QA must reject Shot 01 if the first character appears suddenly after an empty opening with no visible entrance or camera reveal logic.
+
 ## Global QA Workflow For Generated Shots
 
 For every generated shot:

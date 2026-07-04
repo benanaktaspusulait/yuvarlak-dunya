@@ -560,6 +560,92 @@ unexpectedly, exposure/brightness/contrast/saturation/colour temperature drifts,
 characters appear, or forbidden text/logo/caption/title/subscription/end-card graphics
 appear unless explicitly required by a separate approved asset.
 
+### Character Introduction After Empty Opening Rule
+
+When a reusable world micro-opening has no characters, the first story shot must introduce the first character naturally. A character must not suddenly appear in the first story shot as if spawned into the environment.
+
+After an empty opening, the first character introduction must use one of these approved methods:
+
+#### Approved Method A — Camera Reveal
+The first story shot begins from the opening final frame or very close to it. The camera then moves gently, slowly and naturally to reveal the character who was already logically present just outside the opening composition.
+
+Allowed camera movement:
+- tiny pan
+- tiny tilt
+- slow child-eye-level settle
+- soft push-in with slight reframing
+- gentle reveal from the edge of the same set
+
+Not allowed:
+- camera reset
+- jump cut to a new angle
+- fast pan
+- whip pan
+- sudden zoom
+- reveal of a different location
+- environment redesign
+
+The character must be revealed inside the same physical set, not created in a new layout.
+
+#### Approved Method B — Visible Character Entrance
+The first story shot begins from the opening final frame or very close to it. The character enters through a visible, safe, walkable path. The entrance path must be fully visible from the first moment the character appears.
+
+The character may enter from:
+- visible rounded path
+- visible paving stones
+- visible stepping-stone path
+- clear open walkable area
+- camera-facing side of the same set
+
+The character must not enter from:
+- behind bushes
+- behind trees
+- behind benches
+- behind planters
+- behind houses
+- behind walls
+- dense grass
+- foreground plants
+- hidden off-screen area that causes sudden pop-in
+
+No teleporting. No pop-in. No sudden appearance. No hidden entrance. No character emerging from bushes.
+
+#### Approved Method C — First Frame Character Already Partially Visible
+If OpenArt cannot perform a clean visible entrance, the first story shot may begin with the character already partially visible at the edge of the frame.
+
+This is allowed only if:
+- the character is not fully centered suddenly
+- the character feels like they are entering the scene
+- the character is on a visible walkable path
+- the first second still matches the opening environment
+- the character's movement continues naturally from that position
+
+This is safer than a hidden pop-in.
+
+#### NOT ALLOWED
+Do not start Shot 01 after an empty opening with a fully centered character suddenly standing in the environment unless the story explicitly uses a cutaway or time jump.
+
+For normal world episodes, avoid:
+- character suddenly appearing in the middle of the frame
+- character already standing in a place that was empty in the opening with no camera explanation
+- character popping into frame
+- character materializing after the opening
+- hard cut from empty world to character-centered frame with no entrance logic
+- camera reset that hides the pop-in
+- character entering from behind bushes or foreground objects
+- character being revealed by occlusion
+
+#### Global Generation Standard Update
+For any episode using an empty world micro-opening, Shot 01 must be planned as an entrance/reveal shot. Shot 01 should not simply say "character already visible" unless the character is partially visible at the edge or the shot is clearly designed as a natural reveal.
+
+Preferred Shot 01 structure after empty opening:
+- 0-1 sec: Hold very close to opening final frame.
+- 1-4 sec: Camera gently reveals the character OR character begins entering through visible path.
+- 4-10 sec: Character performs first story action.
+- 10-15 sec: Dialogue / emotional beat / warm hold.
+
+Do not center the character immediately at frame 0 after an empty opening unless the opening final frame already included the character, which normal world micro-openings should not.
+
 ---
 
 ## How to Use This Standard

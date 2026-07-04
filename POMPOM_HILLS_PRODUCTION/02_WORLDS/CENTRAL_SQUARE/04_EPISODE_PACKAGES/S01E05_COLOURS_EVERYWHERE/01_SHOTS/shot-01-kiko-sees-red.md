@@ -21,8 +21,9 @@ This is the first story shot of the episode. It begins after the optional Centra
 Friends Micro-Opening pre-roll (a reusable world asset, not a story shot).
 
 Use the approved Central Square Friends Micro-Opening final frame as `@image1` for
-environment continuity only. Do not copy `@image1` as an empty frame. Generate a new
-story first frame with Kiko already visible in Central Square.
+environment continuity only. Do not copy `@image1` as an empty frame. Kiko must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+
+Preferred approach for Central Square Shot 01: Kiko is partially visible at the edge of the first story frame, already on a clear rounded path, entering the scene naturally (Method C). Alternatively, Kiko may enter through a visible rounded path from camera-left or camera-right (Method B). Do not have Kiko pop into the center of Central Square.
 
 After the Shot 01 still is approved, that approved Kiko-visible still becomes the
 Episode Colour Master for the 120-second story.
@@ -57,16 +58,12 @@ feature, modern city, dark lighting, night sky, stars or moonlight.
 
 ## Start Frame
 
-Kiko is already visible in Central Square in the first story frame. She does not enter
-from off-screen.
+Kiko is introduced naturally after the empty Central Square Friends Micro-Opening. Kiko may be partially visible at the edge of the first story frame on a clear rounded path, or entering through a fully visible path (Method C or B from the Character Introduction After Empty Opening Rule).
 
-Preserve the Central Square environment, warm morning daylight, camera height, Big
-Pompom Tree position, rounded paths and character proportions from `@image1`, while
-adding Kiko as the story subject.
+The first story frame should still preserve the opening environment, but Kiko should not suddenly appear centered in the scene. Preserve the Central Square environment, warm morning daylight, camera height, Big Pompom Tree position, rounded paths and character proportions from `@image1`.
 
 The first 1 second should visually hold close to @image1 before new action begins.
-For Shot 01, this applies to the Central Square environment only; Kiko must already be
-visible and `@image1` must not be copied as an empty frame.
+For Shot 01, this applies to the Central Square environment continuity; Kiko's entrance should feel natural and continuous, not like a pop-in.
 
 ---
 
@@ -109,23 +106,23 @@ These locks are global production gates. Do not restate or weaken them locally. 
 
 ## Shot-Specific Continuity Guard
 
-Kiko must already be visible in the first story frame, standing on a clear rounded path
-or open paved area near the red object. Do not place Kiko inside flowers, bushes,
-planter edges or dense grass. Kiko may point, turn, smile or take one tiny step only.
-Kiko must not walk behind the red planter, bunting, bushes, flowers, tree trunk, bench
-or foreground grass, and she must remain visible from first frame to final frame.
+Kiko must be introduced naturally after the empty opening. Kiko may be partially visible at the edge of the frame on a clear rounded path, or entering through a fully visible path. Kiko should not suddenly appear fully centered after the empty opening. Her entrance path must be visible and physically possible.
+
+Do not place Kiko inside flowers, bushes, planter edges or dense grass. Kiko may point, turn, smile or take one tiny step only. Kiko must not walk behind the red planter, bunting, bushes, flowers, tree trunk, bench or foreground grass, and she must remain visible from first frame to final frame.
+
+Do not have Kiko enter from behind bushes, trees, benches, planters, houses, walls or foreground plants. No character pop-in after the opening.
 
 
 ## Visual Prompt
 
 ```text
-Kiko from Pompom Hills already visible in Central Square, near the Big Pompom Tree and rounded paths, noticing a red rounded flower planter or red bunting detail already part of the square, curious happy expression, warm morning daylight, soft pastel colours, no other characters, {style} {camera} {lighting}
+Kiko from Pompom Hills naturally entering the same Central Square set from a visible rounded path, or already partially visible at the edge of frame as she enters, noticing a red rounded planter or red bunting detail seeded in the Central Square Friends Micro-Opening, Big Pompom Tree and rounded paths preserved, warm morning daylight, soft pastel colours, no other characters, {style} {camera} {lighting}
 
 Use @image1 as the environment continuity reference from the approved Central Square Friends Micro-Opening final frame.
 
 Preserve the Big Pompom Tree, rounded paths, coloured stepping-stone ring, grass, benches, planters, camera position, lighting and Central Square layout from @image1.
 
-Do not copy @image1 as an empty frame. Generate a new story first frame with Kiko already visible in Central Square.
+Kiko is introduced naturally after the empty opening. Do not make Kiko suddenly appear fully centered in the first frame. Introduce Kiko by visible entrance or partial edge reveal only. The first second should preserve the opening environment.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 The Central Square background is locked from the first frame; keep all visible benches, trees, paths, flowerbeds, stepping stones and landmarks stable throughout the shot.
@@ -150,15 +147,13 @@ reference. Shot 01's approved Kiko-visible still becomes the Episode Colour Mast
 ## Camera Direction
 
 Begin with a stable child-eye-level 35mm wide composition inside the same Central Square
-set. Kiko is already in frame, small and readable, noticing the red detail within the
-first 3-5 seconds.
+set. Kiko is introduced naturally, either partially visible at the edge or entering through a visible path, noticing the red detail within the first 3-5 seconds.
 
 The first 1 second should visually hold close to @image1 before new action begins.
-For Shot 01, this applies to the Central Square environment only; Kiko must already be
-visible and `@image1` must not be copied as an empty frame.
+For Shot 01, this applies to the Central Square environment continuity; Kiko's entrance should feel natural and continuous.
 
 Use a gentle settle toward Kiko and the red object. Keep the Big Pompom Tree and rounded
-paths stable. No camera reset, no new location, no new establishing setup.
+paths stable. No camera reset, no new location, no new establishing setup. If using camera reveal (Method A), the camera movement should be slow, stable and natural.
 
 ---
 
@@ -182,8 +177,9 @@ Kiko: Red! I found red!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko is already in Central Square and notices the red detail | Wide |
-| 5-10 sn | Kiko points gently at the red rounded planter or bunting | Gentle settle |
+| 0-1 sn | Hold close to opening final frame | Wide |
+| 1-4 sn | Kiko naturally enters or is revealed, notices the red detail | Gentle reveal/settle |
+| 4-10 sn | Kiko points gently at the red rounded planter or bunting | Stable |
 | 10-15 sn | Kiko smiles and names the colour | Medium-wide hold |
 
 ---
@@ -227,7 +223,12 @@ Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 - [ ] Central Square identity preserved.
 - [ ] `@image1` continuity used as environment reference from the Central Square Friends Micro-Opening final frame.
 - [ ] The first 1 second visually holds close to `@image1` for environment continuity before new action begins.
-- [ ] Shot 01 creates a new story first frame with Kiko already visible.
+- [ ] Kiko does not suddenly appear fully centered after the empty opening.
+- [ ] Kiko is introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
+- [ ] Kiko's entrance path is visible and physically possible.
+- [ ] Kiko does not enter from behind bushes, trees, benches, planters, houses, walls or foreground plants.
+- [ ] The transition from empty opening to Kiko's first appearance feels natural.
+- [ ] No character pop-in occurs after the opening.
 - [ ] Shot 01 approved still becomes the Episode Colour Master.
 - [ ] Big Pompom Tree remains stable.
 - [ ] Red object is part of the same Central Square set seeded in the Central Square Friends Micro-Opening.
