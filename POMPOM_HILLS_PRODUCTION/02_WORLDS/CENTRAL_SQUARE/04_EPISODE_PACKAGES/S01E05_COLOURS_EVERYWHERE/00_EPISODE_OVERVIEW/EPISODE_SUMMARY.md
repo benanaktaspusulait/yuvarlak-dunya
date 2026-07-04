@@ -21,7 +21,7 @@
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
 | Kiko's Home | `environment/03-kikos-home.png` | 01 |
-| Flower Hill — Nature Field Zone | `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/00_CANON/25-flower-hill-bible.md` (legacy reference images: `12-ENVIRONMENT/25-flower-hill/`) | 02-05, 08 |
+| Flower Hill — Nature Field Zone | `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/00_CANON/25-flower-hill-bible.md` (legacy reference images: `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/`) | 02-05, 08 |
 | Rosie's Rose Garden | `environment/13-rosies-rose-garden.png` | 06 |
 | Butterfly Meadow | `environment/17-butterfly-meadow.png` | 07 |
 | Central Square | `environment/01-central-square/hero-view.png` | 09-12 |

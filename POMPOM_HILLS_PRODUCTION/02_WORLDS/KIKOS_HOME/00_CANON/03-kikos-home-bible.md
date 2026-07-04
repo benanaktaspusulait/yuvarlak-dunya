@@ -12,7 +12,7 @@
 
 ```
 Environment ID: ENV-003
-File: 12-ENVIRONMENT/03-kikos-home/
+File: POMPOM_HILLS_PRODUCTION/02_WORLDS/KIKOS_HOME/01_HERO_VIEW/
 Version: 3.2
 Location: Flower Hill — Home Cluster Zone
 Type: Living World

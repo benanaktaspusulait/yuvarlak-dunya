@@ -63,7 +63,7 @@
 Flower Hill **dış mekan** world'üdür — iç mekan ihtiyacı yoktur.
 
 - ✅ Bible mevcut (v3.0)
-- ✅ Hero View image mevcut (`12-ENVIRONMENT/25-flower-hill/hero-view.png`)
+- ✅ Hero View image mevcut (`POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/hero-view.png`)
 - ✅ Audit skoru: 8/10 (Gold standard)
 - ✅ Production Ready durumunda
 

@@ -6,7 +6,7 @@
 
 ```
 Environment ID: ENV-002
-File: 12-ENVIRONMENT/02-cloud-hill/
+File: POMPOM_HILLS_PRODUCTION/02_WORLDS/CLOUD_HILL/01_HERO_VIEW/
 Version: 5.3
 Location: World map position 2 — Pompom Hills kuzey merkezi
 Bible: ✅

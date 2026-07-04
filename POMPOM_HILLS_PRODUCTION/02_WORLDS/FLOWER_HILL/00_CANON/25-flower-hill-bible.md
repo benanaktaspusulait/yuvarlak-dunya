@@ -1,7 +1,7 @@
 # Environment Bible — Flower Hill
 
 > **Version 4.4** — Reference System Update. Wires the approved legacy
-> images at `12-ENVIRONMENT/25-flower-hill/` into the Nature Field Zone /
+> images at `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/` into the Nature Field Zone /
 > Home Cluster Zone system as Visual Quality Anchors. Single Hero View +
 > World Spec pipeline unchanged.
 > Aligned with Cloud Hill production standards.
@@ -14,13 +14,13 @@ Version: 4.4
 Type: Exterior World
 Status: Design / Pending Canon Hero View Approval
 Bible: ✅
-Hero View: 🟡 Legacy images exist (`12-ENVIRONMENT/25-flower-hill/`), Canon Hero View approval pending
+Hero View: 🟡 Legacy images exist (`POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/`), Canon Hero View approval pending
 World Spec: ✅ v4.4
 ```
 
 Flower Hill has approved legacy reference images (`hero-view.png`,
 `left-view.png`, `right-view.png`, `top-view.png`) at
-`12-ENVIRONMENT/25-flower-hill/`. These serve as Visual Quality Anchors per
+`POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/`. These serve as Visual Quality Anchors per
 `GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Quality Anchor Policy — they
 restore charm and richness but do not override this Bible or the World Spec
 on what is canon. Flower Hill is not ready for regular episode production
@@ -340,7 +340,7 @@ Assignment rule of thumb:
 See the copy-ready per-zone prompt blocks in
 `25-flower-hill-world-spec.md` § Zone Shot Prompt Blocks, and the Reference
 Image Policy in the same section for which of the four approved images
-(`12-ENVIRONMENT/25-flower-hill/hero-view.png` /
+(`POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/hero-view.png` /
 `left-view.png` / `right-view.png` / `top-view.png`) to use per shot angle.
 
 ### Iconic Landmark
@@ -1035,7 +1035,7 @@ Flower Hill'i kullanan her gelecek bölüm, Hero View'i ana referans olarak yük
 | 4.1 micro-polish | Pompom Hills yazımı birleştirildi. Varsayılan aydınlatma "warm morning daylight" olarak birleştirildi. Gün batımı/kar/yağmur özel varyant olarak işaretlendi. Hero View'da bağlı evlerin opsiyonel ve ikincil olduğu netleştirildi. | — |
 | 4.2 | Production-depth pass: Visual Identity, Props, genişletilmiş Camera Identity (lens, hareket felsefesi, izin verilen/yasak hareketler, kadraj ve geçiş kuralları), genişletilmiş Lighting Identity (ışık yönü tablosu, yumuşaklık, ambient fill, gölge yoğunluğu, exposure, devamlılık), genişletilmiş Colour Identity (highlight/shadow davranışı), yeni Environmental Sound Identity, yeni World Navigation, yeni View Transition Rules, kategorize edilmiş Consistency Checklist (World/Camera/Lighting/Colour/Scale/Atmosphere/World Recognition), Hero View teknik kurulumu ve kadraj oranları, yeni Scale Reference, yeni Production Summary. Beş renk, pipeline, Hero View QA Checklist ve World Identity değişmedi. | — |
 | 4.3 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section defining Nature Field Zone and Home Cluster Zone as distinct sub-zones, each with its own Iconic Landmark and Allowed Charm Details (by category), plus a shared Forbidden Clutter list, Thumbnail Hook, and Child Recognition Test. Corrects over-simplification where Flower Hill risked being described as only "flowers + path." Single Hero View + World Spec pipeline unchanged. Five-colour identity, S-curve path, and World Identity Lock unchanged. | — |
-| 4.4 | **Reference System Update.** Wired the approved legacy images at `12-ENVIRONMENT/25-flower-hill/` (hero/left/right/top) into the zone system as Visual Quality Anchors (see updated Status block and `25-flower-hill-world-spec.md` § Reference Image Policy). Added `### Shot-Level Location Naming (Required)` under Visual Richness & World Charm, requiring every shot to declare `Flower Hill — Nature Field Zone` / `Flower Hill — Home Cluster Zone` / a transition, with a TODO fallback when unclear. Single Hero View + World Spec pipeline unchanged; does not reopen the multi-reference-pack workflow. | — |
+| 4.4 | **Reference System Update.** Wired the approved legacy images at `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/` (hero/left/right/top) into the zone system as Visual Quality Anchors (see updated Status block and `25-flower-hill-world-spec.md` § Reference Image Policy). Added `### Shot-Level Location Naming (Required)` under Visual Richness & World Charm, requiring every shot to declare `Flower Hill — Nature Field Zone` / `Flower Hill — Home Cluster Zone` / a transition, with a TODO fallback when unclear. Single Hero View + World Spec pipeline unchanged; does not reopen the multi-reference-pack workflow. | — |
 
 ---
 
