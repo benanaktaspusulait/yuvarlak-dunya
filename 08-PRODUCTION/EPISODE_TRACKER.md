@@ -10,7 +10,7 @@
 | S01E02-A | Kiko's Home Tour          | Kiko                             | Kiko's Home (Front Garden → Interior)                                             | 🟢 Üretildi | 4 kısa sahne: 0-4 / 4-14 / 14-22 / 22-24 sn         |
 | S01E02-B | Bounce, Bounce, Kiko!     | Kiko, Mimi, Opa                  | Flower Hill — Home Cluster Zone → Kiko's Home → Butterfly Meadow → Central Square | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
 | S01E03   | The Little Flower         | Kiko, Mimi, Opa                  | Tillo's Garden                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E04   | Mimi's Big Yawn           | Kiko, Mimi                       | Flower Hill — rest spots → tree shade                                             | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E04   | Mimi's Big Yawn           | Kiko, Mimi                       | Flower Hill — rest spots → tree shade                                             | 🟡 Yazıldı  | 8 sahne × 15 sn = 120 sn                            |
 | S01E05   | Colours Everywhere        | Kiko, Mimi                       | Central Square                                                                    | 🟢 Üretildi | 4 sahne × 15 sn = 60 sn + 4 sn micro-opening        |
 | S01E06   | The Soft Wind             | Kiko, Mimi                       | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
 | S01E07   | The Round Stone           | Luca, Kiko                       | Stone Hill                                                                        | 🟢 Üretildi | 6 sahne × 15 sn = 90 sn + 4 sn micro-opening        |
@@ -33,6 +33,22 @@
 | S01E24   | Music Trees               | Noah, Arda                       | Music Hill                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
 | S01E25   | Colorful Flowers          | Sofia, Kiko                      | Painting Garden                                                                   | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
 | S01E26   | Goodbye, See You Soon     | Kiko, Mimi, Opa + tüm arkadaşlar | Central Square                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+
+---
+
+## Opa's Storytime Sub-Series Takibi
+
+> Bu alt-seri normal `S01E##` numaralandırmasına dahil değildir; kendi playlist'iyle
+> takip edilir. Bölüm paketleri world-based klasörlerde mevcut, ancak render edilmiş
+> video export dosyası bulunmadı.
+
+| Story ID           | Başlık                         | Karakter        | Mekan                                           | Durum      | Paket Süresi / Sahne                        | Video Export |
+|--------------------|--------------------------------|-----------------|-------------------------------------------------|------------|---------------------------------------------|--------------|
+| OPA-STORYTIME-EP01 | The Little Cloud That Waited   | Opa, Luca, Mimi | Learning Room — Reading Corner (indoor)         | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP02 | The Little Seed That Listened  | Opa, Kiko, Mimi | Kiko's Home — Reading Corner (indoor)           | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP03 | The Star That Shared Its Light | Opa, Luca, Noah | Opa's Tree (night)                              | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP04 | The Sleepy Leaf                | Opa, Kiko, Noah | Central Square — Outdoor Story Blanket (sunset) | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP05 | The Quiet Bird                 | Opa, Luca, Mimi | Learning Room — Reading Corner (rainy day)      | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
 
 ---
 
@@ -79,6 +95,10 @@
   S01E14 için `s01e14-final.mp4` ve shorts exportları mevcut.
 - S01E11, mevcut tracker ve production dokümanlarında `Üretildi` olarak geçtiği için bu statüde
   korundu; final mp4 yolu package/`15-VIDEOS` altında ayrıca netleştirilmeli.
+- Opa's Storytime için 5 bölüm package/shot dosyası mevcut, fakat `OPA_STORYTIME_*`
+  klasörleri altında `.mp4`, `.mov`, `.m4v` veya `.webm` video export dosyası bulunmadı.
+  Seri README'si 8×15 sn / 120 sn gövde derken bölüm overview dosyaları 20×15 sn / 300 sn
+  olarak kilitli; bu süre çelişkisi üretimden önce çözülmeli.
 - Sezon süresi standardı hâlâ açık çelişki içeriyor (60 sn ↔ 60-90 sn ↔ bazı eski 3 dk
   package overview'ları). Bu tracker mevcut production/README yapısını yansıtır; teknik
   standardı değiştirmez.
@@ -154,7 +174,9 @@
 2. S01E05, S01E07, S01E14 ve S01E11 satırlarını `08-PRODUCTION/CONTENT_MATRIX.md` ile eşleştir.
 3. S01E12-E26 üretim sırasını production takvimine göre kilitle.
 4. Süre standardı çelişkisini çözmeden toplu üretime girme: 60 sn, 90 sn ve 3 dk package'lar aynı sezonda birlikte duruyor.
-5. Kullanılmayan mekanlar için gelecek sezon / özel bölüm eşleştirmesi yap.
+5. Opa's Storytime süre çelişkisini çöz: seri README'si 120 sn, bölüm package'ları 300 sn diyor.
+6. Opa's Storytime EP01-EP05 için `03_VIDEO_EXPORTS/` render dosyalarını üret veya dış export konumunu tracker'a yaz.
+7. Kullanılmayan mekanlar için gelecek sezon / özel bölüm eşleştirmesi yap.
 
 ---
 

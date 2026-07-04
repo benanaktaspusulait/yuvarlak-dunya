@@ -30,7 +30,11 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | S01E01 | Kiko, Mimi, Opa + 10 komşu | Central Square | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | S01E02-A | Kiko | Kiko's Home | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | S01E11 | Arda, Opa | Opa's Tree | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| Opa's Storytime — The Little Cloud That Waited | Opa, Luca, Mimi | Indoor Reading Corner | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Opa's Storytime EP01 — The Little Cloud That Waited | Opa, Luca, Mimi | Learning Room — Reading Corner (indoor) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Opa's Storytime EP02 — The Little Seed That Listened | Opa, Kiko, Mimi | Kiko's Home — Reading Corner (indoor) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Opa's Storytime EP03 — The Star That Shared Its Light | Opa, Luca, Noah | Opa's Tree (night) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Opa's Storytime EP04 — The Sleepy Leaf | Opa, Kiko, Noah | Central Square — Outdoor Story Blanket (sunset) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Opa's Storytime EP05 — The Quiet Bird | Opa, Luca, Mimi | Learning Room — Reading Corner (rainy day) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Noah Intro — Reel 1 (Meet Noah, full 30s) | Noah | Central Square | — | ⚪ | ⚪ | ⚪ | 🟠 | ⚪ | ⚪ |
 | Noah Intro — Reel 2 (I Have an Idea, 15s cut) | Noah | Central Square | — | ⚪ | ⚪ | ⚪ | 🟠 | ⚪ | ⚪ |
 | Mimi Intro — Reel 1 (Meet Mimi, full length) | Mimi | Central Square | — | ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | ⚪ |
@@ -41,6 +45,8 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 
 > Yeni içerik üretildikçe/yayınlandıkça satır ekleyin ve ilgili durum sütununu güncelleyin.
 > "Series / Playlist" sütunu, bölümün ait olduğu tekrarlayan alt-seri/playlist'i işaretler (bkz. `11-DOCS/02_SEASON_STRATEGY.md` § Recurring Sub-Series). Tek seferlik bölümler için "—" kullanın.
+> Opa's Storytime EP01-EP05 için package/metadata dosyaları mevcut, ancak `03_VIDEO_EXPORTS/`
+> altında render edilmiş video dosyası bulunmadığı için yayın formatları 🔴 bırakıldı.
 > Karakter tanıtım Reel'leri (Reel 1 / Reel 2 çiftleri) UK Timezone Dual-Post standardını takip eder
 > (bkz. `11-DOCS/09_YOUTUBE_STRATEGY.md` → Channel Growth Decisions §8a): Reel 1 = UK 04:00, Reel 2 = UK 12:00.
 > Yayın saatleri ve kaynak dosya durumu için `08-PRODUCTION/ASSET_TRACKER.md` §2a'ya bakın.

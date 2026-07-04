@@ -28,10 +28,26 @@ Central Pompom Hills village square, circular plaza, Big Pompom Tree, 12 rounded
 Kiko's round coral house exterior, coral walls #F8BBD0, white trim #FFFFFF, rounded door, circular windows, small garden with round flowers, curved path, safe open foreground, no characters, {style}, {camera}, {lighting}, 16:9
 ```
 
-## Mimi Burrow Exterior
+## Mimi's Burrow Exterior (Canonical Hero View)
+
+**Reference:** `POMPOM_HILLS_PRODUCTION/02_WORLDS/MIMIS_BURROW/01_HERO_VIEW/mimis-burrow-exterior-openart-prompt.md`
 
 ```text
-Mimi's soft blue burrow exterior, round grassy doorway, soft blue frame #90CAF9, yellow flower accents #FFF59D, round stepping stones, tiny carrot patch, no dark tunnel feeling, no characters, {style}, {camera}, {lighting}, 16:9
+Create the canonical Hero View for Mimi's Burrow.
+
+A cozy hidden underground burrow beneath soft green grass, designed as a preschool-safe toy-set world. Exterior view from low child-eye-level (0.45–0.60m), looking toward a small round open entrance embedded in a soft grassy mound.
+
+The entrance is the main landmark: perfectly round, open, framed in soft matte blue (#90CAF9), with no door panel. Warm golden interior light glows softly from inside the entrance. The interior is only partially visible as a cozy warm-blue glow, not a full room.
+
+Exactly three small round light-grey stepping stones (#E0E0E0) lead from the foreground toward the entrance. Small soft flowers grow on top of the entrance mound. Soft green grass (#C8E6C9) surrounds the burrow. The whole world feels small, hidden, safe, warm, rounded, soft and touchable.
+
+Mimi-sized scale: child-proportioned, intimate, not human-house-sized, not grand, not spacious. Handcrafted premium preschool animation style, soft toy-set feeling, storybook secret-hideaway beauty, cozy hidden underground atmosphere, thumbnail-appeal composition, inviting warm blue doorway that makes a child want to peek inside.
+
+Keep the palette limited: soft blue entrance, soft green grass, light grey stones, warm golden interior glow, small flower accents. Interior props should remain invisible or extremely subtle — only warm glow, no visible interior props unless naturally subtle.
+
+{style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
+{camera} = stable 35mm storybook perspective, very low child-eye-level (0.45–0.60m), no distortion, no Dutch angle
+{lighting} = warm diffused daylight, soft golden interior glow through entrance, no harsh shadows
 ```
 
 ## Opa Story Perch
