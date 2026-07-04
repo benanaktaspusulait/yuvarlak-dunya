@@ -75,6 +75,7 @@ yuvarlak-dunya/
 | YouTube yükleme | `07-BRANDING/YOUTUBE_WORKFLOW.md` |
 | YouTube metadata (title/description/tags/Shorts) | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |
 | Video stili, pacing, hook, retention | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
+| Series bumper (Opa's Storytime vb.) ile world micro-opening ayrımı, dosya organizasyonu | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
 | Opa's Storytime (interactive storytelling sub-series, format, playlist) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` |
 | Bölüm detayları | `POMPOM_HILLS_PRODUCTION/02_WORLDS/{MEKAN}/04_EPISODE_PACKAGES/{bolum}/` |
 | Üretim takibi | `08-PRODUCTION/` |

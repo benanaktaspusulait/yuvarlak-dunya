@@ -40,6 +40,7 @@ bu dosyalara dokunmaz.
 | Opa's Storytime bölümü (interactive storytelling sub-series) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`, ardından ilgili mekan (`POMPOM_HILLS_PRODUCTION/02_WORLDS/`) ve karakter (`01-CHARACTERS/`) dosyaları |
 | Shot/video üretimi (kamera, renk, süreklilik, teknik) | `00-CORE/17_VIDEO_GENERATION_STANDARD.md`, `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/VISUAL_CONTINUITY_RULES.md` |
 | Video pacing / hook / retention stili, micro-opening & warm-closing / bumper (dış feedback dahil) | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
+| Series bumper (Opa's Storytime vb.) ile world micro-opening ayrımı, hangisinin ne zaman kullanılacağı, dosya organizasyonu | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
 | YouTube title / description / tags / Shorts metadata | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |
 | Yayın stratejisi, kanal büyümesi, publishing cadence, karakter/dünya rollout hızı | `11-DOCS/09_YOUTUBE_STRATEGY.md` (Channel Growth Decisions bölümü) |
 | Ses / voice / seslendirme | `00-CORE/AUDIO_GUIDE.md`, `00-CORE/EPISODE_AUDIO_WORKFLOW.md`, `05-AI-PROMPTS/voice/` |
