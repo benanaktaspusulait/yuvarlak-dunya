@@ -1,6 +1,6 @@
 # Environment Bible — Hobby Horse Trail
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass. Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
 > Bu bir yarış pisti değil. Bu bir hayal gücü parkuru.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-030
 File: 02-WORLDS/30-hobby-horse-trail/
-Version: 3.0
+Version: 3.1
 Location: Central Square yanı
 Type: Exterior World
 Status: Design
@@ -563,6 +563,73 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Hobby Horse Trail must NOT be reduced to "a path with some flags". If
+> Hobby Horse Trail looks like any plain dirt trail, reject it.
+
+Hobby Horse Trail is the imaginative pretend-play adventure path of Pompom
+Hills. It should feel like: **"My hobby horse and I are setting off on a
+grand adventure down this path!"**
+
+### Iconic Landmark
+
+HH-ARCH-01 — the flower arch at the trail's midpoint. This is the primary
+visual anchor: the object that turns "a path with flags" into "the path you
+walk through a flower gate on your hobby horse."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- HH-ARCH-01 — rounded flower arch marking the trail's midpoint (already a Locked Element, see World Identity Lock below)
+- HH-BRIDGE-01 — small curved wooden bridge over the gentle dip
+
+**Surface Charm**
+- round stepping stones set into the soft grass path
+
+**Small Prop Charm**
+- HH-BELL-01 — wooden bell pole with a round bell to ring
+- HH-LOG-01 — round resting log near the story sign
+
+**Motion Charm**
+- HH-BUNTING-01 — gentle swaying bunting flags along the path
+
+### Forbidden Clutter
+
+```
+✗ empty plain dirt path with no decoration
+✗ race track lane markings or timing lines
+✗ timer, scoreboard, or competitive finish-line tape
+✗ real horses or realistic animals
+✗ sharp fences, hurdles, or angular obstacles
+✗ speed or hazard signage
+✗ generic park path indistinguishable from any other trail
+```
+
+### Thumbnail Hook
+
+A winding, flag-lined path leading through a flower arch, with a row of
+colourful hobby horses waiting at the entrance — instantly readable as an
+imaginative adventure trail, not a plain path.
+
+### Child Recognition Test
+
+**"The flag path where my hobby horse and I go on adventures."**
+
+### Hero View Must Show
+
+- winding soft path silhouette bordered by grass and round bushes
+- HH-ARCH-01 flower arch at the midpoint
+- HH-BRIDGE-01 wooden bridge
+- HH-BUNTING-01 colourful bunting along the path
+- at least one hobby horse waiting at the entrance
+- warm, playful adventure mood
+
+If Hobby Horse Trail looks like any plain dirt path, reject it.
+
+---
+
 ## Emotional Purpose (Özet)
 
 Hobby Horse Trail, çocukların "at binme" hayalini yaşadığı güvenli bir alan. Gerçek at korkusu yok, düşme riski yok — sadece yumuşak çimenler ve renkli bayraklar. Birlikte yürümek, zil çalmak, çiçeklere bakmak... Her adım bir sevinç kaynağı.
@@ -801,6 +868,7 @@ Central Square → Giriş (tahta atlar) → Kavisli patika → Köprü → Çiç
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Pompom Hills felsefesine hizalama | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | Visual Richness Update. Added `## Visual Richness & World Charm` section (Iconic Landmark, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -815,5 +883,5 @@ Central Square → Giriş (tahta atlar) → Kavisli patika → Köprü → Çiç
 ---
 
 *Bu belge Hobby Horse Trail mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

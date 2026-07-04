@@ -1,4 +1,4 @@
-# Flower Hill — World Specification v4.2
+# Flower Hill — World Specification v4.3
 
 > This specification defines the canonical Flower Hill world for generation.
 > This document is a dense generation instruction set.
@@ -527,6 +527,52 @@ Closing wide (exit or field hold)
 
 ---
 
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Flower Hill must never be reduced to "flowers + path." Flower Hill has two
+> sub-zones — Nature Field Zone and Home Cluster Zone — and each has its own
+> allowed charm details (full detail in `25-flower-hill-bible.md` §
+> Visual Richness & World Charm).
+
+**Nature Field Zone — allowed charm:** S-curve stepping-stone path (landmark),
+dense five-colour flower clusters, smooth grey stepping stones, small flower
+mounds, soft flower shadows, distant hills on horizon, optional subtle
+flower-shaped pebbles, optional story-only butterflies.
+
+**Home Cluster Zone — allowed charm:** rounded dome homes (landmark), soft
+stone stairs, small flower fences, flower pots, tiny flag with flower
+symbol (no text), small mailbox, rounded wooden railings, little garden
+table, soft garden lamps, tiny wheelbarrow, watering can, controlled
+decorative vines.
+
+**Forbidden clutter (both zones):** readable text signs, too many houses,
+realistic village, sharp fences, busy random clutter, animals in Hero View
+unless approved, water features unless approved for that zone, redesigned
+Kiko's Home or Mimi's Burrow.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+Technical Canon = geometry (hill, path curve), five-colour palette, scale,
+lighting, forbidden elements (defined above in this spec). Add this Art
+Direction Layer whenever writing or regenerating a Hero View prompt:
+
+```text
+premium preschool animation, handcrafted toy-set feeling, storybook flower-
+carpet beauty, soft rounded garden charm, warm inviting atmosphere,
+thumbnail-appeal composition, makes a child want to walk the curved path
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — recognisable from the rounded hill + S-curve path shape alone?
+2. **Colour Test** — recognisable from the five-colour flower palette alone?
+3. **Charm Test** — does it make a child want to walk the path and visit the homes?
+
+If any test fails, reject — see Generation Failures table below.
+
+---
+
 ## Hero View Generation Prompt
 
 Copy this prompt directly into OpenArt to generate the Canon Hero View.
@@ -687,9 +733,10 @@ Every future episode using Flower Hill should load the Hero View as its master r
 | 4.1 | Fixed Mimi / Mimi's Burrow terminology. Removed OpenArt-unsafe local file references from World Spec header. Fixed S-curve typo. Clarified butterfly usage: not in Hero View, optional in story shots. Unified path material as soft matte grey #E0E0E0. Unified lighting as warm morning daylight. Added copy-ready Hero View Generation Prompt. Added Hero View QA Checklist. | — |
 | 4.1 micro-polish | Unified Pompom Hills spelling. Unified default lighting as warm morning daylight. Marked sunset/snow/rain as special variants. Clarified that connected homes are optional and secondary in Hero View. | — |
 | 4.2 | Production-depth pass: added Hero View Technical Setup and framing ratios, expanded World Identity Lock (locked element table + Canonical Hero View Rule), expanded Colour Palette (highlight/shadow behaviour), expanded Lighting (direction table, softness, ambient fill, shadow density, continuity), expanded Camera Identity (lens, movement philosophy, allowed/forbidden movements, framing/transition rules), new Environmental Sound Identity, new World Navigation, new View Transition Rules, categorized Production QA (World/Camera/Lighting/Colour/Scale/Atmosphere/World Recognition), new Scale table, new Production Summary. Five colours, pipeline, and Hero View QA Checklist unchanged. | — |
+| 4.3 | **Visual Richness Update.** Added `## Visual Richness Layer` section with zone-specific allowed charm details (Nature Field Zone / Home Cluster Zone), shared forbidden clutter list, Art Direction Layer prompt block, and Hero View Quality Tests (Silhouette/Colour/Charm). Full zone charm detail lives in the Bible; this spec cross-references it. | — |
 
 ---
 
 *This specification supports the current Pompom Hills production pipeline.*
-*Flower Hill — World Specification v4.2*
+*Flower Hill — World Specification v4.3*
 *Last updated: 4 Temmuz 2026*

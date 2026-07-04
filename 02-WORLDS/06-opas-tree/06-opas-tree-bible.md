@@ -1,13 +1,13 @@
 # Environment Bible — Opa's Tree
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass.
 
 ---
 
 ```
 Environment ID: ENV-006
 File: 02-WORLDS/06-opas-tree/
-Version: 3.0
+Version: 3.1
 Location: PomPom Hills merkezi, Central Square'a kısa yürüyüş mesafesinde
 Type: Exterior World
 Status: Design
@@ -243,6 +243,61 @@ Opa'nın varlığı her sahneye bilgelik ve güvenlik katar. Ağaç, Pompom Hill
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Opa's Tree must NOT be reduced to "a big tree." Reject Opa's Tree if it is
+> only a random tree, has no storytelling/shelter feeling, or the tree is
+> not iconic.
+
+Opa's Tree should feel like: **"the big tree where Opa tells stories and everyone feels safe."**
+
+### Iconic Landmark
+
+OT-BRANCH-01 — Opa's wide storytelling branch (0.80 m wide, 1.20 m high),
+always the place Opa sits. This is what turns "a tree" into "the tree where
+stories happen."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- OT-BRANCH-01, Opa's wide storytelling branch — always present, always the visual and narrative anchor
+- OT-TRUNK-01, thick strong trunk with soft rounded bark texture
+
+**Surface Charm**
+- dappled sunlight patterns filtering through the canopy onto the grass and branch
+- soft moss-like texture at the base of the trunk
+
+**Small Prop Charm**
+- OT-FLOWERS-01, 2–3 small Pompom flowers (pink, yellow, purple) at the base
+- soft low grass tufts around the roots
+
+**Motion Charm**
+- gentle leaf rustle on the canopy (OT-LEAVES-01)
+- occasional single leaf drifting down past the branch
+
+### Forbidden Clutter
+
+```
+✗ random or generic tree with no storytelling branch
+✗ tree that looks small or unremarkable in wide shots
+✗ sharp or thin branches
+✗ modern structures, ladders, or platforms
+✗ dark or cold-lit canopy
+✗ crowded background with unrelated props
+```
+
+### Thumbnail Hook
+
+Opa seated on the wide branch of a big, warm, glowing Pompom Tree, dappled
+sunlight filtering through the leaves.
+
+### Child Recognition Test
+
+**"The big tree where Opa tells stories."**
+
+---
+
 ## World Identity Lock
 
 **Pompom Tree sabit.** Ağaç her zaman yuvarlak, kabarık, yeşil taçlı olacak. Gövde her zaman kalın ve kahverengi. Opa'nın dalı her zaman geniş ve güvenli. Ağaç şekli değişmez — yuvarlak taç, kalın gövde, geniş dallar.
@@ -437,9 +492,10 @@ Opa's Tree, Pompom Hills'in bilgelik ve güvenlik mekanıdır. Büyük yuvarlak 
 |---------|---------|:--------:|
 | 1.0 | İlk versiyon | - |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu, tüm bölümler eklendi, detaylandırıldı | ✅ |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = OT-BRANCH-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Opa's Tree could be described as only "a big tree." No changes to World Identity Lock or pipeline. | — |
 
 ---
 
 *Bu belge Opa's Tree mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

@@ -1,6 +1,6 @@
 # Environment Bible — Tree Hill
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass. Canon identity unchanged.
 
 > This document describes the creative definition and production-ready specifications
 > for Tree Hill. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-026
 File: 02-WORLDS/26-tree-hill/
-Version: 3.0
+Version: 3.1
 Location: World map position 5
 Type: Living World
 Status: Production Ready
@@ -749,8 +749,8 @@ This Living World is designed to provide a wise, contemplative environment for s
 ---
 
 *Bu belge Tree Hill mekanı için creative referanstır.*
-*Living World Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Living World Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*
 
 ---
 
@@ -816,6 +816,77 @@ Tek Hero View 사용.
 ## Emotional Tone
 
 Sessiz, sakin, doğal.
+
+---
+
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Tree Hill must NOT be reduced to "an old forest with trees." If Tree Hill
+> looks like any generic dark forest, reject it.
+
+Tree Hill is the ancient, wise forest heart of Pompom Hills. It should feel
+like: **"This is the quiet hill where the oldest trees watch over us and
+Tillo tells stories by the fire."**
+
+### Iconic Landmark
+
+TH-TREE-01 — the largest ancient tree standing at the Ancient Gate, whose
+thick round-crowned trunk doubles as a natural gateway into the hill. This
+is the primary visual anchor: the tree that turns "a forest" into "the hill
+you enter through the oldest tree."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- TH-TREE-01 — the largest ancient tree at the Ancient Gate, forming a natural gateway (already a Canonical Reusable Asset, see Canonical Reusable Assets above)
+- the Wisdom Stump — the large, round, old tree stump where Tillo sits and tells stories
+
+**Surface Charm**
+- soft green moss carpet covering the ground and stones in the Moss Garden
+- dappled light filtering through the canopy onto the mossy floor
+
+**Small Prop Charm**
+- round, warm-grey seating stones ringing the safe campfire in the Camp Clearing
+- scattered fallen leaves (TH-LEAVES-01) drifting onto the moss
+
+**Motion Charm**
+- slow, gentle swaying of the ancient tree canopies (Cathedral Canopy)
+
+### Forbidden Clutter
+
+```
+✗ dark, threatening forest atmosphere
+✗ scary or sudden sounds
+✗ maze-like layout where characters could get lost
+✗ sharp branches or thorny undergrowth
+✗ sharp corners or jagged rock edges
+✗ fast, chaotic movement
+✗ large crowds cluttering the clearing
+✗ unsafe or uncontained fire
+✗ metal or artificial surfaces
+✗ generic, artificial-looking woodland
+```
+
+### Thumbnail Hook
+
+Ancient round-crowned trees forming a natural cathedral gateway, with a
+glowing safe campfire and the wise old stump inviting a story.
+
+### Child Recognition Test
+
+**"The tree hill where Tillo tells stories by the fire."**
+
+### Hero View Must Show
+
+- the ancient gateway tree (TH-TREE-01)
+- cathedral canopy of round, ancient tree crowns
+- soft moss ground cover
+- the safe, contained campfire
+- the wisdom stump
+- open sky visible through the canopy
+
+If Tree Hill looks like any generic dark forest, reject it.
 
 ---
 
@@ -922,3 +993,4 @@ Tree Hill sakinlik mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | Visual Richness Update. Added `## Visual Richness & World Charm` section (Iconic Landmark, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |

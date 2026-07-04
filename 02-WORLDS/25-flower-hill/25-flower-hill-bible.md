@@ -1,13 +1,15 @@
 # Environment Bible — Flower Hill
 
-> **Version 4.2** — Production-depth pass. Single Hero View + World Spec pipeline unchanged.
+> **Version 4.3** — Visual Richness & World Charm pass. Nature Field Zone /
+> Home Cluster Zone charm details added. Single Hero View + World Spec
+> pipeline unchanged.
 > Aligned with Cloud Hill production standards.
 
 ---
 
 ```
 Environment ID: ENV-025
-Version: 4.2
+Version: 4.3
 Type: Exterior World
 Status: Design / Pending Hero View
 Bible: ✅
@@ -272,6 +274,111 @@ Gerçekçi bir çayırlık değil.
 - Kelebek görünürse: tek veya en fazla 2–3 adet, kadrajın küçük bir bölgesinde, yavaş ve yumuşak hareketle
 
 FH-BUTTERFLY-01 kaldırılmaz, yalnızca kullanım kapsamı netleştirilir.
+
+---
+
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Flower Hill must NOT be reduced to "a field with flowers." Flower Hill has
+> two production zones (see below) and each must feel distinct and iconic,
+> not just a generic flower field or a generic house cluster.
+
+### Sub-Zones
+
+Flower Hill has two related but non-identical sub-zones (see
+`02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § World Charm Categories — a
+sub-zone is added when one Hero View cannot represent all story uses):
+
+**Flower Hill Nature Field Zone** — used for colour learning, flower
+discovery, walking, counting, nature observation. Identity: five-colour
+flower carpet, S-curve stepping-stone path, soft rounded hill, vibrant
+pastel flowers, open nature feeling.
+
+**Flower Hill Home Cluster Zone** — used for Kiko's Home, Mimi's Burrow,
+home feeling, neighbour visits, helping stories, warm community moments.
+Identity: a colourful flower-covered home hill with rounded garden homes,
+small fences, stone stairs, flower pots, and warm preschool home charm.
+
+Do not force every Flower Hill shot to show homes. Do not force every Home
+Cluster shot to behave like an empty flower field.
+
+### Iconic Landmark
+
+Nature Field Zone: the S-curve stepping-stone path cutting through the
+five-colour flower carpet. Home Cluster Zone: the cluster of rounded garden
+homes with small fences and flower pots.
+
+### Allowed Charm Details — Nature Field Zone
+
+**Landmark Charm**
+- S-curve stepping-stone path (FH-PATH-01)
+
+**Surface Charm**
+- dense five-colour flower clusters (FH-FLOWER-R/Y/P/V/O)
+- smooth grey stepping stones
+- tiny soft grass gaps between clusters
+- small flower mounds
+- soft flower shadows
+
+**Small Prop Charm**
+- tiny flower-shaped pebbles, only if subtle
+- distant hills visible on the horizon
+
+**Motion Charm**
+- gentle butterflies, only in story shots (FH-BUTTERFLY-01)
+- soft flower sway in the wind
+
+### Allowed Charm Details — Home Cluster Zone
+
+**Landmark Charm**
+- rounded dome homes (Kiko's Home / Mimi's Burrow, per their own canon)
+
+**Surface Charm**
+- soft stone stairs
+- small flower fences
+- controlled decorative vines
+
+**Small Prop Charm**
+- flower pots
+- tiny flag with flower symbol, no text
+- small mailbox
+- rounded wooden railings
+- little garden table
+- soft garden lamps
+- tiny wheelbarrow
+- watering can
+- optional approved waterfall only if canonised
+- optional approved bridge only if canonised
+
+**Motion Charm**
+- gentle vine sway
+- soft garden lamp flicker at dusk (story variant only)
+
+### Forbidden Clutter
+
+```
+✗ readable text signs
+✗ too many houses
+✗ realistic village
+✗ sharp fences
+✗ busy clutter
+✗ random props not in canon
+✗ animals in Hero View unless specifically approved
+✗ water features unless approved for that zone
+✗ redesigned Kiko's Home or Mimi's Burrow
+```
+
+### Thumbnail Hook
+
+A colourful flower-covered hill with rounded homes and a warm magical
+preschool garden feeling.
+
+### Child Recognition Test
+
+**"The colourful hill where Kiko and Mimi live."**
+
+(Nature Field Zone alone: "the hill with all the coloured flowers and the curvy path.")
 
 ---
 
@@ -884,11 +991,12 @@ Flower Hill'i kullanan her gelecek bölüm, Hero View'i ana referans olarak yük
 | 4.1 | Mimi / Mimi's Burrow terminolojisi düzeltildi, World Spec başlığındaki OpenArt-uyumsuz local dosya referansları kaldırıldı, S-eğrisi yazım hatası düzeltildi, kelebek kullanımı netleştirildi (Hero View'da yok, hikaye sahnelerinde opsiyonel), patika malzemesi soft matte grey #E0E0E0 olarak birleştirildi, aydınlatma dili "warm morning daylight" olarak birleştirildi, kopyalanabilir Hero View Generation Prompt eklendi, Hero View QA Checklist eklendi | — |
 | 4.1 micro-polish | Pompom Hills yazımı birleştirildi. Varsayılan aydınlatma "warm morning daylight" olarak birleştirildi. Gün batımı/kar/yağmur özel varyant olarak işaretlendi. Hero View'da bağlı evlerin opsiyonel ve ikincil olduğu netleştirildi. | — |
 | 4.2 | Production-depth pass: Visual Identity, Props, genişletilmiş Camera Identity (lens, hareket felsefesi, izin verilen/yasak hareketler, kadraj ve geçiş kuralları), genişletilmiş Lighting Identity (ışık yönü tablosu, yumuşaklık, ambient fill, gölge yoğunluğu, exposure, devamlılık), genişletilmiş Colour Identity (highlight/shadow davranışı), yeni Environmental Sound Identity, yeni World Navigation, yeni View Transition Rules, kategorize edilmiş Consistency Checklist (World/Camera/Lighting/Colour/Scale/Atmosphere/World Recognition), Hero View teknik kurulumu ve kadraj oranları, yeni Scale Reference, yeni Production Summary. Beş renk, pipeline, Hero View QA Checklist ve World Identity değişmedi. | — |
+| 4.3 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section defining Nature Field Zone and Home Cluster Zone as distinct sub-zones, each with its own Iconic Landmark and Allowed Charm Details (by category), plus a shared Forbidden Clutter list, Thumbnail Hook, and Child Recognition Test. Corrects over-simplification where Flower Hill risked being described as only "flowers + path." Single Hero View + World Spec pipeline unchanged. Five-colour identity, S-curve path, and World Identity Lock unchanged. | — |
 
 ---
 
 *Bu belge Flower Hill mekanı için creative referanstır.*
-*Environment Bible v4.2*
+*Environment Bible v4.3*
 *Son güncelleme: 4 Temmuz 2026*
 
 ---

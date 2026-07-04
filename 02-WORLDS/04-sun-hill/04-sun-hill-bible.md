@@ -1,6 +1,6 @@
 # Environment Bible — Sun Hill
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass added.
 > Sun Hill, PomPom Hills'in en sıcak tepesidir. İlk güneş ışığını burası alır.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-004
 File: 02-WORLDS/04-sun-hill/
-Version: 3.0
+Version: 3.1
 Location: PomPom Hills batı bölgesi
 Type: Exterior World
 Status: Design
@@ -513,6 +513,62 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Sun Hill must NOT be reduced to "a hill with sun."
+
+Sun Hill is the warm, glowing sunrise hill of Pompom Hills. It should feel
+like: **"I want to run up there and feel the first warm light."**
+
+### Iconic Landmark
+
+SH-STONE-01 — the round, sun-warmed stone at the Güneş Noktası (Sun Point) on
+the hill plateau. This is the primary visual anchor: the object that turns
+"a warm hill" into "the hill where you sit on the warm stone and greet the
+first light."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- SH-STONE-01 — round warmed sitting stone at the Güneş Noktası, the hill's brightest point
+- SH-PLATEAU-01 — the wide flat hill crest that opens into the panoramic valley view
+
+**Surface Charm**
+- warm sunlit sparkle across the short bright-green grass (SH-GRASS-01)
+- soft pastel horizon hills (SH-HORIZON-01) visible from the summit
+
+**Small Prop Charm**
+- SH-FLOWERS-01 — scattered yellow and orange wildflower clusters on the slope
+
+**Motion Charm**
+- gentle warm breeze wave across the grass tips
+- the sun's soft golden pulse/glow at the Güneş Noktası
+
+### Forbidden Clutter
+
+```
+✗ empty plain hill with no landmark
+✗ cold or dim lighting
+✗ rain or fog
+✗ sharp corners or jagged terrain
+✗ modern structures
+✗ characters or logos in Hero View
+✗ dark, dull, or desaturated grass
+✗ noise or fast motion
+```
+
+### Thumbnail Hook
+
+A bright warm hill crest with a sun-glowing sitting stone under a golden sky
+and a full valley view stretching out below.
+
+### Child Recognition Test
+
+**"Güneşin ilk ışığının vurduğu sıcak tepe."** ("The warm hill where the first sunlight lands.")
+
+---
+
 ## Emotional Purpose (Özet)
 
 Sun Hill, children'lere "enerji ve umut" duygusunu aşılar. İlk güneş ışığını hissetmek, yeni bir günün başlangıcını izlemek — her an taze bir başlangıç. Sıcaklık, neşe ve keşif bir arada yaşar.
@@ -749,6 +805,7 @@ Central Square → Sun Hill girişi → Yamaç → Tepe düzlüğü → Güneş 
 | 2.0 | Production pipeline standardına geçirme | — |
 | 2.1 | Düzeltmeler | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = SH-STONE-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -763,5 +820,5 @@ Central Square → Sun Hill girişi → Yamaç → Tepe düzlüğü → Güneş 
 ---
 
 *Bu belge Sun Hill mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

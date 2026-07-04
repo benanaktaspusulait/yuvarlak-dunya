@@ -1,13 +1,13 @@
 # Environment Bible — Cloud Hill
 
-> **Version 5.2** — Canon Hero View accepted. Image-first identity established.
+> **Version 5.3** — Visual Richness & World Charm pass. Canon Hero View unchanged.
 
 ---
 
 ```
 Environment ID: ENV-002
 File: 12-ENVIRONMENT/02-cloud-hill/
-Version: 5.2
+Version: 5.3
 Location: World map position 2 — Pompom Hills kuzey merkezi
 Bible: ✅
 Hero View: ✅ — Canon Hero View v1 accepted 3 July 2026
@@ -306,6 +306,76 @@ Every future Cloud Hill scene is generated using only these two assets. No addit
 ✓ Işık yumuşak ve soldan mı?
 ✓ Ufukta pastel siluetler var mı?
 ```
+
+---
+
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Cloud Hill must NOT be only a hill and clouds. If Cloud Hill looks like any
+> normal hill, reject it.
+
+Cloud Hill is the soft cloud-watching hill of Pompom Hills. It should feel
+like: **"I want to climb up there and look at the sky."**
+
+### Iconic Landmark
+
+CH-STONE-01 — the sitting/viewing stone at the summit, right of centre. This
+is the primary visual anchor: the object that turns "a hill" into "the hill
+you climb to sit and watch the clouds."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- CH-STONE-01 — smooth summit sitting/viewing stone (already a Locked Element, see World Identity Lock below)
+- gentle curved path or climbable slope leading to the summit
+
+**Surface Charm**
+- soft cloud-shadow patches drifting across the grass
+- tiny rounded pebbles along the climb path
+
+**Small Prop Charm**
+- small soft grass tufts near the summit
+- small white/yellow wildflowers scattered on the hillside (CH-DAISY-01)
+- one small cloud-shaped decorative stone near the summit, if approved
+
+**Motion Charm**
+- gentle wind ribbons or subtle grass waves
+- soft horizon hills visible in the background, gently hazy
+
+### Forbidden Clutter
+
+```
+✗ empty plain hill with no landmark
+✗ generic meadow
+✗ harsh mountain
+✗ cliffs
+✗ too many flowers like Flower Hill
+✗ houses on the summit
+✗ busy village elements
+✗ dark storm clouds
+✗ realistic landscape
+```
+
+### Thumbnail Hook
+
+A soft green dome hill with an inviting summit stone under large friendly
+clouds.
+
+### Child Recognition Test
+
+**"The hill where clouds feel close."**
+
+### Hero View Must Show
+
+- dome silhouette
+- summit
+- sitting/viewing stone (CH-STONE-01)
+- curved path or climbable slope
+- large friendly clouds
+- cloud-watching mood
+
+If Cloud Hill looks like any normal hill, reject it.
 
 ---
 
@@ -1126,9 +1196,10 @@ Every frame from an animated scene must pass the same Production QA as a still i
 | v4.0 | **Breaking changes:** Identity Lock added (10 locked elements). Hero View expanded to full technical spec (framing percentages, camera height, focal length). Camera Identity added. Lighting Identity added. Colour Identity added (hex palette, white balance, exposure). Sound Identity added. Continuity Rules table added. Production QA checklist added (7 categories). Canonical Reusable Assets added. Production Summary added |
 | v5.0 | **Breaking changes:** Production Layer added. World Navigation added (entry, climb, summit arrival, observation, exit). View Transition Rules added. Character Occupancy ratios added. Typical Episode Usage (30s/60s/90s) added. Common Generation Failures added (7 documented failures). Video Generation Rules added (cloud/grass/camera movement specs) |
 | v5.2 | **Canon Hero View accepted. Image-first identity established.** `00-hero-view.png` established as primary visual reference. Image overrides text on ambiguity. World Identity Lock updated — CH-STONE-01 added as locked element and primary visual anchor, cloud count fixed at 3 (matching Hero View). Canonical Hero View Rule added (6-point match checklist). Failure 08 added: Hero View silhouette lost. Files renamed: `01-world-bible.md` / `02-world-spec.md`. World Spec rewritten with Canonical Reference section at top. Canonical Prompt Reference Pack section removed — replaced by single Generation Workflow section. Prompt Generation Rules section removed — content lives in World Spec. All "Climb View / Summit View / Detail View" terminology replaced with shot-type language throughout. `03-reference-pack.md` deleted. |
+| v5.3 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = CH-STONE-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification where Cloud Hill risked being described as only "a hill and clouds." Single Hero View + World Spec pipeline unchanged. No changes to locked silhouette, colour palette, or camera/lighting identity. |
 
 ---
 
 *Bu belge Cloud Hill mekanı için production referansıdır.*
-*Versiyon: 5.2*
-*Son güncelleme: 3 Temmuz 2026*
+*Versiyon: 5.3*
+*Son güncelleme: 4 Temmuz 2026*

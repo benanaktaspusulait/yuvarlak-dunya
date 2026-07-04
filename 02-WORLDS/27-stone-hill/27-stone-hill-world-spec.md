@@ -90,3 +90,45 @@ Cesur, maceracı, güvenli. Doğal keşif ve tırmanma deneyimi. Pastel renkler 
 - Close-up: Taş dokusu, renk detayı
 - Zirve view: Manzara panoraması
 - Tırmanma açısı: Düşük, güvenli
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Stone Hill must never be reduced to "a hill with rocks."
+
+This layer protects Stone Hill from becoming too plain. Keep the world
+readable and the rounded silhouette clear — add only the canon-approved
+charm details below. Do not add random objects. Do not remove the
+brave-but-safe, natural-discovery emotional identity.
+
+**Allowed charm details (use, do not omit):**
+- SH-STONES-01, clusters of round pastel stones (warm grey #BDBDBD, pink #F48FB1, purple #CE93D8) scattered across the slope — primary landmark
+- SH-CAVE-01, the small round friendly cave tucked into the hillside
+- soft green grass (#C8E6C9) growing between the stones
+- gently curved climbing paths winding between stone clusters
+- varied stone sizes (0.2–0.5 m) grouped naturally, never uniform
+- small trickling şelale (waterfall) near the cave with soft continuous water sound
+
+**Forbidden clutter:** sharp-edged or jagged stones, a dark or maze-like cave, a generic grey rock pile with no colour identity, muddy or murky water, modern objects or climbing gear, harsh dramatic lighting inside the cave, realistic/photoreal rock texture.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, sunlit pastel
+stone hillside atmosphere, storybook beauty, thumbnail-appeal composition,
+makes a child want to hop across the stones and peek into the little cave
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — is the low rounded hill with its scattered stone clusters recognisable as Stone Hill from shape alone?
+2. **Colour Test** — is the world recognisable from the warm grey/pink/purple pastel stone palette alone?
+3. **Charm Test** — does the image make a child want to climb the stones and look inside the cave?
+
+If any test fails, reject — see Generation Failures table above and
+`27-stone-hill-bible.md` § Forbidden Over-Simplification.
+
+---
+
+*Stone Hill — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

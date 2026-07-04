@@ -1,6 +1,25 @@
-# Pompom Hills Negative Prompts v2.1
+# Pompom Hills Negative Prompts v2.2
 
 Bu dosya Midjourney, SDXL ve Flux üretimlerinde ortak yasak listesidir. Pozitif prompt ne kadar iyi olursa olsun, bu liste her üretimde kullanılmalıdır.
+
+## Negative Prompt Philosophy ⭐
+
+> Added by the Visual Richness and World Charm decision (4 Temmuz 2026).
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Negative Prompt Philosophy.
+
+Negative prompts must prevent drift, not remove charm. Avoid generic
+"no detail" language that accidentally strips out a world's Allowed Charm
+Details along with the clutter you actually meant to block.
+
+```
+Bad:  no objects, no props, no houses, no details, no decorations, no texture
+Good: no random clutter, no non-canon objects, no sharp edges, no photorealism,
+      no dark mood, no modern objects, no readable text
+```
+
+The lists below already follow this philosophy (they target specific unsafe
+or off-canon elements, not "detail" in general) — keep any future additions
+consistent with it.
 
 ## Common Negative Prompt
 

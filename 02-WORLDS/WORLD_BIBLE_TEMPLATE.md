@@ -332,6 +332,39 @@ Example:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> This section is mandatory. A world must never be reduced to its most basic
+> object (e.g. "a hill and some clouds").
+
+### Iconic Landmark
+
+[The one visual element that makes the world immediately recognisable.]
+
+### Allowed Charm Details
+
+[3–7 items total, drawn from these categories:]
+
+- **Landmark Charm:** [large/medium defining elements]
+- **Surface Charm:** [textures/patterns]
+- **Small Prop Charm:** [small reusable props]
+- **Motion Charm:** [gentle environmental movement]
+
+### Forbidden Clutter
+
+[Details that would make the world messy, generic or hard to keep consistent.]
+
+### Thumbnail Hook
+
+[What makes this world visually attractive in a YouTube thumbnail.]
+
+### Child Recognition Test
+
+[One simple phrase a child could use to describe this world, e.g. "the hill where clouds come close."]
+
+---
+
 *Bu belge [WORLD NAME] mekanı için production referansıdır.*
 *Versiyon: 2.0*
 *Son güncelleme: [DATE]*

@@ -164,3 +164,56 @@ palette limited to the set defined above. Favor a soft, matte, handcrafted
 material language over any glossy, metallic, or photorealistic rendering.
 Treat the house's exterior shape, colours, and proportions as a fixed
 identity to preserve exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Kiko's Home must never be reduced to "a pink house."
+
+This layer protects Kiko's Home from becoming too plain. Keep the rounded
+cottage silhouette clear and readable — add only the canon-approved charm
+details below. Do not add random objects. Do not remove the warm, safe,
+toy-house emotional identity.
+
+**Allowed charm details:** KH-DOOR-01, the round white arched front door with
+its round white handle, is the primary landmark and should be visible or
+implied in every exterior shot. The rounded dark-pink dome roof with its small
+decorative round chimney reinforces the toy-cottage silhouette. The round
+stepping-stone path (#E0E0E0) curves from the low coral-pink fence to the
+door. The three large round front-garden flowers (red, yellow, pink) and the
+yellow round toy box (KH-TOYBOX-01) inside add small reusable prop charm.
+Gentle motion — the door's soft slow "squeak" as it opens, and the coral-pink
+curtain swaying at the Window Corner — keeps the world feeling alive without
+adding clutter.
+
+**Forbidden clutter:** rectangular or sharp-edged house shapes, a generic
+unremarkable cottage with no visible door detail, vehicles or modern
+technology anywhere on the property, broken or messy objects, large crowds
+or clutter in the garden, harsh dark shadows, sharp corners on any furniture,
+and sudden or fast motion anywhere in or around the house.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm rounded
+cottage with a friendly arched door, cozy morning atmosphere, storybook
+homecoming beauty, thumbnail-appeal composition, makes a child want to
+run up and knock on the door
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Kiko's Home from the rounded dome-roof cottage shape alone?
+2. **Colour Test** — recognisable from the coral-pink walls, white door, and white trim alone?
+3. **Charm Test** — does it make a child want to knock on the round white door and go inside?
+
+If any test fails, reject.
+
+---
+
+*Kiko's Home — World Specification, aligned with Bible v3.2.*
+*Visual Richness Layer added 4 Temmuz 2026.*

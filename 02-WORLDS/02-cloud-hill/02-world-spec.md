@@ -149,3 +149,55 @@ Summit arrival — sky opening moment — must not be skipped.
 | Environmental rhythm | Clouds, grass, camera all move on the same slow breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Cloud Hill must never be reduced to "a hill and some clouds."
+
+This layer protects Cloud Hill from becoming too plain. Keep the world
+readable and the dome silhouette clear — add only the canon-approved charm
+details below. Do not add random objects. Do not remove the sky-dominant,
+cloud-watching emotional identity.
+
+**Allowed charm details (use, do not omit):**
+- CH-STONE-01, the summit sitting/viewing stone — primary landmark, always present in summit shots
+- gentle curved climb path on the hillside
+- soft cloud-shadow patches on the grass
+- CH-DAISY-01 sparse wildflower clusters
+- tiny rounded pebbles along the path
+- soft hazy horizon hills in the background
+
+**Forbidden clutter:** empty plain hill with no landmark, generic meadow, harsh mountain, cliffs, dense flower fields (that is Flower Hill), houses or village elements on the summit, dark storm clouds, realistic landscape textures.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+Technical Canon = geometry, landmarks, colours, scale, lighting, forbidden
+elements (defined above in this spec). Add this Art Direction Layer whenever
+writing or regenerating a Hero View prompt — technical-only prompts tend to
+produce safe but boring hills:
+
+```text
+premium preschool animation, handcrafted toy-set feeling, soft rounded
+summit stone with visible texture, warm inviting atmosphere, storybook
+sky-watching beauty, thumbnail-appeal composition, makes a child want to
+climb up and sit on the stone
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Cloud Hill from the dome shape alone?
+2. **Colour Test** — recognisable from the pastel sky/grass palette alone?
+3. **Charm Test** — does it make a child want to climb up and look at the sky?
+
+If any test fails, reject — see Generation Failures table above and
+`01-world-bible.md` § Forbidden Over-Simplification.
+
+---
+
+*Cloud Hill — World Specification, aligned with Bible v5.3.*
+*Visual Richness Layer added 4 Temmuz 2026.*

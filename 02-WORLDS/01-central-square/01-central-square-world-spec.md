@@ -86,3 +86,35 @@ Sıcak, tanıdık, güvenli. Tüm mekanların buluşma noktası. Her macera bura
 - Tüm mekanlara bağlantı yolları görünür
 - Açık geniş alan hissi
 - Karakter yok referanslarda
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Central Square must never be reduced to "a plaza." The Big Pompom Tree
+> (CS-TREE-01) is the mandatory landmark in every wide shot.
+
+**Allowed charm details:** CS-TREE-01 Big Pompom Tree (always centred),
+coloured stepping-stone ring (CS-STONE-PNK/YEL/BLU/GRN), soft carpet-like
+green ground (CS-GRASS-01), dappled tree-shadow on the grass, low pastel
+houses at the edge of the square (background, not redesigned), gentle leaf
+rustle.
+
+**Forbidden clutter:** empty plaza with no tree, undersized tree, market
+stalls or signage, modern street furniture, sharp-edged geometric paving,
+dark or dramatic lighting.
+
+### Art Direction Layer (use with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm communal
+atmosphere, storybook village-square beauty, thumbnail-appeal composition,
+makes a child want to run in and meet their friends
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — recognisable from the tree + stone-ring shape alone?
+2. **Colour Test** — recognisable from the green canopy + pastel palette alone?
+3. **Charm Test** — does it feel like a place friends meet and play?
+
+If any test fails, reject.

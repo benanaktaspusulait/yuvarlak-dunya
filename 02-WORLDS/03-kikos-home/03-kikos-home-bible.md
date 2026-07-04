@@ -3,7 +3,7 @@
 > **🔒 Living World** — First validated Living World of Pompom Hills.
 > This document describes a connected living environment, not just an exterior.
 
-> **Version 3.1** — Evolved from Environment Bible to Living World Bible.
+> **Version 3.2** — Visual Richness & World Charm pass added.
 > This document is the single source of truth: creative definition and
 > production-ready specifications together. Tool-specific prompt syntax
 > (e.g. OpenArt) is not embedded here — see `Production Readiness` below.
@@ -13,7 +13,7 @@
 ```
 Environment ID: ENV-003
 File: 12-ENVIRONMENT/03-kikos-home/
-Version: 3.1
+Version: 3.2
 Location: Flower Hill
 Type: Living World
 Status: Production Ready — In Use
@@ -845,6 +845,61 @@ Kiko'nun evi nasıl çekilir? Kamera evin içinde doğal hareket eder.
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Kiko's Home must NOT be reduced to "a pink house."
+
+Kiko's Home is the warm, rounded toy-cottage heart of Pompom Hills. It should feel
+like: **"I want to run up and knock on that door."**
+
+### Iconic Landmark
+
+KH-DOOR-01 — the round white arched front door. This is the primary visual anchor:
+the element every episode opens and closes on, the threshold that turns "a pink
+house" into "the house where Kiko welcomes you in."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- KH-DOOR-01 — round white arched front door, child-proportioned, with a round white handle (already a Locked Element, see World Identity Lock below)
+- the rounded dark-pink dome roof with its small decorative round chimney
+
+**Surface Charm**
+- the round stepping-stone path (#E0E0E0) curving from the fence to the door
+
+**Small Prop Charm**
+- the three large round front-garden flowers (red, yellow, pink)
+- KH-TOYBOX-01, the yellow round toy box tucked in the living space
+
+**Motion Charm**
+- the door's slow, soft "squeak" as it opens and closes
+- the coral-pink curtain swaying gently at the Window Corner
+
+### Forbidden Clutter
+
+```
+✗ rectangular or sharp-edged house shape
+✗ generic unremarkable cottage with no visible door detail
+✗ vehicles or modern technology anywhere
+✗ broken or messy objects
+✗ large crowds or clutter in the garden
+✗ harsh dark shadows or scary silhouettes
+✗ sharp corners on any furniture or structure
+✗ sudden or fast motion anywhere on the property
+```
+
+### Thumbnail Hook
+
+A round coral-pink cottage with its white arched door open and warm light glowing,
+garden flowers blooming out front under a soft morning sun.
+
+### Child Recognition Test
+
+**"Kiko'nun pembe yuvarlak evi, beyaz kapılı."** ("Kiko's round pink house with the white door.")
+
+---
+
 ## Emotional Purpose
 
 Kiko'nun evi children'ler için "ev" duygusunun somut karşılığıdır. Kapıya gelindiğinde içeri girmek isteyen, içeride güvende hisseden bir mekandır. Sabah uyanma anı umut, gece kapanış anı huzur verir.
@@ -1115,8 +1170,8 @@ If successful, this design philosophy will become the standard for future homes 
 ---
 
 *Bu belge Kiko's Home mekanı için creative referanstır.*
-*Living World Bible v3.1*
-*Son güncelleme: 3 Temmuz 2026*
+*Living World Bible v3.2*
+*Son güncelleme: 4 Temmuz 2026*
 
 ---
 
@@ -1127,3 +1182,4 @@ If successful, this design philosophy will become the standard for future homes 
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.2 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = KH-DOOR-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |

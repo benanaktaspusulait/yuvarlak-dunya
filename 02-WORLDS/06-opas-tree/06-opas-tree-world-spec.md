@@ -87,3 +87,36 @@ Bilge, sessiz, saygılı. Zamanın durduğu bir mekan. Hikaye anlatma ve dinleme
 - Gövde detayı close-up
 - Yosun zemin view
 - Işık yapraklar arasından süzülmeli
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Opa's Tree must never be reduced to "a big tree." OT-BRANCH-01 (Opa's
+> storytelling branch) is the mandatory landmark in every shot where Opa
+> is present.
+
+**Allowed charm details:** OT-BRANCH-01 wide storytelling branch (landmark),
+OT-TRUNK-01 thick textured trunk, dappled sunlight patterns through the
+canopy, soft moss texture at the base, OT-FLOWERS-01 small Pompom flowers
+(pink/yellow/purple), gentle leaf rustle, occasional single drifting leaf.
+
+**Forbidden clutter:** generic tree with no storytelling branch, tree that
+reads as small/unremarkable, sharp or thin branches, modern
+structures/ladders/platforms, dark or cold-lit canopy, crowded unrelated
+background props.
+
+### Art Direction Layer (use with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm sheltering
+atmosphere, storybook wisdom-and-safety beauty, thumbnail-appeal
+composition, makes a child want to sit and listen to a story
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — recognisable from the tree canopy + storytelling branch shape alone?
+2. **Colour Test** — recognisable from the warm green/brown/gold palette alone?
+3. **Charm Test** — does it feel safe, wise, and inviting for a story?
+
+If any test fails, reject.
