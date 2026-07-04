@@ -54,6 +54,9 @@ Kiko is NOT yet in frame at the first frame; she enters gently from background-r
 along the same visible pebble path, walking slowly toward Luca. Her entrance is natural,
 slow and preschool-friendly, never sudden.
 
+Kiko must not pop into the frame or appear suddenly. She should enter through visible,
+natural motion from the background-right path area, remaining consistent in scale and style.
+
 ---
 
 ## Background Object Lock
@@ -73,6 +76,10 @@ gently, camera moves slowly if planned.
 ```text
 Luca holding a smooth round stone on Stone Hill rounded stone discovery area, Kiko enters naturally from the same pebble path and looks at the stone with curiosity, warm moss patches and rounded stones around them, warm morning daylight, no other characters, {style} {camera} {lighting}
 
+Use @image1 as the starting continuity frame from Shot 01.
+
+Kiko must enter naturally through motion from background-right; do not make her appear suddenly or pop into the frame.
+
 Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -89,9 +96,14 @@ action naturally, then let Kiko enter gently from background-right along the sam
 
 ## Reference Usage
 
-Use the approved continuity frame exported from Shot 01 as the primary image reference
-when generating this shot. The reference image is supplied by the production workflow
-and should not be hardcoded into this document.
+OpenArt Reference Setup:
+
+@image1 = approved exported final continuity frame from Shot 01.
+
+Use @image1 as the required starting continuity reference. Preserve the same Stone Hill layout, lighting, camera position, Luca appearance, round stone prop and Episode Colour Master. Continue naturally from @image1; do not reset the camera or redesign the environment.
+
+The reference image is supplied by the production workflow and should not be hardcoded
+into this document.
 
 ---
 
@@ -104,6 +116,9 @@ Preserve the established framing and composition of Shot 01 while allowing natur
 character motion. Kiko enters gently from background-right along the same pebble path;
 Luca turns toward her and shows the stone. Camera follows their interaction naturally and
 ends on a medium-wide shot with both characters and the stone visible.
+
+By the final frame, Kiko has gently received the stone or is clearly completing the
+hand-off, so Shot 03 can begin with Kiko holding the stone.
 
 Maintain a soft 35mm-equivalent preschool framing. Warm morning daylight throughout.
 Avoid sudden movements, zooms or shakes.
@@ -130,7 +145,7 @@ Kiko: Wow!
 |---|---|---|
 | 0-5 sn | Kiko enters from the same path, sees Luca | Medium-wide |
 | 5-10 sn | Luca turns and shows the stone | Medium |
-| 10-15 sn | Kiko looks with wonder; Luca gently offers the stone toward her (slow, calm hand-off) | Established composition |
+| 10-15 sn | Kiko looks with wonder; Luca gently completes a slow, calm hand-off so Kiko has received the stone by the final frame | Established composition |
 
 ---
 
@@ -151,7 +166,7 @@ Match the Shot 01 Episode Colour Master. No lighting change between shots.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects, building, house, door, roof, bench, cave, waterfall, tower, entrance, sign, bridge, pond, river, stream, water feature, stone house, doorway, window, chimney, constructed structure, wooden structure
 
 ## QA Checklist
 
@@ -165,7 +180,9 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Lighting consistency verified (matches Episode Colour Master)
 - [ ] Canonical rules followed
 - [ ] Kiko entrance is clear (gentle, from background-right along the pebble path)
+- [ ] Kiko does not pop in; she enters naturally through visible motion from background-right.
 - [ ] Luca gently offers the stone toward Kiko (slow, calm hand-off, not sudden)
+- [ ] Final frame supports Shot 03: Kiko has received the stone or the hand-off is clearly completing.
 - [ ] No extra or non-canon characters appear
 - [ ] Stone Hill looks specific, not generic
 - [ ] Background stone clusters remain stable

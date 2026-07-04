@@ -73,6 +73,10 @@ camera moves slowly if planned.
 ```text
 Kiko holding a smooth round stone in her hands on Stone Hill, Luca gently pointing to its round shape, both turning the stone slowly and looking at it with wonder, rounded stones and warm moss around them, warm morning daylight, no other characters, {style} {camera} {lighting}
 
+Use @image1 as the starting continuity frame from Shot 02.
+
+Preserve Luca, Kiko, the handed-over round stone, the same Stone Hill layout, camera position, lighting and Episode Colour Master from @image1.
+
 Match the lighting and colour grading exactly from the Episode Colour Master.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -89,9 +93,14 @@ action naturally.
 
 ## Reference Usage
 
-Use the approved continuity frame exported from Shot 02 as the primary image reference
-when generating this shot. The reference image is supplied by the production workflow
-and should not be hardcoded into this document.
+OpenArt Reference Setup:
+
+@image1 = approved exported final continuity frame from Shot 02.
+
+Use @image1 as the required starting continuity reference. Preserve both characters, the handed-over round stone, the Stone Hill layout, lighting, camera position and Episode Colour Master. Continue naturally from @image1; do not reset the camera or redesign the environment.
+
+The reference image is supplied by the production workflow and should not be hardcoded
+into this document.
 
 ---
 
@@ -105,6 +114,9 @@ camera in the same setup rather than recomposing into a new shot.
 Keep both Kiko and Luca in frame. Only a very subtle camera movement is allowed. Avoid
 reframing and dramatic zooms. The focus stays on the emotional interaction with the
 stone and a gentle focus shift between the stone and the characters' faces.
+
+Do not introduce new characters, new landmarks, new paths, buildings, caves, waterfalls
+or a different Stone Hill area.
 
 Warm morning daylight throughout.
 
@@ -152,7 +164,7 @@ Match the Episode Colour Master. No lighting change between shots.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects, building, house, door, roof, bench, cave, waterfall, tower, entrance, sign, bridge, pond, river, stream, water feature, stone house, doorway, window, chimney, constructed structure, wooden structure, literal moon, moon in sky
 
 ## QA Checklist
 
@@ -165,8 +177,12 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified (no reset from Shot 02)
 - [ ] Lighting consistency verified (matches Episode Colour Master)
 - [ ] Canonical rules followed
+- [ ] @image1 continuity preserved from Shot 02 final frame.
 - [ ] Kiko is holding the stone just handed over from Shot 02; Luca points to it
 - [ ] "Tiny moon" is imaginative only; no literal moon required
+- [ ] No new landmarks, buildings, caves, waterfalls or alternate Stone Hill area appear.
+- [ ] Both Luca and Kiko remain visible and consistent throughout.
+- [ ] No literal moon appears; "tiny moon" remains only an imaginative comparison.
 - [ ] Stone Hill looks specific, not generic
 - [ ] Background stone clusters remain stable
 - [ ] No background object morphing

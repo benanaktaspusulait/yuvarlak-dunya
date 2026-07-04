@@ -91,6 +91,8 @@ slowly if planned.
 ```text
 Luca from Pompom Hills walking carefully along the soft pebble path on Stone Hill, rounded stone discovery area, smooth round toy-like stones, warm moss patches, gentle slope, he notices a smooth round flat stone, bends down and gently picks it up, curious expression, warm morning daylight, no other characters, {style} {camera} {lighting}
 
+Use @image1 as the environment continuity reference for lighting, pebble path, rounded stones, moss and warm morning Stone Hill atmosphere, while adding Luca already visible on the pebble path.
+
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot.
 ```
@@ -103,6 +105,22 @@ This is the first story shot; it has no previous *story* shot reference. The app
 pre-roll final frame may be used only as a soft visual continuity reference (lighting,
 pebble path, rounded stones, moss, atmosphere) if the Stone Hill Adventures Micro-Opening
 pre-roll is used.
+
+OpenArt Reference Setup:
+
+@image1 = approved Stone Hill Adventures Micro-Opening final frame.
+
+Use @image1 as the required environment continuity reference for:
+- warm morning lighting
+- pebble path feel
+- rounded stones
+- moss patches
+- Stone Hill atmosphere
+- camera height and calm opening mood
+
+Do not copy @image1 as an empty frame. Shot 01 must generate a new story first frame with Luca already visible on the pebble path. Luca does not enter from off-screen.
+
+After the Shot 01 still is approved, that approved Luca-visible still becomes the Episode Colour Master and the main first frame for Shot 01 video generation.
 
 The reference still is supplied by the production workflow and should not be hardcoded
 into this document.

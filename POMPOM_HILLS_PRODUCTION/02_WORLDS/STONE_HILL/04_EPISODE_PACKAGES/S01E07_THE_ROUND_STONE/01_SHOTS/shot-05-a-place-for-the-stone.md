@@ -67,6 +67,10 @@ grass or moss moves gently, camera moves slowly if planned.
 ```text
 Luca and Kiko finding a small safe spot among the rounded stones on Stone Hill, gently placing the smooth round stone on a soft mossy patch beside a small natural group of rounded pebbles already on the ground, both looking at it kindly, warm moss and rounded stones around them, warm morning daylight, no other characters, {style} {camera} {lighting}
 
+Use @image1 as the starting continuity frame from Shot 04.
+
+Preserve Luca, Kiko, the discovered round stone in Kiko's hands at the start, the same Stone Hill layout, camera position, lighting and Episode Colour Master from @image1.
+
 Match the lighting and colour grading exactly from the Episode Colour Master.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -83,9 +87,14 @@ action naturally.
 
 ## Reference Usage
 
-Use the approved continuity frame exported from Shot 04 as the primary image reference
-when generating this shot. The reference image is supplied by the production workflow
-and should not be hardcoded into this document.
+OpenArt Reference Setup:
+
+@image1 = approved exported final continuity frame from Shot 04.
+
+Use @image1 as the required starting continuity reference. Preserve Luca, Kiko, the round stone prop, the Stone Hill layout, lighting, camera position and Episode Colour Master. Continue naturally from @image1; do not reset the camera or redesign the environment.
+
+The reference image is supplied by the production workflow and should not be hardcoded
+into this document.
 
 ---
 
@@ -96,8 +105,15 @@ camera position from the previous shot; do not recompose into a new setup. Prese
 established framing and composition while allowing natural character motion; keep the
 camera in the same setup rather than recomposing into a new shot.
 
-Use a gentle medium-low framing so the stone placement is clearly visible. Keep movement
-slow and stable. Warm morning daylight throughout.
+Use a gentle medium-low framing so the stone placement is clearly visible.
+
+By the final frame, the discovered round stone must be resting safely and flat on the
+mossy patch, so Shot 06 can begin with the stone already placed on the ground.
+
+Do not introduce new characters, new landmarks, new paths, buildings, caves, waterfalls
+or a different Stone Hill area.
+
+Keep movement slow and stable. Warm morning daylight throughout.
 
 ---
 
@@ -150,7 +166,7 @@ arranged pattern or balanced stone tower. Nothing can fall.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, stacked stones, balancing stones, unstable pile, stone tower, magic circle, ritual circle, symbol, arranged pattern, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, stacked stones, balancing stones, unstable pile, stone tower, magic circle, ritual circle, symbol, arranged pattern, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects, building, house, door, roof, bench, cave, waterfall, tower, entrance, sign, bridge, pond, river, stream, water feature, stone house, doorway, window, chimney, constructed structure, wooden structure
 
 ## QA Checklist
 
@@ -163,6 +179,11 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified (no reset from Shot 04)
 - [ ] Lighting consistency verified (matches Episode Colour Master)
 - [ ] Canonical rules followed
+- [ ] @image1 continuity preserved from Shot 04 final frame.
+- [ ] Both Luca and Kiko remain visible and consistent throughout.
+- [ ] Kiko starts with the discovered round stone and places it safely on the moss.
+- [ ] Final frame supports Shot 06: the stone is already resting safely and flat on the mossy patch.
+- [ ] No new landmarks, buildings, caves, waterfalls or alternate Stone Hill area appear.
 - [ ] Stone is placed safely and flat; no stacking or balancing
 - [ ] Story turns toward sharing rather than only keeping
 - [ ] Stone Hill looks specific, not generic

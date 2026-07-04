@@ -65,7 +65,11 @@ camera pans slowly across already-visible stones.
 ## Visual Prompt
 
 ```text
-Luca and Kiko on Stone Hill looking around at the other smooth rounded stones nearby, Kiko pointing to a round stone already resting on the ground, Luca smiling and looking around the discovery area, warm moss and rounded stones around them, warm morning daylight, no other characters, {style} {camera} {lighting}
+Luca and Kiko on Stone Hill looking around at the other smooth rounded stones nearby, Kiko still holding the discovered round stone while pointing to another round stone already resting on the ground, Luca smiling and looking around the discovery area, warm moss and rounded stones around them, warm morning daylight, no other characters, {style} {camera} {lighting}
+
+Use @image1 as the starting continuity frame from Shot 03.
+
+Preserve Luca, Kiko, the discovered round stone in Kiko's hands, the same Stone Hill layout, camera position, lighting and Episode Colour Master from @image1.
 
 Match the lighting and colour grading exactly from the Episode Colour Master.
 
@@ -83,9 +87,14 @@ action naturally.
 
 ## Reference Usage
 
-Use the approved continuity frame exported from Shot 03 as the primary image reference
-when generating this shot. The reference image is supplied by the production workflow
-and should not be hardcoded into this document.
+OpenArt Reference Setup:
+
+@image1 = approved exported final continuity frame from Shot 03.
+
+Use @image1 as the required starting continuity reference. Preserve Luca, Kiko, the round stone prop, the Stone Hill layout, lighting, camera position and Episode Colour Master. Continue naturally from @image1; use only nearby rounded stones from the established set.
+
+The reference image is supplied by the production workflow and should not be hardcoded
+into this document.
 
 ---
 
@@ -99,6 +108,10 @@ camera in the same setup rather than recomposing into a new shot.
 Allow a gentle pan across the nearby rounded stones already in the set, then return to
 the characters. Keep movement slow and stable. Background must remain the same set — do
 not reveal or invent a new area.
+
+Do not introduce new characters, new landmarks, new paths, buildings, caves, waterfalls
+or a different Stone Hill area. Kiko should keep the discovered round stone with her
+while pointing to another nearby rounded stone.
 
 Warm morning daylight throughout.
 
@@ -144,7 +157,7 @@ Match the Episode Colour Master. No lighting change between shots.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects, building, house, door, roof, bench, cave, waterfall, tower, entrance, sign, bridge, pond, river, stream, water feature, stone house, doorway, window, chimney, constructed structure, wooden structure
 
 ## QA Checklist
 
@@ -157,6 +170,10 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified (no reset from Shot 03)
 - [ ] Lighting consistency verified (matches Episode Colour Master)
 - [ ] Canonical rules followed
+- [ ] @image1 continuity preserved from Shot 03 final frame.
+- [ ] Both Luca and Kiko remain visible and consistent throughout.
+- [ ] Kiko still holds the discovered round stone while pointing to another nearby rounded stone.
+- [ ] No new landmarks, buildings, caves, waterfalls or alternate Stone Hill area appear.
 - [ ] Nearby rounded stones from the established set are used; no new area invented
 - [ ] Stone Hill looks specific and reinforces its rounded-stone identity
 - [ ] Background stone clusters remain stable

@@ -67,6 +67,9 @@ planned pull-back.
 ```text
 Luca and Kiko stepping back and looking together at the smooth round stone resting safely on the mossy patch among the rounded stones on Stone Hill, both smiling warmly, peaceful shared moment, warm moss and rounded stones around them, warm morning daylight, no other characters, {style} {camera} {lighting}
 
+Use @image1 as the starting continuity frame from Shot 05.
+Preserve Luca, Kiko, the placed round stone resting safely on the mossy patch, the same Stone Hill layout, camera position, lighting and Episode Colour Master from @image1.
+
 Match the lighting and colour grading exactly from the Episode Colour Master.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -83,9 +86,14 @@ action naturally into the gentle ending pull-back.
 
 ## Reference Usage
 
-Use the approved continuity frame exported from Shot 05 as the primary image reference
-when generating this shot. The reference image is supplied by the production workflow
-and should not be hardcoded into this document.
+OpenArt Reference Setup:
+
+@image1 = approved exported final continuity frame from Shot 05.
+
+Use @image1 as the required starting continuity reference. Preserve Luca, Kiko, the placed round stone, the Stone Hill layout, lighting, camera position and Episode Colour Master. Continue naturally from @image1 into the gentle ending pull-back; do not reset the camera or redesign the environment.
+
+The reference image is supplied by the production workflow and should not be hardcoded
+into this document.
 
 ---
 
@@ -97,12 +105,15 @@ established framing and composition while allowing natural character motion; kee
 camera in the same setup rather than recomposing into a new shot.
 
 Allow a gentle pull-back to reveal Luca, Kiko, the placed stone and the Stone Hill
-discovery area together. Keep movement slow and cinematic. The last 2 seconds (13-15s)
-are clearly silent and peaceful, with no spoken lines. Hold the final frame quietly.
+discovery area together. Do not introduce new characters, new landmarks, new paths,
+buildings, caves, waterfalls or a different Stone Hill area. The placed round stone
+must remain safely and flat on the mossy patch throughout the shot. Keep movement slow
+and cinematic. The last 2 seconds (13-15s) are clearly silent and peaceful, with no
+spoken lines. Hold the final frame quietly.
 
 The final frame should be clean, peaceful and YouTube end-screen friendly, with some
 uncluttered background/sky space if naturally available. Do not add any text inside the
-video. No extra dialogue after the final line.
+video. No extra dialogue after the final line. No logo, no title card, no captions, no subtitles, no subscribe graphics and no end-card graphics inside the generated video.
 
 Warm morning daylight throughout.
 
@@ -151,7 +162,7 @@ Match the Episode Colour Master. No lighting change, no golden afternoon shift.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, golden afternoon light, sunset, moonlight, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, golden afternoon light, sunset, moonlight, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects, building, house, door, roof, bench, cave, waterfall, tower, entrance, sign, bridge, pond, river, stream, water feature, stone house, doorway, window, chimney, constructed structure, wooden structure, title card, logo, end card graphics, subscribe button, like button, arrows
 
 ## QA Checklist
 
@@ -172,6 +183,11 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No background object morphing
 - [ ] Round stone prop remains consistent
 - [ ] Same physical location is preserved throughout the shot
+- [ ] @image1 continuity preserved from Shot 05 final frame.
+- [ ] Both Luca and Kiko remain visible and consistent throughout.
+- [ ] The placed round stone remains safely and flat on the mossy patch throughout.
+- [ ] No new landmarks, buildings, caves, waterfalls or alternate Stone Hill area appear.
+- [ ] No title card, logo, captions, subscribe graphics or end-card graphics are generated inside the video.
 
 ## Stronger Ending
 
