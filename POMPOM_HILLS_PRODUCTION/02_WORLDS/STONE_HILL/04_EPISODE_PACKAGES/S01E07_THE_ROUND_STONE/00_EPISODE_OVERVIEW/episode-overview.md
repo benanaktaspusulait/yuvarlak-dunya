@@ -18,8 +18,9 @@ S01E07 — The Round Stone
 
 ## Shot Count
 
-6 story shots (Shot 01–06). A story-external micro-opening (`01_SHOTS/shot-00-stone-hill-opening.md`)
-is also present and is not counted as a story shot.
+6 story shots (Shot 01–06). An optional story-external pre-roll (the reusable Stone Hill
+Adventures Micro-Opening, see § Production Note below) may be added before Shot 01 and
+is not counted as a story shot.
 
 ## Characters
 

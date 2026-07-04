@@ -12,11 +12,11 @@
 > Render prompts: `POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/03_OPENINGS/STONE_HILL_ADVENTURES_MICRO_OPENING/render-prompts.md`
 > World canon: `POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/00_CANON/27-stone-hill-bible.md`
 >
-> **First implementation:** `S01E07 — The Round Stone` already built this pattern directly
-> into its own episode file as `01_SHOTS/shot-00-stone-hill-opening.md` (produced before this
-> reusable package existed). That shot file is left untouched. Future Stone Hill episodes
-> should reuse this package instead of re-specifying the opening from scratch inside each
-> episode.
+> **Reuse note:** Future Stone Hill episodes should reference this reusable package instead
+> of redefining the opening from scratch. It is not an episode story shot and should not
+> live inside an episode's `01_SHOTS/` folder or be numbered as `shot-00`. An episode may
+> reference it in its own overview as an "Optional Pre-Roll" (see
+> `s01e07-preroll-reference.md` in this same folder for the S01E07 example).
 
 ## Duration
 
@@ -61,3 +61,48 @@ volume/instrument limits in `00-CORE/AUDIO_GUIDE.md`.
 ## Transition
 
 The final frame should visually connect into the first story shot of the episode.
+
+## Production Workflow
+
+This micro-opening may be produced either still-first or shot-first.
+
+**Preferred practical workflow: Shot-first.**
+
+Reason: the asset is ultimately used as a 3–4 second video lead-in, so generating it
+directly as a short opening shot can be faster and more production-friendly than always
+generating a still first.
+
+**Shot-first rules:**
+
+- Treat this as `Stone Hill Adventures Micro-Opening Shot`.
+- Do not number it as `shot-00` inside an episode's `01_SHOTS/` folder. When an episode
+  uses it, reference it in the episode overview as an "Optional Pre-Roll" instead (see
+  example below and `s01e07-preroll-reference.md` in this folder).
+- It is not part of the main story duration.
+- It does not replace Shot 01.
+- Characters still begin in Shot 01.
+- The micro-opening shows only Stone Hill atmosphere.
+- After rendering, export:
+  - first frame
+  - final frame
+  - final video clip
+- Save these assets in the Stone Hill opening package.
+
+**Clarify:** this is a reusable world asset, not a normal story shot. It should live under:
+
+```text
+POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/03_OPENINGS/STONE_HILL_ADVENTURES_MICRO_OPENING/
+```
+
+not inside every episode folder.
+
+If an episode wants to reference it, the episode overview can list it as:
+
+```text
+Optional Pre-Roll: Stone Hill Adventures Micro-Opening
+Duration: 3–4 seconds
+Source: POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/03_OPENINGS/STONE_HILL_ADVENTURES_MICRO_OPENING/
+```
+
+See `render-prompts.md` § Option A / Option B for the still-first vs. shot-first render
+prompts.

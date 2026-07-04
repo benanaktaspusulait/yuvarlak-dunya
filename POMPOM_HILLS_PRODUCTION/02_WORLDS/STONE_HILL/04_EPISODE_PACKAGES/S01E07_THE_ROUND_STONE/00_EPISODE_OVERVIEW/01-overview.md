@@ -6,10 +6,23 @@
 
 Story: 1:30 (6 shots × 15 seconds) — this is the canonical episode length.
 
-Total video: ~1:33-1:34 with the optional story-external Stone Hill micro-opening
-(`shots/shot-00-stone-hill-opening.md`, ~3-4s). The micro-opening is NOT part of the
-90-second story; it is a calm lead-in that hands off into Shot 01. The story stays Shot
-01-06 = 90 seconds regardless of whether the opener is used.
+Total video: ~1:33-1:34 with the optional Stone Hill Adventures micro-opening as pre-roll
+(see § Optional Pre-Roll below, ~3-4s). The pre-roll is NOT part of the 90-second story;
+it is a calm lead-in that hands off into Shot 01. The story stays Shot 01-06 = 90 seconds
+regardless of whether the pre-roll is used.
+
+## Optional Pre-Roll: Stone Hill Adventures Micro-Opening
+
+| Field | Value |
+|---|---|
+| Duration | 4 seconds |
+| Source | `POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/03_OPENINGS/STONE_HILL_ADVENTURES_MICRO_OPENING/` |
+
+The pre-roll is not part of the 90-second story. The story starts at Shot 01. Shot 01
+remains the first story shot and Episode Colour Master. This is a reusable world asset,
+not an episode-specific shot — see
+`POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/03_OPENINGS/STONE_HILL_ADVENTURES_MICRO_OPENING/s01e07-preroll-reference.md`
+for the S01E07-specific production reference (colour hand-off, sound, negative prompt).
 
 ---
 

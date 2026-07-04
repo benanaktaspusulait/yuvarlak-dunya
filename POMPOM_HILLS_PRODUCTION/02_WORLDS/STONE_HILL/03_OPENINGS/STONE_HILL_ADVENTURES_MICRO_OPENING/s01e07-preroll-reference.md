@@ -1,4 +1,13 @@
-# E07 — Shot 00 — Stone Hill Micro-Opening (Story-External)
+# Stone Hill Adventures Micro-Opening — S01E07 Pre-Roll Reference
+
+> **This is a reusable world asset, not an episode story shot.** It lives in
+> `POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/03_OPENINGS/STONE_HILL_ADVENTURES_MICRO_OPENING/`
+> alongside `opening-stone-hill-adventures.md`, `render-prompts.md` and
+> `openart-frame-to-video-prompt.md`. It is documented here specifically as the pre-roll
+> reference for S01E07 — The Round Stone. S01E07's own shot list is Shot 01-06 only; this
+> file is not `shot-00` inside that episode's `01_SHOTS/` folder. See the episode's
+> `00_EPISODE_OVERVIEW/01-overview.md` § Optional Pre-Roll for how the episode references
+> this asset.
 
 ---
 
@@ -6,8 +15,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Episode | S01E07 — The Round Stone |
-| Shot | 00 / 06 (story-external intro, NOT part of the 90s story) |
+| Used by episode | S01E07 — The Round Stone (as optional pre-roll, not a story shot) |
 | Duration | 3-4 seconds |
 | Location | Stone Hill — Rounded Stone Discovery Area |
 | Characters | None (empty establishing atmosphere) |
@@ -20,8 +28,8 @@
 A very short, calm "Stone Hill" atmosphere opener that plays BEFORE the story.
 
 This micro-opening is story-external. It does not add any narrative, problem, or
-character action. The actual episode is still Shot 01-06 = 90 seconds. With this opener
-the total video runs about 93-94 seconds.
+character action. The episode's story remains Shot 01-06 = 90 seconds. With this
+pre-roll the total video runs about 93-94 seconds.
 
 Do NOT count this opener as part of the 90-second story. Do NOT extend or repeat it.
 
@@ -34,6 +42,11 @@ This is a story-external opener placed before Shot 01.
 Its final frame must connect smoothly into the Shot 01 opening frame (same Stone Hill
 set, same warm morning daylight, same Episode Colour Master). Think of it as a soft lead
 -in that hands off directly to Shot 01.
+
+The approved final frame of this Shot 00 should be used only as a visual hand-off
+reference for Shot 01 — it does not define the Episode Colour Master. Shot 01 remains
+the Episode Colour Master for the main 90-second story (see
+`shot-01-luca-discovers-stone.md` § Continuity).
 
 ---
 
@@ -148,7 +161,7 @@ Match the Shot 01 Episode Colour Master. No lighting change into Shot 01.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, title card, logo, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, characters, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, title card, logo, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, characters, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, background morphing, disappearing stones, changing path, new houses, modern objects, no building, no house, no door, no roof, no bench, no cave, no waterfall, no tower, no entrance, no sign, no bridge, no river, no stream, no water feature
 
 ## QA Checklist
 

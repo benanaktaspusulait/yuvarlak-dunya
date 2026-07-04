@@ -17,13 +17,21 @@
 
 ## Continuity
 
-This is the FIRST shot of the episode.
+This is the first story shot of the episode. It begins after the optional Stone Hill
+Adventures Micro-Opening pre-roll (a reusable world asset, not a story shot — see
+`POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/03_OPENINGS/STONE_HILL_ADVENTURES_MICRO_OPENING/s01e07-preroll-reference.md`
+and the episode overview's § Optional Pre-Roll).
 
-No previous shot reference exists.
+The story does not depend on the pre-roll, but the visual transition should match its
+approved final frame.
 
 Use the approved Shot 01 still as the opening frame and Episode Colour Master. Luca is
 already visible in this still, walking slowly along the pebble path; he does not enter
 from off-screen.
+
+Use the approved pre-roll final frame as a soft visual continuity reference for lighting,
+pebble path, rounded stones, moss and warm morning atmosphere. Luca appears in Shot 01;
+no characters appear in the pre-roll.
 
 ---
 
@@ -43,7 +51,9 @@ generic rocky field.
 
 ## Start Frame
 
-This is the FIRST shot. No previous shot reference.
+This is the first story shot. The optional Stone Hill Adventures Micro-Opening pre-roll
+may play immediately before it, but Shot 01 does not depend on the pre-roll as a
+previous-shot reference for character or story continuity.
 
 This still defines the Episode Colour Master (exposure, brightness, colour temperature,
 saturation, contrast). All later shots must match it.
@@ -89,7 +99,10 @@ The Stone Hill background is locked from the first frame; keep all visible round
 
 ## Reference Usage
 
-This is the FIRST shot. No previous shot reference.
+This is the first story shot; it has no previous *story* shot reference. The approved
+pre-roll final frame may be used only as a soft visual continuity reference (lighting,
+pebble path, rounded stones, moss, atmosphere) if the Stone Hill Adventures Micro-Opening
+pre-roll is used.
 
 The reference still is supplied by the production workflow and should not be hardcoded
 into this document.
@@ -98,7 +111,12 @@ into this document.
 
 ## Camera Direction
 
-This is the first shot of the episode. No previous shot reference exists.
+This is the first story shot of the episode. It begins after the optional Stone Hill
+Adventures Micro-Opening pre-roll; no previous *story* shot reference exists.
+
+Match the approved Stone Hill micro-opening final frame in lighting, path feel, rounded
+stones, moss and warm morning atmosphere, while keeping Luca stylized and
+preschool-friendly.
 
 Begin with a soft 35mm wide establishing shot that shows the Stone Hill discovery area.
 
