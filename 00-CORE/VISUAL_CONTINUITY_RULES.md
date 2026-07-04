@@ -208,6 +208,9 @@ Mekan shot'lar arasında tutarlı olmalıdır.
 - No new establishing shots
 - Environment feels like the same place
 - Do not reveal new parts of the world unexpectedly
+- If the world has sub-zones (e.g. Flower Hill — Nature Field Zone / Home
+  Cluster Zone), the zone stays fixed for the duration of a scene unless a
+  transition shot explicitly moves between zones
 ```
 
 ---

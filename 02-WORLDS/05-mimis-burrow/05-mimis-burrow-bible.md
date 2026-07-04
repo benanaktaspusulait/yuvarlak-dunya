@@ -9,7 +9,7 @@
 Environment ID: ENV-005
 File: 02-WORLDS/05-mimis-burrow/
 Version: 3.1
-Location: Flower Hill
+Location: Flower Hill — Home Cluster Zone
 Type: Living World (Exterior + Interior)
 Status: Design
 Bible: ✅
@@ -94,9 +94,9 @@ Güven · Rahatlık · Sakinlik · Dostluk · Gizli keşif
 ## World Position
 
 ```
-Kiko's Home (Flower Hill)
+Kiko's Home (Flower Hill — Home Cluster Zone)
         ↓ 1 dakika
-Mimi's Burrow ← BURASI
+Mimi's Burrow (Flower Hill — Home Cluster Zone) ← BURASI
         ↓ 1 dakika
 Rosie's Rose Garden
         ↓ 2 dakika
@@ -104,9 +104,9 @@ Butterfly Meadow
 ```
 
 **Komşuları:**
-- Kuzey: Kiko's Home (1 dk)
+- Kuzey: Kiko's Home (1 dk, aynı Home Cluster Zone)
 - Güney: Rosie's Rose Garden (1 dk)
-- Doğu: Flower Hill çiçek tarlası
+- Doğu: Flower Hill — Nature Field Zone (çiçek tarlası)
 - Batı: Central Square (3 dk)
 
 ---

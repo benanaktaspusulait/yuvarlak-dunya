@@ -30,8 +30,9 @@ Curiosity • Friendship • Sharing
 
 ## Locations
 
-1. Kiko's Home (`environment/03-kikos-home.png`)
-2. Butterfly Meadow (`environment/17-butterfly-meadow.png`)
+1. Flower Hill — Home Cluster Zone (`02-WORLDS/25-flower-hill/25-flower-hill-bible.md`; legacy reference images `12-ENVIRONMENT/25-flower-hill/`)
+2. Kiko's Home (`environment/03-kikos-home.png`)
+3. Butterfly Meadow (`environment/17-butterfly-meadow.png`)
 
 ---
 

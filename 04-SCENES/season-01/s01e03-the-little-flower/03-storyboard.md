@@ -26,7 +26,7 @@
 
 ## Scene 02
 
-**📍 Location:** Flower Hill
+**📍 Location:** Flower Hill — Nature Field Zone
 
 **🎬 Action:** Kiko walks, stops, sees tiny seed on ground, bends down
 

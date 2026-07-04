@@ -2,8 +2,9 @@
 # validate-all.sh — Tüm bölümleri validate et
 # Kullanım: bash scripts/validate-all.sh
 
-SCENES_DIR="/Users/benanaktas/project/video/yuvarlak-dunya/04-SCENES/season-01"
-SCRIPT_DIR="/Users/benanaktas/project/video/yuvarlak-dunya/scripts"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+SCENES_DIR="$REPO_ROOT/04-SCENES/season-01"
 
 TOTAL=0
 PASSED=0
@@ -41,7 +42,7 @@ echo "  ÖZET"
 echo "============================================"
 echo "  Toplam: $TOTAL bölüm"
 echo "  ✅ Geçen: $PASSED"
-echo "  ❌ Geçen: $FAILED"
+echo "  ❌ Kalan: $FAILED"
 echo "============================================"
 
 exit $FAILED

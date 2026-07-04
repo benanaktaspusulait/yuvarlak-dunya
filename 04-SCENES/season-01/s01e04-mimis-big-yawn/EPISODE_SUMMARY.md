@@ -12,7 +12,7 @@
 | Tekrar cümle | "So sleepy, so sleepy..." |
 | Hedef yaş | 3-4 |
 | Ana duygu | Şefkat + sükunet |
-| Lokasyon | Flower Hill → Cloud Hill → Sun Hill → Central Square → Opa's Tree |
+| Lokasyon | Flower Hill — Nature Field Zone → Cloud Hill → Sun Hill → Central Square → Opa's Tree |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
-| Flower Hill | `02-WORLDS/25-flower-hill-bible.md` (render plate yok) | 01-04 |
+| Flower Hill — Nature Field Zone | `02-WORLDS/25-flower-hill/25-flower-hill-bible.md` (legacy reference images: `12-ENVIRONMENT/25-flower-hill/`) | 01-04 |
 | Cloud Hill | `environment/02-cloud-hill.png` | 05 |
 | Sun Hill | `environment/04-sun-hill.png` | 06 |
 | Central Square | `environment/01-central-square/hero-view.png` | 07 |
@@ -31,18 +31,18 @@
 ## Sahne Sahne Anlatım
 
 ### Sahne 01 — Yürüyüş (0-15 sn)
-**Mekan:** Flower Hill — Kiko ve Mimi birlikte yürüyor; gün güzel, hava sıcak.
+**Mekan:** Flower Hill — Nature Field Zone — Kiko ve Mimi birlikte yürüyor; gün güzel, hava sıcak.
 
 ### Sahne 02 — Büyük Esneme (15-30 sn)
-**Mekan:** Flower Hill — Mimi durur, kocaman esner; kulakları iner, gözleri yarı kapanır.
+**Mekan:** Flower Hill — Nature Field Zone — Mimi durur, kocaman esner; kulakları iner, gözleri yarı kapanır.
 **Diyalog:** Mimi: "So sleepy..."
 
 ### Sahne 03 — Kiko Fark Eder (30-45 sn)
-**Mekan:** Flower Hill — Kiko durup Mimi'ye bakar; yorgun mu diye sorar. Mimi başını sallar.
+**Mekan:** Flower Hill — Nature Field Zone — Kiko durup Mimi'ye bakar; yorgun mu diye sorar. Mimi başını sallar.
 **Diyalog:** Kiko: "Mimi, are you tired?"
 
 ### Sahne 04 — Yer Arayışı (45-60 sn)
-**Mekan:** Flower Hill — Kiko etrafına bakar, birlikte koşmaya başlarlar.
+**Mekan:** Flower Hill — Nature Field Zone — Kiko etrafına bakar, birlikte koşmaya başlarlar.
 **Diyalog:** Kiko: "Let's find a spot!"
 
 ### Sahne 05 — Çok Rüzgarlı (60-75 sn)

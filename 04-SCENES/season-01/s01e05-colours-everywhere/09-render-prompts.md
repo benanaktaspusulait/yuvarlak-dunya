@@ -19,30 +19,30 @@ Kiko opening door of coral pink house, colorful morning, blue sky, {style}, {cam
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
-### Scene 02
+### Scene 02 — Flower Hill — Nature Field Zone
 ```text
-Kiko pointing at red flowers on Flower Hill, curious happy expression, {style}, {camera}, {lighting}, 16:9
+Kiko pointing at red flowers on Flower Hill — Nature Field Zone, five-colour flower carpet visible, curious happy expression, {style}, {camera}, {lighting}, 16:9
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
-### Scene 03
+### Scene 03 — Flower Hill — Nature Field Zone
 ```text
-Kiko looking up at bright blue sky, happy expression, Flower Hill, {style}, {camera}, {lighting}, 16:9
+Kiko looking up at bright blue sky, happy expression, Flower Hill — Nature Field Zone, {style}, {camera}, {lighting}, 16:9
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
-### Scene 04
+### Scene 04 — Flower Hill — Nature Field Zone
 ```text
-Kiko pointing at yellow sun, Mimi hopping in, excited expressions, {style}, {camera}, {lighting}, 16:9
+Kiko pointing at yellow sun, Mimi hopping in, Flower Hill — Nature Field Zone, excited expressions, {style}, {camera}, {lighting}, 16:9
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
 
-### Scene 05
+### Scene 05 — Flower Hill — Nature Field Zone
 ```text
-Kiko and Mimi looking at green grass, playful expressions, {style}, {camera}, {lighting}, 16:9
+Kiko and Mimi looking at green grass on Flower Hill — Nature Field Zone, playful expressions, {style}, {camera}, {lighting}, 16:9
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

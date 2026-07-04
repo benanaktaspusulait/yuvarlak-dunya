@@ -1,4 +1,4 @@
-# S01E07 — The Round Stone v1.0
+# S01E07 — The Round Stone v2.0
 
 ---
 
@@ -6,47 +6,43 @@
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 60 saniye (4 sahne × 15 sn) |
+| Süre | 90 saniye (6 sahne × 15 sn) |
 | Karakterler | Luca, Kiko |
-| Mekan | Stone Hill |
-| Duygu | Keşif + arkadaşlık |
-| Tema | Güzel bir şey bulmak ve paylaşmak |
+| Mekan | Stone Hill — Rounded Stone Discovery Area |
+| Duygu | Merak + arkadaşlık + paylaşma |
+| Tema | Şekilleri fark etmek ve keşfi paylaşmak |
 
 ---
 
 ## Story Summary
 
-Luca, Stone Hill'de yuvarlak bir taş keşfeder. Kiko'ya gösterir. Kiko'ya göre taş aya benzer. İkisi birlikte taşa bakar.
+Luca, Stone Hill'de yumuşak yuvarlak bir taş keşfeder ve Kiko'ya gösterir. Birlikte taşın
+şeklini incelerler, neye benzediğini hayal ederler ve Stone Hill'in yuvarlak şekillerle
+dolu olduğunu fark ederler. Taşı sadece kendilerine saklamak yerine, herkesin görebileceği
+bir yere nazikçe bırakırlar. Sıcak, paylaşılmış bir keşifle biter.
 
 ---
 
 ## Sahne 01 — Luca Taşı Bulur (0-15 sn)
 
 **Beat:**
-- 0-5 sn: Wide shot. Stone Hill görünür. Luca taşların arasında yürür.
-- 5-10 sn: Luca durur. Yerde yuvarlak, düz bir taş görür. Eğilir, alır.
-- 10-15 sn: Taşı inceler. Yüzünde meraklı bir gülümseme.
+- 0-5 sn: Wide establishing. Luca pebble path'te yuvarlak taşların arasında yürür, yuvarlak düz bir taş görür.
+- 5-10 sn: Eğilir, taşı nazikçe alır.
+- 10-15 sn: Meraklı bir gülümsemeyle taşı inceler.
 
 **Dialogue:**
 ```
 Luca: Oh! What's this?
 ```
 
-**Visual Prompt:**
-```text
-Luca from Pompom Hills standing on Stone Hill, bending down to pick up a round flat stone from the ground, curious expression, warm morning daylight, Stone Hill environment with rounded rock formations, no other characters, {style} {camera} {lighting}
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
-
 ---
 
-## Sahne 02 — Luca Kiko'yu Bulur (15-30 sn)
+## Sahne 02 — Luca Kiko'ya Gösterir (15-30 sn)
 
 **Beat:**
-- 0-5 sn: Kiko Stone Hill'e gelir. Luca'yı görür.
-- 5-10 sn: Luca koşarak Kiko'ya gider. Eliyle gösterir.
-- 10-15 sn: Kiko taşa bakar.
+- 0-5 sn: Kiko aynı Stone Hill path'inden doğal olarak girer, Luca'yı görür.
+- 5-10 sn: Luca dönüp taşı gösterir.
+- 10-15 sn: Kiko taşa hayranlıkla bakar.
 
 **Dialogue:**
 ```
@@ -55,59 +51,76 @@ Luca: Look what I found!
 Kiko: Wow!
 ```
 
-**Visual Prompt:**
-```text
-Luca showing a round stone to Kiko on Stone Hill, Kiko looking at the stone with wonder, warm morning light, Stone Hill with rounded rocks, no other characters, {style} {camera} {lighting}
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
-
 ---
 
 ## Sahne 03 — Taşı İncelerler (30-45 sn)
 
 **Beat:**
-- 0-5 sn: Kiko taşı alır. İnceler.
-- 5-10 sn: Gökyüzüne bakar. Sonra taşa bakar.
-- 10-15 sn: Gülümser.
+- 0-5 sn: Kiko taşı tutar, Luca yuvarlak şeklini işaret eder.
+- 5-10 sn: Taşı ellerinde yavaşça çevirirler.
+- 10-15 sn: İkisi de hayranlıkla gülümser.
 
 **Dialogue:**
 ```
-Kiko: It looks like the moon!
-Luca: You're right!
-```
-
-**Visual Prompt:**
-```text
-Kiko holding a round stone and looking up at the sky, then at the stone, Luca watching her with a smile, warm daylight, Stone Hill rocks, no other characters, {style} {camera} {lighting}
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Kiko: It's so round.
+Luca: Like a tiny moon!
 ```
 
 ---
 
-## Sahne 04 — Birlikte Bakarlar (45-60 sn)
+## Sahne 04 — Başka Ne Yuvarlak? (45-60 sn)
 
 **Beat:**
-- 0-5 sn: Kiko taşı havaya kaldırır. İkisi de bakar.
-- 5-10 sn: Luca da bakar. Gülümserler.
-- 10-15 sn: İkisi de taşa bakarak gülümser.
+- 0-5 sn: Etraflarındaki diğer yuvarlak taşlara bakarlar.
+- 5-10 sn: Kiko yerde duran başka bir yuvarlak taşı işaret eder.
+- 10-15 sn: Luca gülümser, tepeyi gösterir.
 
 **Dialogue:**
 ```
-Luca: Let's keep it.
-Kiko: Together!
+Kiko: This one is round too.
+Luca: Stone Hill has so many shapes!
 ```
 
-**Visual Prompt:**
-```text
-Kiko and Luca on Stone Hill looking at a round stone together, warm smiles, golden afternoon light beginning, rounded rocks around them, peaceful happy moment, no other characters, {style} {camera} {lighting}
+---
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+## Sahne 05 — Taşa Bir Yer (60-75 sn)
+
+**Beat:**
+- 0-5 sn: Yuvarlak taşların arasında küçük, güvenli mossy bir yer bulurlar.
+- 5-10 sn: Kiko taşı moss üzerine düz ve nazikçe bırakır.
+- 10-15 sn: İkisi de bırakılan taşa sıcakça bakar.
+
+**Dialogue:**
 ```
+Luca: Should we keep it?
+Kiko: Maybe we can share it.
+```
+
+---
+
+## Sahne 06 — Birlikte (75-90 sn)
+
+**Beat:**
+- 0-5 sn: İkisi geri çekilip bırakılan taşa bakar.
+- 5-10 sn: Birbirlerine, sonra taşa gülümserler.
+- 10-15 sn: Sıcak paylaşılmış an; ~2 sn sessiz final kare.
+
+**Dialogue:**
+```
+Luca: Now everyone can see it.
+Kiko: Together.
+Luca: Together.
+```
+
+---
+
+## Lighting (Tüm Sahneler)
+
+Warm morning daylight. Soft preschool light. Low contrast. No harsh shadows.
+Shot 01 = Episode Colour Master. No golden afternoon, no moonlight.
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different world
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects

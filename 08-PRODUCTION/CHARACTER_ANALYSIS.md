@@ -13,7 +13,7 @@ Her karakter için potansiyel bölüm kombinasyonlarını listeler.
 | Bölüm | Mekan | Konu | Durum |
 |-------|-------|------|-------|
 | S01E01 | Central Square | Tanışma | 🟢 Tamamlandı |
-| S01E02 | Flower Hill → Central Square | Top oyunu | 🟡 Yazıldı |
+| S01E02 | Flower Hill — Home Cluster Zone → Central Square | Top oyunu | 🟡 Yazıldı |
 | S01E03 | Tillo's Garden | Çiçek yetiştirme | 🟡 Yazıldı |
 | S01E05 | Rosie's Garden → Central Square | Renkler | 🟡 Yazıldı |
 | S01E06 | Pompom Hills genel | Rüzgar | 🟡 Yazıldı |

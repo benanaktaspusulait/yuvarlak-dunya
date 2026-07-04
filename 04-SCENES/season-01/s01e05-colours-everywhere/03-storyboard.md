@@ -18,7 +18,7 @@
 
 ## Scene 02
 
-**📍 Location:** Flower Hill
+**📍 Location:** Flower Hill — Nature Field Zone
 
 **🎬 Action:** Kiko points at red flowers
 
@@ -32,7 +32,7 @@
 
 ## Scene 03
 
-**📍 Location:** Flower Hill
+**📍 Location:** Flower Hill — Nature Field Zone
 
 **🎬 Action:** Kiko looks up at blue sky
 
@@ -46,7 +46,7 @@
 
 ## Scene 04
 
-**📍 Location:** Flower Hill
+**📍 Location:** Flower Hill — Nature Field Zone
 
 **🎬 Action:** Kiko points at yellow sun, Mimi hops in
 
@@ -60,7 +60,7 @@
 
 ## Scene 05
 
-**📍 Location:** Flower Hill
+**📍 Location:** Flower Hill — Nature Field Zone
 
 **🎬 Action:** They look at green grass
 

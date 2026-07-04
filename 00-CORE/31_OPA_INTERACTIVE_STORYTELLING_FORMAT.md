@@ -114,6 +114,43 @@ Opa smiles: "Yes. Story time."
 
 Forbidden: loud music, fast logo animation, big on-screen text by default, long intro sequences.
 
+The opening beat length above (3–6 seconds) is a hard maximum, consistent with the general Opening Bumper Rule in `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §4a. This series-specific opening replaces the general one — do not stack both.
+
+---
+
+## 4a. Series Closing Rule
+
+Every episode ends with a short recurring closing beat, following the general Closing Bumper Rule in `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §9a.
+
+| Rule | Value |
+|---|---|
+| Closing beat length | 3–6 seconds maximum |
+| Purpose | Warm emotional resolution, series recognition, support repeat/playlist viewing |
+| Required feeling | "The story is finished, and it was worth staying for." |
+
+Approved closing patterns:
+
+**Option A — Book Closing**
+```
+Opa gently closes the storybook. Children smile.
+Opa: "And that is our story for today."
+```
+
+**Option B — Story Circle**
+```
+Children settle, calm and warm. Opa looks at them softly.
+Opa: "Until next time, little friends."
+```
+
+**Option C — Quiet Hold**
+```
+Opa and the children sit together in a quiet, warm final hold. No new dialogue.
+```
+
+Forbidden: loud subscribe requests, "smash like" language, flashing text, long credits, abrupt cut to black — see `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §9a for the full forbidden list.
+
+Playlist CTA and end-screen elements go in the description/upload metadata, not inside the video — see §16 and `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §17 Public Link Rule.
+
 ---
 
 ## 5. Optional Series Title Card
@@ -358,5 +395,5 @@ Opa is the storyteller. The children are active listeners. The story grows throu
 ---
 
 *This document is the single source of truth for the Opa's Storytime series format.*
-*Version: 1.0*
+*Version: 1.1 — Added series closing rule (§4a), cross-referenced to `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §4a/§9a.*
 *Last updated: 4 Temmuz 2026*

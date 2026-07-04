@@ -12,7 +12,7 @@
 | Tekrar cümle | "Water, wait, and smile!" |
 | Hedef yaş | 3-4 |
 | Ana duygu | Merak + sabır + gurur |
-| Lokasyon | Kiko's Home → Flower Hill → Tillo's Garden → Central Square |
+| Lokasyon | Kiko's Home → Flower Hill — Nature Field Zone → Tillo's Garden → Central Square |
 
 ---
 
@@ -21,10 +21,17 @@
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
 | Kiko's Home | `environment/03-kikos-home.png` | 01 |
-| Flower Hill | `02-WORLDS/25-flower-hill-bible.md` (render plate yok) | 02, 05-10 |
-| Tillo's Garden | `environment/07-tillos-garden.png` | 03-04 |
+| Flower Hill — Nature Field Zone | `02-WORLDS/25-flower-hill/25-flower-hill-bible.md` (legacy reference images: `12-ENVIRONMENT/25-flower-hill/`) | 02 |
+| Tillo's Garden | `environment/07-tillos-garden.png` | 03-10 |
 | Central Square | `environment/01-central-square/hero-view.png` | 11 |
 | Opa's Tree | `environment/06-opas-tree/hero-view.png` | 12 |
+
+> **Süreklilik notu (v4.4):** Sahne 05-10'un mekanı önceki bir sürümde
+> yanlışlıkla "Flower Hill" yazılmıştı. Storyboard, render-prompts,
+> coordinate-map, camera plan, assets ve overview dosyalarının hepsi bu
+> sahneleri **Tillo's Garden** olarak tanımlıyor (tohum orada dikilir ve
+> orada büyür). Bu özet dosyası artık üretim canon'una göre düzeltildi.
+> Sadece Sahne 02 (tohumu yerde bulma) Flower Hill — Nature Field Zone'da geçer.
 
 ---
 
@@ -35,7 +42,7 @@
 **Diyalog:** Kiko: "Good morning!"
 
 ### Sahne 02 — Tohum (15-30 sn)
-**Mekan:** Flower Hill — Kiko yerde küçük, yuvarlak, kahverengi bir tohum görür; eğilip inceler.
+**Mekan:** Flower Hill — Nature Field Zone — Kiko yerde küçük, yuvarlak, kahverengi bir tohum görür; eğilip inceler.
 **Diyalog:** Kiko: "What's that?"
 
 ### Sahne 03 — Tillo Yardım Eder (30-45 sn)
@@ -48,28 +55,28 @@
 **Asset:** `03-PROPS/Tools/1-watering-can.png`
 
 ### Sahne 05 — Bekleyiş (60-75 sn)
-**Mekan:** Flower Hill — Kiko oturur, gökyüzüne ve toprağa bakar. Hiçbir şey olmaz ama beklemeye devam eder.
+**Mekan:** Tillo's Garden — Kiko oturur, gökyüzüne ve toprağa bakar. Hiçbir şey olmaz ama beklemeye devam eder.
 **Diyalog:** Kiko: "Any second now..."
 
 ### Sahne 06 — Mimi Katılır (75-90 sn)
-**Mekan:** Flower Hill — Mimi hop hop gelir, Kiko'nun yanına oturur; birlikte beklerler.
+**Mekan:** Tillo's Garden — Mimi hop hop gelir, Kiko'nun yanına oturur; birlikte beklerler.
 **Diyalog:** Mimi: "Can I wait too?" / Kiko: "Together!"
 
 ### Sahne 07 — Filiz (90-105 sn)
-**Mekan:** Flower Hill — Topraktan küçük, yeşil, yuvarlak bir filiz çıkar; ikisi şaşırır.
+**Mekan:** Tillo's Garden — Topraktan küçük, yeşil, yuvarlak bir filiz çıkar; ikisi şaşırır.
 **Diyalog:** Kiko: "Look!" / Mimi: "It's growing!"
 **Asset:** `03-PROPS/Nature/7-sprout.png`
 
 ### Sahne 08 — Birlikte Su (105-120 sn)
-**Mekan:** Flower Hill — İkisi birlikte filize su döker, gülümserler.
+**Mekan:** Tillo's Garden — İkisi birlikte filize su döker, gülümserler.
 **Diyalog:** "Water, wait, and smile!"
 
 ### Sahne 09 — Büyüme (120-135 sn)
-**Mekan:** Flower Hill — Filiz büyür, yapraklar açılır; Kiko ve Mimi hayranlıkla bakar.
+**Mekan:** Tillo's Garden — Filiz büyür, yapraklar açılır; Kiko ve Mimi hayranlıkla bakar.
 **Diyalog:** "So pretty!"
 
 ### Sahne 10 — Çiçek Açar (135-150 sn)
-**Mekan:** Flower Hill — Büyük, yuvarlak, pembe yapraklı, sarı merkezli çiçek açar; ikisi zıplar.
+**Mekan:** Tillo's Garden — Büyük, yuvarlak, pembe yapraklı, sarı merkezli çiçek açar; ikisi zıplar.
 **Diyalog:** Kiko: "We did it!" / Mimi: "Together!"
 
 ### Sahne 11 — Gösterme (150-165 sn)

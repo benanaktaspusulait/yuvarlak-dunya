@@ -9,8 +9,16 @@
 | Episode | Bounce, Bounce, Kiko! |
 | Shot | 02 / 04 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Flower Hill — Home Cluster Zone |
+| Characters | Kiko, Mimi |
+
+### Spatial Anchor
+
+Mimi's rounded burrow entrance and the same garden path visible in Shot 01 remain in the same position.
+
+### Reference Use
+
+Use `12-ENVIRONMENT/25-flower-hill/hero-view.png` as the visual quality anchor; continue directly from Shot 01's continuity frame.
 
 ---
 
@@ -36,19 +44,21 @@ Only the main characters and any props may move unless camera movement naturally
 ## Visual Prompt
 
 ```text
-Ball rolls to Mimi's burrow. Mimi joins. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Medium, 50mm, static, no other characters, {style} {camera} {lighting}
+Ball rolls to Mimi's burrow entrance in Flower Hill — Home Cluster Zone. Mimi joins. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Medium, 50mm, static, no other characters, {style} {camera} {lighting}
+
+Use this Flower Hill Home Cluster Zone visual identity: rounded dome homes, soft stone stairs, small flower fences, flower pots, warm preschool home charm. Keep homes rounded, soft and consistent with Shot 01.
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Do not change the established exposure, brightness or moonlight intensity.
 
-[Karakterler] is already present at the beginning of the shot.
+Kiko and Mimi are already present at the beginning of the shot.
 
-Do not introduce [Karakterler] after the shot has started.
+Do not introduce Kiko and Mimi after the shot has started.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
-The Flower Hill background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
+The Flower Hill Home Cluster Zone background is locked from the first frame; keep all visible rounded homes, stairs, fences, paths, landmarks and environment elements stable throughout the shot.
 ```Continue directly from the previous shot video reference.
 
 The opening frame must continue seamlessly from the previous shot video reference or exported continuity frame.

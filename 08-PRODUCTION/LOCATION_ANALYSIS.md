@@ -46,17 +46,23 @@ Her mekan için potansiyel bölüm ve sahne kombinasyonlarını listeler.
 
 ## 3. Flower Hill
 
-| Bölüm | Karakter | Konu | Durum |
-|-------|----------|------|-------|
-| S01E02 | Kiko, Mimi, Opa | Top oyunu | 🟡 Yazıldı |
+> Flower Hill has two production zones — **Nature Field Zone** (open flower
+> field, colour learning, walking) and **Home Cluster Zone** (Kiko's Home,
+> Mimi's Burrow, home/neighbour stories). See
+> `02-WORLDS/25-flower-hill/25-flower-hill-bible.md` § Visual Richness &
+> World Charm. New episodes below must specify which zone they use.
+
+| Bölüm | Karakter | Konu | Zone | Durum |
+|-------|----------|------|------|-------|
+| S01E02 | Kiko, Mimi, Opa | Top oyunu | Home Cluster Zone | 🟡 Yazıldı |
 
 **Toplam:** 1 bölüm, ~4 sahne
 
 **Potansiyel ek bölümler:**
-- Çiçek yetiştirme (Kiko + Tillo)
-- Kelebek gözlemleme (Kiko + Aiko)
-- Bahar temizliği
-- Mimi'nin yuvası ziyareti
+- Çiçek yetiştirme (Kiko + Tillo) — Nature Field Zone
+- Kelebek gözlemleme (Kiko + Aiko) — Nature Field Zone
+- Bahar temizliği — TODO: Choose Flower Hill zone before generation.
+- Mimi'nin yuvası ziyareti — Home Cluster Zone
 
 ---
 
@@ -64,9 +70,17 @@ Her mekan için potansiyel bölüm ve sahne kombinasyonlarını listeler.
 
 | Bölüm | Karakter | Konu | Durum |
 |-------|----------|------|-------|
+| S01E01 | Luca | Tanıtım sahnesi (Luca'nın evi) | 🟢 Tamamlandı |
 | S01E07 | Luca, Kiko | Yuvarlak taş | 🟡 Yazıldı |
+| S01E21 | Luca, Kiko | Kristal mağara keşfi | 🟡 Yazıldı |
+| S02E15 (planlanan) | Luca | "The Brave One" — cesaret | ⚪ Planlandı |
 
-**Toplam:** 1 bölüm, ~4 sahne
+**Toplam:** 2 tam bölüm (S01E07, S01E21) + S01E01'de kısa tanıtım sahnesi, ~9 sahne
+
+**Karakterler:** Stone Hill her zaman Luca'nın mekanı (`WORLD_BIBLE.md` — Luca ↔ Stone Hill
+eşleşmesi). Kiko, Luca'ya keşif/macera temalı bölümlerde eşlik ediyor
+(`CHARACTER_ANALYSIS.md` — "Kiko + Luca → Keşif, macera → Stone Hill, Little Forest").
+Şimdiye kadar Stone Hill'de sadece Luca ve Kiko görünmüş; başka karakter kullanılmamış.
 
 **Potansiyel ek bölümler:**
 - Taş koleksiyonu

@@ -22,7 +22,7 @@ Her yer renkli.
 
 ### Sahne 02
 
-Flower Hill'de yürürken kırmızı çiçekler görür.
+Flower Hill'in Nature Field Zone'unda yürürken kırmızı çiçekler görür.
 
 Eğilir.
 

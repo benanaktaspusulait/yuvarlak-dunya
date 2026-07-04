@@ -19,10 +19,38 @@ Bu şablonu kullanarak yeni sahne dosyası oluşturun.
 | --- | --- |
 | Karakter | [Karakter adı] |
 | Mekan | [Mekan adı] |
+| Mekan Zone (varsa) | [Mekanın sub-zone'u var mı? Örn. Flower Hill — Nature Field Zone / Home Cluster Zone. Zone yoksa "—".] |
 | Ölçek | Kiko=100, Mimi=80, Opa=120 |
 | Hava | [Gündüz/Gece/Gün batımı] |
 | En-boy | 16:9 |
 | Süre | 15 saniye |
+
+### Mekan Zone Kuralı
+
+Bazı mekanların birden fazla üretim zone'u vardır (örn. Flower Hill →
+Nature Field Zone / Home Cluster Zone, bkz. ilgili world bible §Visual
+Richness & World Charm). Bir mekanın zone'u varsa, `Mekan` alanına yalnızca
+mekan adını yazmak yeterli değildir — zone'u da belirtin:
+
+```
+Mekan: Flower Hill — Home Cluster Zone
+```
+
+Zone belirsizse tahmin etmeyin, şu notu ekleyin:
+
+```
+TODO: Bu mekan için doğru zone'u üretimden önce seç.
+```
+
+Zone belirlendiyse aşağıdaki iki alanı da doldurun:
+
+**Spatial Anchor** — Bu shot'ı sabitleyen tam olarak ne? (örn. "S-curve taş
+patika görünür", "aynı yuvarlak evler, aynı taş merdiven, aynı çit görünür")
+
+**Reference Use** — Bu shot için hangi görsel referans kullanılmalı?
+(örn. "Hero View'i görsel kalite çapası olarak kullan", "sol taraf shot'u
+için left-view referansını kullan", "top-view sadece layout anlayışı için,
+kamera çekimi için değil")
 
 ## Beat
 
@@ -186,6 +214,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 Reference: `16_VIDEO_QA_SPEC.md`
 Standard: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
 
+- [ ] If this world has sub-zones, the correct zone is specified in Mekan (not just the world name)
+- [ ] Zone-specific Spatial Anchor and Reference Use are filled in (if zone applies)
 - [ ] Character integrity verified
 - [ ] Character consistency verified
 - [ ] Voice identity verified

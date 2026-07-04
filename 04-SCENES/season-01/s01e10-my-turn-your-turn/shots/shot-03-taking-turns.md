@@ -164,7 +164,7 @@ Location: Central Square open grass play area.
 
 Spatial anchors: Big Pompom Tree, same play area, same yellow ball, same warm morning light.
 
-Lighting: Warm morning light matched to Episode Colour Master.
+Lighting: Warm morning light. Match the lighting and colour grading exactly to the Episode Colour Master.
 
 Ball: Same round yellow ball, unchanged across the episode.
 

@@ -9,8 +9,16 @@
 | Episode | Bounce, Bounce, Kiko! |
 | Shot | 01 / 04 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Flower Hill — Home Cluster Zone |
+| Characters | Kiko |
+
+### Spatial Anchor
+
+Kiko's own rounded home visible; same rounded dome homes and garden path as the approved Home Cluster reference remain stable throughout the shot.
+
+### Reference Use
+
+Use `12-ENVIRONMENT/25-flower-hill/hero-view.png` as the visual quality anchor for Home Cluster Zone charm (rounded homes, flower fences, stone stairs).
 
 ---
 
@@ -36,11 +44,13 @@ Only the main characters and any props may move unless camera movement naturally
 ## Visual Prompt
 
 ```text
-Kiko finds a yellow ball on Flower Hill in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Wide, 35mm, static, no other characters, {style} {camera} {lighting}
+Kiko finds a yellow ball on Flower Hill — Home Cluster Zone in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Wide, 35mm, static, no other characters, {style} {camera} {lighting}
+
+Use this Flower Hill Home Cluster Zone visual identity: a colourful flower-covered home hill with rounded dome homes, small garden paths, soft stone stairs, flower fences, flower pots and warm preschool home charm. No readable text. No random extra houses.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
-The Flower Hill background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
+The Flower Hill Home Cluster Zone background is locked from the first frame; keep all visible rounded homes, stairs, fences, paths, landmarks and environment elements stable throughout the shot.
 ```
 
 ---

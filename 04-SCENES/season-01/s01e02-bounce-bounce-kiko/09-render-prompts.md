@@ -20,34 +20,34 @@ Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush 
 
 ## Scene Prompts
 
-### Scene 01
+### Scene 01 — Flower Hill — Home Cluster Zone
 ```text
-Kiko opening the round door of her coral pink house on Flower Hill, morning warm soft daylight, light blue sky, round white clouds, warm sun, green grass, round flowers nearby, Kiko 100 units tall, brown pigtails, coral pink shirt, white shorts, happy smile, {style}, {camera}, {lighting}, 16:9
+Kiko opening the round door of her coral pink house on Flower Hill — Home Cluster Zone, rounded dome homes and garden path visible (use 12-ENVIRONMENT/25-flower-hill/hero-view.png as visual quality anchor), morning warm soft daylight, light blue sky, round white clouds, warm sun, green grass, round flowers nearby, Kiko 100 units tall, brown pigtails, coral pink shirt, white shorts, happy smile, {style}, {camera}, {lighting}, 16:9
 ```
 
-### Scene 02
+### Scene 02 — Flower Hill — Home Cluster Zone
 ```text
-Kiko on Flower Hill looking at a round yellow ball on soft green grass, curious expression, bending down, morning daylight, blue sky, round flowers nearby, {style}, {camera}, {lighting}, 16:9
+Kiko on Flower Hill — Home Cluster Zone looking at a round yellow ball on soft green grass near the rounded home cluster, curious expression, bending down, morning daylight, blue sky, round flowers nearby, {style}, {camera}, {lighting}, 16:9
 ```
 
-### Scene 03
+### Scene 03 — Flower Hill — Home Cluster Zone
 ```text
-Kiko holding a round yellow ball with both mitten hands, examining it curiously, then smiling, Flower Hill, green grass, blue sky, {style}, {camera}, {lighting}, 16:9
+Kiko holding a round yellow ball with both mitten hands, examining it curiously, then smiling, Flower Hill — Home Cluster Zone, rounded homes stable in background, green grass, blue sky, {style}, {camera}, {lighting}, 16:9
 ```
 
-### Scene 04
+### Scene 04 — Flower Hill — Home Cluster Zone
 ```text
-Kiko bouncing a round yellow ball on Flower Hill, ball rolling toward Mimi's blue burrow entrance, Kiko chasing happily, green grass, curved stepping stone path, blue sky, {style}, {camera}, {lighting}, 16:9
+Kiko bouncing a round yellow ball on Flower Hill — Home Cluster Zone, ball rolling toward Mimi's blue burrow entrance, same rounded homes and garden path as previous shots, Kiko chasing happily, green grass, curved stepping stone path, blue sky, {style}, {camera}, {lighting}, 16:9
 ```
 
-### Scene 05
+### Scene 05 — Flower Hill — Home Cluster Zone
 ```text
-Mimi the soft blue rabbit appearing from his round blue burrow, long floppy ears with pink inside, big green eyes, yellow t-shirt, looking at a round yellow ball at the entrance, Kiko standing nearby, coral pink shirt, morning daylight, blue sky, {style}, {camera}, {lighting}, 16:9
+Mimi the soft blue rabbit appearing from his round blue burrow on Flower Hill — Home Cluster Zone, long floppy ears with pink inside, big green eyes, yellow t-shirt, looking at a round yellow ball at the entrance, Kiko standing nearby, coral pink shirt, morning daylight, blue sky, {style}, {camera}, {lighting}, 16:9
 ```
 
-### Scene 06
+### Scene 06 — Flower Hill (transition from Home Cluster Zone) → Butterfly Meadow
 ```text
-Kiko and Mimi running together toward Butterfly Meadow, Kiko in coral pink shirt, Mimi hopping in soft blue, round yellow ball rolling ahead, green grass, curved path, blue sky, {style}, {camera}, {lighting}, 16:9
+Kiko and Mimi running together from Flower Hill's Home Cluster Zone toward Butterfly Meadow, Kiko in coral pink shirt, Mimi hopping in soft blue, round yellow ball rolling ahead, green grass, curved path, blue sky, {style}, {camera}, {lighting}, 16:9
 ```
 
 ### Scene 07

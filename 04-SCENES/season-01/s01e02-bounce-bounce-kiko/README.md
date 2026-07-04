@@ -8,7 +8,7 @@
 | --- | --- |
 | Süre | 60 saniye (4 sahne × 15 sn) |
 | Karakterler | Kiko, Mimi |
-| Mekan | Flower Hill → Butterfly Meadow → Central Square |
+| Mekan | Flower Hill — Home Cluster Zone → Butterfly Meadow → Central Square |
 | Duygu | Play, movement, sharing joy |
 | Tema | Playing together is more fun • Sharing brings happiness |
 

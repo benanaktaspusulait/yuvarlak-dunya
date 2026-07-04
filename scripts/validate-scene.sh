@@ -206,6 +206,43 @@ else
     
     echo "  Visual Continuity: $VC_RULES/$VC_TOTAL kural uygulanmış"
     [ "$VC_RULES" -eq "$VC_TOTAL" ] && echo "  ✅ Tüm Visual Continuity kuralları uygulanmış" || { echo "  ⚠️  $((VC_TOTAL-VC_RULES)) kural eksik"; WARNINGS=$((WARNINGS+1)); }
+    echo
+
+    # 10. Time of Day Consistency (shot'lar arası ışık/zaman driftini yakalar)
+    echo "10. TIME OF DAY CONSISTENCY"
+    TOD=$(grep -rh '^[[:space:]]*|[[:space:]]*Time of Day' "$SCENE_DIR/shots/"*.md 2>/dev/null \
+        | sed -E 's/^[^|]*\|[^|]*\|([^|]*)\|.*/\1/' \
+        | sed 's/^ *//;s/ *$//' \
+        | tr '[:upper:]' '[:lower:]' \
+        | sort -u | grep .)
+    TOD_COUNT=$(printf '%s\n' "$TOD" | grep -c .)
+    if [ "$TOD_COUNT" -le 1 ]; then
+        echo "  ✅ Time of Day tutarlı"
+    else
+        echo "  ⚠️  Shot'lar arası Time of Day tutarsız ($TOD_COUNT farklı değer):"
+        printf '%s\n' "$TOD" | sed 's/^/     - /'
+        WARNINGS=$((WARNINGS+1))
+    fi
+    echo
+
+    # 11. Shot Count / Duration Tutarlılığı
+    echo "11. SHOT COUNT / DURATION"
+    if [ -f "$SCENE_DIR/01-overview.md" ]; then
+        DECLARED=$(grep -oiE '[0-9]+[[:space:]]*shots?' "$SCENE_DIR/01-overview.md" 2>/dev/null | head -1 | grep -oE '[0-9]+')
+        ACTUAL=$(find "$SCENE_DIR/shots" -name "shot-*.md" 2>/dev/null | wc -l | tr -d ' ')
+        if [ -n "$DECLARED" ]; then
+            if [ "$DECLARED" -eq "$ACTUAL" ]; then
+                echo "  ✅ Shot sayısı overview ile uyumlu ($ACTUAL shot)"
+            else
+                echo "  ⚠️  Overview $DECLARED shot diyor, ama $ACTUAL shot dosyası var"
+                WARNINGS=$((WARNINGS+1))
+            fi
+        else
+            echo "  ⚠️  Overview'da shot sayısı belirtilmemiş"
+        fi
+    else
+        echo "  ⚠️  01-overview.md yok, shot sayısı doğrulanamadı"
+    fi
 fi
 
 echo

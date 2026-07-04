@@ -55,6 +55,7 @@ The animation begins only after the first frame has matched @image1 perfectly.
 ## 4. World Continuity Check
 
 - [ ] Is the world name correct?
+- [ ] If this world has sub-zones (e.g. Flower Hill — Nature Field Zone / Home Cluster Zone), is the correct zone specified rather than just the world name?
 - [ ] Is the world treated as an established set?
 - [ ] Does the prompt prevent environment redesign?
 - [ ] Does it preserve major landmarks?

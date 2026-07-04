@@ -41,6 +41,50 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 
 ---
 
+## Opening Bumper
+
+Reference: `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §4a (and `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §4 for Opa's Storytime episodes).
+
+- Duration: [3–5 sn max, veya "None"]
+- Visual: [Görsel]
+- Sound: [Ses]
+- Dialogue: [Diyalog, varsa]
+- Purpose: [Amaç]
+- Retention risk: [Risk notu]
+
+Bumper kullanılmayan bölümler için:
+
+```text
+Opening Bumper: None. Episode begins directly with in-story hook.
+```
+
+---
+
+## Episode Body
+
+[Ana bölüm — Scene Order tablosuna bakınız]
+
+---
+
+## Closing Bumper
+
+Reference: `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §9a (ve §9b End Screen Policy).
+
+- Duration: [3–6 sn max]
+- Visual: [Görsel]
+- Sound: [Ses]
+- Dialogue: [Diyalog, varsa]
+- End-screen-safe frame: [Açıklama]
+- Purpose: [Amaç]
+
+Bumper kullanılmayan bölümler için:
+
+```text
+Closing Bumper: Warm final hold only.
+```
+
+---
+
 ## Micro-Moment (Key Discovery)
 
 [Çocuğun hatırlayacağı küçük ama unutulmaz an]
@@ -182,6 +226,8 @@ Required episode-level checks:
 - [ ] Light direction, light intensity, shadow softness, ambient lighting and highlight behaviour remain consistent across all shots.
 - [ ] Episode feels like one uninterrupted animated film.
 - [ ] The viewer cannot perceive where one shot ends and the next begins.
+- [ ] If an opening bumper is used, it is 3–5 seconds maximum and does not delay the story (`00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §4a).
+- [ ] If a closing bumper is used, it is 3–6 seconds maximum and gives a warm resolution (`00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §9a).
 
 ---
 

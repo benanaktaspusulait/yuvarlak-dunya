@@ -9,8 +9,8 @@
 | Episode | Bounce, Bounce, Kiko! |
 | Shot | 04 / 04 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Central Square |
+| Characters | Kiko, Mimi, Opa |
 
 ---
 
@@ -48,7 +48,7 @@ Do not introduce [Karakterler] after the shot has started.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
-The Flower Hill background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
+The Central Square background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
 ```Continue directly from the previous shot video reference.
 
 The opening frame must continue seamlessly from the previous shot video reference or exported continuity frame.

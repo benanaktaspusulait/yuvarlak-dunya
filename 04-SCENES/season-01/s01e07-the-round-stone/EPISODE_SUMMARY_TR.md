@@ -10,13 +10,13 @@
 
 Sessiz bir sabah.
 
-Stone Hill'de yuvarlak kayalar var.
+Stone Hill'de yumuşak, yuvarlak taşlar var.
 
-Yollarda yuvarlak taşlar.
+Yollarda küçük çakıl taşları.
 
 Ve Luca yürüyor.
 
-Arasında.
+Aralarında.
 
 Etrafına bakarak.
 
@@ -30,7 +30,7 @@ Güzel bir taş.
 
 Luca eğilir.
 
-Alır.
+Nazikçe alır.
 
 İnceler.
 
@@ -40,13 +40,15 @@ Alır.
 
 ### Sahne 2
 
-Uzaktan biri gelir.
+Aynı yoldan biri gelir.
 
 Kiko.
 
-Luca koşarak yanına gider.
+Luca ona döner.
 
-Eliyle taşı gösterir.
+Taşı gösterir.
+
+> **"Hi Luca!"**
 
 > **"Look what I found!"**
 
@@ -60,42 +62,68 @@ Gözleri açılır.
 
 ### Sahne 3
 
-Kiko taşı alır.
+Kiko taşı tutar.
 
-İnceler.
+Luca yuvarlak şeklini işaret eder.
 
-Sonra gökyüzüne bakar.
+Taşı yavaşça çevirirler.
 
-Ay'ı düşünüyor.
+Hayranlıkla bakarlar.
 
-Sonra taşa bakar.
+> **"It's so round."**
 
-Gülümser.
-
-> **"It looks like the moon!"**
-
-Luca da gülümser.
-
-> **"You're right!"**
+> **"Like a tiny moon!"**
 
 ---
 
 ### Sahne 4
 
-Kiko taşı havaya kaldırır.
+Etraflarına bakarlar.
 
-İkisi de bakar.
+Stone Hill yuvarlak taşlarla dolu.
 
-Güneş altın rengine döner.
+Kiko başka bir yuvarlak taşı işaret eder.
 
-Sıcak bir an.
+> **"This one is round too."**
 
-> **"Let's keep it."**
+Luca gülümser.
 
-> **"Together!"**
-
-Ve taş artık onların.
+> **"Stone Hill has so many shapes!"**
 
 ---
 
-*Bu küçük taş, büyük bir arkadaşlığın başlangıcı olabilir.*
+### Sahne 5
+
+Küçük, güvenli bir yer bulurlar.
+
+Yumuşak yosunun üzerinde.
+
+Kiko taşı nazikçe bırakır.
+
+Düz. Güvenli.
+
+> **"Should we keep it?"**
+
+> **"Maybe we can share it."**
+
+---
+
+### Sahne 6
+
+İkisi geri çekilir.
+
+Taşa birlikte bakarlar.
+
+Taş orada duruyor.
+
+Herkes için.
+
+> **"Now everyone can see it."**
+
+> **"Together."**
+
+> **"Together."**
+
+---
+
+*Küçük bir taş, birlikte fark edilip paylaşıldığında büyük bir keşfe dönüşür.*

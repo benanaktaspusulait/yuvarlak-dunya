@@ -10,9 +10,12 @@
 | Toplam bölüm | 26 |
 | Hedef yaş | 3-4 |
 | Format | 3D animasyon |
-| Bölüm süresi | 60 saniye (4 shot × 15 sn) |
+| Bölüm süresi | 60 saniye (4 shot × 15 sn) — varsayılan format* |
 | Toplam süre | ~26 dakika |
 | Üretilen | 3/26 |
+
+> *İstisna: S01E07 — The Round Stone 90 saniyeye (6 shot × 15 sn) genişletildi.
+> Sezon geneli süre standardı (60s ↔ 90s) henüz çözülmedi (bkz. `AGENTS.md` §2).
 
 ---
 
@@ -22,12 +25,12 @@
 |---|-------------|-----------|-------------|-------|------|----------|
 | 01 | Merhaba Pompom Hills | Kiko uyanır, dünyayı keşfeder, Mimi ve Opa ile tanışır, tüm arkadaşlarıyla selamlaşır | Kiko, Mimi, Opa + 10 | Central Square | 7 dk | ❌ |
 | 02a | Kiko'nun Ev Turu | Kiko izleyicileri içeriye davet eder, evin okuma köşesi, oyuncak köşesi ve penceresini gösterir | Kiko | Kiko's Home (Dış Bahçe → İç) | 15 sn | ✅ |
-| 02b | Zıpla Zıpla Kiko | Kiko sarı bir top bulur, Mimi ile oynar, kelebekler arasında zıplarlar | Kiko, Mimi, Opa | Flower Hill → Central Square | 3 dk | ❌ |
+| 02b | Zıpla Zıpla Kiko | Kiko sarı bir top bulur, Mimi ile oynar, kelebekler arasında zıplarlar | Kiko, Mimi, Opa | Flower Hill — Home Cluster Zone → Central Square | 3 dk | ❌ |
 | 03 | Küçük Çiçek | Kiko tohum bulur, diker, sulayarak bekler, Mimi yardım eder, çiçek açar | Kiko, Mimi, Tillo, Opa | Tillo's Garden | 3 dk | ❌ |
 | 04 | Mimi'nin Büyük Esnemesi | Mimi durmadan esner, Kiko ona rahat bir yer arar, ağacın altında uyur | Kiko, Mimi, Opa | Mimi's Burrow | 3 dk | ❌ |
 | 05 | Renkler Her Yerde | Kiko renkleri keşfeder, Mimi ile birlikte mor lavanta bulurlar, gökkuşağı yaparlar | Kiko, Mimi, Opa | Friendship Meadow | 3 dk | ❌ |
 | 06 | Yumuşak Rüzgar | Rüzgar eser, yapraklar sallanır, Kiko ve Mimi rüzgarla oynarlar | Kiko, Mimi, Opa | Little Forest | 3 dk | ❌ |
-| 07 | Yuvarlak Taş | Luca yuvarlak bir taş bulur, Kiko'ya gösterir, birlikte incelerler | Luca, Kiko | Stone Hill | 1 dk | ❌ |
+| 07 | Yuvarlak Taş | Luca yuvarlak bir taş bulur, Kiko'ya gösterir, şekilleri fark edip keşfi paylaşırlar | Luca, Kiko | Stone Hill | 90 sn | ❌ |
 | 08 | Birlikte İnşa | Noah ve Arda bloklarla kule yaparlar, birlikte başarırlar | Noah, Arda | Central Square | 1 dk | ❌ |
 | 09 | Sessiz Yer | Kiko Opa'yı ziyaret eder, birlikte sessizce doğa seslerini dinlerler | Kiko, Opa | Opa's Tree | 1 dk | ❌ |
 | 10 | Benim Sıram Senin Sıran | Luca ve Noah top oynarlar, sırayla oynamayı öğrenirler | Luca, Noah | Central Square | 1 dk | ❌ |

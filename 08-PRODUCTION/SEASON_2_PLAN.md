@@ -100,7 +100,7 @@ Sezon 2 için potansiyel bölüm havuzunu ve yeni karakter/mekan planlarını ol
 
 | # | Başlık | Karakter | Mekan | Konu |
 |---|--------|----------|-------|------|
-| 16 | "Spring Flowers" | Kiko, Tillo | Flower Hill | İlkbahar |
+| 16 | "Spring Flowers" | Kiko, Tillo | Flower Hill — Nature Field Zone | İlkbahar |
 | 17 | "Summer Splash" | Kiko, Mimi | Milo's Pond | Yaz |
 | 18 | "Autumn Leaves" | Kiko, Arda | Little Forest | Sonbahar |
 | 19 | "Winter Warmth" | Kiko, Opa | Opa's Tree | Kış |

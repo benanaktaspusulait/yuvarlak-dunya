@@ -75,6 +75,8 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Mekan LOCKED mı?
 - [ ] Yeni establishing shot yasak mı?
 - [ ] Dünya yeniden tasarlanmamış mı?
+- [ ] Bu mekanın sub-zone'u varsa (örn. Flower Hill — Nature Field Zone / Home Cluster Zone), doğru zone belirtilmiş mi (sadece mekan adı değil)?
+- [ ] Zone sahne boyunca tutarlı mı (sahne içinde zone habersiz değişmiyor mu)?
 
 ### 8. Character Continuity
 

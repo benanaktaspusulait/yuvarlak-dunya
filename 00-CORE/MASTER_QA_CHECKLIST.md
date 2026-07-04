@@ -42,6 +42,9 @@ Reference: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
 ✓ No modern objects (buildings, roads, fences) anywhere in any frame?
 ✓ World Asset IDs from ASSET_REGISTRY.md used — no ad-hoc elements?
 ✓ Locked world elements unchanged from first to last shot?
+✓ If this world has sub-zones (e.g. Flower Hill — Nature Field Zone / Home
+  Cluster Zone), every shot declares the correct zone, not just the world
+  name, and the zone is used consistently within each scene?
 ```
 
 Reference: `02-WORLDS/[world]/[world]-bible.md`

@@ -8,12 +8,12 @@
 |-------|--------|----------|-------|-------|--------------|
 | S01E01 | Hello Pompom Hills | Kiko, Mimi, Opa + 10 komşu | Central Square | 🟢 Tamamlandı | 15 sahne |
 | S01E02-A | Kiko's Home Tour | Kiko | Kiko's Home (Front Garden → Interior) | 🟢 Üretildi | 4 sahne |
-| S01E02-B | Bounce, Bounce, Kiko! | Kiko, Mimi, Opa | Flower Hill → Butterfly Meadow → Central Square | 🟡 Yazıldı | 4 sahne |
-| S01E03 | The Little Flower | Kiko, Mimi, Opa | Tillo's Garden | 🟡 Yazıldı | 4 sahne |
-| S01E04 | Mimi's Big Yawn | Mimi, Kiko | Farklı mekanlar → Ağaç altı | 🟡 Yazıldı | 4 sahne |
+| S01E02-B | Bounce, Bounce, Kiko! | Kiko, Mimi, Opa | Flower Hill — Home Cluster Zone → Butterfly Meadow → Central Square | 🟡 Yazıldı | 4 sahne |
+| S01E03 | The Little Flower | Kiko, Mimi, Opa | Kiko's Home → Flower Hill — Nature Field Zone → Tillo's Garden → Central Square | 🟡 Yazıldı | 4 sahne |
+| S01E04 | Mimi's Big Yawn | Mimi, Kiko | Flower Hill — Nature Field Zone → Farklı mekanlar → Ağaç altı | 🟡 Yazıldı | 4 sahne |
 | S01E05 | Colours Everywhere | Kiko, Mimi | Rosie's Garden → Central Square | 🟡 Yazıldı | 4 sahne |
 | S01E06 | The Soft Wind | Kiko, Mimi | Pompom Hills genel | 🟡 Yazıldı | 4 sahne |
-| S01E07 | The Round Stone | Luca, Kiko | Stone Hill | 🟡 Yazıldı | 4 sahne |
+| S01E07 | The Round Stone | Luca, Kiko | Stone Hill | 🟡 Yazıldı | 6 sahne (90 sn) |
 | S01E08 | Building Together | Noah, Arda | Central Square | 🟡 Yazıldı | 4 sahne |
 | S01E09 | The Quiet Place | Kiko, Opa | Opa's Tree | 🟡 Yazıldı | 4 sahne |
 | S01E10 | My Turn, Your Turn | Luca, Noah | Central Square | 🟡 Yazıldı | 4 sahne |

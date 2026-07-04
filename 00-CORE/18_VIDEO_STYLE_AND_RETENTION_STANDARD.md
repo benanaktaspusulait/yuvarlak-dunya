@@ -112,6 +112,42 @@ Do not use loud jump cuts or aggressive teaser editing.
 
 ---
 
+## 4a. Opening Bumper Rule (Long-Form Videos)
+
+Long-form Pompom Hills videos may include a short opening bumper before the in-story hook (§4). This is optional for one-off episodes and recommended for recurring series (see §13's Series Bumper Rule and `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §4 for the Opa's Storytime opening beat).
+
+| Rule | Value |
+|---|---|
+| Maximum length | 3–5 seconds |
+| Purpose | Series recognition, playlist identity, gentle signal that the episode is starting |
+| Requirement | Must feel like part of the story world, not a disconnected intro |
+
+Allowed:
+
+- soft world-establishing moment
+- a character enters or notices something
+- Opa opens a book
+- a gentle recurring sound cue
+- a short recurring visual ritual
+- a very brief title card, only if specifically approved (see `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §5 for the Opa's Storytime title card rule; no on-screen text otherwise — see `00-CORE/17_VIDEO_GENERATION_STANDARD.md` §Text Safety)
+
+Forbidden:
+
+- long logo animation
+- loud music
+- fast montage
+- big flashy title sequence
+- aggressive branding
+- a cold open that delays the story
+- a confusing flash-forward (see §5 below)
+- text-heavy intro
+
+The opening bumper does not replace the in-story hook (§4) — the first 3–5 seconds of the episode (bumper included, if used) must still create curiosity.
+
+**Priority:** Story hook first, brand recognition second. If analytics show viewers dropping during the opening bumper, shorten it or remove it.
+
+---
+
 ## 5. Flash-Forward Teasers
 
 External feedback suggested placing a high-energy later moment at the beginning ("put the exciting part first").
@@ -275,6 +311,60 @@ If platform-specific text is needed, add it only in social captions, description
 
 ---
 
+## 9a. Closing Bumper Rule (Long-Form Videos)
+
+Long-form Pompom Hills videos may include a short closing bumper after the story resolution, in addition to the warm ending already described in §9. This is optional for one-off episodes and recommended for recurring series (see §13, and `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` for the Opa's Storytime closing).
+
+| Rule | Value |
+|---|---|
+| Maximum length | 3–6 seconds |
+| Purpose | Emotional closure, support repeat viewing, warm final memory, allow YouTube end-screen or playlist transition if needed |
+
+Allowed:
+
+- a quiet final hold
+- characters smiling
+- world ambience
+- a soft music tail
+- a gentle wave
+- a group looking at the world together
+- a visual return to the main world landmark
+
+Forbidden (same as §9):
+
+- loud subscribe request
+- "smash like" language
+- flashing text
+- long credits
+- abrupt cut to black
+- unrelated branding screen
+- a distracting end card inside the story render
+
+---
+
+## 9b. YouTube End Screen Policy
+
+YouTube end screens may be added after the story ends during upload, but they must not interrupt the emotional ending.
+
+Preferred structure:
+
+```text
+Story ends.
+2 seconds warm hold.
+Optional 3–5 second end-screen-safe frame.
+YouTube end screen elements can appear on top during upload.
+```
+
+The end-screen-safe frame should be:
+
+- calm
+- uncluttered
+- visually warm
+- with space for YouTube suggested video / playlist elements
+- free of important character action
+
+---
+
 ## 10. Educational Value Style
 
 Pompom Hills teaches through story, not lectures.
@@ -378,6 +468,12 @@ Current preferred long-form lengths:
 Do not make a video longer just because longer videos are possible. Length must be earned by story beats.
 
 (Consistent with the video length strategy in `11-DOCS/09_YOUTUBE_STRATEGY.md` — Channel Growth Decisions §6.)
+
+### Series Bumper Rule
+
+For recurring YouTube-focused series (e.g. Opa's Storytime), opening and closing bumpers (§4a, §9a) are recommended, since they build series recognition and playlist identity across episodes.
+
+For one-off regular episodes, bumpers remain optional. Default priority stays story hook first, brand recognition second (§4a).
 
 ---
 
@@ -486,6 +582,19 @@ Before approving a Pompom Hills long video, check:
 ✓ Can the video produce at least 3 Shorts?
 ✓ Would a parent understand the value of the video?
 ✓ Would a preschool child understand the emotional moment?
+
+If an opening or closing bumper is used (§4a, §9a):
+
+✓ Is the opening bumper 3–5 seconds maximum?
+✓ Does the opening bumper avoid delaying the story?
+✓ Does the first 3–5 seconds (bumper included) still create curiosity?
+✓ Is there no loud logo intro or aggressive branding?
+✓ Is the series opening recognisable but short?
+✓ Is the closing bumper 3–6 seconds maximum?
+✓ Does the closing bumper give a warm emotional resolution?
+✓ Does the end-screen-safe frame avoid interrupting the story?
+✓ Is there no aggressive CTA inside the video?
+✓ If analytics show opening bumper drop-off, has it been shortened or removed?
 ```
 
 Run alongside `00-CORE/MASTER_QA_CHECKLIST.md` before publish.
@@ -519,4 +628,4 @@ Every production decision should protect the long-term identity of the Pompom Hi
 
 *This document is the single source of truth for video style, pacing and retention decisions.*
 *Cross-referenced from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` and `00-CORE/30_YOUTUBE_METADATA_STANDARD.md`.*
-*Version: 1.0*
+*Version: 1.1 — Added opening/closing bumper and end-screen rules (§4a, §9a, §9b).*

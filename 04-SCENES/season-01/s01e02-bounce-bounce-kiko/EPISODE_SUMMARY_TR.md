@@ -32,7 +32,7 @@ Yürümeye başlar.
 
 ### Sahne 02
 
-Flower Hill'in yumuşak çimenliğinde yürürken aniden durur.
+Flower Hill — Home Cluster Zone'un yumuşak çimenliğinde, evinin önünde yürürken aniden durur.
 
 Bir şey var.
 

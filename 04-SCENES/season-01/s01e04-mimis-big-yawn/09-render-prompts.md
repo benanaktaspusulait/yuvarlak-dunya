@@ -12,9 +12,9 @@ All render prompts follow `00-CORE/17_VIDEO_GENERATION_STANDARD.md`.
 
 ## Scene Prompts
 
-### Scene 01
+### Scene 01 — Flower Hill — Nature Field Zone
 ```text
-Kiko and Mimi walking together on Flower Hill, happy sunny day, green grass, blue sky, {style}, {camera}, {lighting}, 16:9
+Kiko and Mimi walking together on Flower Hill — Nature Field Zone, five-colour flower carpet and S-curve stepping-stone path visible, happy sunny day, green grass, blue sky, {style}, {camera}, {lighting}, 16:9
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -28,7 +28,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ### Scene 03
 ```text
-Kiko looking at Mimi with concerned caring expression, Flower Hill, {style}, {camera}, {lighting}, 16:9
+Kiko looking at Mimi with concerned caring expression, Flower Hill — Nature Field Zone, {style}, {camera}, {lighting}, 16:9
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```

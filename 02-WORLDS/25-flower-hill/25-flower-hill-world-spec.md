@@ -1,8 +1,13 @@
-# Flower Hill — World Specification v4.3
+# Flower Hill — World Specification v4.4
 
 > This specification defines the canonical Flower Hill world for generation.
 > This document is a dense generation instruction set.
 > Aligned with current single Hero View + World Spec pipeline.
+> v4.4 adds a Reference Image Policy and per-zone shot prompt blocks — see
+> `## Reference Image Policy` and `## Zone Shot Prompt Blocks` below. This
+> does not reopen the old multi-reference-pack generation workflow; it adds
+> approved legacy images as Visual Quality Anchors per
+> `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Quality Anchor Policy.
 
 ---
 
@@ -573,6 +578,112 @@ If any test fails, reject — see Generation Failures table below.
 
 ---
 
+## Reference Image Policy
+
+> Per `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Quality Anchor
+> Policy. These are Visual Quality Anchors, not a return to the old
+> multi-reference-pack workflow. The single Hero View + World Spec + Shot
+> Continuity pipeline stays as-is; these images inform which reference is
+> loaded for a given shot angle.
+
+Four approved legacy images exist at `12-ENVIRONMENT/25-flower-hill/`:
+`hero-view.png`, `left-view.png`, `right-view.png`, `top-view.png`. Use them
+as Visual Quality Anchors to restore charm and richness — do not copy every
+object blindly. This spec decides what is canon.
+
+| Image | Role |
+|-------|------|
+| `hero-view.png` | Overall charm, colour, style, rounded homes, flower-covered hill feeling. Primary anchor for establishing shots and Home Cluster Zone identity. |
+| `left-view.png` | Left-side home-cluster continuity — path/stair relationship on the left approach. |
+| `right-view.png` | Right-side home-cluster continuity — opposite-side spatial consistency. |
+| `top-view.png` | Layout understanding only. Do not use as camera style — do not make normal episode shots look like a map or miniature top-down board unless a top-down shot is specifically requested. |
+
+**World creation vs. shot creation:**
+
+- World creation (Hero View approval) may use hero/left/right/top together to build understanding.
+- Shot creation must use the single most relevant camera-angle reference for that shot (front/hero for establishing, left-view for a left-side shot, right-view for a right-side shot, top-view for layout only), plus the previous shot reference for continuity. Do not load all four references into every shot.
+
+Do not copy from these anchors: readable signs, random animals, extra water
+features, extra houses, or complex clutter unless explicitly canon-approved
+above.
+
+---
+
+## Zone Shot Prompt Blocks
+
+Every Flower Hill shot must declare a Location Zone (see shot template) and
+use the matching prompt block below.
+
+### Nature Field Zone Prompt Block
+
+```text
+Use this Flower Hill Nature Field Zone visual identity:
+
+A soft rounded Flower Hill slope covered in a dense but readable five-colour
+flower carpet. A smooth grey stepping-stone path forms a clear S-curve
+through the flowers. The flowers are vibrant pastel red, yellow, pink,
+purple and orange. The grass is soft pastel green. The scene feels open,
+warm, colourful and preschool-safe. No homes dominate the frame. Warm
+morning daylight. Soft handcrafted toy-set style.
+
+Must preserve: five flower colours, S-curve path, soft rounded hill,
+readable flower carpet, warm morning daylight.
+
+Avoid: generic meadow, empty green hill, missing path, neon colours, muddy
+colours, forest look, clutter.
+```
+
+### Home Cluster Zone Prompt Block
+
+```text
+Use this Flower Hill Home Cluster visual identity:
+
+A colourful flower-covered home hill with rounded dome homes, small garden
+paths, soft stone stairs, flower fences, flower pots and warm preschool home
+charm. The scene should feel like a handcrafted toy-set village inside
+Flower Hill, rich but readable, cozy and safe. Use the approved Flower Hill
+Home Cluster reference image (see Reference Image Policy) to guide charm,
+richness, colour appeal and spatial feeling. Keep homes rounded, soft and
+consistent. No readable text. No random extra houses.
+
+Must preserve: rounded dome homes, flower-covered hill, soft stone stairs,
+small fences, garden paths, flower pots, warm home feeling, same spatial
+layout.
+
+Avoid: generic village, realistic cottages, extra houses, readable signs,
+clutter, redesigned homes, modern objects, dark mood.
+```
+
+### Background Drift Prevention (both zones)
+
+```text
+First-frame object lock: the first frame defines the physical set. All
+visible Flower Hill objects must remain stable during the shot. A rounded
+home stays the same rounded home. A fence stays the same fence. A stone
+stair stays a stone stair. A flower pot stays a flower pot. A path stays in
+the same position. A mailbox does not become a bush. A garden table does not
+become a tree.
+
+Allowed motion: flowers sway gently, grass moves softly, leaves move
+softly, character moves, small story prop moves if required.
+
+Forbidden motion: homes shifting, path changing direction, stairs
+appearing/disappearing, fences changing shape, new objects appearing
+mid-shot, background morphing.
+```
+
+### Camera rules — Home Cluster Zone shots
+
+Preferred: child-eye-level, 24–35mm equivalent, slight downward or level
+view, medium-wide enough to show homes and path, not top-down unless
+specifically requested. Allowed: gentle pan, slow follow along path, slow
+push toward home entrance, static group interaction. Forbidden: top-down map
+view for normal episode shots, drone flyover, fast zoom, shaky camera,
+realistic cinematic lens, extreme wide distortion. The top-view reference is
+for layout only, never for normal camera framing.
+
+---
+
 ## Hero View Generation Prompt
 
 Copy this prompt directly into OpenArt to generate the Canon Hero View.
@@ -734,9 +845,10 @@ Every future episode using Flower Hill should load the Hero View as its master r
 | 4.1 micro-polish | Unified Pompom Hills spelling. Unified default lighting as warm morning daylight. Marked sunset/snow/rain as special variants. Clarified that connected homes are optional and secondary in Hero View. | — |
 | 4.2 | Production-depth pass: added Hero View Technical Setup and framing ratios, expanded World Identity Lock (locked element table + Canonical Hero View Rule), expanded Colour Palette (highlight/shadow behaviour), expanded Lighting (direction table, softness, ambient fill, shadow density, continuity), expanded Camera Identity (lens, movement philosophy, allowed/forbidden movements, framing/transition rules), new Environmental Sound Identity, new World Navigation, new View Transition Rules, categorized Production QA (World/Camera/Lighting/Colour/Scale/Atmosphere/World Recognition), new Scale table, new Production Summary. Five colours, pipeline, and Hero View QA Checklist unchanged. | — |
 | 4.3 | **Visual Richness Update.** Added `## Visual Richness Layer` section with zone-specific allowed charm details (Nature Field Zone / Home Cluster Zone), shared forbidden clutter list, Art Direction Layer prompt block, and Hero View Quality Tests (Silhouette/Colour/Charm). Full zone charm detail lives in the Bible; this spec cross-references it. | — |
+| 4.4 | **Reference System Update.** Added `## Reference Image Policy` wiring the approved legacy images at `12-ENVIRONMENT/25-flower-hill/` (hero/left/right/top) into the pipeline as Visual Quality Anchors, with explicit world-creation-vs-shot-creation guidance (one relevant angle per shot, top-view for layout only). Added `## Zone Shot Prompt Blocks` with copy-ready Nature Field Zone and Home Cluster Zone prompt blocks, background drift prevention block, and Home Cluster camera rules. Does not reopen the multi-reference-pack workflow; single Hero View + World Spec + Shot Continuity pipeline unchanged. | — |
 
 ---
 
 *This specification supports the current Pompom Hills production pipeline.*
-*Flower Hill — World Specification v4.3*
+*Flower Hill — World Specification v4.4*
 *Last updated: 4 Temmuz 2026*

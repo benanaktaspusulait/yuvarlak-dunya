@@ -12,7 +12,7 @@
 | Tekrar cümle | "Let's make a rainbow!" |
 | Hedef yaş | 3-4 |
 | Ana duygu | Merak + neşe |
-| Lokasyon | Kiko's Home → Flower Hill → Rosie's Rose Garden → Butterfly Meadow → Central Square |
+| Lokasyon | Kiko's Home → Flower Hill — Nature Field Zone → Rosie's Rose Garden → Butterfly Meadow → Central Square |
 
 ---
 
@@ -21,7 +21,7 @@
 | Lokasyon | Dosya | Sahne |
 |---|---|---|
 | Kiko's Home | `environment/03-kikos-home.png` | 01 |
-| Flower Hill | `02-WORLDS/25-flower-hill-bible.md` (render plate yok) | 02-05, 08 |
+| Flower Hill — Nature Field Zone | `02-WORLDS/25-flower-hill/25-flower-hill-bible.md` (legacy reference images: `12-ENVIRONMENT/25-flower-hill/`) | 02-05, 08 |
 | Rosie's Rose Garden | `environment/13-rosies-rose-garden.png` | 06 |
 | Butterfly Meadow | `environment/17-butterfly-meadow.png` | 07 |
 | Central Square | `environment/01-central-square/hero-view.png` | 09-12 |
@@ -35,19 +35,19 @@
 **Diyalog:** Kiko: "Good morning, world!"
 
 ### Sahne 02 — Kırmızı (15-30 sn)
-**Mekan:** Flower Hill — Kiko kırmızı çiçekler görür.
+**Mekan:** Flower Hill — Nature Field Zone — Kiko kırmızı çiçekler görür.
 **Diyalog:** Kiko: "Red! Like my shirt!"
 
 ### Sahne 03 — Mavi (30-45 sn)
-**Mekan:** Flower Hill — Başını kaldırır, geniş mavi gökyüzüne bakar.
+**Mekan:** Flower Hill — Nature Field Zone — Başını kaldırır, geniş mavi gökyüzüne bakar.
 **Diyalog:** Kiko: "Blue! Like Mimi!"
 
 ### Sahne 04 — Sarı (45-60 sn)
-**Mekan:** Flower Hill — Güneşe bakar; Mimi hop hop gelir.
+**Mekan:** Flower Hill — Nature Field Zone — Güneşe bakar; Mimi hop hop gelir.
 **Diyalog:** Kiko: "Yellow!" / Mimi: "Like me!"
 
 ### Sahne 05 — Yeşil (60-75 sn)
-**Mekan:** Flower Hill — Yere bakarlar; çimen her yerde yeşil, taze, yumuşak.
+**Mekan:** Flower Hill — Nature Field Zone — Yere bakarlar; çimen her yerde yeşil, taze, yumuşak.
 **Diyalog:** "Green! Everywhere!"
 
 ### Sahne 06 — Mor (75-90 sn)
@@ -59,7 +59,7 @@
 **Diyalog:** "Orange! Flying!"
 
 ### Sahne 08 — Toplama (105-120 sn)
-**Mekan:** Flower Hill — Kırmızı, turuncu, sarı, yeşil, mavi, mor çiçekler toplarlar.
+**Mekan:** Flower Hill — Nature Field Zone — Kırmızı, turuncu, sarı, yeşil, mavi, mor çiçekler toplarlar.
 **Diyalog:** "Let's make a rainbow!"
 
 ### Sahne 09 — Dizme (120-135 sn)

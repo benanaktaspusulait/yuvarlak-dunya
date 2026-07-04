@@ -24,7 +24,7 @@ Yürümeye başlar.
 
 ### Sahne 02
 
-Flower Hill'de yürürken bir şey görür.
+Flower Hill'in Nature Field Zone'unda yürürken bir şey görür.
 
 Yerde.
 

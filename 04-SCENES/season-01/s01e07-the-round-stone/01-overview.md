@@ -4,19 +4,19 @@
 
 ## Duration
 
-1:00 (4 shots × 15 seconds)
+1:30 (6 shots × 15 seconds)
 
 ---
 
 ## Theme
 
-Discovery and friendship.
+Curiosity, noticing shapes, sharing discovery, gentle friendship.
 
 ---
 
 ## Learning
 
-Curiosity • Sharing • Wonder
+Noticing shapes • Curiosity • Sharing discoveries • Gentle observation • Friendship
 
 ---
 
@@ -31,13 +31,16 @@ Curiosity • Sharing • Wonder
 
 ## World
 
-Stone Hill
+Stone Hill — Rounded Stone Discovery Area
 
 ---
 
 ## Story Summary
 
-Luca finds a round stone on Stone Hill. He shows it to Kiko. Kiko thinks it looks like the moon. They look at it together.
+Luca finds a smooth round stone on Stone Hill and shows it to Kiko. Together they notice
+its shape, wonder what it looks like, and see that Stone Hill is full of round shapes.
+Instead of keeping the stone only for themselves, they place it gently where everyone
+can see it. They end with a warm, shared discovery.
 
 ## QA Status
 
@@ -47,3 +50,5 @@ Luca finds a round stone on Stone Hill. He shows it to Kiko. Kiko thinks it look
 | 02 | /10 | ⬜ |
 | 03 | /10 | ⬜ |
 | 04 | /10 | ⬜ |
+| 05 | /10 | ⬜ |
+| 06 | /10 | ⬜ |

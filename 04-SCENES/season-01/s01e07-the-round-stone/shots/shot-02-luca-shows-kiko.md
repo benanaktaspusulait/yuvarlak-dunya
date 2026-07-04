@@ -7,9 +7,9 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | S01E07 — The Round Stone |
-| Shot | 02 / 04 |
+| Shot | 02 / 06 |
 | Duration | 15 seconds |
-| Location | Stone Hill |
+| Location | Stone Hill — Rounded Stone Discovery Area |
 | Characters | Luca, Kiko |
 | Time of Day | Morning |
 
@@ -19,131 +19,96 @@
 
 This shot continues directly from Shot 01.
 
-Same Stone Hill location.
+Same Stone Hill discovery area. Luca is holding the stone.
 
-Luca is now holding the stone.
+Kiko enters naturally from the same Stone Hill path during this shot.
+
+---
+
+## Stone Hill Visual Identity
+
+Same rounded stone discovery area: smooth round toy-like stones, soft pebble path,
+warm moss patches, gentle slope, child-safe rounded rock clusters, warm morning daylight.
+Never sharp rocks, cliffs, quarry or generic rocky field.
 
 ---
 
 ## Start Frame
 
-Use the approved continuity reference frame selected from the previous shot as the exact first frame.
+Use the approved exported final frame / continuity frame from Shot 01 as the exact
+first frame. Match the Episode Colour Master.
 
 Maintain:
 - Character appearance
 - Stone Hill environment
-- Morning lighting
+- Warm morning daylight
 - Camera composition
 - Character proportions
 
 Do not redesign the environment.
 
-Luca is already present at the beginning of the shot.
+Luca is already present at the beginning of the shot, holding the stone.
 
-Do not introduce Luca after the shot has started.
-
-The supplied continuity frame is also the lighting reference for this shot.
+Kiko is NOT yet in frame at the first frame; she enters naturally from the same
+Stone Hill path during the shot.
 
 ---
 
 ## Background Object Lock
 
-The background is locked from the first frame of this shot.
+The first frame defines the physical Stone Hill set. All visible stone clusters, the
+pebble path, moss patches and slope remain stable throughout the shot.
 
-Maintain all visible background objects throughout the entire video.
+Do not remove stone clusters, replace stones with bushes, turn stones into trees, move
+the pebble path, add cliffs/houses/modern objects, repaint the environment or change the
+Stone Hill layout.
 
-Do not remove, replace, repaint or transform any visible background object.
-
-If a tree is visible, it remains the same tree.
-If a path is visible, it remains the same path.
-If a bush is visible, it remains the same bush.
-If a house is visible, it remains the same house.
-If a landmark is visible, it remains in the same relative position.
-
-Do not introduce new trees or remove existing background objects.
-Do not reinterpret the environment during the shot.
-
-Only the main characters and any props may move unless camera movement naturally changes what is visible.
+Allowed: Luca moves, Kiko enters and moves, the round stone moves, grass or moss moves
+gently, camera moves slowly if planned.
 
 ## Visual Prompt
 
 ```text
-Luca showing a round stone to Kiko on Stone Hill, Kiko looking at the stone with wonder, warm morning light, Stone Hill with rounded rocks, no other characters, {style} {camera} {lighting}
+Luca holding a smooth round stone on Stone Hill rounded stone discovery area, Kiko enters naturally from the same pebble path and looks at the stone with curiosity, warm moss patches and rounded stones around them, warm morning daylight, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
+Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Stone Hill background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
-```Continue directly from the previous shot video reference.
+The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot.
+```
 
-The opening frame must continue seamlessly from the previous shot video reference or exported continuity frame.
-
-Treat the previous shot video reference as the starting point.
-
-The animation begins only after the opening frame continues seamlessly from the previous shot reference.
-
-Use the previous shot video reference as the exact starting composition.
-
-Do not reinterpret the previous shot reference.
-
-Do not reposition the camera.
-
-Do not recompose the scene.
-
-Do not adjust framing before movement begins.
-
-Continue the action naturally from the previous shot reference.
+Continue directly from the Shot 01 continuity frame. Treat it as the exact starting
+composition. Do not reinterpret it, do not reposition the camera, do not recompose the
+scene. Continue the action naturally, then let Kiko enter from the same path.
 
 ---
 
 ## Reference Usage
 
-Use the approved continuity reference frame selected from the previous shot as the primary image reference when generating this shot.
-
-The reference image is supplied by the production workflow and should not be hardcoded into this document.
+Use the approved continuity frame exported from Shot 01 as the primary image reference
+when generating this shot. The reference image is supplied by the production workflow
+and should not be hardcoded into this document.
 
 ---
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in the previous shot reference.
+Begin from the Shot 01 continuity frame with no camera reset.
 
-No camera movement is allowed until the opening frame continues seamlessly from the previous shot reference.
+Continue from the exact framing of Shot 01. Kiko enters from the same path; Luca turns
+toward her and shows the stone. Camera follows their interaction naturally and ends on a
+medium-wide shot with both characters and the stone visible.
 
-The first visible frame should appear visually identical to the previous shot reference.
-
-Only then may the planned camera movement begin.
-
-Continue from the exact framing of Shot 01.
-
-Luca and Kiko meet in the center of the frame.
-
-Camera follows their interaction naturally.
-
-End on a medium shot showing both characters and the stone.
-
-Maintain 35mm wide cinematic lens.
-
-Warm morning sunlight throughout.
-
+Maintain a soft 35mm-equivalent preschool framing. Warm morning daylight throughout.
 Avoid sudden movements, zooms or shakes.
 
 ---
 
 ## Dialogue
 
-The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in the previous shot reference.
-
-Match the lighting and colour grading exactly from the previous shot reference.
-
-Do not change:
-- exposure
-- brightness
-- light intensity
-- colour temperature
-- colour grading
+Match the lighting, colour grading, exposure and colour temperature of the Shot 01
+Episode Colour Master. Do not change exposure, brightness, light intensity, colour
+temperature or colour grading.
 
 ```
 Kiko: Hi Luca!
@@ -157,28 +122,30 @@ Kiko: Wow!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko arrives, sees Luca | Wide |
-| 5-10 sn | Luca runs to Kiko, shows stone | Medium |
-| 10-15 sn | Kiko looks at stone | Established composition |
+| 0-5 sn | Kiko enters from the same path, sees Luca | Medium-wide |
+| 5-10 sn | Luca turns and shows the stone | Medium |
+| 10-15 sn | Kiko looks at the stone with wonder | Established composition |
 
 ---
 
 ## Sound
 
-- Footsteps
+- Soft footsteps on pebble path
 - Happy greeting tone
+- Quiet ambient wind
 
 ---
 
 ## Lighting
 
-Warm morning sunlight.
+Warm morning daylight. Soft preschool light. Low contrast. No harsh shadows.
+Match the Shot 01 Episode Colour Master. No lighting change between shots.
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
 
 ## QA Checklist
 
@@ -188,19 +155,18 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Character consistency verified
 - [ ] Object persistence verified
 - [ ] No rendering artefacts
-- [ ] Camera consistency verified
-- [ ] Lighting consistency verified
+- [ ] Camera consistency verified (no reset from Shot 01)
+- [ ] Lighting consistency verified (matches Episode Colour Master)
 - [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
+- [ ] Kiko entrance is natural and clear
+- [ ] No extra or non-canon characters appear
+- [ ] Stone Hill looks specific, not generic
+- [ ] Background stone clusters remain stable
+- [ ] No background object morphing
+- [ ] Round stone prop remains consistent with Shot 01
+- [ ] Same physical location is preserved throughout the shot
 
 ## Micro Actions
 
-Every 3-6 seconds introduce a small visual action.
-Examples: wave, blink, look around, pick up object, walk, jump, point, smile, laugh, sit, stand.
-Actions should feel natural.
+Every 3-6 seconds introduce a small visual action: wave, blink, look around, point,
+smile, gentle steps. Actions should feel natural.

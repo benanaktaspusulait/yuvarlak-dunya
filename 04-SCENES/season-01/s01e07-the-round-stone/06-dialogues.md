@@ -10,10 +10,15 @@
 | 02 | Kiko | "Hi Luca!" |
 | 02 | Luca | "Look what I found!" |
 | 02 | Kiko | "Wow!" |
-| 03 | Kiko | "It looks like the moon!" |
-| 03 | Luca | "You're right!" |
-| 04 | Luca | "Let's keep it." |
-| 04 | Kiko | "Together!" |
+| 03 | Kiko | "It's so round." |
+| 03 | Luca | "Like a tiny moon!" |
+| 04 | Kiko | "This one is round too." |
+| 04 | Luca | "Stone Hill has so many shapes!" |
+| 05 | Luca | "Should we keep it?" |
+| 05 | Kiko | "Maybe we can share it." |
+| 06 | Luca | "Now everyone can see it." |
+| 06 | Kiko | "Together." |
+| 06 | Luca | "Together." |
 
 ---
 
@@ -21,5 +26,5 @@
 
 | Character | Total Lines |
 |---|---|
-| Luca | 4 |
-| Kiko | 4 |
+| Luca | 7 |
+| Kiko | 6 |

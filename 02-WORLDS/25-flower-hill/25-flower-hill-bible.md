@@ -1,25 +1,36 @@
 # Environment Bible — Flower Hill
 
-> **Version 4.3** — Visual Richness & World Charm pass. Nature Field Zone /
-> Home Cluster Zone charm details added. Single Hero View + World Spec
-> pipeline unchanged.
+> **Version 4.4** — Reference System Update. Wires the approved legacy
+> images at `12-ENVIRONMENT/25-flower-hill/` into the Nature Field Zone /
+> Home Cluster Zone system as Visual Quality Anchors. Single Hero View +
+> World Spec pipeline unchanged.
 > Aligned with Cloud Hill production standards.
 
 ---
 
 ```
 Environment ID: ENV-025
-Version: 4.3
+Version: 4.4
 Type: Exterior World
-Status: Design / Pending Hero View
+Status: Design / Pending Canon Hero View Approval
 Bible: ✅
-Hero View: ❌ Pending
-World Spec: ✅ Draft
+Hero View: 🟡 Legacy images exist (`12-ENVIRONMENT/25-flower-hill/`), Canon Hero View approval pending
+World Spec: ✅ v4.4
 ```
 
-Flower Hill is not ready for regular episode production until one Canon Hero View is generated and approved.
+Flower Hill has approved legacy reference images (`hero-view.png`,
+`left-view.png`, `right-view.png`, `top-view.png`) at
+`12-ENVIRONMENT/25-flower-hill/`. These serve as Visual Quality Anchors per
+`GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Quality Anchor Policy — they
+restore charm and richness but do not override this Bible or the World Spec
+on what is canon. Flower Hill is not ready for regular episode production
+until one Canon Hero View is generated and approved using these anchors plus
+this Bible and the World Spec.
 
-It is ready for the next step: **Generate and approve Canon Hero View v1.**
+It is ready for the next step: **Generate and approve Canon Hero View v1,
+using the legacy hero-view.png as the primary Visual Quality Anchor for
+Home Cluster Zone charm, and the World Spec's Nature Field Zone identity for
+the open flower-field portion.**
 
 ---
 
@@ -302,6 +313,35 @@ small fences, stone stairs, flower pots, and warm preschool home charm.
 
 Do not force every Flower Hill shot to show homes. Do not force every Home
 Cluster shot to behave like an empty flower field.
+
+### Shot-Level Location Naming (Required)
+
+Every Flower Hill shot file must specify a zone in its Location field.
+`Location: Flower Hill` alone is not sufficient — write one of:
+
+```
+Location: Flower Hill — Nature Field Zone
+Location: Flower Hill — Home Cluster Zone
+Location: Flower Hill — transition from Nature Field Zone to Home Cluster Zone
+```
+
+If the correct zone is genuinely unclear from the story beat, do not guess:
+add `TODO: Choose Flower Hill zone before generation.` and flag it for
+review rather than defaulting to either zone.
+
+Assignment rule of thumb:
+
+| Shot is about... | Use zone |
+|---|---|
+| Colour learning, flower discovery, walking, counting, open nature observation, butterfly watching | Nature Field Zone |
+| Kiko's Home, Mimi's Burrow, visiting, helping at home, returning home, garden activity, warm home feeling | Home Cluster Zone |
+| Character physically walking from the open field toward the homes (or back) | transition from Nature Field Zone to Home Cluster Zone |
+
+See the copy-ready per-zone prompt blocks in
+`25-flower-hill-world-spec.md` § Zone Shot Prompt Blocks, and the Reference
+Image Policy in the same section for which of the four approved images
+(`12-ENVIRONMENT/25-flower-hill/hero-view.png` /
+`left-view.png` / `right-view.png` / `top-view.png`) to use per shot angle.
 
 ### Iconic Landmark
 
@@ -872,6 +912,9 @@ Güzellik, renk, ev hissi, doğa sevgisi, keşif.
 ✓ Çimen yumuşak yeşil mi (#C8E6C9)?
 ✓ Sivri köşe veya sivri taş yok mu?
 ✓ Karanlık atmosfer yok mu?
+✓ Shot Nature Field Zone veya Home Cluster Zone'a atanmış mı (yalnızca "Flower Hill" değil)?
+✓ Nature Field Zone ise beş renk ve S-eğrisi patika görünür mü?
+✓ Home Cluster Zone ise evler/merdivenler/çitler stabil ve tutarlı mı?
 ```
 
 ### Camera Identity
@@ -992,11 +1035,12 @@ Flower Hill'i kullanan her gelecek bölüm, Hero View'i ana referans olarak yük
 | 4.1 micro-polish | Pompom Hills yazımı birleştirildi. Varsayılan aydınlatma "warm morning daylight" olarak birleştirildi. Gün batımı/kar/yağmur özel varyant olarak işaretlendi. Hero View'da bağlı evlerin opsiyonel ve ikincil olduğu netleştirildi. | — |
 | 4.2 | Production-depth pass: Visual Identity, Props, genişletilmiş Camera Identity (lens, hareket felsefesi, izin verilen/yasak hareketler, kadraj ve geçiş kuralları), genişletilmiş Lighting Identity (ışık yönü tablosu, yumuşaklık, ambient fill, gölge yoğunluğu, exposure, devamlılık), genişletilmiş Colour Identity (highlight/shadow davranışı), yeni Environmental Sound Identity, yeni World Navigation, yeni View Transition Rules, kategorize edilmiş Consistency Checklist (World/Camera/Lighting/Colour/Scale/Atmosphere/World Recognition), Hero View teknik kurulumu ve kadraj oranları, yeni Scale Reference, yeni Production Summary. Beş renk, pipeline, Hero View QA Checklist ve World Identity değişmedi. | — |
 | 4.3 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section defining Nature Field Zone and Home Cluster Zone as distinct sub-zones, each with its own Iconic Landmark and Allowed Charm Details (by category), plus a shared Forbidden Clutter list, Thumbnail Hook, and Child Recognition Test. Corrects over-simplification where Flower Hill risked being described as only "flowers + path." Single Hero View + World Spec pipeline unchanged. Five-colour identity, S-curve path, and World Identity Lock unchanged. | — |
+| 4.4 | **Reference System Update.** Wired the approved legacy images at `12-ENVIRONMENT/25-flower-hill/` (hero/left/right/top) into the zone system as Visual Quality Anchors (see updated Status block and `25-flower-hill-world-spec.md` § Reference Image Policy). Added `### Shot-Level Location Naming (Required)` under Visual Richness & World Charm, requiring every shot to declare `Flower Hill — Nature Field Zone` / `Flower Hill — Home Cluster Zone` / a transition, with a TODO fallback when unclear. Single Hero View + World Spec pipeline unchanged; does not reopen the multi-reference-pack workflow. | — |
 
 ---
 
 *Bu belge Flower Hill mekanı için creative referanstır.*
-*Environment Bible v4.3*
+*Environment Bible v4.4*
 *Son güncelleme: 4 Temmuz 2026*
 
 ---

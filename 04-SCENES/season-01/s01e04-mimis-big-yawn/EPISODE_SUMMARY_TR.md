@@ -8,7 +8,7 @@
 
 ### Sahne 01
 
-Kiko ve Mimi birlikte Flower Hill'de yürüyorlar.
+Kiko ve Mimi birlikte Flower Hill'in Nature Field Zone'unda yürüyorlar.
 
 Gün güzel.
 

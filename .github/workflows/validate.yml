@@ -9,15 +9,9 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
-    
+
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Validate Naming
-        run: bash scripts/validate-naming.sh
-      
-      - name: Validate Continuity
-        run: python3 scripts/validate-continuity.py
-      
-      - name: Lint Prompts
-        run: python3 scripts/lint-prompts.py
+
+      - name: Validate All Scenes (QA)
+        run: bash scripts/validate-all.sh

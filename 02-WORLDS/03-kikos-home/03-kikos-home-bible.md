@@ -14,7 +14,7 @@
 Environment ID: ENV-003
 File: 12-ENVIRONMENT/03-kikos-home/
 Version: 3.2
-Location: Flower Hill
+Location: Flower Hill — Home Cluster Zone
 Type: Living World
 Status: Production Ready — In Use
 First Used: S01E02 Kiko's Home Tour
@@ -308,9 +308,9 @@ regardless of which generation tool is used today or in the future.
 ## World Position
 
 ```
-Kiko's Home (Flower Hill)
+Kiko's Home (Flower Hill — Home Cluster Zone)
         ↓ 1 dakika yürüyüş
-Mimi's Burrow (Flower Hill)
+Mimi's Burrow (Flower Hill — Home Cluster Zone)
         ↓ 2 dakika yürüyüş
 Butterfly Meadow
         ↓ 2-3 dakika yürüyüş
@@ -318,9 +318,9 @@ Central Square
 ```
 
 **Komşuları:**
-- Kuzey: Mimi's Burrow (1 dk)
+- Kuzey: Mimi's Burrow (1 dk, aynı Home Cluster Zone)
 - Güney: Butterfly Meadow (2 dk)
-- Doğu: Flower Hill çiçek tarlası
+- Doğu: Flower Hill — Nature Field Zone (çiçek tarlası)
 - Batı: Tillo's Garden (3 dk)
 
 **Yol tarifi:**
