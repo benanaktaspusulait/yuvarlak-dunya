@@ -13,7 +13,7 @@
 | Characters | Opa, Luca, Mimi |
 
 Bu bölümün warm final hold'udur; ardından ortak kapanış bumper'ı gelir —
-bkz. `../../_bumpers/closing-bumper.md`.
+bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODES/OPAS_STORYTIME_SERIES/CLOSING_BUMPER/closing-bumper.md`.
 
 ---
 
@@ -85,7 +85,7 @@ Continue Shot 07 lighting exactly. Soft diffused rainy-day window light, warm in
 ## Reference Usage
 
 - Continuity Reference: Shot 07 video (or exported final frame)
-- This is the final story shot; shared closing bumper follows in edit — bkz. `../../_bumpers/closing-bumper.md`.
+- This is the final story shot; shared closing bumper follows in edit — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODES/OPAS_STORYTIME_SERIES/CLOSING_BUMPER/closing-bumper.md`.
 
 ## Negative Prompt
 

@@ -76,9 +76,15 @@ Release order:
 
 ## Release Philosophy
 
+> **Superseded by Channel Growth Decisions §8 (daily publishing) and §8a
+> (UK Timezone Dual-Post Strategy) below.** The "2–3 per week" cadence and
+> single "Saturday 10:00 UK" slot no longer apply — publishing is now daily,
+> and each character/video launch uses two UK posting times (04:00 and
+> 12:00) instead of one weekly slot. Kept here for historical context only.
+
 - Episodes in production order
-- 2–3 per week
-- Best time: Saturday 10:00 UK
+- 2–3 per week ~~(superseded — see §8)~~
+- Best time: Saturday 10:00 UK ~~(superseded — see §8a)~~
 
 ---
 
@@ -319,6 +325,43 @@ Do not dump too many similar Shorts at the same time.
 Spread Shorts across the day.
 
 Avoid overloading the same character repeatedly unless the data clearly supports it.
+
+--------------------------------------------------
+8a. UK TIMEZONE DUAL-POST STRATEGY
+--------------------------------------------------
+
+All publishing times below are given in UK time and apply across all platforms
+(YouTube, Instagram, Facebook).
+
+Rationale: a single UK posting time cannot serve both the Eastern Hemisphere
+(Asia/Europe) and the Western Hemisphere (Americas) at their own local peak
+hours. Posting twice — once for each hemisphere — lets one piece of content
+reach both audiences at a locally relevant time of day.
+
+Standard dual-post schedule for a character/video launch:
+
+| Post | UK Time | Local Effect | Target Audience |
+|------|---------|---------------|------------------|
+| Main video | 04:00 UK | ~12:00 noon in Philippines/SE Asia | Eastern Hemisphere (Asia, Europe) |
+| Reel / repost (same video, short cut or new cover) | 12:00 UK (noon) | ~07:00 EST morning | Western Hemisphere (Americas) |
+
+Rules:
+
+- The second post must be at least 24–48 hours after the first post, and on a
+  different day-part, so the two posts do not cannibalise each other's reach
+  (see the existing Noah Reel 1/Reel 2 spacing rule in
+  `08-PRODUCTION/ASSET_TRACKER.md` §2a).
+- The second post should not be an identical re-upload. Use either a shorter
+  cut of the same video or a different cover/thumbnail, per the existing
+  Noah Reel 2 pattern (cutest 15s cut).
+- This is a standard, repeatable pattern — apply it to every character launch
+  going forward (Noah, Mimi, Arda, and future character introductions), not
+  as a one-off experiment.
+- Track both posts per character in `08-PRODUCTION/ASSET_TRACKER.md` §2a and
+  `08-PRODUCTION/CONTENT_MATRIX.md`.
+- This schedule is a starting recommendation, not a locked rule — review
+  actual regional performance after 30 days (per §1 Early Data Interpretation)
+  and adjust the two posting times if the data supports a different split.
 
 ==================================================
 9. FORMAT PAIRING

@@ -62,14 +62,49 @@ Tüm production assetlerinin durumunu takip eder.
 
 ---
 
-## 2a. Instagram Reels Assetleri (US Timing Deneyi)
+## 2a. Instagram Reels Assetleri (UK Timezone Dual-Post Standard)
 
-| Reel | Kaynak Dosya | Süre | Format | Kapak Fotoğrafı | Durum |
-|------|-------------|------|--------|------------------|-------|
-| Noah Reel 1 — Meet Noah | `15-VIDEOS/intro-shorts/noah-intro-shorts.mp4` (mevcut, değiştirilmedi) | 30 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-1-cover.jpg` (~21.5s karesi) | 🟢 Hazır |
-| Noah Reel 2 — I Have an Idea (cutest 15s cut) | `15-VIDEOS/reels/noah-reel-2-cutest-15s.mp4` (yeni, ilk 15sn kesildi) | 15 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-2-cover.jpg` (~9.5s karesi) | 🟢 Hazır |
+> Standart plan: `11-DOCS/09_YOUTUBE_STRATEGY.md` → Channel Growth Decisions §8a
+> (UK Timezone Dual-Post Strategy). Bu, artık tüm karakter lansmanları için
+> tekrarlanan standart bir kalıptır — Noah'a özel bir deney değil.
+>
+> Zamanlama: Ana video **UK 04:00**'te (Doğu Yarımküre — Asya/Avrupa için öğlen
+> saatleri), aynı videonun kısa kesiti/farklı kapağı **UK 12:00**'de (Batı
+> Yarımküre — Amerika için sabah saatleri) paylaşılır. İki paylaşım arası en az
+> 24-48 saat olmalı.
 
-Not: Reel 2, Reel 1'den en az 24-48 saat sonra farklı bir gün diliminde paylaşılmalı (bkz. metadata detayları için konuşma geçmişi / `00-CORE/30_YOUTUBE_METADATA_STANDARD.md`).
+| Reel | Karakter | Kaynak Dosya | Süre | Format | Kapak Fotoğrafı | UK Yayın Saati | Durum |
+|------|----------|-------------|------|--------|------------------|-----------------|-------|
+| Noah Reel 1 — Meet Noah | Noah | `15-VIDEOS/intro-shorts/noah-intro-shorts.mp4` (mevcut, değiştirilmedi) | 30 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-1-cover.jpg` (~21.5s karesi) | 04:00 (Doğu Yarımküre) | 🟢 Hazır |
+| Noah Reel 2 — I Have an Idea (cutest 15s cut) | Noah | `15-VIDEOS/reels/noah-reel-2-cutest-15s.mp4` (yeni, ilk 15sn kesildi) | 15 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-2-cover.jpg` (~9.5s karesi) | 12:00 (Batı Yarımküre) | 🟢 Hazır |
+| Mimi Reel 1 — Meet Mimi | Mimi | `15-VIDEOS/intro-shorts/mimi-intro-shorts.mp4` | — | 1080x1920 | 🔴 Bekliyor (kapak fotoğrafı seçilmedi) | 04:00 (Doğu Yarımküre) | 🔴 Bekliyor |
+| Mimi Reel 2 — kısa kesit / alternatif kapak | Mimi | 🔴 Bekliyor (kesim yapılmadı) | 15 sn (hedef) | 1080x1920 | 🔴 Bekliyor | 12:00 (Batı Yarımküre) | 🔴 Bekliyor |
+| Arda Reel 1 — Meet Arda | Arda | `15-VIDEOS/intro-shorts/arda-intro-shorts.mp4` | — | 1080x1920 | 🔴 Bekliyor (kapak fotoğrafı seçilmedi) | 04:00 (Doğu Yarımküre) | 🔴 Bekliyor |
+| Arda Reel 2 — kısa kesit / alternatif kapak | Arda | 🔴 Bekliyor (kesim yapılmadı) | 15 sn (hedef) | 1080x1920 | 🔴 Bekliyor | 12:00 (Batı Yarımküre) | 🔴 Bekliyor |
+
+Not: Reel 2 (her karakter için), Reel 1'den en az 24-48 saat sonra farklı bir
+gün diliminde paylaşılmalı (bkz. metadata detayları için `00-CORE/30_YOUTUBE_METADATA_STANDARD.md`).
+Mimi ve Arda için kaynak intro-shorts dosyaları mevcut ancak Reel 2 kesimleri
+ve kapak fotoğrafları henüz üretilmedi — Noah Reel 2 üretim adımları örnek
+alınarak tamamlanmalı.
+
+---
+
+## 2b. Pompom Hills Family Fun — Event Campaign Assetleri
+
+Facebook/Instagram için "Event / Weekend Fun" tarzı kampanya görselleri. Prompt paketi:
+`07-BRANDING/campaigns/pompom-hills-event/prompts.md`.
+
+| Scene | Klasör | Amaç | Format | Durum |
+|-------|--------|------|--------|-------|
+| 01 | `01-hero-event-poster/` | Ana kampanya görseli, geniş Pompom Hills manzarası + karakterler el sallıyor | 4:5 | 🔴 Bekliyor |
+| 02 | `02-character-invite/` | Opa/Kiko yakın çekim davet | 1:1 | 🔴 Bekliyor |
+| 03 | `03-activity-scene/` | Aile/etkinlik atmosferi, çocuklar oyun oynuyor | 1:1 / 4:5 | 🔴 Bekliyor |
+| 04 | `04-story-version/` | Instagram Story, sade + büyük başlık | 9:16 | 🔴 Bekliyor |
+| 05 | `05-reel-cover/` | Reel kapak görseli, büyük karakter yüzü | 9:16 | 🔴 Bekliyor |
+
+Üretim sırası: Scene 01 önce onaylanır (world reference kilitlenir), sonra 02-05 aynı referansla üretilir.
+Görsel onay süreci: `CONTRIBUTING.md` § Görsel Onay Süreci (Prompt QA → Pedagoji QA → Tasarım QA → Karakter QA → Metadata QA).
 
 ---
 

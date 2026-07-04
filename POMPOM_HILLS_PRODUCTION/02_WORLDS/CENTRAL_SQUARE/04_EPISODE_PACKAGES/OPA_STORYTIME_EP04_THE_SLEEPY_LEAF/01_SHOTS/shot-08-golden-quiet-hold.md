@@ -13,7 +13,7 @@
 | Characters | Opa, Kiko, Noah |
 
 Bu bölümün warm final hold'udur; ardından ortak kapanış bumper'ı gelir —
-bkz. `../../_bumpers/closing-bumper.md`.
+bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODES/OPAS_STORYTIME_SERIES/CLOSING_BUMPER/closing-bumper.md`.
 
 ---
 

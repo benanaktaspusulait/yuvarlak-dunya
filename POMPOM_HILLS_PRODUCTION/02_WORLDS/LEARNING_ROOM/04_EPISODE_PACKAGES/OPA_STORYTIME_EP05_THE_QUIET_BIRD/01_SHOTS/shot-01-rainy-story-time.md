@@ -12,7 +12,7 @@
 | Location | Learning Room — Reading Corner (rainy day, indoor) |
 | Characters | Opa, Luca, Mimi |
 
-Bu bölüm ortak açılış bumper'ından SONRA gelir — bkz. `../../_bumpers/opening-bumper.md`.
+Bu bölüm ortak açılış bumper'ından SONRA gelir — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODES/OPAS_STORYTIME_SERIES/OPENING_BUMPER/opening-bumper.md`.
 Shot 01 aynı zamanda serinin kendi açılış beat'idir (`00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §4).
 
 ---

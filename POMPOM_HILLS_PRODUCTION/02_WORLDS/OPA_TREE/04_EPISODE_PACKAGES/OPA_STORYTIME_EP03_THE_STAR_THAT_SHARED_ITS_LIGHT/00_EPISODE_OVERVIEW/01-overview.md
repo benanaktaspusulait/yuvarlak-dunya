@@ -33,7 +33,7 @@ masalını anlatır. Luca ve Noah hikaye boyunca sorular sorar ve tepki verir.
 
 ## Opening Bumper
 
-Ortak açılış bumper kullanılır — bkz. `../_bumpers/opening-bumper.md`.
+Ortak açılış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODES/OPAS_STORYTIME_SERIES/OPENING_BUMPER/opening-bumper.md`.
 
 - Duration: 3–4 sn (ortak klip, her bölümde aynı)
 - Visual: Yuvarlak kitap yumuşakça açılır (yer-nötr)
@@ -46,7 +46,7 @@ Ortak açılış bumper kullanılır — bkz. `../_bumpers/opening-bumper.md`.
 
 ## Closing Bumper
 
-Ortak kapanış bumper kullanılır — bkz. `../_bumpers/closing-bumper.md`.
+Ortak kapanış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODES/OPAS_STORYTIME_SERIES/CLOSING_BUMPER/closing-bumper.md`.
 
 - Duration: 4–5 sn (ortak klip, her bölümde aynı)
 - Visual: Kitap yumuşakça kapanır + end-screen-safe kare

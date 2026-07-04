@@ -82,6 +82,7 @@ yuvarlak-dunya/
 | Karakter görselleri (PNG) | `01-CHARACTERS/drawings/{karakter}.png` |
 | Prop görselleri (PNG) | `03-PROPS/{kategori}/...` |
 | Video çıktıları | `videos/` |
+| Facebook/Instagram event kampanya görselleri (poster/story/reel-cover promptları) | `07-BRANDING/campaigns/{kampanya-adı}/prompts.md` |
 
 ## İsimlendirme Standardı
 
