@@ -13,5 +13,28 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      # Not: doğrulama script'leri iki yerde yaşar:
+      #   scripts/            → sahne QA runner'ları (validate-all / validate-scene)
+      #   13-SCRIPTS/         → isimlendirme, prompt lint, continuity
+      # Tüm yollar repo köküne göredir (runner üzerinde de çalışır).
+
+      - name: Validate Naming
+        run: bash 13-SCRIPTS/validate-naming.sh
+
+      - name: Lint Prompts
+        run: python3 13-SCRIPTS/lint-prompts.py
+
+      - name: Validate Worlds
+        run: bash validate-worlds.sh
+
       - name: Validate All Scenes (QA)
         run: bash scripts/validate-all.sh
+
+      # Continuity kontrolü, karakter ölçek + renk hex kodunun her bölüm
+      # dosyasında geçmesini bekliyor. Bu konvansiyon repoda hiç benimsenmedi
+      # (renk canon'u 00-CORE/CHARACTER_GUIDE.md + VARIABLES.md'de tutulur).
+      # Kontrol bilgi amaçlı çalışır, pre-existing dokümantasyon borcu
+      # yüzünden build'i bloklamaz.
+      - name: Validate Continuity (non-blocking)
+        continue-on-error: true
+        run: python3 13-SCRIPTS/validate-continuity.py

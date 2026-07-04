@@ -35,8 +35,9 @@ Never sharp rocks, cliffs, quarry or generic rocky field.
 
 ## Start Frame
 
-Use the approved exported final frame / continuity frame from Shot 01 as the exact
-first frame. Match the Episode Colour Master.
+Start from the approved exported continuity frame from Shot 01 as closely as possible.
+Preserve the established composition, lighting, background objects and character
+proportions while allowing natural character motion. Match the Episode Colour Master.
 
 Maintain:
 - Character appearance
@@ -49,8 +50,9 @@ Do not redesign the environment.
 
 Luca is already present at the beginning of the shot, holding the stone.
 
-Kiko is NOT yet in frame at the first frame; she enters naturally from the same
-Stone Hill path during the shot.
+Kiko is NOT yet in frame at the first frame; she enters gently from background-right
+along the same visible pebble path, walking slowly toward Luca. Her entrance is natural,
+slow and preschool-friendly, never sudden.
 
 ---
 
@@ -77,9 +79,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot.
 ```
 
-Continue directly from the Shot 01 continuity frame. Treat it as the exact starting
-composition. Do not reinterpret it, do not reposition the camera, do not recompose the
-scene. Continue the action naturally, then let Kiko enter from the same path.
+Start from the Shot 01 exported continuity frame as closely as possible. Preserve the
+established composition, lighting, background objects and character proportions while
+allowing natural character motion. Do not reset or reposition the camera into a new
+composition, redesign the set, change the lighting, or morph the background. Continue the
+action naturally, then let Kiko enter gently from background-right along the same path.
 
 ---
 
@@ -93,11 +97,13 @@ and should not be hardcoded into this document.
 
 ## Camera Direction
 
-Begin from the Shot 01 continuity frame with no camera reset.
+Begin from the Shot 01 continuity frame with no camera reset. Maintain the identical
+camera position from the Shot 01 continuity frame; do not recompose into a new setup.
 
-Continue from the exact framing of Shot 01. Kiko enters from the same path; Luca turns
-toward her and shows the stone. Camera follows their interaction naturally and ends on a
-medium-wide shot with both characters and the stone visible.
+Preserve the established framing and composition of Shot 01 while allowing natural
+character motion. Kiko enters gently from background-right along the same pebble path;
+Luca turns toward her and shows the stone. Camera follows their interaction naturally and
+ends on a medium-wide shot with both characters and the stone visible.
 
 Maintain a soft 35mm-equivalent preschool framing. Warm morning daylight throughout.
 Avoid sudden movements, zooms or shakes.
@@ -124,7 +130,7 @@ Kiko: Wow!
 |---|---|---|
 | 0-5 sn | Kiko enters from the same path, sees Luca | Medium-wide |
 | 5-10 sn | Luca turns and shows the stone | Medium |
-| 10-15 sn | Kiko looks at the stone with wonder | Established composition |
+| 10-15 sn | Kiko looks with wonder; Luca gently offers the stone toward her (slow, calm hand-off) | Established composition |
 
 ---
 
@@ -145,7 +151,7 @@ Match the Shot 01 Episode Colour Master. No lighting change between shots.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
 
 ## QA Checklist
 
@@ -158,7 +164,8 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified (no reset from Shot 01)
 - [ ] Lighting consistency verified (matches Episode Colour Master)
 - [ ] Canonical rules followed
-- [ ] Kiko entrance is natural and clear
+- [ ] Kiko entrance is clear (gentle, from background-right along the pebble path)
+- [ ] Luca gently offers the stone toward Kiko (slow, calm hand-off, not sudden)
 - [ ] No extra or non-canon characters appear
 - [ ] Stone Hill looks specific, not generic
 - [ ] Background stone clusters remain stable

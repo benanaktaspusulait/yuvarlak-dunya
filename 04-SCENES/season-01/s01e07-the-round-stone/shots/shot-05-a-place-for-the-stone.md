@@ -34,8 +34,9 @@ Never sharp rocks, cliffs, quarry or generic rocky field.
 
 ## Start Frame
 
-Use the approved continuity frame exported from Shot 04 as the exact first frame.
-Match the Episode Colour Master.
+Start from the approved continuity frame exported from Shot 04 as closely as possible.
+Preserve the established composition, lighting, background objects and character
+proportions while allowing natural character motion. Match the Episode Colour Master.
 
 Maintain:
 - Character appearance
@@ -64,7 +65,7 @@ grass or moss moves gently, camera moves slowly if planned.
 ## Visual Prompt
 
 ```text
-Luca and Kiko finding a small safe spot among the rounded stones on Stone Hill, gently placing the smooth round stone on a soft mossy patch near a tiny circle of pebbles, both looking at it kindly, warm moss and rounded stones around them, warm morning daylight, no other characters, {style} {camera} {lighting}
+Luca and Kiko finding a small safe spot among the rounded stones on Stone Hill, gently placing the smooth round stone on a soft mossy patch beside a small natural group of rounded pebbles already on the ground, both looking at it kindly, warm moss and rounded stones around them, warm morning daylight, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the Episode Colour Master.
 
@@ -72,9 +73,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot. The stone is placed safely on the ground, not stacked or balanced.
 ```
 
-Continue directly from the Shot 04 continuity frame. Treat it as the exact starting
-composition. Do not reinterpret it, do not reposition the camera, do not recompose the
-scene. Continue the action naturally.
+Start from the Shot 04 exported continuity frame as closely as possible. Preserve the
+established composition, lighting, background objects and character proportions while
+allowing natural character motion. Do not reset or reposition the camera into a new
+composition, redesign the set, change the lighting, or morph the background. Continue the
+action naturally.
 
 ---
 
@@ -88,8 +91,10 @@ and should not be hardcoded into this document.
 
 ## Camera Direction
 
-Begin from the Shot 04 continuity frame with no camera reset. Keep the same camera
-position and continue from the exact framing of the previous shot.
+Begin from the Shot 04 continuity frame with no camera reset. Maintain the identical
+camera position from the previous shot; do not recompose into a new setup. Preserve the
+established framing and composition while allowing natural character motion; keep the
+camera in the same setup rather than recomposing into a new shot.
 
 Use a gentle medium-low framing so the stone placement is clearly visible. Keep movement
 slow and stable. Warm morning daylight throughout.
@@ -136,14 +141,16 @@ Match the Episode Colour Master. No lighting change between shots.
 
 ## Safety Note
 
-The stone is placed safely and flat on the ground / mossy patch. No balancing, no tall
-stack, no unstable pile. Nothing can fall.
+The stone is placed safely and flat on the ground / mossy patch, beside a small natural
+group of rounded pebbles already on the ground. No balancing, no tall stack, no unstable
+pile. The pebbles are a natural scattering, not a magic circle, ritual circle, symbol,
+arranged pattern or balanced stone tower. Nothing can fall.
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, stacked stones, balancing stones, unstable pile, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, stacked stones, balancing stones, unstable pile, stone tower, magic circle, ritual circle, symbol, arranged pattern, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
 
 ## QA Checklist
 

@@ -20,7 +20,8 @@
 This shot continues directly from Shot 02.
 
 Same Stone Hill discovery area. Both Luca and Kiko are already present.
-Kiko is now holding the stone.
+Kiko has just received the round stone from Luca at the end of Shot 02 and is now
+holding it at the start of this shot.
 
 ---
 
@@ -34,8 +35,12 @@ Never sharp rocks, cliffs, quarry or generic rocky field.
 
 ## Start Frame
 
-Use the approved continuity frame exported from Shot 02 as the exact first frame.
-Match the Episode Colour Master.
+Start from the approved continuity frame exported from Shot 02 as closely as possible.
+Preserve the established composition, lighting, background objects and character
+proportions while allowing natural character motion. Match the Episode Colour Master.
+
+Kiko has just received the stone from Luca; she is holding it at the start of the shot
+while Luca points to its round shape.
 
 Maintain:
 - Character appearance
@@ -74,9 +79,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot.
 ```
 
-Continue directly from the Shot 02 continuity frame. Treat it as the exact starting
-composition. Do not reinterpret it, do not reposition the camera, do not recompose the
-scene. Continue the action naturally.
+Start from the Shot 02 exported continuity frame as closely as possible. Preserve the
+established composition, lighting, background objects and character proportions while
+allowing natural character motion. Do not reset or reposition the camera into a new
+composition, redesign the set, change the lighting, or morph the background. Continue the
+action naturally.
 
 ---
 
@@ -90,8 +97,10 @@ and should not be hardcoded into this document.
 
 ## Camera Direction
 
-Begin from the Shot 02 continuity frame with no camera reset. Keep the same camera
-position and continue from the exact framing of the previous shot.
+Begin from the Shot 02 continuity frame with no camera reset. Maintain the identical
+camera position from the previous shot; do not recompose into a new setup. Preserve the
+established framing and composition while allowing natural character motion; keep the
+camera in the same setup rather than recomposing into a new shot.
 
 Keep both Kiko and Luca in frame. Only a very subtle camera movement is allowed. Avoid
 reframing and dramatic zooms. The focus stays on the emotional interaction with the
@@ -121,7 +130,7 @@ Luca: Like a tiny moon!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Kiko holds stone, Luca points to its round shape | Medium |
+| 0-5 sn | Kiko now holds the stone she just received; Luca points to its round shape | Medium |
 | 5-10 sn | They turn the stone slowly in their hands | Gentle focus shift |
 | 10-15 sn | Both smile with wonder | Medium |
 
@@ -143,7 +152,7 @@ Match the Episode Colour Master. No lighting change between shots.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
 
 ## QA Checklist
 
@@ -156,6 +165,7 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified (no reset from Shot 02)
 - [ ] Lighting consistency verified (matches Episode Colour Master)
 - [ ] Canonical rules followed
+- [ ] Kiko is holding the stone just handed over from Shot 02; Luca points to it
 - [ ] "Tiny moon" is imaginative only; no literal moon required
 - [ ] Stone Hill looks specific, not generic
 - [ ] Background stone clusters remain stable

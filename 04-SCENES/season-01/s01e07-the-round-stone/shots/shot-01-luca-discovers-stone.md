@@ -21,7 +21,9 @@ This is the FIRST shot of the episode.
 
 No previous shot reference exists.
 
-Use the approved Shot 01 still as the exact first frame and Episode Colour Master.
+Use the approved Shot 01 still as the opening frame and Episode Colour Master. Luca is
+already visible in this still, walking slowly along the pebble path; he does not enter
+from off-screen.
 
 ---
 
@@ -98,9 +100,12 @@ into this document.
 
 This is the first shot of the episode. No previous shot reference exists.
 
-Begin with a static 35mm wide establishing shot that shows the Stone Hill discovery area.
+Begin with a soft 35mm wide establishing shot that shows the Stone Hill discovery area.
 
-Luca enters from the lower-left, walking along the pebble path among the rounded stones.
+Luca is already visible near the lower-left area of the frame, walking slowly along the
+pebble path among the rounded stones. He does not need a separate entrance; the shot
+opens with him already in view. Within the first 3-5 seconds he notices the smooth round
+flat stone.
 
 Perform a gentle cinematic push-in as Luca spots the stone.
 
@@ -149,7 +154,7 @@ This shot is the Episode Colour Master.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
 
 ## QA Checklist
 

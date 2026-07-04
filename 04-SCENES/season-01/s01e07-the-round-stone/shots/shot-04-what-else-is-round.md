@@ -34,8 +34,9 @@ Never sharp rocks, cliffs, quarry or generic rocky field.
 
 ## Start Frame
 
-Use the approved continuity frame exported from Shot 03 as the exact first frame.
-Match the Episode Colour Master.
+Start from the approved continuity frame exported from Shot 03 as closely as possible.
+Preserve the established composition, lighting, background objects and character
+proportions while allowing natural character motion. Match the Episode Colour Master.
 
 Maintain:
 - Character appearance
@@ -69,12 +70,14 @@ Luca and Kiko on Stone Hill looking around at the other smooth rounded stones ne
 Match the lighting and colour grading exactly from the Episode Colour Master.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot. Use only stones already present in the set.
+The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot. Use nearby rounded stones from the established Stone Hill set. Do not invent a new area.
 ```
 
-Continue directly from the Shot 03 continuity frame. Treat it as the exact starting
-composition. Do not reinterpret it, do not reposition the camera, do not recompose the
-scene. Continue the action naturally.
+Start from the Shot 03 exported continuity frame as closely as possible. Preserve the
+established composition, lighting, background objects and character proportions while
+allowing natural character motion. Do not reset or reposition the camera into a new
+composition, redesign the set, change the lighting, or morph the background. Continue the
+action naturally.
 
 ---
 
@@ -88,12 +91,14 @@ and should not be hardcoded into this document.
 
 ## Camera Direction
 
-Begin from the Shot 03 continuity frame with no camera reset. Keep the same camera
-position and continue from the exact framing of the previous shot.
+Begin from the Shot 03 continuity frame with no camera reset. Maintain the identical
+camera position from the previous shot; do not recompose into a new setup. Preserve the
+established framing and composition while allowing natural character motion; keep the
+camera in the same setup rather than recomposing into a new shot.
 
-Allow a gentle pan across the already-visible rounded stones, then return to the
-characters. Keep movement slow and stable. Background must remain the same set — do not
-reveal or invent a new area.
+Allow a gentle pan across the nearby rounded stones already in the set, then return to
+the characters. Keep movement slow and stable. Background must remain the same set — do
+not reveal or invent a new area.
 
 Warm morning daylight throughout.
 
@@ -139,7 +144,7 @@ Match the Episode Colour Master. No lighting change between shots.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects
 
 ## QA Checklist
 
@@ -152,7 +157,7 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Camera consistency verified (no reset from Shot 03)
 - [ ] Lighting consistency verified (matches Episode Colour Master)
 - [ ] Canonical rules followed
-- [ ] Only already-visible stones are used; no new environment introduced
+- [ ] Nearby rounded stones from the established set are used; no new area invented
 - [ ] Stone Hill looks specific and reinforces its rounded-stone identity
 - [ ] Background stone clusters remain stable
 - [ ] No background object morphing

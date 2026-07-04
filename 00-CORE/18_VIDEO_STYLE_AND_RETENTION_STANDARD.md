@@ -112,39 +112,11 @@ Do not use loud jump cuts or aggressive teaser editing.
 
 ---
 
-## 4a. Opening Bumper Rule (Long-Form Videos)
+## 4a. Opening Bumper Rule → moved to §9c
 
-Long-form Pompom Hills videos may include a short opening bumper before the in-story hook (§4). This is optional for one-off episodes and recommended for recurring series (see §13's Series Bumper Rule and `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §4 for the Opa's Storytime opening beat).
-
-| Rule | Value |
-|---|---|
-| Maximum length | 3–5 seconds |
-| Purpose | Series recognition, playlist identity, gentle signal that the episode is starting |
-| Requirement | Must feel like part of the story world, not a disconnected intro |
-
-Allowed:
-
-- soft world-establishing moment
-- a character enters or notices something
-- Opa opens a book
-- a gentle recurring sound cue
-- a short recurring visual ritual
-- a very brief title card, only if specifically approved (see `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §5 for the Opa's Storytime title card rule; no on-screen text otherwise — see `00-CORE/17_VIDEO_GENERATION_STANDARD.md` §Text Safety)
-
-Forbidden:
-
-- long logo animation
-- loud music
-- fast montage
-- big flashy title sequence
-- aggressive branding
-- a cold open that delays the story
-- a confusing flash-forward (see §5 below)
-- text-heavy intro
-
-The opening bumper does not replace the in-story hook (§4) — the first 3–5 seconds of the episode (bumper included, if used) must still create curiosity.
-
-**Priority:** Story hook first, brand recognition second. If analytics show viewers dropping during the opening bumper, shorten it or remove it.
+The opening bumper rule is now unified under the **Micro-Opening / Warm Closing System (§9c)**.
+"Opening bumper" is an accepted alias for "micro-opening." See §9c for the full rule (length,
+allowed/forbidden, priority) and §9d for the Stone Hill micro-opening template.
 
 ---
 
@@ -311,34 +283,11 @@ If platform-specific text is needed, add it only in social captions, description
 
 ---
 
-## 9a. Closing Bumper Rule (Long-Form Videos)
+## 9a. Closing Bumper Rule → moved to §9c
 
-Long-form Pompom Hills videos may include a short closing bumper after the story resolution, in addition to the warm ending already described in §9. This is optional for one-off episodes and recommended for recurring series (see §13, and `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` for the Opa's Storytime closing).
-
-| Rule | Value |
-|---|---|
-| Maximum length | 3–6 seconds |
-| Purpose | Emotional closure, support repeat viewing, warm final memory, allow YouTube end-screen or playlist transition if needed |
-
-Allowed:
-
-- a quiet final hold
-- characters smiling
-- world ambience
-- a soft music tail
-- a gentle wave
-- a group looking at the world together
-- a visual return to the main world landmark
-
-Forbidden (same as §9):
-
-- loud subscribe request
-- "smash like" language
-- flashing text
-- long credits
-- abrupt cut to black
-- unrelated branding screen
-- a distracting end card inside the story render
+The closing bumper rule is now unified under the **Micro-Opening / Warm Closing System (§9c)**.
+"Closing bumper" is an accepted alias for "warm closing." See §9c's "Warm Closing" for the full
+rule (length, allowed/forbidden). The YouTube upload-time end-screen policy stays separate in §9b.
 
 ---
 
@@ -362,6 +311,163 @@ The end-screen-safe frame should be:
 - visually warm
 - with space for YouTube suggested video / playlist elements
 - free of important character action
+
+---
+
+## 9c. Micro-Opening / Warm Closing System
+
+This is the single authoritative section for opening and closing beats in long-form
+Pompom Hills videos. It unifies what were previously the separate "Opening Bumper Rule"
+(§4a) and "Closing Bumper Rule" (§9a); those sections are now short pointers to here.
+
+**Terminology:** "micro-opening" and "warm closing" are the preferred terms. The older term
+**"bumper"** (opening bumper / closing bumper) is an accepted alias for the same thing and
+remains valid where it already appears (e.g. `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`
+and the Opa's Storytime scene files). The YouTube upload-time end-screen policy stays separate
+in §9b.
+
+### Micro-Opening
+
+A long-form video may include a short micro-opening before the in-story hook (§4). It is a
+world- or series-establishing beat — a gentle signal that the episode is starting — that must
+feel like part of the story world, not a disconnected intro.
+
+For 90–120 second Pompom Hills episodes, a short 3–5 second micro-opening may be used when
+it strengthens the series or world identity.
+
+| Rule | Value |
+|---|---|
+| Maximum length | 3–5 seconds |
+| Purpose | Series/world recognition, playlist identity, gentle "episode is starting" signal |
+| Requirement | Must feel like part of the story world, not a disconnected intro |
+| Priority | Story hook first, brand recognition second |
+
+Allowed:
+
+- a soft world-establishing moment
+- a character enters or notices something
+- Opa opens a book (Opa's Storytime)
+- a gentle recurring sound cue
+- a short recurring visual ritual
+- a very brief title card only if specifically approved (see `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §5; no on-screen text otherwise — `00-CORE/17_VIDEO_GENERATION_STANDARD.md` §Text Safety)
+
+The micro-opening should be:
+
+- world-based or series-based by default
+- character-based only for special formats such as Opa's Storytime
+- calm, warm, preschool-friendly
+- visually simple but iconic
+- connected to the episode world
+- no longer than 3–5 seconds
+
+Usage by length:
+
+| Episode length | Micro-opening |
+|---|---|
+| 60 seconds | Avoid, unless it is only 1–2 seconds |
+| 90 seconds | Optional |
+| 120 seconds | Recommended |
+| Opa's Storytime | Required (see `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`) |
+| Shorts | Do not use |
+
+Do not:
+
+- use a long intro
+- use loud branding
+- use fast logo animation
+- generate readable text inside AI video (see `00-CORE/17_VIDEO_GENERATION_STANDARD.md` §Text Safety)
+- delay the story hook (§4) with a cold open
+- use a confusing flash-forward (see §5)
+- use micro-openings for Shorts
+
+The micro-opening should show:
+
+- the world or series identity
+- the iconic landmark or visual hook
+- one gentle motion
+- the mood of the episode
+- a natural transition into the first story shot
+
+The micro-opening does not replace the in-story hook (§4): the first 3–5 seconds of the
+episode (micro-opening included, if used) must still create curiosity. If analytics show
+viewers dropping during the micro-opening, shorten it or remove it.
+
+**Default opening type: world/series-based.**
+
+Examples:
+
+- **Opa's Storytime** — character/series-based opening with Opa gently opening a storybook.
+- **Stone Hill Adventures** — world-based opening showing rounded stones, pebble path, moss patches and warm morning light (see §9d).
+- **Cloud Hill Moments** — world-based opening showing the smooth dome hill, summit stone and drifting clouds.
+- **Flower Hill Friends** — world-based opening only after Flower Hill visual canon is stable.
+
+### Warm Closing
+
+A warm closing comes after the story resolution (in addition to the warm ending in §9).
+Closings should usually be **episode-specific** rather than fully reusable, though a reusable
+series closing beat remains allowed for recurring series such as Opa's Storytime.
+
+| Rule | Value |
+|---|---|
+| Maximum length | 3–6 seconds |
+| Purpose | Emotional closure, repeat viewing, warm final memory, room for YouTube end-screen/playlist transition (§9b) |
+
+A warm closing should include:
+
+- emotional resolution
+- a 2–3 second quiet final hold
+- a clean, peaceful final frame
+- possible YouTube end-screen-friendly space (§9b)
+
+Allowed:
+
+- a quiet final hold
+- characters smiling
+- world ambience
+- a soft music tail
+- a gentle wave
+- a group looking at the world together
+- a visual return to the main world landmark
+
+Forbidden:
+
+- no aggressive CTA, loud subscribe request or "smash like" language
+- no lesson text card by default (§9)
+- no generated readable text, flashing text, subtitles or speech bubbles inside the video
+- no long credits
+- no abrupt cut to black
+- no unrelated branding screen or distracting end card inside the story render
+
+---
+
+## 9d. Stone Hill Adventures — Micro-Opening Template
+
+**Duration:** 3–4 seconds.
+
+**Use:** For 90–120 second episodes set primarily in Stone Hill.
+
+**Visual:** A calm, warm morning view of Stone Hill — smooth rounded toy-like stones, a soft
+pebble path, warm moss patches, small grass tufts and a gentle slope. The camera glides
+slowly over the rounded stones and pebble path, briefly revealing the Stone Hill discovery
+area. The movement should naturally lead into the first story shot.
+
+**Mood:** warm, safe, tactile, curious, preschool-friendly.
+
+**Motion:** gentle camera glide or soft push-in; subtle grass/moss movement; no fast movement.
+
+**Audio:** soft ambient sound and gentle music. Optional voice only if needed: "A Stone Hill
+adventure…"
+
+**Avoid:** readable text, subtitles, title cards generated inside AI video, logos, fast cuts,
+extra characters, non-canon props, sharp rocks, cliffs, quarry, dark lighting, sunset,
+moonlight, magic glow.
+
+**Transition:** The final frame of the micro-opening should visually connect to the first
+episode shot. It should feel like entering the same Stone Hill world, not a separate trailer.
+
+> Consistent with the Stone Hill identity used in `04-SCENES/season-01/s01e07-the-round-stone/`
+> (rounded stone discovery area, warm morning daylight) and the world canon in
+> `00-CORE/WORLD_BIBLE.md` §6.
 
 ---
 
@@ -469,11 +575,11 @@ Do not make a video longer just because longer videos are possible. Length must 
 
 (Consistent with the video length strategy in `11-DOCS/09_YOUTUBE_STRATEGY.md` — Channel Growth Decisions §6.)
 
-### Series Bumper Rule
+### Series Recognition Rule
 
-For recurring YouTube-focused series (e.g. Opa's Storytime), opening and closing bumpers (§4a, §9a) are recommended, since they build series recognition and playlist identity across episodes.
+For recurring YouTube-focused series (e.g. Opa's Storytime), a micro-opening and warm closing (§9c) are recommended, since they build series recognition and playlist identity across episodes.
 
-For one-off regular episodes, bumpers remain optional. Default priority stays story hook first, brand recognition second (§4a).
+For one-off regular episodes, they remain optional. Default priority stays story hook first, brand recognition second (§9c).
 
 ---
 
@@ -583,18 +689,18 @@ Before approving a Pompom Hills long video, check:
 ✓ Would a parent understand the value of the video?
 ✓ Would a preschool child understand the emotional moment?
 
-If an opening or closing bumper is used (§4a, §9a):
+If a micro-opening or warm closing is used (§9c; "bumper" = alias):
 
-✓ Is the opening bumper 3–5 seconds maximum?
-✓ Does the opening bumper avoid delaying the story?
-✓ Does the first 3–5 seconds (bumper included) still create curiosity?
+✓ Is the micro-opening 3–5 seconds maximum?
+✓ Does the micro-opening avoid delaying the story?
+✓ Does the first 3–5 seconds (micro-opening included) still create curiosity?
 ✓ Is there no loud logo intro or aggressive branding?
 ✓ Is the series opening recognisable but short?
-✓ Is the closing bumper 3–6 seconds maximum?
-✓ Does the closing bumper give a warm emotional resolution?
-✓ Does the end-screen-safe frame avoid interrupting the story?
+✓ Is the warm closing 3–6 seconds maximum?
+✓ Does the warm closing give a warm emotional resolution?
+✓ Does the end-screen-safe frame avoid interrupting the story (§9b)?
 ✓ Is there no aggressive CTA inside the video?
-✓ If analytics show opening bumper drop-off, has it been shortened or removed?
+✓ If analytics show micro-opening drop-off, has it been shortened or removed?
 ```
 
 Run alongside `00-CORE/MASTER_QA_CHECKLIST.md` before publish.
@@ -628,4 +734,4 @@ Every production decision should protect the long-term identity of the Pompom Hi
 
 *This document is the single source of truth for video style, pacing and retention decisions.*
 *Cross-referenced from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` and `00-CORE/30_YOUTUBE_METADATA_STANDARD.md`.*
-*Version: 1.1 — Added opening/closing bumper and end-screen rules (§4a, §9a, §9b).*
+*Version: 1.3 — Unified opening/closing bumper rules under the Micro-Opening / Warm Closing System (§9c); §4a and §9a are now pointers. "Bumper" kept as an alias for backward compatibility.*

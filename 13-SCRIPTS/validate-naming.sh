@@ -18,8 +18,10 @@ for f in 01-CHARACTERS/*.md; do
 done
 
 # Mekan dosyaları kontrolü
+# Not: bible dosyaları artık her world'ün kendi alt klasöründe (02-WORLDS/NN-slug/).
 echo "📁 02-WORLDS/ kontrolü..."
-for f in 02-WORLDS/*-bible.md; do
+for f in 02-WORLDS/*/*-bible.md; do
+    [ -e "$f" ] || continue
     filename=$(basename "$f")
     if [[ ! "$filename" =~ ^[0-9]{2}-[a-z-]+-bible\.md$ ]]; then
         echo "  ❌ HATALI: $filename (beklenen: NN-slug-bible.md)"

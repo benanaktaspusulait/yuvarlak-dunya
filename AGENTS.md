@@ -39,7 +39,7 @@ bu dosyalara dokunmaz.
 | Yeni bölüm/sahne yazımı | `00-CORE/SERIES_STRUCTURE.md`, `04-SCENES/_templates/`, `00-CORE/CONTINUITY_RULES.md` |
 | Opa's Storytime bölümü (interactive storytelling sub-series) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`, ardından ilgili mekan (`02-WORLDS/`) ve karakter (`01-CHARACTERS/`) dosyaları |
 | Shot/video üretimi (kamera, renk, süreklilik, teknik) | `00-CORE/17_VIDEO_GENERATION_STANDARD.md`, `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/VISUAL_CONTINUITY_RULES.md` |
-| Video pacing / hook / retention stili (dış feedback dahil) | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
+| Video pacing / hook / retention stili, micro-opening & warm-closing / bumper (dış feedback dahil) | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
 | YouTube title / description / tags / Shorts metadata | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |
 | Yayın stratejisi, kanal büyümesi, publishing cadence, karakter/dünya rollout hızı | `11-DOCS/09_YOUTUBE_STRATEGY.md` (Channel Growth Decisions bölümü) |
 | Ses / voice / seslendirme | `00-CORE/AUDIO_GUIDE.md`, `00-CORE/EPISODE_AUDIO_WORKFLOW.md`, `05-AI-PROMPTS/voice/` |

@@ -4,7 +4,12 @@
 
 ## Duration
 
-1:30 (6 shots × 15 seconds)
+Story: 1:30 (6 shots × 15 seconds) — this is the canonical episode length.
+
+Total video: ~1:33-1:34 with the optional story-external Stone Hill micro-opening
+(`shots/shot-00-stone-hill-opening.md`, ~3-4s). The micro-opening is NOT part of the
+90-second story; it is a calm lead-in that hands off into Shot 01. The story stays Shot
+01-06 = 90 seconds regardless of whether the opener is used.
 
 ---
 

@@ -34,8 +34,9 @@ Never sharp rocks, cliffs, quarry or generic rocky field.
 
 ## Start Frame
 
-Use the approved continuity frame exported from Shot 05 as the exact first frame.
-Match the Episode Colour Master.
+Start from the approved continuity frame exported from Shot 05 as closely as possible.
+Preserve the established composition, lighting, background objects and character
+proportions while allowing natural character motion. Match the Episode Colour Master.
 
 Maintain:
 - Character appearance
@@ -72,9 +73,11 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 The Stone Hill background is locked from the first frame; keep all visible rounded stones, pebble path, moss and slope stable throughout the shot.
 ```
 
-Continue directly from the Shot 05 continuity frame. Treat it as the exact starting
-composition. Do not reinterpret it, do not reposition the camera, do not recompose the
-scene. Continue the action naturally into the gentle ending pull-back.
+Start from the Shot 05 exported continuity frame as closely as possible. Preserve the
+established composition, lighting, background objects and character proportions while
+allowing natural character motion. Do not reset or reposition the camera into a new
+composition, redesign the set, change the lighting, or morph the background. Continue the
+action naturally into the gentle ending pull-back.
 
 ---
 
@@ -88,13 +91,18 @@ and should not be hardcoded into this document.
 
 ## Camera Direction
 
-Begin from the Shot 05 continuity frame with no camera reset. Keep the same camera
-position and continue from the exact framing of the previous shot.
+Begin from the Shot 05 continuity frame with no camera reset. Maintain the identical
+camera position from the previous shot; do not recompose into a new setup. Preserve the
+established framing and composition while allowing natural character motion; keep the
+camera in the same setup rather than recomposing into a new shot.
 
 Allow a gentle pull-back to reveal Luca, Kiko, the placed stone and the Stone Hill
-discovery area together. Keep movement slow and cinematic. The final frame should feel
-peaceful and warm. Hold the last frame quietly for about 2 seconds. No text, no extra
-dialogue after the final line.
+discovery area together. Keep movement slow and cinematic. The last 2 seconds (13-15s)
+are clearly silent and peaceful, with no spoken lines. Hold the final frame quietly.
+
+The final frame should be clean, peaceful and YouTube end-screen friendly, with some
+uncluttered background/sky space if naturally available. Do not add any text inside the
+video. No extra dialogue after the final line.
 
 Warm morning daylight throughout.
 
@@ -118,9 +126,11 @@ Luca: Together.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Both step back and look at the placed stone | Medium |
-| 5-10 sn | They smile at each other, then the stone | Gentle pull-back |
-| 10-15 sn | Warm shared hold on Luca, Kiko and Stone Hill | Wide, quiet hold |
+| 0-5 sn | Luca and Kiko step back and look at the placed stone | Medium |
+| 5-9 sn | Luca: "Now everyone can see it." | Gentle pull-back |
+| 9-11 sn | Kiko: "Together." | Gentle pull-back |
+| 11-13 sn | Luca: "Together." | Wide |
+| 13-15 sn | Quiet warm final hold, silent | Wide, quiet hold |
 
 ---
 
@@ -155,7 +165,8 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Lighting consistency verified (warm morning daylight, no golden shift)
 - [ ] Canonical rules followed
 - [ ] Ending shares the discovery instead of only keeping the stone
-- [ ] Final frame feels warm and peaceful with a ~2s quiet hold
+- [ ] Final 2 seconds (13-15s) are clearly silent, warm and peaceful
+- [ ] Final frame is clean and YouTube end-screen friendly (uncluttered background/sky space if natural)
 - [ ] Stone Hill looks specific, not generic
 - [ ] Background stone clusters remain stable
 - [ ] No background object morphing

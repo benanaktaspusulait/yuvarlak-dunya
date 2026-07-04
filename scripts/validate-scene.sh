@@ -229,7 +229,10 @@ else
     echo "11. SHOT COUNT / DURATION"
     if [ -f "$SCENE_DIR/01-overview.md" ]; then
         DECLARED=$(grep -oiE '[0-9]+[[:space:]]*shots?' "$SCENE_DIR/01-overview.md" 2>/dev/null | head -1 | grep -oE '[0-9]+')
-        ACTUAL=$(find "$SCENE_DIR/shots" -name "shot-*.md" 2>/dev/null | wc -l | tr -d ' ')
+        # shot-00* is a story-external micro-opening (§9c/§9d); exclude it from the story shot count.
+        ACTUAL=$(find "$SCENE_DIR/shots" -name "shot-*.md" ! -name "shot-00*" 2>/dev/null | wc -l | tr -d ' ')
+        OPENER=$(find "$SCENE_DIR/shots" -name "shot-00*.md" 2>/dev/null | wc -l | tr -d ' ')
+        [ "$OPENER" -gt 0 ] && echo "  ℹ️  Micro-opening (shot-00) mevcut — hikaye-dışı, sayıma dahil değil"
         if [ -n "$DECLARED" ]; then
             if [ "$DECLARED" -eq "$ACTUAL" ]; then
                 echo "  ✅ Shot sayısı overview ile uyumlu ($ACTUAL shot)"
