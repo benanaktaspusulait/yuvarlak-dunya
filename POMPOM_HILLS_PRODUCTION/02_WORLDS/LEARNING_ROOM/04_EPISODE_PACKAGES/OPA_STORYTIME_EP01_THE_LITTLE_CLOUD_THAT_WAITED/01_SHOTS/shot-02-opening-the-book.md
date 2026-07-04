@@ -1,4 +1,4 @@
-# The Little Cloud That Waited — Shot 02 — The Little Cloud
+# The Little Cloud That Waited — Shot 02 — Opening the Book
 
 ---
 
@@ -7,10 +7,10 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
-| Shot | 02 / 08 |
+| Shot | 02 / 20 |
 | Duration | 15 seconds |
 | Location | Learning Room — Reading Corner (indoor) |
-| Characters | Opa, Luca |
+| Characters | Opa, Luca, Mimi |
 
 ---
 
@@ -31,7 +31,7 @@ Background locked from the first frame. Rug, story chair, bookshelf, lantern, cu
 ## Visual Prompt
 
 ```text
-Use Shot 01 video as Video Reference. Opa opens the picture book, Luca and Mimi lean in, a very soft cloud shape glows gently on the page (no readable text), medium framing, {style} {camera} {lighting}
+Use Shot 01 video as Video Reference. Opa opens the picture book, Luca and Mimi lean in with curiosity, warm Reading Corner light unchanged, medium framing, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
 
@@ -49,9 +49,7 @@ Begin from the identical camera position of the Shot 01 reference. Only after th
 ## Dialogue
 
 ```
-Opa: Once, there was a little cloud.
-Luca: A tiny cloud?
-Opa: Yes. A tiny cloud with a big wish.
+(No dialogue — children lean in as Opa opens the book)
 ```
 
 ---
@@ -60,9 +58,9 @@ Opa: Yes. A tiny cloud with a big wish.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa opens the book; children lean in. | Medium, 35mm, static |
-| 5-10 sn | Soft cloud shape glows on the page; Luca asks "a tiny cloud?" | Medium, 35mm, static |
-| 10-15 sn | Opa answers warmly about the big wish. | Medium, 35mm, static |
+| 0-5 sn | Opa opens the rounded picture book. | Medium, 35mm, static |
+| 5-10 sn | Luca and Mimi lean forward with curiosity. | Medium, 35mm, static |
+| 10-15 sn | Soft glow from the book page; children's eyes widen. | Medium, 35mm, static |
 
 ---
 
@@ -83,7 +81,7 @@ Continue Shot 01 lighting exactly. Warm window light, soft ambient glow. Do not 
 ## Reference Usage
 
 - Continuity Reference: Shot 01 video (or exported final frame)
-- Voice: same approved references for Opa and Luca (see `06-dialogues.md`, Voice Notes in `01-overview.md`)
+- Voice: same approved references for Opa, Luca and Mimi
 
 ## Negative Prompt
 
@@ -94,7 +92,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Luca)
+- [ ] Voice continuity verified (Opa, Luca, Mimi)
 - [ ] Colour / lighting continuity verified
 - [ ] Characters already present (no re-entry)
 - [ ] No readable text on book pages

@@ -1,4 +1,4 @@
-# Opa's Storytime: The Little Cloud That Waited v1.0
+# Opa's Storytime: The Little Cloud That Waited v2.0 (5-Minute Version)
 
 ---
 
@@ -6,7 +6,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 120 saniye (8 sahne × 15 sn) |
+| Süre | 300 saniye (20 sahne × 15 sn) |
 | Hedef yaş | 3-4 |
 | Series | Opa's Storytime |
 | Playlist | Opa's Storytime \| Gentle Preschool Stories |
@@ -52,7 +52,7 @@ Ortak kapanış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODE
 - Duration: 4–5 sn (ortak klip, her bölümde aynı)
 - Visual: Kitap yumuşakça kapanır + end-screen-safe kare
 - Sound: Soft müzik kuyruğu
-- Dialogue: Yok — Opa'nın son repliği Shot 08 warm final hold'da kalır
+- Dialogue: Yok — Opa'nın son repliği Shot 13 warm final hold'da kalır
 - End-screen-safe frame: Sakin, boşluklu, playlist öğesi için yer
 - Purpose: Sıcak kapanış + repeat/playlist viewing
 
@@ -70,13 +70,25 @@ unutulmaz bağlantı.
 | Sıra | Dosya | Süre | Karakter | Amaç |
 | --- | --- | ---: | --- | --- |
 | 01 | `shots/shot-01-story-time-begins.md` | 15 sn | Opa, Luca, Mimi | Cozy story-time açılışı, seri açılış beat'i |
-| 02 | `shots/shot-02-the-little-cloud.md` | 15 sn | Opa, Luca | Masalın başlaması, merak |
-| 03 | `shots/shot-03-the-cloud-wants-to-help.md` | 15 sn | Opa, Mimi | Küçük sorun tanıtılır |
-| 04 | `shots/shot-04-why-wait.md` | 15 sn | Opa, Luca, Mimi | Duygusal soru, etkileşim |
-| 05 | `shots/shot-05-the-flowers-wake-up.md` | 15 sn | Opa, Luca | Ders hikaye üzerinden gösterilir |
-| 06 | `shots/shot-06-one-gentle-drop.md` | 15 sn | Opa, Mimi | Çözüm, sıcak an |
-| 07 | `shots/shot-07-i-can-wait-too.md` | 15 sn | Opa, Luca | Micro-moment, kişisel bağlantı |
-| 08 | `shots/shot-08-quiet-warm-hold.md` | 15 sn | Opa, Luca, Mimi | Sessiz sıcak kapanış |
+| 02 | `shots/shot-02-opening-the-book.md` | 15 sn | Opa, Luca, Mimi | Kitap açılır, merak |
+| 03 | `shots/shot-03-the-little-cloud.md` | 15 sn | Opa, Luca | Masalın başlaması, küçük bulut tanıtılır |
+| 04 | `shots/shot-04-the-clouds-big-wish.md` | 15 sn | Opa, Mimi | Bulutun büyük dileği, çiçekler |
+| 05 | `shots/shot-05-the-cloud-wants-to-help.md` | 15 sn | Opa, Luca | Bulut yardım etmek ister, rüzgar "bekle" der |
+| 06 | `shots/shot-06-was-the-cloud-sad.md` | 15 sn | Opa, Mimi | Bulut üzülür ama izlemeye devam eder |
+| 07 | `shots/shot-07-flowers-waking-up.md` | 15 sn | Opa, Luca | Çiçekler yavaşça uyanır |
+| 08 | `shots/shot-08-what-happens-next.md` | 15 sn | Opa, Mimi | "Sonra ne oldu?" merak anı |
+| 09 | `shots/shot-09-one-gentle-drop.md` | 15 sn | Opa, Luca | Bir damla düşer |
+| 10 | `shots/shot-10-flowers-open-softly.md` | 15 sn | Opa, Mimi | Çiçekler yavaşça açılır |
+| 11 | `shots/shot-11-waiting-helps-us-help-better.md` | 15 sn | Opa, Luca | Ders hikaye üzerinden gösterilir |
+| 12 | `shots/shot-12-i-like-that-story.md` | 15 sn | Opa, Mimi | Mimi'nin sıcak tepkisi |
+| 13 | `shots/shot-13-i-can-wait-too.md` | 15 sn | Opa, Luca | Micro-moment, kişisel bağlantı |
+| 14 | `shots/shot-14-book-closes-gently.md` | 15 sn | Opa, Luca, Mimi | Kitap kapanır, sıcak kapanış başlar |
+| 15 | `shots/shot-15-children-smile.md` | 15 sn | Opa, Luca, Mimi | Çocuklar gülümser |
+| 16 | `shots/shot-16-window-light.md` | 15 sn | Opa, Luca, Mimi | Pencere ışığı, sakinlik |
+| 17 | `shots/shot-17-gentle-pull-back.md` | 15 sn | Opa, Luca, Mimi | Yavaş çekim, ortam genişler |
+| 18 | `shots/shot-18-quiet-warmth.md` | 15 sn | Opa, Luca, Mimi | Sessiz sıcak an |
+| 19 | `shots/shot-19-final-warm-hold.md` | 15 sn | Opa, Luca, Mimi | Final sıcak tutuş |
+| 20 | `shots/shot-20-closing-hold.md` | 15 sn | Opa, Luca, Mimi | Kapanış hold'u, bumper'a geçiş |
 
 ---
 
@@ -145,17 +157,29 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 
 ## QA Status
 
-Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) passed on 4 Temmuz 2026: all 8 shot files contain the required sections — Frame Lock (shots 02–08), Background Object Lock, Visual Prompt, Camera Direction, Dialogue, Shot Breakdown, Sound, Lighting, Reference Usage, Text Safety, Negative Prompt, QA Checklist and Scale. Shot 01 carries the Opening Hook and series opening beat; shot 08 carries the warm-hold + closing-bumper note.
+Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) pending for 20-shot v2.0 structure.
 
 Render QA (`16_VIDEO_QA_SPEC.md`, scored /10) runs after each shot is generated — pending.
 
 | Shot | Scene QA (doc) | Render QA /10 | Ready to Render |
 |------|:--------------:|:-------------:|:---------------:|
-| 01 | ✅ | — | ✅ |
-| 02 | ✅ | — | ✅ |
-| 03 | ✅ | — | ✅ |
-| 04 | ✅ | — | ✅ |
-| 05 | ✅ | — | ✅ |
-| 06 | ✅ | — | ✅ |
-| 07 | ✅ | — | ✅ |
-| 08 | ✅ | — | ✅ |
+| 01 | — | — | ✅ |
+| 02 | — | — | ✅ |
+| 03 | — | — | ✅ |
+| 04 | — | — | ✅ |
+| 05 | — | — | ✅ |
+| 06 | — | — | ✅ |
+| 07 | — | — | ✅ |
+| 08 | — | — | ✅ |
+| 09 | — | — | ✅ |
+| 10 | — | — | ✅ |
+| 11 | — | — | ✅ |
+| 12 | — | — | ✅ |
+| 13 | — | — | ✅ |
+| 14 | — | — | ✅ |
+| 15 | — | — | ✅ |
+| 16 | — | — | ✅ |
+| 17 | — | — | ✅ |
+| 18 | — | — | ✅ |
+| 19 | — | — | ✅ |
+| 20 | — | — | ✅ |

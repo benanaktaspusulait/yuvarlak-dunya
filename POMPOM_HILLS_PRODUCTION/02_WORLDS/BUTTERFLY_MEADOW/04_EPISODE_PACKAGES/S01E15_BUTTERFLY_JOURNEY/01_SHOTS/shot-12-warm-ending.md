@@ -10,7 +10,7 @@
 | Shot | 12 / 12 |
 | Duration | 15 seconds |
 | Location | Butterfly Meadow — hidden garden |
-| Characters | Luca, Kiko |
+| Characters | Luca, Kiko, Opa |
 | Time of Day | Sunny Day |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-A butterfly lands on a flower in the hidden garden. Luca and Kiko watch it with warm smiles. They stand together among the flowers, surrounded by gentle butterflies. Hidden garden — flowers, butterflies, warm sunny light, peaceful moment. Medium to wide, 50mm, very slow pull-back, no other characters, {style} {camera} {lighting}
+A butterfly lands on a flower in the hidden garden. Luca, Kiko and Opa watch it with warm smiles. They stand together among the flowers, surrounded by gentle butterflies. Opa puts his hands on their shoulders. Hidden garden — flowers, butterflies, warm sunny light, peaceful moment. Medium to wide, 50mm, very slow pull-back, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -77,7 +77,7 @@ Luca: Butterflies are amazing.
 |---|---|---|
 | 0-3 sn | First frame matches. Butterfly lands on a flower. | Medium, 50mm, static |
 | 3-7 sn | Luca and Kiko watch it, warm smiles | Medium, 50mm, static |
-| 7-10 sn | They look at each other, happy | Medium, 50mm, pull-back begins |
+| 7-10 sn | Opa puts his hands on their shoulders. They look at each other, happy. | Medium, 50mm, pull-back begins |
 | 10-13 sn | Camera slowly pulls back — garden, flowers, butterflies | Medium to wide, 50mm, pull-back |
 | 13-15 sn | Final warm hold. Garden full of life. | Wide, 50mm, pull-back settles |
 

@@ -10,7 +10,7 @@
 | Shot | 04 / 16 |
 | Duration | 15 seconds |
 | Location | Music Hill |
-| Characters | Noah, Arda |
+| Characters | Noah, Arda, Kiko |
 | Time of Day | Afternoon |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Noah and Arda step among the round soft trees. Each tree seems to hum a different note. They walk between the trees, listening to each one. Music Hill — round trees, warm afternoon light, soft music from everywhere. Wide, 35mm, gentle tracking, {style} {camera} {lighting}
+Noah, Arda and Kiko step among the round soft trees. Each tree seems to hum a different note. They walk between the trees, listening to each one. Kiko joined them at the tree group. Music Hill — round trees, warm afternoon light, soft music from everywhere. Wide, 35mm, gentle tracking, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -65,6 +65,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Noah: Each tree sounds different!
 Arda: This one is low... this one is high!
+Kiko: I want to try!
 ```
 
 ---

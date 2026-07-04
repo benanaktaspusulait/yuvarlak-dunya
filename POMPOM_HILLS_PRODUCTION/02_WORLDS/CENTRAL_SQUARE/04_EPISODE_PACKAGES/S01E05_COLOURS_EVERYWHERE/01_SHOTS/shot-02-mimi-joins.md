@@ -19,8 +19,7 @@
 
 This shot continues directly from Shot 01.
 
-Kiko is already present in Central Square near the red detail. Mimi enters gently from
-the same visible Central Square path during this shot.
+Kiko is already present in Central Square near the red detail (entered from the lower-left path in Shot 01). Mimi enters gently from a different visible Central Square path — preferably from the right side path near the yellow planter and purple bunting area. This avoids crossing Kiko's entrance path and creates a natural convergence toward the center.
 
 Apply all Pompom Hills Visual Continuity Rules.
 
@@ -39,9 +38,34 @@ Never redesign the square or move to a different area.
 
 - Same Big Pompom Tree position from Shot 01.
 - Same rounded path and stepping-stone ring layout.
-- Kiko remains near the same red detail from Shot 01.
-- Mimi enters from the same visible Central Square path.
+- Kiko remains near the same red detail from Shot 01 (lower-left area).
+- Mimi enters from the right side visible path (near yellow planter and purple bunting).
+- Mimi's entrance path must be fully visible from the first moment she appears.
 - No other characters enter or appear.
+
+---
+
+## Mimi Scale / Age Lock
+
+**Mimi must remain small, toddler-like, and preschool-safe.**
+
+Mimi must keep approved Pompom Hills proportions:
+- Small childlike body
+- Rounded soft face
+- Large expressive eyes
+- Short toddler proportions
+- Soft toy-like preschool animation style
+- Small scale within Central Square
+
+Mimi must NOT look like:
+- An older child or school-age child
+- A teenager or adult
+- A realistic human child
+- A tall or oversized character
+
+Mimi should match Kiko's preschool scale and should not appear larger, older, or more realistic than Kiko.
+Mimi must not dominate the frame.
+Mimi should remain small within the Central Square environment during her entrance and greeting.
 
 ---
 
@@ -95,15 +119,12 @@ These locks are global production gates. Do not restate or weaken them locally. 
 
 ## Shot-Specific Continuity Guard
 
-Mimi's entrance is the highest-risk movement in the episode. Mimi must enter from a
-fully visible rounded path only, remain visible during the entire entrance, and use a
-short, simple, straight or gently curved visible path. Mimi must not enter from behind
-bushes, planters, benches, tree trunks, houses, walls or foreground plants. Mimi must
-not disappear during the entrance, reappear from another side, or cross through the red
-planter, bush, flowerbed or bench. Kiko stays visible and does not change side suddenly.
+Mimi's entrance is the highest-risk movement in the episode. **Mimi enters from the right side visible path (near the yellow planter and purple bunting area)**, not from the same lower-left path Kiko used in Shot 01. This avoids crossing Kiko's entrance path and creates a natural convergence.
+
+Mimi must enter from a fully visible rounded path only, remain visible during the entire entrance, and use a short, simple, straight or gently curved visible path. Mimi must not enter from behind bushes, planters, benches, tree trunks, houses, walls or foreground plants. Mimi must not disappear during the entrance, reappear from another side, or cross through the red planter, bush, flowerbed or bench. Kiko stays visible and does not change side suddenly.
 
 Mimi's full entrance path must be visible from the first moment she appears until she
-reaches Kiko. Use a wide enough frame to show the complete entrance path. Mimi must not
+reaches Kiko. **Mimi should not start too far away. She may begin partially visible on the right-side path if needed, so she can reach Kiko naturally within 15 seconds without rushing, teleporting, or crossing behind objects.** Use a wide enough frame to show the complete entrance path. Mimi must not
 enter from behind bushes, benches, planters, tree trunks, houses, walls or foreground
 plants. If a safe visible entrance cannot be maintained, reduce Mimi's movement and
 start her already partially visible on the path instead of hiding her entrance.
@@ -115,13 +136,15 @@ pop-in.
 ## Visual Prompt
 
 ```text
-Kiko standing in Central Square near the red detail (seeded in the Central Square Friends Micro-Opening) she noticed, Mimi entering gently from the same visible rounded path, Big Pompom Tree in background, coloured stepping-stone ring and soft green grass stable, warm morning daylight, no other characters, {style} {camera} {lighting}
+Kiko standing in Central Square near the red detail (seeded in the Central Square Friends Micro-Opening) she noticed, Mimi entering gently from the right side visible path near the yellow planter and purple bunting area, Big Pompom Tree in background, coloured stepping-stone ring and soft green grass stable, warm morning daylight, no other characters, {style} {camera} {lighting}
+
+Mimi must remain small and toddler-like, with approved preschool proportions. Do not make Mimi look older, taller, realistic, school-age, or oversized. Mimi should match Kiko's scale and remain small within Central Square.
 
 Use @image1 as the starting continuity frame from Shot 01.
 
 Preserve Kiko, the same red detail, the Big Pompom Tree, rounded paths, stepping-stone ring, camera position, lighting and Episode Colour Master from @image1.
 
-Mimi's full entrance path must be visible from the first moment she appears until she reaches Kiko. Use a wide enough frame to show the complete entrance path. Mimi must not enter from behind bushes, benches, planters, tree trunks, houses, walls or foreground plants. If a safe visible entrance cannot be maintained, reduce Mimi's movement and start her already partially visible on the path instead of hiding her entrance. Keep Mimi not visible in the first frame if possible, but never allow hidden entrance or pop-in.
+Mimi enters from the right side visible path (near yellow planter and purple bunting), NOT from the lower-left path Kiko used in Shot 01. Mimi's full entrance path must be visible from the first moment she appears until she reaches Kiko. Use a wide enough frame to show the complete entrance path. Mimi must not enter from behind bushes, benches, planters, tree trunks, houses, walls or foreground plants. If a safe visible entrance cannot be maintained, reduce Mimi's movement and start her already partially visible on the path instead of hiding her entrance. Keep Mimi not visible in the first frame if possible, but never allow hidden entrance or pop-in.
 
 Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
 
@@ -150,10 +173,9 @@ Begin from the Shot 01 continuity frame with no camera reset. Maintain the same 
 position and framing before Mimi's entrance becomes noticeable.
 
 The first 1 second should visually hold close to @image1 before new action begins.
-After that, Mimi enters gently from the visible path, and Kiko turns toward her.
+After that, Mimi enters gently from the right side path (near yellow planter and purple bunting), and Kiko turns toward her.
 
-Use a wide enough frame to show Mimi's complete entrance path from the first moment she
-appears until she reaches Kiko. Mimi must not enter from behind bushes, benches,
+Use a wide enough frame to show Mimi's complete entrance path from the right side from the first moment she appears until she reaches Kiko. Mimi must not enter from behind bushes, benches,
 planters, tree trunks, houses, walls or foreground plants. If a safe visible entrance
 cannot be maintained, reduce Mimi's movement and start her already partially visible on
 the path instead of hiding her entrance. Keep Mimi not visible in the first frame if
@@ -162,6 +184,8 @@ possible, but never allow hidden entrance or pop-in.
 Keep movement slow, stable and preschool-friendly. Do not introduce new characters,
 new landmarks, new paths, roads, shops, fountains, water features or a different Central
 Square area.
+
+**Do not push in so far that Mimi becomes oversized or appears older. Keep the shot medium-wide enough to preserve both characters' small childlike scale and the Central Square environment.**
 
 ---
 
@@ -233,6 +257,8 @@ teleporting character, disappearing character, character hidden behind bush, cha
 
 intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
 
+older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, close-up character, aged-up Mimi, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame, Mimi too large, Mimi older than Kiko
+
 ## QA Checklist
 
 Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
@@ -241,7 +267,8 @@ Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 - [ ] `@image1` continuity preserved from Shot 01 final frame.
 - [ ] The first 1 second visually holds close to `@image1` before Mimi enters.
 - [ ] Kiko remains visible and consistent.
-- [ ] Mimi enters naturally through visible motion from the Central Square path.
+- [ ] Mimi enters naturally through visible motion from the right side path (near yellow planter).
+- [ ] Mimi does not enter from the same lower-left path Kiko used in Shot 01.
 - [ ] Mimi does not pop in or appear suddenly.
 - [ ] Mimi's full entrance path is visible from the first moment she appears until she reaches Kiko.
 - [ ] Central Square layout preserved.
@@ -259,6 +286,9 @@ Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 - [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
 - [ ] No object changes identity, duplicates, disappears or shifts side.
 - [ ] Camera movement does not hide a character or regenerate the environment.
+- [ ] Mimi does not rush, teleport, or cross behind objects to reach Kiko.
+- [ ] Mimi does not start too far away to reach Kiko naturally within 15 seconds.
+- [ ] Mimi may be partially visible on the right-side path if needed to keep the entrance readable and safe.
 - [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
 
 ## Micro Actions

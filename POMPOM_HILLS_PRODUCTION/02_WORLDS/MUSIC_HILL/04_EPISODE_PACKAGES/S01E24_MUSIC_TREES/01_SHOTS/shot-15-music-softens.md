@@ -10,7 +10,7 @@
 | Shot | 15 / 16 |
 | Duration | 15 seconds |
 | Location | Music Hill |
-| Characters | Noah, Arda |
+| Characters | Noah, Arda, Kiko, Opa |
 | Time of Day | Afternoon — golden hour |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-The wind softens. The trees hum gently. Noah and Arda sit down on the grass, catching their breath. The music becomes a soft lullaby. Music Hill — trees, grass, golden afternoon light, peaceful. Medium, 50mm, static, {style} {camera} {lighting}
+The wind softens. The trees hum gently. Noah, Arda and Kiko sit down on the grass, catching their breath. Opa stands nearby, watching them with pride. The music becomes a soft lullaby. Music Hill — trees, grass, golden afternoon light, peaceful. Medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 

@@ -10,7 +10,7 @@
 | Shot | 10 / 12 |
 | Duration | 15 seconds |
 | Location | Butterfly Meadow — hidden garden |
-| Characters | Luca, Kiko |
+| Characters | Luca, Kiko, Opa |
 | Time of Day | Sunny Day |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-A butterfly lands gently on Kiko's nose. She freezes, cross-eyed, then giggles softly. Luca watches and laughs. Hidden garden — flowers, butterflies, warm sunny light. Close-up to medium, 50mm, static, no other characters, {style} {camera} {lighting}
+A butterfly lands gently on Kiko's nose. She freezes, cross-eyed, then giggles softly. Luca watches and laughs. Opa sits on a garden bench nearby, watching with a warm smile. Hidden garden — flowers, butterflies, garden bench, warm sunny light. Close-up to medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -67,6 +67,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Kiko: Oh! It's on my nose!
 Luca: Ha ha! Don't move!
+Opa: Well done, Kiko!
 ```
 
 ---
@@ -78,7 +79,7 @@ Luca: Ha ha! Don't move!
 | 0-3 sn | First frame matches. Butterfly flutters toward Kiko. | Close-up, 50mm, static |
 | 3-7 sn | Butterfly lands on Kiko's nose. She freezes. Cross-eyed. | Close-up, 50mm, static |
 | 7-10 sn | Kiko giggles softly. Butterfly's wings open/close. | Close-up, 50mm, static |
-| 10-13 sn | Luca watches and laughs gently | Medium, 50mm, static |
+| 10-13 sn | Luca watches and laughs. Opa smiles from the bench. | Medium, 50mm, static |
 | 13-15 sn | Butterfly lifts off. Kiko touches her nose, smiling. | Medium, 50mm, static |
 
 ---

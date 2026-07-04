@@ -10,7 +10,7 @@
 | Shot | 06 / 12 |
 | Duration | 15 seconds |
 | Location | Art Corner |
-| Characters | Sofia, Kiko |
+| Characters | Sofia, Kiko, Mimi |
 | Time of Day | Morning |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Sofia dips her brush in red paint, then in blue paint. She mixes them on the palette. Purple appears! Kiko watches with wide eyes. Art Corner — wooden table, palette, paint pots, warm morning light. Close-up to medium, 50mm, static, {style} {camera} {lighting}
+Sofia dips her brush in red paint, then in blue paint. She mixes them on the palette. Purple appears! Kiko and Mimi watch with wide eyes. Art Corner — wooden table, palette, paint pots, warm morning light. Close-up to medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -65,6 +65,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Sofia: Watch this!
 Kiko: Red and blue... purple!
+Mimi: Wow!
 ```
 
 ---

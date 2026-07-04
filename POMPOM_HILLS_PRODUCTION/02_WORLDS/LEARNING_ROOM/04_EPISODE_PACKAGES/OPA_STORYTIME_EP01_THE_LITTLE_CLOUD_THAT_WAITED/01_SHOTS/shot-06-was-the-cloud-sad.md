@@ -1,4 +1,4 @@
-# The Little Cloud That Waited — Shot 04 — Why Wait?
+# The Little Cloud That Waited — Shot 06 — Was the Cloud Sad?
 
 ---
 
@@ -7,17 +7,17 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
-| Shot | 04 / 08 |
+| Shot | 06 / 20 |
 | Duration | 15 seconds |
 | Location | Learning Room — Reading Corner (indoor) |
-| Characters | Opa, Luca, Mimi |
+| Characters | Opa, Mimi |
 
 ---
 
 ## Frame Lock
 
 ```text
-Treat @image1 (Shot 03 final frame) as the complete visual master reference.
+Treat @image1 (Shot 05 final frame) as the complete visual master reference.
 Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
 The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
 The animation begins only after the first frame has matched @image1 perfectly.
@@ -31,7 +31,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 03 video as Video Reference. Medium two-shot of Luca tilting his head asking a question, Opa pausing kindly, Mimi listening, warm Reading Corner light unchanged, {style} {camera} {lighting}
+Use Shot 05 video as Video Reference. Medium shot, Opa continues the story gently, Mimi asks her question with a small smile, warm Reading Corner light unchanged, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,15 +42,13 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 03 reference. Static medium two-shot. Lens 35mm, height 0.75m, static.
+Begin from the identical camera position of the Shot 05 reference. Static medium. Lens 35mm, height 0.75m, static.
 
 ---
 
 ## Dialogue
 
 ```
-Luca: Why didn't it rain?
-Opa: The wind whispered, "Wait."
 Mimi: Was the cloud sad?
 Opa: A little. But it kept watching.
 ```
@@ -61,9 +59,9 @@ Opa: A little. But it kept watching.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca tilts his head, asks "why didn't it rain?" | Medium, 35mm, static |
-| 5-10 sn | Opa pauses kindly: "The wind whispered, wait." | Medium, 35mm, static |
-| 10-15 sn | Mimi asks if the cloud was sad; Opa reassures gently. | Medium, 35mm, static |
+| 0-5 sn | Mimi asks with a small smile "was the cloud sad?" | Medium, 35mm, static |
+| 5-10 sn | Opa: "A little. But it kept watching." | Medium, 35mm, static |
+| 10-15 sn | Mimi nods gently, understanding. | Medium, 35mm, static |
 
 ---
 
@@ -76,14 +74,14 @@ Opa: A little. But it kept watching.
 
 ## Lighting
 
-Continue Shot 03 lighting exactly. Warm window light, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 05 lighting exactly. Warm window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 03 video (or exported final frame)
-- Voice: same approved references for Opa, Luca and Mimi
+- Continuity Reference: Shot 05 video (or exported final frame)
+- Voice: same approved references for Opa and Mimi
 
 ## Negative Prompt
 
@@ -94,9 +92,8 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Luca, Mimi)
+- [ ] Voice continuity verified (Opa, Mimi)
 - [ ] Colour / lighting continuity verified
-- [ ] Max 3 characters in frame
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
@@ -104,4 +101,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Children readable for expression.
+Opa=120, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Expression readable.

@@ -10,7 +10,7 @@
 | Shot | 11 / 12 |
 | Duration | 15 seconds |
 | Location | Butterfly Meadow — hidden garden |
-| Characters | Luca, Kiko |
+| Characters | Luca, Kiko, Opa |
 | Time of Day | Sunny Day |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Luca and Kiko look up. Many butterflies fly above them in a swirl of colour. They spin slowly, watching the butterflies. Hidden garden — flowers below, butterflies above, warm sunny light. Wide, 35mm, gentle tilt-up, no other characters, {style} {camera} {lighting}
+Luca, Kiko and Opa look up. Many butterflies fly above them in a swirl of colour. They spin slowly, watching the butterflies. Opa watches from nearby with quiet wonder. Hidden garden — flowers below, butterflies above, warm sunny light. Wide, 35mm, gentle tilt-up, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -67,6 +67,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Luca: So many butterflies!
 Kiko: They're all dancing!
+Opa: Nature is wonderful.
 ```
 
 ---

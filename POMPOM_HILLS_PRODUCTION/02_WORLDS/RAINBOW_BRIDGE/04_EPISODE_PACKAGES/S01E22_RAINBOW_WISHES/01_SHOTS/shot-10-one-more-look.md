@@ -10,7 +10,7 @@
 | Shot | 10 / 12 |
 | Duration | 15 seconds |
 | Location | Rainbow Bridge |
-| Characters | Kiko, Mimi |
+| Characters | Kiko, Mimi, Opa |
 | Time of Day | Afternoon — golden hour |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Kiko and Mimi stand side by side, looking at the rainbow one last time. Mimi leans against Kiko. The rainbow fades gently as the afternoon deepens. Rainbow Bridge — bridge in background, rainbow fading, golden light. Medium, 50mm, static, no other characters, {style} {camera} {lighting}
+Kiko and Mimi stand side by side, looking at the rainbow one last time. Mimi leans against Kiko. Opa stands behind them, watching with a warm smile. The rainbow fades gently as the afternoon deepens. Rainbow Bridge — bridge in background, rainbow fading, golden light. Medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -65,6 +65,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Mimi: Will the rainbow come back?
 Kiko: Always. When we wish.
+Opa: That is a beautiful wish.
 ```
 
 ---

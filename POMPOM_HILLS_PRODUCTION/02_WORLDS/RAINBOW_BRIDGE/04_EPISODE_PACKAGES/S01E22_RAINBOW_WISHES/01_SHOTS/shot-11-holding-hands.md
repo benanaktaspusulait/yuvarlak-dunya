@@ -10,7 +10,7 @@
 | Shot | 11 / 12 |
 | Duration | 15 seconds |
 | Location | Rainbow Bridge |
-| Characters | Kiko, Mimi |
+| Characters | Kiko, Mimi, Opa |
 | Time of Day | Afternoon — golden hour |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Kiko and Mimi walk home through the meadow, holding hands. The last trace of the rainbow fades behind them. Golden light wraps around them. Rainbow Bridge — meadow path, golden hour, warm gentle light. Wide, 35mm, gentle tracking, no other characters, {style} {camera} {lighting}
+Kiko and Mimi walk home through the meadow, holding hands. Opa walks behind them, quietly. The last trace of the rainbow fades behind them. Golden light wraps around them. Rainbow Bridge — meadow path, golden hour, warm gentle light. Wide, 35mm, gentle tracking, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 

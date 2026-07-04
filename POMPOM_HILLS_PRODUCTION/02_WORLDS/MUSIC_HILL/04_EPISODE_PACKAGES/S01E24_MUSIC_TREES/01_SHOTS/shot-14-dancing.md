@@ -10,7 +10,7 @@
 | Shot | 14 / 16 |
 | Duration | 15 seconds |
 | Location | Music Hill |
-| Characters | Noah, Arda |
+| Characters | Noah, Arda, Kiko, Opa |
 | Time of Day | Afternoon |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Noah and Arda dance together among the music trees. They spin, hop, and sway to the rhythm. The trees seem to sway with them. Music Hill — trees, warm afternoon light, joyful movement. Wide, 35mm, static, {style} {camera} {lighting}
+Noah, Arda and Kiko dance together among the music trees. They spin, hop, and sway to the rhythm. The trees seem to sway with them. Opa watches from a distance, smiling quietly. Music Hill — trees, warm afternoon light, joyful movement. Wide, 35mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -65,7 +65,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Noah: We made music!
 Arda: From trees!
-Both: Yay!
+Kiko: Together!
 ```
 
 ---

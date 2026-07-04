@@ -10,7 +10,7 @@
 | Shot | 05 / 12 |
 | Duration | 15 seconds |
 | Location | Art Corner |
-| Characters | Sofia, Kiko |
+| Characters | Sofia, Kiko, Mimi |
 | Time of Day | Morning |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Close-up of Sofia's canvas — a bright yellow sun with rays. Then close-up of Kiko's canvas — a fluffy white cloud with a blue sky. They add details with small brush strokes. Art Corner — canvases, paint pots, warm morning light. Close-up alternating, 50mm, gentle pan, {style} {camera} {lighting}
+Close-up of Sofia's canvas — a bright yellow sun with rays. Then close-up of Kiko's canvas — a fluffy white cloud with a blue sky. Then Mimi's canvas — colourful dots and swirls. They add details with small brush strokes. Art Corner — canvases, paint pots, warm morning light. Close-up alternating, 50mm, gentle pan, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -65,6 +65,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Sofia: My sun is happy!
 Kiko: My cloud is floating!
+Mimi: My painting is colourful!
 ```
 
 ---

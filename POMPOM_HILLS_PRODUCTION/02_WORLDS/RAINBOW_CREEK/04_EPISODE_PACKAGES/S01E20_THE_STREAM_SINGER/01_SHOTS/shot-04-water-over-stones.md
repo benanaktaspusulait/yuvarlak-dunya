@@ -10,7 +10,7 @@
 | Shot | 04 / 16 |
 | Duration | 15 seconds |
 | Location | Rainbow Creek |
-| Characters | Mimo, Kiko |
+| Characters | Mimo, Kiko, Luca |
 | Time of Day | Morning |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Close-up of water flowing over smooth round stones. The water makes a soft bubbling melody. Mimo and Kiko lean in, watching the water dance over the stones. Rainbow Creek — close-up of stream, smooth stones, water flowing, warm morning light. Close-up, 50mm, static, {style} {camera} {lighting}
+Close-up of water flowing over smooth round stones. The water makes a soft bubbling melody. Mimo, Kiko and Luca lean in, watching the water dance over the stones. Rainbow Creek — close-up of stream, smooth stones, water flowing, warm morning light. Close-up, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -65,6 +65,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Kiko: The water is singing!
 Mimo: Over the stones!
+Luca: So many sounds!
 ```
 
 ---

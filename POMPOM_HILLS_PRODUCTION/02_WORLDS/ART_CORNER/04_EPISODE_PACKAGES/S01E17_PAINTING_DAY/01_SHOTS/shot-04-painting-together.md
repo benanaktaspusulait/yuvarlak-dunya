@@ -10,7 +10,7 @@
 | Shot | 04 / 12 |
 | Duration | 15 seconds |
 | Location | Art Corner |
-| Characters | Sofia, Kiko |
+| Characters | Sofia, Kiko, Mimi |
 | Time of Day | Morning |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Sofia and Kiko paint side by side on separate canvases. Sofia paints a sun, Kiko paints a cloud. They dip brushes and paint with focused concentration. Art Corner — wooden table, two canvases, paint pots, warm morning light. Medium, 50mm, static, {style} {camera} {lighting}
+Sofia, Kiko and Mimi paint side by side on separate canvases. Sofia paints a sun, Kiko paints a cloud, Mimi dips her ears in paint by accident and giggles. Art Corner — wooden table, three canvases, paint pots, warm morning light. Medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -65,6 +65,7 @@ Camera movement must remain slow, stable and natural.
 ```
 Kiko: I'm painting a cloud!
 Sofia: I'm painting a sun!
+Mimi: Oops! Paint on my ears!
 ```
 
 ---

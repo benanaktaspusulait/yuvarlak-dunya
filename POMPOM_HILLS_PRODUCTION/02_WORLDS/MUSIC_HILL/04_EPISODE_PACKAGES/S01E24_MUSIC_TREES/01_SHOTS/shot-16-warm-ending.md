@@ -10,7 +10,7 @@
 | Shot | 16 / 16 |
 | Duration | 15 seconds |
 | Location | Music Hill |
-| Characters | Noah, Arda |
+| Characters | Noah, Arda, Kiko, Opa |
 | Time of Day | Afternoon — golden hour |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Noah and Arda sit on the grass, leaning against a tree. The last soft music drifts through the air. They look at the trees, then at each other, smiling. Golden afternoon light. Music Hill — trees, grass, golden hour, peaceful ending. Medium to wide, 50mm, very slow pull-back, {style} {camera} {lighting}
+Noah, Arda and Kiko sit on the grass, leaning against a tree. Opa stands a few steps behind, watching them with a gentle smile. The last soft music drifts through the air. They look at the trees, then at each other, smiling. Golden afternoon light. Music Hill — trees, grass, golden hour, peaceful ending. Medium to wide, 50mm, very slow pull-back, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -74,7 +74,7 @@ Arda: In the trees, in the wind, in us.
 | Time | Action | Camera |
 |---|---|---|
 | 0-3 sn | First frame matches. They sit against the tree. | Medium, 50mm, static |
-| 3-7 sn | Last soft music drifts through the air | Medium, 50mm, static |
+| 3-7 sn | Opa watches from behind, smiling. Last soft music drifts. | Medium, 50mm, static |
 | 7-10 sn | They look at the trees, smiling | Medium, 50mm, pull-back begins |
 | 10-13 sn | They look at each other, happy | Medium to wide, 50mm, pull-back |
 | 13-15 sn | Final warm hold. Golden light, soft music fading. | Wide, 50mm, pull-back settles |

@@ -10,7 +10,7 @@
 | Shot | 09 / 12 |
 | Duration | 15 seconds |
 | Location | Art Corner |
-| Characters | Sofia, Kiko |
+| Characters | Sofia, Kiko, Mimi |
 | Time of Day | Morning |
 
 ---

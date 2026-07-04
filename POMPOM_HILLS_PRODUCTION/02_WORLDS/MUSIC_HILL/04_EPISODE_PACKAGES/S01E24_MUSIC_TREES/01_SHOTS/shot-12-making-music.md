@@ -10,7 +10,7 @@
 | Shot | 12 / 16 |
 | Duration | 15 seconds |
 | Location | Music Hill |
-| Characters | Noah, Arda |
+| Characters | Noah, Arda, Kiko |
 | Time of Day | Afternoon |
 
 ---

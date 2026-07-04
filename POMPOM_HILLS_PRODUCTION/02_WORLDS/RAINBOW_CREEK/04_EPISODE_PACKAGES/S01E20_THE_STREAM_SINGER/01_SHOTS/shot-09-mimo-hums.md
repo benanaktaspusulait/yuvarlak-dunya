@@ -10,7 +10,7 @@
 | Shot | 09 / 16 |
 | Duration | 15 seconds |
 | Location | Rainbow Creek |
-| Characters | Mimo, Kiko |
+| Characters | Mimo, Kiko, Luca |
 | Time of Day | Morning |
 
 ---

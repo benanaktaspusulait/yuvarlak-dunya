@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
-| Shot | 01 / 08 |
+| Shot | 01 / 20 |
 | Duration | 15 seconds |
 | Location | Learning Room — Reading Corner (indoor) |
 | Characters | Opa, Luca, Mimi |

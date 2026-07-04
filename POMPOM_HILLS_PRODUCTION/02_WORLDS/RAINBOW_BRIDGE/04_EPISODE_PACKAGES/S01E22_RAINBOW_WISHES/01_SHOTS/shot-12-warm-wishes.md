@@ -10,7 +10,7 @@
 | Shot | 12 / 12 |
 | Duration | 15 seconds |
 | Location | Rainbow Bridge |
-| Characters | Kiko, Mimi |
+| Characters | Kiko, Mimi, Opa |
 | Time of Day | Afternoon — golden hour |
 
 ---
@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Kiko and Mimi stop and look back at the sky. A tiny last sparkle twinkles where the rainbow was. They smile, hold hands, and walk home together. Golden light, warm ending. Rainbow Bridge — meadow, last sparkle, golden hour. Medium to wide, 50mm, very slow pull-back, no other characters, {style} {camera} {lighting}
+Kiko, Mimi and Opa stop and look back at the sky. A tiny last sparkle twinkles where the rainbow was. They smile, hold hands, and walk home together. Opa walks quietly behind them. Golden light, warm ending. Rainbow Bridge — meadow, last sparkle, golden hour. Medium to wide, 50mm, very slow pull-back, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
