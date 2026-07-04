@@ -55,16 +55,46 @@ Noah: All of it?
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa: "It wanted to be. So it kept all its light for itself." | Medium, 35mm, static |
-| 5-10 sn | Noah: "All of it?" | Medium, 35mm, static |
-| 10-15 sn | Opa nods gently. | Medium, 35mm, static |
+| 0-1 sn | Continuity hold / opening beat. | Medium, 35mm, static |
+| 1-3 sn | Opa: "It wanted to be." — small hand gesture on the book. | Medium, 35mm, static |
+| 3-5 sn | Opa: "So it kept all its light for itself." — page shows star wrapping light. | Medium, 35mm, static |
+| 5-7 sn | Noah: "All of it?" — eyebrows lift with surprise. | Medium, 35mm, static |
+| 7-10 sn | Opa looks at Noah; gentle nod. | Medium, 35mm, static |
+| 10-13 sn | Opa nods gently; blinks softly. | Medium, 35mm, static |
+| 13-15 sn | Noah settles; small blink. Continuity hold. | Medium, 35mm, static |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+- leaning slightly
+- whispered reaction
+- shared glance
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
 ## Sound
 
 - Soft night ambience
-- Gentle warm ambience
+- Natural ambience only. No music. No background music.
 
 ---
 
@@ -85,7 +115,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, black night values, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, adult lecture feeling
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, black night values, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, adult lecture feeling, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -96,6 +126,16 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
 - [ ] No perceivable shot boundary
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 

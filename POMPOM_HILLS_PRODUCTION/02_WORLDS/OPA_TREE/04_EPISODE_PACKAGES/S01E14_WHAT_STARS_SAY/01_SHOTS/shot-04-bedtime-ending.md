@@ -185,9 +185,36 @@ Opa: Goodnight, little one.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca's eyes closing | Gentle focus shift |
-| 5-10 sn | Leans against Opa, peaceful | Gentle pull-back (within scene) |
-| 10-15 sn | Both beneath the stars, intimate | Same visual space, held slightly wider |
+| 0-1 sn | Continuity hold — Luca and Opa under the stars | Gentle focus shift |
+| 1-3 sn | Luca's eyes slowly close | Gentle focus shift |
+| 3-5 sn | Luca leans against Opa, settling in | Gentle pull-back begins |
+| 5-7 sn | Opa looks at Luca with a warm smile | Gentle pull-back (within scene) |
+| 7-10 sn | Opa says his line softly | Same visual space, held slightly wider |
+| 10-13 sn | Both sit quietly beneath the stars | Same visual space, held slightly wider |
+| 13-15 sn | Final warm hold — garden full of life | Wide, pull-back settles |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -220,7 +247,7 @@ Reject if characters too large, environment changes.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement
 
 
 ---
@@ -243,4 +270,14 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 

@@ -735,3 +735,41 @@ music, background music, melody, song, soundtrack, musical bed
 ```
 text, captions, subtitles, speech bubbles, logo, watermark
 ```
+
+---
+
+## 16. Video Production Preflight System
+
+Her OpenArt video üretiminden ÖNCE preflight check yapılmalıdır.
+
+Detaylar için: `00-CORE/19_VIDEO_PRODUCTION_PREFLIGHT_SYSTEM.md`
+
+Ana kural:
+Bir shot prompt'u sadece `@image1` görsel olarak destekliyorsa geçerlidir.
+OpenArt'tan onaylı frame'in desteklemediği hiçbir şeyi keşfetmesini isteme.
+
+Her shot için Shot Contract yazılmalı ve Preflight Checklist'ten geçirilmelidir.
+
+Preflight Checklist'in 20 maddesi:
+1. `@image1` seçilmiş ve onaylanmış mı?
+2. `@image1` görsel olarak bu shot'ı destekliyor mu?
+3. Gerekli tüm karakterler `@image1`'de görünür mü?
+4. Discovery objesi `@image1`'de görünür mü veya daha önce tohumlanmış mı?
+5. Discovery objesi net şekilde lokalize edilmiş mi?
+6. Shot'ın bir şeyi bulmak için kamera hareketine ihtiyacı var mı?
+7. Evetse, shot kamera hareketini önleyecek şekilde yeniden yazılabilir mi?
+8. İkincil reference image'lara ihtiyaç var mı?
+9. Her image'ın net bir rolü var mı?
+10. `@image1` diğer tüm image'lara öncelikli mi?
+11. İlk 1 saniye continuity hold tanımlı mı?
+12. Her 2-3 saniyede net bir action/reaction/dialogue beat var mı?
+13. Sound doğal ambience only mi?
+14. Music, melody, soundtrack ve chime kasıtlı olmadıkça yasak mı?
+15. Ghosting ve duplicate characters yasak mı?
+16. Final frame bir sonraki `@image1` olarak güvenli mi?
+17. Sadece dialogue ihtiyaç duyduğunda görünen bir nesne var mı?
+18. Kamera reset, widen, pan, zoom, search veya reframe'e neden olabilecek prompt wording var mı?
+19. Orange/golden lighting drift'e neden olabilecek "warm morning" wording var mı?
+20. Shot safe / risky / not ready mu?
+
+Herhangi bir cevap güvensizse, henüz shot'ı üretme.

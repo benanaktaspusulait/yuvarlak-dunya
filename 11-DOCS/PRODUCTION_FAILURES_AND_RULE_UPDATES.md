@@ -74,6 +74,13 @@
 **Çözüm:** Multi-Image Reference Planning Rule — her image'ın rolü açıkça tanımlanmalı, @image1 her zaman öncelikli olmalı.
 **Global kural:** Multi-Image Reference Planning / Each Image Must Have a Role.
 
+### Failure: No preflight validation system
+**Tarih:** 2026-07-04
+**Gözlem:** Üretime geçmeden önce sorunlar yakalanamadı. Çoğu hata üretim sırasında keşfedildi.
+**Sebep:** Pre-production validation sistemi yoktu. Prompt ve frame birlikte kontrol edilmiyordu.
+**Çözüm:** Video Production Preflight System — her shot için Shot Contract ve Preflight Checklist.
+**Global kural:** Video Production Preflight System.
+
 ---
 
 ## Global Kural Güncellemeleri
@@ -93,6 +100,7 @@
 | 2026-07-04 | No Late Object Spawning / Object Must Exist Before Discovery Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | Early Object Seeding / No Surprise Discovery Objects Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | Multi-Image Reference Planning / Each Image Must Have a Role eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
+| 2026-07-04 | Video Production Preflight System eklendi | 19_VIDEO_PRODUCTION_PREFLIGHT_SYSTEM.md |
 | 2026-07-04 | Final Frame Continuity Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | Prompt Length Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | Global QA Checklist eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
