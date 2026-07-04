@@ -4,6 +4,28 @@
 
 SCENE_DIR="${1:-.}"
 
+# Layout resolution — supports both the classic 04-SCENES layout and the
+# world-based POMPOM_HILLS_PRODUCTION episode-package layout.
+#   classic  : <dir>/shots/            + <dir>/01-overview.md + <dir>/09-render-prompts.md
+#   package  : <dir>/01_SHOTS/         + <dir>/00_EPISODE_OVERVIEW/{01-overview,09-render-prompts}.md
+if [ -d "$SCENE_DIR/01_SHOTS" ]; then
+    SHOTS_DIR="$SCENE_DIR/01_SHOTS"
+else
+    SHOTS_DIR="$SCENE_DIR/shots"
+fi
+
+if [ -f "$SCENE_DIR/01-overview.md" ]; then
+    OVERVIEW_FILE="$SCENE_DIR/01-overview.md"
+else
+    OVERVIEW_FILE="$SCENE_DIR/00_EPISODE_OVERVIEW/01-overview.md"
+fi
+
+if [ -f "$SCENE_DIR/09-render-prompts.md" ]; then
+    RENDER_FILE="$SCENE_DIR/09-render-prompts.md"
+else
+    RENDER_FILE="$SCENE_DIR/00_EPISODE_OVERVIEW/09-render-prompts.md"
+fi
+
 echo "============================================"
 echo "  SAHNE QA KONTROLÜ v3"
 echo "  Dizin: $SCENE_DIR"
@@ -65,16 +87,16 @@ if [ "$SINGLE_FILE" -eq 1 ]; then
 else
     # 1. Dosya Yapısı
     echo "1. DOSYA YAPISI"
-    [ -d "$SCENE_DIR/shots" ] && echo "  ✅ shots/ klasörü var" || { echo "  ❌ shots/ klasörü YOK"; ERRORS=$((ERRORS+1)); }
-    SHOT_COUNT=$(find "$SCENE_DIR/shots" -name "*.md" 2>/dev/null | wc -l)
+    [ -d "$SHOTS_DIR" ] && echo "  ✅ shot klasörü var ($(basename "$SHOTS_DIR")/)" || { echo "  ❌ shot klasörü YOK"; ERRORS=$((ERRORS+1)); }
+    SHOT_COUNT=$(find "$SHOTS_DIR" -name "*.md" 2>/dev/null | wc -l)
     [ "$SHOT_COUNT" -ge 1 ] && echo "  ✅ $SHOT_COUNT shot dosyası" || { echo "  ❌ $SHOT_COUNT shot (minimum 1 gerekli)"; ERRORS=$((ERRORS+1)); }
-    [ -f "$SCENE_DIR/09-render-prompts.md" ] && echo "  ✅ render-prompts.md var" || { echo "  ❌ render-prompts.md YOK"; ERRORS=$((ERRORS+1)); }
-    [ -f "$SCENE_DIR/01-overview.md" ] && echo "  ✅ overview.md var" || echo "  ⚠️  overview.md yok"
+    [ -f "$RENDER_FILE" ] && echo "  ✅ render-prompts.md var" || { echo "  ❌ render-prompts.md YOK"; ERRORS=$((ERRORS+1)); }
+    [ -f "$OVERVIEW_FILE" ] && echo "  ✅ overview.md var" || echo "  ⚠️  overview.md yok"
     echo
 
     # 2. Shot-01 Kontrolü
     echo "2. SHOT-01 KONTROLÜ"
-    SHOT01=$(find "$SCENE_DIR/shots" -name "shot-01*.md" 2>/dev/null | head -1)
+    SHOT01=$(find "$SHOTS_DIR" -name "shot-01*.md" 2>/dev/null | head -1)
     if [ -f "$SHOT01" ]; then
         grep -qi "Opening Hook\|## Hook\|ilk saniye\|first 3.*second\|first 3-5" "$SHOT01" && echo "  ✅ Opening Hook" || echo "  ⚠️  Opening Hook eksik"
         grep -qi "Scale\|SMALL preschool\|characters.*small\|childlike.*frame" "$SHOT01" && echo "  ✅ Scale talimatı" || echo "  ⚠️  Scale eksik"
@@ -97,7 +119,7 @@ else
     DIALOG_CONFLICT=0
     OVERLOADED=0
 
-    for f in $(find "$SCENE_DIR/shots" -name "shot-0[2-9]*.md" -o -name "shot-1*.md" 2>/dev/null); do
+    for f in $(find "$SHOTS_DIR" -name "shot-0[2-9]*.md" -o -name "shot-1*.md" 2>/dev/null); do
         # Frame Lock
         grep -qi "frame zero\|@image1\|continuity frame\|previous shot\|Video Reference\|Use.*Shot.*as\|Use the previous shot" "$f" && FRAME_LOCK=$((FRAME_LOCK+1))
         
@@ -127,7 +149,7 @@ else
         fi
     done
 
-    TOTAL_SHOTS=$(find "$SCENE_DIR/shots" -name "shot-0[2-9]*.md" -o -name "shot-1*.md" 2>/dev/null | wc -l)
+    TOTAL_SHOTS=$(find "$SHOTS_DIR" -name "shot-0[2-9]*.md" -o -name "shot-1*.md" 2>/dev/null | wc -l)
 
     if [ "$TOTAL_SHOTS" -gt 0 ]; then
         echo "  Frame Lock: $FRAME_LOCK/$TOTAL_SHOTS"
@@ -146,7 +168,7 @@ else
 
     # 4. Close-up Kontrolü
     echo "4. CLOSE-UP KONTROLÜ"
-    CLOSEUPS=$(grep -rli "Close-up\|close-up" "$SCENE_DIR/shots/" 2>/dev/null | wc -l)
+    CLOSEUPS=$(grep -rli "Close-up\|close-up" "$SHOTS_DIR/" 2>/dev/null | wc -l)
     [ "$CLOSEUPS" -eq 0 ] && echo "  ✅ Close-up yok" || { echo "  ❌ $CLOSEUPS dosyada close-up var"; ERRORS=$((ERRORS+1)); }
     echo
 
@@ -162,17 +184,17 @@ else
 
     # 7. Render Prompts Kontrolü
     echo "7. RENDER PROMPTS KONTROLÜ"
-    if [ -f "$SCENE_DIR/09-render-prompts.md" ]; then
-        RP_SIZE=$(wc -c < "$SCENE_DIR/09-render-prompts.md")
+    if [ -f "$RENDER_FILE" ]; then
+        RP_SIZE=$(wc -c < "$RENDER_FILE")
         [ "$RP_SIZE" -gt 200 ] && echo "  ✅ Render prompts yeterli ($RP_SIZE byte)" || echo "  ⚠️  Render prompts çok kısa ($RP_SIZE byte)"
-        grep -qi "@image1\|@image2\|@image\|Video Reference\|Use.*Shot.*as\|Use the previous shot\|first-frame still" "$SCENE_DIR/09-render-prompts.md" && echo "  ✅ Image reference kullanılıyor" || echo "  ⚠️  Image reference eksik"
-        grep -qi "No subtitles\|No text\|No speech bubbles\|No captions" "$SCENE_DIR/09-render-prompts.md" && echo "  ✅ Text Safety" || echo "  ⚠️  Text Safety eksik"
+        grep -qi "@image1\|@image2\|@image\|Video Reference\|Use.*Shot.*as\|Use the previous shot\|first-frame still" "$RENDER_FILE" && echo "  ✅ Image reference kullanılıyor" || echo "  ⚠️  Image reference eksik"
+        grep -qi "No subtitles\|No text\|No speech bubbles\|No captions" "$RENDER_FILE" && echo "  ✅ Text Safety" || echo "  ⚠️  Text Safety eksik"
     fi
     echo
 
     # 8. World Continuity
     echo "8. WORLD CONTINUITY"
-    grep -qi "LOCKED\|locked\|DO NOT redesign\|Do not redesign" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && echo "  ✅ World Lock" || echo "  ⚠️  World Lock eksik"
+    grep -qi "LOCKED\|locked\|DO NOT redesign\|Do not redesign" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && echo "  ✅ World Lock" || echo "  ⚠️  World Lock eksik"
     echo
 
     # 9. Visual Continuity Rules
@@ -181,28 +203,28 @@ else
     VC_TOTAL=8
     
     # Color Continuity
-    grep -qi "colour\|color\|pastel\|warm.*light\|soft.*shadow" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Color Continuity eksik"
+    grep -qi "colour\|color\|pastel\|warm.*light\|soft.*shadow" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Color Continuity eksik"
     
     # Lighting Continuity
-    grep -qi "lighting\|sunlight\|exposure\|shadow" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Lighting Continuity eksik"
+    grep -qi "lighting\|sunlight\|exposure\|shadow" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Lighting Continuity eksik"
     
     # Camera Continuity
-    grep -qi "camera\|35mm\|50mm\|eye level\|wide shot" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Camera Continuity eksik"
+    grep -qi "camera\|35mm\|50mm\|eye level\|wide shot" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Camera Continuity eksik"
     
     # Scale Continuity
-    grep -qi "Scale\|SMALL preschool\|characters.*small\|childlike.*frame\|environment hero" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Scale Continuity eksik"
+    grep -qi "Scale\|SMALL preschool\|characters.*small\|childlike.*frame\|environment hero" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Scale Continuity eksik"
     
     # Character Continuity
-    grep -qi "already present\|Do not introduce any character\|characters are already in frame\|consistency" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Character Continuity eksik"
+    grep -qi "already present\|Do not introduce any character\|characters are already in frame\|consistency" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Character Continuity eksik"
     
     # World Continuity
-    grep -qi "LOCKED\|locked\|Do not redesign\|Do not regenerate\|same place" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  World Continuity eksik"
+    grep -qi "LOCKED\|locked\|Do not redesign\|Do not regenerate\|same place" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  World Continuity eksik"
     
     # Frame Continuity
-    grep -qi "frame zero\|@image1\|continuity frame\|previous shot\|Video Reference\|Use.*Shot.*as\|Use the previous shot" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Frame Continuity eksik"
+    grep -qi "frame zero\|@image1\|continuity frame\|previous shot\|Video Reference\|Use.*Shot.*as\|Use the previous shot" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Frame Continuity eksik"
     
     # Anti-Desaturation
-    grep -qi "Do NOT desaturate\|Maintain FULL saturation\|vibrant\|saturation.*DO NOT" "$SCENE_DIR/shots/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Anti-Desaturation eksik"
+    grep -qi "Do NOT desaturate\|Maintain FULL saturation\|vibrant\|saturation.*DO NOT" "$SHOTS_DIR/"*.md 2>/dev/null | head -1 > /dev/null && VC_RULES=$((VC_RULES+1)) || echo "  ⚠️  Anti-Desaturation eksik"
     
     echo "  Visual Continuity: $VC_RULES/$VC_TOTAL kural uygulanmış"
     [ "$VC_RULES" -eq "$VC_TOTAL" ] && echo "  ✅ Tüm Visual Continuity kuralları uygulanmış" || { echo "  ⚠️  $((VC_TOTAL-VC_RULES)) kural eksik"; WARNINGS=$((WARNINGS+1)); }
@@ -210,7 +232,7 @@ else
 
     # 10. Time of Day Consistency (shot'lar arası ışık/zaman driftini yakalar)
     echo "10. TIME OF DAY CONSISTENCY"
-    TOD=$(grep -rh '^[[:space:]]*|[[:space:]]*Time of Day' "$SCENE_DIR/shots/"*.md 2>/dev/null \
+    TOD=$(grep -rh '^[[:space:]]*|[[:space:]]*Time of Day' "$SHOTS_DIR/"*.md 2>/dev/null \
         | sed -E 's/^[^|]*\|[^|]*\|([^|]*)\|.*/\1/' \
         | sed 's/^ *//;s/ *$//' \
         | tr '[:upper:]' '[:lower:]' \
@@ -227,11 +249,11 @@ else
 
     # 11. Shot Count / Duration Tutarlılığı
     echo "11. SHOT COUNT / DURATION"
-    if [ -f "$SCENE_DIR/01-overview.md" ]; then
-        DECLARED=$(grep -oiE '[0-9]+[[:space:]]*shots?' "$SCENE_DIR/01-overview.md" 2>/dev/null | head -1 | grep -oE '[0-9]+')
+    if [ -f "$OVERVIEW_FILE" ]; then
+        DECLARED=$(grep -oiE '[0-9]+[[:space:]]*shots?' "$OVERVIEW_FILE" 2>/dev/null | head -1 | grep -oE '[0-9]+')
         # shot-00* is a story-external micro-opening (§9c/§9d); exclude it from the story shot count.
-        ACTUAL=$(find "$SCENE_DIR/shots" -name "shot-*.md" ! -name "shot-00*" 2>/dev/null | wc -l | tr -d ' ')
-        OPENER=$(find "$SCENE_DIR/shots" -name "shot-00*.md" 2>/dev/null | wc -l | tr -d ' ')
+        ACTUAL=$(find "$SHOTS_DIR" -name "shot-*.md" ! -name "shot-00*" 2>/dev/null | wc -l | tr -d ' ')
+        OPENER=$(find "$SHOTS_DIR" -name "shot-00*.md" 2>/dev/null | wc -l | tr -d ' ')
         [ "$OPENER" -gt 0 ] && echo "  ℹ️  Micro-opening (shot-00) mevcut — hikaye-dışı, sayıma dahil değil"
         if [ -n "$DECLARED" ]; then
             if [ "$DECLARED" -eq "$ACTUAL" ]; then

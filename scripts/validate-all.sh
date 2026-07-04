@@ -9,6 +9,9 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
 SCENES_DIR="$REPO_ROOT/04-SCENES/season-01"
 ONBOARDING_DIR="$REPO_ROOT/04-SCENES/season-02-onboarding"
+# World-based production packages (POMPOM_HILLS_PRODUCTION). Episodes migrated into a
+# world package are validated here and remain part of the blocking gate.
+PKG_GLOB="$REPO_ROOT/POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/*/"
 
 TOTAL=0
 PASSED=0
@@ -44,6 +47,31 @@ for dir in "$SCENES_DIR"/s01e*/; do
         echo "❌ $EP_NAME"
         FAILED=$((FAILED + 1))
         # Show errors
+        echo "$OUTPUT" | grep "❌" | sed 's/^/   /'
+    fi
+done
+
+# --- World-based episode packages (blocking gate) ---
+for dir in $PKG_GLOB; do
+    [ -d "$dir" ] || continue
+    EP_NAME="$(basename "$(dirname "$(dirname "$dir")")")/$(basename "$dir")"
+    TOTAL=$((TOTAL + 1))
+
+    OUTPUT=$(bash "$SCRIPT_DIR/validate-scene.sh" "$dir" 2>&1)
+    EXIT_CODE=$?
+
+    if [ $EXIT_CODE -eq 0 ]; then
+        if echo "$OUTPUT" | grep -q "⚠️"; then
+            echo "✅ $EP_NAME  (⚠️  uyarılar var)"
+            echo "$OUTPUT" | grep "⚠️" | sed 's/^/   /'
+            WARN_EPISODES=$((WARN_EPISODES + 1))
+        else
+            echo "✅ $EP_NAME"
+        fi
+        PASSED=$((PASSED + 1))
+    else
+        echo "❌ $EP_NAME"
+        FAILED=$((FAILED + 1))
         echo "$OUTPUT" | grep "❌" | sed 's/^/   /'
     fi
 done
