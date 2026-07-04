@@ -1,6 +1,6 @@
 # Environment Bible — Story Circle
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass.
 > Story Circle, hikaye anlatma mekanıdır. Büyüyen ağaç, yuvarlak taşlar, sıcak ışık.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-022
 File: 02-WORLDS/22-story-circle/
-Version: 3.0
+Version: 3.1
 Location: Tree Hill yanı
 Type: Exterior World
 Status: Design
@@ -517,6 +517,64 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Story Circle must NOT be reduced to "a tree with stones." Reject Story
+> Circle if the seating circle is missing or the amber evening light feels
+> ordinary rather than warm and ceremonial.
+
+Story Circle is the ancient storytelling gathering place of Pompom Hills. It
+should feel like: **"I want to sit on one of those stones and listen."**
+
+### Iconic Landmark
+
+SC-STONES-01 — the ring of smooth, round sitting stones arranged beneath
+the great storytelling tree, always visible surrounding the space where
+stories are told. This is the primary visual anchor: the element that turns
+"a big tree" into "the circle where everyone gathers to listen."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- SC-STONES-01 — the ring of smooth round sitting stones beneath the canopy (already a Locked Element, see World Identity Lock below)
+- SC-TREE-01 — the massive ancient storytelling tree with its wide spreading canopy
+
+**Surface Charm**
+- warm amber dappled light filtering through SC-LEAVES-01 onto the stones
+- SC-PATH-01, the natural stone path approaching the circle
+
+**Small Prop Charm**
+- soft patches of moss or grass between the stones
+- fallen leaves scattered gently near the tree roots
+
+**Motion Charm**
+- slow-moving dappled light patterns as leaves shift overhead
+- gentle sway of the outer branches in the evening breeze
+
+### Forbidden Clutter
+
+```
+✗ missing or too-few sitting stones
+✗ cold, bright, or midday-feeling light
+✗ modern seating (benches, cushions with patterns, etc.)
+✗ sharp corners anywhere
+✗ noise or bustling crowd feeling
+✗ dark or ominous tree silhouette
+✗ artificial lighting
+```
+
+### Thumbnail Hook
+
+A ring of warm, round sitting stones beneath a huge ancient tree, glowing
+in soft amber evening light — an invitation to sit and listen.
+
+### Child Recognition Test
+
+**"The big old tree where Opa tells stories at night."**
+
+---
+
 ## Emotional Purpose (Özet)
 
 Story Circle, çocukların hikaye dinlemenin huzurunu ve sıcaklığını yaşadığı bir mekan. Büyüyen ağaç, yuvarlak taşlar ve sıcak ışık — burada her çocuk güvende ve değerli hisseder.
@@ -753,6 +811,7 @@ Camping Grove → Giriş yolu → Ağaç altı → Oturma alanı → Merkez (ağ
 | 2.0 | Production pipeline standardına geçirme | — |
 | 2.1 | Düzeltmeler | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = SC-STONES-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Story Circle could be described as only "a tree with stones." No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -767,5 +826,5 @@ Camping Grove → Giriş yolu → Ağaç altı → Oturma alanı → Merkez (ağ
 ---
 
 *Bu belge Story Circle mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

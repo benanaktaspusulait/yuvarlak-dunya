@@ -1,6 +1,6 @@
 # Environment Bible — Pony Meadow
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass added.
 
 > This document describes the creative definition and production-ready specifications
 > for Pony Meadow. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-029
 File: 02-WORLDS/29-pony-meadow/
-Version: 3.0
+Version: 3.1
 Location: Tree Hill yanı
 Type: Living World
 Status: Production Ready
@@ -771,6 +771,64 @@ Shot şu durumlarda reddedilir:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Pony Meadow must NOT be reduced to "a field with ponies." Reject Pony
+> Meadow if the gate and fence are missing, or the ponies feel generic
+> rather than small, round, and gentle.
+
+Pony Meadow is the gentle animal-friendship meadow of Pompom Hills. It
+should feel like: **"I want to walk up slowly and say hello to a pony."**
+
+### Iconic Landmark
+
+PM-PONY-01 — 2-3 small, round, fluffy ponies (cream white, light brown,
+light grey) grazing calmly just past the low wooden fence gate. This is the
+primary visual anchor: the element that turns "a field" into "the meadow
+where the gentle ponies live."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- PM-PONY-01 — the small round fluffy ponies, always calm and friendly (already a Locked Element, see World Identity Lock below)
+- the low wooden fence with its open, welcoming gate
+
+**Surface Charm**
+- PM-GRASS-01 — the soft plush green grass across the whole meadow
+- gentle grass-wave patterns where the ponies walk
+
+**Small Prop Charm**
+- the small round wooden hut with a green roof, holding the feeding baskets
+- round carrot and apple baskets near the feeding corner
+
+**Motion Charm**
+- slow, swaying pony walk and gentle tail flick
+- soft sway of the grass in the breeze
+
+### Forbidden Clutter
+
+```
+✗ missing fence or gate
+✗ ponies that look large, wild, or realistic
+✗ riding equipment of any kind (saddles, reins, whips)
+✗ fast or energetic pony movement
+✗ sharp corners anywhere
+✗ modern farm equipment
+✗ dull or muddy colour palette
+```
+
+### Thumbnail Hook
+
+A low wooden gate opening onto a soft green meadow where round, fluffy
+ponies graze gently in the warm sunlight.
+
+### Child Recognition Test
+
+**"The meadow where gentle ponies say hello."**
+
+---
+
 ## Emotional Purpose
 
 Pony Meadow neden var?
@@ -955,3 +1013,4 @@ Pony Meadow bakım ve sevgi mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = PM-PONY-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Pony Meadow could be described as only "a field with ponies." No changes to World Identity Lock or pipeline. | — |

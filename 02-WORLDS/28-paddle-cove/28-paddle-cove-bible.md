@@ -1,6 +1,6 @@
 # Environment Bible — Paddle Cove
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass. Canon Hero View unchanged.
 
 > This document describes the creative definition and production-ready specifications
 > for Paddle Cove. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-028
 File: 02-WORLDS/28-paddle-cove/
-Version: 3.0
+Version: 3.1
 Location: Milo's Pond yanı
 Type: Living World
 Status: Production Ready
@@ -788,6 +788,74 @@ Shot şu durumlarda reddedilir:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Paddle Cove must NOT be reduced to "a shallow pond." If Paddle Cove looks
+> like a plain shallow pond, reject it.
+
+Paddle Cove is the toes-in-the-water discovery cove of Pompom Hills. It
+should feel like: **"I want to skip a stone and watch the rings spread
+across the water."**
+
+### Iconic Landmark
+
+PC-BOAT-01 — the small cluster of colorful round-hulled boats resting at
+the cove's edge. This is the primary visual anchor: the object that turns
+"a shallow pond" into "the cove where the little boats wait by the water."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- PC-BOAT-01 — colorful round boats resting at the water's edge (primary landmark)
+- round stepping stones (Basamak Taşları) reaching into the shallow water, used for stone-skipping and wading
+
+**Surface Charm**
+- smooth grey/pink/yellow pebbles visible beneath the clear shallow water
+- soft water reflections along the shoreline
+
+**Small Prop Charm**
+- small clusters of pink/yellow/purple flowers along the Flower Edge
+- small round green bushes at the shore's background
+
+**Motion Charm**
+- gentle ripple rings spreading slowly across the water when a stone is skipped
+
+### Forbidden Clutter
+
+```
+✗ deep water or anything resembling a lake
+✗ swimming, diving, or floating characters
+✗ fast currents or big waves
+✗ murky or dirty-looking water
+✗ sharp-edged or jagged stones
+✗ scary creatures in or near the water
+✗ racing, competition, or scorekeeping elements
+✗ sharp corners anywhere on the shore
+```
+
+### Thumbnail Hook
+
+A sunlit round cove where small colorful boats rest beside smooth stepping
+stones, clear shallow water sparkling with visible pebbles below.
+
+### Child Recognition Test
+
+**"The cove where you skip stones and the boats bob by the water."**
+
+### Hero View Must Show
+
+- round shallow cove silhouette
+- clear light-blue water with visible pebbles
+- PC-BOAT-01 colorful boats at the edge
+- round stepping stones reaching into the water
+- soft green grass shore with scattered flowers
+- calm, inviting wading mood
+
+If Paddle Cove looks like a plain shallow pond, reject it.
+
+---
+
 ## Emotional Purpose
 
 Paddle Cove neden var?
@@ -963,8 +1031,8 @@ Paddle Cove su macerası mekanıdır.
 ---
 
 *Bu belge Paddle Cove mekanı için creative referanstır.*
-*Living World Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Living World Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*
 
 ---
 
@@ -975,3 +1043,4 @@ Paddle Cove su macerası mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | Visual Richness Update. Added `## Visual Richness & World Charm` section (Iconic Landmark, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |

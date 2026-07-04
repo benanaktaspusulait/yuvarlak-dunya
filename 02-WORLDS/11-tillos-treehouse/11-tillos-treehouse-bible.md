@@ -1,6 +1,6 @@
 # Environment Bible — Tillo's Treehouse
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass.
 > Tillo'nun ağaç evi, yüksekten bakış mekanıdır. Ahşap, yuvarlak, güvenli.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-011
 File: 02-WORLDS/11-tillos-treehouse/
-Version: 3.0
+Version: 3.1
 Location: Little Forest yanı
 Type: Exterior World
 Status: Design
@@ -518,6 +518,65 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Tillo's Treehouse must NOT be reduced to "a house in a tree." Reject
+> Tillo's Treehouse if it is only a random treehouse with no sense of height,
+> bridge crossing, or safe adventure feeling.
+
+Tillo's Treehouse is the elevated adventure retreat of Pompom Hills. It
+should feel like: **"I want to cross that little bridge and climb up into
+the trees."**
+
+### Iconic Landmark
+
+TT-HOUSE-01 — the round honey-wood treehouse nestled in the big tree, with
+its round window glowing warm from inside. This is the primary visual
+anchor: the element that turns "a tree" into "the treehouse you can see
+peeking through the leaves from the ground."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- TT-HOUSE-01 — the round wooden treehouse with round door and round window (already a Locked Element, see World Identity Lock below)
+- TT-BRIDGE-01 — the low wooden bridge with safe railings connecting to Little Forest
+
+**Surface Charm**
+- TT-LEAVES-01 — the green leaves surrounding and partially framing the treehouse
+- dappled sunlight patterns filtering through the canopy onto the treehouse walls
+
+**Small Prop Charm**
+- TT-LADDER-01 — the wooden ladder leading up to the bridge
+- TT-CUSHION-01 and TT-SHELF-01 glimpsed through the round window
+
+**Motion Charm**
+- gentle sway of TT-LEAVES-01 in the breeze
+- the light creak and soft bounce of TT-BRIDGE-01 as it's crossed
+
+### Forbidden Clutter
+
+```
+✗ treehouse with no visible bridge or height context
+✗ unsafe-looking drop or missing railings
+✗ broken or unstable-looking structure
+✗ sharp nails or splinters
+✗ dark or scary interior
+✗ sharp corners anywhere
+✗ modern building materials
+```
+
+### Thumbnail Hook
+
+A round honey-wood treehouse glowing warmly among green leaves, with a
+low wooden bridge inviting you to cross and climb up.
+
+### Child Recognition Test
+
+**"The treehouse in the trees where Tillo lives up high."**
+
+---
+
 ## Emotional Purpose (Özet)
 
 Tillo'nun ağaç evi, children'lere "yükseklik ve keşif" duygusunu aşılar. Güvenli bir şekilde yüksekte olmak, dünyaya farklı bir açıdan bakmak — her an bir macera. Ahşap sıcaklığı ve yuvarlak formlar, sarma hissi verir.
@@ -759,6 +818,7 @@ Little Forest → Merdiven → Köprü → Ağaç ev → Pencere manzarası
 | 2.0 | Production pipeline standardına geçirme | — |
 | 2.1 | Düzeltmeler | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = TT-HOUSE-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -773,5 +833,5 @@ Little Forest → Merdiven → Köprü → Ağaç ev → Pencere manzarası
 ---
 
 *Bu belge Tillo's Treehouse mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

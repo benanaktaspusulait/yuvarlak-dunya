@@ -182,3 +182,38 @@ resting, never in aggressive flight poses. Keep the colour palette strictly
 within the defined set — do not introduce purple, white, or blue roses even if
 they feel decorative. Avoid any hint of thorns in texture or silhouette. Keep
 the sky open and pale — no dramatic clouds, no moody atmosphere.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Rosie's Rose Garden must never be reduced to "a flower field."
+
+**Allowed charm details:** the twin heart-shaped rose beds (RG-BEDS-HEART-01,
+pink and red with a yellow cluster at the join) as the primary landmark; the
+soft winding dirt path curving through the rose rows; the low white rounded
+fence with ball-top finials (RG-FENCE-WHITE-01); the flat resting stone at
+the Butterfly Resting Spot surrounded by yellow roses; drifting rose petals;
+and gentle butterflies (RG-BUTTERFLY-01) drifting through the space.
+
+**Forbidden clutter:** thorns of any kind, square or oval flower beds, dull
+or faded colour, broken or wilted flowers, dark or high-contrast lighting,
+sharp corners, tall or decorative fences, and any scale larger than a small
+child's garden.
+
+### Art Direction Layer
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm fragrant
+garden atmosphere, storybook rose-maze beauty, thumbnail-appeal composition,
+makes a child want to walk in and find the heart of flowers
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — Are the twin heart-shaped beds clearly readable as two hearts from shape alone?
+2. **Colour Test** — Is the garden recognisable from the pink/red/yellow rose palette alone?
+3. **Charm Test** — Does the image make a child want to walk through and find the heart of flowers?
+
+If any test fails, reject.

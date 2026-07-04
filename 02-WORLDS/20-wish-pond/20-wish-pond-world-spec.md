@@ -142,3 +142,41 @@ palette limited to the deep magical set defined above. Favor a soft, matte,
 natural material language over any glossy, metallic, or realistic rendering.
 Treat the pond's shape, colours, and proportions as a fixed identity to
 preserve exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Wish Pond must never be reduced to "a pond with stars."
+
+This layer protects Wish Pond from becoming too plain. Keep the world
+readable and the round still-water silhouette clear — add only the
+canon-approved charm details below. Do not add random objects. Do not remove
+the magical, meditative emotional identity.
+
+**Allowed charm details:** WP-POND-01, the round still pond with a mirror-clear star-reflecting surface — primary landmark, always present; WP-STONES-01 smooth round stones arranged in a circle around the shore; gentle golden star-reflection ripples drifting slowly across the water; soft moonlit sheen at the pond's edge; WP-STARS-01 bright golden stars scattered overhead and mirrored below; soft round trees at the water's edge offering gentle shade near the Quiet Rest Area.
+
+**Forbidden clutter:** empty dark puddle with no stars or stones, murky or dirty water, sharp-edged stones, fast rippling or choppy water, harsh artificial light, scary or threatening night atmosphere, cold empty sky with no stars, metal or modern surfaces.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, hushed starlit
+pond atmosphere, storybook beauty, thumbnail-appeal composition, makes a
+child want to sit by the water and watch their wish float among the stars
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — recognisable as Wish Pond from the round still-water shape alone?
+2. **Colour Test** — recognisable from the deep blue-purple and golden-star palette alone?
+3. **Charm Test** — does it make a child want to sit and make a wish by the water?
+
+If any test fails, reject — see Generation Failures section above and
+`20-wish-pond-bible.md` § Forbidden Over-Simplification.
+
+---
+
+*Wish Pond — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

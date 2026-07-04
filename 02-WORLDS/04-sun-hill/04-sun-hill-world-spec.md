@@ -193,3 +193,53 @@ Summit arrival — valley opening moment — must not be skipped.
 | Environmental rhythm | Sun, grass, camera all move on the same warm breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Sun Hill must never be reduced to "a hill with sun."
+
+This layer protects Sun Hill from becoming too plain. Keep the wide warm
+slope and panoramic crest readable — add only the canon-approved charm
+details below. Do not add random objects. Do not remove the warm,
+energetic, sunrise emotional identity.
+
+**Allowed charm details:** SH-STONE-01, the round sun-warmed sitting stone
+at the Güneş Noktası, is the primary landmark and should be present at the
+hill's brightest point. SH-PLATEAU-01, the wide flat hill crest, opens into
+the panoramic valley view that defines the summit experience. Warm sunlit
+sparkle across the short bright-green grass (SH-GRASS-01) and soft pastel
+horizon hills (SH-HORIZON-01) add surface charm. SH-FLOWERS-01 scattered
+yellow and orange wildflower clusters bring small reusable prop charm.
+Gentle motion — a warm breeze wave across the grass tips and the sun's soft
+golden pulse at the Güneş Noktası — keeps the world feeling alive.
+
+**Forbidden clutter:** an empty plain hill with no landmark, cold or dim
+lighting, rain or fog, sharp corners or jagged terrain, modern structures,
+characters or logos in the Hero View, dark or desaturated grass, and any
+noise or fast motion.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm golden
+sunrise atmosphere, storybook energy and hope, thumbnail-appeal
+composition, makes a child want to climb up and greet the first light
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Sun Hill from the wide warm slope and open crest alone?
+2. **Colour Test** — recognisable from the bright green grass, warm gold sun, and pastel sky alone?
+3. **Charm Test** — does it make a child want to climb up and sit on the warm stone in the sunlight?
+
+If any test fails, reject.
+
+---
+
+*Sun Hill — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

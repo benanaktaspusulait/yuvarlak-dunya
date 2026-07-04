@@ -140,3 +140,52 @@ the warm natural set defined above. Favor a soft, matte, natural material
 language over any glossy, metallic, or realistic rendering. Treat the
 trail's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Adventure Trail must never be reduced to "a dirt path."
+
+This layer protects Adventure Trail from becoming too plain. Keep the
+winding, round-stone-marked silhouette readable and add only the
+canon-approved charm details below. Do not add random objects. Do not
+flatten the trail into a straight, generic road — its charm must come from
+the path itself, not from the worlds it connects.
+
+**Allowed charm details:** AT-PATH-01, the round, smooth waypoint stones
+marking the trail's curves, is the primary landmark and must be visible
+along the trail in every establishing shot, together with the gentle rises
+and dips in the terrain. AT-FLOWERS-01, the small clusters of colourful
+flowers along the trail edges, and the varied ground textures (grass,
+packed earth, mossy patches) marking different trail sections, add surface
+charm. Small round pebbles scattered near the waypoint stones and an
+occasional low, friendly signpost-shaped stone (no readable text) at major
+bends are the central reusable small props. Gentle motion — grass swaying
+along the trail edges and soft dappled shade shifting overhead in wooded
+sections — keeps the world feeling alive without adding clutter.
+
+**Forbidden clutter:** a straight or generic road shape, no visible
+waypoint stones or markers, sharp gravel or dangerous terrain, modern
+signage with readable text, a paved or asphalt surface, sharp corners
+anywhere, and a dull, monotone colour palette.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, winding
+discovery-path atmosphere, storybook adventure-trail beauty,
+thumbnail-appeal composition, makes a child wonder what's around the
+next bend
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Adventure Trail from the winding, round-stone-marked path alone?
+2. **Colour Test** — recognisable from the warm grey stones, green nature, and warm sunlight alone?
+3. **Charm Test** — does it make a child wonder what's around the next bend?
+
+If any test fails, reject.

@@ -1,6 +1,6 @@
 # Environment Bible — Learning Room
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass added.
 > This is the permanent Learning Room of PomPom Hills.
 > Not a real school classroom — a warm preschool learning space where curiosity, creativity and friendship come alive.
 
@@ -9,7 +9,7 @@
 ```
 Environment ID: ENV-031
 File: 02-WORLDS/31-learning-room/
-Version: 3.0
+Version: 3.1
 Location: PomPom Hills (interior)
 Type: Interior World
 Status: Design
@@ -644,6 +644,66 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Learning Room must NOT be reduced to "a classroom." Reject Learning Room
+> if it looks like a generic modern school room rather than a warm,
+> handcrafted preschool learning cottage.
+
+Learning Room is the cosy, curiosity-filled learning heart of Pompom Hills.
+It should feel like: **"I want to sit at that round table and make something."**
+
+### Iconic Landmark
+
+LR-TABLE-01 — the big round wooden activity table at the centre of the room,
+paired with LR-BOARD-01, the round chalkboard on the back wall with simple
+hand-drawn chalk illustrations. This is the primary visual anchor: the
+element that turns "a classroom" into "the cosy room where we gather to
+learn."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- LR-TABLE-01 — the big round wooden table with small round chairs around it (already a Locked Element, see World Identity Lock below)
+- LR-BOARD-01 — the round chalkboard with simple, friendly chalk drawings (sun, mountain, tree, butterfly, rainbow)
+
+**Surface Charm**
+- warm morning sunlight streaming through the arched windows onto the wooden floor
+- LR-PLANTS-01, indoor plants scattered naturally around the room
+
+**Small Prop Charm**
+- LR-CRAYONS-01 and LR-BLOCKS-01 visible and ready for use on the table
+- LR-GLOBE-01 and LR-MAGNIFY-01 on the nature shelf
+- LR-BUNTING-01 and LR-CLOUD-MOBILE-01 as soft decorative touches
+
+**Motion Charm**
+- gentle drift of the LR-CLOUD-MOBILE-01 hanging from the ceiling
+- soft sway of LR-PLANTS-01 leaves near the open window
+
+### Forbidden Clutter
+
+```
+✗ modern classroom furniture (metal desks, plastic chairs)
+✗ readable text or writing on the chalkboard
+✗ technology (tablets, computers, screens)
+✗ sharp corners anywhere
+✗ cold or fluorescent lighting
+✗ cluttered, disorganised shelves
+✗ licensed characters or logos anywhere
+```
+
+### Thumbnail Hook
+
+A warm wooden room with a big round table, a chalkboard covered in simple
+friendly drawings, and morning sunlight pouring through arched windows.
+
+### Child Recognition Test
+
+**"The cosy room with the round table where we learn together."**
+
+---
+
 ## Emotional Purpose (Özet)
 
 Learning Room, children'ler için "öğrenme" duygusunun somut karşılığıdır. Buraya geldiklerinde merak eder, keşfeder, yaratır ve arkadaşlarıyla birlikte öğrenir. Sabah ışığı umut, sessiz okuma huzur verir.
@@ -901,9 +961,10 @@ Learning Room, PomPom Hills'in kalıcı öğrenme mekanıdır. Yuvarlak ahşap m
 | Version | Changes | Breaking |
 |---------|---------|:--------:|
 | 1.0 | İlk oluşturma — canonical Learning Room | — |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = LR-TABLE-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Learning Room could be described as only "a classroom." No changes to World Identity Lock or pipeline. | — |
 
 ---
 
 *Bu belge Learning Room mekanı için creative referanstır.*
-*Environment Bible v1.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

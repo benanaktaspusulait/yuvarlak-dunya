@@ -142,3 +142,44 @@ the deep natural set defined above. Favor a soft, matte, natural material
 language over any glossy, metallic, or realistic rendering. Treat the
 hill's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Tree Hill must never be reduced to "an old forest with trees."
+
+This layer protects Tree Hill from becoming too plain. Keep the world
+readable and the ancient, round-crowned silhouette clear — add only the
+canon-approved charm details below. Do not add random objects. Do not remove
+the wise, still, protective emotional identity.
+
+**Allowed charm details (use, do not omit):**
+- TH-TREE-01, the largest ancient gateway tree at the Ancient Gate — primary landmark, always present in entrance shots
+- the Wisdom Stump — large, round, old storytelling seat
+- soft green moss carpet on the ground and stones in the Moss Garden
+- dappled light filtering through the canopy onto the mossy floor
+- round, warm-grey seating stones around the safe campfire
+- scattered fallen leaves (TH-LEAVES-01) drifting onto the moss
+- slow, gentle swaying of the ancient canopies overhead
+
+**Forbidden clutter:** dark or threatening forest atmosphere, scary or sudden sounds, maze-like layout, sharp branches or thorny undergrowth, sharp corners or jagged rock edges, fast or chaotic movement, large crowds cluttering the clearing, unsafe or uncontained fire, metal or artificial surfaces, generic artificial-looking woodland.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, ancient wise
+forest atmosphere with dappled golden light, storybook beauty, thumbnail-
+appeal composition, makes a child want to sit on the wisdom stump and
+listen to a story by the fire
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — is the ancient gateway tree and cathedral canopy recognisable as Tree Hill from shape alone?
+2. **Colour Test** — does the deep green canopy and warm brown trunk palette read as Tree Hill without any other detail?
+3. **Charm Test** — does it make a child want to walk through the gateway tree and sit by the campfire with Tillo?
+
+If any test fails, reject — see Generation Failures table above and
+`26-tree-hill-bible.md` § Forbidden Over-Simplification.

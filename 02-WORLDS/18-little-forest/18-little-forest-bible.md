@@ -1,6 +1,7 @@
 # Environment Bible — Little Forest
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass added.
+> Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
 
 > This document describes the creative definition and production-ready specifications
 > for Little Forest. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +12,7 @@
 ```
 Environment ID: ENV-018
 File: 02-WORLDS/18-little-forest/
-Version: 3.0
+Version: 3.1
 Location: Sun Hill civarı
 Type: Living World
 Status: Production Ready
@@ -713,6 +714,66 @@ Little Forest nasıl çekilir? Kamera orman alanı içinde doğal hareket eder.
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Little Forest must NOT be reduced to "some trees." Reject Little Forest if
+> it has no mushroom circle, no sense of a small friendly surprise waiting
+> around every tree.
+
+Little Forest is the small, safe discovery woodland of Pompom Hills. It
+should feel like: **"I want to peek behind that tree and see what's there."**
+
+### Iconic Landmark
+
+LF-MUSHROOM-01 — the magical mushroom circle (5-7 round red-and-white
+mushrooms arranged in a ring beneath the trees), always the destination
+of every path through the forest. This is the primary visual anchor: the
+element that turns "some trees" into "the forest with the magic mushroom
+ring."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- LF-MUSHROOM-01 — the round red-and-white mushroom circle beneath the canopy (already a Locked Element, see World Identity Lock below)
+- LF-TREE-01 — the cluster of round, plush-crowned trees in varied greens
+
+**Surface Charm**
+- soft dappled light patterns filtering through the leaves onto the forest floor
+- a scattering of colourful fallen leaves along the path
+
+**Small Prop Charm**
+- LF-BIRD-01 glimpsed on a low branch
+- a small, friendly squirrel peeking from a tree hollow
+- smooth round stepping stones marking the path
+
+**Motion Charm**
+- gentle sway of the tree canopies
+- soft flutter of LF-BIRD-01 taking off in slow, friendly arcs
+
+### Forbidden Clutter
+
+```
+✗ dark, dense, or scary forest
+✗ no mushroom circle visible
+✗ large or threatening creatures
+✗ sharp branches or thorny undergrowth
+✗ tangled or impassable-looking paths
+✗ sharp corners anywhere
+✗ muted, cold, or desaturated colours
+```
+
+### Thumbnail Hook
+
+A small circle of round, friendly trees with a glowing mushroom ring at its
+heart, dappled sunlight falling through the leaves.
+
+### Child Recognition Test
+
+**"The little forest with the magic mushroom circle."**
+
+---
+
 ## Emotional Purpose
 
 Little Forest, çocukların keşfetme hissini güvenli bir şekilde yaşadığı yer. Her adımda yeni bir sürpriz, her köşede merak. Doğayla temas, çocuklara özgüven ve macera duygusu verir.
@@ -908,3 +969,4 @@ This Living World is designed to provide a magical, discovery-rich environment f
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = LF-MUSHROOM-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Little Forest could be described as only "some trees." No changes to World Identity Lock or pipeline. | — |

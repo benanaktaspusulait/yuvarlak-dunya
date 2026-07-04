@@ -143,3 +143,44 @@ the light inviting set defined above. Favor a soft, matte, natural material
 language over any glossy, metallic, or realistic rendering. Treat the
 cove's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Paddle Cove must never be reduced to "shallow water with pebbles."
+
+This layer protects Paddle Cove from becoming too plain. Keep the round
+shallow cove shape and the clear light-blue water always readable — add only
+the canon-approved charm details below. Do not add random objects. Do not
+remove the gentle, curious, water-discovery emotional identity.
+
+**Allowed charm details:** the round shallow cove with clear light-blue
+water (#81D4FA) is the primary landmark and must be visible in every wide
+shot. Smooth round pebbles in grey, pink, and yellow along the shore and in
+the water, plus the round stepping stones extending toward the water, add
+landmark and surface charm. Small clusters of pink, yellow, and purple
+flowers at the water's edge add small-prop charm. Gentle water ripples from
+skipped stones and the soft trickle of the shallow water add motion charm.
+
+**Forbidden clutter:** deep or dark water, fast currents, sharp or rough
+stones, dirty or murky water, scary creatures, and sharp corners anywhere.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, gentle water-play
+atmosphere, storybook cove beauty, thumbnail-appeal composition, makes a
+child want to run in and dip their toes in the water
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Paddle Cove from the round shallow cove shape alone?
+2. **Colour Test** — recognisable from the light-blue water and pastel pebbles alone?
+3. **Charm Test** — does it make a child want to wade in and skip a stone?
+
+If any test fails, reject.

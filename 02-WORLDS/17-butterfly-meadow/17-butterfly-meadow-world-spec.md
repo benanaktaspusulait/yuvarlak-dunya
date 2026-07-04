@@ -143,3 +143,53 @@ limited to the soft pastel set defined above. Favor a soft, matte, natural
 material language over any glossy, metallic, or realistic rendering. Treat
 the meadow's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Butterfly Meadow must never be reduced to "a flower field." Its identity is
+> the butterflies themselves, not the flowers.
+
+This layer protects Butterfly Meadow from becoming too plain. Keep the wide,
+round meadow silhouette readable and the pastel flower carpet clear — add
+only the canon-approved charm details below. Do not add random objects. Do
+not remove the wonder-and-magic emotional identity, and never let the
+butterflies become incidental to the flowers.
+
+**Allowed charm details:** BM-BUTTERFLY-01, a drifting cloud of at least 5-6
+pastel butterflies (pink, purple, yellow) dancing in slow curved paths just
+above the flowers, is the primary landmark and must be visible in every wide
+shot. BM-FLOWERS-01, the pastel flower carpet the butterflies dance above,
+and the soft rolling meadow silhouette with low hills at the edges add
+landmark and surface charm, along with gentle grass-wave patterns rippling
+beneath the butterfly flight paths. A soft round stepping-stone path winding
+through the flowers and one or two low shade trees at the meadow's edge are
+the central reusable small props. Gentle motion — the slow, curved, looping
+butterfly flight paths and the gentle sway of BM-FLOWERS-01 in the breeze —
+keeps the world feeling alive without adding clutter.
+
+**Forbidden clutter:** a meadow with too few or no visible butterflies, fast
+or jittery butterfly movement, dark, black, or harsh-coloured butterflies,
+scary insects, dense or cluttered flower coverage that hides the
+butterflies, sharp corners anywhere, and a dull or desaturated palette.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, enchanted
+butterfly-dance meadow atmosphere, storybook beauty, thumbnail-appeal
+composition, makes a child want to stand very still and watch the
+butterflies dance
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Butterfly Meadow from the wide rolling meadow shape alone?
+2. **Colour Test** — recognisable from the pastel flower carpet and pastel butterfly colours alone?
+3. **Charm Test** — does it make a child want to stand very still and watch the butterflies dance?
+
+If any test fails, reject.

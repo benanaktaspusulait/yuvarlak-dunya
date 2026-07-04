@@ -205,3 +205,51 @@ The upward journey — the change in perspective — should feel natural and exc
 | Environmental rhythm | All movement on the same natural breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Tillo's Treehouse must never be reduced to "a house in a tree."
+
+This layer protects Tillo's Treehouse from becoming too plain. Keep the
+round honey-wood treehouse readable and the height/bridge silhouette clear —
+add only the canon-approved charm details below. Do not add random objects.
+Do not remove the safe-adventure, elevated-retreat emotional identity.
+
+**Allowed charm details:** TT-HOUSE-01, the round honey-wood treehouse with
+its round window glowing warm from inside, is the primary landmark and must
+be visible in every exterior wide shot. TT-BRIDGE-01, the low wooden bridge
+with safe railings connecting to Little Forest, is the secondary landmark
+that gives the world its height and crossing feeling. TT-LEAVES-01
+surrounding and partially framing the treehouse, plus dappled sunlight
+patterns filtering through the canopy onto the treehouse walls, add surface
+charm. TT-LADDER-01 leading up to the bridge, and TT-CUSHION-01 /
+TT-SHELF-01 glimpsed through the round window, are the reusable small
+props. Gentle motion — TT-LEAVES-01 swaying in the breeze and the light
+creak and soft bounce of TT-BRIDGE-01 as it's crossed — keeps the world
+feeling alive without adding clutter.
+
+**Forbidden clutter:** a treehouse shown with no visible bridge or height
+context, an unsafe-looking drop or missing railings, a broken or
+unstable-looking structure, sharp nails or splinters, a dark or scary
+interior, sharp corners anywhere, and modern building materials.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, cozy elevated
+adventure atmosphere, storybook safe-treehouse beauty, thumbnail-appeal
+composition, makes a child want to cross the little bridge and climb up
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Tillo's Treehouse from the round treehouse in the tree with its connecting bridge alone?
+2. **Colour Test** — recognisable from the honey-wood tones, green leaves, and warm interior glow alone?
+3. **Charm Test** — does it make a child want to cross the bridge and climb up into the trees?
+
+If any test fails, reject.

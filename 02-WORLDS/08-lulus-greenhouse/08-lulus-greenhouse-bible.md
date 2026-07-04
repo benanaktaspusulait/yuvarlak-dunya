@@ -1,6 +1,6 @@
 # Environment Bible — Lulu's Greenhouse
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass. Canon identity unchanged.
 > Lulu'nun sera evi, cam duvarların ardındaki yeşil bir dünyadır. Sıcak, nemli, canlı.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-008
 File: 02-WORLDS/08-lulus-greenhouse/
-Version: 3.0
+Version: 3.1
 Location: Tillo's Garden yanı
 Type: Interior/Exterior World
 Status: Design
@@ -535,6 +535,62 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Lulu's Greenhouse must NOT be reduced to "a glass building with plants." If
+> the greenhouse looks like any generic conservatory, reject it.
+
+Lulu's Greenhouse is the warm, humid glasshouse of Pompom Hills. It should
+feel like: **"I want to look through the glass and see all the green world glowing inside."**
+
+### Iconic Landmark
+
+LG-GLASS-01 — the rounded glass panels in their warm wooden frame
+(LG-FRAME-01), always revealing the lush green interior from outside. This is
+the primary visual anchor: the object that turns "a glass building" into
+"the glass house where the green world glows."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- LG-GLASS-01 — rounded glass panels in a warm wooden frame, revealing the green interior (already a Locked Element, see World Identity Lock below)
+
+**Surface Charm**
+- LG-CONDENSATION-01 — water droplets clinging to the glass, the signature humidity texture
+- warm golden interior glow (#FFF9C4) visible through the panels
+
+**Small Prop Charm**
+- LG-POT-01 round pots lined up on the LG-SHELF-01 wooden shelves
+- LG-CAN-01 small watering can near the plants
+
+**Motion Charm**
+- gentle sway of LG-PLANTS-01 leaves
+
+### Forbidden Clutter
+
+```
+✗ broken or cracked glass
+✗ wilting or dead plants
+✗ dark, unlit interior
+✗ sharp corners or edges
+✗ cold blue colour cast
+✗ dry atmosphere with no condensation
+✗ generic industrial greenhouse or cold conservatory look
+✗ text, logos, or modern signage
+```
+
+### Thumbnail Hook
+
+A sunlit round glass greenhouse glowing gold, condensation beading on the
+panes, lush green plants pressed against the glass inviting a peek inside.
+
+### Child Recognition Test
+
+**"The glass house where you can see all the green plants glowing."**
+
+---
+
 ## Emotional Purpose (Özet)
 
 Lulu's Greenhouse, children'lere "sıcaklık ve bakım" duygusunu aşılar. Cam duvarların ardındaki yeşil dünya, çocuklar için güvenli bir sığınak hissi yaratır. Büyüyen bitkiler, nemli hava, sıcak bir kucaklama — her an bir bakım hikayesi.
@@ -775,6 +831,7 @@ Dışarıdan bakış → Giriş → İç mekan → Raflar → Bitkiler → Pence
 | 2.0 | Production pipeline standardına geçirme | — |
 | 2.1 | Düzeltmeler | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -789,5 +846,5 @@ Dışarıdan bakış → Giriş → İç mekan → Raflar → Bitkiler → Pence
 ---
 
 *Bu belge Lulu's Greenhouse mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

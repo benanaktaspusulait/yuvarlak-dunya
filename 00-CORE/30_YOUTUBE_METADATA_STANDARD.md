@@ -455,7 +455,52 @@ Only use public YouTube links: `https://www.youtube.com/@PompomHills` or public 
 
 ---
 
-## 16. Required Output Format
+## 16. Series Metadata — Opa's Storytime
+
+For any episode belonging to the **Opa's Storytime** series, follow `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` for series identity, location rules, character combinations and episode naming. This section only defines the metadata fields required in addition to the standard template above.
+
+**Title formula:**
+
+```text
+Opa's Storytime: [Story Title] | Pompom Hills Preschool Story
+```
+
+Shorter alternative when needed: `Opa's Storytime: [Story Title]`
+
+**Description template:**
+
+```text
+In this gentle Opa's Storytime episode from Pompom Hills, Opa tells a warm preschool
+story while [child characters] listen, ask questions, and discover [theme].
+
+This story supports early learning through calm themes like [theme 1], [theme 2], and [theme 3].
+
+Series: Opa's Storytime
+Playlist: Opa's Storytime | Gentle Preschool Stories
+Characters: Opa, [child characters]
+Location: [reading / story location]
+Theme: [theme]
+
+Watch more Pompom Hills: https://www.youtube.com/@PompomHills
+```
+
+**Playlist CTA:** When a public playlist URL exists, use it in place of the channel URL:
+
+```text
+Watch more Opa's Storytime episodes here: https://www.youtube.com/@PompomHills
+```
+
+**Shorts naming:** Every Short title must include either "Opa's Storytime" or "Opa" (see `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §15). Every Short description must include:
+
+```text
+Watch the full Opa's Storytime series: https://www.youtube.com/@PompomHills
+```
+
+**Tags:** add `Opa's Storytime`, `Opa`, plus the two required child character tags and the location tag from the Core Tag Bank (§8).
+
+---
+
+## 17. Required Output Format
 
 Whenever asked to create YouTube metadata, output in this exact format:
 
@@ -483,7 +528,7 @@ If applicable:
 
 ---
 
-## 17. Quality Checklist
+## 18. Quality Checklist
 
 Before finalizing metadata, check:
 
@@ -502,7 +547,7 @@ Before finalizing metadata, check:
 
 ---
 
-## 18. Final Principle
+## 19. Final Principle
 
 Pompom Hills metadata should help parents immediately understand:
 
@@ -533,7 +578,7 @@ Theme: Sharing, taking turns, teamwork
 Length: 90 seconds
 ```
 
-The output must follow the Required Output Format (§16) and pass the Quality Checklist (§17).
+The output must follow the Required Output Format (§17) and pass the Quality Checklist (§18).
 
 ---
 

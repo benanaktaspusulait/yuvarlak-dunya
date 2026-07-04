@@ -1,6 +1,6 @@
 # Environment Bible — Adventure Trail
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass added.
 
 > This document describes the creative definition and production-ready specifications
 > for Adventure Trail. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-024
 File: 02-WORLDS/24-adventure-trail/
-Version: 3.0
+Version: 3.1
 Location: Tüm vücudu bağlayan patika
 Type: Living World
 Status: Production Ready
@@ -709,6 +709,64 @@ Close-up of round trail marker stone with path texture. Small discoveries along 
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Adventure Trail must NOT be reduced to "a dirt path." Reject Adventure
+> Trail if it looks like a straight, generic road rather than a winding,
+> waypoint-marked discovery route.
+
+Adventure Trail is the winding connective spine of Pompom Hills. It should
+feel like: **"I wonder what's around the next bend."**
+
+### Iconic Landmark
+
+AT-PATH-01 — the kavisli (curved), round-stone-marked trail winding through
+varied terrain, always curving rather than running straight. This is the
+primary visual anchor: the element that turns "a path" into "the trail that
+connects the whole world, bend by bend."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- AT-PATH-01 — the round, smooth waypoint stones marking the trail's curves (already a Locked Element, see World Identity Lock below)
+- gentle rises and dips in the terrain visible along the trail's length
+
+**Surface Charm**
+- AT-FLOWERS-01 — small clusters of colourful flowers along the trail edges
+- varied ground textures (grass, packed earth, mossy patches) marking different trail sections
+
+**Small Prop Charm**
+- small round pebbles scattered naturally near the waypoint stones
+- occasional low, friendly signpost-shaped stone (no readable text) at major bends
+
+**Motion Charm**
+- gentle grass sway along the trail edges
+- soft dappled shade moving as leaves shift overhead in wooded sections
+
+### Forbidden Clutter
+
+```
+✗ straight, generic road shape
+✗ no visible waypoint stones or markers
+✗ sharp gravel or dangerous terrain
+✗ modern signage with readable text
+✗ paved or asphalt surface
+✗ sharp corners anywhere
+✗ dull, monotone colour palette
+```
+
+### Thumbnail Hook
+
+A gently curving stone-marked trail disappearing around a bend into lush
+greenery, inviting the next step of discovery.
+
+### Child Recognition Test
+
+**"The winding path that connects all of Pompom Hills."**
+
+---
+
 ## Emotional Purpose
 
 Adventure Trail, çocukların keşif duygusunu güvenle yaşadığı bir patika. Her eğrisi bir sürpriz vaat eder, ama tehlike değil — merak. Yol boyunca tanıdık sesler (kuş, rüzgar, adım) çocuklara rehberlik eder. "Kaybolma" korkusu yok, sadece "ne var acaba?" heyecanı.
@@ -922,3 +980,4 @@ Adventure Trail keşif patikasıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = AT-PATH-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Adventure Trail could be described as only "a dirt path." No changes to World Identity Lock or pipeline. | — |

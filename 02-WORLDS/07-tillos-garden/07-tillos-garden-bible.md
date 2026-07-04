@@ -1,6 +1,6 @@
 # Environment Bible — Tillo's Garden
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass added.
 > Tillo'nun bahçesi, sabır ve bakımın mekanıdır. Tohumlar ekilir, çiçekler büyür.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-007
 File: 02-WORLDS/07-tillos-garden/
-Version: 3.0
+Version: 3.1
 Location: Flower Hill kuzeyi
 Type: Exterior World
 Status: Design
@@ -550,6 +550,63 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Tillo's Garden must NOT be reduced to "a garden with plants."
+
+Tillo's Garden is the patient, nurturing growing-place of Pompom Hills. It
+should feel like: **"I want to kneel down and plant something here."**
+
+### Iconic Landmark
+
+TG-BED-01 — the round, low flower bed filled with soft brown soil and
+growing plants. This is the primary visual anchor: the object that turns "a
+garden" into "the place where you plant a seed and watch it grow."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- TG-BED-01 — round low flower beds with visible soil and healthy growing plants
+- Tillo'nun köşesi — the tool corner where the straw hat, watering can, shovel, and seed box sit together
+
+**Surface Charm**
+- TG-SOFT-01 — the soft warm brown soil (#8D6E63) visible between and around the beds
+- TG-PATH-01 — the round stepping-stone entrance path
+
+**Small Prop Charm**
+- TG-HAT-01 — Tillo's round straw hat
+- TG-CAN-01 — the blue round watering can
+- TG-SEED-BOX-01 — the small wooden seed box
+
+**Motion Charm**
+- the slow, patient growth-sway of plants and leaves (30-frame cycle)
+- the soft arc of water pouring from the watering can at the watering point
+
+### Forbidden Clutter
+
+```
+✗ thorny plants
+✗ sharp or metal tools
+✗ fast or hurried movement
+✗ large or unsafe holes
+✗ mess or overgrowth
+✗ frightening insects
+✗ sharp corners anywhere
+✗ cold or dim colour palette
+```
+
+### Thumbnail Hook
+
+A row of round earthy flower beds with sprouting plants, Tillo's straw hat
+and watering can waiting nearby under warm golden sunlight.
+
+### Child Recognition Test
+
+**"Tillo'nun tohum ektiği yuvarlak toprak bahçesi."** ("Tillo's round garden where seeds grow.")
+
+---
+
 ## Emotional Purpose (Özet)
 
 Tillo'nun bahçesi, children'lere "sabır ve bakım" duygusunu aşılar. Tohum ekme heyecanı, filiz görme mutluluğu, çiçek açma gururu... Her an bir büyüme hikayesidir. Güvenli, sıcak, toprak kokulu bir sığınak.
@@ -792,6 +849,7 @@ Giriş yolu → Tarhlar → Orta alan → Tillo'nun köşesi → Sulama noktası
 | 2.0 | Production pipeline standardına geçirme | — |
 | 2.1 | Düzeltmeler | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = TG-BED-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -806,5 +864,5 @@ Giriş yolu → Tarhlar → Orta alan → Tillo'nun köşesi → Sulama noktası
 ---
 
 *Bu belge Tillo's Garden mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

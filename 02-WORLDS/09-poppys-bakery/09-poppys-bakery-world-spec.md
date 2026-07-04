@@ -215,3 +215,53 @@ matte, handcrafted material language over any glossy, metallic, or
 photorealistic rendering. Treat the bakery's exterior shape, colours, and
 proportions as a fixed identity to preserve exactly, not to reinterpret,
 across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Poppy's Bakery must never be reduced to "an orange building with a window."
+
+This layer protects Poppy's Bakery from becoming too plain. Keep the round
+silhouette clear and add only the canon-approved charm details below. Do not
+add random objects. Do not remove the warm, sharing, generous emotional
+identity.
+
+**Allowed charm details:** PB-WINDOW-01, the large round display window
+always showing fresh PB-COOKIES-01 and PB-BREAD-01, stays the iconic
+landmark, paired with the PB-DOOR-01 dark wood door and its PB-BELL-01 bell.
+Surface charm comes from the warm matte orange-brown walls (#D7A86E) and the
+golden interior glow (#FFB74D) through the glass. Small prop charm comes from
+the PB-PLATE-01 cookie plate on the counter, PB-MOLDS-01 cookie cutters and
+PB-FLOUR-01 flour bag on the shelves, and the PB-CUSHION-01 window seat
+cushion. Motion charm comes from the soft warmth shimmer near the oven and
+the gentle sway of the door bell on entry.
+
+**Forbidden clutter:** sharp corners or a rectangular building shape, a cold
+colour temperature, an empty or bare display window, a dirty or messy
+counter, metal or hard surfaces, fast or chaotic movement, a dark unlit
+interior, and large crowds.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm fresh-baked
+bakery atmosphere with golden window glow, storybook beauty, thumbnail-appeal
+composition, makes a child want to follow the smell of cookies inside
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Poppy's Bakery from the round orange-brown building shape alone?
+2. **Colour Test** — recognisable from the warm orange-brown-and-gold palette alone?
+3. **Charm Test** — does it make a child want to go inside and get a cookie?
+
+If any test fails, reject.
+
+---
+
+*Poppy's Bakery — World Specification, aligned with Bible v3.2.*
+*Visual Richness Layer added 4 Temmuz 2026.*

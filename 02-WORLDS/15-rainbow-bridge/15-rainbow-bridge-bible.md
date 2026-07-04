@@ -1,6 +1,6 @@
 # Environment Bible — Rainbow Bridge
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass.
 > Rainbow Bridge, sihirli bir geçiş mekanıdır. Gökkuşağı renkleri ve parıltıyla umut taşır.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-015
 File: 02-WORLDS/15-rainbow-bridge/
-Version: 3.0
+Version: 3.1
 Location: Cloud Hill → Rainbow Creek arası
 Type: Exterior World
 Status: Design
@@ -626,6 +626,63 @@ This environment is designed as the canonical magical transition point for PomPo
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Rainbow Bridge must NOT be reduced to "a colourful bridge."
+
+Rainbow Bridge is the magical wish-crossing of Pompom Hills. It should feel
+like: **"I want to cross this bridge and make a wish where the rainbow touches down."**
+
+### Iconic Landmark
+
+RB-RAINBOW-01 — the six-colour rainbow arching overhead and touching the
+bridge. This is the primary visual anchor: the object that turns "a bridge"
+into "the bridge where the rainbow comes down to visit."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- RB-RAINBOW-01, the six-colour rainbow arch touching the bridge — already a Locked Element, see World Identity Lock below
+- RB-BRIDGE-01, the rounded colourful bridge itself
+
+**Surface Charm**
+- the smooth multicolour blended surface of the bridge
+- soft rainbow-tinted light patterns cast across the bridge surface
+
+**Small Prop Charm**
+- RB-STONES-01, the smooth pastel wishing stones lined along the bridge edges
+- RB-RAILING-01, the colourful rounded safety railings
+
+**Motion Charm**
+- RB-SPARKLE-01, drifting magical sparkle effects in the air
+- RB-WATER-01, the gentle flowing water beneath the bridge
+
+### Forbidden Clutter
+
+```
+✗ darkness or storm atmosphere
+✗ broken or damaged bridge structure
+✗ sharp or rough stones
+✗ dull, muted, or desaturated colours
+✗ sharp corners anywhere
+✗ characters or text/logos in the Hero View
+✗ fast or jarring movement
+✗ noise or harsh sound
+```
+
+### Thumbnail Hook
+
+A wide view of the rounded rainbow bridge with all six colours arching
+overhead, wishing stones glinting along the edges and sparkle drifting in
+the warm light.
+
+### Child Recognition Test
+
+**"The bridge where the rainbow comes down."**
+
+---
+
 ## World Identity Lock
 
 | Locked Element | Value | Acceptable Variations |
@@ -755,6 +812,7 @@ Cloud Hill → Köprü girişi → Köprü ortası → Dilek taşları → Köpr
 | 2.0 | Production pipeline standardına geçirme | — |
 | 2.1 | Düzeltmeler | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = RB-RAINBOW-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where the bridge could be described as only "a colourful bridge." No changes to World Identity Lock or pipeline. | ❌ |
 
 ---
 
@@ -769,5 +827,5 @@ Cloud Hill → Köprü girişi → Köprü ortası → Dilek taşları → Köpr
 ---
 
 *Bu belge Rainbow Bridge mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

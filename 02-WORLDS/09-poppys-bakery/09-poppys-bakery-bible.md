@@ -1,6 +1,6 @@
 # Environment Bible — Poppy's Bakery
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.2** — Visual Richness & World Charm pass. Canon identity unchanged.
 
 > This document describes the creative definition and production-ready specifications
 > for Poppy's Bakery. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-009
 File: 02-WORLDS/09-poppys-bakery/
-Version: 3.0
+Version: 3.2
 Location: Central Square yanı
 Type: Living World
 Status: Production Ready
@@ -767,6 +767,66 @@ Poppy's Bakery nasıl çekilir? Kamera fırın içinde doğal hareket eder.
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Poppy's Bakery must NOT be reduced to "an orange building with a window."
+> If Poppy's Bakery looks like any generic bakery storefront, reject it.
+
+Poppy's Bakery is the warm, fresh-baked heart of Pompom Hills. It should
+feel like: **"I want to follow the smell of fresh cookies inside."**
+
+### Iconic Landmark
+
+PB-WINDOW-01 — the large round display window, always showing fresh cookies
+and bread with warm light glowing behind it (already a Locked Element, see
+World Identity Lock below). This is the primary visual anchor: the object
+that turns "an orange building" into "the bakery whose window smells like
+fresh bread."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- PB-WINDOW-01 — large round display window, always showing fresh PB-COOKIES-01 and PB-BREAD-01
+- PB-DOOR-01 — dark wood arched door with PB-BELL-01 door bell
+
+**Surface Charm**
+- warm turuncu-kahverengi wall texture (#D7A86E), matte and handcrafted
+- warm golden interior light (#FFB74D) glowing through the display glass
+
+**Small Prop Charm**
+- PB-PLATE-01 round cookie plate on PB-COUNTER-01
+- PB-MOLDS-01 cookie cutters and PB-FLOUR-01 flour bag on PB-SHELF-01
+- PB-CUSHION-01 window seat cushion
+
+**Motion Charm**
+- soft steam/warmth shimmer rising from the oven glow
+- gentle door-bell sway on entry
+
+### Forbidden Clutter
+
+```
+✗ sharp corners or rectangular building shape
+✗ cold colour temperature
+✗ empty or bare display window
+✗ dirty or messy counter
+✗ metal or hard surfaces
+✗ fast or chaotic movement
+✗ dark, unlit interior
+✗ large crowds
+```
+
+### Thumbnail Hook
+
+A round, sun-warmed orange-brown bakery with a glowing display window full
+of fresh cookies and bread, inviting a closer look.
+
+### Child Recognition Test
+
+**"The round bakery where cookies always wait in the window."**
+
+---
+
 ## Emotional Purpose
 
 Poppy's Bakery children'lere "sıcaklık ve paylaşma" duygusunu aşılar. Taze ekmek kokusu, kurabiye lezzeti, fırının sıcaklığı — her an bir paylaşım anı. Güven, cömertlik ve lezzet keşfi bir arada yaşar.
@@ -1260,6 +1320,7 @@ Poppy's Bakery, PomPom Hills'in sıcak kalbidir. Yuvarlak turuncu-kahverengi bin
 | 2.0 | Production pipeline standardına geçirme | — |
 | 3.0 | Living World Bible standardına geçirme | — |
 | 3.1 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — ek bölümler, world-spec genişletildi | ✅ Breaking |
+| 3.2 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -1280,5 +1341,5 @@ This Living World is designed to provide a warm, sensory-rich environment for st
 ---
 
 *Bu belge Poppy's Bakery mekanı için creative referanstır.*
-*Living World Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Living World Bible v3.2*
+*Son güncelleme: 4 Temmuz 2026*

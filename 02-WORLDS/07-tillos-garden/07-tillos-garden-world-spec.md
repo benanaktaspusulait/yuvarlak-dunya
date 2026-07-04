@@ -198,3 +198,53 @@ The journey through the garden — from entry to planting to growth — should f
 | Environmental rhythm | All movement on the same slow, patient breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Tillo's Garden must never be reduced to "a garden with plants."
+
+This layer protects Tillo's Garden from becoming too plain. Keep the round
+flower beds and earthy soil readable — add only the canon-approved charm
+details below. Do not add random objects. Do not remove the patient,
+nurturing, growing emotional identity.
+
+**Allowed charm details:** TG-BED-01, the round low flower beds with visible
+soft brown soil and healthy growing plants, is the primary landmark and
+should anchor every wide shot. Tillo'nun köşesi — the tool corner where
+TG-HAT-01 (straw hat), TG-CAN-01 (blue watering can), and TG-SEED-BOX-01
+(wooden seed box) sit together — adds landmark and small prop charm.
+TG-SOFT-01, the warm brown soil visible between beds, and TG-PATH-01, the
+round stepping-stone entrance path, add surface charm. Gentle motion — the
+slow patient growth-sway of plants and the soft arc of water from the
+watering can — keeps the world feeling alive without adding clutter.
+
+**Forbidden clutter:** thorny plants, sharp or metal tools, fast or hurried
+movement, large or unsafe holes, mess or overgrowth, frightening insects,
+sharp corners anywhere, and a cold or dim colour palette.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm earthy
+nurturing atmosphere, storybook growth and patience beauty,
+thumbnail-appeal composition, makes a child want to kneel down and plant
+a seed
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Tillo's Garden from the round flower beds and soil alone?
+2. **Colour Test** — recognisable from the warm brown soil, green plants, and colourful flowers alone?
+3. **Charm Test** — does it make a child want to kneel down and plant something here?
+
+If any test fails, reject.
+
+---
+
+*Tillo's Garden — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

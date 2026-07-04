@@ -143,3 +143,49 @@ limited to the bright cheerful set defined above. Favor a soft, matte,
 natural material language over any glossy, metallic, or realistic rendering.
 Treat the meadow's shape, colours, and proportions as a fixed identity to
 preserve exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Friendship Meadow must never be reduced to "an open field."
+
+This layer protects Friendship Meadow from becoming too plain. Keep the wide
+round meadow silhouette readable and the open, togetherness feeling clear —
+add only the canon-approved charm details below. Do not add random objects.
+Do not remove the joyful, shared-play emotional identity.
+
+**Allowed charm details:** FM-KITE-01, a cluster of 2-3 colourful round
+kites drifting overhead, is the primary landmark and must be visible against
+the open sky in every wide shot. The gentle rounded hill silhouette at the
+meadow's edge adds landmark charm. FM-GRASS-01 (soft green grass with a
+natural wave pattern) and clusters of FM-FLOWERS-01 (red, yellow, purple)
+marking the path edges add surface charm. A round woven picnic basket and
+blanket, when the scene calls for a picnic, and smooth grey stepping stones
+marking the entrance path are the central reusable small props. Gentle
+motion — kites drifting and dipping in the wind, and soft waves moving
+through the grass — keeps the world feeling alive without adding clutter.
+
+**Forbidden clutter:** an empty bare field with nothing to anchor the eye,
+narrow or cramped space, sharp corners anywhere, modern playground
+equipment, competitive game markings (goals, lines, scoreboards), large
+crowds, and dark or gloomy lighting.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, open-hearted
+gathering-field atmosphere, storybook togetherness beauty, thumbnail-appeal
+composition, makes a child want to run in and fly a kite with friends
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Friendship Meadow from the wide round meadow with its rounded hill edge alone?
+2. **Colour Test** — recognisable from the bright green grass, colourful flowers, and warm sunlight alone?
+3. **Charm Test** — does it make a child want to run in and fly a kite with friends?
+
+If any test fails, reject.

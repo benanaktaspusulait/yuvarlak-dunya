@@ -1,6 +1,6 @@
 # Environment Bible — Milo's Pond
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass added.
 
 > This document describes the creative definition and production-ready specifications
 > for Milo's Pond. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-012
 File: 02-WORLDS/12-milos-pond/
-Version: 3.0
+Version: 3.1
 Location: Stone Hill yanı
 Type: Living World
 Status: Production Ready
@@ -707,6 +707,66 @@ Milo's Pond nasıl çekilir? Kamera göl alanı içinde doğal hareket eder.
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Milo's Pond must NOT be reduced to "a pond with lily pads." Reject Milo's
+> Pond if it looks like any generic body of water with no sense of quiet
+> discovery or gentle life on the surface.
+
+Milo's Pond is the calm, meditative water heart of Pompom Hills. It should
+feel like: **"I want to sit here quietly and watch the water."**
+
+### Iconic Landmark
+
+MP-POND-01 — the small round, clear pond dotted with floating lily pads
+(MP-LILY-01), always the calm centre of the scene. This is the primary
+visual anchor: the object that turns "a body of water" into "the pond where
+Milo watches fish and lily pads drift."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- MP-POND-01 — the round, clear blue-green pond (already a Locked Element, see World Identity Lock below)
+- MP-LILY-01 — 5-7 round green lily pads floating on the surface
+
+**Surface Charm**
+- gentle ripples spreading from the lily pads and stream entry
+- soft reflections of sky and reeds on the water surface
+
+**Small Prop Charm**
+- smooth round grey stepping stones along the pond's edge
+- tall gentle reeds framing one side of the pond
+- MP-DUCK-01 glimpsed occasionally near the shore
+
+**Motion Charm**
+- slow drifting of MP-LILY-01 across the surface
+- gentle sway of the reeds in the breeze
+
+### Forbidden Clutter
+
+```
+✗ deep or murky water
+✗ fast current
+✗ scary creatures
+✗ dirty or polluted water
+✗ sharp stones
+✗ tall waves
+✗ dark or stormy atmosphere
+✗ characters or logos in Hero View
+```
+
+### Thumbnail Hook
+
+A small round clear pond with lily pads drifting on the surface, soft reeds
+along the edge, and warm reflected light — inviting quiet contemplation.
+
+### Child Recognition Test
+
+**"The calm pond where lily pads float."**
+
+---
+
 ## Emotional Purpose
 
 Milo's Pond children'lere "huzur ve sessizlik" duygusunu aşılar. Su sesi, nilüfer yaprakları, balık gözlemi — her an bir nefes anı. Doğayla sessiz etkileşim, iç huzur ve merak duygularını besler.
@@ -909,8 +969,8 @@ Milo'nun gölü huzur mekanıdır.
 ---
 
 *Bu belge Milo's Pond mekanı için creative referanstır.*
-*Living World Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Living World Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*
 
 ---
 
@@ -921,3 +981,4 @@ Milo'nun gölü huzur mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = MP-POND-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |

@@ -21,6 +21,8 @@ Bu şablonu kullanarak yeni bölüm dosyası oluşturun.
 | --- | --- |
 | Süre | 90 saniye (6 sahne × 15 sn) |
 | Hedef yaş | 3-4 |
+| Series (varsa) | [Sub-series adı, örn. Opa's Storytime — yoksa "—"] |
+| Playlist (varsa) | [Playlist adı, örn. Opa's Storytime \| Gentle Preschool Stories — yoksa "—"] |
 | Ana duygu | [Duygu] |
 | Ana tema | [Tema] |
 | Mekan | [Mekan adı] |

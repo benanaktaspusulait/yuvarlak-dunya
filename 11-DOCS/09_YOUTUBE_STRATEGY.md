@@ -91,6 +91,7 @@ Release order:
 | Bedtime Stories | Evening viewing |
 | Nature & Discovery | Educational |
 | Best Of | New viewer entry |
+| Opa's Storytime \| Gentle Preschool Stories | Recurring interactive storytelling sub-series hosted by Opa; groups longer 60–120s episodes for session time and repeat viewing. See `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`. |
 
 ---
 
@@ -425,6 +426,29 @@ The strategy is to build recognition, trust and repeat viewing over time.
 
 ---
 
+==================================================
+14. RECURRING SUB-SERIES — OPA'S STORYTIME
+==================================================
+
+Opa's Storytime is a recurring interactive storytelling sub-series hosted by Opa, designed specifically to
+improve session time and repeat/playlist viewing.
+
+Full format, playlist description, episode naming, location rules, character combinations and metadata
+rules live in `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`. This section only records the
+strategic placement of the series within channel publishing.
+
+Placement in publishing cadence:
+
+- Opa's Storytime episodes run 60–120 seconds and count as a "long video" slot in the daily rhythm (§8).
+- Each episode still produces 3–5 Shorts under the same rules as other long videos (§7), tagged so they
+  drive viewers back to the Opa's Storytime playlist (see format doc §15–16).
+- Track each Opa's Storytime episode in `08-PRODUCTION/CONTENT_MATRIX.md` alongside other content.
+- Do not publish Opa's Storytime episodes so frequently that they crowd out core educational stories —
+  treat it as one recognisable lane among the channel's playlists (§Playlist Strategy), not the only format.
+
+---
+
 *This document defines the YouTube publishing strategy.*
 *Source of truth for: How finished content reaches the audience*
 *Channel Growth Decisions section last updated: 4 Temmuz 2026 (Meat.ai discussion)*
+*§14 Recurring Sub-Series added 4 Temmuz 2026.*

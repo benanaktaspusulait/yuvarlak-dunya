@@ -142,3 +142,51 @@ the warm gentle set defined above. Favor a soft, matte, natural material
 language over any glossy, metallic, or realistic rendering. Treat the
 meadow's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Pony Meadow must never be reduced to "a field with ponies."
+
+This layer protects Pony Meadow from becoming too plain. Keep the low
+wooden fence and gate readable and the small, round, fluffy ponies clearly
+in view — add only the canon-approved charm details below. Do not add
+random objects. Do not remove the gentle, tender, animal-friendship
+emotional identity.
+
+**Allowed charm details:** PM-PONY-01, the 2-3 small, round, fluffy ponies
+grazing just past the low wooden fence gate, is the primary landmark and
+must be visible in every exterior shot. The low wooden fence with its open,
+welcoming gate adds landmark charm alongside the ponies. PM-GRASS-01, the
+soft plush green grass across the whole meadow, and the gentle grass-wave
+patterns where the ponies walk, add surface charm. The small round wooden
+hut with a green roof, holding the feeding baskets, and the round carrot and
+apple baskets near the feeding corner, are the central reusable small props.
+Gentle motion — the slow, swaying pony walk with a gentle tail flick, and
+the soft sway of the grass in the breeze — keeps the world feeling alive
+without adding clutter.
+
+**Forbidden clutter:** a missing fence or gate, ponies that look large,
+wild, or realistic, riding equipment of any kind (saddles, reins, whips),
+fast or energetic pony movement, sharp corners anywhere, modern farm
+equipment, and a dull or muddy colour palette.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, gentle
+animal-friendship atmosphere, storybook meadow beauty, thumbnail-appeal
+composition, makes a child want to walk up slowly and say hello to a pony
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Pony Meadow from the low wooden fence, open gate, and grazing ponies alone?
+2. **Colour Test** — recognisable from the soft green grass, cream-brown ponies, and natural wood fence alone?
+3. **Charm Test** — does it make a child want to walk up slowly and say hello to a pony?
+
+If any test fails, reject.

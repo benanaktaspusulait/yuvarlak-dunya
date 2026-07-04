@@ -1,6 +1,6 @@
 # Environment Bible — Benny's Playground
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass. Canon identity unchanged.
 
 > This document describes the creative definition and production-ready specifications
 > for Benny's Playground. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-010
 File: 02-WORLDS/10-bennys-playground/
-Version: 3.0
+Version: 3.1
 Location: Central Square yanı
 Type: Living World
 Status: Production Ready
@@ -721,6 +721,67 @@ Benny's Playground nasıl çekilir? Kamera oyun alanı içinde doğal hareket ed
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Benny's Playground must NOT be reduced to "swings and a slide." If it looks
+> like any generic playground, reject it.
+
+Benny's Playground is the bright, energetic movement heart of Pompom Hills.
+It should feel like: **"I want to run in and swing, slide, and climb right away."**
+
+### Iconic Landmark
+
+BP-SLIDE-01 — the one round blue slide at the centre of the play space
+(already a Locked Element, see World Identity Lock below), flanked by the
+red-and-yellow swings and orange climbing hill. This is the primary visual
+anchor: the object that turns "an open field" into "the playground with the
+blue slide everyone runs toward."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- BP-SLIDE-01 — the round blue slide, centre of the playground
+- colourful entrance gate with the rounded "Benny's Playground" welcome sign
+
+**Surface Charm**
+- soft plush green grass ground surface across the whole play space
+- soft rounded steps on the orange climbing hill
+
+**Small Prop Charm**
+- BP-BALLPIT-01 round ball pit with red/yellow/blue/green/purple balls
+- soft wooden bench in the shaded rest corner
+
+**Motion Charm**
+- red and yellow swings swaying rhythmically
+- balls gently rolling and bouncing in the ball pit
+
+### Forbidden Clutter
+
+```
+✗ metal equipment
+✗ tall or dangerous structures
+✗ sharp corners anywhere
+✗ fast or dangerous movement
+✗ broken equipment
+✗ cold colours
+✗ hard ground surface
+✗ dark or threatening lighting
+✗ large crowds
+✗ competitive scoring elements
+```
+
+### Thumbnail Hook
+
+A bright, colourful round playground with the blue slide, red-and-yellow
+swings, and a ball pit glowing under open sunshine — instantly inviting play.
+
+### Child Recognition Test
+
+**"The park where I can swing, slide, and jump in the ball pit."**
+
+---
+
 ## Emotional Purpose
 
 Benny's Playground children'lere "eğlence ve özgürlük" duygusunu aşılar. Salıncakta sallanmak, kaydıraktan kaymak, toplarla oynamak — her an bir macera. Güvenli hareket, arkadaşlık ve neşe bir arada yaşar.
@@ -925,8 +986,8 @@ This Living World is designed to provide a safe, dynamic environment for stories
 ---
 
 *Bu belge Benny's Playground mekanı için creative referanstır.*
-*Living World Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Living World Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*
 
 ---
 
@@ -937,3 +998,4 @@ This Living World is designed to provide a safe, dynamic environment for stories
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |

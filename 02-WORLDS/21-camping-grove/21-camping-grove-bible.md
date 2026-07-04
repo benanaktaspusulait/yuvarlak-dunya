@@ -1,6 +1,6 @@
 # Environment Bible — Camping Grove
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass added.
 
 > This document describes the creative definition and production-ready specifications
 > for Camping Grove. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-021
 File: 02-WORLDS/21-camping-grove/
-Version: 3.0
+Version: 3.1
 Location: Tree Hill yanı
 Type: Living World
 Status: Production Ready
@@ -717,6 +717,64 @@ Close-up of round campfire stones with warm embers. Safe flame contained within 
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Camping Grove must NOT be reduced to "tents in a forest." Reject Camping
+> Grove if the fire circle is missing or the night sky feels ordinary rather
+> than magical.
+
+Camping Grove is the warm, starlit gathering place of Pompom Hills. It
+should feel like: **"I want to sit by that fire and hear a story under the stars."**
+
+### Iconic Landmark
+
+CG-FIRE-01 — the round stone fire circle at the centre of the grove, glowing
+warm orange, always the heart of every scene here. This is the primary
+visual anchor: the element that turns "tents in a forest" into "the campfire
+circle where stories are told."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- CG-FIRE-01 — the round stone-ringed campfire with warm contained flame (already a Locked Element, see World Identity Lock below)
+- CG-TENT-01 — the 3-4 round, colourful domed tents circling the fire
+
+**Surface Charm**
+- the deep starlit night sky with many soft glowing stars overhead
+- warm firelight patterns dancing on nearby grass and tent walls
+
+**Small Prop Charm**
+- smooth round sitting stones arranged near the fire
+- a soft round moon visible above the treeline
+
+**Motion Charm**
+- gentle flicker and warm glow of CG-FIRE-01
+- soft twinkling of the stars overhead
+
+### Forbidden Clutter
+
+```
+✗ open or uncontained flame
+✗ missing fire circle
+✗ dark, scary, or dense forest surroundings
+✗ ordinary daytime sky instead of stars
+✗ sharp corners anywhere
+✗ modern camping gear (metal, plastic, gas equipment)
+✗ cold or desaturated night colours
+```
+
+### Thumbnail Hook
+
+A cosy circle of round colourful tents around a warm glowing campfire, with
+a deep starlit sky overhead.
+
+### Child Recognition Test
+
+**"The campfire circle where Tillo tells stories under the stars."**
+
+---
+
 ## Emotional Purpose
 
 Camping Grove, çocukların geceyi güvenli ve sıcak hissettiği bir mekan. Kamp ateşi etrafında toplanmak, yıldızları izlemek, masal dinlemek — burada gece korku değil, macera hissi verir.
@@ -930,3 +988,4 @@ Camping Grove macera mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = CG-FIRE-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Camping Grove could be described as only "tents in a forest." No changes to World Identity Lock or pipeline. | — |

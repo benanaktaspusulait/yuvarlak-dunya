@@ -206,3 +206,46 @@ The crossing journey — the colour immersion — should feel magical and unhurr
 | Environmental rhythm | Rainbow, water, sparkle all move on the same magical breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Rainbow Bridge must never be reduced to "a colourful bridge."
+
+This layer protects Rainbow Bridge from becoming too plain. Keep the
+six-colour rainbow arching overhead and touching the bridge always visible
+and readable — add only the canon-approved charm details below. Do not add
+random objects. Do not remove the magical wish-crossing emotional identity.
+
+**Allowed charm details:** RB-RAINBOW-01, the six-colour rainbow arching
+overhead and touching the bridge, is the primary landmark and must be
+visible in every wide shot. RB-BRIDGE-01, the rounded colourful bridge
+surface, and the smooth pastel RB-STONES-01 wishing stones lined along the
+edges, plus RB-RAILING-01, the colourful rounded railings, add landmark and
+small-prop charm. RB-SPARKLE-01, the drifting magical sparkle effects, and
+RB-WATER-01, the gentle flowing water beneath, keep the world feeling alive
+with motion charm.
+
+**Forbidden clutter:** darkness or storm atmosphere, broken or damaged
+bridge structure, sharp or rough stones, dull or desaturated colours, sharp
+corners anywhere, and fast or jarring movement.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, magical
+wish-crossing atmosphere, storybook rainbow beauty, thumbnail-appeal
+composition, makes a child want to cross the bridge and make a wish
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Rainbow Bridge from the rounded bridge shape and rainbow arc alone?
+2. **Colour Test** — recognisable from the six-colour rainbow spectrum and pastel wishing stones alone?
+3. **Charm Test** — does it make a child want to cross the bridge and make a wish?
+
+If any test fails, reject.

@@ -1,6 +1,7 @@
 # Environment Bible — Art Corner
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass added.
+> Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
 
 > This document describes the creative definition and production-ready specifications
 > for Art Corner. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +12,7 @@
 ```
 Environment ID: ENV-023
 File: 02-WORLDS/23-art-corner/
-Version: 3.0
+Version: 3.1
 Location: Story Circle yanı
 Type: Living World
 Status: Production Ready
@@ -701,6 +702,64 @@ Art Corner nasıl çekilir? Kamera stüdyo alanı içinde doğal hareket eder.
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Art Corner must NOT be reduced to "some easels outside." Reject Art
+> Corner if the canvases feel empty or the space doesn't read as a joyful,
+> colourful creative studio.
+
+Art Corner is the open-air creative studio of Pompom Hills. It should feel
+like: **"I want to pick up a brush and paint something."**
+
+### Iconic Landmark
+
+AC-EASEL-01 — a round wooden easel holding a canvas mid-painting, with a
+vividly colourful palette of paints beside it, always the centrepiece of
+the space. This is the primary visual anchor: the element that turns "some
+tables outside" into "the studio where Sofia creates."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- AC-EASEL-01 — the round wooden easel with an in-progress canvas (already a Locked Element, see World Identity Lock below)
+- the round wooden display wall showing finished, colourful artwork
+
+**Surface Charm**
+- AC-PAINT-01 — the vividly colourful paint palette with many hues visible
+- soft paint-splash patterns on the round wooden tables
+
+**Small Prop Charm**
+- a cluster of round-handled paintbrushes resting in a water cup
+- small stacks of blank canvases waiting nearby
+
+**Motion Charm**
+- gentle drip or swirl of wet paint on the palette
+- soft sway of nearby leaves providing dappled natural light
+
+### Forbidden Clutter
+
+```
+✗ empty or blank canvases with no visible art
+✗ dull, muted, or monochrome palette
+✗ messy or dirty-looking paint spills
+✗ sharp-edged easels or furniture
+✗ modern art tools (spray cans, digital tablets)
+✗ cluttered disorganised supply piles
+✗ dark or gloomy lighting
+```
+
+### Thumbnail Hook
+
+A round wooden easel with a colourful painting in progress, a vivid paint
+palette beside it, glowing in warm natural light.
+
+### Child Recognition Test
+
+**"The outdoor painting corner where Sofia makes colourful art."**
+
+---
+
 ## Emotional Purpose
 
 Art Corner, çocukların kendilerini özgürce ifade ettiği bir sığınak. Burada "yanlış" yok — her fırça darbesi, her renk karışımı bir keşif. Sıcak güneş ışığı, doğa sesleri ve renkli palet, çocuklara yaratıcılığın güvenli olduğunu hissettirir.
@@ -845,3 +904,4 @@ Art Corner yaratıcılık mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = AC-EASEL-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Art Corner could be described as only "some easels outside." No changes to World Identity Lock or pipeline. | — |

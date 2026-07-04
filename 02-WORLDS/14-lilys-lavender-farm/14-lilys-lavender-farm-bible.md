@@ -1,6 +1,6 @@
 # Environment Bible — Lily's Lavender Farm
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass.
 
 > This document describes the creative definition and production-ready specifications
 > for Lily's Lavender Farm. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-014
 File: 02-WORLDS/14-lilys-lavender-farm/
-Version: 3.0
+Version: 3.1
 Location: Butterfly Meadow yanı
 Type: Living World
 Status: Production Ready
@@ -748,8 +748,8 @@ This Living World is designed to provide a sensory-rich environment for stories 
 ---
 
 *Bu belge Lily's Lavender Farm mekanı için creative referanstır.*
-*Living World Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Living World Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*
 
 ---
 
@@ -816,6 +816,65 @@ Tek Hero View 사용, Hero zorunlu.
 ## Emotional Tone
 
 Huzurlu, mor, doğal.
+
+---
+
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Lily's Lavender Farm must NOT be reduced to "a purple field."
+
+Lily's Lavender Farm is the aromatic sensory heart of Pompom Hills. It should
+feel like: **"I want to walk between the purple rows and follow the scent to the windmill."**
+
+### Iconic Landmark
+
+LF-MILL-01 — the round white windmill with wooden blades. This is the primary
+visual anchor: the object that turns "a lavender field" into "the farm where
+the windmill turns above the purple rows."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- LF-MILL-01, the round white windmill with rotating wooden blades — already a Locked Element, see World Identity Lock below
+- LF-HIVE-01, the round wooden bee houses clustered near the lavender rows
+
+**Surface Charm**
+- the long deep-purple lavender rows running in soft curved lines
+- the round grey stone path winding between the rows
+
+**Small Prop Charm**
+- the wooden farm gate with its round-top welcome sign
+- the wooden rest bench under the shade tree at the Rest Bench zone
+
+**Motion Charm**
+- gentle bee buzzing and movement around LF-HIVE-01
+- the slow, rhythmic rotation of the windmill's wooden blades
+- soft lavender sway carrying scent on the breeze
+
+### Forbidden Clutter
+
+```
+✗ thorns anywhere
+✗ scary or threatening bees
+✗ faded or dull purple — lavender stays deep and vivid
+✗ bad smell implied — scent is always pleasant
+✗ sharp corners anywhere
+✗ fast or jarring movement
+✗ dark or high-contrast lighting
+✗ large crowds
+✗ metal surfaces — everything reads as natural wood and stone
+✗ artificial scent effects
+```
+
+### Thumbnail Hook
+
+A wide view of endless deep-purple lavender rows with the white windmill
+turning gently against a warm golden sky.
+
+### Child Recognition Test
+
+**"The purple flower farm where the windmill turns."**
 
 ---
 
@@ -922,3 +981,4 @@ Lily's Lavender Farm huzur ve güzellik mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = LF-MILL-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where the farm could be described as only "a purple field." No changes to World Identity Lock or pipeline. | ❌ |

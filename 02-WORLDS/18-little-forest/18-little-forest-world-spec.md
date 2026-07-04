@@ -146,3 +146,56 @@ the warm natural set defined above. Favor a soft, matte, natural material
 language over any glossy, metallic, or realistic rendering. Treat the
 forest's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Little Forest must never be reduced to "some trees."
+
+This layer protects Little Forest from becoming too plain. Keep the round
+tree silhouette and the mushroom circle readable — add only the
+canon-approved charm details below. Do not add random objects. Do not remove
+the safe, magical, discovery-woodland emotional identity.
+
+**Allowed charm details:** LF-MUSHROOM-01, the round red-and-white mushroom
+circle beneath the canopy, is the primary landmark and must be visible as
+the destination of every path through the forest. LF-TREE-01, the cluster
+of round, plush-crowned trees in varied greens, defines the forest's main
+silhouette. Soft dappled light patterns filtering through the leaves and a
+scattering of colourful fallen leaves along the path add surface charm.
+LF-BIRD-01 glimpsed on a low branch, a small friendly squirrel peeking from
+a tree hollow, and smooth round stepping stones marking the path are the
+central reusable small props. Gentle motion — the sway of the tree
+canopies and LF-BIRD-01 fluttering off in slow, friendly arcs — keeps the
+world feeling alive without adding clutter.
+
+**Forbidden clutter:** a dark, dense, or scary forest, no mushroom circle
+visible, large or threatening creatures, sharp branches or thorny
+undergrowth, tangled or impassable-looking paths, sharp corners anywhere,
+and muted, cold, or desaturated colours.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, safe magical
+discovery-woodland atmosphere, storybook charm, thumbnail-appeal
+composition, makes a child want to peek behind that tree and see what's
+there
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Little Forest from the cluster of round, plush-crowned trees alone?
+2. **Colour Test** — recognisable from the varied warm greens and the red-and-white mushroom circle alone?
+3. **Charm Test** — does it make a child want to peek behind a tree and see what's there?
+
+If any test fails, reject.
+
+---
+
+*Little Forest — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

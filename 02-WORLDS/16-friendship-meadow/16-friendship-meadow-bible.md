@@ -1,6 +1,7 @@
 # Environment Bible — Friendship Meadow
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass added.
+> Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
 
 > This document describes the creative definition and production-ready specifications
 > for Friendship Meadow. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +12,7 @@
 ```
 Environment ID: ENV-016
 File: 02-WORLDS/16-friendship-meadow/
-Version: 3.0
+Version: 3.1
 Location: Merkez civarı
 Type: Living World
 Status: Production Ready
@@ -710,6 +711,64 @@ Friendship Meadow nasıl çekilir? Kamera çayır alanı içinde doğal hareket 
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Friendship Meadow must NOT be reduced to "an open field." Reject
+> Friendship Meadow if it is only empty grass with no sense of togetherness,
+> play, or shared activity.
+
+Friendship Meadow is the open-hearted gathering field of Pompom Hills. It
+should feel like: **"I want to run in and fly a kite with my friends."**
+
+### Iconic Landmark
+
+FM-KITE-01 — a cluster of colourful round kites drifting in the sky above
+the wide open meadow, always visible against the open horizon. This is the
+primary visual anchor: the object that turns "a grass field" into "the
+meadow where friends fly kites together."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- FM-KITE-01 — 2-3 colourful round kites drifting overhead (new reusable asset)
+- the gentle rounded hill silhouette at the meadow's edge
+
+**Surface Charm**
+- FM-GRASS-01 — the soft green grass with a natural wave pattern
+- clusters of FM-FLOWERS-01 (red, yellow, purple) marking the path edges
+
+**Small Prop Charm**
+- a round woven picnic basket and blanket, when the scene calls for a picnic
+- smooth grey stepping stones marking the entrance path
+
+**Motion Charm**
+- kites drifting and dipping gently in the wind
+- soft waves moving through the grass
+
+### Forbidden Clutter
+
+```
+✗ empty bare field with nothing to anchor the eye
+✗ narrow or cramped space
+✗ sharp corners anywhere
+✗ modern playground equipment
+✗ competitive game markings (goals, lines, scoreboards)
+✗ large crowds — a few friends is enough
+✗ dark or gloomy lighting
+```
+
+### Thumbnail Hook
+
+A wide, sunny green meadow with colourful kites drifting overhead and a
+picnic blanket spread on the soft grass — an invitation to come play.
+
+### Child Recognition Test
+
+**"The big grassy field where friends fly kites and share picnics."**
+
+---
+
 ## Emotional Purpose
 
 Friendship Meadow children'lere "birliktelik ve neşe" duygusunu aşılar. Birlikte uçurtma uçurmak, piknik yapmak, oyun oynamak — her an bir paylaşım anı. Dostluk, işbirliği ve özgürlük bir arada yaşar.
@@ -904,3 +963,4 @@ Friendship Meadow arkadaşlık mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = FM-KITE-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Friendship Meadow could be described as only "an open field." No changes to World Identity Lock or pipeline. | — |

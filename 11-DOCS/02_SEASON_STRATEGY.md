@@ -142,6 +142,18 @@ The audience should feel satisfied but eager for more.
 
 ---
 
+## Recurring Sub-Series
+
+Not every recurring format needs to be a full season arc. A recurring **sub-series** groups episodes across seasons around one repeatable format, host character, and YouTube playlist, independent of season numbering.
+
+| Sub-series | Host | Format doc | Playlist |
+|---|---|---|---|
+| Opa's Storytime | Opa + 2-3 child characters | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` | Opa's Storytime \| Gentle Preschool Stories |
+
+Sub-series episodes still count toward season episode totals and still follow the season's onboarding policy (below) for any new character or world they introduce. They are tracked separately in `08-PRODUCTION/CONTENT_MATRIX.md` and the relevant playlist in `11-DOCS/09_YOUTUBE_STRATEGY.md` §Playlist Strategy.
+
+---
+
 ## Character and World Onboarding Policy
 
 ### 1. Core Rule

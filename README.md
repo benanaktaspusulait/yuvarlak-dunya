@@ -74,6 +74,7 @@ yuvarlak-dunya/
 | YouTube yükleme | `07-BRANDING/YOUTUBE_WORKFLOW.md` |
 | YouTube metadata (title/description/tags/Shorts) | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |
 | Video stili, pacing, hook, retention | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
+| Opa's Storytime (interactive storytelling sub-series, format, playlist) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` |
 | Bölüm detayları | `04-SCENES/season-01/{bolum}/` |
 | Üretim takibi | `08-PRODUCTION/` |
 | Mekan görselleri (PNG) | `environment/NN-slug.png` veya çok görünümlü `environment/NN-slug/hero-view.png` |

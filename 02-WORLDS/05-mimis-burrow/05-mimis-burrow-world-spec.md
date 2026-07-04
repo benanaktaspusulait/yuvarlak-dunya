@@ -196,3 +196,53 @@ Entrance crossing — the transition from outside to underground — must not be
 | Environmental rhythm | All movement on the same slow breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Mimi's Burrow must never be reduced to "a hole in the ground."
+
+This layer protects Mimi's Burrow from becoming too plain. Keep the round
+blue entrance readable and the cozy underground silhouette clear — add only
+the canon-approved charm details below. Do not add random objects. Do not
+remove the hidden, safe, cozy-hideaway emotional identity.
+
+**Allowed charm details:** MB-DOOR-01, the round blue entrance frame with
+warm interior light always spilling out, is the primary landmark and must be
+visible in every exterior shot. MB-FLOWERS-01 growing on top of the entrance
+mound and MB-STONES-01, the three round grey stepping stones, plus
+MB-GRASS-01 above the burrow, add surface and landmark charm. Inside,
+MB-PILLOW-01 (the round blue plush pillow) and MB-CARROT-BOX-01 (the round
+orange carrot box) are the central reusable small props. Gentle motion —
+MB-FLOWERS-01 swaying above the entrance and Mimi's soft ear-flop/hop at the
+threshold — keeps the world feeling alive without adding clutter.
+
+**Forbidden clutter:** a dark or cold interior, sharp edges anywhere, large
+or oversized furniture, frightening elements or creatures, an entrance that
+is not round or not blue, metal or plastic materials, and any loud sounds or
+sudden fast motion.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, cozy hidden
+underground atmosphere, storybook secret-hideaway beauty, thumbnail-appeal
+composition, makes a child want to peek inside the little blue doorway
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Mimi's Burrow from the round blue entrance beneath the grass alone?
+2. **Colour Test** — recognisable from the soft blue frame, green grass, and warm interior glow alone?
+3. **Charm Test** — does it make a child want to peek inside the cozy blue doorway?
+
+If any test fails, reject.
+
+---
+
+*Mimi's Burrow — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

@@ -1,6 +1,6 @@
 # Environment Bible — Mimi's Burrow
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass added.
 > Mimi'nin yuvası, yeraltında güvenli bir sığınaktır. Çocuklar için "kendilerine ait bir yer" hissi.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-005
 File: 02-WORLDS/05-mimis-burrow/
-Version: 3.0
+Version: 3.1
 Location: Flower Hill
 Type: Living World (Exterior + Interior)
 Status: Design
@@ -525,6 +525,63 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Mimi's Burrow must NOT be reduced to "a hole in the ground."
+
+Mimi's Burrow is the cozy hidden hideaway of Pompom Hills. It should feel
+like: **"I want to peek inside that little blue doorway."**
+
+### Iconic Landmark
+
+MB-DOOR-01 — the round blue entrance frame set beneath the grass, with
+flowers on top and warm light spilling out. This is the primary visual
+anchor: the object that turns "a hole in the ground" into "the secret cozy
+home you can see glowing from outside."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- MB-DOOR-01 — round blue entrance frame (#90CAF9) with warm interior light always visible spilling out (already a Locked Element, see World Identity Lock below)
+- MB-FLOWERS-01 — the small round flowers growing on top of the entrance mound
+
+**Surface Charm**
+- MB-STONES-01 — the three round grey stepping stones leading to the entrance
+- MB-GRASS-01 — the soft green grass above the burrow
+
+**Small Prop Charm**
+- MB-PILLOW-01 — the round blue plush pillow, the central interior element
+- MB-CARROT-BOX-01 — the round orange carrot box with 2-3 carrots inside
+
+**Motion Charm**
+- the gentle sway of MB-FLOWERS-01 above the entrance
+- Mimi's soft ear-flop and hop motion at the entrance threshold
+
+### Forbidden Clutter
+
+```
+✗ dark or cold interior
+✗ sharp edges anywhere
+✗ large furniture or oversized objects
+✗ frightening elements or creatures
+✗ entrance that is not round or not blue
+✗ metal or plastic materials
+✗ loud sounds or sudden fast motion
+✗ characters or logos in Hero View
+```
+
+### Thumbnail Hook
+
+A round blue burrow entrance glowing with warm light beneath flower-topped
+grass, with a stepping-stone path leading right up to the door.
+
+### Child Recognition Test
+
+**"Mimi'nin toprağın altındaki mavi kapılı gizli evi."** ("Mimi's secret blue-doored home under the ground.")
+
+---
+
 ## Emotional Purpose (Özet)
 
 Mimi'nin yuvası, çocukların "kendilerine ait bir yer" hissini yaşadığı sığınak. Yeraltında olmak korkutucu değil — gizli bir dünya, sadece onlara ait. Sıcak mavi ışık, yumuşak yastık ve havuç kutusu, "burası benim" hissini pekiştirir.
@@ -764,6 +821,7 @@ Dışarıdan giriş → Taş yolu → Mavi çerçeve → İç mekan → Yastık 
 | 2.0 | Production pipeline standardına geçirme | — |
 | 2.1 | Düzeltmeler | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = MB-DOOR-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -778,5 +836,5 @@ Dışarıdan giriş → Taş yolu → Mavi çerçeve → İç mekan → Yastık 
 ---
 
 *Bu belge Mimi's Burrow mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

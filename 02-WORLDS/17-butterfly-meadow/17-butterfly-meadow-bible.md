@@ -1,6 +1,6 @@
 # Environment Bible — Butterfly Meadow
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1). Visual Richness Update.
 
 > This document describes the creative definition and production-ready specifications
 > for Butterfly Meadow. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +11,7 @@
 ```
 Environment ID: ENV-017
 File: 02-WORLDS/17-butterfly-meadow/
-Version: 3.0
+Version: 3.1
 Location: Flower Hill civarı
 Type: Living World
 Status: Production Ready
@@ -706,6 +706,64 @@ Butterfly Meadow nasıl çekilir? Kamera çayır alanı içinde doğal hareket e
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Butterfly Meadow must NOT be reduced to "a flower field." Its identity is
+> the butterflies themselves — reject it if the butterflies feel incidental
+> rather than the main event.
+
+Butterfly Meadow is the enchanted butterfly-dance meadow of Pompom Hills. It
+should feel like: **"I want to stand very still and watch the butterflies dance."**
+
+### Iconic Landmark
+
+BM-BUTTERFLY-01 — a drifting cloud of pastel butterflies (pink, purple,
+yellow) dancing in slow curved paths just above the flowers. This is the
+primary visual anchor: the element that turns "a flower field" into "the
+meadow where butterflies dance in the air."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- BM-BUTTERFLY-01 — a visible cluster of at least 5-6 pastel butterflies in flight, always present in wide shots (already a Locked Element, see World Identity Lock below)
+- the soft rolling meadow silhouette with low hills at the edges
+
+**Surface Charm**
+- BM-FLOWERS-01 — the pastel flower carpet the butterflies dance above
+- gentle grass-wave patterns rippling beneath the butterfly flight paths
+
+**Small Prop Charm**
+- a soft round stepping-stone path winding through the flowers
+- one or two low shade trees at the meadow's edge
+
+**Motion Charm**
+- slow, curved, looping butterfly flight paths (never straight lines)
+- gentle sway of BM-FLOWERS-01 as the breeze passes
+
+### Forbidden Clutter
+
+```
+✗ meadow with too few or no visible butterflies
+✗ fast or jittery butterfly movement
+✗ dark, black, or harsh-coloured butterflies
+✗ scary insects
+✗ dense, cluttered flower coverage that hides the butterflies
+✗ sharp corners anywhere
+✗ dull or desaturated palette
+```
+
+### Thumbnail Hook
+
+A soft pastel flower meadow with a cloud of butterflies dancing in slow
+curves above the blooms, glowing in warm afternoon light.
+
+### Child Recognition Test
+
+**"The meadow where the butterflies dance."**
+
+---
+
 ## Emotional Purpose
 
 Butterfly Meadow children'lere "hayranlık ve büyü" duygusunu yaşatır. Kelebeklerin dansı, çiçeklerin renk cümbüşü, rüzgarın hışırtısı — her anı bir masal anı. Doğanın güzelliğine karşı sakin bir hayranlık hissi yaratır.
@@ -919,3 +977,4 @@ Butterfly Meadow büyü mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = BM-BUTTERFLY-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Butterfly Meadow could be described as only "a flower field." No changes to World Identity Lock or pipeline. | — |

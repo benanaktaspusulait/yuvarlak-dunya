@@ -193,3 +193,51 @@ The journey from outside to inside — the temperature and humidity change — s
 | Environmental rhythm | All movement on the same warm, humid breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Lulu's Greenhouse must never be reduced to "a glass building with plants."
+
+This layer protects Lulu's Greenhouse from becoming too plain. Keep the
+rounded glass silhouette clear and add only the canon-approved charm details
+below. Do not add random objects. Do not remove the warm, humid, nurturing
+emotional identity.
+
+**Allowed charm details:** the LG-GLASS-01 rounded glass panels in their
+LG-FRAME-01 wooden frame stay the iconic landmark, always revealing the green
+interior. Surface charm comes from LG-CONDENSATION-01 droplets on the glass
+and the warm golden interior glow (#FFF9C4). Small prop charm comes from
+LG-POT-01 round pots lined up on LG-SHELF-01 shelves and the LG-CAN-01
+watering can. Motion charm comes from the gentle sway of LG-PLANTS-01 leaves.
+
+**Forbidden clutter:** broken or cracked glass, wilting or dead plants, a
+dark unlit interior, sharp corners or edges, a cold blue colour cast, a dry
+atmosphere with no condensation, a generic industrial greenhouse or cold
+conservatory look, and any text, logos, or modern signage.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm humid
+glasshouse atmosphere with glowing condensation, storybook beauty,
+thumbnail-appeal composition, makes a child want to press their nose
+against the glass and peek at the green world inside
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Lulu's Greenhouse from the rounded glass-and-frame shape alone?
+2. **Colour Test** — recognisable from the warm golden-and-green palette alone?
+3. **Charm Test** — does it make a child want to peek through the glass at the plants?
+
+If any test fails, reject.
+
+---
+
+*Lulu's Greenhouse — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

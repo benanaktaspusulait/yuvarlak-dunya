@@ -39,6 +39,7 @@ Her konu için tek yetkili dosya vardır. Bu dosyalar `00-CORE/` dizinindedir:
 | Prompt değişkenleri | `VARIABLES.md` |
 | Yasak listeler | `NEGATIVE_PROMPTS.md` |
 | Süreklilik kuralları | `CONTINUITY_RULES.md` |
+| Opa's Storytime serisi (format, playlist, bölüm isimlendirme) | `31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` |
 
 **Kural:** Bir kural bir kez yazılır. Bölüm dosyaları bu kurallara referans verir, tekrar etmez.
 

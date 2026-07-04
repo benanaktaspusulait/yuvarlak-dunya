@@ -1,6 +1,6 @@
 # Environment Bible — Rainbow Creek
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass. Canon identity unchanged.
 > Rainbow Creek, sakinlik ve doğa hissi veren doğal bir su yoludur.
 
 ---
@@ -8,7 +8,7 @@
 ```
 Environment ID: ENV-019
 File: 02-WORLDS/19-rainbow-creek/
-Version: 3.0
+Version: 3.1
 Location: Stone Hill → Flower Hill arası
 Type: Exterior World
 Status: Design
@@ -535,6 +535,65 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Rainbow Creek must NOT be reduced to "a stream and some rocks." If Rainbow
+> Creek looks like any generic drainage ditch, reject it.
+
+Rainbow Creek is the natural waterway and quiet-observation heart of Pompom
+Hills. It should feel like: **"I want to sit on a colourful stone and watch
+the fish glide by."**
+
+### Iconic Landmark
+
+RC-BRIDGE-01 — the small, low, round wooden bridge crossing the creek at its
+midpoint. This is the primary visual anchor: the object that turns "a
+stream" into "the stream you cross on the little bridge."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- RC-BRIDGE-01 — low round wooden bridge with railings, spanning the creek at its midpoint
+- gentle stone-lined banks curving alongside the water
+
+**Surface Charm**
+- RC-STONES-01 — smooth round rainbow-coloured stones (pink, yellow, blue, green) lining both banks
+- sunlight sparkle drifting across the moving water surface
+
+**Small Prop Charm**
+- RC-FISH-01 — small friendly fish families visible gliding beneath the surface
+- RC-FLOWERS-01 — colourful flowers scattered along the banks
+- RC-LEAVES-01 — a few leaves floating gently on the water
+
+**Motion Charm**
+- gentle continuous water flow and light sparkle
+- RC-FISH-01 swimming slowly and peacefully
+
+### Forbidden Clutter
+
+```
+✗ empty plain stream with no bridge or stones
+✗ deep or murky water
+✗ fast rushing rapids or waterfall
+✗ generic drainage ditch look
+✗ cold blue-grey water tone
+✗ dark overhanging vegetation
+✗ thorny plants or scary creatures
+✗ sharp rocky edges
+```
+
+### Thumbnail Hook
+
+A sparkling shallow creek lined with rainbow-coloured stones and a cozy
+little wooden bridge, inviting a peaceful walk.
+
+### Child Recognition Test
+
+**"The stream with the colourful stones and the little bridge."**
+
+---
+
 ## Emotional Purpose (Özet)
 
 Rainbow Creek, children'lere "huzur ve sakinlik" duygusunu verir. Yavaş akan su, yuvarlak renkli taşlar, küçük köprü — her şey meditatif bir atmosfer yaratır. Stres yok, acele yok; sadece suyun huzurlu akışı.
@@ -783,6 +842,7 @@ Stone Hill → Çay başlangıcı → Taşlar → Köprü → Flower Hill
 | 2.0 | Production pipeline standardına geçirme | — |
 | 2.1 | Düzeltmeler | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD'a tam uyum — 35 bölüm, world-spec eklendi | ✅ Breaking |
+| 3.1 | Visual Richness Update. Added `## Visual Richness & World Charm` section (Iconic Landmark, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
 
 ---
 
@@ -797,5 +857,5 @@ Stone Hill → Çay başlangıcı → Taşlar → Köprü → Flower Hill
 ---
 
 *Bu belge Rainbow Creek mekanı için creative referanstır.*
-*Environment Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Environment Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*

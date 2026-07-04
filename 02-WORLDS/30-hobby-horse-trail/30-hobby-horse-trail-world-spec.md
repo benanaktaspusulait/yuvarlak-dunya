@@ -213,3 +213,55 @@ The journey from selection to celebration — the cooperative walk — should fe
 | Environmental rhythm | All movement on the same playful, gentle breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Hobby Horse Trail must never be reduced to "a path with some flags."
+
+This layer protects Hobby Horse Trail from becoming too plain. Keep the
+world readable and the winding path silhouette clear — add only the
+canon-approved charm details below. Do not add random objects. Do not
+remove the imaginative, cooperative, joyful adventure-trail identity.
+
+**Allowed charm details (use, do not omit):**
+- HH-ARCH-01, the flower arch at the trail's midpoint — primary landmark, always present in midpoint shots
+- HH-BRIDGE-01, the small curved wooden bridge over the gentle dip
+- round stepping stones set into the soft grass path
+- HH-BELL-01, the wooden bell pole near the rest area
+- HH-LOG-01, the round resting log near the story sign
+- HH-BUNTING-01, gently swaying colourful bunting flags along the path
+
+**Forbidden clutter:** empty plain dirt path with no decoration, race track lane markings or timing lines, timer or scoreboard or competitive finish-line tape, real or realistic horses, sharp fences or hurdles or angular obstacles, speed or hazard signage, generic park path indistinguishable from any other trail.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+Technical Canon = geometry, landmarks, colours, scale, lighting, forbidden
+elements (defined above in this spec). Add this Art Direction Layer whenever
+writing or regenerating a Hero View prompt — technical-only prompts tend to
+produce safe but boring paths:
+
+```text
+premium preschool animation, handcrafted toy-set feeling, cheerful
+storybook adventure-trail atmosphere, storybook beauty, thumbnail-appeal
+composition, makes a child want to pick a hobby horse and ride off down
+the path
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Hobby Horse Trail from the winding path shape and flower arch alone?
+2. **Colour Test** — recognisable from the bunting and hobby-horse colour palette alone?
+3. **Charm Test** — does it make a child want to pick a hobby horse and set off on an adventure?
+
+If any test fails, reject — see Generation Failures table above and
+`30-hobby-horse-trail-bible.md` § Forbidden Over-Simplification.
+
+---
+
+*Hobby Horse Trail — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

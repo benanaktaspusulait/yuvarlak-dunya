@@ -122,3 +122,52 @@ Safe. Warm. Creative. Curious. Joyful. Educational. Cozy. Peaceful. Magical. Eve
 ## Generation Considerations
 
 The room must be generated as a single connected learning space with soft activity zones, not as separate walled areas — this is the defining trait and the most common failure point. Keep all shapes rounded with no sharp corners anywhere. Keep the colour palette limited to warm pastels and natural wood. Favour a soft, matte, handcrafted material language over any glossy, metallic, or photorealistic rendering. The room's identity — its warmth, its roundness, its handcrafted feel — must be preserved exactly across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Learning Room must never be reduced to "a classroom."
+
+This layer protects Learning Room from becoming too plain. Keep the round
+table and chalkboard readable and the cosy wooden-cottage silhouette clear —
+add only the canon-approved charm details below. Do not add random objects.
+Do not remove the warm, curious, handcrafted learning-cottage emotional
+identity.
+
+**Allowed charm details:** LR-TABLE-01, the big round wooden activity table
+with small round chairs, is the primary landmark and must be visible in
+every hero shot, paired with LR-BOARD-01, the round chalkboard with simple
+hand-drawn chalk illustrations. Warm morning sunlight streaming through the
+arched windows and LR-PLANTS-01, indoor plants scattered around the room,
+add surface charm. On the table and shelves, LR-CRAYONS-01 and LR-BLOCKS-01
+sit ready for use, while LR-GLOBE-01 and LR-MAGNIFY-01 rest on the nature
+shelf; LR-BUNTING-01 and LR-CLOUD-MOBILE-01 add soft decorative touches.
+Gentle motion — the LR-CLOUD-MOBILE-01 drifting from the ceiling and
+LR-PLANTS-01 leaves swaying near the open window — keeps the room feeling
+alive without adding clutter.
+
+**Forbidden clutter:** modern classroom furniture (metal desks, plastic
+chairs), readable text or writing on the chalkboard, technology (tablets,
+computers, screens), sharp corners anywhere, cold or fluorescent lighting,
+cluttered or disorganised shelves, and licensed characters or logos
+anywhere.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, cozy wooden
+learning-cottage atmosphere, storybook curiosity and warmth, thumbnail-appeal
+composition, makes a child want to sit at the round table and make something
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Learning Room from the round table and round chalkboard alone?
+2. **Colour Test** — recognisable from the warm cream walls, natural wood tones, and morning sunlight alone?
+3. **Charm Test** — does it make a child want to sit at the round table and make something?
+
+If any test fails, reject.

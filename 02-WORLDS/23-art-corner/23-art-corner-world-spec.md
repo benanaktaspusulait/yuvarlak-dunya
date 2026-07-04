@@ -138,3 +138,58 @@ limited to the bright creative set defined above. Favor a soft, matte,
 handcrafted material language over any glossy, metallic, or realistic
 rendering. Treat the studio's shape, colours, and proportions as a fixed
 identity to preserve exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Art Corner must never be reduced to "some easels outside."
+
+This layer protects Art Corner from becoming too plain. Keep the round
+open-air studio silhouette readable and the bright, colourful creative
+identity clear — add only the canon-approved charm details below. Do not add
+random objects. Do not remove the joyful, creative-studio emotional
+identity.
+
+**Allowed charm details:** AC-EASEL-01, the round wooden easel holding a
+canvas mid-painting, is the primary landmark and must be visible as the
+centrepiece of every establishing shot. The round wooden display wall
+showing finished, colourful artwork adds landmark charm nearby. AC-PAINT-01,
+the vividly colourful paint palette with many hues visible, and soft
+paint-splash patterns on the round wooden tables add surface charm. A
+cluster of round-handled paintbrushes resting in a water cup and small
+stacks of blank canvases waiting nearby are the central reusable small
+props. Gentle motion — a soft drip or swirl of wet paint on the palette and
+the sway of nearby leaves providing dappled natural light — keeps the world
+feeling alive without adding clutter.
+
+**Forbidden clutter:** empty or blank canvases with no visible art, a dull
+or muted or monochrome palette, messy or dirty-looking paint spills,
+sharp-edged easels or furniture, modern art tools such as spray cans or
+digital tablets, cluttered disorganised supply piles, and dark or gloomy
+lighting.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, bright open-air
+creative-studio atmosphere, storybook painting-corner beauty,
+thumbnail-appeal composition, makes a child want to pick up a brush and
+paint something
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Art Corner from the round wooden easel and canvas alone?
+2. **Colour Test** — recognisable from the vivid rainbow paint palette and warm wood tones alone?
+3. **Charm Test** — does it make a child want to pick up a brush and paint something?
+
+If any test fails, reject.
+
+---
+
+*Art Corner — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

@@ -143,3 +143,54 @@ the warm cozy set defined above. Favor a soft, matte, natural material
 language over any glossy, metallic, or realistic rendering. Treat the
 camp's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Camping Grove must never be reduced to "tents in a forest."
+
+This layer protects Camping Grove from becoming too plain. Keep the round
+stone fire circle readable and the cosy starlit-clearing silhouette clear —
+add only the canon-approved charm details below. Do not add random objects.
+Do not remove the warm, safe, gathering-place emotional identity.
+
+**Allowed charm details:** CG-FIRE-01, the round stone-ringed campfire with
+a warm contained flame, is the primary landmark and must be visible in
+every scene here. CG-TENT-01, the 3-4 round colourful domed tents circling
+the fire, adds landmark charm. The deep starlit night sky with many soft
+glowing stars, plus warm firelight patterns dancing on nearby grass and
+tent walls, add surface charm. Smooth round sitting stones near the fire
+and a soft round moon above the treeline are the central reusable small
+props. Gentle motion — the flicker and warm glow of CG-FIRE-01 and the soft
+twinkling of the stars overhead — keeps the world feeling alive without
+adding clutter.
+
+**Forbidden clutter:** an open or uncontained flame, a missing fire circle,
+dark or dense scary forest surroundings, an ordinary daytime sky instead of
+stars, sharp corners anywhere, modern camping gear (metal, plastic, gas
+equipment), and cold or desaturated night colours.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, cozy starlit
+gathering-place atmosphere, storybook campfire beauty, thumbnail-appeal
+composition, makes a child want to sit down by the glowing fire circle
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Camping Grove from the round stone fire circle and surrounding domed tents alone?
+2. **Colour Test** — recognisable from the warm orange firelight, deep starlit sky, and colourful round tents alone?
+3. **Charm Test** — does it make a child want to sit by the fire and listen to a story under the stars?
+
+If any test fails, reject.
+
+---
+
+*Camping Grove — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

@@ -142,3 +142,38 @@ limited to the warm aromatic set defined above. Favor a soft, matte, natural
 material language over any glossy, metallic, or realistic rendering. Treat
 the farm's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Lily's Lavender Farm must never be reduced to "a purple field."
+
+**Allowed charm details:** the round white windmill with rotating wooden
+blades as the primary landmark; the round wooden bee houses clustered near
+the rows; the long deep-purple lavender rows in soft curved lines; the round
+grey stone path winding between the rows; the wooden farm gate with its
+round-top welcome sign; the wooden rest bench under the shade tree; and
+gentle bee movement plus slow windmill rotation carrying scent on the breeze.
+
+**Forbidden clutter:** thorns, scary or threatening bees, faded or dull
+purple, implied bad smell, sharp corners, fast or jarring movement, dark or
+high-contrast lighting, large crowds, metal surfaces, and artificial scent
+effects.
+
+### Art Direction Layer
+
+```text
+premium preschool animation, handcrafted toy-set feeling, warm aromatic
+lavender-field atmosphere, storybook farm beauty, thumbnail-appeal
+composition, makes a child want to walk the purple rows to the windmill
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — Is the round white windmill with wooden blades clearly recognisable from shape alone?
+2. **Colour Test** — Is the farm recognisable from the deep-purple lavender and warm wood palette alone?
+3. **Charm Test** — Does the image make a child want to walk between the rows and watch the windmill turn?
+
+If any test fails, reject.

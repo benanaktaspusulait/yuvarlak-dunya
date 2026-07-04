@@ -144,3 +144,53 @@ cheerful set defined above. Favor a soft, matte, handcrafted material language
 over any glossy, metallic, or realistic rendering. Treat the playground's
 equipment, colors, and proportions as a fixed identity to preserve exactly,
 not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Benny's Playground must never be reduced to "swings and a slide."
+
+This layer protects Benny's Playground from becoming too plain. Keep the
+open, rounded silhouette clear and add only the canon-approved charm details
+below. Do not add random objects. Do not remove the bright, energetic,
+friendship-driven emotional identity.
+
+**Allowed charm details:** the BP-SLIDE-01 round blue slide stays the iconic
+landmark at the centre of the play space, framed by the colourful entrance
+gate and welcome sign. Surface charm comes from the soft plush green grass
+covering the whole area and the rounded steps on the orange climbing hill.
+Small prop charm comes from the BP-BALLPIT-01 ball pit with its
+red/yellow/blue/green/purple balls and the wooden bench in the shaded rest
+corner. Motion charm comes from the red-and-yellow swings swaying rhythmically
+and balls gently rolling in the ball pit.
+
+**Forbidden clutter:** metal equipment, tall or dangerous structures, sharp
+corners anywhere, fast or dangerous movement, broken equipment, cold colours,
+hard ground surface, dark or threatening lighting, large crowds, and
+competitive scoring elements.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, bright energetic
+playground atmosphere with cheerful primary colours, storybook beauty,
+thumbnail-appeal composition, makes a child want to run in and swing, slide,
+and climb right away
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Benny's Playground from the open rounded-equipment layout alone?
+2. **Colour Test** — recognisable from the bright primary-colour-and-grass palette alone?
+3. **Charm Test** — does it make a child want to run in and start playing?
+
+If any test fails, reject.
+
+---
+
+*Benny's Playground — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

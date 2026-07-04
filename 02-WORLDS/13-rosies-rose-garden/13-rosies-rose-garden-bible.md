@@ -1,13 +1,13 @@
 # Environment Bible — Rosie's Rose Garden
 
-> **Version 3.0** — Upgraded to full GLOBAL_ENVIRONMENT_STANDARD.
+> **Version 3.1** — Visual Richness & World Charm pass.
 
 ---
 
 ```
 Environment ID: ENV-013
 File: 02-WORLDS/13-rosies-rose-garden/
-Version: 3.0
+Version: 3.1
 Location: PomPom Hills
 Type: Exterior World
 Status: Design
@@ -240,6 +240,62 @@ Güzel, romantik, sakin, keşif dolu, güvenli, zarif.
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Rosie's Rose Garden must NOT be reduced to "a flower field."
+
+Rosie's Rose Garden is the heart-shaped rose maze of Pompom Hills. It should
+feel like: **"I want to walk through and find the giant heart of flowers."**
+
+### Iconic Landmark
+
+RG-BEDS-HEART-01 — the twin heart-shaped flower beds at the Heart Centre (one
+pink roses, one red roses, with a small yellow flower cluster at the join).
+This is the primary visual anchor: the object that turns "a flower garden"
+into "the garden with the heart made of flowers."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- RG-BEDS-HEART-01, the twin heart-shaped rose beds at the Heart Centre — already a Locked Element, see World Identity Lock below
+
+**Surface Charm**
+- the soft winding dirt path that curves through the rose beds (Rose Path)
+- the heart-shaped bed soil pattern, barely visible beneath the flowers
+
+**Small Prop Charm**
+- RG-FENCE-WHITE-01, the low white rounded fence with ball-top finials
+- the flat resting stone at the Butterfly Resting Spot, surrounded by yellow roses
+
+**Motion Charm**
+- rose petals occasionally drifting from the bushes
+- RG-BUTTERFLY-01 butterflies drifting gently through the garden
+
+### Forbidden Clutter
+
+```
+✗ thorns anywhere on any plant
+✗ square or oval flower beds — the heart shape must always read clearly
+✗ dull or faded colour — palette must stay vivid pastel
+✗ broken, wilted, or dead flowers
+✗ dark or high-contrast lighting
+✗ sharp corners anywhere
+✗ tall or decorative fences — always low and rounded
+✗ oversized scale — the garden stays child-sized
+```
+
+### Thumbnail Hook
+
+A close view of the twin pink-and-red heart-shaped rose beds glowing in warm
+light, with a butterfly resting nearby.
+
+### Child Recognition Test
+
+**"The garden with the heart made of flowers."**
+
+---
+
 ## World Identity Lock
 
 Kalp şeklinde çiçek tarhları her zaman mevcut olmalıdır. Bu world'ün imzasıdır ve hiçbir varyasyonda kaldırılamaz.
@@ -413,11 +469,12 @@ Rosie's Rose Garden, güzellik ve zarafetin mekanıdır. Kalp şeklinde tarhlar�
 | 2.0 | Production pipeline standardına güncelleme | ✅ |
 | 2.1 | Detay güncellemeleri | ❌ |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu, tam yeniden yazım | ✅ |
+| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = RG-BEDS-HEART-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where the garden could be described as only "a flower field." No changes to World Identity Lock or pipeline. | ❌ |
 
 ---
 
 *Bu belge Rosie's Rose Garden mekanı için creative referanstır.*
 
-*Environment Bible v3.0*
+*Environment Bible v3.1*
 
-*Son güncelleme: 3 Temmuz 2026*
+*Son güncelleme: 4 Temmuz 2026*

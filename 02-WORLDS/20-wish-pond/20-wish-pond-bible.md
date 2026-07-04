@@ -1,6 +1,7 @@
 # Environment Bible — Wish Pond
 
-> **Version 3.0** — Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
+> **Version 3.1** — Visual Richness & World Charm pass. Canon identity unchanged.
+> Upgraded to Living World Bible standard (aligned with Kiko's Home v3.1).
 
 > This document describes the creative definition and production-ready specifications
 > for Wish Pond. Tool-specific prompt syntax (e.g. OpenArt) is not embedded here
@@ -11,7 +12,7 @@
 ```
 Environment ID: ENV-020
 File: 02-WORLDS/20-wish-pond/
-Version: 3.0
+Version: 3.1
 Location: Little Forest yanı
 Type: Living World
 Status: Production Ready
@@ -699,6 +700,64 @@ Wish Pond nasıl çekilir? Kamera gölet alanı içinde doğal hareket eder.
 
 ---
 
+## Visual Richness & World Charm
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Wish Pond must NOT be reduced to "a pond with stars." If Wish Pond looks
+> like any generic dark puddle, reject it.
+
+Wish Pond is the magical wishing heart of Pompom Hills. It should feel like:
+**"I want to sit by the water and watch my wish float among the stars."**
+
+### Iconic Landmark
+
+WP-POND-01 — the small round pond itself, with its still surface holding a
+perfect field of star reflections. This is the primary visual anchor: the
+object that turns "a pond" into "the pond where the stars come down to
+swim."
+
+### Allowed Charm Details
+
+**Landmark Charm**
+- WP-POND-01 — the round still pond with a mirror-clear star-reflecting surface
+- WP-STONES-01 — smooth round stones arranged in a circle around the shore
+
+**Surface Charm**
+- gentle golden star-reflection ripples drifting slowly across the water
+- soft moonlit sheen on the pond's edge
+
+**Small Prop Charm**
+- WP-STARS-01 — bright golden stars scattered overhead and mirrored below
+- soft round trees at the water's edge offering gentle shade at Quiet Rest Area
+
+**Motion Charm**
+- WP-STARS-01 twinkling gently, rhythmic and slow
+- soft water ripple carrying reflections in a slow, calm drift
+
+### Forbidden Clutter
+
+```
+✗ empty dark puddle with no stars or stones
+✗ murky or dirty water
+✗ sharp-edged stones
+✗ fast rippling or choppy water
+✗ harsh artificial light
+✗ scary or threatening night atmosphere
+✗ cold, empty sky with no stars
+✗ metal or modern surfaces
+```
+
+### Thumbnail Hook
+
+A perfectly round, star-mirrored pond glowing softly in blue-purple night
+light, ringed by smooth stones.
+
+### Child Recognition Test
+
+**"The pond where the stars come down to swim."**
+
+---
+
 ## Emotional Purpose
 
 Wish Pond, çocukların umut ve hayal gücünü yaşadığı en duygusal mekan. Dilek dilemek, yıldızlara bakmak, suda yansımayı izlemek — burada her an sihirli ve güvenli hissettirir.
@@ -903,8 +962,8 @@ Wish Pond dilek ve umut mekanıdır.
 ---
 
 *Bu belge Wish Pond mekanı için creative referanstır.*
-*Living World Bible v3.0*
-*Son güncelleme: 3 Temmuz 2026*
+*Living World Bible v3.1*
+*Son güncelleme: 4 Temmuz 2026*
 
 ---
 
@@ -915,3 +974,4 @@ Wish Pond dilek ve umut mekanıdır.
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
+| 3.1 | Visual Richness Update. Added `## Visual Richness & World Charm` section (Iconic Landmark, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |

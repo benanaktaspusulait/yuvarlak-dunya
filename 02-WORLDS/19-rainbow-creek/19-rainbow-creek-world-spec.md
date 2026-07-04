@@ -198,3 +198,41 @@ The journey along the waterway — the stone discovery, the bridge crossing — 
 | Environmental rhythm | Water, fish, camera all move on the same gentle breath |
 
 Every animated frame passes the same QA as a still image.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Rainbow Creek must never be reduced to "a stream and some rocks."
+
+This layer protects Rainbow Creek from becoming too plain. Keep the world
+readable and the flowing-water silhouette clear — add only the
+canon-approved charm details below. Do not add random objects. Do not remove
+the peaceful, meditative emotional identity.
+
+**Allowed charm details:** RC-BRIDGE-01, the low round wooden bridge crossing the creek at its midpoint — primary landmark, always present in mid-creek shots; RC-STONES-01 smooth round rainbow-coloured stones (pink, yellow, blue, green) lining both banks; sunlight sparkle drifting across the moving water surface; RC-FISH-01 small friendly fish families gliding beneath the surface; RC-FLOWERS-01 colourful flowers scattered along the banks; a few RC-LEAVES-01 floating gently on the water.
+
+**Forbidden clutter:** empty plain stream with no bridge or stones, deep or murky water, fast rushing rapids or waterfalls, generic drainage-ditch look, cold blue-grey water tone, dark overhanging vegetation, thorny plants or scary creatures, sharp rocky edges.
+
+### Art Direction Layer (use together with Technical Canon above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, sun-dappled
+sparkling creek atmosphere, storybook beauty, thumbnail-appeal composition,
+makes a child want to sit on a colourful stone and watch the fish glide by
+```
+
+### Hero View Quality Tests
+
+1. **Silhouette Test** — recognisable as Rainbow Creek from the winding water shape and bridge alone?
+2. **Colour Test** — recognisable from the pastel rainbow-stone and clear-water palette alone?
+3. **Charm Test** — does it make a child want to sit by the water and watch the fish?
+
+If any test fails, reject — see Generation Failures table above and
+`19-rainbow-creek-bible.md` § Forbidden Over-Simplification.
+
+---
+
+*Rainbow Creek — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*

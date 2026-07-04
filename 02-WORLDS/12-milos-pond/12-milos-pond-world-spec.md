@@ -143,3 +143,53 @@ palette limited to the calm natural set defined above. Favor a soft, matte,
 natural material language over any glossy, metallic, or realistic rendering.
 Treat the pond's shape, colours, and proportions as a fixed identity to
 preserve exactly, not to reinterpret, across every generation.
+
+---
+
+## Visual Richness Layer
+
+> See `02-WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> Milo's Pond must never be reduced to "a pond with lily pads."
+
+This layer protects Milo's Pond from becoming too plain. Keep the round
+clear pond readable and the calm silhouette clear — add only the
+canon-approved charm details below. Do not add random objects. Do not
+remove the quiet, meditative emotional identity.
+
+**Allowed charm details:** MP-POND-01, the round, clear blue-green pond, is
+the primary landmark and must be visible as the calm centre of every shot.
+MP-LILY-01, the 5-7 round green lily pads floating on the surface, add
+landmark and surface charm, together with gentle ripples spreading from the
+lily pads and stream entry and soft reflections of sky and reeds on the
+water. Smooth round grey stepping stones along the edge and tall reeds
+framing one side of the pond are the central reusable small props, with
+MP-DUCK-01 glimpsed occasionally near the shore. Gentle motion — MP-LILY-01
+drifting slowly across the surface and the reeds swaying in the breeze —
+keeps the world feeling alive without adding clutter.
+
+**Forbidden clutter:** deep or murky water, fast current, scary creatures,
+dirty or polluted water, sharp stones, tall waves, a dark or stormy
+atmosphere, and characters or logos in the Hero View.
+
+### Art Direction Layer (use together with Immutable Identity above)
+
+```text
+premium preschool animation, handcrafted toy-set feeling, calm meditative
+water atmosphere, storybook quiet-pond beauty, thumbnail-appeal composition,
+makes a child want to sit and watch the water
+```
+
+### Hero View Quality Tests
+
+Before accepting a Hero View, it must pass:
+
+1. **Silhouette Test** — recognisable as Milo's Pond from the small round pond with drifting lily pads alone?
+2. **Colour Test** — recognisable from the clear blue-green water, green lily pads, and soft reed tones alone?
+3. **Charm Test** — does it make a child want to sit quietly and watch the water?
+
+If any test fails, reject.
+
+---
+
+*Milo's Pond — World Specification, aligned with Bible v3.1.*
+*Visual Richness Layer added 4 Temmuz 2026.*
