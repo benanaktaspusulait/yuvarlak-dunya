@@ -1,4 +1,4 @@
-# Opa's Storytime: The Star That Shared Its Light v1.0
+# Opa's Storytime: The Star That Shared Its Light v2.0 (5-Minute Version)
 
 ---
 
@@ -6,7 +6,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 120 saniye (8 sahne × 15 sn) |
+| Süre | 300 saniye (20 sahne × 15 sn) |
 | Hedef yaş | 3-4 |
 | Series | Opa's Storytime |
 | Playlist | Opa's Storytime \| Gentle Preschool Stories |
@@ -33,27 +33,21 @@ masalını anlatır. Luca ve Noah hikaye boyunca sorular sorar ve tepki verir.
 
 ## Opening Bumper
 
-Ortak açılış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODES/OPAS_STORYTIME_SERIES/OPENING_BUMPER/opening-bumper.md`.
+Ortak açılış bumper kullanılır.
 
-- Duration: 3–4 sn (ortak klip, her bölümde aynı)
-- Visual: Yuvarlak kitap yumuşakça açılır (yer-nötr)
+- Duration: 3–4 sn
+- Visual: Yuvarlak kitap yumuşakça açılır
 - Sound: Tek yumuşak chime
-- Dialogue: Yok — bumper'dan sonra bölümün kendi açılış beat'ine kesme (Shot 01)
-- Purpose: Seri kimliği + playlist tanınırlığı
-- Retention risk: Düşük (max 5 sn, hikayeyi geciktirmez)
 
 ---
 
 ## Closing Bumper
 
-Ortak kapanış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODES/OPAS_STORYTIME_SERIES/CLOSING_BUMPER/closing-bumper.md`.
+Ortak kapanış bumper kullanılır.
 
-- Duration: 4–5 sn (ortak klip, her bölümde aynı)
+- Duration: 4–5 sn
 - Visual: Kitap yumuşakça kapanır + end-screen-safe kare
-- Sound: Soft müzik kuyruğu
-- Dialogue: Yok — Opa'nın son repliği Shot 08 warm final hold'da kalır
-- End-screen-safe frame: Sakin, boşluklu, playlist öğesi için yer
-- Purpose: Sıcak kapanış + repeat/playlist viewing
+- Dialogue: Yok — Opa'nın son repliği Shot 13 warm final hold'da kalır
 
 ---
 
@@ -69,13 +63,25 @@ değil, çoğaltmak olduğunu keşfetme anı.
 | Sıra | Dosya | Süre | Karakter | Amaç |
 | --- | --- | ---: | --- | --- |
 | 01 | `shots/shot-01-under-the-night-tree.md` | 15 sn | Luca, Noah, Opa | Akşam açılışı, seri açılış beat'i |
-| 02 | `shots/shot-02-the-little-star.md` | 15 sn | Opa, Luca | Masalın başlaması |
-| 03 | `shots/shot-03-keeping-the-light.md` | 15 sn | Opa, Noah | Küçük sorun tanıtılır |
-| 04 | `shots/shot-04-why-keep-it-alone.md` | 15 sn | Opa, Luca, Noah | Duygusal soru, etkileşim |
-| 05 | `shots/shot-05-one-small-share.md` | 15 sn | Opa, Noah | Paylaşma denemesi |
-| 06 | `shots/shot-06-the-sky-glows-brighter.md` | 15 sn | Opa, Luca | Ders hikaye üzerinden gösterilir |
-| 07 | `shots/shot-07-sharing-makes-more-light.md` | 15 sn | Opa, Noah | Micro-moment, kişisel bağlantı |
-| 08 | `shots/shot-08-quiet-starlit-hold.md` | 15 sn | Opa, Luca, Noah | Sessiz sıcak kapanış |
+| 02 | `shots/shot-02-opening-the-book.md` | 15 sn | Opa, Luca, Noah | Kitap açılır, merak |
+| 03 | `shots/shot-03-the-little-star.md` | 15 sn | Opa, Luca | Masalın başlaması, küçük yıldız tanıtılır |
+| 04 | `shots/shot-04-it-wanted-to-be-brightest.md` | 15 sn | Opa, Noah | Yıldızın en parlak olma isteği |
+| 05 | `shots/shot-05-keeping-all-its-light.md` | 15 sn | Opa, Luca | Işığı kendine saklar |
+| 06 | `shots/shot-06-but-lonely.md` | 15 sn | Opa, Noah | Yalnızlık hissi |
+| 07 | `shots/shot-07-why-keep-it-alone.md` | 15 sn | Opa, Luca, Noah | Duygusal soru |
+| 08 | `shots/shot-08-it-didnt-know.md` | 15 sn | Opa, Luca | Paylaşmanın sıcak olduğunu bilmiyor |
+| 09 | `shots/shot-09-one-small-beam.md` | 15 sn | Opa, Noah | Küçük bir ışık demeti paylaşır |
+| 10 | `shots/shot-10-just-one-beam.md` | 15 sn | Opa, Luca | "Sadece bir demet mi?" |
+| 11 | `shots/shot-11-the-sky-glows-brighter.md` | 15 sn | Opa, Luca | Gökyüzü daha parlak parlar |
+| 12 | `shots/shot-12-all-the-stars-together.md` | 15 sn | Opa, Noah | Tüm yıldızlar birlikte |
+| 13 | `shots/shot-13-sharing-makes-more-light.md` | 15 sn | Opa, Noah | Micro-moment |
+| 14 | `shots/shot-14-book-closes-gently.md` | 15 sn | Opa, Luca, Noah | Kitap kapanır |
+| 15 | `shots/shot-15-children-smile.md` | 15 sn | Opa, Luca, Noah | Çocuklar gülümser |
+| 16 | `shots/shot-16-starlight-glow.md` | 15 sn | Opa, Luca, Noah | Yıldız ışığı |
+| 17 | `shots/shot-17-gentle-pull-back.md` | 15 sn | Opa, Luca, Noah | Yavaş çekim |
+| 18 | `shots/shot-18-quiet-warmth.md` | 15 sn | Opa, Luca, Noah | Sessiz sıcak an |
+| 19 | `shots/shot-19-final-warm-hold.md` | 15 sn | Opa, Luca, Noah | Final sıcak tutuş |
+| 20 | `shots/shot-20-closing-hold.md` | 15 sn | Opa, Luca, Noah | Kapanış hold'u |
 
 ---
 
@@ -100,18 +106,6 @@ Işığını (veya iyiliğini) paylaşmak, onu azaltmaz — çoğaltır.
 | Opa | Approved Opa voice reference — warm, calm, wise |
 | Luca | Approved Luca voice reference — curious, adventurous but calm at night |
 | Noah | Approved Noah voice reference — playful, cheerful, curious |
-
-Reference: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
-
-Voice continuity rule:
-
-```text
-The speaking voice MUST remain identical throughout the entire episode.
-Use the same Voice ID or approved voice reference for the same character.
-Maintain the same voice identity, timbre, pitch, speaking speed, warmth, preschool energy, pronunciation, accent, age impression, emotional tone and recording quality.
-All speaking shots must sound as if they were recorded during the same recording session.
-Never replace the voice with a narrator or alternate performer.
-```
 
 ---
 
@@ -145,17 +139,27 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 ## QA Status
 
-Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) passed on 4 Temmuz 2026: all 8 shot files contain the required sections — Frame Lock (shots 02–08), Background Object Lock, Visual Prompt, Camera Direction, Dialogue, Shot Breakdown, Sound, Lighting, Reference Usage, Text Safety, Negative Prompt, QA Checklist and Scale. Shot 01 carries the Opening Hook and series opening beat; shot 08 carries the warm-hold + closing-bumper note.
-
-Render QA (`16_VIDEO_QA_SPEC.md`, scored /10) runs after each shot is generated — pending.
+Scene QA pending for 20-shot v2.0 structure.
 
 | Shot | Scene QA (doc) | Render QA /10 | Ready to Render |
 |------|:--------------:|:-------------:|:---------------:|
-| 01 | ✅ | — | ✅ |
-| 02 | ✅ | — | ✅ |
-| 03 | ✅ | — | ✅ |
-| 04 | ✅ | — | ✅ |
-| 05 | ✅ | — | ✅ |
-| 06 | ✅ | — | ✅ |
-| 07 | ✅ | — | ✅ |
-| 08 | ✅ | — | ✅ |
+| 01 | — | — | ✅ |
+| 02 | — | — | ✅ |
+| 03 | — | — | ✅ |
+| 04 | — | — | ✅ |
+| 05 | — | — | ✅ |
+| 06 | — | — | ✅ |
+| 07 | — | — | ✅ |
+| 08 | — | — | ✅ |
+| 09 | — | — | ✅ |
+| 10 | — | — | ✅ |
+| 11 | — | — | ✅ |
+| 12 | — | — | ✅ |
+| 13 | — | — | ✅ |
+| 14 | — | — | ✅ |
+| 15 | — | — | ✅ |
+| 16 | — | — | ✅ |
+| 17 | — | — | ✅ |
+| 18 | — | — | ✅ |
+| 19 | — | — | ✅ |
+| 20 | — | — | ✅ |

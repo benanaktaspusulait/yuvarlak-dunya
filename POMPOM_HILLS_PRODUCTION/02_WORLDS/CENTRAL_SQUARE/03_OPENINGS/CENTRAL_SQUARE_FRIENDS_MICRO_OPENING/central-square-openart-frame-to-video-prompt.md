@@ -108,6 +108,33 @@ Reject if:
 - roads, cars, shops, crowd, fountain or water feature appear
 - it no longer feels like the same Central Square location
 
+---
+
+## Locked Handoff Final Frame
+
+The final frame of the opening is a locked continuity handoff frame for Shot 01.
+
+The opening must end on the exact composition that Shot 01 will inherit.
+
+Do not end the opening on a temporary push-in that Shot 01 cannot preserve.
+Do not create a final frame that requires Shot 01 to pull back.
+Do not design the opening move in a way that causes the next shot to reset wider.
+
+The final opening frame must be stable, reusable, and directly continuable.
+
+Hard rules:
+- The opening final frame must be treated as the direct first-frame template for Shot 01.
+- No extra camera pull-back is allowed after the opening ends.
+- The opening must not end on a framing that Shot 01 cannot match.
+- The final opening frame should be a stable locked composition, not a transition pose.
+
+## Handoff QA Checklist
+
+- [ ] Opening final frame is stable enough to be used directly as Shot 01 first frame.
+- [ ] Opening does not end on a framing that forces Shot 01 to reset wider.
+- [ ] No camera pull-back would be needed after the opening ends.
+- [ ] Final opening frame is a locked handoff frame.
+
 ## Reject The Generation If
 
 - Any tree, bench, planter or bush changes position.

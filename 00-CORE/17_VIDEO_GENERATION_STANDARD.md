@@ -646,6 +646,123 @@ Preferred Shot 01 structure after empty opening:
 
 Do not center the character immediately at frame 0 after an empty opening unless the opening final frame already included the character, which normal world micro-openings should not.
 
+### Strict Frame Match Rule for Character Introduction
+
+When a new character is introduced after a locked continuity frame, the existing frame has priority over the character entrance.
+
+The model must not recompose the scene to introduce the character.
+
+This rule applies to:
+- Empty opening frame → first story shot
+- One-character shot → two-character shot
+- Any shot where a new character enters after the first frame
+- Any continuity-linked shot using `@image1`
+
+The first frame of the new shot must match the previous approved final continuity frame as closely as possible.
+
+Preserve:
+- Camera angle
+- Camera height
+- Lens feel
+- Framing
+- Character positions already present
+- Character scale
+- Background object positions
+- Landmark positions
+- Path layout
+- Lighting
+- Colour grading
+- Exposure
+- Contrast
+
+Do not:
+- Recompose the scene for the entering character
+- Move existing characters to make room
+- Reset the camera
+- Change lens feel
+- Create a new establishing shot
+- Zoom in to hide the transition
+- Move background objects
+- Create new paths or cleaner layouts
+- Use the previous frame as loose inspiration only
+
+The entering character must adapt to the locked frame.
+
+If the full entrance path cannot be shown safely inside the locked composition, the character may begin already partially visible at the edge of the existing frame. This is preferred over changing the camera, changing the layout, or causing pop-in.
+
+Continuity priority order:
+1. Previous final frame match
+2. Existing character position and scale
+3. Background object lock
+4. Entering character visibility
+5. Entrance path clarity
+
+The entering character's movement is secondary to continuity.
+
+### No Pull-Back Continuity Rule
+
+When a shot continues from a locked previous final frame, the new shot must not begin wider than the previous frame.
+
+Never pull back at the beginning of a continuation shot in order to introduce a character.
+
+Do not reveal more environment, more sky, more side objects, or additional props at the first frame.
+
+If the entering character cannot be shown without widening or recomposing the frame, the entering character should begin already partially visible at the frame edge.
+
+Priority:
+1. Previous final frame match
+2. No wider reset
+3. No new object reveal
+4. Entering character visibility
+
+Global QA for continuation shots:
+- [ ] Continuation shot does not begin wider than previous final frame.
+- [ ] No pull-back occurs at shot start.
+- [ ] No new side objects are revealed at first frame.
+- [ ] Entering character adapts to the locked frame instead of forcing recomposition.
+
+### No New Character In First Frames Rule
+
+When a shot continues from a locked previous final frame using `@image1`, no new character may appear, enter, or begin entering during the first 2 seconds of the shot.
+
+The first 2 seconds are reserved for strict continuity matching.
+
+During the first 2 seconds:
+- Match `@image1` as closely as possible
+- Preserve camera angle
+- Preserve camera distance
+- Preserve framing
+- Preserve lens feel
+- Preserve all visible background object positions
+- Preserve lighting, colour grading, exposure and contrast
+- Preserve any already-present characters in the same position, scale and direction
+- Do not introduce new characters
+- Do not reveal new side objects
+- Do not pull back
+- Do not push in
+- Do not recompose
+- Do not create a new establishing shot
+
+After the first 2 seconds, the new character may enter naturally inside the locked composition.
+
+The entering character must adapt to the existing frame.
+The camera must not adapt to the entering character.
+
+If the entrance cannot be shown clearly without changing the camera, the new character may begin partially visible at the frame edge AFTER the 2-second hold.
+
+This rule applies to:
+- Empty opening frame → first story shot
+- One-character shot → two-character shot
+- Any shot where a new character is introduced
+- Any continuity-linked shot using `@image1`
+
+Priority order:
+1. First 2 seconds match `@image1`
+2. No camera pull-back or recomposition
+3. Existing character/background continuity
+4. New character entrance after 2 seconds
+5. Entrance path clarity
+
 ---
 
 ## How to Use This Standard
