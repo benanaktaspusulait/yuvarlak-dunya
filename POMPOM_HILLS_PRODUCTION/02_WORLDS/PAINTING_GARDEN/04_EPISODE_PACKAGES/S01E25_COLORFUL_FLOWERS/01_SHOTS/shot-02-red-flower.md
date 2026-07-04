@@ -46,7 +46,7 @@ Not similar. Not close. Identical.
 
 Only after the first frame matches perfectly may animation begin.
 
-Close-up of Sofia examining a bright red round flower. She gently holds the stem and looks at the petals. Her expression is full of wonder. She whispers "Red!" Painting Garden — soft pastel garden, warm morning light, red flower prominent. Close-up, 50mm, static, no other characters, {style} {camera} {lighting}
+Static medium of Sofia examining a bright red round flower. She gently holds the stem and looks at the petals. Her expression is full of wonder. She whispers "Red!" Painting Garden — soft pastel garden, warm morning light, red flower prominent. Static medium, 50mm, static, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -65,7 +65,7 @@ The first visible frame should appear visually identical to the previous shot re
 
 Only then may the planned camera movement begin.
 
-Close-up, 50mm, static.
+Static medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -83,11 +83,11 @@ Sofia: Red! So pretty!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches previous shot. Sofia gently holds the red flower stem. | Close-up, 50mm, static |
-| 3-7 sn | She looks at the petals closely. Her eyes reflect the red colour. | Close-up, 50mm, static |
-| 7-10 sn | She whispers "Red!" with a soft smile. | Close-up, 50mm, static |
-| 10-13 sn | She gently lets go of the stem. The flower sways softly. | Close-up, 50mm, static |
-| 13-15 sn | She looks around for more flowers. | Close-up, 50mm, static |
+| 0-3 sn | First frame matches previous shot. Sofia gently holds the red flower stem. | Static medium, 50mm, static |
+| 3-7 sn | She looks at the petals closely. Her eyes reflect the red colour. | Static medium, 50mm, static |
+| 7-10 sn | She whispers "Red!" with a soft smile. | Static medium, 50mm, static |
+| 10-13 sn | She gently lets go of the stem. The flower sways softly. | Static medium, 50mm, static |
+| 13-15 sn | She looks around for more flowers. | Static medium, 50mm, static |
 
 ---
 
@@ -107,6 +107,10 @@ Warm soft morning daylight.
 Gentle, low contrast, pastel palette. Identical to previous shot.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

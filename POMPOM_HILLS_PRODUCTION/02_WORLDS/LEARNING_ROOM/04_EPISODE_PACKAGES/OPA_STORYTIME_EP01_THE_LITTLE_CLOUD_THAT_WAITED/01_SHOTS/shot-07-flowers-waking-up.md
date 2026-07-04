@@ -31,7 +31,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 06 video as Video Reference. Close-up on book page, gentle flower glow (soft imagination visual, no readable text), Luca reacting with wonder, {style} {camera} {lighting}
+Use Shot 06 video as Video Reference. Static medium on book page, gentle flower glow (soft imagination visual, no readable text), Luca reacting with wonder, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image. The imagination glow stays soft and small — no full fantasy cutaway, no loud effect.
 
@@ -60,9 +60,9 @@ Opa: That's right. So the cloud waited one more moment.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Book page: flowers gently begin to wake, soft glow. | Close-up, 50mm, slow push-in |
-| 5-10 sn | Luca realises "they were not ready." | Close-up, 50mm, slow push-in |
-| 10-15 sn | Opa: the cloud waited one more moment. | Close-up, 50mm, settle |
+| 0-5 sn | Book page: flowers gently begin to wake, soft glow. | Static medium, 50mm, slow push-in |
+| 5-10 sn | Luca realises "they were not ready." | Static medium, 50mm, slow push-in |
+| 10-15 sn | Opa: the cloud waited one more moment. | Static medium, 50mm, settle |
 
 ---
 
@@ -84,6 +84,10 @@ Continue Shot 06 lighting exactly. Warm window light, soft ambient glow, plus a 
 
 - Continuity Reference: Shot 06 video (or exported final frame)
 - Voice: same approved references for Opa and Luca
+
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

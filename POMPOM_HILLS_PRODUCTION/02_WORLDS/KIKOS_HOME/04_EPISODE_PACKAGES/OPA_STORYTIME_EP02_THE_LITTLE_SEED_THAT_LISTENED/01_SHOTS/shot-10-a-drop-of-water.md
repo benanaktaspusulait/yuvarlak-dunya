@@ -27,7 +27,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 09 video as Video Reference. Close-up on book page with a soft water drop illustration (no readable text), Mimi watching with wonder, {style} {camera} {lighting}
+Use Shot 09 video as Video Reference. Static medium on book page with a soft water drop illustration (no readable text), Mimi watching with wonder, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -38,7 +38,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 09 reference. Static close-up. Lens 50mm, height 0.60m, static.
+Begin from the identical camera position of the Shot 09 reference. Static medium. Lens 50mm, height 0.60m, static.
 
 ---
 
@@ -55,9 +55,9 @@ Mimi: Did it feel it?
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Book page: a soft water drop falls. | Close-up, 50mm, static |
-| 5-10 sn | Mimi asks "did it feel it?" | Close-up, 50mm, static |
-| 10-15 sn | Opa nods gently. | Close-up, 50mm, static |
+| 0-5 sn | Book page: a soft water drop falls. | Static medium, 50mm, static |
+| 5-10 sn | Mimi asks "did it feel it?" | Static medium, 50mm, static |
+| 10-15 sn | Opa nods gently. | Static medium, 50mm, static |
 
 ---
 
@@ -79,6 +79,10 @@ Continue Shot 09 lighting exactly.
 
 - Continuity Reference: Shot 09 video
 - Voice: same approved references for Opa and Mimi
+
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

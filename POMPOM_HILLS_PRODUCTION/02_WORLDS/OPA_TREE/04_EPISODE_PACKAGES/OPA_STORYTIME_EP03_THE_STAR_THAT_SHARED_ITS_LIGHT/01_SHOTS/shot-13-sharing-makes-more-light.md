@@ -27,7 +27,7 @@ Background locked from the first frame. Only characters may move.
 ## Visual Prompt
 
 ```text
-Use Shot 12 video as Video Reference. Slow push-in close-up on Noah, warm emotional micro-moment expression, Opa softly acknowledging in soft focus, warm lantern glow unchanged, {style} {camera} {lighting}
+Use Shot 12 video as Video Reference. Slow push-in medium on Noah, warm emotional micro-moment expression, Opa softly acknowledging in soft focus, warm lantern glow unchanged, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -55,9 +55,9 @@ Opa: That is exactly right, little one.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Noah reflects quietly on the story. | Close-up, 50mm, slow push-in |
-| 5-10 sn | Noah: "Sharing makes more light, not less." (micro-moment) | Close-up, 50mm, slow push-in |
-| 10-15 sn | Opa softly: "That is exactly right, little one." | Close-up, 50mm, settle |
+| 0-5 sn | Noah reflects quietly on the story. | Static medium, 50mm, slow push-in |
+| 5-10 sn | Noah: "Sharing makes more light, not less." (micro-moment) | Static medium, 50mm, slow push-in |
+| 10-15 sn | Opa softly: "That is exactly right, little one." | Static medium, 50mm, settle |
 
 ---
 
@@ -79,6 +79,10 @@ Continue Shot 12 lighting exactly.
 
 - Continuity Reference: Shot 12 video
 - Voice: same approved references for Opa and Noah
+
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

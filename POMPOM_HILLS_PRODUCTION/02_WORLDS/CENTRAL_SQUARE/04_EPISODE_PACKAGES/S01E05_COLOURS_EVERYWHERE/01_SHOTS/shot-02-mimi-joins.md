@@ -118,6 +118,30 @@ Mimi's entrance must adapt to the existing Shot 01 final frame, not the other wa
 
 ---
 
+## Delayed Mimi Introduction Rule
+
+Shot 02 must begin with a 2-second locked hold of the approved Shot 01 final continuity frame.
+
+During 0-2 seconds:
+- Kiko is already visible and must remain exactly where she was in Shot 01 final frame
+- Mimi is not visible yet
+- Mimi does not begin entering
+- No camera pull-back
+- No wider reset
+- No new side objects appear
+- No new establishing shot
+- The frame must match `@image1` almost exactly
+
+Mimi may only begin entering after the 2-second locked hold.
+
+After 2 seconds, Mimi enters from the right-side visible path near the yellow planter / purple bunting area, inside the already-locked composition.
+
+If showing Mimi's full entrance path requires widening, pulling back, or recomposing the shot, do not show the full path. Instead, after the 2-second hold, start Mimi partially visible at the right edge of the existing frame.
+
+Mimi's entrance is secondary to frame continuity.
+
+---
+
 ## Background Object Lock
 
 The first frame defines the physical Central Square set. All visible benches, trees,
@@ -156,6 +180,8 @@ These locks are global production gates. Do not restate or weaken them locally. 
 
 **Mimi's entrance is secondary to continuity.** If showing the full right-side entrance path requires changing the camera or layout, do not change the camera. Instead, start Mimi already partially visible on the right-side path, at the edge of the existing frame, so she can join Kiko naturally without breaking continuity.
 
+**Mimi must not walk from far away.** Mimi begins after the 2-second hold, already near the right edge of the existing frame, partially visible if needed. No long path crossing, no running, no camera tracking.
+
 Mimi's entrance is the highest-risk movement in the episode. **Mimi enters from the right side visible path (near the yellow planter and purple bunting area)**, not from the same lower-left path Kiko used in Shot 01. This avoids crossing Kiko's entrance path and creates a natural convergence.
 
 Mimi must enter from a fully visible rounded path only, remain visible during the entire entrance, and use a short, simple, straight or gently curved visible path. Mimi must not enter from behind bushes, planters, benches, tree trunks, houses, walls or foreground plants. Mimi must not disappear during the entrance, reappear from another side, or cross through the red planter, bush, flowerbed or bench. Kiko stays visible and does not change side suddenly.
@@ -173,6 +199,8 @@ pop-in.
 ## Visual Prompt
 
 ```text
+First 2 seconds must match @image1 almost exactly. Kiko remains visible in the same position and scale. Mimi is not visible during the first 2 seconds. Do not introduce Mimi at the first frame. Do not pull back, widen, or recompose. Mimi may only begin entering after the 2-second locked hold, inside the existing Shot 01 final frame composition.
+
 The first frame must match @image1 almost exactly. Treat @image1 as the locked Shot 01 final continuity frame, not just a loose reference. Kiko, camera angle, background layout, lighting, colour grading, and object positions must remain unchanged.
 
 Do not recompose the scene for Mimi. Mimi must enter only if she can enter naturally within the locked composition. If Mimi cannot safely enter from the right path without changing the camera, start Mimi already partially visible on the right-side path while preserving the exact @image1 composition.
@@ -210,7 +238,7 @@ environment.
 
 ## Camera Direction
 
-Begin from the Shot 01 continuity frame with no camera reset. **No camera reset at the beginning. No new establishing shot. No camera repositioning to introduce Mimi.** The camera may only make a very tiny natural settle after the first second. Mimi's entrance must happen inside the existing Shot 01 final composition.
+**The camera must remain locked for the first 2 seconds. No camera pull-back, no push-in, no framing expansion, no new establishing shot.** Mimi enters only after the first 2 seconds. The camera may only make a very tiny natural settle after the first second. Mimi's entrance must happen inside the existing Shot 01 final composition.
 
 The first 1 second should visually hold close to @image1 before new action begins.
 After that, Mimi enters gently from the right side path (near yellow planter and purple bunting), and Kiko turns toward her.
@@ -268,9 +296,20 @@ Kiko: I'm finding colours!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | First second holds near Shot 01 frame; Mimi begins entering from path | Medium-wide |
-| 5-10 sn | Mimi reaches Kiko and greets her | Stable |
-| 10-15 sn | Kiko shares that she is finding colours | Medium-wide hold |
+| 0-2 sn | Locked hold on Shot 01 final frame, Kiko visible, Mimi not visible, no camera pull-back | Static / locked |
+| 2-5 sn | Mimi enters from right edge/path inside the locked composition, already near the edge, partially visible if needed | Very tiny natural settle only |
+| 5-7 sn | Mimi reaches Kiko and stops | Stable |
+| 7-9 sn | Mimi: "Hi Kiko!" | Stable |
+| 9-12 sn | Kiko turns and smiles | Stable |
+| 12-15 sn | Kiko: "I'm finding colours!" | Medium-wide hold |
+
+Character entrance rules:
+- No full walk from far away
+- No long path crossing
+- No running
+- Camera does not track the character
+- Mimi is already near the right edge, entering with a small natural movement
+- Mimi begins after the 2-second hold, already near the right edge of the existing frame, partially visible if needed
 
 ---
 
@@ -297,9 +336,11 @@ teleporting character, disappearing character, character hidden behind bush, cha
 
 intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
 
-older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, close-up character, aged-up Mimi, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame, Mimi too large, Mimi older than Kiko
+older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, medium character, aged-up Mimi, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame, Mimi too large, Mimi older than Kiko
 
 new composition, recomposed scene, camera reposition, new establishing shot, different first frame, changed Kiko position, changed Kiko scale, changed camera angle, changed lens, changed background layout, continuity break between shots, Shot 02 not matching Shot 01 final frame, moving Kiko to introduce Mimi, camera reset to show Mimi
+
+Mimi visible in first frame, Mimi entering in first frame, character introduced at video start, new character in first 2 seconds, first-frame character introduction, camera pull-back to introduce Mimi, wider reset to introduce Mimi, recomposed Shot 01 frame, Shot 01-to-Shot 02 mismatch
 
 ## QA Checklist
 
@@ -327,26 +368,18 @@ Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 - [ ] No visible continuity break occurs between Shot 01 and Shot 02.
 - [ ] Mimi enters naturally through visible motion from the right side path (near yellow planter).
 - [ ] Mimi does not enter from the same lower-left path Kiko used in Shot 01.
-- [ ] Mimi does not pop in or appear suddenly.
-- [ ] Mimi's full entrance path is visible from the first moment she appears until she reaches Kiko.
-- [ ] Central Square layout preserved.
-- [ ] Big Pompom Tree, paths and stepping-stone ring remain stable.
-- [ ] No extra characters appear.
-- [ ] No camera reset or environment redesign.
-- [ ] No on-screen text, captions, logo or title card.
-- [ ] Warm morning daylight and Episode Colour Master preserved.
-- [ ] No character disappears inside the same shot.
-- [ ] No character reappears from a different side inside the same shot.
-- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
-- [ ] No occlusion is used as a transition.
-- [ ] Character path remains continuously visible and physically possible.
-- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
-- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
-- [ ] No object changes identity, duplicates, disappears or shifts side.
-- [ ] Camera movement does not hide a character or regenerate the environment.
 - [ ] Mimi does not rush, teleport, or cross behind objects to reach Kiko.
 - [ ] Mimi does not start too far away to reach Kiko naturally within 15 seconds.
 - [ ] Mimi may be partially visible on the right-side path if needed to keep the entrance readable and safe.
+- [ ] First 2 seconds match Shot 01 final frame almost exactly.
+- [ ] Kiko remains in the same position, scale and direction during the first 2 seconds.
+- [ ] Mimi is not visible during the first 2 seconds.
+- [ ] Mimi does not begin entering during the first 2 seconds.
+- [ ] No camera pull-back occurs before Mimi enters.
+- [ ] No wider reset occurs before Mimi enters.
+- [ ] Mimi enters only after the locked continuity hold.
+- [ ] Mimi enters inside the existing Shot 01 final composition.
+- [ ] Mimi entrance does not force recomposition.
 - [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
 
 ## Micro Actions

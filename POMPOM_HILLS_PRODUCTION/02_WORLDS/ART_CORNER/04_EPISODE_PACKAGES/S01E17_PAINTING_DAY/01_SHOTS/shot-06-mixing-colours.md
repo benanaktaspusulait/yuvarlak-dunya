@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Sofia dips her brush in red paint, then in blue paint. She mixes them on the palette. Purple appears! Kiko and Mimi watch with wide eyes. Art Corner — wooden table, palette, paint pots, warm morning light. Close-up to medium, 50mm, static, {style} {camera} {lighting}
+Sofia dips her brush in red paint, then in blue paint. She mixes them on the palette. Purple appears! Kiko and Mimi watch with wide eyes. Art Corner — wooden table, palette, paint pots, warm morning light. Static medium to medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -54,7 +54,7 @@ The Art Corner background is locked from the first frame; keep all visible table
 
 ## Camera Direction
 
-Close-up to medium, 50mm, static.
+Static medium to medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -74,9 +74,9 @@ Mimi: Wow!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches. Sofia dips brush in red. | Close-up, 50mm, static |
-| 3-7 sn | She dips the same brush in blue. Kiko leans in. | Close-up, 50mm, static |
-| 7-10 sn | She mixes on the palette. Purple appears! | Close-up, 50mm, static |
+| 0-3 sn | First frame matches. Sofia dips brush in red. | Static medium, 50mm, static |
+| 3-7 sn | She dips the same brush in blue. Kiko leans in. | Static medium, 50mm, static |
+| 7-10 sn | She mixes on the palette. Purple appears! | Static medium, 50mm, static |
 | 10-13 sn | Kiko's eyes widen. "Purple!" | Medium, 50mm, static |
 | 13-15 sn | Sofia smiles proudly. Kiko claps softly. | Medium, 50mm, static |
 
@@ -96,6 +96,10 @@ Mimi: Wow!
 Warm soft morning daylight. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

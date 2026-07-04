@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Mimo hums softly along with the creek's melody. His voice blends with the water sounds. Kiko listens, then hums too. Their voices mix with the creek, the bird, and the wind. Rainbow Creek — stream, flowers, warm morning light. Close-up to medium, 50mm, static, {style} {camera} {lighting}
+Mimo hums softly along with the creek's melody. His voice blends with the water sounds. Kiko listens, then hums too. Their voices mix with the creek, the bird, and the wind. Rainbow Creek — stream, flowers, warm morning light. Static medium to medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -54,7 +54,7 @@ The Rainbow Creek background is locked from the first frame; keep all visible st
 
 ## Camera Direction
 
-Close-up to medium, 50mm, static.
+Static medium to medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -73,8 +73,8 @@ Kiko: Hmm hmm hmm...
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches. Mimo begins to hum softly. | Close-up, 50mm, static |
-| 3-7 sn | His voice blends with the creek melody | Close-up, 50mm, static |
+| 0-3 sn | First frame matches. Mimo begins to hum softly. | Static medium, 50mm, static |
+| 3-7 sn | His voice blends with the creek melody | Static medium, 50mm, static |
 | 7-10 sn | Kiko listens, then joins in with her own hum | Medium, 50mm, static |
 | 10-13 sn | Their voices mix with the creek, bird, and wind | Medium, 50mm, static |
 | 13-15 sn | They hum together, eyes half-closed, peaceful | Medium, 50mm, static |
@@ -97,6 +97,10 @@ Kiko: Hmm hmm hmm...
 Warm soft morning daylight. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

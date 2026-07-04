@@ -31,7 +31,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 12 video as Video Reference. Slow push-in close-up on Luca, warm emotional micro-moment expression, Opa softly acknowledging in soft focus, {style} {camera} {lighting}
+Use Shot 12 video as Video Reference. Slow push-in medium on Luca, warm emotional micro-moment expression, Opa softly acknowledging in soft focus, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -59,9 +59,9 @@ Opa: That is a kind thing, Luca.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Luca reflects quietly on the story. | Close-up, 50mm, slow push-in |
-| 5-10 sn | Luca: "I can wait too." (micro-moment) | Close-up, 50mm, slow push-in |
-| 10-15 sn | Opa softly: "That is a kind thing, Luca." | Close-up, 50mm, settle |
+| 0-5 sn | Luca reflects quietly on the story. | Static medium, 50mm, slow push-in |
+| 5-10 sn | Luca: "I can wait too." (micro-moment) | Static medium, 50mm, slow push-in |
+| 10-15 sn | Opa softly: "That is a kind thing, Luca." | Static medium, 50mm, settle |
 
 ---
 
@@ -83,6 +83,10 @@ Continue Shot 12 lighting exactly. Warm window light, soft ambient glow. Continu
 
 - Continuity Reference: Shot 12 video (or exported final frame)
 - Voice: same approved references for Opa and Luca
+
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

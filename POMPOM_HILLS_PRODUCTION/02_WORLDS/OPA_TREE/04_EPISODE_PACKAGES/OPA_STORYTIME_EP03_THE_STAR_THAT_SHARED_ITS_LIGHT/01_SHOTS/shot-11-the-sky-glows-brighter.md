@@ -27,7 +27,7 @@ Background locked from the first frame. Only characters and the book may move.
 ## Visual Prompt
 
 ```text
-Use Shot 10 video as Video Reference. Close-up on book page with the sky glowing brighter as stars share light (soft imagination visual, no readable text), Luca reacting with wonder, {style} {camera} {lighting}
+Use Shot 10 video as Video Reference. Static medium on book page with the sky glowing brighter as stars share light (soft imagination visual, no readable text), Luca reacting with wonder, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -38,7 +38,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 10 reference. Static close-up. Lens 50mm, height 0.60m, static.
+Begin from the identical camera position of the Shot 10 reference. Static medium. Lens 50mm, height 0.60m, static.
 
 ---
 
@@ -55,9 +55,9 @@ Luca: Whoa! All the stars shined together!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Book page: sky glows brighter as stars share. | Close-up, 50mm, static |
-| 5-10 sn | Luca: "Whoa! All the stars shined together!" | Close-up, 50mm, static |
-| 10-15 sn | Opa smiles warmly. | Close-up, 50mm, static |
+| 0-5 sn | Book page: sky glows brighter as stars share. | Static medium, 50mm, static |
+| 5-10 sn | Luca: "Whoa! All the stars shined together!" | Static medium, 50mm, static |
+| 10-15 sn | Opa smiles warmly. | Static medium, 50mm, static |
 
 ---
 
@@ -79,6 +79,10 @@ Continue Shot 10 lighting exactly.
 
 - Continuity Reference: Shot 10 video
 - Voice: same approved references for Opa and Luca
+
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

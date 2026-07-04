@@ -21,9 +21,9 @@ This is the first story shot of the episode. It begins after the optional Centra
 Friends Micro-Opening pre-roll (a reusable world asset, not a story shot).
 
 Use the approved Central Square Friends Micro-Opening final frame as `@image1` for
-environment continuity only. Do not copy `@image1` as an empty frame. Kiko must be introduced naturally after the empty opening using one of the approved methods from `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Character Introduction After Empty Opening Rule.
+environment continuity only.
 
-Preferred approach for Central Square Shot 01: **Kiko enters from the lower-left visible rounded path, partially visible at the edge in the first story frame** (Method C). The left side has an open path and bench — Kiko enters naturally from there toward the red/pink detail area. Do not have Kiko pop into the center of Central Square. Do not have Kiko start at the tree base or center of frame.
+**Preferred approach for Central Square Shot 01:** First 2 seconds are a locked continuation of the empty opening final frame with no character visible. After the 2-second hold, Kiko enters from the lower-left visible rounded path or begins partially visible at the lower-left edge if needed. Do not show Kiko in the first frame.
 
 After the Shot 01 still is approved, that approved Kiko-visible still becomes the
 Episode Colour Master for the 120-second story.
@@ -75,62 +75,37 @@ Kiko must NOT look like:
 - A realistic human child
 - A tall or oversized character
 
-Kiko should occupy about **6-8% of the full wide frame** during the entrance and remain small within Central Square. If the camera gently settles, Kiko may become more readable, but she must not become an oversized close-up character. Do not make Kiko dominate the frame.
+Kiko should occupy about **6-8% of the full wide frame** during the entrance and remain small within Central Square. If the camera gently settles, Kiko may become more readable, but she must not become an oversized character. Do not make Kiko dominate the frame.
 
 ---
 
 ## Start Frame
 
-Kiko is introduced naturally after the empty Central Square Friends Micro-Opening.
-
-**Entrance direction:** Kiko enters from the lower-left visible rounded path, partially visible at the edge in the first story frame. The left side has an open path and bench — Kiko enters naturally from there toward the red/pink detail area. She does NOT start at the tree base or center of frame.
-
-The first story frame should preserve the opening environment from `@image1`: Big Pompom Tree centered, stepping-stone ring, benches (left and right), yellow flower planter (right), purple bunting (right), rounded paths, distant houses. Kiko should not suddenly appear centered in the scene.
-
-The first 1 second should visually hold close to @image1 before new action begins.
-For Shot 01, this applies to the Central Square environment continuity; Kiko's entrance should feel natural and continuous, not like a pop-in.
-
-In the visual prompt, include:
-```text
-Kiko enters from the lower-left visible rounded path, partially visible at the edge in the first story frame. Do not place Kiko suddenly in the center of the frame.
-```
+The first frame and first 2 seconds should preserve the opening environment from @image1. **No Kiko is visible during this locked hold.** Kiko enters only after 2 seconds.
 
 ---
 
-## Strict Frame Match Lock After Opening
+## Delayed Kiko Introduction Rule
 
-Shot 01 must begin as a direct continuation of the approved Central Square Friends Micro-Opening final frame.
+Shot 01 must begin with a 2-second locked hold of the approved Central Square Friends Micro-Opening final frame.
 
-The first frame of Shot 01 must match `@image1` as closely as possible.
+During 0-2 seconds:
+- No Kiko visible yet
+- No character appears
+- No character begins entering
+- No camera pull-back
+- No wider reset
+- No new side objects appear
+- No new establishing shot
+- The frame must match `@image1` almost exactly
 
-Preserve exactly:
-- Camera angle
-- Camera height
-- Lens feel
-- Framing
-- Big Pompom Tree position
-- Rounded path layout
-- Coloured stepping-stone ring position
-- Benches if visible
-- Yellow planter if visible
-- Purple bunting if visible
-- Distant houses if visible
-- Lighting
-- Colour grading
-- Exposure
-- Contrast
-- Background object positions
+Kiko may only begin entering after the 2-second locked hold.
 
-Do not recompose the scene to introduce Kiko.
-Do not move the camera to make room for Kiko.
-Do not change the camera angle to show Kiko.
-Do not reset to a wider, closer, higher, lower, or cleaner composition.
-Do not create a new establishing shot.
-Do not use `@image1` as a loose inspiration image.
+After 2 seconds, Kiko enters from the lower-left visible rounded path, inside the already-locked composition.
 
-Kiko's entrance must adapt to the existing opening final frame, not the other way around.
+If showing Kiko's full entrance path requires widening, pulling back, or recomposing the shot, do not show the full path. Instead, after the 2-second hold, start Kiko partially visible at the lower-left edge of the existing frame.
 
-If Kiko cannot safely enter from the lower-left visible rounded path without changing the camera or layout, start Kiko already partially visible at the lower-left edge of the existing frame. Preserve the exact `@image1` composition.
+Kiko's entrance is secondary to frame continuity.
 
 ---
 
@@ -167,8 +142,6 @@ Hard rules:
 - Do not recompose the scene to fit Kiko.
 
 Kiko must adapt to the locked opening frame.
-
-If Kiko cannot enter while preserving the exact opening frame composition, start Kiko already partially visible at the lower-left edge of the frame.
 
 The priority order is:
 1. First-frame match
@@ -212,6 +185,7 @@ This shot must pass the global QA rules in `00-CORE/17_VIDEO_GENERATION_STANDARD
 - Camera Must Not Break Continuity
 - First Second Continuity Hold
 - Object Identity Lock
+- Delayed Character Introduction Rule
 
 These locks are global production gates. Do not restate or weaken them locally. Keep the shot-specific guard below as the local application of the global rules.
 
@@ -219,56 +193,43 @@ These locks are global production gates. Do not restate or weaken them locally. 
 
 **Kiko's entrance is secondary to continuity.** The locked opening final frame is the priority.
 
-If showing Kiko's full lower-left entrance path requires changing camera angle, moving background objects, changing Kiko scale, or creating a new composition, do not show the full entrance path. Instead, start Kiko already partially visible at the lower-left edge of the existing frame, small and toddler-like, as if she was just outside the opening frame and is stepping in naturally.
+Kiko does NOT appear during the first 2 seconds. After the 2-second locked hold, Kiko enters from the lower-left visible rounded path inside the already-locked composition.
 
-Kiko must be introduced naturally after the empty opening. **Kiko enters from the lower-left visible rounded path, partially visible at the edge in the first story frame.** The left side has an open path and bench — Kiko enters naturally from there toward a small existing red/pink detail. She does NOT start at the tree base or center of frame. Her entrance path must be visible and physically possible.
+If showing Kiko's full entrance path requires changing camera angle, moving background objects, changing Kiko scale, or creating a new composition, do not show the full entrance path. Instead, after the 2-second hold, start Kiko partially visible at the lower-left edge of the existing frame, small and toddler-like.
 
 **HARD RULE: Do not create a new red planter, red pot, red bucket, red vase, or any new large red foreground object. Kiko notices an existing red/pink stepping stone already visible in @image1, preferably on the coloured stepping-stone ring or lower-left path area. Fallback only: If a red/pink stepping stone is not clearly available, use a tiny existing red/pink flower already visible in the same frame. Do not create any new red object.**
 
-Do not place Kiko inside flowers, bushes, planter edges or dense grass. Kiko may point, turn, smile or take one tiny step only. Kiko must not walk behind the red planter, bunting, bushes, flowers, tree trunk, bench or foreground grass, and she must remain visible from first frame to final frame.
+Do not place Kiko inside flowers, bushes, planter edges or dense grass. Kiko may point, turn, smile or take one tiny step only. Kiko must not walk behind the red planter, bunting, bushes, flowers, tree trunk, bench or foreground grass.
 
 Do not have Kiko enter from behind bushes, trees, benches, planters, houses, walls or foreground plants. No character pop-in after the opening.
 
 **Do not zoom in aggressively toward a new object. Use only a very slow child-eye-level settle.**
 
+---
 
 ## Visual Prompt
 
 ```text
 Duration: 15 seconds.
 
-The first frame must match `@image1` almost exactly and must not be wider than `@image1`.
-Do not pull back at the start.
-Do not reveal additional objects or extra side space.
-Do not recompose the scene for Kiko.
-Kiko must enter inside the locked opening final frame composition.
-
-If a full lower-left entrance cannot be shown without widening the shot or changing composition, begin with Kiko already partially visible at the lower-left edge.
-
-The first frame must match `@image1` almost exactly. Treat `@image1` as the locked Central Square opening final frame, not a loose reference. The camera angle, background layout, object positions, lighting, colour grading, exposure and contrast must remain unchanged.
-
-Do not recompose the scene for Kiko. Kiko must enter only if she can enter naturally within the locked composition. If Kiko cannot safely enter from the lower-left visible path without changing the camera, start Kiko already partially visible at the lower-left edge while preserving the exact `@image1` composition.
-
 Use @image1 as the approved Central Square Friends Micro-Opening final frame.
 
-Kiko from Pompom Hills entering Central Square from the lower-left visible rounded path, partially visible at the edge in the first story frame. Kiko must remain small and toddler-like, with approved preschool proportions. Do not make her look older, taller, realistic, or school-age. Keep her scale small within Central Square (about 6-8% of the wide frame). She enters naturally and notices an existing red/pink stepping stone already visible in @image1, preferably on the coloured stepping-stone ring or lower-left path area.
+First 2 seconds must match @image1 almost exactly.
+No Kiko visible during the first 2 seconds.
+No character appears or begins entering during the first 2 seconds.
+Do not pull back, widen, push in, recompose, or reveal new side objects.
 
-Do not create a new red planter. Do not introduce a large red pot, bucket, vase, or any new foreground object. The red/pink stepping stone must already exist in @image1. Fallback only: If a red/pink stepping stone is not clearly available, use a tiny existing red/pink flower already visible in the same frame. Do not create any new red object.
+After the 2-second locked hold, Kiko enters from the lower-left visible rounded path inside the existing locked composition. If the full entrance path cannot be shown without changing the camera, start Kiko partially visible at the lower-left edge after the 2-second hold.
 
-Do not place Kiko suddenly in the center of the frame. Do not zoom in aggressively. Do not reset the camera. Do not change the layout.
+Kiko must remain small and toddler-like, with approved preschool proportions. Do not make her look older, taller, realistic, school-age, or oversized. Keep her scale small within Central Square.
 
-Keep the Big Pompom Tree, benches, stepping-stone ring, paths, houses, flowers, yellow planter, and purple bunting in the same positions from @image1.
+Kiko notices an existing red/pink stepping stone already visible in @image1, preferably on the coloured stepping-stone ring or lower-left path area. Do not create a new red planter, red pot, red bucket, red vase, large red object, or any new foreground object.
 
-Warm morning daylight, soft pastel colours, no other characters, {style} {camera} {lighting}
+Preserve the Big Pompom Tree, rounded paths, coloured stepping-stone ring, grass, benches, planters, camera position, lighting, colour grading, exposure, contrast and Central Square layout from @image1.
 
-Use @image1 as the environment continuity reference from the approved Central Square Friends Micro-Opening final frame.
+No other characters. No Mimi. No on-screen text. No captions. No subtitles. No speech bubbles.
 
-Preserve the Big Pompom Tree, rounded paths, coloured stepping-stone ring, grass, benches, planters, camera position, lighting and Central Square layout from @image1.
-
-Kiko enters from the lower-left visible rounded path. Do not make Kiko suddenly appear fully centered in the first frame. Introduce Kiko by visible entrance or partial edge reveal only. The first second should preserve the opening environment.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Central Square background is locked from the first frame; keep all visible benches, trees, paths, flowerbeds, stepping stones and landmarks stable throughout the shot.
+Warm morning daylight, soft pastel colours, {style} {camera} {lighting}
 ```
 
 ---
@@ -289,20 +250,15 @@ reference. Shot 01's approved Kiko-visible still becomes the Episode Colour Mast
 
 ## Camera Direction
 
-**No camera reset at the beginning. No new establishing shot. No camera repositioning to introduce Kiko. No camera push-in to hide the transition. No new composition. No camera pull-back at the beginning. No reverse move after the opening. No wider reset. No framing expansion to introduce Kiko.** The camera may only hold or make an extremely tiny natural settle after the first second, while preserving the opening final composition. Kiko's entrance must happen inside the existing opening final frame composition.
+**The camera must remain locked for the first 2 seconds.** No camera pull-back, no push-in, no framing expansion, no new establishing shot. Kiko enters only after the first 2 seconds.
 
-Begin with a stable child-eye-level 35mm wide composition inside the same Central Square
-set. Kiko is introduced naturally, either partially visible at the edge or entering through a visible path, noticing an existing red/pink stepping stone within the first 3-5 seconds.
+During 0-2 seconds the camera is locked. No pull-back, no push-in, no wider reset, no framing expansion, no new establishing shot.
 
-The first 1 second should visually hold close to @image1 before new action begins.
-For Shot 01, this applies to the Central Square environment continuity; Kiko's entrance should feel natural and continuous.
+After 2 seconds, Kiko enters from the lower-left visible rounded path inside the locked composition. The camera may only make an extremely tiny natural settle after the first 2 seconds, while preserving the opening final composition.
 
 **Do not zoom in aggressively toward a new object. Use only a very slow child-eye-level settle. Keep the existing Central Square composition readable.**
 
 **Do not push in so far that Kiko becomes oversized or appears older. Keep the shot medium-wide enough to preserve her small childlike scale and the Central Square environment.**
-
-Use a gentle settle toward Kiko. Keep the Big Pompom Tree and rounded
-paths stable. No camera reset, no new location, no new establishing setup. If using camera reveal (Method A), the camera movement should be slow, stable and natural.
 
 ---
 
@@ -326,11 +282,18 @@ Kiko: Red! I found red!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Hold close to @image1 environment | Wide |
-| 1-4 sn | Kiko enters from lower-left visible path | Very slow child-eye-level settle |
-| 4-8 sn | Kiko notices a small existing red/pink detail | Stable |
-| 8-12 sn | Kiko points gently | Stable |
-| 12-15 sn | Kiko smiles and says: "Red! I found red!" | Medium-wide hold |
+| 0-2 sn | Locked hold on opening final frame, no character visible, no camera pull-back | Static / locked |
+| 2-5 sn | Kiko enters from lower-left edge/path inside the locked composition, already near the edge | Very tiny natural settle only |
+| 5-8 sn | Kiko notices the existing red/pink stepping stone | Stable |
+| 8-11 sn | Kiko points gently | Stable |
+| 11-15 sn | Kiko smiles and says: "Red! I found red!" | Medium-wide hold |
+
+Character entrance rules:
+- No full walk from far away
+- No long path crossing
+- No running
+- Camera does not track the character
+- Kiko is already near the lower-left edge, entering with a small natural movement
 
 ---
 
@@ -369,16 +332,36 @@ character pop-in after opening, sudden character appearance, character spawning 
 
 new composition, recomposed scene, camera reposition, new establishing shot, different first frame, changed camera angle, changed lens, changed background layout, continuity break after opening, Shot 01 not matching opening final frame, moving camera to introduce Kiko, camera reset to show Kiko, new scene after opening, opening-to-shot mismatch, character introduction causing camera reset
 
-camera pull-back, reverse camera move after opening, wider first frame, widened composition, framing reset, new side object reveal, different visible object set, recomposed first frame, Shot 01 wider than opening, opening-to-shot camera mismatch, continuity break after opening, new establishing shot after opening, tree smaller in first frame, more sky in first frame, extra side reveal
+camera pull-back, reverse camera move after opening, wider first frame, widened composition, framing reset, new side object reveal, different visible object set, recomposed first frame, Shot 01 wider than opening, opening-to-shot camera mismatch, new establishing shot after opening, tree smaller in first frame, more sky in first frame, extra side reveal
 
-new red pot, new red bucket, new red planter, new red vase, large foreground red object, object spawning, new foreground prop, sudden prop appearance, aggressive zoom, sudden close-up, new large red object, red object appearing from nowhere
+Kiko visible in first frame, character entering in first frame, character introduced at video start, new character in first 2 seconds, first-frame character introduction, camera pull-back to introduce Kiko, wider reset to introduce Kiko, recomposed opening frame
 
-older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, close-up character, aged-up Kiko, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame
+new red pot, new red bucket, new red planter, new red vase, large foreground red object, object spawning, new foreground prop, sudden prop appearance, aggressive zoom, sudden zoom, new large red object, red object appearing from nowhere
+
+older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, oversized character, aged-up Kiko, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame
 
 ## QA Checklist
 
 Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 
+- [ ] First 2 seconds match the opening final frame almost exactly.
+- [ ] No Kiko is visible during the first 2 seconds.
+- [ ] Kiko does not begin entering during the first 2 seconds.
+- [ ] No camera pull-back occurs before Kiko enters.
+- [ ] No wider reset occurs before Kiko enters.
+- [ ] Kiko enters only after the locked continuity hold.
+- [ ] Kiko enters inside the existing opening composition.
+- [ ] Kiko entrance does not force recomposition.
+- [ ] First frame of Shot 01 matches the Central Square opening final frame almost exactly.
+- [ ] Camera angle, lens feel and framing match the opening final frame.
+- [ ] Background object positions match the opening final frame.
+- [ ] Shot 01 first frame is not wider than the opening final frame.
+- [ ] No new side objects appear at the first frame.
+- [ ] Tree size in frame matches the opening final frame.
+- [ ] Visible sky proportion matches the opening final frame.
+- [ ] Visible benches, planter, bunting, houses and paths match the opening final frame.
+- [ ] Shot 01 does not begin as a new establishing shot.
+- [ ] The opening final frame is treated as a locked continuity frame, not a loose visual reference.
 - [ ] Kiko identity preserved.
 - [ ] Kiko looks toddler-like and preschool-safe, not older or school-age.
 - [ ] Kiko keeps approved small rounded proportions.
@@ -386,35 +369,6 @@ Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 - [ ] Kiko remains about 6-8% of the wide frame during entrance.
 - [ ] Camera does not push in so far that Kiko dominates the frame.
 - [ ] Kiko identity, age and scale match approved character reference.
-- [ ] First frame of Shot 01 matches the Central Square opening final frame almost exactly.
-- [ ] Camera angle, lens feel and framing match the opening final frame.
-- [ ] Background object positions match the opening final frame.
-- [ ] Kiko entrance does not cause camera reset or recomposition.
-- [ ] Kiko adapts to the locked opening final frame.
-- [ ] If lower-left entrance cannot be shown safely, Kiko starts partially visible at the lower-left edge instead of changing the camera.
-- [ ] Shot 01 does not begin as a new establishing shot.
-- [ ] No visible continuity break occurs between opening and Shot 01.
-- [ ] The opening final frame is treated as a locked continuity frame, not a loose visual reference.
-- [ ] Shot 01 first frame is not wider than the opening final frame.
-- [ ] No camera pull-back occurs at the start of Shot 01.
-- [ ] No new side objects appear at the first frame.
-- [ ] Tree size in frame matches the opening final frame.
-- [ ] Visible sky proportion matches the opening final frame.
-- [ ] Visible benches, planter, bunting, houses and paths match the opening final frame.
-- [ ] Shot 01 does not begin as a recomposed or wider establishing shot.
-- [ ] Kiko entrance happens inside the locked opening composition.
-- [ ] If necessary, Kiko begins partially visible instead of forcing a wider frame.
-- [ ] Central Square identity preserved.
-- [ ] `@image1` continuity used as environment reference from the Central Square Friends Micro-Opening final frame.
-- [ ] The first 1 second visually holds close to `@image1` for environment continuity before new action begins.
-- [ ] Kiko does not suddenly appear fully centered after the empty opening.
-- [ ] Kiko is introduced by visible entrance or partial edge reveal (Character Introduction After Empty Opening Rule).
-- [ ] Kiko's entrance path is visible and physically possible.
-- [ ] Kiko does not enter from behind bushes, trees, benches, planters, houses, walls or foreground plants.
-- [ ] The transition from empty opening to Kiko's first appearance feels natural.
-- [ ] No character pop-in occurs after the opening.
-- [ ] Shot 01 approved still becomes the Episode Colour Master.
-- [ ] Big Pompom Tree remains stable.
 - [ ] Red detail is an existing red/pink stepping stone already present in @image1 on the coloured stepping-stone ring or lower-left path area.
 - [ ] No new red pot, bucket, planter, vase or any new foreground object appears.
 - [ ] Red/pink stepping stone already existed in @image1 — not spawned into the scene.

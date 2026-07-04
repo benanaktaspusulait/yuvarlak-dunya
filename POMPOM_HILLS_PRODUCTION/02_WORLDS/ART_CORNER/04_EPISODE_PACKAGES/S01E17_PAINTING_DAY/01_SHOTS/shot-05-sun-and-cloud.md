@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Close-up of Sofia's canvas — a bright yellow sun with rays. Then close-up of Kiko's canvas — a fluffy white cloud with a blue sky. Then Mimi's canvas — colourful dots and swirls. They add details with small brush strokes. Art Corner — canvases, paint pots, warm morning light. Close-up alternating, 50mm, gentle pan, {style} {camera} {lighting}
+Static medium of Sofia's canvas — a bright yellow sun with rays. Then medium of Kiko's canvas — a fluffy white cloud with a blue sky. Then Mimi's canvas — colourful dots and swirls. They add details with small brush strokes. Art Corner — canvases, paint pots, warm morning light. Static medium alternating, 50mm, gentle pan, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -54,7 +54,7 @@ The Art Corner background is locked from the first frame; keep all visible canva
 
 ## Camera Direction
 
-Close-up alternating, 50mm, gentle pan.
+Static medium alternating, 50mm, gentle pan.
 
 Camera movement must remain slow, stable and natural.
 
@@ -74,10 +74,10 @@ Mimi: My painting is colourful!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches. Close-up of Sofia's sun painting. | Close-up, 50mm, static |
-| 3-7 sn | Sofia adds rays to the sun with small strokes | Close-up, 50mm, static |
-| 7-10 sn | Pan to Kiko's canvas — cloud taking shape | Close-up, 50mm, pan |
-| 10-13 sn | Kiko adds blue sky around the cloud | Close-up, 50mm, static |
+| 0-3 sn | First frame matches. Static medium of Sofia's sun painting. | Static medium, 50mm, static |
+| 3-7 sn | Sofia adds rays to the sun with small strokes | Static medium, 50mm, static |
+| 7-10 sn | Pan to Kiko's canvas — cloud taking shape | Static medium, 50mm, pan |
+| 10-13 sn | Kiko adds blue sky around the cloud | Static medium, 50mm, static |
 | 13-15 sn | They both lean back to look at their paintings | Medium, 50mm, static |
 
 ---
@@ -96,6 +96,10 @@ Mimi: My painting is colourful!
 Warm soft morning daylight. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

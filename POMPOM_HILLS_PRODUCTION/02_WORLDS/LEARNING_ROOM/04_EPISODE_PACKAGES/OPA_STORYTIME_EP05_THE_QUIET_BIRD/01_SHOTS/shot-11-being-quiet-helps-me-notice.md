@@ -31,7 +31,7 @@ Background locked from the first frame. Rug, story chair, bookshelf, lantern, cu
 ## Visual Prompt
 
 ```text
-Use Shot 10 video as Video Reference. Slow push-in close-up on Mimi, warm emotional micro-moment expression, Opa softly acknowledging, {style} {camera} {lighting}
+Use Shot 10 video as Video Reference. Slow push-in medium on Mimi, warm emotional micro-moment expression, Opa softly acknowledging, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 10 reference. Slow push-in to a close-up on Mimi. Lens 50mm, height 0.65m, slow push-in (Mimi close-up).
+Begin from the identical camera position of the Shot 10 reference. Slow push-in to a medium on Mimi. Lens 50mm, height 0.65m, slow push-in (Mimi medium).
 
 ---
 
@@ -60,7 +60,7 @@ Opa: Yes, little one. Your quiet is a gift.
 | Time | Action | Camera |
 |---|---|---|
 | 0-8 sn | Slow push-in on Mimi as she softly realises being quiet helps her notice more. | Push-in, 50mm |
-| 8-15 sn | Opa gently acknowledges that her quiet is a gift. | Close-up, 50mm |
+| 8-15 sn | Opa gently acknowledges that her quiet is a gift. | Static medium, 50mm |
 
 ---
 

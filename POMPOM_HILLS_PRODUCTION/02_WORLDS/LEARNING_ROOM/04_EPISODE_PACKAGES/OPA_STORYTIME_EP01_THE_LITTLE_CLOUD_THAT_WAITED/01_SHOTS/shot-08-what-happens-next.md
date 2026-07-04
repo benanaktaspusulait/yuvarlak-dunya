@@ -83,6 +83,10 @@ Continue Shot 07 lighting exactly. Warm window light, soft ambient glow. Continu
 - Continuity Reference: Shot 07 video (or exported final frame)
 - Voice: same approved references for Opa and Mimi
 
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world

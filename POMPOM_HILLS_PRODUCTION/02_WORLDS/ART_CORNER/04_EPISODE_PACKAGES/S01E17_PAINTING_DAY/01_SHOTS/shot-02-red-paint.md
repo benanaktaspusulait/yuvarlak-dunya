@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Close-up of Sofia painting a red flower on a white canvas. Her tongue peeks out in concentration. The brush moves gently across the canvas. Art Corner — wooden table, paint pots, canvas, warm morning light. Close-up, 50mm, static, no other characters, {style} {camera} {lighting}
+Static medium of Sofia painting a red flower on a white canvas. Her tongue peeks out in concentration. The brush moves gently across the canvas. Art Corner — wooden table, paint pots, canvas, warm morning light. Static medium, 50mm, static, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -54,7 +54,7 @@ The Art Corner background is locked from the first frame; keep all visible table
 
 ## Camera Direction
 
-Close-up, 50mm, static.
+Static medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -72,11 +72,11 @@ Sofia: A red flower... so pretty!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches. Sofia's brush touches the canvas. | Close-up, 50mm, static |
-| 3-7 sn | She paints a round flower shape in red | Close-up, 50mm, static |
-| 7-10 sn | She adds a stem — tongue out in concentration | Close-up, 50mm, static |
-| 10-13 sn | She leans back, looks at her flower, smiles | Close-up, 50mm, static |
-| 13-15 sn | She dips the brush again, ready for more | Close-up, 50mm, static |
+| 0-3 sn | First frame matches. Sofia's brush touches the canvas. | Static medium, 50mm, static |
+| 3-7 sn | She paints a round flower shape in red | Static medium, 50mm, static |
+| 7-10 sn | She adds a stem — tongue out in concentration | Static medium, 50mm, static |
+| 10-13 sn | She leans back, looks at her flower, smiles | Static medium, 50mm, static |
+| 13-15 sn | She dips the brush again, ready for more | Static medium, 50mm, static |
 
 ---
 
@@ -94,6 +94,10 @@ Sofia: A red flower... so pretty!
 Warm soft morning daylight. Identical to previous shot.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

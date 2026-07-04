@@ -31,7 +31,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 04 video as Video Reference. Close-up on book page with soft sound waves illustration (no readable text), Mimi leaning closer with curiosity, {style} {camera} {lighting}
+Use Shot 04 video as Video Reference. Static medium on book page with soft sound waves illustration (no readable text), Mimi leaning closer with curiosity, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 04 reference. Static close-up. Lens 50mm, height 0.60m, static.
+Begin from the identical camera position of the Shot 04 reference. Static medium. Lens 50mm, height 0.60m, static.
 
 ---
 
@@ -59,9 +59,9 @@ Mimi: Which sound did it like best?
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Book page shows soft sound illustrations. | Close-up, 50mm, static |
-| 5-10 sn | Mimi leans closer, asks "which sound did it like best?" | Close-up, 50mm, static |
-| 10-15 sn | Opa pauses thoughtfully. | Close-up, 50mm, static |
+| 0-5 sn | Book page shows soft sound illustrations. | Static medium, 50mm, static |
+| 5-10 sn | Mimi leans closer, asks "which sound did it like best?" | Static medium, 50mm, static |
+| 10-15 sn | Opa pauses thoughtfully. | Static medium, 50mm, static |
 
 ---
 
@@ -82,6 +82,10 @@ Continue Shot 04 lighting exactly. Warm window light, soft ambient glow. Continu
 
 - Continuity Reference: Shot 04 video (or exported final frame)
 - Voice: same approved references for Opa and Mimi
+
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

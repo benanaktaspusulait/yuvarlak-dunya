@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-The butterfly rests on a tall round flower. Its wings open and close slowly. Luca and Kiko tiptoe closer, watching with wonder. Close-up of the butterfly on the flower, then medium shot of the children watching. Butterfly Meadow — tall flowers, sunny day, warm light. Medium to close-up, 50mm, gentle push-in, no other characters, {style} {camera} {lighting}
+The butterfly rests on a tall round flower. Its wings open and close slowly. Luca and Kiko tiptoe closer, watching with wonder. Static medium of the butterfly on the flower, then medium shot of the children watching. Butterfly Meadow — tall flowers, sunny day, warm light. Medium to medium, 50mm, gentle push-in, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -56,7 +56,7 @@ The Butterfly Meadow background is locked from the first frame; keep all visible
 
 The shot must begin from the identical camera position shown in the previous shot reference.
 
-Medium to close-up, 50mm, gentle push-in.
+Medium to medium, 50mm, gentle push-in.
 
 Camera movement must remain slow, stable and natural.
 
@@ -77,7 +77,7 @@ Luca: Look at its wings!
 |---|---|---|
 | 0-3 sn | First frame matches. Butterfly on flower, wings open/close. | Medium, 50mm, static |
 | 3-7 sn | Luca and Kiko tiptoe closer, whispering | Medium, 50mm, push-in |
-| 7-10 sn | Close-up of butterfly wings — beautiful pattern | Close-up, 50mm, push-in |
+| 7-10 sn | Static medium of butterfly wings — beautiful pattern | Static medium, 50mm, push-in |
 | 10-13 sn | Kiko whispers "Shh..." Luca nods, eyes wide | Medium, 50mm, static |
 | 13-15 sn | Butterfly lifts off again. They gasp softly. | Medium, 50mm, static |
 
@@ -97,6 +97,10 @@ Luca: Look at its wings!
 Bright sunny day. Vibrant colors. Soft shadows. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

@@ -84,6 +84,10 @@ Continue Shot 13 lighting exactly. Soft diffused rainy-day window light, warm in
 - Continuity Reference: Shot 13 video (or exported final frame)
 - Voice: no dialogue in this shot
 
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, abrupt cut to black

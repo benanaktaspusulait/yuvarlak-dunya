@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-The creek's singing softens to a gentle murmur. Mimo and Kiko listen quietly, their eyes soft. The water flows calmly. Rainbow Creek — stream flowing gently, warm morning light, peaceful moment. Close-up, 50mm, static, {style} {camera} {lighting}
+The creek's singing softens to a gentle murmur. Mimo and Kiko listen quietly, their eyes soft. The water flows calmly. Rainbow Creek — stream flowing gently, warm morning light, peaceful moment. Static medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -54,7 +54,7 @@ The Rainbow Creek background is locked from the first frame; keep all visible st
 
 ## Camera Direction
 
-Close-up, 50mm, static.
+Static medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -73,11 +73,11 @@ Kiko: Thank you for the song.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches. Creek softens to a murmur. | Close-up, 50mm, static |
-| 3-7 sn | Mimo and Kiko listen quietly | Close-up, 50mm, static |
-| 7-10 sn | Mimo whispers "Thank you" to the water | Close-up, 50mm, static |
-| 10-13 sn | Kiko whispers too, touching the water gently | Close-up, 50mm, static |
-| 13-15 sn | They sit in peaceful silence | Close-up, 50mm, static |
+| 0-3 sn | First frame matches. Creek softens to a murmur. | Static medium, 50mm, static |
+| 3-7 sn | Mimo and Kiko listen quietly | Static medium, 50mm, static |
+| 7-10 sn | Mimo whispers "Thank you" to the water | Static medium, 50mm, static |
+| 10-13 sn | Kiko whispers too, touching the water gently | Static medium, 50mm, static |
+| 13-15 sn | They sit in peaceful silence | Static medium, 50mm, static |
 
 ---
 
@@ -95,6 +95,10 @@ Kiko: Thank you for the song.
 Warm soft morning daylight. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

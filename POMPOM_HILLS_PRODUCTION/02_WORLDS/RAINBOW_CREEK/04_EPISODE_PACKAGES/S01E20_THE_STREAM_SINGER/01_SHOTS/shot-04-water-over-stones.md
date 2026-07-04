@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Close-up of water flowing over smooth round stones. The water makes a soft bubbling melody. Mimo, Kiko and Luca lean in, watching the water dance over the stones. Rainbow Creek — close-up of stream, smooth stones, water flowing, warm morning light. Close-up, 50mm, static, {style} {camera} {lighting}
+Static medium of water flowing over smooth round stones. The water makes a soft bubbling melody. Mimo, Kiko and Luca lean in, watching the water dance over the stones. Rainbow Creek — medium of stream, smooth stones, water flowing, warm morning light. Static medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -54,7 +54,7 @@ The Rainbow Creek background is locked from the first frame; keep all visible st
 
 ## Camera Direction
 
-Close-up, 50mm, static.
+Static medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -74,10 +74,10 @@ Luca: So many sounds!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches. Close-up of water over stones. | Close-up, 50mm, static |
-| 3-7 sn | Water flows, making soft bubbling sounds | Close-up, 50mm, static |
-| 7-10 sn | Mimo and Kiko's faces appear at the edge, watching | Close-up, 50mm, static |
-| 10-13 sn | They point at different stones, listening to different sounds | Close-up, 50mm, static |
+| 0-3 sn | First frame matches. Static medium of water over stones. | Static medium, 50mm, static |
+| 3-7 sn | Water flows, making soft bubbling sounds | Static medium, 50mm, static |
+| 7-10 sn | Mimo and Kiko's faces appear at the edge, watching | Static medium, 50mm, static |
+| 10-13 sn | They point at different stones, listening to different sounds | Static medium, 50mm, static |
 | 13-15 sn | They lean back, amazed | Medium, 50mm, static |
 
 ---
@@ -96,6 +96,10 @@ Luca: So many sounds!
 Warm soft morning daylight. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

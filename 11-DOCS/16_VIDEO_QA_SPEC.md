@@ -273,6 +273,11 @@ When the opening has no characters and Shot 01 introduces the first character, Q
 - [ ] Character does not appear from a hidden occlusion.
 - [ ] The first 1 second still preserves the opening environment, lighting and layout.
 - [ ] The transition does not feel like an accidental jump cut.
+- [ ] In any continuity-linked shot, no new character appears during the first 2 seconds.
+- [ ] The first 2 seconds match the previous approved final frame almost exactly.
+- [ ] New character introduction happens after the locked continuity hold.
+- [ ] Camera does not pull back or recompose to introduce a character.
+- [ ] If the full entrance cannot be shown safely, the character starts partially visible at the frame edge after the 2-second hold.
 
 QA must reject Shot 01 if the first character appears suddenly after an empty opening with no visible entrance or camera reveal logic.
 

@@ -31,7 +31,7 @@ Background locked from the first frame. Big Pompom Tree, stone circle, grass and
 ## Visual Prompt
 
 ```text
-Use Shot 07 video as Video Reference. Close-up on the leaf slowing its dance as the sunset deepens, Opa narrates the wind slowing, Kiko and Noah notice, {style} {camera} {lighting}
+Use Shot 07 video as Video Reference. Static medium on the leaf slowing its dance as the sunset deepens, Opa narrates the wind slowing, Kiko and Noah notice, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 07 reference. Hold a static close-up on the leaf detail. Lens 50mm, height 0.60m, static close-up (leaf detail).
+Begin from the identical camera position of the Shot 07 reference. Hold a static medium on the leaf detail. Lens 50mm, height 0.60m, static medium (leaf detail).
 
 ---
 
@@ -60,9 +60,9 @@ Noah: I get tired too.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa narrates the sun going down and the wind slowing. | Close-up, 50mm, static |
-| 5-10 sn | The leaf slows its dance as the sunset deepens. Kiko asks if the wind was tired. | Close-up, 50mm, static |
-| 10-15 sn | Noah says he gets tired too. | Close-up, 50mm, static |
+| 0-5 sn | Opa narrates the sun going down and the wind slowing. | Static medium, 50mm, static |
+| 5-10 sn | The leaf slows its dance as the sunset deepens. Kiko asks if the wind was tired. | Static medium, 50mm, static |
+| 10-15 sn | Noah says he gets tired too. | Static medium, 50mm, static |
 
 ---
 

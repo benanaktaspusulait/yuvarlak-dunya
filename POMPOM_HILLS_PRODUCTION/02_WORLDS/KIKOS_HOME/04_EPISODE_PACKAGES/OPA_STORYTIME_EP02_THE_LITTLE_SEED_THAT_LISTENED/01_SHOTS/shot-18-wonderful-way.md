@@ -79,6 +79,10 @@ Continue Shot 17 lighting exactly.
 - Continuity Reference: Shot 17 video
 - Voice: no dialogue in this shot
 
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, modern furniture, harsh lighting, scary shadows, adult lecture feeling, different world, abrupt cut to black

@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-A butterfly lands gently on Kiko's nose. She freezes, cross-eyed, then giggles softly. Luca watches and laughs. Opa sits on a garden bench nearby, watching with a warm smile. Hidden garden — flowers, butterflies, garden bench, warm sunny light. Close-up to medium, 50mm, static, {style} {camera} {lighting}
+A butterfly lands gently on Kiko's nose. She freezes, cross-eyed, then giggles softly. Luca watches and laughs. Opa sits on a garden bench nearby, watching with a warm smile. Hidden garden — flowers, butterflies, garden bench, warm sunny light. Static medium to medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -56,7 +56,7 @@ The Butterfly Meadow background is locked from the first frame; keep all visible
 
 The shot must begin from the identical camera position shown in the previous shot reference.
 
-Close-up to medium, 50mm, static.
+Static medium to medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -76,9 +76,9 @@ Opa: Well done, Kiko!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches. Butterfly flutters toward Kiko. | Close-up, 50mm, static |
-| 3-7 sn | Butterfly lands on Kiko's nose. She freezes. Cross-eyed. | Close-up, 50mm, static |
-| 7-10 sn | Kiko giggles softly. Butterfly's wings open/close. | Close-up, 50mm, static |
+| 0-3 sn | First frame matches. Butterfly flutters toward Kiko. | Static medium, 50mm, static |
+| 3-7 sn | Butterfly lands on Kiko's nose. She freezes. Cross-eyed. | Static medium, 50mm, static |
+| 7-10 sn | Kiko giggles softly. Butterfly's wings open/close. | Static medium, 50mm, static |
 | 10-13 sn | Luca watches and laughs. Opa smiles from the bench. | Medium, 50mm, static |
 | 13-15 sn | Butterfly lifts off. Kiko touches her nose, smiling. | Medium, 50mm, static |
 
@@ -98,6 +98,10 @@ Opa: Well done, Kiko!
 Bright sunny day. Vibrant garden colors. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

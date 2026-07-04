@@ -80,6 +80,10 @@ Continue Shot 06 lighting exactly.
 - Continuity Reference: Shot 06 video
 - Voice: same approved references for Opa, Luca and Noah
 
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, black night values, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, adult lecture feeling

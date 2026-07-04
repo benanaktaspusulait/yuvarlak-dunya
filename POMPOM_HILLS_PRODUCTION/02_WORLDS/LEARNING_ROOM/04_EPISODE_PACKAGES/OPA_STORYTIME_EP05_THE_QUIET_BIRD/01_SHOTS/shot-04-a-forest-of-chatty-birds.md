@@ -31,7 +31,7 @@ Background locked from the first frame. Rug, story chair, bookshelf, lantern, cu
 ## Visual Prompt
 
 ```text
-Use Shot 03 video as Video Reference. Close-up on book page with soft bird illustrations showing many chatty birds (no readable text), Mimi reacting quietly, recognising herself, {style} {camera} {lighting}
+Use Shot 03 video as Video Reference. Static medium on book page with soft bird illustrations showing many chatty birds (no readable text), Mimi reacting quietly, recognising herself, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 03 reference. Only after the first frame matches, hold a static close-up on the book detail. Lens 50mm, height 0.60m, static close-up (book detail).
+Begin from the identical camera position of the Shot 03 reference. Only after the first frame matches, hold a static medium on the book detail. Lens 50mm, height 0.60m, static medium (book detail).
 
 ---
 
@@ -59,8 +59,8 @@ Mimi: I like listening too.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-7 sn | Close-up on the book page shows soft bird illustrations as Opa describes the chatty birds. | Close-up, 50mm, static |
-| 7-15 sn | Mimi reacts quietly, softly recognising herself, and says she likes listening too. | Close-up, 50mm, static |
+| 0-7 sn | Static medium on the book page shows soft bird illustrations as Opa describes the chatty birds. | Static medium, 50mm, static |
+| 7-15 sn | Mimi reacts quietly, softly recognising herself, and says she likes listening too. | Static medium, 50mm, static |
 
 ---
 

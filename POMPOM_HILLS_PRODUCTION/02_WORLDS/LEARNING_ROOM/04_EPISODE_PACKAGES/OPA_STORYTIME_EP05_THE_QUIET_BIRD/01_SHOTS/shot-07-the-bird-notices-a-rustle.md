@@ -31,7 +31,7 @@ Background locked from the first frame. Rug, story chair, bookshelf, lantern, cu
 ## Visual Prompt
 
 ```text
-Use Shot 06 video as Video Reference. Close-up on book page, soft imagination glow showing a tiny rustle/movement detail, Luca leaning in fascinated, {style} {camera} {lighting}
+Use Shot 06 video as Video Reference. Static medium on book page, soft imagination glow showing a tiny rustle/movement detail, Luca leaning in fascinated, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
 
@@ -60,7 +60,7 @@ Luca: What was it?
 | Time | Action | Camera |
 |---|---|---|
 | 0-8 sn | A soft imagination glow shows a tiny rustle on the page as Opa explains what the quiet bird noticed. | Push-in, 50mm |
-| 8-15 sn | Luca leans in, fascinated, and asks what it was. | Close-up, 50mm |
+| 8-15 sn | Luca leans in, fascinated, and asks what it was. | Static medium, 50mm |
 
 ---
 

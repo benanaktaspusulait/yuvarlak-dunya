@@ -43,7 +43,7 @@ The viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 
-Kiko dips her brush in yellow, then in blue. She mixes carefully. Green appears! She gasps with joy. "Green!" Sofia nods proudly. Art Corner — wooden table, palette, paint pots, warm morning light. Close-up to medium, 50mm, static, {style} {camera} {lighting}
+Kiko dips her brush in yellow, then in blue. She mixes carefully. Green appears! She gasps with joy. "Green!" Sofia nods proudly. Art Corner — wooden table, palette, paint pots, warm morning light. Static medium to medium, 50mm, static, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
@@ -54,7 +54,7 @@ The Art Corner background is locked from the first frame; keep all visible table
 
 ## Camera Direction
 
-Close-up to medium, 50mm, static.
+Static medium to medium, 50mm, static.
 
 Camera movement must remain slow, stable and natural.
 
@@ -74,9 +74,9 @@ Kiko: Green! I made green!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sn | First frame matches. Kiko dips brush in yellow. | Close-up, 50mm, static |
-| 3-7 sn | She dips in blue. Sofia watches encouragingly. | Close-up, 50mm, static |
-| 7-10 sn | She mixes carefully. Green appears! | Close-up, 50mm, static |
+| 0-3 sn | First frame matches. Kiko dips brush in yellow. | Static medium, 50mm, static |
+| 3-7 sn | She dips in blue. Sofia watches encouragingly. | Static medium, 50mm, static |
+| 7-10 sn | She mixes carefully. Green appears! | Static medium, 50mm, static |
 | 10-13 sn | Kiko gasps. "Green!" | Medium, 50mm, static |
 | 13-15 sn | Sofia nods, proud. They high-five gently. | Medium, 50mm, static |
 
@@ -96,6 +96,10 @@ Kiko: Green! I made green!
 Warm soft morning daylight. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

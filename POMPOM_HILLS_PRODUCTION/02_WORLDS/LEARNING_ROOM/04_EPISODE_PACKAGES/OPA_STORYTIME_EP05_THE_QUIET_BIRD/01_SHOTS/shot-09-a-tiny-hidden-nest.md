@@ -31,7 +31,7 @@ Background locked from the first frame. Rug, story chair, bookshelf, lantern, cu
 ## Visual Prompt
 
 ```text
-Use Shot 08 video as Video Reference. Close-up on book page, soft glowing hidden-nest illustration (no readable text), Mimi gasping softly with delight, {style} {camera} {lighting}
+Use Shot 08 video as Video Reference. Static medium on book page, soft glowing hidden-nest illustration (no readable text), Mimi gasping softly with delight, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 08 reference. Only after the first frame matches, hold a static close-up on the book detail. Lens 50mm, height 0.60m, static close-up (book detail).
+Begin from the identical camera position of the Shot 08 reference. Only after the first frame matches, hold a static medium on the book detail. Lens 50mm, height 0.60m, static medium (book detail).
 
 ---
 
@@ -59,8 +59,8 @@ Mimi: No one else saw it!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-8 sn | A soft glowing hidden-nest illustration appears on the page as Opa reveals what the bird found. | Close-up, 50mm, static |
-| 8-15 sn | Mimi gasps softly with delight that no one else saw it. | Close-up, 50mm, static |
+| 0-8 sn | A soft glowing hidden-nest illustration appears on the page as Opa reveals what the bird found. | Static medium, 50mm, static |
+| 8-15 sn | Mimi gasps softly with delight that no one else saw it. | Static medium, 50mm, static |
 
 ---
 

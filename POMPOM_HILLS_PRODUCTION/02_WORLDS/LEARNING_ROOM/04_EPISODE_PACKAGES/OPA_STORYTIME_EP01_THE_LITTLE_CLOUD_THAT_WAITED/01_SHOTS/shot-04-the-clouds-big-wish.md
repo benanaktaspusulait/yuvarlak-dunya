@@ -31,7 +31,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 03 video as Video Reference. Close-up on book page with soft flower illustration (no readable text), Mimi leaning closer with a curious expression, {style} {camera} {lighting}
+Use Shot 03 video as Video Reference. Static medium on book page with soft flower illustration (no readable text), Mimi leaning closer with a curious expression, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 03 reference. Static close-up on the book detail. Lens 50mm, height 0.60m, static.
+Begin from the identical camera position of the Shot 03 reference. Static medium on the book detail. Lens 50mm, height 0.60m, static.
 
 ---
 
@@ -60,9 +60,9 @@ Opa: A little. The cloud wanted to help them right away.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Book page shows soft flowers waiting below (no readable text). | Close-up, 50mm, static |
-| 5-10 sn | Mimi leans closer, asks "were they thirsty?" | Close-up, 50mm, static |
-| 10-15 sn | Opa explains the cloud wanted to help right away. | Close-up, 50mm, static |
+| 0-5 sn | Book page shows soft flowers waiting below (no readable text). | Static medium, 50mm, static |
+| 5-10 sn | Mimi leans closer, asks "were they thirsty?" | Static medium, 50mm, static |
+| 10-15 sn | Opa explains the cloud wanted to help right away. | Static medium, 50mm, static |
 
 ---
 
@@ -84,6 +84,10 @@ Continue Shot 03 lighting exactly. Warm window light, soft ambient glow. Continu
 - Continuity Reference: Shot 03 video (or exported final frame)
 - Voice: same approved references for Opa and Mimi
 
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world
@@ -95,7 +99,7 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] Frame Lock present; first frame indistinguishable from @image1
 - [ ] Voice continuity verified (Opa, Mimi)
 - [ ] Colour / lighting continuity verified
-- [ ] Close-up does not cut off world identity entirely
+- [ ] Static medium does not cut off world identity entirely
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted

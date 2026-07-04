@@ -80,6 +80,10 @@ Continue Shot 19 lighting exactly.
 - Continuity Reference: Shot 19 video
 - This is the final story shot; shared closing bumper follows in edit.
 
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, black night values, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, different tree, adult lecture feeling, abrupt cut to black

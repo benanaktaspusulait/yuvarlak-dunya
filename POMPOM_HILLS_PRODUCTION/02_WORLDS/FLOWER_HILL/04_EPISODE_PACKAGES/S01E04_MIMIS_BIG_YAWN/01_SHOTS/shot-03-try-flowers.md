@@ -109,6 +109,10 @@ Warm, gentle, low contrast. Identical to previous shots.
 
 ---
 
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance

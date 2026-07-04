@@ -79,6 +79,10 @@ Continue Shot 08 lighting exactly.
 - Continuity Reference: Shot 08 video
 - Voice: same approved references for Opa and Kiko
 
+## Character Presence
+
+Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, modern furniture, harsh lighting, scary shadows, adult lecture feeling, different world

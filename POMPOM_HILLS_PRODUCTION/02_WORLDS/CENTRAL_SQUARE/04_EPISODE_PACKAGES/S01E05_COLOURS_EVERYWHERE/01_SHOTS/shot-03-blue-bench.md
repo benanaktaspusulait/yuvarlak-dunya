@@ -254,7 +254,7 @@ teleporting character, disappearing character, character hidden behind bush, cha
 
 intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
 
-older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, close-up character, aged-up Kiko, aged-up Mimi, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame, Kiko too large, Mimi too large
+older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, medium character, aged-up Kiko, aged-up Mimi, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame, Kiko too large, Mimi too large
 
 new blue bench, new blue object, large foreground blue bench, blue bench appearing from nowhere, bench spawning, duplicated bench, resized bench, moved bench
 
