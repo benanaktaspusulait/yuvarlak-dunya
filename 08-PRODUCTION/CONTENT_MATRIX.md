@@ -31,6 +31,8 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | S01E02-A | Kiko | Kiko's Home | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | S01E11 | Arda, Opa | Opa's Tree | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Opa's Storytime — The Little Cloud That Waited | Opa, Luca, Mimi | Indoor Reading Corner | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Noah Intro — Reel 1 (Meet Noah, full 30s) | Noah | Central Square | — | ⚪ | ⚪ | ⚪ | 🟠 | ⚪ | ⚪ |
+| Noah Intro — Reel 2 (I Have an Idea, 15s cut) | Noah | Central Square | — | ⚪ | ⚪ | ⚪ | 🟠 | ⚪ | ⚪ |
 
 > Yeni içerik üretildikçe/yayınlandıkça satır ekleyin ve ilgili durum sütununu güncelleyin.
 > "Series / Playlist" sütunu, bölümün ait olduğu tekrarlayan alt-seri/playlist'i işaretler (bkz. `11-DOCS/02_SEASON_STRATEGY.md` § Recurring Sub-Series). Tek seferlik bölümler için "—" kullanın.

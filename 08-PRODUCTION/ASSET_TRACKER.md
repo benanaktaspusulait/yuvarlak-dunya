@@ -62,6 +62,17 @@ Tüm production assetlerinin durumunu takip eder.
 
 ---
 
+## 2a. Instagram Reels Assetleri (US Timing Deneyi)
+
+| Reel | Kaynak Dosya | Süre | Format | Kapak Fotoğrafı | Durum |
+|------|-------------|------|--------|------------------|-------|
+| Noah Reel 1 — Meet Noah | `15-VIDEOS/intro-shorts/noah-intro-shorts.mp4` (mevcut, değiştirilmedi) | 30 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-1-cover.jpg` (~21.5s karesi) | 🟢 Hazır |
+| Noah Reel 2 — I Have an Idea (cutest 15s cut) | `15-VIDEOS/reels/noah-reel-2-cutest-15s.mp4` (yeni, ilk 15sn kesildi) | 15 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-2-cover.jpg` (~9.5s karesi) | 🟢 Hazır |
+
+Not: Reel 2, Reel 1'den en az 24-48 saat sonra farklı bir gün diliminde paylaşılmalı (bkz. metadata detayları için konuşma geçmişi / `00-CORE/30_YOUTUBE_METADATA_STANDARD.md`).
+
+---
+
 ## 3. Prop Assetleri
 
 | Prop | Model | Textür | Prompt | Durum |

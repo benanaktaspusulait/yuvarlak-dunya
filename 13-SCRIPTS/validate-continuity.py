@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """validate-continuity.py — Karakter ölçek ve renk paleti doğrulama"""
 
+import glob
 import os
 import re
 import sys
@@ -32,26 +33,29 @@ def main():
     print("=== Pompom Hills Süreklilik Doğrulama ===\n")
     
     errors_total = 0
-    scenes_dir = "04-SCENES/season-01"
-    
-    if not os.path.exists(scenes_dir):
-        print("❌ 04-SCENES/season-01/ dizini bulunamadı")
+    # Bölümler artık dünya-bazlı üretim paketlerinde yaşıyor:
+    #   POMPOM_HILLS_PRODUCTION/02_WORLDS/<WORLD>/04_EPISODE_PACKAGES/<EPISODE>/
+    worlds_dir = "POMPOM_HILLS_PRODUCTION/02_WORLDS"
+
+    if not os.path.exists(worlds_dir):
+        print(f"❌ {worlds_dir}/ dizini bulunamadı")
         return 1
-    
-    for episode in sorted(os.listdir(scenes_dir)):
-        episode_path = os.path.join(scenes_dir, episode)
-        if not os.path.isdir(episode_path) or episode.startswith('.'):
-            continue
-        
-        for filename in sorted(os.listdir(episode_path)):
-            if filename.endswith('.md') and not filename.startswith('README'):
-                filepath = os.path.join(episode_path, filename)
-                errors = check_scene_file(filepath)
-                if errors:
-                    print(f"⚠️  {episode}/{filename}:")
-                    for e in errors:
-                        print(f"   - {e}")
-                    errors_total += len(errors)
+
+    episode_dirs = sorted(glob.glob(os.path.join(worlds_dir, "*", "04_EPISODE_PACKAGES", "*")))
+
+    for episode_path in episode_dirs:
+        episode = os.path.relpath(episode_path, worlds_dir)
+        for root, _dirs, files in os.walk(episode_path):
+            for filename in sorted(files):
+                if filename.endswith('.md') and not filename.startswith('README'):
+                    filepath = os.path.join(root, filename)
+                    errors = check_scene_file(filepath)
+                    if errors:
+                        rel = os.path.relpath(filepath, episode_path)
+                        print(f"⚠️  {episode}/{rel}:")
+                        for e in errors:
+                            print(f"   - {e}")
+                        errors_total += len(errors)
     
     print(f"\n{'✅' if errors_total == 0 else '❌'} Toplam: {errors_total} hata")
     return 1 if errors_total > 0 else 0
