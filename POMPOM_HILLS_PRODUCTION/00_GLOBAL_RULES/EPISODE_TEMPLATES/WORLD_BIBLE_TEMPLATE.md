@@ -14,7 +14,7 @@
 
 \```
 Environment ID: ENV-[XXX]
-File: 12-ENVIRONMENT/[XX-world-name]/
+File: POMPOM_HILLS_PRODUCTION/02_WORLDS/[WORLD_NAME]/01_HERO_VIEW/
 Version: 2.0
 Location: [Location]
 Bible: ✅

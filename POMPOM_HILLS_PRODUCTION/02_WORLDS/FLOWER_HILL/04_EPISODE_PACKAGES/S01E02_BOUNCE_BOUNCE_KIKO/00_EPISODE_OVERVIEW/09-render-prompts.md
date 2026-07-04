@@ -22,7 +22,7 @@ Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush 
 
 ### Scene 01 — Flower Hill — Home Cluster Zone
 ```text
-Kiko opening the round door of her coral pink house on Flower Hill — Home Cluster Zone, rounded dome homes and garden path visible (use 12-ENVIRONMENT/25-flower-hill/hero-view.png as visual quality anchor), morning warm soft daylight, light blue sky, round white clouds, warm sun, green grass, round flowers nearby, Kiko 100 units tall, brown pigtails, coral pink shirt, white shorts, happy smile, {style}, {camera}, {lighting}, 16:9
+Kiko opening the round door of her coral pink house on Flower Hill — Home Cluster Zone, rounded dome homes and garden path visible (use POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/hero-view.png as visual quality anchor), morning warm soft daylight, light blue sky, round white clouds, warm sun, green grass, round flowers nearby, Kiko 100 units tall, brown pigtails, coral pink shirt, white shorts, happy smile, {style}, {camera}, {lighting}, 16:9
 ```
 
 ### Scene 02 — Flower Hill — Home Cluster Zone

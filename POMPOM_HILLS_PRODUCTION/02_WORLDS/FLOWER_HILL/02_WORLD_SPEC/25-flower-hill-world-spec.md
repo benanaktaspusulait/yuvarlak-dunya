@@ -586,7 +586,7 @@ If any test fails, reject — see Generation Failures table below.
 > Continuity pipeline stays as-is; these images inform which reference is
 > loaded for a given shot angle.
 
-Four approved legacy images exist at `12-ENVIRONMENT/25-flower-hill/`:
+Four approved legacy images exist at `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/`:
 `hero-view.png`, `left-view.png`, `right-view.png`, `top-view.png`. Use them
 as Visual Quality Anchors to restore charm and richness — do not copy every
 object blindly. This spec decides what is canon.
@@ -845,7 +845,7 @@ Every future episode using Flower Hill should load the Hero View as its master r
 | 4.1 micro-polish | Unified Pompom Hills spelling. Unified default lighting as warm morning daylight. Marked sunset/snow/rain as special variants. Clarified that connected homes are optional and secondary in Hero View. | — |
 | 4.2 | Production-depth pass: added Hero View Technical Setup and framing ratios, expanded World Identity Lock (locked element table + Canonical Hero View Rule), expanded Colour Palette (highlight/shadow behaviour), expanded Lighting (direction table, softness, ambient fill, shadow density, continuity), expanded Camera Identity (lens, movement philosophy, allowed/forbidden movements, framing/transition rules), new Environmental Sound Identity, new World Navigation, new View Transition Rules, categorized Production QA (World/Camera/Lighting/Colour/Scale/Atmosphere/World Recognition), new Scale table, new Production Summary. Five colours, pipeline, and Hero View QA Checklist unchanged. | — |
 | 4.3 | **Visual Richness Update.** Added `## Visual Richness Layer` section with zone-specific allowed charm details (Nature Field Zone / Home Cluster Zone), shared forbidden clutter list, Art Direction Layer prompt block, and Hero View Quality Tests (Silhouette/Colour/Charm). Full zone charm detail lives in the Bible; this spec cross-references it. | — |
-| 4.4 | **Reference System Update.** Added `## Reference Image Policy` wiring the approved legacy images at `12-ENVIRONMENT/25-flower-hill/` (hero/left/right/top) into the pipeline as Visual Quality Anchors, with explicit world-creation-vs-shot-creation guidance (one relevant angle per shot, top-view for layout only). Added `## Zone Shot Prompt Blocks` with copy-ready Nature Field Zone and Home Cluster Zone prompt blocks, background drift prevention block, and Home Cluster camera rules. Does not reopen the multi-reference-pack workflow; single Hero View + World Spec + Shot Continuity pipeline unchanged. | — |
+| 4.4 | **Reference System Update.** Added `## Reference Image Policy` wiring the approved legacy images at `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/` (hero/left/right/top) into the pipeline as Visual Quality Anchors, with explicit world-creation-vs-shot-creation guidance (one relevant angle per shot, top-view for layout only). Added `## Zone Shot Prompt Blocks` with copy-ready Nature Field Zone and Home Cluster Zone prompt blocks, background drift prevention block, and Home Cluster camera rules. Does not reopen the multi-reference-pack workflow; single Hero View + World Spec + Shot Continuity pipeline unchanged. | — |
 
 ---
 

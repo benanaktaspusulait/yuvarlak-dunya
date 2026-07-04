@@ -18,7 +18,7 @@ Mimi's rounded burrow entrance and the same garden path visible in Shot 01 remai
 
 ### Reference Use
 
-Use `12-ENVIRONMENT/25-flower-hill/hero-view.png` as the visual quality anchor; continue directly from Shot 01's continuity frame.
+Use `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/hero-view.png` as the visual quality anchor; continue directly from Shot 01's continuity frame.
 
 ---
 

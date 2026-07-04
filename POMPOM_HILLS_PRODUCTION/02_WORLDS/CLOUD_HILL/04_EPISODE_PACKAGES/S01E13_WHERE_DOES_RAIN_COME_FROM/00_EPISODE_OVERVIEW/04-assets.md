@@ -15,7 +15,7 @@
 
 | Environment | File | Shots |
 |---|---|---|
-| Cloud Hill | `12-ENVIRONMENT/02-cloud-hill/hero-view.png` | 01, 02, 03, 04, 05, 06 |
+| Cloud Hill | `POMPOM_HILLS_PRODUCTION/02_WORLDS/CLOUD_HILL/01_HERO_VIEW/hero-view.png` | 01, 02, 03, 04, 05, 06 |
 
 ---
 

@@ -18,7 +18,7 @@ Kiko's own rounded home visible; same rounded dome homes and garden path as the 
 
 ### Reference Use
 
-Use `12-ENVIRONMENT/25-flower-hill/hero-view.png` as the visual quality anchor for Home Cluster Zone charm (rounded homes, flower fences, stone stairs).
+Use `POMPOM_HILLS_PRODUCTION/02_WORLDS/FLOWER_HILL/01_HERO_VIEW/hero-view.png` as the visual quality anchor for Home Cluster Zone charm (rounded homes, flower fences, stone stairs).
 
 ---
 
