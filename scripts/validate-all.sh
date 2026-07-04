@@ -5,8 +5,11 @@
 # Bölümler artık dünya-bazlı üretim paketlerinde yaşıyor:
 #   POMPOM_HILLS_PRODUCTION/02_WORLDS/<WORLD>/04_EPISODE_PACKAGES/<EPISODE>/
 #
-# Blocking gate  : S01E*, OPA_STORYTIME_* paketleri (exit kodunu etkiler)
-# Informational  : ONB_* paketleri (Season 2 onboarding taslakları, bloklamaz)
+# Blocking gate  : S01Exx_* paketleri (eski "04-SCENES/season-01/s01e*/" gate'iyle
+#                  bire bir aynı kapsam)
+# Informational  : ONB_* (Season 2 onboarding taslakları) ve OPA_STORYTIME_*
+#                  (bu alt-seri migration öncesi de hiçbir zaman blocking gate'e
+#                  girmemişti — mevcut davranış korunuyor, bloklamaz)
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
@@ -31,8 +34,9 @@ for dir in $PKG_GLOB; do
     WORLD_NAME=$(basename "$(dirname "$(dirname "$dir")")")
     EP_NAME="$WORLD_NAME/$PKG_NAME"
 
-    # Season 2 onboarding paketleri (ONB_*) bilgilendirme amaçlı, blocking gate'e girmez.
-    if [[ "$PKG_NAME" == ONB_* ]]; then
+    # Season 2 onboarding (ONB_*) ve Opa's Storytime (OPA_STORYTIME_*) paketleri
+    # bilgilendirme amaçlı, blocking gate'e girmez (migration öncesi de girmiyordu).
+    if [[ "$PKG_NAME" == ONB_* || "$PKG_NAME" == OPA_STORYTIME_* ]]; then
         ONB_DIRS+=("$dir")
         continue
     fi
