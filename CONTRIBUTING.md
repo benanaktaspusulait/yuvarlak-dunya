@@ -8,7 +8,7 @@ Bu repo Pompom Hills / Yuvarlak Dunya prodüksiyon dosyasıdır. Katkılar; 3-4 
 yuvarlak-dunya/
 ├── 00-CORE/         ← Tek kaynak master dosyalar
 ├── 01-CHARACTERS/   ← Karakter bible dosyaları + drawings/
-├── 02-WORLDS/       ← Mekan bible dosyaları
+├── POMPOM_HILLS_PRODUCTION/02_WORLDS/       ← Mekan bible dosyaları
 ├── 03-PROPS/        ← Prop kütüphanesi
 ├── 04-SCENES/       ← Sahne dosyaları + şablonlar
 ├── 05-AI-PROMPTS/   ← AI üretim promptları
@@ -71,7 +71,7 @@ Dosya adları küçük harf, tire ayracı ve sürüm bilgisiyle yazılır.
 
 ```text
 01-CHARACTERS/01-kiko.md
-02-WORLDS/01-central-square.md
+POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE.md
 04-SCENES/season-01/s01e01-hello-pompom-hills/01-kiko-intro.md
 ```
 
@@ -83,7 +83,7 @@ Dosya adları küçük harf, tire ayracı ve sürüm bilgisiyle yazılır.
 3. `05-AI-PROMPTS/voice/` dizinine ses promptu ekle
 
 ### Yeni Mekan
-1. `02-WORLDS/` dizinine `[sıra]-[isim]-bible.md` formatında dosya ekle
+1. `POMPOM_HILLS_PRODUCTION/02_WORLDS/` dizinine `[sıra]-[isim]-bible.md` formatında dosya ekle
 2. `00-CORE/WORLD_BIBLE.md`'yi güncelle
 3. `environment/` dizinine referans görsel ekle
 

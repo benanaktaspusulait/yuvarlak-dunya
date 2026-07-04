@@ -622,7 +622,7 @@ yuvarlak-dunya/
 │   └── BATCH_WORKFLOW.md       Toplu üretim
 │
 ├── 01-CHARACTERS/    13 karakter bible dosyası
-├── 02-WORLDS/        27 mekan bible dosyası
+├── POMPOM_HILLS_PRODUCTION/02_WORLDS/        27 mekan bible dosyası
 ├── 03-PROPS/         Prop kütüphanesi
 ├── 04-SCENES/        Sahne dosyaları + şablonlar
 ├── 05-AI-PROMPTS/    AI üretim promptları
@@ -651,7 +651,7 @@ Her konu için **tek yetkili dosya** vardır. Diğer dosyalar bu dosyaya referan
 |------|---------------|
 | Renk paleti | `VISUAL_STYLE_GUIDE.md` |
 | Karakter tanımı | `01-CHARACTERS/{karakter}.md` |
-| Mekan tanımı | `02-WORLDS/{mekan}.md` |
+| Mekan tanımı | `POMPOM_HILLS_PRODUCTION/02_WORLDS/{mekan}.md` |
 | Üretim akışı | `PRODUCTION_PIPELINE.md` |
 | Prompt yazma | `05-AI-PROMPTS/` |
 | YouTube yükleme | `07-BRANDING/YOUTUBE_WORKFLOW.md` |

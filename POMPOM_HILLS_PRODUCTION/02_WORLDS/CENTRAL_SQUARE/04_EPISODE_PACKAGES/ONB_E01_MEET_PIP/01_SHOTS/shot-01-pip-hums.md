@@ -154,4 +154,4 @@ Pip is a small woodland creature — noticeably smaller than a preschool child. 
 
 ## Reference Usage
 
-This is the first shot. Use the Central Square Hero View (`02-WORLDS/01-central-square/`) as the environment reference. Character reference pending canon approval.
+This is the first shot. Use the Central Square Hero View (`POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/`) as the environment reference. Character reference pending canon approval.

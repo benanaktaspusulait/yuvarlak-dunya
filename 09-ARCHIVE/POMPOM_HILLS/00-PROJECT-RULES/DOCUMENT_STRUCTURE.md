@@ -47,7 +47,7 @@ Bölüm dosyaları yalnızca bölüme özgü veriyi içerir.
 
 ---
 
-## Dünya Dosyaları (02-WORLDS/)
+## Dünya Dosyaları (POMPOM_HILLS_PRODUCTION/02_WORLDS/)
 
 | Dosya | İçerik |
 |---|---|
@@ -86,7 +86,7 @@ S01E0X-bolum-adi/
 |---|---|
 | Renk paleti | VISUAL_STYLE_GUIDE.md |
 | Karakter tanımı | 01-CHARACTERS/{karakter}.md |
-| Dünya tanımı | 02-WORLDS/{mekan}.md |
+| Dünya tanımı | POMPOM_HILLS_PRODUCTION/02_WORLDS/{mekan}.md |
 | Üretim akışı | PRODUCTION_PIPELINE.md |
 | Süreklilik kuralları | CONTINUITY_RULES.md |
 | Prompt yazma | PROMPT_RULES.md |

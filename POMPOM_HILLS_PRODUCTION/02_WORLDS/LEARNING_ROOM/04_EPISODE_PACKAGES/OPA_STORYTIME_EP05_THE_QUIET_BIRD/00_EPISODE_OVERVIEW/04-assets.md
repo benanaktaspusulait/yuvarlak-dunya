@@ -6,7 +6,7 @@
 
 | Asset | Type | Status |
 |---|---|---|
-| Learning Room Hero View (Reading Corner zone, rainy day variant) | World Reference | ✅ (`02-WORLDS/31-learning-room/` § Seasonal / rainy-day lighting) |
+| Learning Room Hero View (Reading Corner zone, rainy day variant) | World Reference | ✅ (`POMPOM_HILLS_PRODUCTION/02_WORLDS/LEARNING_ROOM/` § Seasonal / rainy-day lighting) |
 | Opa PNG | Character Reference | ✅ |
 | Luca PNG | Character Reference | ✅ |
 | Mimi PNG | Character Reference | ✅ |
@@ -16,5 +16,5 @@
 | LR-LANTERN-01 | Prop (reading-corner lantern, extra warm on a grey day) | ✅ |
 | Rounded picture book (no readable text) | Prop | 🔴 Reuse from ep01 or create matching variant |
 
-Reference: `02-WORLDS/31-learning-room/31-learning-room-bible.md` § Reading Corner
+Reference: `POMPOM_HILLS_PRODUCTION/02_WORLDS/LEARNING_ROOM/00_CANON/31-learning-room-bible.md` § Reading Corner
 zone, § Seasonal Changes (rainy/soft light variant of the arched window).

@@ -83,7 +83,7 @@ Soft blue moonlight with a warm lantern glow near the storytelling branch. Gentl
 
 This is the FIRST story shot (after the shared opening bumper).
 
-- World Reference: Opa's Tree — night (`02-WORLDS/06-opas-tree/`)
+- World Reference: Opa's Tree — night (`POMPOM_HILLS_PRODUCTION/02_WORLDS/OPA_TREE/`)
 - Character References: Opa, Luca, Noah sheets
 
 Loaded into OpenArt at production time; not hardcoded here.

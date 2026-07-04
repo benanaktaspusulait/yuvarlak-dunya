@@ -47,7 +47,7 @@ Reference: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
   name, and the zone is used consistently within each scene?
 ```
 
-Reference: `02-WORLDS/[world]/[world]-bible.md`
+Reference: `POMPOM_HILLS_PRODUCTION/02_WORLDS/[world]/[world]-bible.md`
 
 ---
 

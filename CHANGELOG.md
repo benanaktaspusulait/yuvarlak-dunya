@@ -32,7 +32,7 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 
 - `00-CORE/` dizini: Tek kaynak master dosyalar (CREATIVE_BIBLE, VISUAL_STYLE_GUIDE, WORLD_BIBLE, CHARACTER_GUIDE, SERIES_STRUCTURE, PRODUCTION_PIPELINE, TECH_SPECS, AUDIO_GUIDE, VARIABLES, NEGATIVE_PROMPTS, CONTINUITY_RULES, BATCH_WORKFLOW)
 - `01-CHARACTERS/` dizini: 13 karakter bible dosyası (tek kaynak)
-- `02-WORLDS/` dizini: 27 mekan bible dosyası (tek kaynak)
+- `POMPOM_HILLS_PRODUCTION/02_WORLDS/` dizini: 27 mekan bible dosyası (tek kaynak)
 - `03-PROPS/` dizini: Prop kütüphanesi
 - `04-SCENES/_templates/` dizini: SCENE_TEMPLATE.md ve EPISODE_TEMPLATE.md
 - `05-AI-PROMPTS/` dizini: Tüm AI prompt dosyaları ve ses dosyaları
@@ -69,7 +69,7 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 - `PRODUCTION_RULES.md` → PRODUCTION_PIPELINE.md'ye birleştirildi
 - `POMPOM_HILLS/` dizini → 09-ARCHIVE/ taşındı (içerik yeni yapıya taşındı)
 - `characters/` dizini → 09-ARCHIVE/ taşındı (içerik 01-CHARACTERS/ taşındı)
-- `02-WORLDS/` dizini → 09-ARCHIVE/ taşındı (içerik 02-WORLDS/ taşındı)
+- `POMPOM_HILLS_PRODUCTION/02_WORLDS/` dizini → 09-ARCHIVE/ taşındı (içerik POMPOM_HILLS_PRODUCTION/02_WORLDS/ taşındı)
 - `03-PROPS/` dizini → 09-ARCHIVE/ taşındı (içerik 03-PROPS/ taşındı)
 - `ai-prompts/` dizini → 09-ARCHIVE/ taşındı (içerik 05-AI-PROMPTS/ taşındı)
 - `Color/` dizini → 09-ARCHIVE/ taşındı (içerik 07-BRANDING/ taşındı)
@@ -95,7 +95,7 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
   hızlı koruma bölümleri eklendi.
 - `OPENART_WORLD_PROMPT_PACK.md`: Production pipeline notu, Hero Pack view cümleleri ve LOCKED
   environment cümlesi eklendi.
-- `02-WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md`: World reference & Hero Pack production notu eklendi.
+- `POMPOM_HILLS_PRODUCTION/02_WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md`: World reference & Hero Pack production notu eklendi.
 - `NEGATIVE_PROMPTS.md`: "OpenArt Production Failure Modes" negatif bloğu ve locked-world pozitif
   pekiştirme cümlesi eklendi.
 

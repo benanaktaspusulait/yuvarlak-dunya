@@ -230,10 +230,10 @@ Allowed locations:
 
 - Indoor Reading Corner
 - Cozy Book Nook
-- Classroom Reading Area (e.g. Learning Room, `02-WORLDS/31-learning-room/` — Reading Corner zone)
-- Opa's Tree / Story Circle (`02-WORLDS/06-opas-tree/`, `02-WORLDS/22-story-circle/`)
+- Classroom Reading Area (e.g. Learning Room, `POMPOM_HILLS_PRODUCTION/02_WORLDS/LEARNING_ROOM/` — Reading Corner zone)
+- Opa's Tree / Story Circle (`POMPOM_HILLS_PRODUCTION/02_WORLDS/OPA_TREE/`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/STORY_CIRCLE/`)
 - Outdoor Story Blanket
-- Character Home Reading Spot (e.g. Kiko's Home Reading Corner, `02-WORLDS/03-kikos-home/`)
+- Character Home Reading Spot (e.g. Kiko's Home Reading Corner, `POMPOM_HILLS_PRODUCTION/02_WORLDS/KIKOS_HOME/`)
 - Rainy-day indoor reading space
 
 Do not force every episode to happen at Opa's Tree. Do not create a new world if an existing approved reading/story location already fits — see `00-CORE/CONTINUITY_RULES.md` §11.1 No Generic Worlds Rule for how to reference an established location by name.

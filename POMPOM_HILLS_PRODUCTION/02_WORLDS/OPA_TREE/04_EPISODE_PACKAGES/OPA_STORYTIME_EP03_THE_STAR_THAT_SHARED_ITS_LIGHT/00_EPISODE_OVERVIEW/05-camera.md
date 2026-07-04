@@ -16,4 +16,4 @@
 | 08 | 35mm | 0.85m | Slow pull-back to wide hold |
 
 No fast zoom, no handheld shake, no whip pan. See `00-CORE/17_VIDEO_GENERATION_STANDARD.md`
-§ Camera Rules and `02-WORLDS/06-opas-tree/06-opas-tree-world-spec.md`.
+§ Camera Rules and `POMPOM_HILLS_PRODUCTION/02_WORLDS/OPA_TREE/02_WORLD_SPEC/06-opas-tree-world-spec.md`.

@@ -16,4 +16,4 @@
 | 08 | 35mm | 0.85m | Slow pull-back to wide hold |
 
 No fast zoom, no handheld shake, no whip pan. See `00-CORE/17_VIDEO_GENERATION_STANDARD.md`
-§ Camera Rules and `02-WORLDS/01-central-square/01-central-square-world-spec.md`.
+§ Camera Rules and `POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/02_WORLD_SPEC/01-central-square-world-spec.md`.

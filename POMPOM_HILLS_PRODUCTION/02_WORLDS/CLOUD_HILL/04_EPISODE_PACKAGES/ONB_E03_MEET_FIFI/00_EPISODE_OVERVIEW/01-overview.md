@@ -8,7 +8,7 @@
 |---|---|
 | Canon character doc (`01-CHARACTERS/16-fifi.md`) | ❌ Eksik — sadece `SEASON_2_ONBOARDING/characters/fifi.md` taslağı var |
 | Character reference sheet / drawing | ❌ Eksik |
-| Cloud Hill Hero View | ✅ Mevcut (`02-WORLDS/02-cloud-hill/00-hero-view.png`) — dünya zaten canon |
+| Cloud Hill Hero View | ✅ Mevcut (`POMPOM_HILLS_PRODUCTION/02_WORLDS/CLOUD_HILL/01_HERO_VIEW/00-hero-view.png`) — dünya zaten canon |
 | Onboarding policy uygunluğu | ✅ Cadence + format kurallarına uygun tasarlandı |
 
 **Bu bölüm karakter açısından taslak durumundadır.** Mekan (Cloud Hill) zaten canon ve production-ready; render'a girmeden önce sadece Fifi'nin canon karakter dosyası ve referans çizimi onaylanmalı (Policy §10, madde 1-2).
@@ -127,4 +127,4 @@ Required episode-level checks (before render):
 ---
 
 *Bu belge ONB-E03 için tek kaynaktır.*
-*Referans: `SEASON_2_ONBOARDING/characters/fifi.md`, `02-WORLDS/02-cloud-hill/01-world-bible.md`, `11-DOCS/02_SEASON_STRATEGY.md`*
+*Referans: `SEASON_2_ONBOARDING/characters/fifi.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/CLOUD_HILL/00_CANON/01-world-bible.md`, `11-DOCS/02_SEASON_STRATEGY.md`*

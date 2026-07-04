@@ -45,7 +45,7 @@ Policy §5 ve §10, bir dünyanın tanıtım videosu üretilmeden önce şu ikis
 
 Crystal Cave için ikisi de henüz yok (`SEASON_2_ONBOARDING/worlds/crystal-cave.md` → Status: Planned). Bu yüzden `onb-e04-welcome-to-crystal-cave/` klasöründeki shot dosyaları **taslak** olarak yazılmıştır; gerçek render'a girmeden önce:
 
-- [ ] `02-WORLDS/32-crystal-cave/` bible + world-spec dosyaları oluşturulmalı
+- [ ] `POMPOM_HILLS_PRODUCTION/02_WORLDS/32-crystal-cave/` bible + world-spec dosyaları oluşturulmalı
 - [ ] Hero View görseli onaylanmalı
 - [ ] Bu shot dosyaları Hero View'e göre güncellenmeli
 

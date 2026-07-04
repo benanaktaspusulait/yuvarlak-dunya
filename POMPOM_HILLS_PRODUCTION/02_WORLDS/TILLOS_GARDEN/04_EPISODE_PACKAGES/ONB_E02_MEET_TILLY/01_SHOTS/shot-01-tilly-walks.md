@@ -150,4 +150,4 @@ Tilly is small and grounded — her slow pace should read clearly through unhurr
 
 ## Reference Usage
 
-This is the first shot. Use the Tillo's Garden Hero View (`02-WORLDS/07-tillos-garden/`) as the environment reference. Character reference pending canon approval.
+This is the first shot. Use the Tillo's Garden Hero View (`POMPOM_HILLS_PRODUCTION/02_WORLDS/TILLOS_GARDEN/`) as the environment reference. Character reference pending canon approval.

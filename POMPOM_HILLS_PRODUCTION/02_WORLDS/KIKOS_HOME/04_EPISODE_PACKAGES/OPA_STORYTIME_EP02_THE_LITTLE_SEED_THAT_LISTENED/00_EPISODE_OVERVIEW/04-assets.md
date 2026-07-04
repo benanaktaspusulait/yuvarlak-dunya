@@ -6,7 +6,7 @@
 
 | Asset | Type | Status |
 |---|---|---|
-| Kiko's Home Hero View (Reading Corner zone) | World Reference | ✅ (`02-WORLDS/03-kikos-home/`) |
+| Kiko's Home Hero View (Reading Corner zone) | World Reference | ✅ (`POMPOM_HILLS_PRODUCTION/02_WORLDS/KIKOS_HOME/`) |
 | Opa PNG | Character Reference | ✅ |
 | Kiko PNG | Character Reference | ✅ |
 | Mimi PNG | Character Reference | ✅ |
@@ -15,4 +15,4 @@
 | KH-WINDOW-01 | Prop (round window, coral curtain) | ✅ |
 | Rounded picture book (no readable text) | Prop | 🔴 Reuse from ep01 or create matching variant |
 
-Reference: `02-WORLDS/03-kikos-home/03-kikos-home-world-spec.md` § Reading Corner zone.
+Reference: `POMPOM_HILLS_PRODUCTION/02_WORLDS/KIKOS_HOME/02_WORLD_SPEC/03-kikos-home-world-spec.md` § Reading Corner zone.

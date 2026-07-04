@@ -35,7 +35,7 @@ yuvarlak-dunya/
 │
 ├── 01-CHARACTERS/              ← Karakter bible dosyaları (13 karakter)
 │   └── drawings/               ← Karakter referans çizimleri (PNG)
-├── 02-WORLDS/                  ← Mekan bible dosyaları (27 mekan)
+├── POMPOM_HILLS_PRODUCTION/02_WORLDS/                  ← Mekan bible dosyaları (27 mekan)
 ├── 03-PROPS/                   ← Prop kütüphanesi + prop görselleri
 ├── 04-SCENES/                  ← Sahne dosyaları + şablonlar
 │   ├── season-01/              ← Sezon 1 sahneleri
@@ -67,7 +67,7 @@ yuvarlak-dunya/
 | Dünya tanımı | `00-CORE/WORLD_BIBLE.md` |
 | Karakter tanımı | `00-CORE/CHARACTER_GUIDE.md` |
 | Karakter detayları | `01-CHARACTERS/{karakter}.md` |
-| Mekan detayları | `02-WORLDS/{mekan}.md` |
+| Mekan detayları | `POMPOM_HILLS_PRODUCTION/02_WORLDS/{mekan}.md` |
 | Üretim akışı | `00-CORE/PRODUCTION_PIPELINE.md` |
 | Süreklilik kuralları | `00-CORE/CONTINUITY_RULES.md` |
 | Prompt yazma | `05-AI-PROMPTS/` |
@@ -86,7 +86,7 @@ yuvarlak-dunya/
 
 - Numaralı mekan/dosya: `NN-slug` — **2 haneli sıfır dolgulu** numara + **küçük harf, tireli** slug (örn. `06-opas-tree`).
 - Çok görünümlü mekan klasörlerinde görünüm dosyaları: `hero-view.png`, `left-view.png`, `right-view.png`, `top-view.png`.
-- Mekan numaraları `02-WORLDS/` bible'ları ile `environment/` görselleri arasında **birebir** eşleşir (25=flower-hill, 26=tree-hill, 27=stone-hill).
+- Mekan numaraları `POMPOM_HILLS_PRODUCTION/02_WORLDS/` bible'ları ile `environment/` görselleri arasında **birebir** eşleşir (25=flower-hill, 26=tree-hill, 27=stone-hill).
 
 ## Prompt Variable System
 
@@ -114,7 +114,7 @@ Tüm promptlar bu üç değişkenle başlar veya biter:
 
 ```
 1. World Reference oluştur (bir kez)
-   └── 02-WORLDS/ → Hero Pack PNG'leri
+   └── POMPOM_HILLS_PRODUCTION/02_WORLDS/ → Hero Pack PNG'leri
         ↓
 2. Character Reference oluştur (bir kez)
    └── 01-CHARACTERS/ → Character PNG'leri
