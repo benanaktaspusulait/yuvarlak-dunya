@@ -17,7 +17,7 @@ Her karakter için potansiyel bölüm kombinasyonlarını listeler.
 | S01E03 | Tillo's Garden | Çiçek yetiştirme | 🟡 Yazıldı |
 | S01E05 | Rosie's Garden → Central Square | Renkler | 🟡 Yazıldı |
 | S01E06 | Pompom Hills genel | Rüzgar | 🟡 Yazıldı |
-| S01E07 | Stone Hill | Yuvarlak taş | 🟡 Yazıldı |
+| S01E07 | Stone Hill | Yuvarlak taş | 🟢 Üretildi |
 | S01E09 | Opa's Tree | Sessiz yer | 🟡 Yazıldı |
 
 **Toplam:** 8 bölüm
@@ -107,7 +107,7 @@ Her karakter için potansiyel bölüm kombinasyonlarını listeler.
 
 | Bölüm | Mekan | Konu | Durum |
 |-------|-------|------|-------|
-| S01E07 | Stone Hill | Yuvarlak taş | 🟡 Yazıldı |
+| S01E07 | Stone Hill | Yuvarlak taş | 🟢 Üretildi |
 | S01E10 | Central Square | Sıra oyunu | 🟡 Yazıldı |
 
 **Toplam:** 2 bölüm (+ S01E01 cameo)

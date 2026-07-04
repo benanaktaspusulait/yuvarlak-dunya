@@ -153,6 +153,38 @@ Avoid sudden zooms, shakes, whip pans or dramatic cinematic movements.
 
 ---
 
+## Transition Continuity Rule
+
+For every shot after Shot 01, @image1 must be the approved final continuity frame of
+the previous shot.
+
+The first frame of the new shot should match @image1 as closely as possible in:
+- camera angle
+- camera height
+- lens feel
+- framing
+- character positions
+- character scale
+- background object positions
+- pebble path position
+- stone cluster positions
+- lighting
+- colour grading
+- exposure
+- contrast
+
+The new shot may continue the action naturally, but it must not begin with a noticeable
+camera reset, jump cut, environment shift, character scale change, or background layout
+change.
+
+If a transition feels slightly jumpy, regenerate the next shot using the previous shot's
+final frame as a stricter first-frame continuity reference.
+
+This shot (Shot 01) establishes the Episode Colour Master that all later shots match
+against; the rule above governs Shot 02 onward.
+
+---
+
 ## Dialogue
 
 ```

@@ -120,6 +120,29 @@ or a different Stone Hill area.
 
 Warm morning daylight throughout.
 
+The first 1 second of Shot 03 should preserve the final hand-off pose from Shot 02 as
+closely as possible before the characters begin examining the stone. Avoid sudden
+character repositioning.
+
+---
+
+## Transition Continuity Rule
+
+@image1 must be the approved final continuity frame of Shot 02.
+
+The first frame of this shot should match @image1 as closely as possible in: camera
+angle, camera height, lens feel, framing, character positions, character scale,
+background object positions, pebble path position, stone cluster positions, lighting,
+colour grading, exposure and contrast.
+
+This shot may continue the action naturally, but it must not begin with a noticeable
+camera reset, jump cut, environment shift, character scale change, or background layout
+change.
+
+If the transition from Shot 02 feels slightly jumpy, regenerate this shot using the
+Shot 02 final frame as a stricter first-frame continuity reference (see
+`00_EPISODE_OVERVIEW/01-overview.md` § Transition QA for the repair workflow).
+
 ---
 
 ## Dialogue

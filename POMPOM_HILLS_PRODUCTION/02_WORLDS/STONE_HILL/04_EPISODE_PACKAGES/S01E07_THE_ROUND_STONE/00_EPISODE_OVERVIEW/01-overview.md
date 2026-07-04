@@ -70,3 +70,56 @@ can see it. They end with a warm, shared discovery.
 | 04 | /10 | ⬜ |
 | 05 | /10 | ⬜ |
 | 06 | /10 | ⬜ |
+
+---
+
+## Transition QA
+
+After each shot is generated, export:
+- first frame
+- final frame
+
+Before approving the next shot, compare:
+- previous shot final frame
+- next shot first frame
+
+Approve the transition only if:
+- colour does not fade or shift
+- camera does not visibly reset
+- character scale stays consistent
+- background stones and pebble path stay in the same layout
+- the round stone prop stays consistent
+- the new shot feels like a continuation, not a new setup
+
+**If a transition has a small jump:**
+
+1. Keep the previous shot. Do not regenerate it.
+2. Regenerate only the next shot.
+3. Use the previous shot's final frame as `@image1`.
+4. Add this line to the OpenArt prompt: *"Match @image1 extremely closely for the first
+   second before continuing the action. Do not reset the camera, do not change character
+   scale, and do not shift the Stone Hill background layout."*
+
+### Transition Repair Prompt (reusable add-on)
+
+Use this add-on whenever a regenerated shot needs a stricter first-frame match to fix a
+visible jump:
+
+```text
+TRANSITION REPAIR PROMPT ADD-ON:
+
+Use @image1 as the exact first-frame continuity reference.
+
+The first second must match @image1 very closely: same camera angle, same lens feel,
+same character scale, same character positions, same pebble path position, same stone
+cluster layout, same lighting and same colour grading.
+
+After the first second, continue the planned action slowly and naturally.
+
+Do not reset the camera. Do not recompose the shot. Do not move the characters to a new
+location. Do not redesign Stone Hill. Do not change the background layout. Do not change
+exposure, saturation, contrast or colour temperature.
+```
+
+Each shot file's own § Transition Continuity Rule points back here for the full repair
+workflow.

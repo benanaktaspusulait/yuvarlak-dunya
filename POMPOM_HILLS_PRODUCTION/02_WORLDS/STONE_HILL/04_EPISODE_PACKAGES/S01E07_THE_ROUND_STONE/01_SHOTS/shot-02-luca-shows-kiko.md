@@ -123,6 +123,29 @@ hand-off, so Shot 03 can begin with Kiko holding the stone.
 Maintain a soft 35mm-equivalent preschool framing. Warm morning daylight throughout.
 Avoid sudden movements, zooms or shakes.
 
+The first 1 second of Shot 02 should visually hold close to the Shot 01 final frame
+before Kiko's entrance becomes noticeable. This reduces transition jump from Shot 01 to
+Shot 02.
+
+---
+
+## Transition Continuity Rule
+
+@image1 must be the approved final continuity frame of Shot 01.
+
+The first frame of this shot should match @image1 as closely as possible in: camera
+angle, camera height, lens feel, framing, character positions, character scale,
+background object positions, pebble path position, stone cluster positions, lighting,
+colour grading, exposure and contrast.
+
+This shot may continue the action naturally, but it must not begin with a noticeable
+camera reset, jump cut, environment shift, character scale change, or background layout
+change.
+
+If the transition from Shot 01 feels slightly jumpy, regenerate this shot using the
+Shot 01 final frame as a stricter first-frame continuity reference (see
+`00_EPISODE_OVERVIEW/01-overview.md` § Transition QA for the repair workflow).
+
 ---
 
 ## Dialogue

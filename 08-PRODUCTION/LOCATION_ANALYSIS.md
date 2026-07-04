@@ -71,7 +71,7 @@ Her mekan için potansiyel bölüm ve sahne kombinasyonlarını listeler.
 | Bölüm | Karakter | Konu | Durum |
 |-------|----------|------|-------|
 | S01E01 | Luca | Tanıtım sahnesi (Luca'nın evi) | 🟢 Tamamlandı |
-| S01E07 | Luca, Kiko | Yuvarlak taş | 🟡 Yazıldı |
+| S01E07 | Luca, Kiko | Yuvarlak taş | 🟢 Üretildi |
 | S01E21 | Luca, Kiko | Kristal mağara keşfi | 🟡 Yazıldı |
 | S02E15 (planlanan) | Luca | "The Brave One" — cesaret | ⚪ Planlandı |
 

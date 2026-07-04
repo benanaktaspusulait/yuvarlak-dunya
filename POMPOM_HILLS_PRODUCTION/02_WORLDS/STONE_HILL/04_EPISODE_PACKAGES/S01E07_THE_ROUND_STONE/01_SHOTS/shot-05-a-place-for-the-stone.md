@@ -115,6 +115,29 @@ or a different Stone Hill area.
 
 Keep movement slow and stable. Warm morning daylight throughout.
 
+The first 1 second of Shot 05 should preserve the Shot 04 final composition before Luca
+and Kiko begin choosing the mossy spot. Avoid sudden relocation of the characters or the
+stone.
+
+---
+
+## Transition Continuity Rule
+
+@image1 must be the approved final continuity frame of Shot 04.
+
+The first frame of this shot should match @image1 as closely as possible in: camera
+angle, camera height, lens feel, framing, character positions, character scale,
+background object positions, pebble path position, stone cluster positions, lighting,
+colour grading, exposure and contrast.
+
+This shot may continue the action naturally, but it must not begin with a noticeable
+camera reset, jump cut, environment shift, character scale change, or background layout
+change.
+
+If the transition from Shot 04 feels slightly jumpy, regenerate this shot using the
+Shot 04 final frame as a stricter first-frame continuity reference (see
+`00_EPISODE_OVERVIEW/01-overview.md` § Transition QA for the repair workflow).
+
 ---
 
 ## Dialogue

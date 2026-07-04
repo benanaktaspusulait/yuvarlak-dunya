@@ -12,7 +12,7 @@
 | Format | 3D animasyon |
 | Bölüm süresi | 60 saniye (4 shot × 15 sn) — varsayılan format* |
 | Toplam süre | ~26 dakika |
-| Üretilen | 3/26 |
+| Üretilen | 4/26 |
 
 > *İstisna: S01E07 — The Round Stone 90 saniyeye (6 shot × 15 sn) genişletildi.
 > Sezon geneli süre standardı (60s ↔ 90s) henüz çözülmedi (bkz. `AGENTS.md` §2).
@@ -30,7 +30,7 @@
 | 04 | Mimi'nin Büyük Esnemesi | Mimi durmadan esner, Kiko ona rahat bir yer arar, ağacın altında uyur | Kiko, Mimi, Opa | Mimi's Burrow | 3 dk | ❌ |
 | 05 | Renkler Her Yerde | Kiko renkleri keşfeder, Mimi ile birlikte mor lavanta bulurlar, gökkuşağı yaparlar | Kiko, Mimi, Opa | Friendship Meadow | 3 dk | ❌ |
 | 06 | Yumuşak Rüzgar | Rüzgar eser, yapraklar sallanır, Kiko ve Mimi rüzgarla oynarlar | Kiko, Mimi, Opa | Little Forest | 3 dk | ❌ |
-| 07 | Yuvarlak Taş | Luca yuvarlak bir taş bulur, Kiko'ya gösterir, şekilleri fark edip keşfi paylaşırlar | Luca, Kiko | Stone Hill | 90 sn | ❌ |
+| 07 | Yuvarlak Taş | Luca yuvarlak bir taş bulur, Kiko'ya gösterir, şekilleri fark edip keşfi paylaşırlar | Luca, Kiko | Stone Hill | 94 sn (90 sn hikaye + 4 sn micro-opening) | ✅ |
 | 08 | Birlikte İnşa | Noah ve Arda bloklarla kule yaparlar, birlikte başarırlar | Noah, Arda | Central Square | 1 dk | ❌ |
 | 09 | Sessiz Yer | Kiko Opa'yı ziyaret eder, birlikte sessizce doğa seslerini dinlerler | Kiko, Opa | Opa's Tree | 1 dk | ❌ |
 | 10 | Benim Sıram Senin Sıran | Luca ve Noah top oynarlar, sırayla oynamayı öğrenirler | Luca, Noah | Central Square | 1 dk | ❌ |
@@ -98,13 +98,13 @@
 |--------|-------|
 | Toplam bölüm | 26 |
 | Yazılan | 26/26 (%100) |
-| Üretilen | 3/26 (%11.5) |
+| Üretilen | 4/26 (%15.4) |
 | Yayınlanan | 0/26 (%0) |
 
 | Durum | Kod | Sayı |
 |-------|-----|------|
-| ✅ Üretildi | _done klasörü / tamamlandı | 3 |
-| ❌ Üretilmedi | Normal klasör | 23 |
+| ✅ Üretildi | _done klasörü / tamamlandı | 4 |
+| ❌ Üretilmedi | Normal klasör | 22 |
 
 ---
 

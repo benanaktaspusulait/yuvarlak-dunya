@@ -44,6 +44,7 @@ Her konu için tek yetkili dosya vardır. Bu dosyalar `00-CORE/` dizinindedir:
 | Süreklilik kuralları | `CONTINUITY_RULES.md` |
 | Opa's Storytime serisi (format, playlist, bölüm isimlendirme) | `31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` |
 | Series bumper / world micro-opening ayrımı ve dosya organizasyonu | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
+| Shot'lar arası continuity workflow (@image1 zinciri, transition QA) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
 
 **Kural:** Bir kural bir kez yazılır. Bölüm dosyaları bu kurallara referans verir, tekrar etmez.
 

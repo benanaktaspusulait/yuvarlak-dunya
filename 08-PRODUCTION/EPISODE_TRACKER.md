@@ -13,7 +13,7 @@
 | S01E04 | Mimi's Big Yawn | Mimi, Kiko | Flower Hill — Nature Field Zone → Farklı mekanlar → Ağaç altı | 🟡 Yazıldı | 4 sahne |
 | S01E05 | Colours Everywhere | Kiko, Mimi | Rosie's Garden → Central Square | 🟡 Yazıldı | 4 sahne |
 | S01E06 | The Soft Wind | Kiko, Mimi | Pompom Hills genel | 🟡 Yazıldı | 4 sahne |
-| S01E07 | The Round Stone | Luca, Kiko | Stone Hill | 🟡 Yazıldı | 6 sahne (90 sn) |
+| S01E07 | The Round Stone | Luca, Kiko | Stone Hill | 🟢 Üretildi | 6 sahne (90 sn) + micro-opening |
 | S01E08 | Building Together | Noah, Arda | Central Square | 🟡 Yazıldı | 4 sahne |
 | S01E09 | The Quiet Place | Kiko, Opa | Opa's Tree | 🟡 Yazıldı | 4 sahne |
 | S01E10 | My Turn, Your Turn | Luca, Noah | Central Square | 🟡 Yazıldı | 4 sahne |
@@ -54,7 +54,7 @@
 |--------|-------|
 | Toplam bölüm | 26 |
 | Sahne dosyası yazılan | 11 (%42.3) |
-| Üretilen | 3 (%11.5) |
+| Üretilen | 4 (%15.4) |
 | Yayınlanan | 0 |
 | Henüz planlanmayan | 15 |
 
