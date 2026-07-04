@@ -171,10 +171,33 @@ Luca: Like a tiny moon!
 
 ---
 
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
+
 ## Sound
 
 - Quiet ambient wind
 - Tiny stone-handling sound
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -187,7 +210,7 @@ Match the Episode Colour Master. No lighting change between shots.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects, building, house, door, roof, bench, cave, waterfall, tower, entrance, sign, bridge, pond, river, stream, water feature, stone house, doorway, window, chimney, constructed structure, wooden structure, literal moon, moon in sky
+low quality, blurry, deformed, extra limbs, text, watermark, subtitles, speech bubbles, captions, photorealistic, horror, scary, dark lighting, sunset, golden afternoon light, moonlight, violence, weapons, sharp rocks, cliffs, dangerous boulders, realistic quarry, extra characters, non-canon characters, redesigned environment, lighting changes, colour grading changes, camera reset, background morphing, disappearing stones, changing path, new houses, modern objects, building, house, door, roof, bench, cave, waterfall, tower, entrance, sign, bridge, pond, river, stream, water feature, stone house, doorway, window, chimney, constructed structure, wooden structure, literal moon, moon in sky, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement
 
 ## QA Checklist
 
@@ -211,6 +234,16 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No background object morphing
 - [ ] Round stone prop remains consistent (round, matte, same size and colour)
 - [ ] Same physical location is preserved throughout the shot
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Emotional Beat
 

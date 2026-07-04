@@ -184,9 +184,36 @@ Opa: Especially to you.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa speaks softly | Established composition |
-| 5-10 sn | Luca listens, eyes heavy | Gentle focus shift |
-| 10-15 sn | Both look up at stars | Same composition |
+| 0-1 sn | Continuity hold — Opa and Luca under the tree | Established composition |
+| 1-3 sn | Opa gestures softly as he begins speaking | Established composition |
+| 3-5 sn | Opa says his first line, warm expression | Gentle focus shift |
+| 5-7 sn | Luca listens, eyes growing heavy with sleep | Gentle focus shift |
+| 7-10 sn | Opa says "Especially to you" — Luca blinks slowly | Gentle focus shift |
+| 10-13 sn | Both look up at the stars together | Same composition |
+| 13-15 sn | Stars twinkle above — a quiet, shared moment | Same composition |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -195,6 +222,8 @@ Opa: Especially to you.
 - Crickets chirping
 - Gentle hum of Opa's voice
 - Soft night wind
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -217,7 +246,7 @@ Reject if characters too large, environment changes.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 
 ---

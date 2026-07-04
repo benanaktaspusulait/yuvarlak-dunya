@@ -140,7 +140,30 @@ End with 2 seconds of quiet smiling after the final line.
 
 - Soft ball catch
 - Quiet ambient morning
-- Gentle pause after final line
+- Natural ambience only. No music. No background music.
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -221,3 +244,13 @@ Do not introduce any character after the shot has started.
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.

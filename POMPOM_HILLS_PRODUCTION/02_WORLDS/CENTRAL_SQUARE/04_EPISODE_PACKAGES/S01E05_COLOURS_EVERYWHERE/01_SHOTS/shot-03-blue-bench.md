@@ -161,3 +161,13 @@ See `03_VIDEO_EXPORTS/shot-03-openart-prompt.md` for the OpenArt-facing Negative
 - [ ] Sky, lighting, colour grading, exposure and contrast match @image1.
 - [ ] Natural ambience only; no music, melody, song, soundtrack or chime.
 - [ ] Final frame is usable as @image1 for the next shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.

@@ -316,6 +316,250 @@ Kural:
 
 ---
 
+## 14. Early Object Seeding / No Surprise Discovery Objects Rule
+
+Her multi-shot Pompom Hills sequence'inde, sonraki bir shot'ta keşfedilecek, adlandırılacak, işaret edilecek veya etkileşime girilecek her hikaye objesi, sequence'in en kurulum shot'ında (tercihen Shot 01'de) zaten mevcut olmalıdır.
+
+Bu şunları kapsar:
+- Renk keşif objeleri
+- Bench, badge, stepping stone, çiçek, oyuncak, tabela, ev, ağaç, aksesuar
+- Arka plan objeleri ki sonradan hikaye beat'inin parçası olsun
+
+Temel prensip:
+Sonraki shot'lar zaten var olan bir objeyi keşfetmelidir. Objeyi ilk kez oluşturmalıdır.
+
+Doğru:
+- Shot 01 zaten mavi badge'i ortamda görünür bir yerde içerir.
+- Shot 03 aynı mavi badge'e dikkat çeker.
+- Nesne diyalogdan ÖNCE dünyanın fiziksel parçasıdır.
+- Sonraki shot dikkat değiştirir, dünya içeriğini değil.
+
+Yanlış:
+- Nesne Shot 01 ve Shot 02'de eksiktir, Shot 03'te diyalog ihtiyacı olduğunda belirir.
+- Bir bench, badge, çiçek, aksesuar veya renk objesi adlandırılmadan hemen önce arka planda pop-in yapar.
+- Sahne script'i karşılamak için yeni bir nesne üretir.
+- Nesne keşif anında önceden tohumlanmadan görünür hale gelir.
+
+Planning kuralı:
+Bir shot sequence'i yazmadan veya üretmeden önce, sequence için tüm gelecek discovery objelerini listele.
+Onları en erken kurulum shot'ında (tercihen Shot 01'de) görsel olarak tohumla.
+Eğer bir nesne Shot 01'de gösterilemiyorsa, keşif shot'ından ÖNCE özel bir kurulum shot'ında tanıtılmalı.
+
+Tohum kuralı:
+Tohumlanmış bir nesne Shot 01'de görsel odak olmak zorunda değildir.
+Arka planda subtle ve okunabilir kalabilir.
+Ama fiziksel olarak mevcut, okunabilir ve sonraki sürekliliği destekleyecek kadar stabil olmalıdır.
+
+Süreklilik kuralı:
+Tohumlandıktan sonra nesne şu açıdan aynı kalmalıdır:
+- Kimlik
+- Renk
+- Genel pozisyon
+- Ölçek
+- İşlev
+
+Nesnenin yapmaması gerekenler:
+- Spawn olmak
+- Pop-in yapmak
+- Fade in yapmak
+- Var olmak için morph olmak
+- Çoğalmak
+- Motive edilmeden farklı bir yere taşınmak
+- Shot'lar arasında kimlik değiştirmek
+
+Keşif kuralı:
+Sonraki keşif shot'ında karakter şunları yapabilir:
+- Nesneyi fark edebilir
+- Ona bakabilir
+- Ona işaret edebilir
+- Ona gülümseyebilir
+- Onu adlandırabilir
+- Onun hakkında sorabilir
+- Ona tepki verebilir
+
+Ama sahne şunları yapamaz:
+- Nesneyi üretmek
+- Yeni oluşturulmuş bir versiyonunu göstermek
+- Yerine başka bir nesne koymak
+- Daha önce tohumlanmamış bir sürpriz nesne yaratmak
+
+Shot 01 kurulum kuralı:
+Bir sequence'in ilk shot'ı sadece karakter ve lokasyon tanıtmamalıdır.
+Gelecekteki önemli hikaye objelerini de tohumlamalıdır.
+
+Yani Shot 01 şunları kurmalıdır:
+- Kullanılabilir ortam
+- Oynanabilir alan
+- Önemli görünür aksesuarlar
+- Gelecekteki discovery objeleri
+- Sequence'in görsel mantığı
+
+OpenArt-facing wording (kurulum shot'ları için):
+```
+Seed all story-relevant future discovery objects in the environment 
+from the beginning.
+Objects that will be named, discovered, pointed at, or interacted 
+with in later shots must already be visible in this setup shot.
+Do not leave important future objects absent if they will be 
+needed later.
+```
+
+OpenArt-facing wording (sonraki continuity shot'ları için):
+```
+Use @image1 as the exact first frame and only visual continuity source.
+Any discovery object in this shot must already be visible in @image1 
+or already established earlier in the sequence.
+Do not create, reveal, spawn, fade in, pop in, morph, duplicate, 
+move, resize, repaint, or replace the discovery object.
+The character may discover the object, but the scene must not 
+generate it.
+```
+
+Negative prompt additions:
+```
+late object appearance, surprise object, object pop-in, object spawning, 
+object appearing from nowhere, discovery object appearing late, 
+prop spawning, background object appearing late, object fade-in, 
+object morphing into existence, newly generated discovery object, 
+object created to satisfy dialogue, object not present before discovery, 
+surprise prop reveal, bench appearing late, badge appearing late, 
+colour object appearing late
+```
+
+QA kuralı:
+Her sonraki keşif shot'ında kontrol et:
+- Bu nesne daha önceki bir shot'ta zaten tohumlanmış mıydı?
+- Shot 01'de veya başka bir önceki kurulum shot'ında görünür müydü?
+- Sonraki shot aynı nesneyi mi keşfediyor, yoksa yenisini mi oluşturuyor?
+- Nesne kimlik ve yerleşme açısından stabil kaldı mı?
+- Dünya yeni bir aksesuar icat etmek yerine tutarlı kaldı mı?
+
+---
+
+## 15. Multi-Image Reference Planning / Each Image Must Have a Role
+
+Bir shot birden fazla görsel referans gerektirdiğinde, tüm gerekli referans görselleri üretimden ÖNCE hazırlanmalı ve her referans görseli OpenArt-facing prompt içinde belirli bir role sahip olmalıdır.
+
+Bu kural neden var:
+OpenArt proje hafızası anlamaz. Sadece yüklenen referans görselleri ve prompt'u görür. Açıkça tanımlanmamış rollerle birden fazla görsel yüklenirse OpenArt bunları karıştırabilir, sürekliliği göz ardı edebilir, yanlış image'i kopyalayabilir, eksik nesneleri icat edebilir veya object reference'ı first frame olarak kullanabilir.
+
+Tek image yeterli olduğunda:
+- First frame continuity zaten tüm gerekli karakterleri içeriyor
+- Gerekli hikaye objesi zaten görünür
+- Lokasyon, ışık, ölçek ve kamera doğru
+- Ekstra object/detail referansına ihtiyaç yok
+
+Birden fazla image gerektiğinde:
+- Continuity frame gelecek bir hikaye objesini net göstermiyor
+- Bir prop, badge, bench, çiçek, oyuncak veya landmark ayrı bir görsel referans gerektiriyor
+- Bir karakter detayı veya kostüm detayı korunmalı
+- Shot, model tarafından icat edilmemesi gereken bir objeye bağlı
+- Bir ortam detayı canon olmalı ama @image1'de okunabilir değil
+
+Her yüklenen image'ın net bir rolü olmalıdır.
+
+Örnek:
+```
+@image1 = exact first frame continuity source
+@image2 = blue badge object reference only
+@image3 = Central Square layout reference only
+```
+
+OpenArt-facing prompt her image'ın rolünü açıkça belirtmelidir.
+
+Doğru wording:
+```
+Use @image1 as the exact first frame and only continuity source.
+Do not reinterpret @image1.
+The shot must begin from @image1.
+
+Use @image2 only as the visual reference for the blue badge design.
+Do not use @image2 as the first frame.
+Do not copy @image2 camera, background, lighting, scale, or composition.
+Only use @image2 to preserve the badge's shape, colour, texture and identity.
+
+Use @image3 only as the environment layout reference.
+Do not replace @image1 with @image3.
+Do not reset the camera to match @image3.
+Only use @image3 to preserve the canon layout if already compatible 
+with @image1.
+```
+
+Yanlış:
+- Birden fazla image yüklemek ama amacını açıklamamak.
+- OpenArt'ın hangi image'ın first frame olduğuna karar vermesine izin vermek.
+- Bir prop reference image'ını object-only olarak tanımlamamak.
+- Bir karakter image'ını kullanıp yanlışlıkla shot kompozisyonunu resetletmek.
+- Bir ortam reference'ı kullanıp kamerayı farklı bir açıya atlatmak.
+- "Bu referansları kullan" demek ama image rollerini atamamak.
+
+Hard kural:
+`@image1` continuity-linked shot'larda her zaman önceliklidir.
+`@image1` şunları tanımlar:
+- First frame
+- Camera angle
+- Character position
+- Character scale
+- Lighting
+- Colour grading
+- Visible environment
+- Composition
+
+Diğer image'lar `@image1`'i override etmemelidir (prompt açıkça söylemediği sürece).
+
+Object reference kuralı:
+Eğer `@image2` object reference olarak kullanılıyorsa, nesne sadece `@image1` dünyasında mantıklı olduğu yere yerleştirilmelidir.
+`@image2`'nin yeni bir sahne yaratmasına izin verme.
+`@image2`'nin kamerayı değiştirmesine izin verme.
+`@image2`'nin farklı bir lighting stili getirmesine izin verme.
+`@image2`'nin ilgisiz arka plan detayları eklemesine izin verme.
+
+Planning kuralı:
+Eğer sonraki bir shot `@image1`'de görünmeyen bir objeye ihtiyaç duyuyorsa, surprise generation'a güvenme.
+Ya:
+1. Daha önceki bir kurulum shot'ını revize et ki nesne zaten orada tohumlanmış olsun, veya
+2. Ayrı bir object reference image sağla ve onu object-only olarak tanımla.
+
+Ama `@image2` ile bile, nesne kontrollü bir şekilde tanıtılmalıdır.
+Diyalog sırasında late object spawning'a izin verme.
+
+OpenArt-facing wording (multi-image shot'lar için):
+```
+Reference setup:
+@image1 = exact first frame continuity source.
+@image2 = [object / character / prop / environment] reference only.
+
+Use @image1 as the exact first frame and main visual continuity source.
+@image1 has priority over all other images for camera, lighting, 
+composition, character scale and environment.
+
+Use @image2 only to preserve the design of [specific object].
+Do not use @image2 as the first frame.
+Do not copy @image2 background, camera angle, lighting or composition.
+Do not let @image2 override @image1.
+```
+
+Negative prompt additions:
+```
+wrong reference priority, image2 overriding image1, 
+prop reference changing camera, object reference becoming new scene, 
+environment reference replacing continuity frame, reference image mix-up, 
+wrong first frame, copied reference background, 
+copied object-reference composition, camera reset from reference image, 
+lighting copied from wrong reference, scale copied from wrong reference
+```
+
+QA kuralı:
+Üretimden önce kontrol et:
+- `@image1` first frame continuity source olarak net mi?
+- Her yüklenen image'ın tanımlı bir rolü var mı?
+- İkincil image `@image1`'i yanlışlıkla override edebilir mi?
+- Object reference sadece object identity için mi kullanılıyor?
+- Prompt, secondary image'lardan NEYİ kopyalamayacağını söylüyor mu?
+- Daha önce tohumlanması gereken eksik bir gelecek hikaye objesi var mı?
+
+---
+
 ## Global QA Checklist
 
 ### @image1 / Continuity:

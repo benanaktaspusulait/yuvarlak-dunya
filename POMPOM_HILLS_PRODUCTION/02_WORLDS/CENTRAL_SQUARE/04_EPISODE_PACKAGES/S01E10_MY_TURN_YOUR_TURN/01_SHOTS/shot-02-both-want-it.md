@@ -129,7 +129,7 @@ The feeling should be mild desire, not conflict.
 | 3-6 sec | Luca reaches for the ball gently | Medium |
 | 6-9 sec | Noah also reaches for the ball | Medium |
 | 9-12 sec | Both children hold the ball, look at each other | Medium |
-| 12-15 sec | Quiet pause, mild curiosity | Medium hold |
+| 12-15 sec | Both look at each other, small curious blink | Medium hold |
 
 ---
 
@@ -137,7 +137,30 @@ The feeling should be mild desire, not conflict.
 
 - Soft footsteps
 - Quiet ambient morning
-- Gentle pause
+- Natural ambience only. No music. No background music.
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -216,3 +239,13 @@ Do not introduce any character after the shot has started.
 - [ ] No new environment elements appear.
 - [ ] Camera movement does not cause background repainting.
 - [ ] Same physical location is preserved throughout the shot.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.

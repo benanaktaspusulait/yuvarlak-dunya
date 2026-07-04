@@ -17,147 +17,93 @@
 
 ## Continuity
 
-This shot continues directly from Shot 03.
+Shot 04 continues from the approved Shot 03 final frame.
 
-Kiko and Mimi are already present in the same Central Square set. They notice yellow
-flowers in an existing rounded planter established in the same set.
+`@image1` is the approved Shot 03 final frame: Kiko and Mimi together, blue bench visible, mixed flowerbeds in background.
+
+OpenArt does not know the previous video. It only knows `@image1`. All OpenArt-facing prompt language must use `@image1` as the only visual continuity source.
 
 Apply all Pompom Hills Visual Continuity Rules.
 
 ---
 
-## Central Square Visual Identity
+## Yellow Flowers Rule
 
-Same Central Square layout: Big Pompom Tree, rounded paths, coloured stepping-stone ring,
-soft green grass, pastel bench, flower planters, warm morning daylight.
+The yellow flowers must already be visible inside the existing mixed flowerbed / planter area in `@image1`.
 
----
+**HARD RULE: Do not create a new yellow flower planter. Do not create a new flower cluster. Do not create a new garden, meadow, Flower Hill, flower field, or alternate location. Do not use camera movement to search for flowers.**
 
-## Environment Anchors
-
-- Same physical Central Square area from Shot 03.
-- Big Pompom Tree remains the main background landmark.
-- The yellow flower planter was seeded in the Central Square Friends Micro-Opening and
-  preserved through the previous continuity frames, in an existing rounded planter
-  already established nearby in the same Central Square set.
-- Kiko and Mimi stay within the same path/bench/planter area.
-- No world-to-world travel.
+The characters simply notice the already-visible yellow flowers that are part of the existing `@image1` background.
 
 ---
 
-## Start Frame
+## Camera Continuity
 
-Start from the approved exported final continuity frame from Shot 03. Preserve the
-established composition, lighting, background objects, Kiko and Mimi positions and
-character proportions.
-
-Kiko and Mimi are already present at the beginning of the shot.
+The camera preserves the `@image1` composition.
+Do not pull back, widen, reset, push in, pan, tilt, zoom, track, settle, drift, or reframe.
+Characters may move naturally inside the stable composition.
+Stable composition does not mean frozen characters.
 
 ---
 
-## Background Object Lock
+## Sky and Lighting Absolute Lock
 
-The first frame defines the physical Central Square set. All visible benches, trees,
-paths, flowerbeds, stepping stones, planters and distant houses remain stable throughout.
+The sky, lighting and colour grading must be inherited from `@image1` only.
 
-Do not introduce a new garden, new meadow, new field or new location.
+The sky must remain the same clean bright blue morning sky visible in `@image1`.
+Do not reinterpret the sky.
+Do not stylize the sky.
+Do not make the sky warmer, orange, golden, sunset-like, grey, cloudy, dramatic, painterly, or overcast.
 
-## Central Square Safety Lock
+The `@image1` sky and lighting override all mood, style, lighting, atmosphere and colour instructions.
 
-Do not introduce camera reset, environment redesign, background morphing, new landmarks,
-new paths, new buildings, roads, cars, traffic, shops with readable signs, fountain,
-water feature, bridge, river, pond, crowd, extra characters, text, readable text,
-captions, subtitles, speech bubbles, logo, title card or subscribe graphics.
+---
 
-Preserve the same Central Square layout, Big Pompom Tree position, rounded paths,
-coloured stepping-stone ring, grass, benches, planters, bunting or flags if visible,
-distant houses only at the far edge, warm morning daylight, Episode Colour Master from
-Shot 01, Kiko and Mimi scale and identity, and stable preschool-safe motion.
+## @image1 Reference Language Rule
 
-## Required Global QA Locks
+OpenArt does not know the previous video, previous shot, or final frame history.
+OpenArt only knows the attached reference image: `@image1`.
 
-This shot must pass the global QA rules in `00-CORE/17_VIDEO_GENERATION_STANDARD.md` and `11-DOCS/16_VIDEO_QA_SPEC.md` for:
+Correct wording:
+- Use `@image1` as the exact locked first frame and only visual continuity source.
+- Preserve exactly what is visible in `@image1`.
+- `@image1` is the only visual continuity reference.
 
-- Hard Background Lock
-- Intra-Shot Character Continuity Lock
-- Single Visible Path Rule
-- Occlusion Is Not A Transition
-- Camera Must Not Break Continuity
-- First Second Continuity Hold
-- Object Identity Lock
+---
 
-These locks are global production gates. Do not restate or weaken them locally. Keep the shot-specific guard below as the local application of the global rules.
+## Natural Character Motion Rule
 
-## Shot-Specific Continuity Guard
+Shot 04 should feel alive and gently animated, not frozen.
 
-The yellow flowers must stay inside the same rounded planter. Kiko and Mimi may look,
-point or react, but they must not walk into the planter, behind the flowers, behind
-planters, behind bushes or behind foreground flowerbeds. Use pointing and facial
-reaction instead of movement. No garden transition, no Flower Hill and no new flower
-field.
+After the first 1-second continuity hold:
+- Kiko notices the yellow flowers and turns his head.
+- Kiko points and says: "Yellow flowers!"
+- Mimi follows Kiko's point, looks at the flowers, smiles.
+- Mimi says: "So bright!"
+- Both characters look at the flowers together.
+- Both characters may blink, breathe, smile, turn their heads, and make small hand gestures.
 
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+All movement must be continuous, visible, soft and preschool-safe.
+
+---
+
+## Ghosting Prevention Rule
+
+Kiko must remain a single solid character at all times.
+No ghost Kiko. No transparent duplicate. No double exposure.
+No motion smear. No character trail.
+
+Mimi must remain a single solid character at all times.
+No ghost Mimi. No transparent duplicate. No double exposure.
+No motion smear. No character trail.
+
+---
 
 ## Visual Prompt
 
-```text
-Kiko and Mimi already together in the same Central Square area, noticing yellow flowers in an existing rounded planter established in the same set beside the path, soft pastel blue bench still part of the same set if visible, Big Pompom Tree in background, warm morning daylight, gentle happy discovery, no other characters, {style} {camera} {lighting}
-
-Use @image1 as the starting continuity frame from Shot 03.
-
-Preserve Kiko, Mimi, the same Central Square layout, Big Pompom Tree, rounded paths, stepping-stone ring, existing planter, camera position, lighting and Episode Colour Master from @image1.
-
-Match the lighting and colour grading exactly from the Shot 01 Episode Colour Master.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Central Square background is locked from the first frame; keep all visible benches, trees, paths, flowerbeds, stepping stones and landmarks stable throughout the shot.
-```
-
----
-
-## Reference Usage
-
-OpenArt Reference Setup:
-
-@image1 = approved exported final continuity frame from Shot 03.
-
-Use `@image1` as the required starting continuity reference. Preserve the same Central
-Square layout, lighting, camera position, Kiko and Mimi appearances, existing planter
-and Episode Colour Master.
-
----
-
-## Camera Direction
-
-Begin from the Shot 03 continuity frame with no camera reset. The first 1 second should visually hold close to @image1 before new action begins. After that, the yellow flowers
-become the action focus.
-
-Use a calm child-eye-level medium-wide frame. Keep both characters visible. Do not
-introduce new characters, new landmarks, new paths, roads, shops, fountains, water
-features, gardens or a different Central Square area.
-
----
-
-## Transition Continuity Rule
-
-@image1 must be the approved final continuity frame of Shot 03.
-
-The first frame should match `@image1` closely: same camera angle, same lens feel, same
-character scale, same character positions, same Big Pompom Tree position, same path
-layout, same lighting and same colour grading.
-
----
-
-## Character Presence
-
-Kiko and Mimi are already present at the beginning of the shot. Do not introduce any
-character after the shot has started.
-
----
-
-## Voice Continuity
-
-Kiko and Mimi voices match the earlier speaking shots. Maintain identical voice identity,
-pitch, timbre, warmth, pronunciation, accent and recording quality.
+See `03_VIDEO_EXPORTS/shot-04-openart-prompt.md` for the OpenArt-facing Visual Prompt.
 
 ---
 
@@ -170,96 +116,50 @@ Mimi: So bright!
 
 ---
 
-## Shot Breakdown
-
-| Time | Action | Camera |
-|---|---|---|
-| 0-1 sn | Continuity hold; first second holds near Shot 03 frame | Medium-wide |
-| 1-3 sn | Kiko notices the planter and turns toward it | Medium-wide |
-| 3-5 sn | Kiko points gently to the yellow flowers | Medium-wide |
-| 5-7 sn | Mimi follows Kiko's point and looks at the flowers | Stable |
-| 7-10 sn | Mimi says: "So bright!" and smiles widely | Stable |
-| 10-13 sn | Both characters look at the flowers together, sharing the moment | Medium-wide |
-| 13-15 sn | Kiko nods happily; final continuity frame | Medium-wide hold |
-
----
-
-## Natural Character Motion Rule
-
-This shot should feel calm but alive.
-
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
-
 ## Sound
 
-- Soft breeze through leaves
-- Tiny flower-discovery chime
-- Gentle ambient morning
+Natural ambience only.
+- Soft breeze
+- Distant birds
+- Gentle tiny foot sounds
+- Soft fabric-like character movement
 
-Natural ambience only. No music. No background music.
+No music.
+No background music.
+No melody.
+No song.
+No soundtrack.
+No musical bed.
+No chime.
 
 ---
 
 ## Lighting
 
-Warm morning daylight. Match the Shot 01 Episode Colour Master exactly. No exposure,
-brightness, contrast, saturation or colour temperature drift. Do NOT desaturate.
+Same clean blue morning daylight from @image1.
+Preserve the exact sky colour, lighting, colour grading, exposure and contrast from @image1.
+No warm/orange/sunset/golden sky.
+No lighting reinterpretation.
+Do NOT desaturate.
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, subscribe button, like button, arrows, photorealistic, horror, scary, dark lighting, sunset, moonlight, night sky, stars, crickets, violence, weapons, sharp objects, traffic, cars, roads, modern city, crowded square, extra characters, non-canon characters, redesigned environment, camera reset, background morphing, disappearing objects, changing path, new buildings, readable signs, shops with text, complex city skyline, fountain, water feature, bridge, river, pond
+See `03_VIDEO_EXPORTS/shot-04-openart-prompt.md` for the OpenArt-facing Negative Prompt.
 
-teleporting character, disappearing character, character hidden behind bush, character walking through bushes, character clipping through objects, character emerging from opposite side, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, layout changing, character occluded by foreground plants, walking through flowerbeds, walking through planters, walking through benches
-
-intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement
+---
 
 ## QA Checklist
 
-Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
-
-- [ ] `@image1` continuity preserved from Shot 03 final frame.
-- [ ] The first 1 second visually holds close to `@image1` before the yellow flower discovery begins.
-- [ ] Both Kiko and Mimi remain visible and consistent.
-- [ ] Yellow flower planter was seeded in the Central Square Friends Micro-Opening and preserved through the previous continuity frames, in an existing rounded Central Square planter.
-- [ ] No garden, meadow, Flower Hill, Rosie's Garden or alternate location appears.
-- [ ] Big Pompom Tree and rounded paths remain stable.
-- [ ] Camera does not reset.
-- [ ] Lighting and Episode Colour Master preserved.
-- [ ] No on-screen text, captions, logo or title card.
-- [ ] No character disappears inside the same shot.
-- [ ] No character reappears from a different side inside the same shot.
-- [ ] No character is fully hidden by bushes, flowers, benches, trees, planters, flags or foreground plants.
-- [ ] No occlusion is used as a transition.
-- [ ] Character path remains continuously visible and physically possible.
-- [ ] Character does not clip through bushes, planters, flowerbeds, benches, tree trunks, walls or foreground plants.
-- [ ] All visible trees, benches, planters, bushes, paths, stepping stones and landmarks keep their position.
-- [ ] No object changes identity, duplicates, disappears or shifts side.
-- [ ] Camera movement does not hide a character or regenerate the environment.
-- [ ] Full video has been watched for intra-shot character continuity, not only first and final frames.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
+- [ ] First 1 second matches @image1 almost exactly.
+- [ ] Kiko and Mimi position, scale and identity match @image1.
+- [ ] Yellow flowers already exist in @image1's flowerbed / planter area; no new flowers created.
+- [ ] Camera preserves @image1 composition; no pull-back, push-in, zoom, pan, tilt, tracking or reframing.
+- [ ] Characters feel alive with gentle preschool-safe movement.
+- [ ] Dialogue is supported by visual action.
+- [ ] No static talking pose.
+- [ ] No ghosting, duplicate, transparent character, double exposure or motion smear.
+- [ ] Sky, lighting, colour grading, exposure and contrast match @image1.
+- [ ] Natural ambience only; no music, melody, song, soundtrack or chime.
+- [ ] Final frame is usable as @image1 for the next shot.

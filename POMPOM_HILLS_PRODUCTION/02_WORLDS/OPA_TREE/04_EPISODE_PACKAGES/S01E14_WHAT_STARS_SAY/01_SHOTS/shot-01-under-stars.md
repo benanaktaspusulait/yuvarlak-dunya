@@ -166,9 +166,36 @@ Luca: Opa, the stars are pretty.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Quiet night: stars twinkle, leaves move softly | Wide establishing |
-| 5-10 sn | Luca discovered watching the sky; Opa naturally visible | Medium |
-| 10-15 sn | Stars twinkle, peaceful moment | Medium, gentle tilt up |
+| 0-1 sn | Continuity hold — night sky, stars twinkling above Opa's Tree | Wide establishing |
+| 1-3 sn | Stars twinkle, leaves move softly in the breeze | Wide establishing |
+| 3-5 sn | Camera finds Luca watching the sky, Opa naturally visible | Medium |
+| 5-7 sn | Luca blinks slowly, takes in the night | Medium |
+| 7-10 sn | Luca turns his head slightly toward Opa, then back to stars | Medium, gentle tilt up |
+| 10-13 sn | Luca says his line, pointing gently upward | Medium, gentle tilt up |
+| 13-15 sn | Both look up together at the twinkling stars | Medium hold |
+
+---
+
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+Characters may use:
+- blinking
+- breathing
+- small smiles
+- gentle head turns
+- small hand gestures
+- one or two soft steps/hops
+- looking at an object
+- looking at another character
+- pointing gently
+- shared reaction
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
 
 ---
 
@@ -177,6 +204,8 @@ Luca: Opa, the stars are pretty.
 - Crickets chirping
 - Soft night wind
 - Gentle tree rustle
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -201,7 +230,7 @@ Reject if characters too large, environment changes.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 
 ---
@@ -227,4 +256,14 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] Characters do not suddenly appear fully centered after the opening.
 - [ ] Characters are introduced by visible entrance, camera reveal or partial edge reveal (Character Introduction After Empty Opening Rule).
 - [ ] No character pop-in occurs after the opening.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 

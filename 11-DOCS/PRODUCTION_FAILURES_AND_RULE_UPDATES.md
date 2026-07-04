@@ -67,6 +67,13 @@
 **Çözüm:** Object Must Exist Before Discovery Rule — discovery objesi ilk frame'de zaten görünür olmalı veya discovery beat'inden önce net şekilde mevcut olmalı.
 **Global kural:** No Late Object Spawning / Object Must Exist Before Discovery Rule.
 
+### Failure: No multi-image reference planning
+**Tarih:** 2026-07-04
+**Gözlem:** Birden fazla referans image yüklendiğinde OpenArt hangisinin first frame, hangisinin object reference olduğunu karıştırdı.
+**Sebep:** Her image'ın net bir role sahip olması gerektiği belirtilmemişti.
+**Çözüm:** Multi-Image Reference Planning Rule — her image'ın rolü açıkça tanımlanmalı, @image1 her zaman öncelikli olmalı.
+**Global kural:** Multi-Image Reference Planning / Each Image Must Have a Role.
+
 ---
 
 ## Global Kural Güncellemeleri
@@ -84,6 +91,8 @@
 | 2026-07-04 | Natural Ambience / No Music Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | Dialogue Action Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | No Late Object Spawning / Object Must Exist Before Discovery Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
+| 2026-07-04 | Early Object Seeding / No Surprise Discovery Objects Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
+| 2026-07-04 | Multi-Image Reference Planning / Each Image Must Have a Role eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | Final Frame Continuity Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | Prompt Length Rule eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |
 | 2026-07-04 | Global QA Checklist eklendi | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md |

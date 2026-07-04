@@ -380,11 +380,28 @@ Character entrance rules:
 
 ---
 
+## Natural Character Motion Rule
+
+This shot should feel calm but alive.
+
+After the first 1-second locked hold:
+- Kiko may blink, breathe, smile, and make tiny idle motions.
+- Kiko points gently at the red/pink stepping stone.
+- Kiko says: "Red! I found red!" with a bright smile.
+- Kiko may take one small step or shift her weight gently.
+
+Do not freeze the characters.
+Do not make the shot only a static talking pose.
+Do not leave long empty pauses.
+Do not make characters stare silently for several seconds.
+
 ## Sound
 
 - Distant birds
 - Gentle Central Square breeze
 - Tiny warm discovery chime
+
+Natural ambience only. No music. No background music.
 
 ---
 
@@ -408,7 +425,7 @@ Colour master: use the approved original Shot 01 still as the Episode Colour Mas
 
 ## Negative Prompt
 
-camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lighting, changed colour grading, sky colour shift, sunset sky, orange sky, golden sky, grey sky, dramatic sky, Kiko visible in first frame, new character in first 1 second, oversized Kiko, giant foreground character, cropped Kiko, Kiko too close to camera, Kiko dominating frame, new red pot, new red bucket, new red planter, new red vase, large foreground red object, extra characters, Mimi, text, captions, subtitles, speech bubbles
+camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lighting, changed colour grading, sky colour shift, sunset sky, orange sky, golden sky, grey sky, dramatic sky, Kiko visible in first frame, new character in first 1 second, oversized Kiko, giant foreground character, cropped Kiko, Kiko too close to camera, Kiko dominating frame, new red pot, new red bucket, new red planter, new red vase, large foreground red object, extra characters, Mimi, text, captions, subtitles, speech bubbles, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement
 
 ## QA Checklist
 
@@ -485,6 +502,16 @@ Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 - [ ] Kiko stands on the lower-left visible path in correct world scale.
 - [ ] Kiko remains about 6-8% of the wide frame.
 - [ ] Kiko does not dominate the frame.
+- [ ] Shot feels calm but alive.
+- [ ] Shot is not a static talking pose.
+- [ ] No long empty pause occurs.
+- [ ] No characters stare silently for several seconds.
+- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
+- [ ] Dialogue is supported by physical action.
+- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
+- [ ] Existing continuity hold does not freeze the character unnaturally.
+- [ ] Camera stability does not kill character motion.
+- [ ] No random filler motion appears.
 
 ## Scale
 
