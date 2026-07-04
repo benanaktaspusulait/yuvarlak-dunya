@@ -16,6 +16,7 @@
 ---
 
 ## Continuity
+Camera must continue from the identical camera position of the previous shot. Do not reset, recompose or change camera angle.
 
 Previous shot: The creek sang a last soft melody. They whispered "Thank you."
 
@@ -53,6 +54,8 @@ The Rainbow Creek background is locked from the first frame; keep all visible st
 ---
 
 ## Camera Direction
+
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Wide, 35mm, static.
 

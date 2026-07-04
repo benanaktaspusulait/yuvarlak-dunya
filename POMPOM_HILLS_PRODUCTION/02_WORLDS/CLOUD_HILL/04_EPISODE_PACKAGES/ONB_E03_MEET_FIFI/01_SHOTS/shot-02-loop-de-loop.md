@@ -21,6 +21,7 @@ The background is locked from the first frame of Shot 01 and continues unchanged
 ---
 
 ## First Frame Lock
+Camera must continue from the identical camera position of the previous shot.
 
 ```text
 Treat @image1 (Shot 01 final frame) as the complete visual master reference.
@@ -88,6 +89,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
+
 Medium shot, 35mm, 0.75m height. Static or very slow tilt — no fast pan or whip pan per Cloud Hill forbidden movements.
 
 ---
@@ -123,6 +126,10 @@ Medium shot, 35mm, 0.75m height. Static or very slow tilt — no fast pan or whi
 Identical to Shot 01. Warm soft light from upper left, no hard shadows.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

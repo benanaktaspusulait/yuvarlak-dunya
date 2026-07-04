@@ -16,6 +16,7 @@
 ---
 
 ## Continuity
+Camera must continue from the identical camera position of the previous shot. Do not reset, recompose or change camera angle.
 
 Previous shot: Noah found a hollow log drum and played a beat.
 
@@ -53,6 +54,8 @@ The Music Hill background is locked from the first frame; keep all visible leave
 ---
 
 ## Camera Direction
+
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Medium, 50mm, static.
 

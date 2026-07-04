@@ -16,6 +16,7 @@
 ---
 
 ## Continuity
+Camera must continue from the identical camera position of the previous shot. Do not reset, recompose or change camera angle.
 
 Previous shot: Sofia painted a red flower on the canvas. She dipped her brush again.
 
@@ -53,6 +54,8 @@ The Art Corner background is locked from the first frame; keep all visible table
 ---
 
 ## Camera Direction
+
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Medium, 50mm, static.
 

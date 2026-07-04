@@ -21,6 +21,7 @@ The background is locked from the first frame of Shot 01 and continues unchanged
 ---
 
 ## First Frame Lock
+Camera must continue from the identical camera position of the previous shot.
 
 ```text
 Treat @image1 (Shot 01 final frame) as the complete visual master reference.
@@ -57,7 +58,7 @@ Tilly stops beside a flower. She looks at it closely, then nods her head slowly 
 
 ----------------------------------------
 CAMERA
-Medium close-up, 50mm, low eye-level, static.
+Medium medium, 50mm, low eye-level, static.
 
 ----------------------------------------
 LIGHTING
@@ -87,7 +88,9 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Medium close-up, 50mm, low eye-level, static. No camera movement.
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
+
+Medium medium, 50mm, low eye-level, static. No camera movement.
 
 ---
 
@@ -103,9 +106,9 @@ Medium close-up, 50mm, low eye-level, static. No camera movement.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Tilly stops beside the flower, looks at it closely. | Medium close-up, static |
-| 5-10 sn | Tilly nods her head slowly, deliberately. | Medium close-up, static |
-| 10-15 sn | Tilly retracts slightly into shell, then peeks back out. | Medium close-up, static |
+| 0-5 sn | Tilly stops beside the flower, looks at it closely. | Medium medium, static |
+| 5-10 sn | Tilly nods her head slowly, deliberately. | Medium medium, static |
+| 10-15 sn | Tilly retracts slightly into shell, then peeks back out. | Medium medium, static |
 
 ---
 
@@ -122,6 +125,10 @@ Medium close-up, 50mm, low eye-level, static. No camera movement.
 Identical to Shot 01. Warm golden morning sunlight, soft glow.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

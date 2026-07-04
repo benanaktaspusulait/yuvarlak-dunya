@@ -54,6 +54,8 @@ The Butterfly Meadow background is locked from the first frame; keep all visible
 
 ## Camera Direction
 
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
+
 The shot must begin from the identical camera position shown in the previous shot reference.
 
 Medium, 50mm, static.

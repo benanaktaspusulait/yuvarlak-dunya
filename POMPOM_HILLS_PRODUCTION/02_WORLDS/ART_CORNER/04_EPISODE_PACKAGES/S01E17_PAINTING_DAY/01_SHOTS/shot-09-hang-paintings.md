@@ -16,6 +16,7 @@
 ---
 
 ## Continuity
+Camera must continue from the identical camera position of the previous shot. Do not reset, recompose or change camera angle.
 
 Previous shot: They finished their paintings — a rainbow and a grass scene.
 
@@ -53,6 +54,8 @@ The Art Corner background is locked from the first frame; keep all visible fence
 ---
 
 ## Camera Direction
+
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Wide, 35mm, static.
 

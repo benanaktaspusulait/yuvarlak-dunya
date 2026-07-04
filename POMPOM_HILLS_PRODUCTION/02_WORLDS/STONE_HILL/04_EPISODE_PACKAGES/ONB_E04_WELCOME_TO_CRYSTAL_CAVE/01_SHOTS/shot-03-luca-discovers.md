@@ -27,6 +27,7 @@ No canon interior exists yet. Continuity should follow Shot 02's concept framing
 ---
 
 ## First Frame Lock
+Camera must continue from the identical camera position of the previous shot.
 
 ```text
 Treat @image1 (Shot 02 final frame) as the complete visual master reference for continuity purposes, once a canon Hero View exists.
@@ -90,6 +91,8 @@ Do not display dialogue as on-screen text except the single title card "Crystal 
 
 ## Camera Direction
 
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
+
 Medium-to-wide, 35mm, eye-level, static. Holds steady on Luca and the crystal wall.
 
 ---
@@ -128,6 +131,10 @@ Luca: Wow...
 Identical to Shot 02. Soft pastel crystal glow, no harsh shadows.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

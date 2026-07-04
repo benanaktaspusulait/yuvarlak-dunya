@@ -21,6 +21,7 @@ The background is locked from the first frame of Shot 01 and continues unchanged
 ---
 
 ## First Frame Lock
+Camera must continue from the identical camera position of the previous shot.
 
 ```text
 Treat @image1 (Shot 02 final frame) as the complete visual master reference.
@@ -88,6 +89,8 @@ Do not display dialogue as on-screen text except the single title card "Fifi" at
 
 ## Camera Direction
 
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
+
 Wide-to-medium, 35mm, 0.80m height, static. Sky visible behind both characters per Cloud Hill Camera Identity ("Characters are always framed with the sky behind them").
 
 ---
@@ -127,6 +130,10 @@ Fifi: (bright chirp, no speech)
 Identical to Shots 01-02. Warm soft light from upper left, no hard shadows.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

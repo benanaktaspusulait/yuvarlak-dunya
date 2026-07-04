@@ -16,6 +16,7 @@
 ---
 
 ## Continuity
+Camera must continue from the identical camera position of the previous shot. Do not reset, recompose or change camera angle.
 
 Previous shot: Kiko made a wish. A soft sparkle twinkled in the sky.
 
@@ -53,6 +54,8 @@ The Rainbow Bridge background is locked from the first frame; keep all visible b
 ---
 
 ## Camera Direction
+
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Medium, 50mm, static.
 
@@ -95,6 +98,10 @@ Kiko: I think so!
 Soft golden afternoon light. Sparkle glow, then back to normal. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

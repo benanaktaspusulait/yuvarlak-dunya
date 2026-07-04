@@ -16,6 +16,7 @@
 ---
 
 ## Continuity
+Camera must continue from the identical camera position of the previous shot. Do not reset, recompose or change camera angle.
 
 Previous shot: They painted side by side — Sofia painted a sun, Kiko painted a cloud.
 
@@ -53,6 +54,8 @@ The Art Corner background is locked from the first frame; keep all visible canva
 ---
 
 ## Camera Direction
+
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Static medium alternating, 50mm, gentle pan.
 

@@ -16,6 +16,7 @@
 ---
 
 ## Continuity
+Camera must continue from the identical camera position of the previous shot. Do not reset, recompose or change camera angle.
 
 Previous shot: They walked home through the meadow, holding hands. The rainbow faded.
 
@@ -53,6 +54,8 @@ The Rainbow Bridge background is locked from the first frame; keep all visible m
 ---
 
 ## Camera Direction
+
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Medium to wide, 50mm, very slow pull-back.
 
@@ -95,6 +98,10 @@ Mimi: Goodnight!
 Soft golden afternoon light — golden hour. Warm, gentle, low contrast. Identical to previous shots.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 

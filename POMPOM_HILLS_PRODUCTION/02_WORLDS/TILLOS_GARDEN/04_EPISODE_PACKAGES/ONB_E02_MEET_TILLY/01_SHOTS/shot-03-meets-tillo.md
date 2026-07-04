@@ -21,6 +21,7 @@ The background is locked from the first frame of Shot 01 and continues unchanged
 ---
 
 ## First Frame Lock
+Camera must continue from the identical camera position of the previous shot.
 
 ```text
 Treat @image1 (Shot 02 final frame) as the complete visual master reference.
@@ -87,6 +88,8 @@ Do not display dialogue as on-screen text except the single title card "Tilly" a
 
 ## Camera Direction
 
+Lighting must remain consistent with the previous shot. Match the lighting and colour grading exactly from the supplied continuity reference image.
+
 Wide-to-medium, 50mm, static. Holds steady on both characters; no push or pan.
 
 ---
@@ -126,6 +129,10 @@ Tilly: (soft slow nod, no speech)
 Identical to Shots 01-02. Warm golden morning sunlight, soft glow.
 
 ---
+
+## Character Presence
+
+Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
 
 ## Negative Prompt
 
