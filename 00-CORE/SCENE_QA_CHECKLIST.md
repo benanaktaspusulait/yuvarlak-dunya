@@ -161,7 +161,7 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 
 ```bash
 # Scene QA doğrulama
-bash scripts/validate-scene.sh 04-SCENES/season-01/s01eXX-episode-name/
+bash scripts/validate-scene.sh POMPOM_HILLS_PRODUCTION/02_WORLDS/<WORLD_NAME>/04_EPISODE_PACKAGES/S01Exx_EPISODE_NAME/
 ```
 
 ---

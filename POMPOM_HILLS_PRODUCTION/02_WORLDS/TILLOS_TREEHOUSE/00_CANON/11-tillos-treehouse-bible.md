@@ -520,7 +520,7 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Tillo's Treehouse must NOT be reduced to "a house in a tree." Reject
 > Tillo's Treehouse if it is only a random treehouse with no sense of height,
 > bridge crossing, or safe adventure feeling.
@@ -827,8 +827,8 @@ Little Forest → Merdiven → Köprü → Ağaç ev → Pencere manzarası
 | Document | Path |
 |----------|------|
 | World Spec | `POMPOM_HILLS_PRODUCTION/02_WORLDS/TILLOS_TREEHOUSE/02_WORLD_SPEC/11-tillos-treehouse-world-spec.md` |
-| Global Standard | `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
-| Image Prompts | `POMPOM_HILLS_PRODUCTION/02_WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
+| Global Standard | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
+| Image Prompts | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
 
 ---
 

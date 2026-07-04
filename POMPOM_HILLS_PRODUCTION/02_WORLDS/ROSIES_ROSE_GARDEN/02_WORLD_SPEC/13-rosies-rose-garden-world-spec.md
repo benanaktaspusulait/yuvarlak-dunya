@@ -187,7 +187,7 @@ the sky open and pale — no dramatic clouds, no moody atmosphere.
 
 ## Visual Richness Layer
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Rosie's Rose Garden must never be reduced to "a flower field."
 
 **Allowed charm details:** the twin heart-shaped rose beds (RG-BEDS-HEART-01,

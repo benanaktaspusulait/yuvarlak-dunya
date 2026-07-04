@@ -719,7 +719,7 @@ Close-up of round campfire stones with warm embers. Safe flame contained within 
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Camping Grove must NOT be reduced to "tents in a forest." Reject Camping
 > Grove if the fire circle is missing or the night sky feels ordinary rather
 > than magical.

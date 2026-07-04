@@ -847,7 +847,7 @@ Kiko'nun evi nasıl çekilir? Kamera evin içinde doğal hareket eder.
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Kiko's Home must NOT be reduced to "a pink house."
 
 Kiko's Home is the warm, rounded toy-cottage heart of Pompom Hills. It should feel

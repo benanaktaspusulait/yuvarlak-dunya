@@ -169,7 +169,7 @@ identity to preserve exactly, not to reinterpret, across every generation.
 
 ## Visual Richness Layer
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Kiko's Home must never be reduced to "a pink house."
 
 This layer protects Kiko's Home from becoming too plain. Keep the rounded

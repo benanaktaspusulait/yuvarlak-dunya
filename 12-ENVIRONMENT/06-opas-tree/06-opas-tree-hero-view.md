@@ -8,7 +8,7 @@ This document contains ONLY image generation prompts.
 
 All world rules, layout rules, animation rules and production constraints are defined in:
 
-`../../POMPOM_HILLS_PRODUCTION/02_WORLDS/OPA_TREE-bible.md`
+`../../POMPOM_HILLS_PRODUCTION/02_WORLDS/OPA_TREE/00_CANON/06-opas-tree-bible.md`
 
 This document follows the Environment Bible.
 

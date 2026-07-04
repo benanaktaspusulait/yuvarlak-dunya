@@ -537,7 +537,7 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Rainbow Creek must NOT be reduced to "a stream and some rocks." If Rainbow
 > Creek looks like any generic drainage ditch, reject it.
 
@@ -851,8 +851,8 @@ Stone Hill → Çay başlangıcı → Taşlar → Köprü → Flower Hill
 | Document | Path |
 |----------|------|
 | World Spec | `POMPOM_HILLS_PRODUCTION/02_WORLDS/RAINBOW_CREEK/02_WORLD_SPEC/19-rainbow-creek-world-spec.md` |
-| Global Standard | `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
-| Image Prompts | `POMPOM_HILLS_PRODUCTION/02_WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
+| Global Standard | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
+| Image Prompts | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
 
 ---
 

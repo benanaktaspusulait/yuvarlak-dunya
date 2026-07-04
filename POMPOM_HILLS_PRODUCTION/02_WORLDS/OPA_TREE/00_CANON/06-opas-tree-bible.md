@@ -245,7 +245,7 @@ Opa'nın varlığı her sahneye bilgelik ve güvenlik katar. Ağaç, Pompom Hill
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Opa's Tree must NOT be reduced to "a big tree." Reject Opa's Tree if it is
 > only a random tree, has no storytelling/shelter feeling, or the tree is
 > not iconic.

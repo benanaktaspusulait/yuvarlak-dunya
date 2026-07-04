@@ -646,7 +646,7 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Learning Room must NOT be reduced to "a classroom." Reject Learning Room
 > if it looks like a generic modern school room rather than a warm,
 > handcrafted preschool learning cottage.

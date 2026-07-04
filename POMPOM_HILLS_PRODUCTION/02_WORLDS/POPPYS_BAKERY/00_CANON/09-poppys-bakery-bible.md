@@ -769,7 +769,7 @@ Poppy's Bakery nasıl çekilir? Kamera fırın içinde doğal hareket eder.
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Poppy's Bakery must NOT be reduced to "an orange building with a window."
 > If Poppy's Bakery looks like any generic bakery storefront, reject it.
 
@@ -1329,8 +1329,8 @@ Poppy's Bakery, PomPom Hills'in sıcak kalbidir. Yuvarlak turuncu-kahverengi bin
 | Document | Path |
 |----------|------|
 | World Spec | `POMPOM_HILLS_PRODUCTION/02_WORLDS/POPPYS_BAKERY/02_WORLD_SPEC/09-poppys-bakery-world-spec.md` |
-| Global Standard | `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
-| Image Prompts | `POMPOM_HILLS_PRODUCTION/02_WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
+| Global Standard | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
+| Image Prompts | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
 
 ---
 

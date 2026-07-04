@@ -565,7 +565,7 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Hobby Horse Trail must NOT be reduced to "a path with some flags". If
 > Hobby Horse Trail looks like any plain dirt trail, reject it.
 
@@ -877,8 +877,8 @@ Central Square → Giriş (tahta atlar) → Kavisli patika → Köprü → Çiç
 | Document | Path |
 |----------|------|
 | World Spec | `POMPOM_HILLS_PRODUCTION/02_WORLDS/HOBBY_HORSE_TRAIL/02_WORLD_SPEC/30-hobby-horse-trail-world-spec.md` |
-| Global Standard | `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
-| Image Prompts | `POMPOM_HILLS_PRODUCTION/02_WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
+| Global Standard | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
+| Image Prompts | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
 
 ---
 

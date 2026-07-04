@@ -311,7 +311,7 @@ Every future Cloud Hill scene is generated using only these two assets. No addit
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Cloud Hill must NOT be only a hill and clouds. If Cloud Hill looks like any
 > normal hill, reject it.
 

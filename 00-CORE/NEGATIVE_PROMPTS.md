@@ -5,7 +5,7 @@ Bu dosya Midjourney, SDXL ve Flux üretimlerinde ortak yasak listesidir. Pozitif
 ## Negative Prompt Philosophy ⭐
 
 > Added by the Visual Richness and World Charm decision (4 Temmuz 2026).
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Negative Prompt Philosophy.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Negative Prompt Philosophy.
 
 Negative prompts must prevent drift, not remove charm. Avoid generic
 "no detail" language that accidentally strips out a world's Allowed Charm

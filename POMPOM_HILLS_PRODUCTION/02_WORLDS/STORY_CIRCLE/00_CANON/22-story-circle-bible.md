@@ -519,7 +519,7 @@ Her fırsat doğal, sakin ve preschool'a uygundur:
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Story Circle must NOT be reduced to "a tree with stones." Reject Story
 > Circle if the seating circle is missing or the amber evening light feels
 > ordinary rather than warm and ceremonial.
@@ -820,8 +820,8 @@ Camping Grove → Giriş yolu → Ağaç altı → Oturma alanı → Merkez (ağ
 | Document | Path |
 |----------|------|
 | World Spec | `POMPOM_HILLS_PRODUCTION/02_WORLDS/STORY_CIRCLE/02_WORLD_SPEC/22-story-circle-world-spec.md` |
-| Global Standard | `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
-| Image Prompts | `POMPOM_HILLS_PRODUCTION/02_WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
+| Global Standard | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` |
+| Image Prompts | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/ENVIRONMENT_IMAGE_PROMPTS.md` |
 
 ---
 

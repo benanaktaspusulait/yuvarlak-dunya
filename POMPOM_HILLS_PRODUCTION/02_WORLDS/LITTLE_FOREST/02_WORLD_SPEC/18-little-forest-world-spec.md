@@ -151,7 +151,7 @@ exactly, not to reinterpret, across every generation.
 
 ## Visual Richness Layer
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Little Forest must never be reduced to "some trees."
 
 This layer protects Little Forest from becoming too plain. Keep the round

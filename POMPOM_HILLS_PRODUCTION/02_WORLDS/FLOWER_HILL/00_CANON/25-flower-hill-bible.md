@@ -290,7 +290,7 @@ FH-BUTTERFLY-01 kaldırılmaz, yalnızca kullanım kapsamı netleştirilir.
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Flower Hill must NOT be reduced to "a field with flowers." Flower Hill has
 > two production zones (see below) and each must feel distinct and iconic,
 > not just a generic flower field or a generic house cluster.
@@ -298,7 +298,7 @@ FH-BUTTERFLY-01 kaldırılmaz, yalnızca kullanım kapsamı netleştirilir.
 ### Sub-Zones
 
 Flower Hill has two related but non-identical sub-zones (see
-`POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § World Charm Categories — a
+`POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § World Charm Categories — a
 sub-zone is added when one Hero View cannot represent all story uses):
 
 **Flower Hill Nature Field Zone** — used for colour learning, flower

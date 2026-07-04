@@ -7,7 +7,7 @@
 > `## Reference Image Policy` and `## Zone Shot Prompt Blocks` below. This
 > does not reopen the old multi-reference-pack generation workflow; it adds
 > approved legacy images as Visual Quality Anchors per
-> `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Quality Anchor Policy.
+> `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Quality Anchor Policy.
 
 ---
 
@@ -534,7 +534,7 @@ Closing wide (exit or field hold)
 
 ## Visual Richness Layer
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Flower Hill must never be reduced to "flowers + path." Flower Hill has two
 > sub-zones — Nature Field Zone and Home Cluster Zone — and each has its own
 > allowed charm details (full detail in `25-flower-hill-bible.md` §
@@ -580,7 +580,7 @@ If any test fails, reject — see Generation Failures table below.
 
 ## Reference Image Policy
 
-> Per `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Quality Anchor
+> Per `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Quality Anchor
 > Policy. These are Visual Quality Anchors, not a return to the old
 > multi-reference-pack workflow. The single Hero View + World Spec + Shot
 > Continuity pipeline stays as-is; these images inform which reference is

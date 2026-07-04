@@ -90,7 +90,7 @@ Bilge, sessiz, saygılı. Zamanın durduğu bir mekan. Hikaye anlatma ve dinleme
 
 ## Visual Richness Layer
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Opa's Tree must never be reduced to "a big tree." OT-BRANCH-01 (Opa's
 > storytelling branch) is the mandatory landmark in every shot where Opa
 > is present.

@@ -821,7 +821,7 @@ Huzurlu, mor, doğal.
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Lily's Lavender Farm must NOT be reduced to "a purple field."
 
 Lily's Lavender Farm is the aromatic sensory heart of Pompom Hills. It should

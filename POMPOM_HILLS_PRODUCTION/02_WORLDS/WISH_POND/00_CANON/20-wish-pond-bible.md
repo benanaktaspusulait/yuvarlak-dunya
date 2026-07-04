@@ -702,7 +702,7 @@ Wish Pond nasıl çekilir? Kamera gölet alanı içinde doğal hareket eder.
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Wish Pond must NOT be reduced to "a pond with stars." If Wish Pond looks
 > like any generic dark puddle, reject it.
 

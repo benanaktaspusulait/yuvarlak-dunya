@@ -93,7 +93,7 @@ Cesur, maceracı, güvenli. Doğal keşif ve tırmanma deneyimi. Pastel renkler 
 
 ## Visual Richness Layer
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Stone Hill must never be reduced to "a hill with rocks."
 
 This layer protects Stone Hill from becoming too plain. Keep the world

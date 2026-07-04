@@ -773,7 +773,7 @@ Shot şu durumlarda reddedilir:
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Pony Meadow must NOT be reduced to "a field with ponies." Reject Pony
 > Meadow if the gate and fence are missing, or the ponies feel generic
 > rather than small, round, and gentle.

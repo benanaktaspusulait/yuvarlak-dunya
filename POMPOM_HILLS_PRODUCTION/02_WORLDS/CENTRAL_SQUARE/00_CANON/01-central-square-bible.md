@@ -97,7 +97,7 @@ Pompom Tree var mı? Yuvarlak mı? Sıcak mı?
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Central Square must NOT be reduced to "a plaza." Reject Central Square if
 > it is only an empty plaza, the Big Pompom Tree is missing, or there is no
 > community/play feeling.

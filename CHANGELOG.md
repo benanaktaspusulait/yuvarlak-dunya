@@ -95,7 +95,7 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
   hızlı koruma bölümleri eklendi.
 - `OPENART_WORLD_PROMPT_PACK.md`: Production pipeline notu, Hero Pack view cümleleri ve LOCKED
   environment cümlesi eklendi.
-- `POMPOM_HILLS_PRODUCTION/02_WORLDS/ENVIRONMENT_IMAGE_PROMPTS.md`: World reference & Hero Pack production notu eklendi.
+- `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/ENVIRONMENT_IMAGE_PROMPTS.md`: World reference & Hero Pack production notu eklendi.
 - `NEGATIVE_PROMPTS.md`: "OpenArt Production Failure Modes" negatif bloğu ve locked-world pozitif
   pekiştirme cümlesi eklendi.
 

@@ -713,7 +713,7 @@ Friendship Meadow nasıl çekilir? Kamera çayır alanı içinde doğal hareket 
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Friendship Meadow must NOT be reduced to "an open field." Reject
 > Friendship Meadow if it is only empty grass with no sense of togetherness,
 > play, or shared activity.

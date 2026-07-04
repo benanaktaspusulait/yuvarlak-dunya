@@ -376,7 +376,7 @@ Playlist: Opa's Storytime | Gentle Preschool Stories
 
 ## 18. Production Files
 
-Each Opa's Storytime episode uses the standard episode package defined in `04-SCENES/_templates/EPISODE_TEMPLATE.md` (Kanonik Bölüm Klasör Yapısı): `01-overview.md`, `02-beat-sheet.md`, `03-storyboard.md`, `04-assets.md`, `05-camera.md`, `06-dialogues.md`, `07-sfx.md`, `08-animation-notes.md`, `09-render-prompts.md`, `COORDINATE_MAP.md`, `EPISODE_SUMMARY.md`, `EPISODE_SUMMARY_TR.md`, optional `SHORTS_PLAN.md` and `shots/`.
+Each Opa's Storytime episode uses the standard episode package defined in `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/EPISODE_TEMPLATES/EPISODE_TEMPLATE.md` (Kanonik Bölüm Klasör Yapısı): `01-overview.md`, `02-beat-sheet.md`, `03-storyboard.md`, `04-assets.md`, `05-camera.md`, `06-dialogues.md`, `07-sfx.md`, `08-animation-notes.md`, `09-render-prompts.md`, `COORDINATE_MAP.md`, `EPISODE_SUMMARY.md`, `EPISODE_SUMMARY_TR.md`, optional `SHORTS_PLAN.md` and `shots/`.
 
 The Episode Lock table in each episode's `01-overview.md` should also record `Series` and `Playlist` (see `EPISODE_TEMPLATE.md`).
 

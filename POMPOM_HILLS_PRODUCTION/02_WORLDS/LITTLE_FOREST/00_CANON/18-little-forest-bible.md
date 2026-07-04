@@ -716,7 +716,7 @@ Little Forest nasıl çekilir? Kamera orman alanı içinde doğal hareket eder.
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Little Forest must NOT be reduced to "some trees." Reject Little Forest if
 > it has no mushroom circle, no sense of a small friendly surprise waiting
 > around every tree.

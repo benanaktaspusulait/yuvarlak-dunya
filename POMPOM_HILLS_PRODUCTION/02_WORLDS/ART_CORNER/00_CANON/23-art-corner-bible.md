@@ -704,7 +704,7 @@ Art Corner nasıl çekilir? Kamera stüdyo alanı içinde doğal hareket eder.
 
 ## Visual Richness & World Charm
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Art Corner must NOT be reduced to "some easels outside." Reject Art
 > Corner if the canvases feel empty or the space doesn't read as a joyful,
 > colourful creative studio.

@@ -127,7 +127,7 @@ The room must be generated as a single connected learning space with soft activi
 
 ## Visual Richness Layer
 
-> See `POMPOM_HILLS_PRODUCTION/02_WORLDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
+> See `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md` § Visual Richness Principle.
 > Learning Room must never be reduced to "a classroom."
 
 This layer protects Learning Room from becoming too plain. Keep the round
