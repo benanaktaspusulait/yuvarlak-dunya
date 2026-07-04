@@ -1,4 +1,4 @@
-# The Sleepy Leaf — Shot 06 — The Leaf Settles
+# The Sleepy Leaf — Shot 08 — The Wind Slows Down
 
 ---
 
@@ -7,17 +7,17 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Sleepy Leaf (Opa's Storytime) |
-| Shot | 06 / 08 |
+| Shot | 08 / 20 |
 | Duration | 15 seconds |
 | Location | Central Square — Outdoor Story Blanket (sunset) |
-| Characters | Opa, Kiko |
+| Characters | Opa, Kiko, Noah |
 
 ---
 
 ## Frame Lock
 
 ```text
-Treat @image1 (Shot 05 final frame) as the complete visual master reference.
+Treat @image1 (Shot 07 final frame) as the complete visual master reference.
 Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
 The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
 The animation begins only after the first frame has matched @image1 perfectly.
@@ -26,12 +26,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Big Pompom Tree, stone circle, grass and story blanket remain identical. Do not repaint or reinterpret Central Square. Only characters and the settling leaf may move.
+Background locked from the first frame. Big Pompom Tree, stone circle, grass and story blanket remain identical. Do not repaint or reinterpret Central Square. Only characters and the single slowing leaf may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 05 video as Video Reference. Close-up, the leaf drifts down and settles softly onto the grass, Kiko smiling softly, {style} {camera} {lighting}
+Use Shot 07 video as Video Reference. Close-up on the leaf slowing its dance as the sunset deepens, Opa narrates the wind slowing, Kiko and Noah notice, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,15 +42,16 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 05 reference. Slow push-in following the leaf settling. Lens 50mm, height 0.60m, slow push-in (leaf settling).
+Begin from the identical camera position of the Shot 07 reference. Hold a static close-up on the leaf detail. Lens 50mm, height 0.60m, static close-up (leaf detail).
 
 ---
 
 ## Dialogue
 
 ```
-Opa: And the little leaf settled softly onto the grass.
-Kiko: That looks so peaceful.
+Opa: But as the sun went down, the wind slowed too.
+Kiko: The wind was getting tired?
+Noah: I get tired too.
 ```
 
 ---
@@ -59,30 +60,30 @@ Kiko: That looks so peaceful.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-7 sn | The leaf drifts down as Opa narrates it settling softly. | Close-up push-in, 50mm |
-| 7-11 sn | The leaf settles softly onto the grass. | Close-up, 50mm, settle |
-| 11-15 sn | Kiko smiles softly, saying it looks so peaceful. | Close-up, 50mm, static |
+| 0-5 sn | Opa narrates the sun going down and the wind slowing. | Close-up, 50mm, static |
+| 5-10 sn | The leaf slows its dance as the sunset deepens. Kiko asks if the wind was tired. | Close-up, 50mm, static |
+| 10-15 sn | Noah says he gets tired too. | Close-up, 50mm, static |
 
 ---
 
 ## Sound
 
 - Soft outdoor sunset ambience
-- Faint leaf-settle on grass
+- Breeze softening and slowing
 - Warm golden-hour stillness
 
 ---
 
 ## Lighting
 
-Continue Shot 05 lighting exactly. Warm golden-hour sunset light, long soft shadows, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 07 lighting exactly, deepening gently toward late sunset. Warm golden-hour light, long soft shadows, warm ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 05 video (or exported final frame)
-- Voice: same approved references for Opa and Kiko (see `06-dialogues.md`, Voice Notes in `01-overview.md`)
+- Continuity Reference: Shot 07 video (or exported final frame)
+- Voice: same approved references for Opa, Kiko and Noah (see `06-dialogues.md`, Voice Notes in `01-overview.md`)
 
 ## Negative Prompt
 
@@ -93,11 +94,10 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Kiko)
+- [ ] Voice continuity verified (Opa, Kiko, Noah)
 - [ ] Colour / lighting continuity verified
 - [ ] Characters already present (no re-entry)
-- [ ] Push-in stays inside the scene (no new establishing shot)
-- [ ] Sunset outdoor mood maintained
+- [ ] Sunset outdoor mood maintained (gentle deepening only)
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
 - [ ] No perceivable shot boundary

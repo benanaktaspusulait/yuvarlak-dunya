@@ -1,4 +1,4 @@
-# The Sleepy Leaf — Shot 04 — Why Rest?
+# The Sleepy Leaf — Shot 06 — Why Rest?
 
 ---
 
@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Sleepy Leaf (Opa's Storytime) |
-| Shot | 04 / 08 |
+| Shot | 06 / 20 |
 | Duration | 15 seconds |
 | Location | Central Square — Outdoor Story Blanket (sunset) |
 | Characters | Opa, Kiko, Noah |
@@ -17,7 +17,7 @@
 ## Frame Lock
 
 ```text
-Treat @image1 (Shot 03 final frame) as the complete visual master reference.
+Treat @image1 (Shot 05 final frame) as the complete visual master reference.
 Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
 The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
 The animation begins only after the first frame has matched @image1 perfectly.
@@ -31,7 +31,7 @@ Background locked from the first frame. Big Pompom Tree, stone circle, grass and
 ## Visual Prompt
 
 ```text
-Use Shot 03 video as Video Reference. Medium three-shot, Kiko and Noah both ask questions, Opa answers warmly, {style} {camera} {lighting}
+Use Shot 05 video as Video Reference. Medium three-shot, Kiko and Noah both ask questions, Opa answers warmly, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 03 reference. Hold a static medium three-shot. Lens 35mm, height 0.85m, static medium three-shot.
+Begin from the identical camera position of the Shot 05 reference. Hold a static medium three-shot. Lens 35mm, height 0.85m, static medium three-shot.
 
 ---
 
@@ -76,13 +76,13 @@ Opa: It thought resting meant the fun was over.
 
 ## Lighting
 
-Continue Shot 03 lighting exactly. Warm golden-hour sunset light, long soft shadows, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 05 lighting exactly. Warm golden-hour sunset light, long soft shadows, warm ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 03 video (or exported final frame)
+- Continuity Reference: Shot 05 video (or exported final frame)
 - Voice: same approved references for Opa, Kiko and Noah (see `06-dialogues.md`, Voice Notes in `01-overview.md`)
 
 ## Negative Prompt

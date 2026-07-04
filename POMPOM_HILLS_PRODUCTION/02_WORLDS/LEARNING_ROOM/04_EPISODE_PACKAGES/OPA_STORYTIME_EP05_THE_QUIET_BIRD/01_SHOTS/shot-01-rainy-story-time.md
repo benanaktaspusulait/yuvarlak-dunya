@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Quiet Bird (Opa's Storytime) |
-| Shot | 01 / 08 |
+| Shot | 01 / 20 |
 | Duration | 15 seconds |
 | Location | Learning Room — Reading Corner (rainy day, indoor) |
 | Characters | Opa, Luca, Mimi |

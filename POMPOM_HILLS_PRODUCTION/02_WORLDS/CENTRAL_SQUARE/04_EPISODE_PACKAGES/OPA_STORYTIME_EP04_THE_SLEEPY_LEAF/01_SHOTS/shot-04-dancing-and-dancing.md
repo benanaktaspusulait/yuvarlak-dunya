@@ -1,4 +1,4 @@
-# The Sleepy Leaf — Shot 02 — The Busy Little Leaf
+# The Sleepy Leaf — Shot 04 — Dancing and Dancing
 
 ---
 
@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Sleepy Leaf (Opa's Storytime) |
-| Shot | 02 / 20 |
+| Shot | 04 / 20 |
 | Duration | 15 seconds |
 | Location | Central Square — Outdoor Story Blanket (sunset) |
 | Characters | Opa, Noah |
@@ -17,7 +17,7 @@
 ## Frame Lock
 
 ```text
-Treat @image1 (Shot 01 final frame) as the complete visual master reference.
+Treat @image1 (Shot 03 final frame) as the complete visual master reference.
 Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
 The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
 The animation begins only after the first frame has matched @image1 perfectly.
@@ -26,14 +26,14 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Big Pompom Tree, stone circle, grass and story blanket remain identical. Do not repaint or reinterpret Central Square. Only characters and the blanket may move.
+Background locked from the first frame. Big Pompom Tree, stone circle, grass and story blanket remain identical. Do not repaint or reinterpret Central Square. Only characters and the single dancing leaf may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 01 video as Video Reference. Opa begins the story with a gentle hand gesture toward the tree, Noah laughs and asks his question, {style} {camera} {lighting}
+Use Shot 03 video as Video Reference. Medium shot, Opa describes the leaf dancing even while tired, Noah reacts with concern, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or golden-hour intensity.
+Match the lighting and colour grading exactly from the supplied continuity reference image.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -42,16 +42,15 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 01 reference. Only after the first frame matches, hold a static medium. Lens 50mm, height 0.85m, static medium.
+Begin from the identical camera position of the Shot 03 reference. Hold a static medium. Lens 50mm, height 0.85m, static medium.
 
 ---
 
 ## Dialogue
 
 ```
-Opa: Once, there was a busy little leaf who never wanted to stop.
-Noah: What was it so busy doing?
-Opa: Dancing in the wind, all day long.
+Opa: It danced and danced, even when it felt tired.
+Noah: Didn't it want to rest?
 ```
 
 ---
@@ -60,29 +59,29 @@ Opa: Dancing in the wind, all day long.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-5 sn | Opa begins the story with a gentle hand gesture toward the tree. | Medium, 50mm, static |
-| 5-10 sn | Noah laughs and asks what the leaf was so busy doing. | Medium, 50mm, static |
-| 10-15 sn | Opa answers warmly about dancing in the wind. | Medium, 50mm, static |
+| 0-7 sn | Opa describes the leaf dancing and dancing even when tired. | Medium, 50mm, static |
+| 7-11 sn | The leaf on the branch sways gently, looking weary. | Medium, 50mm, static |
+| 11-15 sn | Noah asks if the leaf wanted to rest. | Medium, 50mm, static |
 
 ---
 
 ## Sound
 
 - Soft outdoor sunset ambience
-- Gentle breeze through the Big Pompom Tree
+- Gentle breeze rustling a single leaf
 - Warm golden-hour stillness
 
 ---
 
 ## Lighting
 
-Continue Shot 01 lighting exactly. Warm golden-hour sunset light, long soft shadows, warm ambient glow. Do not reinterpret — continue it.
+Continue Shot 03 lighting exactly. Warm golden-hour sunset light, long soft shadows, warm ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 01 video (or exported final frame)
+- Continuity Reference: Shot 03 video (or exported final frame)
 - Voice: same approved references for Opa and Noah (see `06-dialogues.md`, Voice Notes in `01-overview.md`)
 
 ## Negative Prompt

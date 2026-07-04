@@ -1,4 +1,4 @@
-# Opa's Storytime: The Little Seed That Listened v1.0
+# Opa's Storytime: The Little Seed That Listened v2.0 (5-Minute Version)
 
 ---
 
@@ -6,13 +6,13 @@
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 120 saniye (8 sahne × 15 sn) |
+| Süre | 300 saniye (20 sahne × 15 sn) |
 | Hedef yaş | 3-4 |
 | Series | Opa's Storytime |
 | Playlist | Opa's Storytime \| Gentle Preschool Stories |
 | Ana duygu | Sıcaklık, ev hissi, sakin merak |
 | Ana tema | Dinleme / yavaş büyümek |
-| Mekan | Kiko's Home — Reading Corner |
+| Mekan | Kiko's Home — Reading Corner (indoor) |
 | Karakterler | Opa, Kiko, Mimi |
 | Voice Identity | Approved voice reference per speaking character (Opa, Kiko, Mimi) |
 | Colour Identity | Warm coral-pink pastel palette, soft saturation, low contrast |
@@ -27,7 +27,7 @@
 Kiko, Opa'yı kendi evine davet eder. Mimi de oradadır. Üçü, Kiko'nun evindeki okuma
 köşesinde toplanır. Opa küçük bir tohum hakkında bir masal anlatır — tohum toprağın
 altında pek çok ses işitir ama acele etmeden dinlemeyi ve doğru zamanı beklemeyi
-öğrenir. Kiko ve Mimi hikaye boyunca sorular sorar.
+öğrenir. Kiko ve Mimi hikaye boyunca sorular sorar, tahminde bulunur ve tepki verir.
 
 ---
 
@@ -51,7 +51,7 @@ Ortak kapanış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODE
 - Duration: 4–5 sn (ortak klip, her bölümde aynı)
 - Visual: Kitap yumuşakça kapanır + end-screen-safe kare
 - Sound: Soft müzik kuyruğu
-- Dialogue: Yok — Opa'nın son repliği Shot 08 warm final hold'da kalır
+- Dialogue: Yok — Opa'nın son repliği Shot 13 warm final hold'da kalır
 - End-screen-safe frame: Sakin, boşluklu, playlist öğesi için yer
 - Purpose: Sıcak kapanış + repeat/playlist viewing
 
@@ -69,13 +69,25 @@ değil, kalple de olduğunu keşfetme anı.
 | Sıra | Dosya | Süre | Karakter | Amaç |
 | --- | --- | ---: | --- | --- |
 | 01 | `shots/shot-01-welcome-home.md` | 15 sn | Kiko, Opa, Mimi | Ev sahipliği açılışı, seri açılış beat'i |
-| 02 | `shots/shot-02-the-little-seed.md` | 15 sn | Opa, Kiko | Masalın başlaması |
-| 03 | `shots/shot-03-so-many-sounds.md` | 15 sn | Opa, Mimi | Tohumun işittiği sesler |
-| 04 | `shots/shot-04-which-sound-to-follow.md` | 15 sn | Opa, Kiko, Mimi | Duygusal soru, karar anı |
-| 05 | `shots/shot-05-the-seed-waits.md` | 15 sn | Opa, Kiko | Sabırla dinleme |
-| 06 | `shots/shot-06-a-small-green-shoot.md` | 15 sn | Opa, Mimi | Ders hikaye üzerinden gösterilir |
-| 07 | `shots/shot-07-i-listen-with-my-heart.md` | 15 sn | Opa, Kiko | Micro-moment, kişisel bağlantı |
-| 08 | `shots/shot-08-cosy-home-hold.md` | 15 sn | Opa, Kiko, Mimi | Sessiz sıcak kapanış |
+| 02 | `shots/shot-02-opening-the-book.md` | 15 sn | Opa, Kiko, Mimi | Kitap açılır, merak |
+| 03 | `shots/shot-03-the-little-seed.md` | 15 sn | Opa, Kiko | Masalın başlaması, küçük tohum tanıtılır |
+| 04 | `shots/shot-04-was-it-scared.md` | 15 sn | Opa, Kiko | Tohumun karanlıkta hissettikleri |
+| 05 | `shots/shot-05-so-many-sounds.md` | 15 sn | Opa, Mimi | Tohumun işittiği sesler |
+| 06 | `shots/shot-06-which-sound-to-follow.md` | 15 sn | Opa, Kiko, Mimi | Duygusal soru, karar anı |
+| 07 | `shots/shot-07-listened-gently.md` | 15 sn | Opa, Kiko | Sabırla dinleme |
+| 08 | `shots/shot-08-the-seed-waits.md` | 15 sn | Opa, Mimi | Bekleme devam eder |
+| 09 | `shots/shot-09-thats-patient.md` | 15 sn | Opa, Kiko | Kiko'nun sabır yorumu |
+| 10 | `shots/shot-10-a-drop-of-water.md` | 15 sn | Opa, Mimi | Bir damla su iner |
+| 11 | `shots/shot-11-did-it-feel-it.md` | 15 sn | Opa, Mimi | Mimi'nin merakı |
+| 12 | `shots/shot-12-a-tiny-root.md` | 15 sn | Opa, Kiko | Tohum kök atar |
+| 13 | `shots/shot-13-its-growing.md` | 15 sn | Opa, Kiko, Mimi | Büyüme başlar |
+| 14 | `shots/shot-14-a-green-shoot.md` | 15 sn | Opa, Mimi | Yeşil filiz toprağı deler |
+| 15 | `shots/shot-15-grew-when-ready.md` | 15 sn | Opa, Kiko | Ders hikaye üzerinden gösterilir |
+| 16 | `shots/shot-16-mimi-smiles.md` | 15 sn | Opa, Mimi | Mimi'nin sıcak tepkisi |
+| 17 | `shots/shot-17-i-listen-with-my-heart.md` | 15 sn | Opa, Kiko | Micro-moment, kişisel bağlantı |
+| 18 | `shots/shot-18-wonderful-way.md` | 15 sn | Opa, Kiko | Opa'nın sıcak onayı |
+| 19 | `shots/shot-19-quiet-warmth.md` | 15 sn | Opa, Kiko, Mimi | Sessiz sıcak an |
+| 20 | `shots/shot-20-closing-hold.md` | 15 sn | Opa, Kiko, Mimi | Kapanış hold'u, bumper'a geçiş |
 
 ---
 
@@ -97,7 +109,7 @@ Dinlemek zaman alır; doğru anı beklemek büyümeye yardım eder.
 
 | Karakter | Ses |
 | --- | --- |
-| Opa | Approved Opa voice reference — warm, calm, wise |
+| Opa | Approved Opa voice reference — warm, calm, wise, never rushed |
 | Kiko | Approved Kiko voice reference — curious, gentle, welcoming (home setting) |
 | Mimi | Approved Mimi voice reference — soft, quiet, observant |
 
@@ -138,23 +150,35 @@ Do not allow the episode to become brighter, darker, warmer, cooler, harsher or 
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, modern furniture, harsh lighting, scary shadows, adult lecture feeling
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, modern furniture, harsh lighting, scary shadows, adult lecture feeling, different world
 
 ---
 
 ## QA Status
 
-Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) passed on 4 Temmuz 2026: all 8 shot files contain the required sections — Frame Lock (shots 02–08), Background Object Lock, Visual Prompt, Camera Direction, Dialogue, Shot Breakdown, Sound, Lighting, Reference Usage, Text Safety, Negative Prompt, QA Checklist and Scale. Shot 01 carries the Opening Hook and series opening beat; shot 08 carries the warm-hold + closing-bumper note.
+Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) pending for 20-shot v2.0 structure.
 
 Render QA (`16_VIDEO_QA_SPEC.md`, scored /10) runs after each shot is generated — pending.
 
 | Shot | Scene QA (doc) | Render QA /10 | Ready to Render |
 |------|:--------------:|:-------------:|:---------------:|
-| 01 | ✅ | — | ✅ |
-| 02 | ✅ | — | ✅ |
-| 03 | ✅ | — | ✅ |
-| 04 | ✅ | — | ✅ |
-| 05 | ✅ | — | ✅ |
-| 06 | ✅ | — | ✅ |
-| 07 | ✅ | — | ✅ |
-| 08 | ✅ | — | ✅ |
+| 01 | — | — | ✅ |
+| 02 | — | — | ✅ |
+| 03 | — | — | ✅ |
+| 04 | — | — | ✅ |
+| 05 | — | — | ✅ |
+| 06 | — | — | ✅ |
+| 07 | — | — | ✅ |
+| 08 | — | — | ✅ |
+| 09 | — | — | ✅ |
+| 10 | — | — | ✅ |
+| 11 | — | — | ✅ |
+| 12 | — | — | ✅ |
+| 13 | — | — | ✅ |
+| 14 | — | — | ✅ |
+| 15 | — | — | ✅ |
+| 16 | — | — | ✅ |
+| 17 | — | — | ✅ |
+| 18 | — | — | ✅ |
+| 19 | — | — | ✅ |
+| 20 | — | — | ✅ |

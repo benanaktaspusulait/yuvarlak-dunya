@@ -1,4 +1,4 @@
-# The Sleepy Leaf — Shot 07 — Resting Helps Me Play
+# The Sleepy Leaf — Shot 03 — Dancing All Day
 
 ---
 
@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Sleepy Leaf (Opa's Storytime) |
-| Shot | 07 / 08 |
+| Shot | 03 / 20 |
 | Duration | 15 seconds |
 | Location | Central Square — Outdoor Story Blanket (sunset) |
 | Characters | Opa, Kiko |
@@ -17,7 +17,7 @@
 ## Frame Lock
 
 ```text
-Treat @image1 (Shot 06 final frame) as the complete visual master reference.
+Treat @image1 (Shot 02 final frame) as the complete visual master reference.
 Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
 The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
 The animation begins only after the first frame has matched @image1 perfectly.
@@ -26,12 +26,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Big Pompom Tree, stone circle, grass and story blanket remain identical. Do not repaint or reinterpret Central Square. Only characters and the blanket may move.
+Background locked from the first frame. Big Pompom Tree, stone circle, grass and story blanket remain identical. Do not repaint or reinterpret Central Square. Only characters and the single dancing leaf may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 06 video as Video Reference. Slow push-in close-up on Kiko, warm emotional micro-moment expression, Opa softly acknowledging, {style} {camera} {lighting}
+Use Shot 02 video as Video Reference. Medium shot with a cutaway glance to a single leaf gently dancing on a branch above, Kiko reacting with curiosity, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,15 +42,15 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 06 reference. Slow push-in to a close-up on Kiko. Lens 50mm, height 0.80m, slow push-in (Kiko close-up).
+Begin from the identical camera position of the Shot 02 reference. Hold a static medium with a gentle cutaway glance up to the branch. Lens 50mm, height 0.85m, static medium + cutaway glance up.
 
 ---
 
 ## Dialogue
 
 ```
-Kiko: Resting helps me play better tomorrow.
-Opa: Yes, little one. Rest is part of play too.
+Opa: It danced on branches, it danced in the breeze.
+Kiko: All day long?
 ```
 
 ---
@@ -59,29 +59,29 @@ Opa: Yes, little one. Rest is part of play too.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-7 sn | Slow push-in on Kiko as she connects the story to herself. | Push-in, 50mm |
-| 7-11 sn | Kiko says resting helps her play better tomorrow. | Close-up, 50mm, settle |
-| 11-15 sn | Opa softly acknowledges that rest is part of play too. | Close-up, 50mm, static |
+| 0-6 sn | Opa describes the leaf dancing on branches and in the breeze. | Medium, 50mm, static |
+| 6-11 sn | Cutaway glance up to a single leaf gently dancing on a branch. | Medium + glance up, 50mm |
+| 11-15 sn | Kiko asks "all day long?" with gentle curiosity. | Medium, 50mm, static |
 
 ---
 
 ## Sound
 
 - Soft outdoor sunset ambience
-- Very gentle breeze
+- Gentle breeze rustling a single leaf
 - Warm golden-hour stillness
 
 ---
 
 ## Lighting
 
-Continue Shot 06 lighting exactly. Warm golden-hour sunset light, long soft shadows, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 02 lighting exactly. Warm golden-hour sunset light, long soft shadows, warm ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 06 video (or exported final frame)
+- Continuity Reference: Shot 02 video (or exported final frame)
 - Voice: same approved references for Opa and Kiko (see `06-dialogues.md`, Voice Notes in `01-overview.md`)
 
 ## Negative Prompt
@@ -96,8 +96,7 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] Voice continuity verified (Opa, Kiko)
 - [ ] Colour / lighting continuity verified
 - [ ] Characters already present (no re-entry)
-- [ ] Push-in stays inside the scene (no new establishing shot)
-- [ ] Micro-moment present ("Resting helps me play better tomorrow.")
+- [ ] Cutaway glance stays inside the scene (no new establishing shot)
 - [ ] Sunset outdoor mood maintained
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
@@ -105,4 +104,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Kiko=100, Noah=100 reference scale (`00-CORE/VARIABLES.md`). Kiko readable for expression.
+Opa=120, Kiko=100, Noah=100 reference scale (`00-CORE/VARIABLES.md`). Children readable for expression.

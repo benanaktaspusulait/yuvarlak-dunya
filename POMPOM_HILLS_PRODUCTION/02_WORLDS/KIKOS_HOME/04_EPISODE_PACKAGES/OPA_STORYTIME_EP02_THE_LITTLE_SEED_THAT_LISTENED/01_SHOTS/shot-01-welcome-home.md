@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Little Seed That Listened (Opa's Storytime) |
-| Shot | 01 / 08 |
+| Shot | 01 / 20 |
 | Duration | 15 seconds |
 | Location | Kiko's Home — Reading Corner (indoor) |
 | Characters | Kiko, Opa, Mimi |

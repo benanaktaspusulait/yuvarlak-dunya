@@ -1,4 +1,4 @@
-# The Quiet Bird — Shot 06 — A Tiny Hidden Nest
+# The Quiet Bird — Shot 08 — What Was It?
 
 ---
 
@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Quiet Bird (Opa's Storytime) |
-| Shot | 06 / 08 |
+| Shot | 08 / 20 |
 | Duration | 15 seconds |
 | Location | Learning Room — Reading Corner (rainy day, indoor) |
 | Characters | Opa, Mimi |
@@ -17,7 +17,7 @@
 ## Frame Lock
 
 ```text
-Treat @image1 (Shot 05 final frame) as the complete visual master reference.
+Treat @image1 (Shot 07 final frame) as the complete visual master reference.
 Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
 The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
 The animation begins only after the first frame has matched @image1 perfectly.
@@ -31,9 +31,9 @@ Background locked from the first frame. Rug, story chair, bookshelf, lantern, cu
 ## Visual Prompt
 
 ```text
-Use Shot 05 video as Video Reference. Close-up on book page, soft glowing hidden-nest illustration (no readable text), Mimi gasping softly with delight, {style} {camera} {lighting}
+Use Shot 07 video as Video Reference. Medium shot, Mimi leans forward with curiosity, Opa pauses gently before the reveal, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -42,17 +42,15 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 05 reference. Only after the first frame matches, hold a static close-up on the book detail. Lens 50mm, height 0.60m, static close-up (book detail).
-
-Camera movement must remain slow, stable and natural. No fast zoom, no handheld shake, no whip pan.
+Begin from the identical camera position of the Shot 07 reference. Only after the first frame matches, hold a static medium. Lens 35mm, height 0.75m, static medium.
 
 ---
 
 ## Dialogue
 
 ```
-Opa: A tiny hidden nest, right there in the leaves.
-Mimi: No one else saw it!
+Mimi: What did the rustle sound like?
+Opa: Very soft. Like a tiny whisper in the leaves.
 ```
 
 ---
@@ -61,8 +59,8 @@ Mimi: No one else saw it!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-8 sn | A soft glowing hidden-nest illustration appears on the page as Opa reveals what the bird found. | Close-up, 50mm, static |
-| 8-15 sn | Mimi gasps softly with delight that no one else saw it. | Close-up, 50mm, static |
+| 0-7 sn | Mimi leans forward with curiosity and asks what the rustle sounded like. | Medium, 35mm, static |
+| 7-15 sn | Opa pauses gently, then describes it as a tiny whisper in the leaves. | Medium, 35mm, static |
 
 ---
 
@@ -77,14 +75,14 @@ Mimi: No one else saw it!
 
 ## Lighting
 
-Continue Shot 05 lighting exactly. Soft diffused rainy-day window light, warm indoor glow, low-contrast. Do not reinterpret — continue it. Never dark or gloomy.
+Continue Shot 07 lighting exactly. Soft diffused rainy-day window light, warm indoor glow, low-contrast. Do not reinterpret — continue it. Never dark or gloomy.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 05 video (or exported final frame)
-- Voice: same approved references for Opa and Mimi (see `06-dialogues.md`, Voice Notes in `01-overview.md`)
+- Continuity Reference: Shot 07 video (or exported final frame)
+- Voice: same approved references for Opa and Mimi
 
 ## Negative Prompt
 

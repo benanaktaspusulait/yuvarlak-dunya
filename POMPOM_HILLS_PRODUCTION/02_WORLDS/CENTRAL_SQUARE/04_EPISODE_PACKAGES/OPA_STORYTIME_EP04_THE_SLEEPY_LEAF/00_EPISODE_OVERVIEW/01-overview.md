@@ -1,4 +1,4 @@
-# Opa's Storytime: The Sleepy Leaf v1.0
+# Opa's Storytime: The Sleepy Leaf v2.0 (5-Minute Version)
 
 ---
 
@@ -6,7 +6,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 120 saniye (8 sahne × 15 sn) |
+| Süre | 300 saniye (20 sahne × 15 sn) |
 | Hedef yaş | 3-4 |
 | Series | Opa's Storytime |
 | Playlist | Opa's Storytime \| Gentle Preschool Stories |
@@ -51,7 +51,7 @@ Ortak kapanış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODE
 - Duration: 4–5 sn (ortak klip, her bölümde aynı)
 - Visual: Kitap yumuşakça kapanır + end-screen-safe kare
 - Sound: Soft müzik kuyruğu
-- Dialogue: Yok — Opa'nın son repliği Shot 08 warm final hold'da kalır
+- Dialogue: Yok — Opa'nın son repliği Shot 13 warm final hold'da kalır
 - End-screen-safe frame: Sakin, boşluklu, playlist öğesi için yer
 - Purpose: Sıcak kapanış + repeat/playlist viewing
 
@@ -70,12 +70,24 @@ bitirmek değil, ona güç vermek olduğunu keşfetme anı.
 | --- | --- | ---: | --- | --- |
 | 01 | `shots/shot-01-the-story-blanket.md` | 15 sn | Kiko, Noah, Opa | Gün batımı açılışı, seri açılış beat'i |
 | 02 | `shots/shot-02-the-busy-little-leaf.md` | 15 sn | Opa, Noah | Masalın başlaması |
-| 03 | `shots/shot-03-the-leaf-wont-stop.md` | 15 sn | Opa, Kiko | Küçük sorun tanıtılır |
-| 04 | `shots/shot-04-why-rest.md` | 15 sn | Opa, Kiko, Noah | Duygusal soru, etkileşim |
-| 05 | `shots/shot-05-the-wind-slows-down.md` | 15 sn | Opa, Noah | Yavaşlama anı |
-| 06 | `shots/shot-06-the-leaf-settles.md` | 15 sn | Opa, Kiko | Ders hikaye üzerinden gösterilir |
-| 07 | `shots/shot-07-resting-helps-me-play.md` | 15 sn | Opa, Kiko | Micro-moment, kişisel bağlantı |
-| 08 | `shots/shot-08-golden-quiet-hold.md` | 15 sn | Opa, Kiko, Noah | Sessiz sıcak kapanış |
+| 03 | `shots/shot-03-dancing-all-day.md` | 15 sn | Opa, Kiko | Yaprak dans eder |
+| 04 | `shots/shot-04-dancing-and-dancing.md` | 15 sn | Opa, Noah | Yaprak yorulur ama durmaz |
+| 05 | `shots/shot-05-the-leaf-wont-stop.md` | 15 sn | Opa, Kiko | Yaprak dinlenmez |
+| 06 | `shots/shot-06-why-rest.md` | 15 sn | Opa, Kiko, Noah | Duygusal soru, etkileşim |
+| 07 | `shots/shot-07-too-much-fun.md` | 15 sn | Opa, Noah | Noah'un tahmini |
+| 08 | `shots/shot-08-the-wind-slows-down.md` | 15 sn | Opa, Kiko, Noah | Gün batımı, rüzgar yavaşlar |
+| 09 | `shots/shot-09-getting-sleepy.md` | 15 sn | Opa, Noah | Yaprak uykuya dalar |
+| 10 | `shots/shot-10-one-last-twirl.md` | 15 sn | Opa, Kiko | Son dans |
+| 11 | `shots/shot-11-the-leaf-settles.md` | 15 sn | Opa, Kiko | Yaprak oturur |
+| 12 | `shots/shot-12-peaceful-on-the-grass.md` | 15 sn | Opa, Noah | Huzurlu an |
+| 13 | `shots/shot-13-resting-helps-me-play.md` | 15 sn | Opa, Kiko | Micro-moment, kişisel bağlantı |
+| 14 | `shots/shot-14-story-ends.md` | 15 sn | Opa, Kiko, Noah | Masal biter, sıcak kapanış başlar |
+| 15 | `shots/shot-15-children-smile.md` | 15 sn | Opa, Kiko, Noah | Çocuklar gülümser |
+| 16 | `shots/shot-16-sunset-glow.md` | 15 sn | Opa, Kiko, Noah | Gün batımı ışığı derinleşir |
+| 17 | `shots/shot-17-gentle-pull-back.md` | 15 sn | Opa, Kiko, Noah | Yavaş çekim, ortam genişler |
+| 18 | `shots/shot-18-quiet-warmth.md` | 15 sn | Opa, Kiko, Noah | Sessiz sıcak an |
+| 19 | `shots/shot-19-final-warm-hold.md` | 15 sn | Opa, Kiko, Noah | Final sıcak tutuş |
+| 20 | `shots/shot-20-closing-hold.md` | 15 sn | Opa, Kiko, Noah | Kapanış hold'u, bumper'a geçiş |
 
 ---
 
@@ -144,17 +156,29 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 ## QA Status
 
-Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) passed on 4 Temmuz 2026: all 8 shot files contain the required sections — Frame Lock (shots 02–08), Background Object Lock, Visual Prompt, Camera Direction, Dialogue, Shot Breakdown, Sound, Lighting, Reference Usage, Text Safety, Negative Prompt, QA Checklist and Scale. Shot 01 carries the Opening Hook and series opening beat; shot 08 carries the warm-hold + closing-bumper note.
+Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) pending for 20-shot v2.0 structure.
 
 Render QA (`16_VIDEO_QA_SPEC.md`, scored /10) runs after each shot is generated — pending.
 
 | Shot | Scene QA (doc) | Render QA /10 | Ready to Render |
 |------|:--------------:|:-------------:|:---------------:|
-| 01 | ✅ | — | ✅ |
-| 02 | ✅ | — | ✅ |
-| 03 | ✅ | — | ✅ |
-| 04 | ✅ | — | ✅ |
-| 05 | ✅ | — | ✅ |
-| 06 | ✅ | — | ✅ |
-| 07 | ✅ | — | ✅ |
-| 08 | ✅ | — | ✅ |
+| 01 | — | — | ✅ |
+| 02 | — | — | ✅ |
+| 03 | — | — | ✅ |
+| 04 | — | — | ✅ |
+| 05 | — | — | ✅ |
+| 06 | — | — | ✅ |
+| 07 | — | — | ✅ |
+| 08 | — | — | ✅ |
+| 09 | — | — | ✅ |
+| 10 | — | — | ✅ |
+| 11 | — | — | ✅ |
+| 12 | — | — | ✅ |
+| 13 | — | — | ✅ |
+| 14 | — | — | ✅ |
+| 15 | — | — | ✅ |
+| 16 | — | — | ✅ |
+| 17 | — | — | ✅ |
+| 18 | — | — | ✅ |
+| 19 | — | — | ✅ |
+| 20 | — | — | ✅ |

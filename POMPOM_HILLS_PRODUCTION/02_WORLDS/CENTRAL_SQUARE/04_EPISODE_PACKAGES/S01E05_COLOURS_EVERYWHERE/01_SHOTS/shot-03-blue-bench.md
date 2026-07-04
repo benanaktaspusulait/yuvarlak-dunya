@@ -46,6 +46,41 @@ ring, soft grass, pastel bench and planters if already visible, warm morning day
 
 ---
 
+## Character Scale / Age Lock
+
+**Kiko and Mimi must remain small, toddler-like, and preschool-safe.**
+
+Both characters must keep approved Pompom Hills proportions:
+- Small childlike bodies
+- Rounded soft faces
+- Large expressive eyes
+- Short toddler proportions
+- Soft toy-like preschool animation style
+- Small scale within Central Square
+
+They must NOT look like:
+- Older children or school-age children
+- Teenagers or adults
+- Realistic human children
+- Tall or oversized characters
+
+Kiko and Mimi should match each other's preschool scale.
+Neither character should appear larger, older, or more realistic than the other.
+Both must remain small within the Central Square environment and must not dominate the frame.
+
+---
+
+## Blue Bench Hard Lock
+
+The blue bench must be the same existing pastel blue bench already visible in the current continuity frame or reachable with only a tiny natural camera settle.
+
+**HARD RULE: Do not create a new blue bench. Do not introduce a large foreground blue bench. Do not create a new blue object for the colour discovery.**
+
+Do not move, duplicate, resize, repaint, or replace the bench.
+If the bench is not safely visible from the Shot 02 final frame, use only a tiny natural camera settle; do not jump to a different area.
+
+---
+
 ## Start Frame
 
 Start from the approved exported final continuity frame from Shot 02. Preserve the
@@ -102,6 +137,10 @@ instead of walking.
 ```text
 Kiko and Mimi already together in the same Central Square area, noticing the same pastel blue bench established in the Central Square set, visible from the current angle or reached with only a tiny natural camera settle, Big Pompom Tree in background, coloured stepping-stone ring stable, warm morning daylight, gentle discovery mood, no other characters, {style} {camera} {lighting}
 
+Kiko and Mimi must remain small and toddler-like, with approved preschool proportions. Do not make either character look older, taller, realistic, school-age, or oversized. Keep both characters small within Central Square.
+
+The blue bench must already exist in @image1 or be reachable with only a tiny natural camera settle. Do not create a new blue bench, new blue object, or large foreground bench.
+
 Use @image1 as the starting continuity frame from Shot 02.
 
 Preserve Kiko, Mimi, the same Central Square layout, Big Pompom Tree, rounded paths, stepping-stone ring, blue bench, camera position, lighting and Episode Colour Master from @image1.
@@ -134,6 +173,8 @@ their attention toward the blue bench.
 Use a stable child-eye-level medium-wide frame. Keep both Kiko and Mimi in frame. Do not
 introduce new characters, new landmarks, new paths, roads, shops, fountains, water
 features or a different Central Square area.
+
+**Do not push in so far that Kiko, Mimi, or the bench become oversized. Keep the shot medium-wide enough to preserve both characters' small childlike scale and the Central Square environment.**
 
 If the bench is not already fully visible, reach it only with a tiny natural camera
 settle; do not jump to a different area or reset the camera.
@@ -213,6 +254,10 @@ teleporting character, disappearing character, character hidden behind bush, cha
 
 intra-shot character disappearance, character disappearing within the same shot, character reappearing within the same shot, character teleporting within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, foreground plants covering character, occlusion transition, hidden character transition
 
+older child, school-age child, teenager, adult proportions, realistic child, tall child, oversized character, character too large, close-up character, aged-up Kiko, aged-up Mimi, wrong age, mature face, realistic human proportions, wrong scale, character dominating frame, Kiko too large, Mimi too large
+
+new blue bench, new blue object, large foreground blue bench, blue bench appearing from nowhere, bench spawning, duplicated bench, resized bench, moved bench
+
 ## QA Checklist
 
 Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
@@ -220,6 +265,16 @@ Reference: 11-DOCS/16_VIDEO_QA_SPEC.md
 - [ ] `@image1` continuity preserved from Shot 02 final frame.
 - [ ] The first 1 second visually holds close to `@image1` before the blue bench discovery begins.
 - [ ] Both Kiko and Mimi remain visible and consistent.
+- [ ] Kiko and Mimi look toddler-like and preschool-safe, not older or school-age.
+- [ ] Kiko and Mimi keep approved small rounded proportions.
+- [ ] Neither character becomes oversized in the frame.
+- [ ] Kiko and Mimi match each other's preschool scale.
+- [ ] Both characters remain small within the Central Square environment.
+- [ ] Camera does not push in so far that either character dominates the frame.
+- [ ] Blue bench already existed in @image1 or was reached only with a tiny natural camera settle.
+- [ ] No new blue bench or blue object appears.
+- [ ] Blue bench does not duplicate, resize, move, repaint, or appear from nowhere.
+- [ ] Camera does not jump to a different area to find the bench.
 - [ ] Blue bench is the same pastel blue bench seeded in the Central Square Friends Micro-Opening and preserved through the previous continuity frames.
 - [ ] No new landmarks, roads, shops, fountains, water features or alternate Central Square area appear.
 - [ ] Big Pompom Tree and rounded paths remain stable.

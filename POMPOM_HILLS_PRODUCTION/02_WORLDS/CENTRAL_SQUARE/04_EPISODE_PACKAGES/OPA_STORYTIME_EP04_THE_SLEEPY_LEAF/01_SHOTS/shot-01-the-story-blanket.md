@@ -7,7 +7,7 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Sleepy Leaf (Opa's Storytime) |
-| Shot | 01 / 08 |
+| Shot | 01 / 20 |
 | Duration | 15 seconds |
 | Location | Central Square — Outdoor Story Blanket (sunset) |
 | Characters | Kiko, Noah, Opa |

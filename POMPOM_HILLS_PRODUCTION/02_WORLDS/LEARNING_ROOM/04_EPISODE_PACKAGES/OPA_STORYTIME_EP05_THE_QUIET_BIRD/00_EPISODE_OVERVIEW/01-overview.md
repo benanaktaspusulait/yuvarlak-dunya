@@ -1,4 +1,4 @@
-# Opa's Storytime: The Quiet Bird v1.0
+# Opa's Storytime: The Quiet Bird v2.0 (5-Minute Version)
 
 ---
 
@@ -6,7 +6,7 @@
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 120 saniye (8 sahne × 15 sn) |
+| Süre | 300 saniye (20 sahne × 15 sn) |
 | Hedef yaş | 3-4 |
 | Series | Opa's Storytime |
 | Playlist | Opa's Storytime \| Gentle Preschool Stories |
@@ -51,7 +51,7 @@ Ortak kapanış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODE
 - Duration: 4–5 sn (ortak klip, her bölümde aynı)
 - Visual: Kitap yumuşakça kapanır + end-screen-safe kare
 - Sound: Soft müzik kuyruğu
-- Dialogue: Yok — Opa'nın son repliği Shot 08 warm final hold'da kalır
+- Dialogue: Yok — Opa'nın son repliği Shot 13 warm final hold'da kalır
 - End-screen-safe frame: Sakin, boşluklu, playlist öğesi için yer
 - Purpose: Sıcak kapanış + repeat/playlist viewing
 
@@ -69,14 +69,26 @@ bağlantılı).
 
 | Sıra | Dosya | Süre | Karakter | Amaç |
 | --- | --- | ---: | --- | --- |
-| 01 | `shots/shot-01-rainy-story-time.md` | 15 sn | Luca, Mimi, Opa | Yağmurlu gün açılışı, seri açılış beat'i |
-| 02 | `shots/shot-02-the-quiet-bird.md` | 15 sn | Opa, Luca | Masalın başlaması |
-| 03 | `shots/shot-03-everyone-talks-but-her.md` | 15 sn | Opa, Mimi | Küçük sorun tanıtılır |
-| 04 | `shots/shot-04-why-so-quiet.md` | 15 sn | Opa, Luca, Mimi | Duygusal soru, etkileşim |
-| 05 | `shots/shot-05-the-bird-notices.md` | 15 sn | Opa, Luca | Sessizliğin gücü gösterilir |
-| 06 | `shots/shot-06-a-tiny-hidden-nest.md` | 15 sn | Opa, Mimi | Ders hikaye üzerinden gösterilir |
-| 07 | `shots/shot-07-being-quiet-helps-me-notice.md` | 15 sn | Opa, Mimi | Micro-moment, kişisel bağlantı |
-| 08 | `shots/shot-08-rainy-window-hold.md` | 15 sn | Opa, Luca, Mimi | Sessiz sıcak kapanış |
+| 01 | `shots/shot-01-rainy-story-time.md` | 15 sn | Opa, Luca, Mimi | Yağmurlu gün açılışı, seri açılış beat'i |
+| 02 | `shots/shot-02-opening-the-book.md` | 15 sn | Opa, Luca, Mimi | Kitap açılır, merak |
+| 03 | `shots/shot-03-the-quiet-bird.md` | 15 sn | Opa, Luca | Masalın başlaması |
+| 04 | `shots/shot-04-a-forest-of-chatty-birds.md` | 15 sn | Opa, Mimi | Diğer kuşlar tanıtılır |
+| 05 | `shots/shot-05-why-so-quiet.md` | 15 sn | Opa, Luca, Mimi | Duygusal soru, etkileşim |
+| 06 | `shots/shot-06-she-liked-to-listen.md` | 15 sn | Opa, Luca | Sessizliğin gücü gösterilir |
+| 07 | `shots/shot-07-the-bird-notices-a-rustle.md` | 15 sn | Opa, Luca | Kuş bir hışırtı fark eder |
+| 08 | `shots/shot-08-what-was-it.md` | 15 sn | Opa, Mimi | Merak anı |
+| 09 | `shots/shot-09-a-tiny-hidden-nest.md` | 15 sn | Opa, Mimi | Küçük gizli yuva keşfi |
+| 10 | `shots/shot-10-no-one-else-saw-it.md` | 15 sn | Opa, Luca | Hayranlık |
+| 11 | `shots/shot-11-being-quiet-helps-me-notice.md` | 15 sn | Opa, Mimi | Micro-moment, kişisel bağlantı |
+| 12 | `shots/shot-12-i-like-the-rain-sound.md` | 15 sn | Opa, Luca, Mimi | Yağmur bağlantısı |
+| 13 | `shots/shot-13-a-kind-story.md` | 15 sn | Opa, Luca, Mimi | Sıcak kapanış replikleri |
+| 14 | `shots/shot-14-book-closes-gently.md` | 15 sn | Opa, Luca, Mimi | Kitap kapanır, sıcak kapanış başlar |
+| 15 | `shots/shot-15-children-smile.md` | 15 sn | Opa, Luca, Mimi | Çocuklar gülümser |
+| 16 | `shots/shot-16-rainy-window-light.md` | 15 sn | Opa, Luca, Mimi | Yağmurlu pencere ışığı |
+| 17 | `shots/shot-17-gentle-pull-back.md` | 15 sn | Opa, Luca, Mimi | Yavaş çekim, ortam genişler |
+| 18 | `shots/shot-18-quiet-warmth.md` | 15 sn | Opa, Luca, Mimi | Sessiz sıcak an |
+| 19 | `shots/shot-19-rain-drops-on-window.md` | 15 sn | Opa, Luca, Mimi | Yağmur damlaları |
+| 20 | `shots/shot-20-closing-hold.md` | 15 sn | Opa, Luca, Mimi | Kapanış hold'u, bumper'a geçiş |
 
 ---
 
@@ -147,17 +159,29 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 
 ## QA Status
 
-Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) passed on 4 Temmuz 2026: all 8 shot files contain the required sections — Frame Lock (shots 02–08), Background Object Lock, Visual Prompt, Camera Direction, Dialogue, Shot Breakdown, Sound, Lighting, Reference Usage, Text Safety, Negative Prompt, QA Checklist and Scale. Shot 01 carries the Opening Hook and series opening beat; shot 08 carries the warm-hold + closing-bumper note.
+Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) pending for 20-shot v2.0 structure.
 
 Render QA (`16_VIDEO_QA_SPEC.md`, scored /10) runs after each shot is generated — pending.
 
 | Shot | Scene QA (doc) | Render QA /10 | Ready to Render |
 |------|:--------------:|:-------------:|:---------------:|
-| 01 | ✅ | — | ✅ |
-| 02 | ✅ | — | ✅ |
-| 03 | ✅ | — | ✅ |
-| 04 | ✅ | — | ✅ |
-| 05 | ✅ | — | ✅ |
-| 06 | ✅ | — | ✅ |
-| 07 | ✅ | — | ✅ |
-| 08 | ✅ | — | ✅ |
+| 01 | — | — | ✅ |
+| 02 | — | — | ✅ |
+| 03 | — | — | ✅ |
+| 04 | — | — | ✅ |
+| 05 | — | — | ✅ |
+| 06 | — | — | ✅ |
+| 07 | — | — | ✅ |
+| 08 | — | — | ✅ |
+| 09 | — | — | ✅ |
+| 10 | — | — | ✅ |
+| 11 | — | — | ✅ |
+| 12 | — | — | ✅ |
+| 13 | — | — | ✅ |
+| 14 | — | — | ✅ |
+| 15 | — | — | ✅ |
+| 16 | — | — | ✅ |
+| 17 | — | — | ✅ |
+| 18 | — | — | ✅ |
+| 19 | — | — | ✅ |
+| 20 | — | — | ✅ |

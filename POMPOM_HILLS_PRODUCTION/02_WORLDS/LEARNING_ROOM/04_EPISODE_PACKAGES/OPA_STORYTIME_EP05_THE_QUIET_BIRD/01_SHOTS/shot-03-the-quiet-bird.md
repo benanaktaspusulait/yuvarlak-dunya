@@ -1,4 +1,4 @@
-# The Quiet Bird — Shot 07 — Being Quiet Helps Me Notice
+# The Quiet Bird — Shot 03 — The Quiet Bird
 
 ---
 
@@ -7,17 +7,17 @@
 | Alan | Değer |
 | --- | --- |
 | Episode | The Quiet Bird (Opa's Storytime) |
-| Shot | 07 / 08 |
+| Shot | 03 / 20 |
 | Duration | 15 seconds |
 | Location | Learning Room — Reading Corner (rainy day, indoor) |
-| Characters | Opa, Mimi |
+| Characters | Opa, Luca |
 
 ---
 
 ## Frame Lock
 
 ```text
-Treat @image1 (Shot 06 final frame) as the complete visual master reference.
+Treat @image1 (Shot 02 final frame) as the complete visual master reference.
 Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
 The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
 The animation begins only after the first frame has matched @image1 perfectly.
@@ -31,9 +31,9 @@ Background locked from the first frame. Rug, story chair, bookshelf, lantern, cu
 ## Visual Prompt
 
 ```text
-Use Shot 06 video as Video Reference. Slow push-in close-up on Mimi, warm emotional micro-moment expression, Opa softly acknowledging, {style} {camera} {lighting}
+Use Shot 02 video as Video Reference. Opa begins the story, a soft bird shape glows gently on the page (no readable text), Luca leans in and asks his question, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -42,17 +42,15 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 06 reference. Slow push-in to a close-up on Mimi. Lens 50mm, height 0.65m, slow push-in (Mimi close-up).
-
-Camera movement must remain slow, stable and natural. No fast zoom, no handheld shake, no whip pan.
+Begin from the identical camera position of the Shot 02 reference. Only after the first frame matches, hold a static medium. Lens 35mm, height 0.75m, static medium.
 
 ---
 
 ## Dialogue
 
 ```
-Mimi: Being quiet helps me notice more.
-Opa: Yes, little one. Your quiet is a gift.
+Opa: Once, in a forest full of chatting birds, there was one quiet bird.
+Luca: Why didn't she sing loudly like the others?
 ```
 
 ---
@@ -61,8 +59,8 @@ Opa: Yes, little one. Your quiet is a gift.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-8 sn | Slow push-in on Mimi as she softly realises being quiet helps her notice more. | Push-in, 50mm |
-| 8-15 sn | Opa gently acknowledges that her quiet is a gift. | Close-up, 50mm |
+| 0-7 sn | Opa begins the tale; a soft bird shape glows on the page. | Medium, 35mm, static |
+| 7-15 sn | Luca leans in and asks why she didn't sing loudly. | Medium, 35mm, static |
 
 ---
 
@@ -70,22 +68,21 @@ Opa: Yes, little one. Your quiet is a gift.
 
 - Soft indoor room tone
 - Very soft rain ambience outside the window (never loud rain, never thunder)
-- Very light cushion movement
+- Gentle page turn
 - Warm ambience
 
 ---
 
 ## Lighting
 
-Continue Shot 06 lighting exactly. Soft diffused rainy-day window light, warm indoor glow, low-contrast. Do not reinterpret — continue it. Never dark or gloomy.
+Continue Shot 02 lighting exactly. Soft diffused rainy-day window light, warm indoor glow, low-contrast. Do not reinterpret — continue it. Never dark or gloomy.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 06 video (or exported final frame)
-- Voice: same approved references for Opa and Mimi (see `06-dialogues.md`, Voice Notes in `01-overview.md`)
-- Micro-moment (key discovery): Mimi's line "Being quiet helps me notice more." (see `01-overview.md`)
+- Continuity Reference: Shot 02 video (or exported final frame)
+- Voice: same approved references for Opa and Luca
 
 ## Negative Prompt
 
@@ -96,11 +93,9 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Mimi)
+- [ ] Voice continuity verified (Opa, Luca)
 - [ ] Colour / lighting continuity verified
 - [ ] Characters already present (no re-entry)
-- [ ] Push-in stays inside the scene (no new establishing shot)
-- [ ] Micro-moment line present ("Being quiet helps me notice more.")
 - [ ] Rain stays soft (no loud rain, no thunder, not gloomy)
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
