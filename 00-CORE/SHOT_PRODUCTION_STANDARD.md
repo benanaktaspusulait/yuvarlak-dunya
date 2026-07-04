@@ -33,6 +33,28 @@ Nothing should reset between shots.
 
 ---
 
+## Global OpenArt Continuity Gate
+
+Every shot must also pass the Global OpenArt Continuity Locks in
+`00-CORE/17_VIDEO_GENERATION_STANDARD.md` and the Global OpenArt Continuity Gate in
+`11-DOCS/16_VIDEO_QA_SPEC.md`.
+
+This means every shot is checked for:
+
+- Hard Background Lock
+- Intra-Shot Character Continuity Lock
+- Single Visible Path Rule
+- Occlusion Is Not A Transition
+- Camera Must Not Break Continuity
+- First Second Continuity Hold
+- Object Identity Lock
+
+Any disappearance, teleport, same-shot regeneration, full-body occlusion, unreadable
+character path, camera-created continuity break, background object movement, background
+layout morphing, or object identity change is a rejection issue.
+
+---
+
 ## First Frame Lock
 
 For every continuation shot, the first visible frame must be visually indistinguishable from `@image1`.
@@ -166,9 +188,10 @@ Every new episode should be checked in this order:
 1. Voice continuity
 2. Colour continuity
 3. Lighting continuity
-4. Character continuity
-5. World continuity
-6. Story and tempo
+4. Intra-shot character continuity
+5. Hard background and object identity continuity
+6. World continuity
+7. Story and tempo
 
 If voice, colour or lighting continuity fails, the episode will feel fragmented even if the story works.
 
@@ -217,6 +240,19 @@ If voice, colour or lighting continuity fails, the episode will feel fragmented 
 - [ ] Same grass brightness.
 
 If any item in Voice QA, Colour QA or Lighting QA fails, reject the shot.
+
+### OpenArt Continuity QA
+
+- [ ] Global OpenArt Continuity Locks passed.
+- [ ] No character disappears, reappears, teleports or regenerates inside the same shot.
+- [ ] No character is fully hidden by foreground or background objects.
+- [ ] Every character path remains continuously visible and physically possible.
+- [ ] Camera movement does not hide characters or reveal a different location.
+- [ ] Background objects do not move, morph, duplicate, disappear or change identity.
+- [ ] First and final frames are exported for QA.
+- [ ] Full video is watched once for character continuity and once for background/object stability.
+
+If any OpenArt Continuity QA item fails, reject the shot.
 
 ---
 

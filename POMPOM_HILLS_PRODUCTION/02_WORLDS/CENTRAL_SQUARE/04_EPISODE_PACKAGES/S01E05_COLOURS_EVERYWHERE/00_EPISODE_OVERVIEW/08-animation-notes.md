@@ -6,31 +6,36 @@
 
 | Element | Motion |
 |---|---|
-| Point gesture | Arm raises, finger points, 12 frames |
-| Head turn | Looks at colour, turns head |
-| Eye sparkle | Eyes light up when seeing colour |
-| Smile | Big smile when naming colour |
+| Point gesture | Slow arm raise, gentle preschool pace |
+| Head turn | Character turns toward the colour object naturally |
+| Smile | Soft smile after naming each colour |
+| Shared look | Kiko and Mimi glance at each other after a discovery |
 
-## Rainbow Animation
+---
 
-| Element | Motion |
-|---|---|
-| Rainbow appear | Fades in from left to right, 30 frames |
-| Colour bands | Each colour appears sequentially |
-| Glow | Soft glow around rainbow |
-
-## Flower Arrangement
+## Central Square Background Animation
 
 | Element | Motion |
 |---|---|
-| Place flower | Set down gently, 10 frames |
-| Step back | Look at arrangement |
-| Nod | Approval nod |
+| Big Pompom Tree | Gentle leaf rustle only |
+| Grass | Very soft movement in breeze |
+| Bunting | Tiny flutter only when visible |
+| Planters | Stable; flowers may sway gently |
 
-## Background Animation
+---
 
-| Element | Motion |
-|---|---|
-| Clouds | Drift slowly |
-| Butterflies | Flutter around |
-| Flowers | Sway in breeze |
+## Continuity Rules
+
+- Background objects do not morph.
+- The Big Pompom Tree does not move or change shape.
+- Rounded paths and stepping-stone ring remain stable.
+- Existing colour objects stay in their same relative positions.
+- Characters move softly and naturally.
+- Final 2 seconds of Shot 08 are silent and peaceful.
+
+---
+
+## Rainbow Moment Rule
+
+The final shot should feel rainbow-like through the existing red, blue, yellow, green and
+purple objects in Central Square. Do not create a giant magical beam or redesign the sky.

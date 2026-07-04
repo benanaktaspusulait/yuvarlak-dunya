@@ -69,6 +69,31 @@ The animation begins only after the first frame has matched @image1 perfectly.
 
 ---
 
+## 4B. Required Global QA Locks Check
+
+Every video prompt must explicitly pass these global OpenArt continuity locks:
+
+- [ ] Hard Background Lock
+- [ ] Intra-Shot Character Continuity Lock
+- [ ] Single Visible Path Rule
+- [ ] Occlusion Is Not A Transition
+- [ ] Camera Must Not Break Continuity
+- [ ] First Second Continuity Hold for continuity-linked shots
+- [ ] Object Identity Lock
+
+Before render, confirm:
+
+- [ ] All visible background objects keep position, scale, identity and layout.
+- [ ] Characters remain continuously visible physical characters inside the same shot.
+- [ ] Character path is visible frame-to-frame and physically possible.
+- [ ] No character walks through bushes, planters, benches, houses, walls, dense grass or foreground plants.
+- [ ] No full-body occlusion is used as a transition.
+- [ ] Camera movement cannot hide a character or regenerate the environment.
+- [ ] If the shot has occlusion or teleport risk, action is reduced to pointing, looking, tiny steps, small turns or shared still moments.
+- [ ] Negative prompt includes the global disappearance / occlusion / object morphing terms from `00-CORE/NEGATIVE_PROMPTS.md`.
+
+---
+
 ## 5. Lighting Check
 
 - [ ] Does the prompt match lighting from the continuity frame?
@@ -172,6 +197,11 @@ Before pressing Generate Video, confirm:
 - [ ] No voice drift risk
 - [ ] No lighting reinterpretation risk
 - [ ] No perceivable shot-boundary risk
+- [ ] No intra-shot character disappearance risk
+- [ ] No occlusion transition risk
+- [ ] No character path break risk
+- [ ] No background object morphing risk
+- [ ] No object identity swap risk
 - [ ] No text risk
 - [ ] No shot-level music dependency
 

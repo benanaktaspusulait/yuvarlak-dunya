@@ -1,4 +1,4 @@
-# Colours Everywhere v2.0
+# Colours Everywhere v3.0
 
 ---
 
@@ -6,14 +6,19 @@
 
 | Alan | Değer |
 | --- | --- |
-| Süre | 60 saniye (4 sahne × 15 sn) |
-| Karakterler | Kiko, Mimi |
-| Mekan | Central Square → Rosie's Garden |
-| Duygu | Observation, beauty, nature |
-| Tema | Colours are everywhere and they are beautiful |
+| Story Duration | 120 seconds (8 shots x 15 sec) |
+| Optional Pre-Roll | Central Square Friends Micro-Opening, 4 sec, not counted |
+| Characters | Kiko, Mimi |
+| Location | Central Square only |
+| Feeling | Observation, friendship, warm colour discovery |
+| Theme | Colours are everywhere in one happy place |
 
 ---
 
-## Story Summary
+## Production Structure
 
-Kiko wakes up and sees colours everywhere. She points at red flowers, blue sky, yellow sun, green grass. Mimi joins her. They find purple lavender at Rosie's Garden. They make a rainbow together at Central Square.
+- Main story: `01_SHOTS/shot-01` through `shot-08`
+- Optional world micro-opening:
+  `POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/03_OPENINGS/CENTRAL_SQUARE_FRIENDS_MICRO_OPENING/`
+- No reusable closing bumper.
+- Final shot provides the warm closing hold.

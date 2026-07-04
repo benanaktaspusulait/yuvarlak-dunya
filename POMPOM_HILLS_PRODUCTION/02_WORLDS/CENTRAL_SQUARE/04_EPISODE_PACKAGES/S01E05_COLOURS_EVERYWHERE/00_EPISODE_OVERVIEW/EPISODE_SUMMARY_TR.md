@@ -2,176 +2,84 @@
 
 ---
 
+## Genel Bakış
+
+Bu bölüm artık 120 saniyelik ana hikayedir: 8 shot x 15 saniye.
+
+Central Square Friends Micro-Opening 4 saniyelik ayrı bir pre-roll'dur ve 120 saniyelik
+hikayeye dahil değildir.
+
+Mekan yalnızca Central Square'dir. Kiko ve Mimi başka bir dünyaya gitmez.
+
+---
+
 ## Hikaye
 
----
+### Shot 01
 
-### Sahne 01
+Kiko Central Square'de kırmızı bir detay görür.
 
-Kiko sabah uyanır.
+> "Red! I found red!"
 
-Kapıyı açar.
+### Shot 02
 
-Dışarı bakar.
+Mimi aynı meydandaki görünür patikadan doğal şekilde gelir.
 
-Her yer renkli.
+> "Hi Kiko!"
 
-> **"Good morning, world!"**
+Kiko ne yaptığını söyler.
 
----
+> "I'm finding colours!"
 
-### Sahne 02
+### Shot 03
 
-Flower Hill'in Nature Field Zone'unda yürürken kırmızı çiçekler görür.
+İkisi meydandaki yumuşak mavi bankı fark eder.
 
-Eğilir.
+> "Blue!"
+> "A blue bench!"
 
-İnceler.
+### Shot 04
 
-> **"Red! Like my shirt!"**
+Mevcut yuvarlak saksıdaki sarı çiçekleri görürler.
 
----
+> "Yellow flowers!"
+> "So bright!"
 
-### Sahne 03
+### Shot 05
 
-Başını yukarı kaldırır.
+Yuvarlak taşların yanındaki yeşil çim parçasına bakarlar.
 
-Gökyüzüne bakar.
+> "Green grass!"
+> "Soft and green."
 
-Mavi.
+### Shot 06
 
-Geniş.
+Meydandaki küçük mor bayrakları fark ederler.
 
-Sonsuz.
+> "Purple too!"
+> "So many colours!"
 
-> **"Blue! Like Mimi!"**
+### Shot 07
 
----
+Buldukları renkleri birlikte hatırlarlar.
 
-### Sahne 04
+> "Red, blue, yellow..."
+> "Green and purple!"
 
-Güneşe bakar.
+### Shot 08
 
-Sarı.
+İkisi Central Square'de birlikte durur. Renkler meydanın içinde sıcak,
+gökkuşağı hissi veren bir kompozisyon gibi birleşir.
 
-Parlak.
+> "All colours together."
+> "In Central Square!"
 
-Sıcak.
-
-> **"Yellow!"**
-
-Mimi hop hop gelir.
-
-> **"Like me!"**
-
----
-
-### Sahne 05
-
-Yere bakarlar.
-
-Çimenlik her yerde.
-
-Yeşil.
-
-Taze.
-
-Yumuşak.
-
-> **"Green! Everywhere!"**
+Son 2 saniye sessiz ve sıcak final hold.
 
 ---
 
-### Sahne 06
+## Üretim Notu
 
-Rosie's Rose Garden'a giderler.
-
-Mor lavantalar bulurlar.
-
-Rüzgârda sallanıyorlar.
-
-> **"Purple! So pretty!"**
-
----
-
-### Sahne 07
-
-Butterfly Meadow'da turuncu kelebekler uçar.
-
-Yumuşak kanatlar.
-
-Pastel renkler.
-
-> **"Orange! Flying!"**
-
----
-
-### Sahne 08
-
-Farklı renkli çiçekler toplarlar.
-
-Kırmızı.
-
-Turuncu.
-
-Sarı.
-
-Yeşil.
-
-Mavi.
-
-Mor.
-
-> **"Let's make a rainbow!"**
-
----
-
-### Sahne 09
-
-Central Square'a giderler.
-
-Çiçekleri gökkuşağı sırasıyla dizerler.
-
-> **"Red, orange, yellow, green, blue, purple!"**
-
----
-
-### Sahne 10
-
-Ve gökyüzünde gerçek bir gökkuşağı belirir!
-
-Renk renk.
-
-Yay gibi.
-
-> **"A real rainbow!"**
-
----
-
-### Sahne 11
-
-İkisi birlikte gökkuşağına bakar.
-
-Hayranlıkla.
-
-> **"So beautiful!"**
-
----
-
-### Sahne 12
-
-Opa ağaçta bakar.
-
-Gökkuşağı arka planda.
-
-Gülümser.
-
-> **"Well done!"**
-
-Kiko yukarı bakar.
-
-> **"Thank you, Opa!"**
-
----
-
-Ve Kiko, dünyanın her yerinde renkler olduğunu ve hepsinin güzel olduğunu öğrenir.
+Rosie's Garden, Flower Hill, Stone Hill, Butterfly Meadow veya Opa's Tree yok.
+Gece, yıldız, cırcır böceği ve ay ışığı yok.
+Literal büyülü gökkuşağı ışını yok.

@@ -84,6 +84,10 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Karakterler zaten sahnede mi? (shot-02+)
 - [ ] Karakter ölçeği doğru mu? (6-8% frame)
 - [ ] Yeni karakter girişi yasak mı?
+- [ ] Intra-shot character continuity lock var mı? Karakter aynı shot içinde kaybolup tekrar belirmiyor mu?
+- [ ] Single visible path rule var mı? Karakter yolu frame-to-frame okunuyor mu?
+- [ ] Occlusion transition yasak mı? Karakter hiçbir noktada tam gövde saklanmıyor mu?
+- [ ] Karakter hareketi fiziksel olarak mümkün, yavaş ve preschool-safe mi?
 
 ### 9. Lighting Continuity
 
@@ -119,6 +123,21 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Close-up kaçınılmış mı?
 - [ ] Dramatic push-in/pull-back yok mu?
 - [ ] Yeni establishing shot yok mu?
+- [ ] Camera must not break continuity kuralı var mı?
+- [ ] Kamera hareketi karakteri foreground obje arkasında saklamıyor mu?
+- [ ] Kamera background object shift / layout morphing oluşturmuyor mu?
+
+### 11B. Global OpenArt Continuity Locks
+
+- [ ] Hard Background Lock uygulanmış mı?
+- [ ] Intra-Shot Character Continuity Lock uygulanmış mı?
+- [ ] Single Visible Path Rule uygulanmış mı?
+- [ ] Occlusion Is Not A Transition uygulanmış mı?
+- [ ] Camera Must Not Break Continuity uygulanmış mı?
+- [ ] First Second Continuity Hold uygulanmış mı? (`@image1` continuity shot'larda)
+- [ ] Object Identity Lock uygulanmış mı?
+- [ ] Gereksiz yürüme / set içinde uzun traversal varsa risk olarak flag'lenmiş mi?
+- [ ] Negative Prompt global disappearance / occlusion / object morphing terimlerini içeriyor mu?
 
 ### 12. Dialogue Continuity
 
@@ -189,6 +208,12 @@ Bir sahne şu durumlarda reddedilir:
 | 15 | İlk frame @image1'den ayırt edilebilir derecede farklı | Evet → Red |
 | 16 | Light direction / intensity / shadow softness değişmiş | Evet → Red |
 | 17 | Voice pitch / pronunciation / accent / recording quality değişmiş | Evet → Red |
+| 18 | Karakter aynı shot içinde kayboluyor, tekrar beliriyor, teleport oluyor veya side-switch yapıyor | Evet → Red |
+| 19 | Karakter yolu sürekli görünür değil veya fiziksel olarak mümkün değil | Evet → Red |
+| 20 | Foreground obje karakteri tam gövde saklıyor veya occlusion transition kullanılıyor | Evet → Red |
+| 21 | Kamera hareketi karakteri saklayıp başka yerde yeniden gösteriyor | Evet → Red |
+| 22 | Background obje pozisyon/ölçek/kimlik değiştiriyor veya layout morphing oluşuyor | Evet → Red |
+| 23 | Bench/planter/bush/tree/path/house gibi bir obje kimlik değiştiriyor | Evet → Red |
 
 Voice QA, Colour QA veya Lighting QA maddelerinden herhangi biri fail olursa shot reddedilir.
 

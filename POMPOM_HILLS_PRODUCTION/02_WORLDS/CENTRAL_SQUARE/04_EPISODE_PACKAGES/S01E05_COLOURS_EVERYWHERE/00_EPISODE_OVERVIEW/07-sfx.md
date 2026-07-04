@@ -2,17 +2,20 @@
 
 ---
 
-| Scene | Sound |
+| Shot | Sound |
 |---:|---|
-| 01 | door squeak, birds |
-| 02 | "ting" (red flower) |
-| 03 | wind (blue sky) |
-| 04 | "boop" (sun), hop |
-| 05 | grass rustle |
-| 06 | lavender wind |
-| 07 | butterfly wings |
-| 08 | flower gathering |
-| 09 | arranging sounds |
-| 10 | rainbow magic sound |
-| 11 | awe sounds |
-| 12 | soft whoosh |
+| 01 | distant birds, gentle breeze, tiny red discovery chime |
+| 02 | soft path footsteps, gentle Mimi hop, warm ambience |
+| 03 | tiny blue discovery chime, soft morning breeze |
+| 04 | tiny flower chime, light leaf rustle |
+| 05 | soft grass rustle, quiet path step |
+| 06 | gentle bunting flutter, warm colour chime |
+| 07 | soft ambient bed, very light pointing gesture rustle |
+| 08 | distant birds, warm ambience, very soft ending tone |
+
+---
+
+## Audio Safety
+
+No crickets, night ambience, moonlight ambience, loud jingle, fast whoosh, siren,
+traffic, crowd noise, aggressive percussion or narrator.

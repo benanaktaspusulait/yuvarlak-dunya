@@ -41,6 +41,10 @@ For every episode:
 - The first 1 second of each shot must stay very close to `@image1` before the action
   continues.
 - Export the first frame and final frame for every shot.
+- Watch the full video for intra-shot character continuity, not only first/final frames.
+- Watch the full video again for hard background/object stability.
+- Apply the Global OpenArt Continuity Locks from
+  `00-CORE/17_VIDEO_GENERATION_STANDARD.md` to every generated shot.
 
 This is deliberately short. It is the checklist version of §3-§5 below and of the fuller
 rules already defined in `00-CORE/CONTINUITY_RULES.md` §9 (Reference Frame Workflow),
@@ -98,6 +102,10 @@ Practical rule of thumb: the first 1 second of a shot should visually hold close
 `POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/04_EPISODE_PACKAGES/S01E07_THE_ROUND_STONE/01_SHOTS/`
 for five worked examples of this per-shot wording (Shot 02 through Shot 06).
 
+The first second hold is also an intra-shot safety gate: no character may teleport,
+switch sides, pop in, disappear, or change scale during that first second, and no visible
+background object may move, disappear, duplicate, or change identity.
+
 ---
 
 ## 5. Export and QA
@@ -106,11 +114,17 @@ After each shot is generated, export:
 
 - first frame
 - final frame
+- final video
 
 Before approving the next shot, compare:
 
 - previous shot final frame
 - next shot first frame
+
+Then watch the full video twice:
+
+1. Once only for character continuity inside the shot.
+2. Once only for hard background/object stability.
 
 Approve the transition only if:
 
@@ -120,6 +134,11 @@ Approve the transition only if:
 - background/world-locked elements stay in the same layout
 - persistent props (e.g. a discovered object being carried between shots) stay consistent
 - the new shot feels like a continuation, not a new setup
+- no character disappears, reappears, teleports, regenerates after occlusion, switches
+  sides without visible motion, or has an unreadable path inside the shot
+- no foreground object fully hides a character
+- no background object moves, morphs, duplicates, disappears, changes identity or changes
+  side of the frame
 
 **If a transition has a small jump:**
 
@@ -132,6 +151,10 @@ This export-and-compare step, plus the repair procedure, is what turns "hope the
 gets it right" into a repeatable QA gate. See
 `POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/04_EPISODE_PACKAGES/S01E07_THE_ROUND_STONE/00_EPISODE_OVERVIEW/01-overview.md`
 § Transition QA for the worked version of this section.
+
+For same-shot character continuity, QA must not rely only on the first and final frames.
+The full video must be watched because disappearance, occlusion transition, teleporting
+and character regeneration can happen inside the shot.
 
 ---
 

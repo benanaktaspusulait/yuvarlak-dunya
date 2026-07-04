@@ -1,48 +1,57 @@
 # S01E05 — Coordinate Map
 
-## Ölçek Sistemi
+## Scale System
 
-Kiko = 100 birim (1.00 m)
+Kiko = 100 units (1.00 m)
 
-## Karakter Boyutları
+## Character Sizes
 
-| Karakter | Toplam Boy | Kiko Oranı |
+| Character | Total Height | Kiko Ratio |
 | --- | --- | --- |
-| Kiko | 100 birim | %100 |
-| Mimi | 80 birim | %80 |
-| Opa | 120 birim | %120 |
+| Kiko | 100 units | 100% |
+| Mimi | 80 units | 80% |
 
-## Ana Mekan: Friendship Meadow (`environment/16-friendship-meadow.png`)
+## Main Location
 
-### Renk Keşif Noktaları
+Central Square only.
 
-| Nokta | X | Z | Renk | Obje |
+Primary anchors:
+
+- Big Pompom Tree centered or visually dominant.
+- Coloured stepping-stone ring around the tree.
+- Rounded paths leading through the square.
+- Soft grass patches beside paving stones.
+- Pastel bench and rounded planters remain stable.
+
+## Colour Discovery Points
+
+| Point | Relative Area | Colour | Object | Shots |
 | --- | --- | --- | --- | --- |
-| 1 | -20 | 10 | Kırmızı | Çiçek |
-| 2 | 0 | 15 | Mavi | Gökyüzü |
-| 3 | 20 | 10 | Sarı | Güneş |
-| 4 | -10 | 5 | Yeşil | Çimen |
-| 5 | 10 | 20 | Mor | Lavanta |
+| A | Near rounded path | Red | Rounded planter or bunting detail | 01, 07, 08 |
+| B | Beside path | Blue | Soft pastel blue bench | 03, 07, 08 |
+| C | Existing planter | Yellow | Yellow flowers | 04, 07, 08 |
+| D | Beside paving stones | Green | Grass patch | 05, 07, 08 |
+| E | Above/edge of square | Purple | Soft bunting or flags | 06, 07, 08 |
 
-### Karakter Konumları
+## Character Positions
 
-| Karakter | Başlangıç | Bitiş | Not |
-| --- | --- | --- | --- |
-| Kiko | 0 | 0 | Merkez, renkleri keşfeder |
-| Mimi | 25 | 15 | Sağdan katılır |
-| Opa | 40 | 30 | Ağaçta (son sahne) |
+| Shot | Kiko | Mimi | Notes |
+| ---:| --- | --- | --- |
+| 01 | Already visible near red detail | Not present | Kiko discovers red |
+| 02 | Same red-detail area | Enters from visible path | No pop-in |
+| 03 | Same local area | Beside Kiko | Blue bench already visible |
+| 04 | Same local area | Beside Kiko | Yellow planter nearby |
+| 05 | Same local area | Beside Kiko | Grass patch beside path |
+| 06 | Same local area | Beside Kiko | Purple flags already visible |
+| 07 | Same local area | Beside Kiko | Point back across set |
+| 08 | Same local area | Beside Kiko | Final warm hold |
 
-## Her Renk İçin Kurallar
+## Weather and Light Lock
 
-- Tek obje, tek kadraj
-- Minimum 3 sn bekleme
-- Soru yok; ifade: "Kırmızı çiçek!", "Mavi gökyüzü!", "Sarı güneş!"
-
-## Hava Kilidi
-
-| Alan | Değer |
+| Field | Value |
 | --- | --- |
-| Saat | Sabah-öğle arası |
-| Bulut sayısı | 2 |
-| Rüzgar | 0.2 m/sn |
-| Gölge opacity | Max %10 |
+| Time | Morning |
+| Light | Warm morning daylight |
+| Wind | Very gentle |
+| Shadows | Soft, low contrast |
+| Colour | Match Shot 01 Episode Colour Master |

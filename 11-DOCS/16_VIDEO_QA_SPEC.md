@@ -161,6 +161,122 @@ Reject the shot if any Voice QA, Colour QA or Lighting QA item fails.
 
 ---
 
+## Global OpenArt Continuity Gate
+
+Run this gate on every generated video before approval. These checks apply to all future
+Pompom Hills episodes and all worlds, not only Central Square.
+
+### Hard Background Lock QA
+
+Every shot must treat the environment as a fixed physical stage. Reject if any visible
+background object changes position, scale, identity or layout inside the shot or between
+continuity-linked shots.
+
+Objects covered by this gate include trees, tree trunks, benches, planters, bushes,
+flowerbeds, rounded paths, paving stones, stepping stones, grass patches, bunting,
+flags, houses, walls, landmarks and any object visible in the first frame.
+
+Reject if a bench becomes a planter, bush becomes tree, flowerbed becomes grass mound,
+path becomes road, planter changes side of frame, object duplicates, object disappears,
+or a landmark resizes, shifts, duplicates, disappears or changes silhouette.
+
+### Intra-Shot Character Continuity QA
+
+Character continuity must remain unbroken inside the same video clip. This applies
+within a single shot, not only between shots.
+
+Reject if any character disappears inside the same shot, reappears inside the same shot,
+regenerates after occlusion, teleports, duplicates, switches sides suddenly, jumps
+position, changes scale suddenly, changes identity, or becomes hidden and then appears
+elsewhere.
+
+Each character must follow one clear visible path inside the shot. The path must be
+readable frame-to-frame.
+
+### Single Visible Path QA
+
+Characters must stay on visible walkable areas only: clear paths, paving stones,
+stepping stones, clear open grass patches and open visible areas beside objects.
+
+Reject if a character walks through bushes, flowerbeds, planters, tree trunks, benches,
+houses, walls, dense grass, foreground plants, decorative objects, or any object that
+should physically block them.
+
+Reject if a character enters from one side, disappears behind an object, and exits from
+another side, or changes walking direction without a clearly visible turn.
+
+### Occlusion Is Not A Transition QA
+
+Do not use occlusion as a transition.
+
+Characters must not be hidden behind bushes, flowers, benches, tree trunks, planters,
+walls, houses, flags or foreground plants as a way to continue or reset motion.
+
+A tiny natural partial overlap is acceptable only if it lasts less than half a second,
+does not hide the character's full body, does not hide the direction of travel, and the
+character does not reappear somewhere else after the overlap.
+
+Reject if foreground objects fully cover a character or if a character appears
+regenerated after being hidden.
+
+### Camera Continuity QA
+
+Camera movement must protect continuity. Allowed motion is tiny push-in, tiny settle,
+very slow stable drift, or nearly locked-off camera.
+
+Reject if camera movement causes object shifting, layout morphing, character hiding,
+character regeneration, camera reset, fast pan, whip pan, orbit, fast zoom, sudden angle
+jump, a tracking move that changes the set layout, a reveal of a different location, or
+an environment that feels regenerated.
+
+For preschool continuity, stable visible action is more important than cinematic
+movement.
+
+### First Second Continuity Hold QA
+
+For every continuity-linked shot, compare the previous shot final frame with the next
+shot first frame. The first 1 second must hold extremely close to `@image1`.
+
+During the first 1 second, reject if camera angle, camera height, lens feel, character
+positions, character scale, background object positions, lighting or colour grading
+changes; reject if any new object appears, any object disappears, any character
+teleports, or any character switches sides.
+
+After the first second, only small character motion and tiny camera settle are allowed.
+
+### Character Action Reduction QA
+
+If a shot has background morphing, occlusion or teleport risk, reduce character
+movement. Prefer pointing, looking, head turn, tiny step, smiling, gentle reaction,
+small body turn and shared still moment.
+
+Flag shots with unnecessary walking as higher risk, especially walking across the set,
+crossing behind objects, entering/exiting frame, moving behind bushes/benches/planters,
+using foreground objects as transitions, or travelling from object to object inside one
+short shot.
+
+---
+
+## Global QA Workflow For Generated Shots
+
+For every generated shot:
+
+1. Export first frame.
+2. Export final frame.
+3. Watch the full video once only for character continuity.
+4. Watch the full video again only for background object stability.
+5. Compare previous shot final frame with current shot first frame.
+6. Check character path continuity inside the shot.
+7. Check whether any character becomes fully hidden.
+8. Check whether any object moves, morphs, disappears, duplicates, or changes identity.
+9. Check colour and lighting against the Episode Colour Master.
+10. Approve only if all checks pass.
+
+For same-shot character continuity, QA must not only inspect first and final frames. The
+full video must be watched because disappearance can happen inside the shot.
+
+---
+
 ## Detection Categories
 
 ### 1. Object Duplication

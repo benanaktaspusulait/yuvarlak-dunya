@@ -2,168 +2,116 @@
 
 ---
 
-## Scene 01
+## Shot 01 — Kiko Sees Red
 
-**📍 Location:** Kiko's Home
+**Location:** Central Square
 
-**🎬 Action:** Kiko opens door, sees colorful morning
+**Action:** Kiko is already in the square and notices a red rounded planter or red
+bunting detail.
 
-**😊 Emotion:** Happy
+**Emotion:** Curious, happy.
 
-**💬 Dialogue:** "Good morning, world!"
+**Dialogue:** Kiko: "Red! I found red!"
 
-**⏱ Duration:** 15 seconds
-
----
-
-## Scene 02
-
-**📍 Location:** Flower Hill — Nature Field Zone
-
-**🎬 Action:** Kiko points at red flowers
-
-**😊 Emotion:** Curious
-
-**💬 Dialogue:** "Red! Like my shirt!"
-
-**⏱ Duration:** 15 seconds
+**Duration:** 15 seconds
 
 ---
 
-## Scene 03
+## Shot 02 — Mimi Joins
 
-**📍 Location:** Flower Hill — Nature Field Zone
+**Location:** Central Square
 
-**🎬 Action:** Kiko looks up at blue sky
+**Action:** Mimi enters naturally from the same visible path and joins Kiko.
 
-**😊 Emotion:** Happy
+**Emotion:** Friendly.
 
-**💬 Dialogue:** "Blue! Like Mimi!"
+**Dialogue:** Mimi: "Hi Kiko!" / Kiko: "I'm finding colours!"
 
-**⏱ Duration:** 15 seconds
-
----
-
-## Scene 04
-
-**📍 Location:** Flower Hill — Nature Field Zone
-
-**🎬 Action:** Kiko points at yellow sun, Mimi hops in
-
-**😊 Emotion:** Excited
-
-**💬 Dialogue:** Kiko: "Yellow!" / Mimi: "Like me!"
-
-**⏱ Duration:** 15 seconds
+**Duration:** 15 seconds
 
 ---
 
-## Scene 05
+## Shot 03 — Blue Bench
 
-**📍 Location:** Flower Hill — Nature Field Zone
+**Location:** Central Square
 
-**🎬 Action:** They look at green grass
+**Action:** Kiko and Mimi notice a soft pastel blue bench already visible in the square.
 
-**😊 Emotion:** Playful
+**Emotion:** Happy discovery.
 
-**💬 Dialogue:** "Green! Everywhere!"
+**Dialogue:** Mimi: "Blue!" / Kiko: "A blue bench!"
 
-**⏱ Duration:** 15 seconds
-
----
-
-## Scene 06
-
-**📍 Location:** Rosie's Rose Garden
-
-**🎬 Action:** They find purple lavender
-
-**😊 Emotion:** Discovering
-
-**💬 Dialogue:** "Purple! So pretty!"
-
-**⏱ Duration:** 15 seconds
+**Duration:** 15 seconds
 
 ---
 
-## Scene 07
+## Shot 04 — Yellow Flowers
 
-**📍 Location:** Butterfly Meadow
+**Location:** Central Square
 
-**🎬 Action:** They see orange butterflies
+**Action:** They notice yellow flowers in an existing rounded planter.
 
-**😊 Emotion:** Wonder
+**Emotion:** Bright and warm.
 
-**💬 Dialogue:** "Orange! Flying!"
+**Dialogue:** Kiko: "Yellow flowers!" / Mimi: "So bright!"
 
-**⏱ Duration:** 15 seconds
-
----
-
-## Scene 08
-
-**📍 Location:** Butterfly Meadow
-
-**🎬 Action:** They gather different coloured flowers
-
-**😊 Emotion:** Creative
-
-**💬 Dialogue:** "Let's make a rainbow!"
-
-**⏱ Duration:** 15 seconds
+**Duration:** 15 seconds
 
 ---
 
-## Scene 09
+## Shot 05 — Green Grass
 
-**📍 Location:** Central Square
+**Location:** Central Square
 
-**🎬 Action:** They arrange flowers in rainbow order
+**Action:** They look down at soft green grass beside the rounded paving stones.
 
-**😊 Emotion:** Proud
+**Emotion:** Gentle and tactile.
 
-**💬 Dialogue:** "Red, orange, yellow, green, blue, purple!"
+**Dialogue:** Mimi: "Green grass!" / Kiko: "Soft and green."
 
-**⏱ Duration:** 15 seconds
-
----
-
-## Scene 10
-
-**📍 Location:** Central Square
-
-**🎬 Action:** A real rainbow appears in the sky
-
-**😊 Emotion:** Joyful
-
-**💬 Dialogue:** "A real rainbow!"
-
-**⏱ Duration:** 15 seconds
+**Duration:** 15 seconds
 
 ---
 
-## Scene 11
+## Shot 06 — Purple Flags
 
-**📍 Location:** Central Square
+**Location:** Central Square
 
-**🎬 Action:** They look at the rainbow together
+**Action:** They notice small soft purple bunting or flags already part of the square.
 
-**😊 Emotion:** Amazed
+**Emotion:** Joyful.
 
-**💬 Dialogue:** "So beautiful!"
+**Dialogue:** Kiko: "Purple too!" / Mimi: "So many colours!"
 
-**⏱ Duration:** 15 seconds
+**Duration:** 15 seconds
 
 ---
 
-## Scene 12
+## Shot 07 — Colours Together
 
-**📍 Location:** Opa's Tree
+**Location:** Central Square
 
-**🎬 Action:** Opa says "Well done!"
+**Action:** They point back across the same set, remembering the colours they found.
 
-**😊 Emotion:** Proud
+**Emotion:** Remembering together.
 
-**💬 Dialogue:** Opa: "Well done!" / Kiko: "Thank you, Opa!"
+**Dialogue:** Kiko: "Red, blue, yellow..." / Mimi: "Green and purple!"
 
-**⏱ Duration:** 15 seconds
+**Duration:** 15 seconds
+
+---
+
+## Shot 08 — Rainbow Moment
+
+**Location:** Central Square
+
+**Action:** They stand together and see all the existing colours as one rainbow-like
+feeling in Central Square.
+
+**Emotion:** Warm final togetherness.
+
+**Dialogue:** Kiko: "All colours together." / Mimi: "In Central Square!"
+
+**Final 2 seconds:** Silent warm hold, no text.
+
+**Duration:** 15 seconds

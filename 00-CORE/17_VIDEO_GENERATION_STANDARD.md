@@ -436,6 +436,132 @@ Use language such as:
 
 ---
 
+## Global OpenArt Continuity Locks
+
+These rules apply to every generated Pompom Hills video shot before approval. They are
+global production gates, not episode-specific preferences.
+
+### Hard Background Lock
+
+Every video shot must treat the environment as a fixed physical stage. All visible
+background objects must keep their position, scale, identity and relationship during the
+shot and between continuity-linked shots.
+
+Objects that must not move, morph, duplicate, disappear, swap identity or change
+position include trees, tree trunks, benches, planters, bushes, flowerbeds, rounded
+paths, paving stones, stepping stones, grass patches, bunting, flags, houses, walls,
+landmarks and any object visible in the first frame.
+
+A bench cannot become a planter. A bush cannot become a tree. A flowerbed cannot become
+a grass mound. A path cannot become a road. A planter cannot move to a new side of the
+frame. A landmark cannot resize, duplicate, disappear or shift position.
+
+### Intra-Shot Character Continuity Lock
+
+Character continuity must remain unbroken inside the same video clip. This applies
+within a single shot, not only between shots.
+
+A character must remain the same continuous physical character from first frame to final
+frame. Characters must not disappear, reappear, regenerate after occlusion, teleport,
+duplicate, switch sides suddenly, jump position, change scale suddenly, change identity,
+or become hidden and then appear elsewhere.
+
+Each character must follow one clear visible path inside the shot. The path must be
+readable frame-to-frame.
+
+### Single Visible Path Rule
+
+Characters must stay on visible walkable areas only: clear paths, paving stones,
+stepping stones, clear open grass patches, or open visible areas beside objects.
+
+Characters must not walk through bushes, flowerbeds, planters, tree trunks, benches,
+houses, walls, dense grass, foreground plants, decorative objects, or any object that
+should physically block them.
+
+Characters must not enter from one side, disappear behind an object, and exit from
+another side. Characters must not change walking direction unless the turn is clearly
+visible.
+
+### Occlusion Is Not A Transition
+
+Do not use occlusion as a transition.
+
+Characters must not be hidden behind bushes, flowers, benches, tree trunks, planters,
+walls, houses, flags or foreground plants as a way to continue or reset motion.
+Characters must remain clearly visible for the full shot.
+
+A tiny natural partial overlap is allowed only if it lasts less than half a second, does
+not hide the character's full body, does not hide the character's direction of travel,
+and the character does not reappear somewhere else after the overlap. Full-body
+occlusion is not allowed.
+
+### Camera Must Not Break Continuity
+
+Camera movement must protect continuity. Allowed camera movement: tiny push-in, tiny
+settle, very slow stable drift, nearly locked-off camera.
+
+Forbidden camera movement: camera reset, fast pan, whip pan, orbit, fast zoom, sudden
+angle jump, tracking move that changes the set layout, movement that causes background
+objects to shift, movement that hides a character behind foreground objects, movement
+that reveals a different location, or movement that makes the environment feel
+regenerated.
+
+For preschool continuity, stable visible action is more important than cinematic
+movement.
+
+### First Second Continuity Hold
+
+For every continuity-linked shot, the first 1 second must hold extremely close to
+`@image1`.
+
+During the first 1 second: camera angle, camera height and lens feel must not change;
+character positions and scale must not jump; background objects must not move; no new
+object may appear; no object may disappear; no character may teleport or switch sides;
+lighting and colour grading must not change.
+
+After the first second, only small character motion and tiny camera settle are allowed.
+
+### Object Identity Lock
+
+Every visible object keeps its identity for the full shot and across continuity-linked
+shots. Reject if a bench becomes a planter, planter becomes bush, bush becomes tree,
+flowerbed becomes grass mound, grass becomes road, house becomes shop, path becomes
+road, tree changes trunk shape or location, landmark changes silhouette, object
+duplicates, object disappears, object changes side of the frame, or object scale changes
+unnaturally.
+
+### Character Action Reduction For Stability
+
+If a shot has background morphing, occlusion or teleport risk, reduce character
+movement. Prefer pointing, looking, head turn, tiny step, smiling, gentle reaction,
+small body turn, and shared still moment.
+
+Avoid walking across the set, crossing behind objects, entering or exiting frame, moving
+behind bushes, moving behind benches, moving behind planters, using foreground objects
+as transitions, and travelling from object to object inside one short shot.
+
+QA should flag shots with unnecessary walking as higher risk.
+
+### Global Rejection Criteria
+
+Reject any generated video if any character disappears inside the same shot, reappears
+inside the same shot, teleports, regenerates after occlusion, is fully hidden by
+bushes/flowers/benches/trees/planters/walls/houses/flags/foreground plants, walks
+through blocking objects, emerges from the opposite side after being hidden, changes
+side without visible continuous movement, or has a movement path that is not
+continuously readable.
+
+Reject any generated video if foreground plants cover a character's full body, camera
+movement hides a character and reveals them elsewhere, any tree/bench/planter/bush
+changes position, any path changes layout, any landmark shifts/duplicates/resizes/
+disappears/changes shape, background objects morph, background layout changes, the
+environment feels regenerated, camera resets, lighting or colour grading changes
+unexpectedly, exposure/brightness/contrast/saturation/colour temperature drifts, extra
+characters appear, or forbidden text/logo/caption/title/subscription/end-card graphics
+appear unless explicitly required by a separate approved asset.
+
+---
+
 ## How to Use This Standard
 
 In each shot file, replace the repeated sections with:
@@ -470,10 +596,16 @@ Every shot file must include:
 - Background Object Lock section (after Environment Anchors or after the episode-specific environment description)
 - Background persistence sentence in the Visual Prompt
 - Intra-shot background drift QA checklist items
+- Required Global QA Locks section referencing Hard Background Lock, Intra-Shot
+  Character Continuity Lock, Single Visible Path Rule, Occlusion Is Not A Transition,
+  Camera Must Not Break Continuity, First Second Continuity Hold and Object Identity
+  Lock
 
 No shot may omit these sections.
 
 No episode may skip background persistence rules.
+
+No episode may skip the Global OpenArt Continuity Locks.
 
 This rule was added after discovering intra-shot background drift in generated video.
 

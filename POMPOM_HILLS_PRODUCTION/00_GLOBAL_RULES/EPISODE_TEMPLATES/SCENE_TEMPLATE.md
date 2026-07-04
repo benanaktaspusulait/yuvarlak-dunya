@@ -209,20 +209,43 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 - Colour continuity: match previous shot white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette
 - Lighting continuity: match previous shot light direction, intensity, shadow softness, ambient lighting and highlight behaviour
 
+## Required Global QA Locks
+
+This shot must pass the global QA rules in `00-CORE/17_VIDEO_GENERATION_STANDARD.md`
+and `11-DOCS/16_VIDEO_QA_SPEC.md` for:
+
+- Hard Background Lock
+- Intra-Shot Character Continuity Lock
+- Single Visible Path Rule
+- Occlusion Is Not A Transition
+- Camera Must Not Break Continuity
+- First Second Continuity Hold
+- Object Identity Lock
+
+Keep any shot-specific continuity notes below this section. Do not restate or weaken the
+global rules locally.
+
 ## QA Checklist
 
-Reference: `16_VIDEO_QA_SPEC.md`
-Standard: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
+Reference: `11-DOCS/16_VIDEO_QA_SPEC.md`
+Standards: `00-CORE/17_VIDEO_GENERATION_STANDARD.md`,
+`00-CORE/SHOT_PRODUCTION_STANDARD.md`
 
 - [ ] If this world has sub-zones, the correct zone is specified in Mekan (not just the world name)
 - [ ] Zone-specific Spatial Anchor and Reference Use are filled in (if zone applies)
+- [ ] Required Global QA Locks section included
 - [ ] Character integrity verified
 - [ ] Character consistency verified
+- [ ] Intra-shot character continuity verified
+- [ ] Single visible character path verified
+- [ ] No occlusion transition, teleport, disappearance or same-shot regeneration
 - [ ] Voice identity verified
 - [ ] Voice pitch, timbre, speaking speed, pronunciation, accent and recording quality match previous speaking shot
 - [ ] Object persistence verified
+- [ ] Hard background and object identity locks verified
 - [ ] No rendering artefacts
 - [ ] Camera consistency verified
+- [ ] Camera does not create hiding, reset, layout morphing or a new location reveal
 - [ ] Lighting consistency verified
 - [ ] Light direction, intensity, shadow softness, ambient lighting and highlight behaviour match previous shot
 - [ ] Colour identity verified

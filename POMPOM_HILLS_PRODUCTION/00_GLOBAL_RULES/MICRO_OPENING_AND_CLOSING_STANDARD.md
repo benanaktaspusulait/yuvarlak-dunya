@@ -87,6 +87,11 @@ Rules:
 - used only for 90–120 second episodes
 - not used for Shorts
 - avoid using it for 60 second videos unless it is only 1–2 seconds
+- must pass the Hard Background Lock from `00-CORE/17_VIDEO_GENERATION_STANDARD.md`
+- camera movement must not shift trees, benches, planters, bushes, paths, stepping
+  stones, houses, walls or landmarks
+- final frame must preserve the same world layout so it is safe to use as Shot 01
+  `@image1`
 
 World micro-openings do not have a matching reusable closing (see §3). See
 `POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/03_OPENINGS/STONE_HILL_ADVENTURES_MICRO_OPENING/opening-stone-hill-adventures.md`
@@ -252,6 +257,23 @@ Do not generate readable text inside AI video.
 If a title is needed, add it later in editing, not inside the AI generation. This is consistent
 with `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Text Safety and applies to both series bumpers
 and world micro-openings without exception.
+
+---
+
+## 6B. Micro-Opening Object Stability QA
+
+World micro-openings are usually empty environment shots. Because there are no
+characters by default, the main QA focus is object stability.
+
+Reject a micro-opening if camera movement causes tree position shift, bench position
+shift, planter position shift, bush position shift, path redesign, stepping-stone ring
+redesign, background morphing, new objects appearing, established objects disappearing,
+lighting/colour drift, or a final frame that cannot safely become Shot 01 `@image1`.
+
+If characters are explicitly approved for a special bumper or opening, the same
+Intra-Shot Character Continuity Lock, Single Visible Path Rule, Occlusion Is Not A
+Transition, and Camera Must Not Break Continuity rules from
+`00-CORE/17_VIDEO_GENERATION_STANDARD.md` apply.
 
 ---
 

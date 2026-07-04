@@ -211,19 +211,26 @@ Her bölüm klasörü (`04-SCENES/season-NN/sNNeNN-slug/`) şu dosyaları içerm
 | 05 | /10 | ⬜ |
 | 06 | /10 | ⬜ |
 
-Reference: `16_VIDEO_QA_SPEC.md`
+Reference: `11-DOCS/16_VIDEO_QA_SPEC.md`
+Standards: `00-CORE/17_VIDEO_GENERATION_STANDARD.md`,
+`00-CORE/SHOT_PRODUCTION_STANDARD.md`
 
 Required episode-level checks:
 
+- [ ] Every shot includes the Required Global QA Locks section.
 - [ ] Voice continuity checked first.
 - [ ] Colour continuity checked second.
 - [ ] Lighting continuity checked third.
-- [ ] Character continuity checked after voice/colour/lighting.
-- [ ] World continuity checked after character continuity.
+- [ ] Intra-shot character continuity checked after voice/colour/lighting.
+- [ ] Hard background and object identity continuity checked after character continuity.
+- [ ] World continuity checked after background/object continuity.
 - [ ] Story and tempo checked last.
 - [ ] Voice identity, pitch, timbre, speaking speed, pronunciation, accent, emotional tone and recording quality remain consistent across speaking shots.
 - [ ] White balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette remain consistent across all shots.
 - [ ] Light direction, light intensity, shadow softness, ambient lighting and highlight behaviour remain consistent across all shots.
+- [ ] Full video watched once for character continuity and once for background/object stability.
+- [ ] No character disappears, teleports, regenerates after occlusion or becomes fully hidden inside any shot.
+- [ ] No background object moves, morphs, duplicates, disappears or changes identity.
 - [ ] Episode feels like one uninterrupted animated film.
 - [ ] The viewer cannot perceive where one shot ends and the next begins.
 - [ ] If an opening bumper is used, it is 3–5 seconds maximum and does not delay the story (`00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §4a).

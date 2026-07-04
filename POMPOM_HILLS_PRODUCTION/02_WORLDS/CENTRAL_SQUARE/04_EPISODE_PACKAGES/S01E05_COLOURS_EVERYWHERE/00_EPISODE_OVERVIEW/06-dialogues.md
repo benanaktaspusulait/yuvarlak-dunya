@@ -4,25 +4,37 @@
 
 ## All Lines
 
-| Scene | Character | Line |
+| Shot | Character | Line |
 |---:|---|---|
-| 01 | Kiko | "Good morning, world!" |
-| 02 | Kiko | "Red! Like my shirt!" |
-| 03 | Kiko | "Blue! Like Mimi!" |
-| 04 | Kiko | "Yellow!" |
-| 04 | Mimi | "Like me!" |
-| 05 | Both | "Green! Everywhere!" |
-| 06 | Kiko | "Purple! So pretty!" |
-| 07 | Mimi | "Orange! Flying!" |
-| 08 | Kiko | "Let's make a rainbow!" |
-| 09 | Both | "Red, orange, yellow, green, blue, purple!" |
-| 10 | Kiko | "A real rainbow!" |
-| 11 | Both | "So beautiful!" |
-| 12 | Opa | "Well done!" |
-| 12 | Kiko | "Thank you, Opa!" |
+| 01 | Kiko | "Red! I found red!" |
+| 02 | Mimi | "Hi Kiko!" |
+| 02 | Kiko | "I'm finding colours!" |
+| 03 | Mimi | "Blue!" |
+| 03 | Kiko | "A blue bench!" |
+| 04 | Kiko | "Yellow flowers!" |
+| 04 | Mimi | "So bright!" |
+| 05 | Mimi | "Green grass!" |
+| 05 | Kiko | "Soft and green." |
+| 06 | Kiko | "Purple too!" |
+| 06 | Mimi | "So many colours!" |
+| 07 | Kiko | "Red, blue, yellow..." |
+| 07 | Mimi | "Green and purple!" |
+| 08 | Kiko | "All colours together." |
+| 08 | Mimi | "In Central Square!" |
 
 ---
 
-## Repeated Phrase
+## Voice Continuity
 
-"What colour is this?" — appears throughout
+Kiko and Mimi voices must remain identical across all speaking shots:
+
+- same voice identity
+- same pitch
+- same timbre
+- same speaking speed
+- same warmth
+- same pronunciation
+- same accent
+- same recording quality
+
+No narrator. No alternate voices.

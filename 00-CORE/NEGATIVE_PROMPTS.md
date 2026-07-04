@@ -25,6 +25,8 @@ consistent with it.
 
 ```text
 sharp edges, angular shapes, realistic skin texture, realistic pores, realistic fur, horror, violence, weapons, blood, injury, crying meltdown, screaming, angry adult face, punishment, bullying, sarcasm, dark shadows, black background, harsh rim light, high contrast, neon colors, dirty grunge texture, photorealism, text, watermark, logo, extra fingers, visible fingernails, sharp teeth, sharp beak, claws, city street, cars, traffic, cliff, deep tunnel, scary forest, lightning, fire, smoke, handheld camera, Dutch angle, fisheye, cluttered background, unsafe height, adult proportions
+
+teleporting character, disappearing character, character disappearing within the same shot, character reappearing within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, character walking through flowerbeds, foreground plants covering character, occlusion transition, hidden character transition, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, background morphing, layout changing
 ```
 
 ## Midjourney v6 Negative
@@ -61,6 +63,8 @@ karakter var olan LOCKED dünyaya yerleştirilirken bu bloğu negative alanına 
 
 ```text
 oversized character, giant character, character too large, character filling the frame, tiny environment, shrunken world, regenerated architecture, redesigned buildings, different house style, different trees, altered tree shape, brown pompom tree, reshaped Giant Pompom Tree, moved landmark, different flower layout, rearranged flowers, changed world layout, different paths, different lighting, environment sheet in scene, reference sheet visible, labels, arrows, layout diagram, frame border, random text, random signs, sign artifacts, watermark, extra characters
+
+teleporting character, disappearing character, character disappearing within the same shot, character reappearing within the same shot, character regenerating after occlusion, character hidden by bushes, character entering bushes, character emerging from bushes, character walking behind plants, character fully occluded, character path break, broken character continuity, character side-switching, character clipping through plants, character clipping through bushes, character walking through planters, character walking through flowerbeds, foreground plants covering character, occlusion transition, hidden character transition, moving benches, moving trees, moving planters, shifting bushes, changing object positions, object morphing, background morphing, layout changing
 ```
 
 ### Locked-World Positive Reinforcement (negatif ile birlikte kullan)

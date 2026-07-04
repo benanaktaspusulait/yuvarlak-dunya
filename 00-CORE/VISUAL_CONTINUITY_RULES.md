@@ -250,6 +250,69 @@ Only after the first frame matches perfectly may animation begin.
 
 ---
 
+## 8. Global OpenArt Continuity Locks
+
+Bu kilitler her video shot için geçerlidir. Bunlar yalnızca shot'lar arası değil, aynı
+15 saniyelik klip içindeki sürekliliği de kontrol eder.
+
+### Hard Background Lock
+
+Environment sabit bir fiziksel set gibi davranmalıdır. İlk frame'de görünen ağaçlar,
+trunk'lar, bench'ler, planter'lar, bush'lar, flowerbed'ler, path'ler, paving/stepping
+stone'lar, grass patch'ler, bunting/flag'ler, house'lar, wall'lar, landmark'lar ve tüm
+görünür objeler pozisyon, ölçek, kimlik ve layout korumalıdır.
+
+Bench planter'a, bush tree'ye, flowerbed grass mound'a, path road'a, house shop'a
+dönüşemez. Landmark shift, resize, duplicate veya disappear yapamaz.
+
+### Intra-Shot Character Continuity Lock
+
+Karakter aynı shot içinde kesintisiz fiziksel varlık olarak kalmalıdır. Karakter
+kaybolamaz, tekrar beliremez, occlusion sonrası regenerate olamaz, teleport yapamaz,
+duplicate olamaz, ani side-switch yapamaz, scale/identity değiştiremez.
+
+Karakter yolu frame-to-frame okunabilir olmalıdır.
+
+### Single Visible Path Rule
+
+Karakterler yalnızca görünür yürünebilir alanlarda hareket eder: clear path, paving
+stones, stepping stones, clear open grass patch veya objelerin yanındaki açık alan.
+
+Bush, flowerbed, planter, tree trunk, bench, house, wall, dense grass, foreground plant
+veya fiziksel engel olması gereken dekoratif objelerin içinden/arkasından geçemez.
+
+### Occlusion Is Not A Transition
+
+Do not use occlusion as a transition.
+
+Karakterler hareketi devam ettirmek veya resetlemek için bush, flower, bench, tree
+trunk, planter, wall, house, flag veya foreground plant arkasında saklanamaz. Tiny
+partial overlap yalnızca yarım saniyeden kısa, gövdeyi tamamen kapatmayan ve direction
+of travel'ı saklamayan durumlarda kabul edilir.
+
+### Camera Must Not Break Continuity
+
+Kamera sürekliliği korumalıdır. Tiny push-in, tiny settle, very slow stable drift ve
+nearly locked-off camera kabul edilir. Camera reset, fast pan, whip pan, orbit, fast
+zoom, sudden angle jump, layout değiştiren tracking, background object shift, character
+hiding, farklı location reveal veya regenerated environment hissi yasaktır.
+
+### First Second Continuity Hold
+
+Continuity-linked shot'larda ilk 1 saniye `@image1`'e çok yakın kalmalıdır. Camera
+angle/height/lens feel, character position/scale, background objects, lighting ve colour
+grading değişmemelidir. Yeni obje belirmemeli, obje kaybolmamalı, karakter teleport veya
+side-switch yapmamalıdır.
+
+### Character Action Reduction For Stability
+
+Eğer shot background morphing, occlusion veya teleport riski taşıyorsa hareket azaltılır.
+Pointing, looking, head turn, tiny step, smiling, gentle reaction, small body turn ve
+shared still moment tercih edilir. Set içinde uzun yürüyüş, objelerin arkasından geçme,
+enter/exit frame ve foreground object transition kullanılmaz.
+
+---
+
 ## QA Checklist
 
 Her shot için:
@@ -279,6 +342,13 @@ Her shot için:
 - [ ] No environment redesign
 - [ ] Continuity frame used correctly
 - [ ] Environment feels like the same place
+- [ ] Hard Background Lock passed
+- [ ] Intra-Shot Character Continuity Lock passed
+- [ ] Single Visible Path Rule passed
+- [ ] Occlusion Is Not A Transition passed
+- [ ] Camera Must Not Break Continuity passed
+- [ ] First Second Continuity Hold passed
+- [ ] Object Identity Lock passed
 ```
 
 ---

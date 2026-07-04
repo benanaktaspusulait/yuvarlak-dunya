@@ -23,9 +23,11 @@ Run the assembled episode QA in this order:
 1. Voice continuity
 2. Colour continuity
 3. Lighting continuity
-4. Character continuity
-5. World continuity
-6. Story and tempo
+4. Intra-shot character continuity
+5. Hard background / object identity continuity
+6. Character continuity
+7. World continuity
+8. Story and tempo
 
 If voice, colour or lighting continuity fails, the episode is not production-ready.
 
@@ -163,6 +165,12 @@ Reference: `00-CORE/CONTINUITY_RULES.md`
 ✓ Character idle animations present — characters never fully frozen?
 ✓ Environmental rhythm consistent — all moving elements on same pace?
 ✓ No handheld shake or bounce in any shot?
+✓ No character disappears or reappears inside the same shot?
+✓ No character teleports, regenerates after occlusion, duplicates, or switches sides suddenly?
+✓ Every character movement path is continuously readable and physically possible?
+✓ No character walks through bushes, planters, flowerbeds, benches, tree trunks, walls or houses?
+✓ No full-body occlusion is used as a transition?
+✓ Camera movement never hides a character and reveals them elsewhere?
 ```
 
 Reference: world's Video Generation Rules section
@@ -178,9 +186,38 @@ Reference: world's Video Generation Rules section
 ✓ World layout identical in all shots set in the same location?
 ✓ Lighting direction identical across shots in the same scene?
 ✓ No "reset" — world never returns to a differently composed version of itself?
+✓ Previous shot final frame and next shot first frame match for all continuity-linked shots?
+✓ First 1 second of each continuity-linked shot holds extremely close to @image1?
+✓ No visible object changes position, scale, identity or side of frame between linked shots?
+✓ Bench/planter/bush/tree/path/house/landmark identities remain stable?
 ```
 
 Reference: `00-CORE/CONTINUITY_RULES.md`
+
+---
+
+## 9B. Global OpenArt Continuity Locks
+
+```
+✓ Hard Background Lock passed?
+✓ Intra-Shot Character Continuity Lock passed?
+✓ Single Visible Path Rule passed?
+✓ Occlusion Is Not A Transition passed?
+✓ Camera Must Not Break Continuity passed?
+✓ First Second Continuity Hold passed?
+✓ Object Identity Lock passed?
+✓ Shots with unnecessary walking flagged as higher risk and simplified when needed?
+✓ Full video watched once for character continuity?
+✓ Full video watched once for background object stability?
+```
+
+Reject the episode if any generated shot has intra-shot disappearance, teleporting,
+occlusion transition, character regeneration, path break, object morphing, background
+layout change, camera reset, unexpected lighting/colour drift, extra characters, or
+unauthorized text/logo/caption/title/end-card graphics.
+
+Reference: `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Global OpenArt Continuity Locks
+and `11-DOCS/16_VIDEO_QA_SPEC.md` § Global OpenArt Continuity Gate.
 
 ---
 
