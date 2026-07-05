@@ -78,8 +78,10 @@ Every shot only interacts with objects visible in its @image1:
 6. **No complex audio:** natural ambience only, no music/melody
 
 ## Characters
-- **Mimi:** Sleepy, gentle, needs help finding comfort
-- **Kiko:** Observant, helpful, caring friend
+- **Mimi:** Sleepy, gentle, needs help finding comfort — scale 80, soft blue #90CAF9
+- **Kiko:** Observant, helpful, caring friend — scale 100, coral pink #F8BBD0
+
+**Character locks (do not change):** Kiko (scale 100, #F8BBD0), Mimi (scale 80, #90CAF9).
 
 ## World Alignment
 Uses the **Mimi's Burrow World Specification** (exterior + interior):

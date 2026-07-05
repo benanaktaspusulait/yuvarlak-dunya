@@ -15,11 +15,14 @@
 - Same warm blue interior walls
 - Same soft green carpet
 - Same round blue pillow (Mimi asleep on it)
-- Same window, shelf, carrot box positions
+- Same visible interior anchors from @image1. Preserve any visible window, shelf, or carrot box exactly if present. Do not add missing anchors.
 - Same warm golden interior glow (no sudden night/darkness)
 
+**Anchor rule:** Preserve only the interior anchors that are actually visible in @image1. If the approved Shot 05 interior master frame shows a window, preserve the window; if it shows a shelf, preserve the shelf; if it shows a carrot box, preserve the carrot box. Do not spawn missing anchors later. Do not require anchors that were not visible in @image1.
+
 ## Frame Support Check (Hard Gate — §0)
-- **Required objects:** round blue pillow, interior walls, carpet, window → all visible in interior @image1. ✅ seeded
+- **Required objects:** round blue pillow, interior walls, carpet, warm interior glow → all visible in interior @image1. ✅ seeded
+- **Optional anchors:** preserve any visible window, shelf, or carrot box from @image1; do not spawn missing anchors.
 - **No new objects needed.** No camera movement. No location change. No lighting jump (stays warm interior glow).
 - **Verdict:** SAFE
 
@@ -34,9 +37,9 @@ Mimi is now curled up on her round blue pillow, fully asleep. Her breathing is s
 
 Kiko kneels softly beside the pillow, watching over her sleeping friend with a warm, gentle smile. She gives a tiny, quiet wave and whispers goodnight. Kiko's expression shows care, contentment, and quiet happiness — she helped her sleepy friend find the coziest spot of all.
 
-The warm golden interior glow stays soft and constant — it does NOT become night, and no stars appear. The little window keeps its gentle, unchanged evening light. The whole scene holds a calm, cozy, safe bedtime feeling.
+The warm golden interior glow stays soft and constant — it does NOT become night, and no stars appear. If a window is visible in @image1, it keeps its gentle, unchanged evening light. If no window is visible in @image1, do not create one. The whole scene holds a calm, cozy, safe bedtime feeling.
 
-Environment remains identical to @image1 — all interior objects in same positions. Lighting stays warm interior glow throughout. No camera movement.
+Environment remains identical to @image1. The round blue pillow, warm blue walls, soft green carpet, and warm interior glow remain unchanged. Preserve any visible interior anchor from @image1 exactly if present. Do not spawn missing anchors. Lighting stays warm interior glow throughout. No camera movement.
 
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
 {camera} = stable 50mm preschool camera, medium shot, eye-level, static, no movement
@@ -64,7 +67,7 @@ Kiko: (whisper) Goodnight, Mimi.
 ## Negative Prompt
 
 ```text
-door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, sudden night, darkness falling, camera movement, pan, track, zoom, dolly, pull-back, Dutch angle, fisheye, shaky, motion blur, text, logo, watermark, speech bubbles, captions, subtitles, new objects, new props, pillow not matching @image1, missing window, missing shelf, missing carrot box, environment change, lighting change, exterior scene, outside, grass, tree, character scale change, Mimi awake, Kiko leaving, sharp edges, clutter, random props, metal, plastic, glass, modern objects, photorealistic, background music, soundtrack, melody, ending jingle, sound effects, dialogue text, wrong first frame, @image1 ignored, recreated scene, camera reset, camera searching, camera reframe, object spawning, late object appearance, new discovery object, background morphing, lighting drift, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, song, musical bed, chime
+door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, sudden night, darkness falling, camera movement, pan, track, zoom, dolly, pull-back, Dutch angle, fisheye, shaky, motion blur, text, logo, watermark, speech bubbles, captions, subtitles, new objects, new props, pillow not matching @image1, visible window changed, visible shelf changed, visible carrot box changed, new window spawning, new shelf spawning, new carrot box spawning, environment change, lighting change, exterior scene, outside, grass, tree, character scale change, Mimi awake, Kiko leaving, sharp edges, clutter, random props, metal, plastic, glass, modern objects, photorealistic, background music, soundtrack, melody, ending jingle, sound effects, dialogue text, wrong first frame, @image1 ignored, recreated scene, camera reset, camera searching, camera reframe, object spawning, late object appearance, new discovery object, background morphing, lighting drift, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, song, musical bed, chime
 ```
 
 ## OpenArt Settings
@@ -79,7 +82,7 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 **REJECT if ANY continuity breaks:**
 - [ ] Lighting different from @image1 (not warm interior glow)
 - [ ] Sudden night sky or stars spawned
-- [ ] Pillow/window/shelf/carrot box missing or changed
+- [ ] Pillow missing or changed, OR any visible interior anchor from @image1 changed/moved/disappeared, OR a missing anchor was newly spawned
 - [ ] Interior walls/carpet not matching @image1
 - [ ] Scene shows exterior/outside (must stay inside)
 - [ ] Camera movement or pull-back (should be static)
@@ -103,3 +106,10 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - **Callback complete:** Big yawn (Shot 01) → peaceful sleep (Shot 08)
 - **No pull-back:** Static camera maintains interior @image1 continuity
 - **Episode conclusion:** Home is the coziest place; a friend helps you find comfort
+
+## Continuity & Safety Locks
+- **Character locks:** Kiko (scale 100, coral pink #F8BBD0), Mimi (scale 80, soft blue #90CAF9). Do not change character scale or colours.
+- **Camera lock:** Keep the same camera position as @image1 (preserve the interior composition; no reframe, no pull-back).
+- **Lighting lock:** Match the lighting and colour grading of @image1 exactly (warm interior glow; no night, no stars).
+- **Character presence:** Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
+- **Text safety:** No text. No subtitles. No speech bubbles. No captions.

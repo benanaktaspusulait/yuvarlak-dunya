@@ -35,6 +35,8 @@ Kiko gestures warmly, as if to say "Your own cozy bed is right inside!" Mimi tur
 
 Mimi gives a slow, happy nod. Her ears lift slightly with relief. Both characters turn gently toward the glowing entrance, ready to go inside. Mimi takes one small step toward the three stepping stones that lead to the doorway.
 
+The glowing round blue entrance is the current action object and the required transition object for Shot 05. It must remain fully visible, unblocked, round, blue, open, and warmly glowing. Mimi and Kiko must remain outside, facing the entrance, ready to step inside. Do not let either character enter the burrow yet. The final frame must clearly support Shot 05 by showing the full entrance, three stepping stones, Mimi and Kiko outside, and stable evening dusk lighting.
+
 The camera preserves the @image1 composition. Do not pull back, push in, pan, tilt, zoom, track, settle, drift, or reframe. Do not change from wide to medium. Characters move only within the existing visible frame. Environment remains identical to @image1 — all objects in same positions.
 
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
@@ -74,6 +76,10 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - [ ] Character scale/position inconsistent
 - [ ] Characters already inside the burrow (crossing happens in Shot 05)
 - [ ] Mimi not showing happy realization
+- [ ] Entrance blocked by Mimi or Kiko
+- [ ] Entrance not fully visible in final frame
+- [ ] Characters enter the burrow before Shot 05
+- [ ] Final frame does not support Shot 05
 
 **APPROVE only if:**
 - [ ] Perfect continuity with @image1
@@ -84,9 +90,19 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - [ ] Characters remain outside, turned toward entrance
 - [ ] Lighting consistent with @image1
 
+## Final Frame Requirement
+The final frame must leave the round blue burrow entrance fully visible and unblocked for the Shot 05 crossing. Both characters remain OUTSIDE, near the entrance, turned toward it, ready to enter — but NOT inside yet. Same evening dusk lighting. Usable as @image1 for Shot 05.
+
 ## Production Notes
 - **Turning point:** The cozy destination is Mimi's own burrow interior
 - **No spawning:** Entrance + glow were in @image1 from Shot 01
 - **No crossing yet:** Characters only turn toward the entrance; the planned crossing is Shot 05
 - **Emotional beat:** Relief, warmth, "home is best"
 - **Setup for next shot:** Ends with characters facing the entrance, ready to step inside
+
+## Continuity & Safety Locks
+- **Character locks:** Kiko (scale 100, coral pink #F8BBD0), Mimi (scale 80, soft blue #90CAF9). Do not change character scale or colours.
+- **Camera lock:** Keep the same camera position as @image1 (preserve composition; no reframe wide→medium).
+- **Lighting lock:** Match the lighting and colour grading of @image1 exactly.
+- **Character presence:** Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
+- **Text safety:** No text. No subtitles. No speech bubbles. No captions.

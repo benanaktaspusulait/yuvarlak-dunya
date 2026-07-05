@@ -37,6 +37,8 @@ For a moment she settles, but the open evening breeze makes the spot feel a litt
 
 Mimi sits up again, looking a little tired and unsatisfied. Kiko, standing nearby, watches with gentle understanding. Kiko tilts her head, thinking — where could a truly cozy, warm spot be?
 
+The tree/grass area is the current action object. The round blue Mimi's Burrow entrance with warm glow must remain visible and unchanged because Kiko will point to it in the next shot. The flower patch and three stepping stones should remain visible if they were visible in @image1. Do not crop, hide, darken, move, or redesign the glowing entrance. The final frame must clearly support Shot 04 by leaving the glowing entrance visible and unblocked.
+
 The camera preserves the @image1 composition. Do not pull back, push in, pan, tilt, zoom, track, settle, drift, or reframe. Do not change from wide to medium. Characters move only within the existing visible frame. Environment remains identical to @image1 — Mimi's Burrow entrance, tree, grass, flower patch, stepping stones all in same positions.
 
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
@@ -47,7 +49,7 @@ The camera preserves the @image1 composition. Do not pull back, push in, pan, ti
 ## Dialogue
 
 ```
-Mimi: A little too breezy...
+Mimi: Too breezy...
 Kiko: Hmm... where is warm and cozy?
 ```
 
@@ -76,6 +78,8 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - [ ] Character scale/position inconsistent
 - [ ] Mimi looks comfortable/asleep (should be unsatisfied)
 - [ ] Strong/violent wind (should be only a gentle breeze feel)
+- [ ] Glowing round blue entrance hidden, cropped, darkened, moved, or redesigned
+- [ ] Final frame does not support Shot 04
 
 **APPROVE only if:**
 - [ ] Perfect continuity with @image1
@@ -85,8 +89,18 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - [ ] Static camera, no movement
 - [ ] Lighting consistent with @image1
 
+## Final Frame Requirement
+The final frame must leave the glowing burrow entrance clearly visible and unblocked for Shot 04. Characters must not block the round blue entrance or its warm glow. Same evening dusk lighting. Usable as @image1 for Shot 04.
+
 ## Production Notes
 - **Second failed spot:** Grass is soft but too breezy/exposed — motivates going inside
 - **No spawning:** Tree + grass were in @image1
 - **Emotional beat:** Mild disappointment, sets up Kiko's idea to go inside
 - **Setup for next shot:** Kiko's "where is warm and cozy?" leads to noticing the glowing doorway
+
+## Continuity & Safety Locks
+- **Character locks:** Kiko (scale 100, coral pink #F8BBD0), Mimi (scale 80, soft blue #90CAF9). Do not change character scale or colours.
+- **Camera lock:** Keep the same camera position as @image1 (preserve composition; no reframe wide→medium).
+- **Lighting lock:** Match the lighting and colour grading of @image1 exactly.
+- **Character presence:** Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
+- **Text safety:** No text. No subtitles. No speech bubbles. No captions.

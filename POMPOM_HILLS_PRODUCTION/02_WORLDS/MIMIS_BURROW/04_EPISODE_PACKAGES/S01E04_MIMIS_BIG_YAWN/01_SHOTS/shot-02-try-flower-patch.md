@@ -31,12 +31,23 @@ As Mimi settles into the flowers, they tickle her gently. She gives a small gigg
 
 Mimi gets up from the flower patch, looking a bit disappointed but still sleepy. Kiko watches from nearby, understanding that the flower patch didn't work. Kiko gives a gentle, sympathetic smile.
 
+The flower patch is the current action object. The round blue Mimi's Burrow entrance, warm interior glow, exactly three stepping stones, and soft tree/grass area must remain visible and unchanged because they are needed for later shots. Do not let the flower interaction crop, hide, replace, or remove the tree/grass area or the burrow entrance. The final frame must still show the burrow entrance, warm glow, three stepping stones, flower patch, and tree/grass area.
+
 The camera preserves the @image1 composition. Do not pull back, push in, pan, tilt, zoom, track, settle, drift, or reframe. Do not change from wide to medium. Characters move only within the existing visible frame. Environment remains identical to @image1 — Mimi's Burrow entrance, tree, grass area, stepping stones all in same positions.
 
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
 {camera} = stable 50mm preschool camera, preserve @image1 composition, no reframe wide-to-medium, eye-level, static, no movement
 {lighting} = soft golden evening dusk (identical to @image1), warm diffused light, no harsh shadows
 ```
+
+## Dialogue
+
+```
+Kiko: Maybe the flowers are soft.
+Mimi: Too tickly...
+```
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
 ## Negative Prompt
 
@@ -63,6 +74,8 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - [ ] Character scale/position inconsistent
 - [ ] Mimi not showing sleepy/tickled reaction
 - [ ] Kiko not showing appropriate reaction
+- [ ] Burrow entrance, warm glow, stepping stones, or tree/grass area hidden, cropped, removed, or changed during the flower patch action
+- [ ] Final frame does not support Shot 03
 
 **APPROVE only if:**
 - [ ] Perfect continuity with @image1
@@ -73,9 +86,19 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - [ ] Static camera, no movement
 - [ ] Lighting consistent with @image1
 
+## Final Frame Requirement
+The final frame must leave the soft tree / grass area AND the burrow entrance clearly visible and unblocked for Shot 03. Characters must not block the tree grass area or the entrance. Same evening dusk lighting. Usable as @image1 for Shot 03.
+
 ## Production Notes
 - **Continuity critical:** Must match @image1 exactly
 - **No new objects:** Only interact with flower patch already in @image1
 - **Character reactions:** Mimi should show tickled discomfort, Kiko sympathetic
 - **Timing:** Flower patch trial should take most of shot
 - **Transition:** Ends with Mimi getting up, ready for next spot
+
+## Continuity & Safety Locks
+- **Character locks:** Kiko (scale 100, coral pink #F8BBD0), Mimi (scale 80, soft blue #90CAF9). Do not change character scale or colours.
+- **Camera lock:** Keep the same camera position as @image1 (preserve composition; no reframe wide→medium).
+- **Lighting lock:** Match the lighting and colour grading of @image1 exactly.
+- **Character presence:** Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
+- **Text safety:** No text. No subtitles. No speech bubbles. No captions.

@@ -15,11 +15,14 @@
 - Same warm blue interior walls
 - Same soft green carpet
 - Same round blue pillow (Mimi now lying on it)
-- Same window, shelf, carrot box positions
+- Same visible interior anchors from @image1. Preserve any visible window, shelf, or carrot box exactly if present. Do not add missing anchors.
 - Same warm golden interior glow
 
+**Anchor rule:** Preserve only the interior anchors that are actually visible in @image1. If the approved Shot 05 interior master frame shows a window, preserve the window; if it shows a shelf, preserve the shelf; if it shows a carrot box, preserve the carrot box. Do not spawn missing anchors later. Do not require anchors that were not visible in @image1.
+
 ## Frame Support Check (Hard Gate — §0)
-- **Required objects:** round blue pillow, interior walls, carpet → all visible in interior @image1. ✅ seeded
+- **Required objects:** round blue pillow, interior walls, carpet, warm glow → all visible in interior @image1. ✅ seeded
+- **Optional anchors:** preserve any visible window, shelf, or carrot box from @image1; do not spawn missing ones.
 - **No new objects needed.** No camera movement. No location change.
 - **Verdict:** SAFE
 
@@ -34,7 +37,7 @@ Mimi lies down fully on her round blue pillow, curling up softly into the plush 
 
 Kiko steps close and gently helps Mimi settle — smoothing the pillow, giving a soft, caring pat. Kiko's movements are slow and tender, like tucking in a friend. Mimi's eyes grow heavier. She snuggles in, warm and safe in her own little home.
 
-Environment remains identical to @image1 — all interior objects in same positions. No camera movement.
+Environment remains identical to @image1. The round blue pillow, warm blue walls, soft green carpet, and warm interior glow remain unchanged. Preserve any visible interior anchor from @image1 exactly if present. Do not spawn missing anchors, new bedding, or blanket. No camera movement.
 
 {style} = Pompom Hills v2.1, rounded preschool toy world, pastel colors, matte clay-plush surfaces, toddler-safe emotional clarity
 {camera} = stable 50mm preschool camera, medium shot, eye-level, static, no movement
@@ -51,7 +54,7 @@ Kiko: Rest now, Mimi.
 ## Negative Prompt
 
 ```text
-door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, camera movement, pan, track, zoom, dolly, Dutch angle, fisheye, shaky, motion blur, text, logo, watermark, speech bubbles, captions, subtitles, new objects, new props, pillow not matching @image1, missing window, missing shelf, missing carrot box, environment change, lighting change, exterior scene, outside, grass, tree, character scale change, Mimi wide awake, Kiko rough movement, sharp edges, clutter, random props, metal, plastic, glass, modern objects, photorealistic, blanket spawning, complex bedding, wrong first frame, @image1 ignored, recreated scene, camera reset, camera searching, camera reframe, object spawning, late object appearance, new discovery object, background morphing, lighting drift, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime
+door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, camera movement, pan, track, zoom, dolly, Dutch angle, fisheye, shaky, motion blur, text, logo, watermark, speech bubbles, captions, subtitles, new objects, new props, pillow not matching @image1, visible window changed, visible shelf changed, visible carrot box changed, new window spawning, new shelf spawning, new carrot box spawning, environment change, lighting change, exterior scene, outside, grass, tree, character scale change, Mimi wide awake, Kiko rough movement, sharp edges, clutter, random props, metal, plastic, glass, modern objects, photorealistic, blanket spawning, complex bedding, wrong first frame, @image1 ignored, recreated scene, camera reset, camera searching, camera reframe, object spawning, late object appearance, new discovery object, background morphing, lighting drift, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime
 ```
 
 ## OpenArt Settings
@@ -65,7 +68,7 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 
 **REJECT if ANY continuity breaks:**
 - [ ] Pillow not matching @image1 position/size/color
-- [ ] Window/shelf/carrot box missing or changed
+- [ ] Any visible interior anchor from @image1 changed, moved, disappeared, or a missing anchor was newly spawned
 - [ ] Interior walls/carpet not matching @image1
 - [ ] Lighting different from @image1 (not warm interior glow)
 - [ ] Scene shows exterior/outside (must stay inside)
@@ -88,3 +91,10 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - **No spawning:** Only the seeded pillow is used — no new blanket
 - **Emotional beat:** Tenderness, care, safety
 - **Setup for final shot:** Mimi curled on pillow, nearly asleep
+
+## Continuity & Safety Locks
+- **Character locks:** Kiko (scale 100, coral pink #F8BBD0), Mimi (scale 80, soft blue #90CAF9). Do not change character scale or colours.
+- **Camera lock:** Keep the same camera position as @image1 (preserve the interior composition; no reframe).
+- **Lighting lock:** Match the lighting and colour grading of @image1 exactly (warm interior glow).
+- **Character presence:** Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.
+- **Text safety:** No text. No subtitles. No speech bubbles. No captions.

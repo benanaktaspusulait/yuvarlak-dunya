@@ -63,19 +63,19 @@ Mimi: My soft pillow...
 ## Negative Prompt
 
 ```text
-door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, fast camera, dolly zoom, whip pan, shaky, motion blur, Dutch angle, fisheye, text, logo, watermark, speech bubbles, captions, subtitles, separate rooms, large underground chamber, oversized room, adult furniture, huge furniture, entrance becomes a door, entrance not round, entrance not blue, no warm glow, empty room, missing pillow, missing window, missing shelf, missing carrot box, sharp edges, clutter, random props, metal, plastic, glass, modern objects, city objects, photorealistic, realistic dirt, camera reset, camera searching, camera reframe after settling, background morphing, lighting drift, character scale change, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime
+door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, fast camera, dolly zoom, whip pan, shaky, motion blur, Dutch angle, fisheye, text, logo, watermark, speech bubbles, captions, subtitles, separate rooms, large underground chamber, oversized room, adult furniture, huge furniture, entrance becomes a door, entrance not round, entrance not blue, no warm glow, empty room, no interior anchor visible, all interior anchors missing, missing required pillow, missing required warm blue walls, missing required green carpet, missing required warm golden glow, sharp edges, clutter, random props, metal, plastic, glass, modern objects, city objects, photorealistic, realistic dirt, camera reset, camera searching, camera reframe after settling, background morphing, lighting drift, character scale change, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime
 ```
 
 ## OpenArt Settings
 - **Aspect Ratio:** 16:9
 - **Seed:** (use consistent seed or empty)
 - **@image1:** shot-04-kiko-points-doorway final frame — exact exterior first frame continuity source
-- **@image2 (strongly recommended):** Mimi's Burrow interior canon reference (Hero View / interior still) — interior design only
+- **@image2 (REQUIRED before spending video credits on Shot 05):** Mimi's Burrow interior canon reference (Hero View / interior still) — interior design only
 
 **Reference roles (hard rule):**
 ```
 @image1 = exact exterior first frame continuity source from Shot 04.
-@image2 = Mimi's Burrow interior canon reference only, if available.
+@image2 = approved Mimi's Burrow interior canon reference only. REQUIRED before generating Shot 05.
 
 @image1 has priority for the first frame, exterior composition, entrance,
 characters, lighting and continuity.
@@ -84,7 +84,7 @@ Do not use @image2 as the first frame.
 Do not copy @image2 camera before entering.
 Do not let @image2 override @image1.
 ```
-> If no interior reference (@image2) is available, the model may invent the interior — this is the single highest spawning risk in the episode. Prepare an interior reference before generating Shot 05 whenever possible.
+> If no interior reference (@image2) is available, the model may invent the interior — this is the single highest spawning risk in the episode. Prepare and approve an interior reference (@image2) BEFORE generating Shot 05 — do not spend video credits on Shot 05 without it.
 - **Model:** (use current production model)
 - **Guidance Scale:** (standard production settings)
 
@@ -118,3 +118,10 @@ Do not let @image2 override @image1.
 - **Canonical crossing:** required by world spec; not a camera search
 - **Seed everything inside now:** no interior prop may first appear during later dialogue
 - **Save the settled interior final frame as @image1** for Shot 06
+
+## Continuity & Safety Locks
+- **Character locks:** Kiko (scale 100, coral pink #F8BBD0), Mimi (scale 80, soft blue #90CAF9). Do not change character scale or colours.
+- **Camera lock:** Start from the same camera position as @image1; the only movement is the single planned slow entrance crossing, then static.
+- **Lighting lock:** Match the lighting of @image1 for the first second (exterior dusk), then transition to the canonical warm interior glow. No night, no stars.
+- **Character presence:** Both characters are already present; do not introduce any new character after the shot has started.
+- **Text safety:** No text. No subtitles. No speech bubbles. No captions.
