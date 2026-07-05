@@ -158,6 +158,23 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Gereksiz yürüme / set içinde uzun traversal varsa risk olarak flag'lenmiş mi?
 - [ ] Negative Prompt global disappearance / occlusion / object morphing terimlerini içeriyor mu?
 
+### 11C. Pointing / Gaze / Orientation (işaret / bakış / yönelim içeren shot'lar)
+
+> Sadece pointing / showing / noticing / directing attention içeren shot'larda.
+> Ref: `00-CORE/18_OPENART_CONTINUITY_AND_MOTION_RULES.md` §17.
+
+- [ ] İşaret edilen hedef shot dosyasında açıkça tanımlı mı? (kim / ne / nerede)
+- [ ] Hedef gerekliyse frame'de gerçekten görünür mü?
+- [ ] İşaret eden el/parmak hedefe mi yöneliyor?
+- [ ] İşaret edenin gözleri ve başı da aynı hedefe mi bakıyor?
+- [ ] İşaret edenin omuzları ve gövdesi de aynı hedefe mi dönük?
+- [ ] Tepki veren karakter de aynı hedefe mi yeniden yöneliyor? (kafa, göz, gövde)
+- [ ] Final beat'te her iki karakter de net şekilde hedefe dönük mü okunuyor?
+- [ ] Karakter yanlışlıkla boşluğa / yanlış off-screen alana işaret/bakış yapmıyor mu?
+- [ ] Uyumsuz oryantasyon yok mu? (bir yöne işaret edip başka yöne bakma)
+
+> Herhangi biri "hayır" ise onaydan önce yeniden üret.
+
 ### 12. Dialogue Continuity
 
 - [ ] Diyalog talimatları çelişkili mi?

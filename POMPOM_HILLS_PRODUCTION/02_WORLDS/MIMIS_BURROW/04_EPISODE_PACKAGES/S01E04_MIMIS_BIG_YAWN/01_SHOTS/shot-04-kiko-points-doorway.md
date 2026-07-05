@@ -81,6 +81,8 @@ Kiko gestures warmly, as if to say "Your own cozy bed is right inside!" Mimi tur
 
 Mimi gives a slow, happy nod. Her ears lift slightly with relief. Both characters turn gently toward the glowing entrance, ready to go inside later. Do not move them closer to the entrance in this shot.
 
+Directional + orientation lock (pointing/gaze/body target): At the end of the shot, Kiko notices Mimi's burrow entrance and turns toward it, then points directly toward it. Kiko's arm, head, eyes, shoulders, and torso all align toward the burrow entrance. The burrow entrance remains visible in frame. Mimi follows Kiko's cue and also turns toward the burrow entrance; Mimi's head, eyes, and body reorient toward the burrow entrance as well. Both characters should clearly read as facing the home. Do not let either character point or look toward empty space, random grass, or an unrelated off-screen direction. Do not allow mismatched orientation (pointing one way while facing another).
+
 The glowing round blue entrance is the current action object and the required transition object for Shot 05. It must remain visible, unblocked, round, blue, open, and warmly glowing exactly as it appears in actual @image1. Mimi and Kiko must remain outside, facing the entrance with small gestures only. Do not let either character enter the burrow yet. The final frame must preserve the actual @image1 layout while keeping the glowing entrance visible and unblocked for Shot 05.
 
 The camera preserves the @image1 composition. Do not pull back, push in, pan, tilt, zoom, track, settle, drift, or reframe. Do not change from wide to medium. Characters move only within the existing visible frame. Environment remains identical to @image1 — all objects in same positions.
@@ -133,7 +135,7 @@ Do not let ambience become loud, dramatic, scary, windy, musical, or distracting
 ## Negative Prompt
 
 ```text
-door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, camera movement, pan, track, zoom, dolly, Dutch angle, fisheye, shaky, motion blur, text, logo, watermark, speech bubbles, captions, subtitles, new objects, new props, entrance not round, entrance not blue, no warm glow, environment change, lighting change, time change, character scale change, Mimi still unhappy, Kiko not pointing, sharp edges, clutter, random props, metal, plastic, glass, modern objects, photorealistic, characters entering the burrow yet, wrong first frame, @image1 ignored, recreated scene, camera reset, camera searching, camera reframe, object spawning, late object appearance, new discovery object, background morphing, lighting drift, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime, ending jingle, magical sound effects, sparkles, bells, musical tones, environment correction, restoring old layout, fixing composition, tree repositioning, tree moving, tree growing, flower patch growing, new flower patch, new flowers appearing, new grass mound, new stones, entrance enlarging, camera correcting composition, camera reframing to entrance, camera push-in to doorway, camera search, layout reset
+door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, camera movement, pan, track, zoom, dolly, Dutch angle, fisheye, shaky, motion blur, text, logo, watermark, speech bubbles, captions, subtitles, new objects, new props, entrance not round, entrance not blue, no warm glow, environment change, lighting change, time change, character scale change, Mimi still unhappy, Kiko not pointing, Kiko pointing at empty space, pointing at random background, mismatched gaze direction, mismatched body orientation, Mimi looking away from entrance, Mimi body facing away from entrance, Kiko torso facing away from entrance, eyes and finger pointing different directions, shoulders not facing target, ambiguous pointing, characters not reoriented toward home, sharp edges, clutter, random props, metal, plastic, glass, modern objects, photorealistic, characters entering the burrow yet, wrong first frame, @image1 ignored, recreated scene, camera reset, camera searching, camera reframe, object spawning, late object appearance, new discovery object, background morphing, lighting drift, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime, ending jingle, magical sound effects, sparkles, bells, musical tones, environment correction, restoring old layout, fixing composition, tree repositioning, tree moving, tree growing, flower patch growing, new flower patch, new flowers appearing, new grass mound, new stones, entrance enlarging, camera correcting composition, camera reframing to entrance, camera push-in to doorway, camera search, layout reset
 ```
 
 ## OpenArt Settings
@@ -159,6 +161,11 @@ door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary
 - [ ] Character scale/position inconsistent
 - [ ] Characters already inside the burrow (crossing happens in Shot 05)
 - [ ] Mimi not showing happy realization
+- [ ] Kiko's arm, eyes, head, shoulders, and torso not all aligned toward the entrance (§17)
+- [ ] Mimi does not reorient (head, eyes, body) toward the same entrance (§17)
+- [ ] Either character points/looks at empty space or wrong off-screen area (§17)
+- [ ] Mismatched orientation — pointing one way while facing/looking another (§17)
+- [ ] Both characters do not clearly read as facing the home in the final beat (§17)
 - [ ] Entrance blocked by Mimi or Kiko
 - [ ] Entrance not fully visible in final frame
 - [ ] Characters enter the burrow before Shot 05

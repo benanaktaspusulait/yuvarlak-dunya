@@ -9,7 +9,7 @@
 
 | Area | Status |
 |------|--------|
-| **Date** | 3 Temmuz 2026 |
+| **Date** | 5 Temmuz 2026 |
 | **Phase** | Phase 1 — Foundation |
 | **Season** | Season 1 |
 
@@ -91,11 +91,12 @@ Mimi'nin en çok kullanıldığı Production Ready olmayan world'ler:
 | Metric | Count |
 |--------|-------|
 | **Planned** | 26 |
-| **Produced** | 3 |
+| **Produced** | 4 |
 | **Released** | 0 |
 
 | Episode | Title | Status |
 |---------|-------|--------|
+| S01E04 | Mimi's Big Yawn | ✅ Produced |
 | S01E10 | My Turn, Your Turn | ✅ Produced |
 | S01E11 | İyi Geceler Ağaç | ✅ Produced |
 | S01E14 | Yıldızlar Ne Söyler | ✅ Produced |
@@ -170,6 +171,7 @@ Mimi'nin en çok kullanıldığı Production Ready olmayan world'ler:
 
 | Item | Status |
 |------|--------|
+| S01E04 ready to publish | ⏳ Awaiting channel creation |
 | S01E10 ready to publish | ⏳ Awaiting channel creation |
 | S01E11 ready to publish | ⏳ Awaiting channel creation |
 | S01E14 ready to publish | ⏳ Awaiting channel creation |
@@ -183,7 +185,7 @@ Mimi'nin en çok kullanıldığı Production Ready olmayan world'ler:
 | Batch | Episodes | Status |
 |-------|----------|--------|
 | Batch 1 | S01E01, S01E02, S01E03 | Not started |
-| Batch 2 | S01E04, S01E05, S01E06 | Not started |
+| Batch 2 | S01E04, S01E05, S01E06 | S01E04 produced |
 | Batch 3 | S01E07, S01E08, S01E09 | Not started |
 | Batch 4 | S01E10, S01E11, S01E12 | S01E10 + S01E11 produced |
 | Batch 5 | S01E13, S01E14, S01E15 | S01E14 produced |
@@ -296,4 +298,4 @@ Mimi'nin en çok kullanıldığı Production Ready olmayan world'ler:
 
 *This document tracks the current state of production.*
 *This document changes frequently.*
-*Last updated: 3 Temmuz 2026*
+*Last updated: 5 Temmuz 2026*

@@ -773,3 +773,136 @@ Preflight Checklist'in 20 maddesi:
 20. Shot safe / risky / not ready mu?
 
 Herhangi bir cevap güvensizse, henüz shot'ı üretme.
+---
+
+## 17. Pointing and Gaze Target Lock
+
+> **Sorun türü: direction / target ambiguity.**
+> Model karakterin bir şeyi işaret ettiğini anlıyor ama neyi işaret ettiğini net
+> bağlamıyor; diğer karakterin nereye bakacağını da serbest yorumluyor. Sonuç:
+> boşluğa işaret etme, uyumsuz bakış yönleri, okunamayan hikaye beat'i.
+>
+> Bu sorun tek başına "gesture" sorunu değil, üç şeyin birleşimidir:
+> **gesture direction + eye-line direction + target visibility.** Biri eksik
+> olduğunda model boşluğu kendi kafasına göre doldurur.
+
+### Required Target Definition
+
+Bir karakter bir şeyi işaret ettiğinde, sunduğunda, fark ettiğinde veya dikkat
+yönlendirdiğinde, hedef açıkça kilitlenmelidir. Her pointing / showing / looking
+beat'i için shot prompt'u şunları tanımlamalıdır:
+
+1. **Who initiates** — hangi karakter işaret ediyor / bakıyor / sunuyor
+2. **What the target is** — tam obje, yer, kapı, yatak, ağaç, burrow entrance vb.
+3. **Where the target is in the frame** — screen-left / screen-right / center / behind character / foreground / background
+4. **Whether the target is visible on screen** — görünürse net okunabilir olmalı; görünmüyorsa prompt bunun kasıtlı olarak off-screen olduğunu açıkça söylemeli
+
+### Alignment Requirement
+
+Bir karakter bir hedefe işaret ediyorsa, şunların hepsi aynı hedefe hizalanmalıdır:
+- pointing hand / finger direction
+- head direction
+- eye line
+- shoulder direction
+- torso / upper body orientation
+
+İkinci bir karakter bu işarete tepki veriyorsa, o karakter de aynı hedefe bakmalıdır
+(script açıkça aksini söylemedikçe).
+
+### Full-Body Orientation Toward the Target
+
+> **Sadece "points" demek yetmez; sadece gaze de yetmez.** Karakterin hedefe
+> nasıl yeniden yöneldiği (reorient) açıkça yazılmalıdır. Model niyeti anlar ama
+> blocking / staging / orientation'ı biz kilitlemezsek kolaya kaçar.
+
+Bir karakter bir hedefe işaret ettiğinde / fark ettiğinde / sunduğunda,
+orientation açık olmalıdır. Sadece gaze'e güvenme; şunları ayrı ayrı belirt:
+- torso direction
+- shoulder direction
+- head direction
+- eye line
+- arm / finger direction
+
+Hedef Mimi'nin evi / burrow entrance / doorway ise:
+- işaret eden karakter **gövdesini** eve döndürmeli
+- kafası ve gözleri de eve bakmalı
+- işaret eden kolu net şekilde evi göstermeli
+- tepki veren karakter de aynı eve dönmeli
+- her iki karakter de görünür şekilde **eve dönük** okunmalı, rastgele boşluğa değil
+
+**Example (orientation):**
+"Kiko turns her body toward Mimi's burrow entrance and points directly at it. Her
+eyes, head, shoulders, and arm all align toward the burrow entrance. Mimi also turns
+her body and head toward the burrow entrance, following Kiko's indication. Both
+characters visibly read as oriented toward the home."
+
+### Direction + Orientation Lock (kısa versiyon)
+
+```text
+Whenever a character points toward a target, the prompt must explicitly state that:
+- the target is named
+- the target is visible in frame whenever possible
+- the pointing character turns toward the target
+- the reacting character also turns toward the same target
+- hand, head, eyes, shoulders, and torso all align toward that target
+
+Do not allow mismatched orientation. Do not allow characters to point one way while
+looking another way. Do not allow the reacting character to keep facing an unrelated
+direction.
+```
+
+### No Ambiguous Pointing
+
+"Generic pointing" yasak. Karakter boşluğa, rastgele çimene, kamera yönüne veya
+alakasız background'a işaret edemez.
+
+### Visible Target Preference
+
+Mümkün olduğunda işaret edilen obje aynı frame içinde görünür kalmalı. Beat
+tanıma (recognition) üzerine kuruluysa, hedef görünür ve kompozisyon olarak net olmalı.
+
+### End-of-Shot Lock
+
+Shot bir pointing beat'i üzerinde bitiyorsa, son 1–2 saniye okunabilir yönü korumalıdır:
+- pointer hâlâ hedefe yönelik
+- hedef hâlâ net konumda
+- tepki veren karakter hâlâ hedefe bakıyor
+
+### Example
+
+**Bad:** "Kiko points toward the burrow."
+
+**Good:** "Kiko stands screen-right under the tree and points diagonally screen-left
+toward Mimi's glowing burrow entrance, which remains clearly visible in frame.
+Kiko's eyes, face, and arm all align toward the burrow entrance. Mimi turns her
+head and eyes toward the same burrow entrance."
+
+### Directional Action Rule (shot'lara koymalık kısa versiyon)
+
+```text
+Any time a character points, looks, or presents something, the exact target must be
+named and visually anchored in the frame. The prompt must explicitly state:
+- who is pointing
+- what the target is
+- where the target is on screen
+- that the pointer's hand, eyes, face, and torso all orient toward that target
+- that any reacting character also looks toward that same target
+
+Never allow vague or generic pointing. Never let characters point toward empty space
+or look in mismatched directions. Prefer keeping the target visible in the same frame.
+```
+
+### Micro-sentence pattern (prompt içine)
+
+```text
+At the end of the shot, [Character A] notices [named target] and turns toward it,
+then points directly at it. [Character A]'s arm, head, eyes, shoulders, and torso
+all align toward the [target]. The [target] remains visible in frame. [Character B]
+follows the cue and also turns toward the same [target]; [Character B]'s head, eyes,
+and body reorient toward the [target] as well. Both characters clearly read as facing
+the [target]. Do not let either character point or look toward empty space or an
+unrelated off-screen direction.
+```
+
+> Bkz. QA: `00-CORE/MASTER_QA_CHECKLIST.md` ve `00-CORE/SCENE_QA_CHECKLIST.md`
+> "Pointing / Gaze Direction" kontrolü.

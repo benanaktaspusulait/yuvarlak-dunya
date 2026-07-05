@@ -177,6 +177,27 @@ Reference: world's Video Generation Rules section
 
 ---
 
+## 8B. Pointing, Gaze and Orientation Toward Target
+
+> For every shot that includes pointing, showing, noticing, or directing attention.
+> Ref: `00-CORE/18_OPENART_CONTINUITY_AND_MOTION_RULES.md` §17.
+
+```
+✓ Is the intended target clearly defined in the shot document?
+✓ Is the target actually visible in frame, if visibility is required?
+✓ Does the pointing hand/finger aim toward that target?
+✓ Do the pointer's eyes and head also face the same target?
+✓ Do the pointer's shoulders and torso also face the same target?
+✓ Does the reacting character also reorient (head, eyes, body) toward the same target?
+✓ In the final beat, do both characters clearly read as facing the target?
+✓ Is neither character pointing/looking at empty space or a wrong off-screen area?
+✓ No mismatched orientation (pointing one way while looking/facing another)?
+```
+
+If any answer is no, regenerate before approval.
+
+---
+
 ## 9. Continuity Between Shots
 
 ```
@@ -266,20 +287,20 @@ Reference: `00-CORE/AUDIO_GUIDE.md`, world's Environmental Sound Identity sectio
 
 ## Sign-Off
 
-| Layer | Checked By | Date | Pass / Fail |
-|-------|-----------|------|:-----------:|
-| World Identity | | | |
-| Character Identity | | | |
-| Colour Identity | | | |
-| Lighting Identity | | | |
-| Camera Identity | | | |
-| Voice Identity | | | |
-| Dialogue | | | |
-| Animation | | | |
-| Continuity | | | |
-| Child Safety | | | |
-| Audio Mix | | | |
-| World Recognition | | | |
+| Layer              | Checked By | Date | Pass / Fail |
+|--------------------|------------|------|:-----------:|
+| World Identity     |            |      |             |
+| Character Identity |            |      |             |
+| Colour Identity    |            |      |             |
+| Lighting Identity  |            |      |             |
+| Camera Identity    |            |      |             |
+| Voice Identity     |            |      |             |
+| Dialogue           |            |      |             |
+| Animation          |            |      |             |
+| Continuity         |            |      |             |
+| Child Safety       |            |      |             |
+| Audio Mix          |            |      |             |
+| World Recognition  |            |      |             |
 
 **All layers must pass before publish.**
 

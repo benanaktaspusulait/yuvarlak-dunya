@@ -106,6 +106,13 @@
 **Çözüm:** Yeni hard gate eklendi — master setup frame'de her gelecek aksiyon objesi sadece görünür değil, kullanılabilir bir interaction zone olarak sahnelenmeli (yakın + usable + aksiyona uygun). Uzak/küçük/dekoratif/ulaşılamaz obje = master frame NOT READY, first-frame still yeniden üretilir.
 **Global kural:** Master Frame Action Layout Gate — "Visible is not enough. The object must be placed for action."
 
+### Failure: Pointing / gaze direction ambiguity (direction / target ambiguity)
+**Tarih:** 2026-07-05
+**Gözlem:** S01E04 Shot 04'te Kiko'nun burrow entrance'ı işaret etmesi zayıf/belirsiz okundu. Model "işaret etme" aksiyonunu anladı ama neyi işaret ettiğini net bağlamadı; tepki veren karakterin bakış yönünü de serbest yorumladı.
+**Sebep:** Bu tek başına gesture sorunu değil, üç şeyin birleşimi: **gesture direction + eye-line direction + target visibility.** Prompt hedefi (kim/ne/nerede/görünür mü) ve el+göz+baş+gövde hizasını açıkça kilitlemiyordu; "Kiko points toward the burrow" gibi generic pointing modele boşluğu kendi kafasına göre doldurma izni verdi.
+**Çözüm:** Yeni global rule — pointing/showing/looking beat'lerinde hedef açıkça tanımlanmalı (initiator, target, frame konumu, görünürlük), ve pointing hand + eyes + head + shoulders + torso + tepki veren karakterin tam gövde yönelimi aynı hedefe hizalanmalı. Sadece gaze yetmez; her iki karakter de görünür şekilde hedefe "reorient" olmalı. Generic/boşluğa işaret ve uyumsuz oryantasyon (bir yöne işaret edip başka yöne bakma) yasak. Hedef mümkünse aynı frame'de görünür kalmalı. Shot pointing beat'i üzerinde bitiyorsa son 1–2 saniye her iki karakterin de hedefe dönük okunmasını korumalı.
+**Global kural:** Pointing and Gaze Target Lock + Full-Body Orientation Toward the Target (Direction + Orientation Lock) + QA: Pointing / Gaze / Orientation Check.
+
 ---
 
 ## Global Kural Güncellemeleri
@@ -134,6 +141,7 @@
 | 2026-07-05 | Master Setup Frame — Countable Object Visibility Rule (3 taş tam görünür/kesilmemiş) | S01E04 shot-01-mimi-yawns.md |
 | 2026-07-05 | Master Setup Frame — Landmark & Path Unblocked Rule (Mimi entrance/yol bloklamıyor) | S01E04 shot-01-mimi-yawns.md |
 | 2026-07-05 | Master Frame Action Layout Gate (§0.1) — obje presence değil staging kontrolü | 19_VIDEO_PRODUCTION_PREFLIGHT_SYSTEM.md, SCENE_QA_CHECKLIST.md |
+| 2026-07-05 | Pointing and Gaze Target Lock (§17) + QA Pointing/Gaze Direction Check | 18_OPENART_CONTINUITY_AND_MOTION_RULES.md, MASTER_QA_CHECKLIST.md, SCENE_QA_CHECKLIST.md |
 
 
 ## S01E04 Production — Rule Language vs Action Contradiction

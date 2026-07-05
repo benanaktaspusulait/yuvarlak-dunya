@@ -37,7 +37,7 @@ Her karakter için potansiyel bölüm kombinasyonlarını listeler.
 
 | Bölüm | Mekan | Konu | Durum |
 |-------|-------|------|-------|
-| S01E04 | Farklı mekanlar | Uykululuk | 🟡 Yazıldı |
+| S01E04 | Mimi's Burrow | Uykululuk | 🟢 Üretildi |
 
 **Toplam:** 1 bölüm
 

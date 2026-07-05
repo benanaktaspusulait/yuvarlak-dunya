@@ -10,7 +10,7 @@
 | S01E02-A | Kiko's Home Tour          | Kiko                             | Kiko's Home (Front Garden → Interior)                                             | 🟢 Üretildi | 4 kısa sahne: 0-4 / 4-14 / 14-22 / 22-24 sn         |
 | S01E02-B | Bounce, Bounce, Kiko!     | Kiko, Mimi, Opa                  | Flower Hill — Home Cluster Zone → Kiko's Home → Butterfly Meadow → Central Square | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
 | S01E03   | The Little Flower         | Kiko, Mimi, Opa                  | Tillo's Garden                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E04   | Mimi's Big Yawn           | Kiko, Mimi                       | Mimi's Burrow — exterior entrance area                                           | 🔄 Revize Edildi | 5 sahne × 15 sn = 75 sn (güvenli versiyon)          |
+| S01E04   | Mimi's Big Yawn           | Kiko, Mimi                       | Mimi's Burrow (Exterior → Interior)                                              | 🟢 Üretildi | 8 sahne × 15 sn = 120 sn                            |
 | S01E05   | Colours Everywhere        | Kiko, Mimi                       | Central Square                                                                    | 🟢 Üretildi | 4 sahne × 15 sn = 60 sn + 4 sn micro-opening        |
 | S01E06   | The Soft Wind             | Kiko, Mimi                       | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
 | S01E07   | The Round Stone           | Luca, Kiko                       | Stone Hill                                                                        | 🟢 Üretildi | 6 sahne × 15 sn = 90 sn + 4 sn micro-opening        |
@@ -71,7 +71,7 @@
 | Sezon hedefi         | 26 bölüm                            |
 | Takip satırı         | 27 (S01E02-A/B ayrı takip ediliyor) |
 | Sahne paketi yazılan | 27/27 takip satırı (%100)           |
-| Üretilen             | 5/27 takip satırı (%18.5)           |
+| Üretilen             | 6/27 takip satırı (%22.2)           |
 | Yayınlanan           | 0/27 takip satırı (%0)              |
 | Henüz planlanmayan   | 0                                   |
 
@@ -91,6 +91,9 @@
   Tracker'da sahne aralıkları yazıldı; bu package içi süre çelişkisi ayrıca temizlenmeli.
 - S01E02-A, Kiko's Home package overview içinde `Production Status: 🟢 Üretildi` olarak işaretli.
   Klasör adı `S01E02B_KIKOS_HOME_TOUR` olsa da tracker'da mevcut A/B ayrımı korundu.
+- S01E04 için `POMPOM_HILLS_PRODUCTION/02_WORLDS/MIMIS_BURROW/04_EPISODE_PACKAGES/S01E04_MIMIS_BIG_YAWN/OUTPUT/S01E04_MIMIS_BIG_YAWN_FULL.mp4`
+  (birleştirilmiş bölüm) ve `shot-1.mp4` … `shot-8.mp4` shot exportları mevcut. Bölüm Flower Hill'den
+  Mimi's Burrow'a taşındı ve 8 shot (Exterior → Interior) güvenli versiyona yeniden yapılandırıldı.
 - S01E05 için `S01E05-colours-everywhere-full.mp4`, S01E07 için combined video + shorts,
   S01E14 için `s01e14-final.mp4` ve shorts exportları mevcut.
 - S01E11, mevcut tracker ve production dokümanlarında `Üretildi` olarak geçtiği için bu statüde
@@ -136,7 +139,8 @@
 | Little Forest    | 4            | S01E06, S01E12, S01E16, S01E19                           |
 | Opa's Tree       | 3            | S01E09, S01E11, S01E14                                   |
 | Butterfly Meadow | 2            | S01E02-B, S01E15                                         |
-| Flower Hill      | 2            | S01E02-B, S01E04                                         |
+| Flower Hill      | 1            | S01E02-B                                                 |
+| Mimi's Burrow    | 1            | S01E04                                                   |
 | Kiko's Home      | 2            | S01E02-A, S01E02-B                                       |
 | Stone Hill       | 2            | S01E07, S01E21                                           |
 | Tillo's Garden   | 2            | S01E03, S01E18                                           |
