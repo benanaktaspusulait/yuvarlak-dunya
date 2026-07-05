@@ -25,6 +25,105 @@ Bu sistem bu sorunları üretimden önce engeller.
 
 ---
 
+## 0. HARD PREFLIGHT GATE: FRAME-SUPPORTED ACTION ONLY
+
+> **Bu bir zorunlu geçittir. Kurallar metin olarak yeterli değildir.**
+> Bir shot sadece "doğru kelimeler içeriyor" diye geçemez.
+> @image1 frame'i gerçekten aksiyonu desteklemelidir.
+
+### Temel Kural
+
+Bir shot preflight'tan geçemez sadece şunları içeriyor diye:
+- "background lock" metni
+- "no new objects" metni
+- "no object spawning" metni
+- "continuity hold" metni
+
+Bu kurallar SADECE @image1 gerçekten aksiyonu destekliyorsa geçerlidir.
+
+### Doğrulama Süreci
+
+Her shot için şu adımlar ZORUNLUDUR:
+
+**1. Gerekli Objeleri Listele**
+Her shot'ta kullanılan tüm story-relevant objeleri, prop'ları, landmark'ları, location feature'ları ve action target'ları listele.
+
+Örnekler:
+- bench (Mimi tries to lie on it)
+- flower patch (Mimi lies on flowers)
+- stream (they walk toward a stream)
+- big tree (they find a big tree)
+- leaf blanket (Kiko picks a large leaf)
+- stars (soft stars appear in final beat)
+- pillow, carrot box, stepping stones, doorway, path, sleeping spot
+
+**2. Her Obje İçin Cevapla**
+Her obje için şu soruları cevapla:
+
+| Soru | Gereken Cevap |
+|------|---------------|
+| @image1'de görünür mü? | EVET veya daha önce tohumlanmış |
+| Net şekilde lokalize edilmiş mi? | EVET |
+| Karakter etkileşime geçebilir mi? | EVET, kamera araması olmadan |
+| Model bunu icat etmek zorunda mı? | HAYIR |
+
+**3. Sonuç**
+
+Herhangi bir gerekli obje için:
+- @image1'de görünür DEĞİLSE
+- VE daha önce onaylı bir setup shot'tunda tohumlanmamışsa
+
+**SHOT OTOMATİK OLARAK PREFLIGHT'TA BAŞARISIZ OLUR.**
+
+### Başarısızlık Durumunda Yapılacaklar
+
+Bu durumu düzeltmek için:
+1. Shot'ı yeniden yaz - sadece görünen objeleri kullan
+2. VEYA daha önceki setup shot'ını revize et - objeyi tohumla
+3. VEYA Shot 01 master setup frame'e objeyi ekle
+
+Yapılmaması gerekenler:
+- ❌ Sadece negative prompt ekle
+- ❌ OpenArt'ın doğru icat edeceğini um
+- ❌ Objenin dialogue sırasında görünmesine izin ver
+- ❌ "Model muhtemelen doğru yapar" diye düşün
+
+### Örnekler
+
+**GEÇERSİZ:**
+```
+@image1 shows Mimi and Kiko in a grassy area.
+Shot asks them to walk to a stream.
+The stream is not visible or seeded.
+→ FAIL PREFLIGHT
+```
+
+**GEÇERSİZ:**
+```
+@image1 shows a path and flowers.
+Shot asks Kiko to pick a large leaf blanket.
+The large leaf is not visible.
+→ FAIL PREFLIGHT
+```
+
+**GEÇERSİZ:**
+```
+@image1 shows dusk sky with no stars.
+Shot asks soft stars to appear in the final beat.
+Stars were not seeded.
+→ FAIL PREFLIGHT (unless explicit planned gradual sky transition)
+```
+
+**GEÇERLİ:**
+```
+@image1 shows Mimi, Kiko, burrow entrance, flowers, path stones,
+and a visible soft leaf near the grass.
+Shot asks Kiko to use the visible leaf as a blanket.
+→ PASS if camera does not move to search for it.
+```
+
+---
+
 ## 1. Prompt + Frame Must Be Checked Together
 
 Bir shot prompt'u sadece metinle onaylanamaz.
