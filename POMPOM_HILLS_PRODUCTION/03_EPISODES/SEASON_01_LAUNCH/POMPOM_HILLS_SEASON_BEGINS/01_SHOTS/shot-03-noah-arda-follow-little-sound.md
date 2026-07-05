@@ -1,14 +1,15 @@
-# Season Begins — Shot 05 — Kiko, Noah & Arda: Play Together
+# Season Begins — Shot 03 — Noah & Arda: Follow the Little Sound
 
 ## Scene Context
-| Alan | Değer |
-| --- | --- |
-| Video | Pompom Hills — The Season Begins |
-| Shot | 05 / 06 |
-| Duration | 15 seconds |
-| Location | Central Square |
-| Characters | **Kiko + Noah + Arda** |
-| Time of Day | Warm morning |
+
+- **Video:** Pompom Hills — The Season Begins
+- **Shot:** 03 / 06
+- **Duration:** 15 seconds
+- **Location:** Central Square
+- **Characters:** Noah + Arda
+- **Time of Day:** Warm morning
+
+Noah and Arda stand together in Central Square. Noah notices a tiny friendly sound somewhere off-screen and listens carefully. Arda reacts with cheerful curiosity. Together they invite the viewer to come along and see what they heard. No object or character causing the sound is shown. The focus is curiosity, friendship, and invitation.
 
 ## OpenArt vs Edit Instruction Boundary
 
@@ -38,86 +39,93 @@ Transitions between worlds are handled later in editing, not inside OpenArt.
 ## Location Lock Summary
 Location is Central Square only.
 Approved visible environment: Big Pompom Tree, rounded paths, pastel houses only if already part of the world reference.
-No playroom, no meadow, no new game area, no prop-based set.
+No playroom, no classroom, no building area, no toy room, no new path, no new location, no prop-based set.
 
-## Trio Character Rule
-This shot contains **three characters: Kiko, Noah, and Arda**. They appear together in
-Central Square. Independent generation (Central Square ref + Kiko ref + Noah ref + Arda ref).
-This is the energy peak before the calm finale — the three most active characters together.
+## Duo Character Rule
+This shot contains **two characters: Noah and Arda**. They appear together in Central Square.
+Independent generation (Central Square ref + Noah ref + Arda ref).
 Independent generation means this shot does not inherit characters, props, camera movement, or background objects from any previous shot. It must obey only this shot document and its assigned references.
 
 ## Background Object Lock
-Central Square locked: Big Pompom Tree, paths, houses stable. The three characters move
-together in the open space. No other characters, no new objects.
+Central Square locked: Big Pompom Tree, rounded paths, pastel houses stay stable in identity, position and scale.
+Only Noah and Arda move subtly.
+No other characters, no new objects, no props, no toys, no blocks.
+The sound source is not shown and must not appear later.
 
 ## No Surprise Elements Rule
 
 No surprise elements may appear at any point in this shot.
 
-The character list is locked from the first frame. Only Kiko, Noah, and Arda may appear. No extra character, background character, crowd member, animal, toy creature, duplicate character, partial character, shadow character, silhouette character, reflection character, or off-screen entering character may appear.
+The character list is locked from the first frame. Only Noah and Arda may appear. No extra character, background character, crowd member, animal, toy creature, duplicate character, partial character, shadow character, silhouette character, reflection character, or off-screen entering character may appear.
 
-The object list is locked from the first frame. This shot is prop-free — only the approved Central Square environment may appear. Do not introduce new props, new toys, blocks, new signs, new flowers, new furniture, new stones, new houses, new paths, new decorations, new lights, new clouds, new doors, new windows, or any new background detail during the shot.
+The object list is locked from the first frame. Only the approved Central Square environment listed in this shot may appear. Do not introduce new props, new toys, new signs, new flowers, new furniture, new stones, new houses, new paths, new decorations, new lights, new clouds, new doors, new windows, or any new background detail during the shot.
 
 If an object or character is not visible or clearly established in the first frame, it must not appear later.
 
 The camera must not pan, zoom, pull back, tilt, orbit, or reframe in order to reveal new objects or characters. The shot must adapt to the first frame layout.
 
+The sound must remain off-screen and unseen.
+Do not introduce a source for the sound later.
+Do not reveal a prop, creature, or character causing the sound.
+
 ## Approved Characters and Props
 
 ### Approved characters
-- Kiko
 - Noah
 - Arda
 
 ### Forbidden characters
-- Mimi, Luca, Opa
+- Kiko
+- Mimi
+- Luca
+- Opa
 - any unnamed extra character
 - any background crowd
-- any duplicate version of Kiko, Noah, or Arda
+- any duplicate version of Noah or Arda
 
 ### Approved props
-- None — this shot is prop-free (a clean trio friendship beat)
-- Central Square environment: Big Pompom Tree, rounded paths
+- None — this shot is prop-free
+- Central Square environment only: Big Pompom Tree, rounded paths, pastel houses only if already part of the world reference
 
 ### Forbidden props
-- any blocks, toys, or new objects
+- any blocks, toys, tools, food, furniture, sound-making object, or new object
 - any sign, written text, logo, caption, speech bubble, subtitle, or watermark
 - any object that was not listed as approved for this shot
 
 ## Visual Prompt
 ```text
-Use Central Square (world reference) as the LOCKED environment. Insert Kiko (character reference), Noah (character reference), and Arda (character reference) together. Medium-wide shot, warm morning light, Big Pompom Tree behind. The three friends stand together in a natural group — Kiko near center, Noah to one side, Arda slightly in front. They look happy and playful, looking toward the viewer with warm smiles. Kiko waves, Noah gives a friendly gesture, Arda makes a tiny happy in-place body bob without changing position. All three characters present. Handcrafted preschool toy-set look, {style} {camera} {lighting}
+Use Central Square (world reference) as the LOCKED environment. Insert Noah (character reference) and Arda (character reference) together. Medium shot, warm morning light, Big Pompom Tree softly behind. Noah stands calmly beside Arda with a thoughtful friendly expression. Noah gently tilts his head as if hearing a tiny friendly sound from somewhere off-screen, then looks toward the viewer with a soft inviting smile. Arda stands beside Noah, cheerful and playful, reacting with excited curiosity, giving a small happy wave and one tiny in-place happy body bob without changing position. Both characters are present from the first frame. No props are used. No blocks, toys, signs, animals, or extra objects appear. The sound source is never shown. No new character appears later. No new object appears later. Handcrafted preschool toy-set look, {style} {camera} {lighting}
 
-No props are used in this shot. The focus is only on the three friends together. No blocks, toys, signs, animals, or extra objects appear. No fourth character appears later.
+Only Noah and Arda are present. The focus is curiosity, friendship, and inviting the viewer to come along.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 Central Square background locked; keep trees, paths and landmarks stable.
 ```
 
 ## Camera Direction
-Medium-wide, eye-level, locked composition. No pan, no zoom, no pull-back, no push-in, no tilt, no orbit, no reframe, no camera reveal. Frame all three characters in a natural, readable group composition from the first frame.
+Medium, eye-level, locked composition. No pan, no zoom, no pull-back, no push-in, no tilt, no orbit, no reframe, no camera reveal. Frame Noah and Arda comfortably from the first frame. The camera does not search for the sound source.
 
 ## Dialogue
 ```
-Kiko: We're all here!
-Noah: Come join us.
-Arda: Let's play!
+Noah: Did you hear that?
+Arda: Let's go see!
 ```
 
 ## Shot Breakdown
 | Time | Action | Camera |
 |---|---|---|
-| 0-2 sn | Central Square, three friends together | Medium-wide |
-| 2-5 sn | Kiko waves, Noah gestures, Arda tiny in-place body bob | Medium-wide |
-| 5-8 sn | All three look to viewer with warm smiles | Medium-wide |
-| 8-12 sn | Kiko: "We're all here!" / Noah: "Come join us." / Arda: "Let's play!" | Medium-wide |
-| 12-15 sn | Happy group pose, natural blinks, warm energy. Final 0.5s: calm still hold. | Medium-wide |
+| 0-2 sn | Central Square, Noah and Arda already together | Medium |
+| 2-5 sn | Noah gently tilts his head as if hearing a tiny off-screen sound | Medium |
+| 5-8 sn | Arda reacts with cheerful curiosity and a small wave | Medium |
+| 8-12 sn | Noah: "Did you hear that?" / Arda: "Let's go see!" | Medium |
+| 12-15 sn | Both smile warmly; Noah gives a thoughtful nod; Arda makes one tiny in-place happy body bob without changing position. Final 0.5s: calm still hold. | Medium |
 
 ## Natural Character Motion Rule
-Calm but alive: Kiko gives a small wave, Noah gives a gentle friendly gesture, Arda makes a tiny happy in-place body bob, and all three blink and smile. Energetic but soft — no walking, no running, no jumping, no crossing, no large gestures, no repositioning. The three should feel naturally together, not stiffly lined up.
+Calm but alive: Noah gently tilts his head, gives a soft inviting look, and a thoughtful nod. Arda gives a small wave and one tiny in-place happy body bob without changing position. Curious but soft — no walking, no running, no jumping, no hopping, no repositioning, no crossing, no sudden motion. Both blink naturally.
 
 ## Sound
-- Birds chirping, soft breeze, gentle laughter feel
+- Birds chirping, gentle breeze, soft outdoor ambience
+- A very soft tiny off-screen friendly sound is implied by the characters' reactions, but the source is never shown
 - Natural ambience only. No music. No background music.
 
 ## Lighting
@@ -125,7 +133,7 @@ Warm morning sunlight, soft ambient.
 
 ## Reference Usage
 - World Reference: Central Square (`POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/`)
-- Character Reference: Kiko sheet, Noah sheet, Arda sheet.
+- Character Reference: Noah sheet, Arda sheet.
 
 ## Reference Role Rule
 Reference images have separate jobs and must not be mixed.
@@ -140,7 +148,7 @@ Reference images have separate jobs and must not be mixed.
 
 ## Negative Prompt
 ```text
-multiple characters beyond three, group crowd, Mimi, Luca, Opa, fourth character, extra character, crowd, extra prop, blocks, toys, animal, surprise object, character entering later, stiff lineup, duplicate Kiko, duplicate Noah, duplicate Arda, low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, harsh shadows, violence, weapons, sharp objects, redesigned character, wrong scale, character drift, redesigned environment, cluttered background, frozen characters, background music, music, melody, song, soundtrack, musical bed, surprise character, surprise prop, character appearing later, duplicate character, duplicate body, partial character, shadow character, reflection character, extra animal, toy creature, new object, new prop, object appearing later, object entering later, camera revealing new object, camera revealing new character, walking, running, jumping, repositioning, crossing, large gestures, camera reveal
+multiple characters, three characters, group, crowd, Kiko, Mimi, Luca, Opa, blocks, building blocks, toys, tools, furniture, food, extra prop, sound source visible, surprise character, character entering later, background crowd, low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, harsh shadows, violence, weapons, sharp objects, redesigned character, wrong scale, character drift, redesigned environment, cluttered background, background music, music, melody, song, soundtrack, musical bed, surprise object, surprise prop, character appearing later, duplicate character, duplicate Noah, duplicate Arda, duplicate body, partial character, shadow character, reflection character, extra animal, toy creature, new object, new prop, object appearing later, object entering later, camera revealing new object, camera revealing new character, jumping, hopping, walking, running, repositioning, crossing, character displacement, bouncing away
 ```
 
 ## First-Frame Generation Gate
@@ -208,11 +216,11 @@ This allows a soft 0.4–0.6 second transition in editing.
 
 ## Post-Production Transition Note
 
-This shot ends in Central Square and transitions to Shot 06, also in Central Square.
+This shot ends in Central Square and transitions to Shot 04 at Opa's Tree.
 
 Recommended edit transition after this shot:
-- very soft crossfade
-- 0.3–0.5 seconds
+- warm cream dip
+- 0.4–0.6 seconds
 - no text
 - no logo
 - no sparkle
@@ -220,11 +228,9 @@ Recommended edit transition after this shot:
 - no wipe
 - no camera zoom
 
-Because Shot 05 and Shot 06 are both in Central Square, do not use a dramatic transition.
-The transition should feel like the friends naturally gather into the final tableau.
-
 Audio:
-- gently crossfade Central Square ambience into the final full-cast Central Square ambience
+- gently crossfade Central Square outdoor ambience into Opa's Tree outdoor ambience
+- the tiny off-screen sound must not continue into Shot 04 unless added intentionally in edit
 - no music
 - no chime
 - no whoosh
@@ -236,19 +242,19 @@ Do not ask OpenArt to generate the transition.
 Do not include transition wording inside the OpenArt Visual Prompt.
 
 ## QA Checklist
-- [ ] **Exactly THREE characters (Kiko + Noah + Arda) in frame — no others**
-- [ ] Kiko identity/scale correct (100 units)
+- [ ] Exactly TWO characters (Noah + Arda) in frame — no others
 - [ ] Noah identity/scale correct (100 units)
 - [ ] Arda identity/scale correct (~85 units, slightly smaller/younger)
-- [ ] All three readable and properly positioned in natural group
 - [ ] Central Square environment stable, warm morning light
-- [ ] Playful "friends together" energy reads to viewer
+- [ ] No blocks, toys, props, signs, animals, or new objects appear
+- [ ] The sound source is not shown at any time
+- [ ] Prop-free Noah + Arda curiosity / invitation beat reads clearly
 - [ ] No on-screen text; no music
-- [ ] Calm but alive; natural group dynamic
-- [ ] Approved character count is correct from the first frame (exactly three)
+- [ ] Calm but alive; natural interaction between the two
+- [ ] Approved character count is correct from the first frame
 - [ ] No extra character appears at any time
 - [ ] No duplicate character appears at any time
-- [ ] No surprise prop/object appears at any time (shot is prop-free)
+- [ ] No surprise prop/object appears at any time
 - [ ] No object appears later that was not visible or approved in the first frame
 - [ ] Camera does not reveal new characters or objects
 - [ ] Background remains locked and stable
@@ -272,7 +278,9 @@ Do not include transition wording inside the OpenArt Visual Prompt.
 - [ ] The shot can be generated without relying on later fixes
 
 ## Scale
-Kiko = 100 units. Noah = 100 units. Arda = 85 units (younger, slightly smaller) (`00-CORE/VARIABLES.md`).
+Noah = 100 units
+Arda = 85 units
+No props are used in this shot.
 
 ## Scale Lock Summary
 Character scale must follow the approved Pompom Hills scale system.
@@ -284,7 +292,7 @@ Character scale must follow the approved Pompom Hills scale system.
 - Luca = 100 units
 - Opa = 120 units, low-staged so he does not dominate the frame
 
-Only Kiko, Noah, and Arda appear in this shot.
+Only Noah and Arda appear in this shot.
 
 Do not enlarge a character to fill the frame.
 Do not shrink a character because there are multiple characters.

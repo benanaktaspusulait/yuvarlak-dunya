@@ -8470,40 +8470,124 @@ soundtrack, exaggerated delight, over-the-top reaction, food critic pose
 
 #### BLD-EP16 — Shot 08 — Warm Closing (Lesson)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP16 — Careful, It's Hot! |
+| Shot | 08 / 08 |
+| Duration | 12 seconds |
 | Location | Kiko's Home — Kitchen Nook / low round table |
 | Characters | Kiko, Opa |
 | Time of Day | Warm Daytime |
-| Object Lock | One rounded soup bowl/cup; steam gone, warm not hot |
+| Spine step | LESSON |
 
-**Opening hook:** Kiko ve Opa kaseden uzak durur; ikisi de sıcak gülümser. Kiko sıcak bir
-şeye dokunmayı öğrenmedi ama dokunmamayı ve sabırla beklemeyi öğrendi.
+## Purpose
 
-**Dialogue**
+The warm closing shot: Kiko and Opa share a warm smile as the lesson is sealed. Kiko repeats
+"Hot! We don't touch" one final time — not as a rule being enforced, but as a discovery she's
+proud of. The closing is warm, complete, and gentle.
+
+## Opening Hook
+
+First 2–3 seconds: Kiko and Opa sit together near the now-safe soup bowl. Both have warm, relaxed
+smiles. The moment is quiet and complete — the lesson has been learned through experience, not
+through lecture.
+
+## Continuity
+
+Direct continuation from Shot 07. Kiko has just tasted the warm soup and said "Mmm, warm!" Now
+the episode closes with the repeated phrase and a warm goodbye. Background remains locked from
+Shot 01: Kitchen Nook, low round table, no steam.
+
+## Environment Anchors
+
+- Same Kiko's Home Kitchen Nook; low round table remains as anchor.
+- The rounded soup bowl sits on the table — steam-free, warm and safe.
+- Kiko and Opa share a warm, relaxed moment.
+- No stove, no kettle, no fire visible. No new props, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–07. Background locked from first frame. Only Kiko and Opa move. The low
+round table, rounded furniture, and warm daytime light remain stable.
+
+## Visual Prompt
+
+```text
+Kiko's Home Kitchen Nook, warm daytime. The low round table holds a single rounded soup bowl —
+steam-free, warm and safe. Kiko (coral pink shirt, brown pigtails) and Opa (warm green, soft
+bird-like elder) sit together, sharing a warm, relaxed smile. Kiko looks at the bowl, then at
+Opa, and says with quiet pride: "Hot! We don't touch." Opa nods warmly: "That's right." Both
+smile — a gentle, complete closing moment. Soft pastel colours, warm light, rounded safe kitchen
+shapes, no stove, no kettle, no fire, no other characters, {style} {camera} {lighting}
+
+The Kiko's Home Kitchen Nook background is locked from the first frame; keep the low round table,
+rounded furniture and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium two-shot at child eye level, both characters centered in frame. Camera holds steady for
+the final moment. A very gentle, almost imperceptible pull-back to show the full warm scene. The
+shot fades to soft warmth at the end.
+
+## Dialogue
 
 ```text
 Kiko: Hot! We don't touch.
+
 Opa: That's right.
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Kiko kaseye bakar; sonra Opa'ya döner | Medium two-shot |
-| 3-6 sec | Kiko: "Hot! We don't touch." | Close-up on Kiko |
-| 6-9 sec | Opa gülümser: "That's right." | Close-up on Opa |
-| 9-12 sec | İkisi birlikte gülümser; sahne sıcakça tutulur | Medium hold, gentle fade |
+| 0-3 sec | Kiko and Opa sit together; warm relaxed smiles | Medium two-shot |
+| 3-6 sec | Kiko: "Hot! We don't touch." — quiet pride | Medium hold |
+| 6-9 sec | Opa nods warmly: "That's right." | Close-up on Opa |
+| 9-12 sec | Both smile; scene holds for a soft gentle fade | Gentle pull-back |
 
-**Sound:** Sıcak, samimi ses tonları — Kiko'nun cümleciği sakin ve içten. Opa'nın
-onaylaması sıcak. Sessiz bir kapanış hissi.
+## Sound
 
-**Emotion:** Sıcak kapanış — "Hot! We don't touch." Bu bir kural değil, bir deneyim:
-Kiko sıcak bir şeyin ne anlama geldiğini ve nasıl güvenli olunacağını deneyimledi.
+Soft, warm voice tones — Kiko's phrase is calm and sincere, delivered from experience. Opa's
+confirmation is warm and gentle. A quiet, complete closing feeling. No music, no outro sting.
+Natural home ambience carries to the end.
 
-**Negative anchors:** no moralizing, no lecture, no adult voice-over, no on-screen text,
-no dramatic music, no lesson-on-screen, no exaggerated wave, no preachy tone.
+## Emotion
+
+Warm closure. The shared experience, the shared learning, the shared smile — everything reinforces
+that safety was learned through patience and care, not through fear. The lesson is complete, and
+the feeling is one of gentle accomplishment.
+
+## Safe-Exposure Notes
+
+No moralizing, no lecture, no adult voice-over, no on-screen text, no dramatic music, no
+lesson-on-screen, no exaggerated wave, no preachy tone. The repeated phrase is delivered as a
+proud discovery, not a rule being enforced. The closing is warm and complete.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, moralizing, lecture, adult voice-over, on-screen text, dramatic music,
+lesson-on-screen, exaggerated wave, preachy tone, heavy steam, visible heat waves, stove, fire,
+kettle, boiling water, crowded kitchen, extra characters, cinematic LUT, blue tint, green tint,
+orange shift, HDR look, fast movement, sudden camera motion, static talking pose, characters
+frozen, background music, music, melody, song, soundtrack, dramatic fade, exaggerated pride,
+smug expression, I-told-you-so face
+
+## QA Checklist
+
+- [ ] Kiko + Opa identity preserved; final expressions warm and relaxed.
+- [ ] Kiko's Home Kitchen Nook identity preserved: low round table, rounded furniture, warm light.
+- [ ] The soup bowl is steam-free; continuity from Shot 07.
+- [ ] "Hot! We don't touch" delivered as proud discovery, not lecture.
+- [ ] Opa's "That's right" reads warm and confirming; not smug, not "I told you so."
+- [ ] The closing feels warm and complete — no loose ends.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 ---
 
@@ -9548,282 +9632,959 @@ pose, characters frozen, background music, music, melody, song, soundtrack
 
 #### BLD-EP18 — Shot 01 — A New Friend Nearby (Problem)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP18 — Hello, New Friend |
+| Shot | 01 / 08 |
+| Duration | 15 seconds |
 | Location | Friendship Meadow — Rest Circle / Group Game Space edge |
 | Characters | Kiko, Mimi, Sofia |
 | Time of Day | Warm Daytime |
-| Object Lock | One small round play blanket; 4-5 large soft colour cards / blocks |
+| Spine step | PROBLEM |
 
-**Opening hook:** Sofia geniş çimenlikte küçük yuvarlak oyun örtüsünün yanında sessizce renk kartları dizer.
-Kiko ve Mimi onu fark eder; sahne "yaklaşabilir miyim?" duygusuyla açılır.
+## Purpose
 
-**Dialogue**
+Open with a readable discovery: Sofia sits alone on a small round play blanket arranging
+large soft colour cards. Kiko and Mimi notice her from a short distance — the "new friend"
+moment begins with curiosity, not conflict.
+
+## Opening Hook
+
+First 3–5 seconds: Sofia sits cross-legged on the small round play blanket, carefully
+placing 4–5 large soft colour cards in a gentle pattern. She is calm and absorbed in her
+play. Kiko and Mimi stand a few steps away, noticing her for the first time.
+
+## Continuity
+
+First story shot after the shared Brave Little Days opening bumper. This shot establishes
+the Friendship Meadow setting, the three characters, and the colour-card play activity.
+Background: soft green meadow, low rest-circle seating, warm daytime light.
+
+## Environment Anchors
+
+- Friendship Meadow — Rest Circle / Group Game Space edge; soft grass, low rounded seating.
+- One small round play blanket on the grass.
+- 4–5 large soft colour cards / blocks arranged by Sofia on the blanket.
+- Sofia seated on the blanket; Kiko and Mimi standing a short distance away.
+- No other characters, no background movement, no hard surfaces.
+
+## Background Object Lock
+
+Background locked from first frame. Friendship Meadow meadow, rest-circle seating, and
+warm daytime light remain stable. Only Kiko, Mimi, Sofia, and the colour cards move.
+
+## Visual Prompt
+
+```text
+Friendship Meadow — Rest Circle / Group Game Space edge, warm daytime. Sofia (wavy dark
+brown hair with pink flower clip, denim blue overalls with pink flower patch, white shirt
+with colorful trim) sits cross-legged on a small round play blanket on soft green grass,
+carefully arranging 4–5 large soft rounded colour cards in a gentle pattern. Kiko (coral
+pink shirt, brown pigtails) and Mimi (soft blue rabbit, yellow t-shirt, long floppy ears)
+stand a few steps away, watching Sofia with quiet curiosity. Soft pastel colours, warm
+daytime light, rounded safe meadow shapes, no other characters, {style} {camera} {lighting}
+
+The Friendship Meadow background is locked from the first frame; keep the soft grass,
+rest-circle seating and rounded meadow shapes stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+32mm wide at child eye level establishing the Rest Circle area and the three characters;
+slow settle to medium on Kiko, Mimi, and Sofia with the colour cards visible. Stable
+settle only.
+
+## Dialogue
 
 ```text
 Kiko: She is playing.
-
 Mimi: Let's say hi.
 ```
 
-**Negative anchors:** no exclusion, no mean face, no ignoring, no crowd, no competition, no loud game,
-no messy paint spill, no sharp brush, no rejection beat.
+## Shot Breakdown
+
+| Time | Action | Camera |
+|---|---|---|
+| 0-4 sec | Friendship Meadow visible; Sofia arranges colour cards on the blanket | Wide |
+| 4-8 sec | Kiko notices Sofia: "She is playing." | Settle |
+| 8-12 sec | Mimi nods: "Let's say hi." | Medium |
+| 12-15 sec | Kiko looks at Sofia, then at Mimi; a quiet pause | Medium hold |
+
+## Sound
+
+Soft meadow ambience: birds, light breeze, a very gentle rustle of colour cards on
+blanket. Natural ambience only. No music, no loud game, no competitive play sound.
+
+## Emotion
+
+Warm curiosity and the beginning of a new-friend moment. Kiko and Mimi notice Sofia
+playing alone; the feeling is light and open.
+
+## Safe-Exposure Notes
+
+No exclusion, no mean face, no ignoring, no crowd, no competition. Sofia plays alone
+calmly — she is not isolated or rejected. Kiko and Mimi approach from a place of
+curiosity, not rescue.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp equipment, metal playground, hard ground, falling, dangerous height,
+crowd, competition, exclusion, mean face, ignoring, loud game, messy paint spill, sharp
+brush, rejection beat, extra characters, changed meadow colour, missing grass, cinematic
+LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion,
+static talking pose, characters frozen, background music, music, melody, song, soundtrack
+
+## QA Checklist
+
+- [ ] Kiko + Mimi + Sofia identity preserved; voices established.
+- [ ] Friendship Meadow identity preserved: soft grass, rest-circle seating, rounded shapes.
+- [ ] One small round play blanket; 4–5 large soft colour cards on it.
+- [ ] Sofia plays alone calmly; not isolated or rejected.
+- [ ] Kiko and Mimi notice her with curiosity; no conflict.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
 
 #### BLD-EP18 — Shot 02 — I Feel Shy (Feeling)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP18 — Hello, New Friend |
+| Shot | 02 / 08 |
+| Duration | 12 seconds |
 | Location | Friendship Meadow — Rest Circle / Group Game Space edge |
 | Characters | Kiko, Mimi, Sofia |
 | Time of Day | Warm Daytime |
-| Object Lock | One small round play blanket; 4-5 large soft colour cards / blocks |
+| Spine step | FEELING |
 
-**Opening hook:** Kiko Sofia'ya bakar, sonra Mimi'ye döner. Yüzünde çekingenlik var ama bu
-sosyal korku değil, doğal bir "yaklaşabilir miyim?" hissi.
+## Purpose
 
-**Dialogue**
+Show Kiko's natural shyness — a soft, age-appropriate hesitation that establishes the
+social courage challenge without escalation. Kiko wants to approach but feels a small
+wave of shyness.
+
+## Opening Hook
+
+First 2–3 seconds: Kiko looks at Sofia, then turns to Mimi. Her face shows gentle
+hesitation — not fear, not avoidance, just a quiet "I want to but I feel shy" moment.
+
+## Continuity
+
+Direct continuation from Shot 01. Kiko and Mimi have just noticed Sofia playing with the
+colour cards. Now Kiko's attention shifts inward — she feels shy. Background remains locked.
+
+## Environment Anchors
+
+- Same Friendship Meadow Rest Circle / Group Game Space edge; soft grass remains as anchor.
+- One small round play blanket with 4–5 colour cards visible in the background.
+- Sofia still seated on the blanket, absorbed in play.
+- Kiko and Mimi standing nearby; Kiko's body language shows gentle hesitation.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shot 01. Background locked from first frame. Only Kiko, Mimi, and Sofia
+move. The blanket, colour cards, meadow, and rest-circle seating remain stable.
+
+## Visual Prompt
+
+```text
+Friendship Meadow — Rest Circle / Group Game Space edge, warm daytime. Kiko (coral pink
+shirt, brown pigtails) looks at Sofia on the blanket, then turns to Mimi (soft blue rabbit,
+yellow t-shirt, long floppy ears). Kiko's face shows gentle shyness — soft, natural
+hesitation. She says quietly: "I feel shy." Mimi looks at Kiko with a warm, understanding
+expression. Sofia (wavy dark brown hair with pink flower clip, denim blue overalls) remains
+seated on the blanket in the background, arranging colour cards. Soft pastel colours, warm
+daytime light, rounded safe meadow shapes, no other characters, {style} {camera} {lighting}
+
+The Friendship Meadow background is locked from the first frame; keep the soft grass,
+rest-circle seating and rounded meadow shapes stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium two-shot on Kiko and Mimi at child eye level. Slow, gentle push-in on Kiko's
+face as she says "I feel shy." Soft focus on Sofia in the background. No quick cuts,
+no dramatic angles.
+
+## Dialogue
 
 ```text
 Kiko: I feel shy.
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Kiko Sofia'ya bakar; sonra Mimi'ye döner | Medium, follows gaze |
-| 3-6 sec | Kiko: "I feel shy." Sesi yumuşak | Close-up on Kiko |
-| 6-9 sec | Mimi Kiko'ya gülümser; sıcak bir ifade | Close-up on Mimi |
-| 9-12 sec | Kiko Mimi'ye bakar; biraz rahatlar | Medium two-shot |
+| 0-3 sec | Kiko looks at Sofia, then turns to Mimi | Medium, follows gaze |
+| 3-6 sec | Kiko: "I feel shy." Her voice is soft | Close-up on Kiko |
+| 6-9 sec | Mimi looks at Kiko with a warm expression | Close-up on Mimi |
+| 9-12 sec | Kiko looks at Mimi; she relaxes slightly | Medium two-shot |
 
-**Sound:** Kiko'nun sesi yumuşak ve samimi — "I feel shy" bir itiraf, bir zayıflık
-değil. Sessiz bir an.
+## Sound
 
-**Emotion:** Çekingenlik — Kiko yeni birine yaklaşmak istiyor ama biraz tereddüt ediyor.
-Bu doğal bir his ve Mimi'nin desteğiyle aşılabilir.
+Soft meadow ambience continues: birds, light breeze. Kiko's voice is soft and sincere —
+"I feel shy" is a gentle admission, not a cry for help. A quiet, intimate moment.
 
-**Negative anchors:** no hiding, no running away, no "I can't" face, no tears, no
-social anxiety meltdown, no peer pressure.
+## Emotion
+
+Shyness — Kiko wants to approach the new child but feels a natural wave of hesitation.
+This is a normal feeling, and Mimi's supportive presence makes it feel safe to name.
+
+## Safe-Exposure Notes
+
+No hiding, no running away, no "I can't" face, no tears, no social anxiety meltdown,
+no peer pressure. Kiko's shyness is brief and named softly — a feeling to move through,
+not a problem to fix.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp equipment, metal playground, hard ground, falling, dangerous height,
+crowd, competition, hiding, running away, "I can't" face, tears, social anxiety meltdown,
+peer pressure, extra characters, changed meadow colour, missing grass, cinematic LUT,
+blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, static
+talking pose, characters frozen, background music, music, melody, song, soundtrack
+
+## QA Checklist
+
+- [ ] Kiko + Mimi + Sofia identity preserved; expressions match emotional beat.
+- [ ] Friendship Meadow identity preserved: soft grass, rest-circle seating, rounded shapes.
+- [ ] The play blanket and colour cards remain visible; continuity from Shot 01.
+- [ ] Kiko's shyness reads natural and brief; not dramatic or anxious.
+- [ ] Mimi's expression reads warm and understanding.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
 
 #### BLD-EP18 — Shot 03 — Let's Say Hi (Support)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP18 — Hello, New Friend |
+| Shot | 03 / 08 |
+| Duration | 12 seconds |
 | Location | Friendship Meadow — Rest Circle / Group Game Space edge |
 | Characters | Kiko, Mimi, Sofia |
 | Time of Day | Warm Daytime |
-| Object Lock | One small round play blanket; 4-5 large soft colour cards / blocks |
+| Spine step | SUPPORT |
 
-**Opening hook:** Mimi Kiko'ya gülümser ve yumuşakça teklif eder: "Let's say hi." Destek
-doğal ve baskısızdır — zorlamaz, davet eder.
+## Purpose
 
-**Dialogue**
+The emotional turning point: Mimi gently encourages Kiko to approach Sofia. The support
+is soft and inviting — not pushy, not demanding. "Let's say hi" opens a door.
+
+## Opening Hook
+
+First 2–3 seconds: Mimi looks at Kiko with a warm, encouraging smile. The camera catches
+both characters in the same frame — the distance between Kiko and Sofia is small but
+meaningful.
+
+## Continuity
+
+Direct continuation from Shot 02. Kiko has just said "I feel shy." Now Mimi responds
+with gentle support. Sofia remains on the blanket in the background. Background locked
+from Shot 01.
+
+## Environment Anchors
+
+- Same Friendship Meadow Rest Circle / Group Game Space edge; soft grass remains as anchor.
+- One small round play blanket with 4–5 colour cards; Sofia seated on it.
+- Kiko and Mimi standing nearby; Mimi's expression is warm and inviting.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–02. Background locked from first frame. Only Kiko, Mimi, and Sofia
+move. The blanket, colour cards, meadow, and rest-circle seating remain stable.
+
+## Visual Prompt
+
+```text
+Friendship Meadow — Rest Circle / Group Game Space edge, warm daytime. Mimi (soft blue
+rabbit, yellow t-shirt, long floppy ears) looks at Kiko (coral pink shirt, brown pigtails)
+with a warm, encouraging smile and says softly: "Let's say hi." Her expression is gentle
+and inviting — not pushy, not demanding. Kiko listens; her face begins to open. Sofia
+(wavy dark brown hair with pink flower clip, denim blue overalls) sits on the small round
+play blanket in the background, arranging colour cards. Soft pastel colours, warm daytime
+light, rounded safe meadow shapes, no other characters, {style} {camera} {lighting}
+
+The Friendship Meadow background is locked from the first frame; keep the soft grass,
+rest-circle seating and rounded meadow shapes stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Two-shot at child eye level, medium framing. Slow, gentle push-in as Mimi speaks.
+The camera holds the connection between the two faces. No quick cuts, no dramatic angles.
+
+## Dialogue
 
 ```text
 Mimi: Let's say hi.
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Mimi Kiko'ya gülümser | Close-up on Mimi |
-| 3-6 sec | "Let's say hi." der; sesi sıcak | Close-up hold |
-| 6-9 sec | Kiko dinler; yüzü biraz açılır | Close-up on Kiko |
-| 9-12 sec | Kiko gülümser; biraz cesaretlenir | Medium two-shot |
+| 0-3 sec | Mimi looks at Kiko with a warm smile | Close-up on Mimi |
+| 3-6 sec | "Let's say hi." Her voice is warm | Close-up hold |
+| 6-9 sec | Kiko listens; her face begins to open | Close-up on Kiko |
+| 9-12 sec | Kiko smiles slightly; a small moment of courage | Medium two-shot |
 
-**Sound:** Mimi'nin sesi sıcak ve davetkar — "Let's say hi" bir baskı değil, bir teklif.
-Sessiz bir an.
+## Sound
 
-**Emotion:** Destek — Mimi Kiko'ya cesaret veriyor ama zorlamıyor. "Birlikte gidelim"
-hissi var.
+Soft meadow ambience continues: birds, light breeze. Mimi's voice is warm and inviting —
+"Let's say hi" is an invitation, not a command. A quiet, intimate moment.
 
-**Negative anchors:** no pushing, no "go on" pressure, no "she won't bite" phrase,
-no "you're being silly," no peer pressure.
+## Emotion
+
+Support — Mimi encourages Kiko without pressure. The feeling is "I'm here, let's go
+together." Kiko's small smile at the end shows the support has landed.
+
+## Safe-Exposure Notes
+
+No pushing, no "go on" pressure, no "she won't bite" phrase, no "you're being silly,"
+no peer pressure. Mimi's support is gentle and genuine — a friend offering courage.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp equipment, metal playground, hard ground, falling, dangerous height,
+crowd, competition, pushing, "go on" pressure, "she won't bite" phrase, "you're being
+silly," peer pressure, extra characters, changed meadow colour, missing grass, cinematic
+LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion,
+static talking pose, characters frozen, background music, music, melody, song, soundtrack
+
+## QA Checklist
+
+- [ ] Kiko + Mimi + Sofia identity preserved; expressions match emotional beat.
+- [ ] Friendship Meadow identity preserved: soft grass, rest-circle seating, rounded shapes.
+- [ ] The play blanket and colour cards remain visible; continuity from Shot 02.
+- [ ] Mimi's support reads gentle and inviting; not pushy or demanding.
+- [ ] Kiko's small smile shows the encouragement has landed.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
 
 #### BLD-EP18 — Shot 04 — Hi, I'm Kiko (Action)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP18 — Hello, New Friend |
+| Shot | 04 / 08 |
+| Duration | 12 seconds |
 | Location | Friendship Meadow — Rest Circle / Group Game Space edge |
 | Characters | Kiko, Mimi, Sofia |
 | Time of Day | Warm Daytime |
-| Object Lock | One small round play blanket; 4-5 large soft colour cards / blocks |
+| Spine step | ACTION |
 
-**Opening hook:** Kiko bir adım yaklaşır ve sıcak bir sesle: "Hi, I'm Kiko. Can I play too?"
-der. İlk cümle basit, samimi ve doğal.
+## Purpose
 
-**Dialogue**
+Kiko makes the first move — she walks toward Sofia and introduces herself with the
+repeated phrase. This is the core social courage moment: "Hi, I'm Kiko. Can I play too?"
+
+## Opening Hook
+
+First 2–3 seconds: Kiko takes a small step toward Sofia. The movement is deliberate
+and gentle — a choice, not a rush. Mimi stays a step behind, supportive but not leading.
+
+## Continuity
+
+Direct continuation from Shot 03. Kiko has just received Mimi's encouragement. Now she
+acts. The background remains locked. Sofia looks up from her colour cards as Kiko
+approaches.
+
+## Environment Anchors
+
+- Same Friendship Meadow Rest Circle / Group Game Space edge; soft grass remains as anchor.
+- One small round play blanket with 4–5 colour cards; Sofia seated on it.
+- Kiko walks toward Sofia; Mimi stands a step behind, watching.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–03. Background locked from first frame. Only Kiko, Mimi, Sofia,
+and the colour cards move. The blanket, meadow, and rest-circle seating remain stable.
+
+## Visual Prompt
+
+```text
+Friendship Meadow — Rest Circle / Group Game Space edge, warm daytime. Kiko (coral pink
+shirt, brown pigtails) takes a small step toward Sofia (wavy dark brown hair with pink
+flower clip, denim blue overalls with pink flower patch) who sits on the small round play
+blanket. Kiko smiles warmly and says: "Hi, I'm Kiko. Can I play too?" Her expression is
+sincere and natural. Sofia looks up from the colour cards, her face brightening. Mimi
+(soft blue rabbit, yellow t-shirt, long floppy ears) stands a step behind Kiko, watching
+with a proud, quiet smile. Soft pastel colours, warm daytime light, rounded safe meadow
+shapes, no other characters, {style} {camera} {lighting}
+
+The Friendship Meadow background is locked from the first frame; keep the soft grass,
+rest-circle seating and rounded meadow shapes stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium shot, Kiko centered as she approaches Sofia. Camera follows Kiko's gentle step
+forward. A soft hold as she speaks. Then a cut or gentle pan to Sofia's reaction — her
+face brightening. Steady, calm movement.
+
+## Dialogue
 
 ```text
 Kiko: Hi, I'm Kiko. Can I play too?
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Kiko bir adım yaklaşır | Medium, follows Kiko |
-| 3-6 sec | "Hi, I'm Kiko." der | Close-up on Kiko |
-| 6-9 sec | "Can I play too?" der; sıcak gülümseme | Close-up hold |
-| 9-12 sec | Sofia Kiko'ya bakar; yüzünde bir karşılık hazırlığı | Close-up on Sofia |
+| 0-3 sec | Kiko takes a small step toward Sofia | Medium, follows Kiko |
+| 3-6 sec | "Hi, I'm Kiko." warm and sincere | Close-up on Kiko |
+| 6-9 sec | "Can I play too?" — a gentle question | Close-up hold |
+| 9-12 sec | Sofia looks up; her face brightens | Close-up on Sofia |
 
-**Sound:** Kiko'nun sesi samimi ve sıcak — "Hi, I'm Kiko. Can I play too?" doğal ve
-içten. Sessiz bir an.
+## Sound
 
-**Emotion:** Cesaret — Kiko tereddütlerini yendi ve adım attı. Bu, sosyal cesaretin
-en doğal hali: selam vermek ve sormak.
+Soft meadow ambience: birds, light breeze. Kiko's voice is warm and sincere — "Hi, I'm
+Kiko. Can I play too?" is natural and heartfelt. A quiet, brave moment.
 
-**Negative anchors:** no nervous stutter, no looking at ground, no "I'm sorry to bother,"
-no apologetic tone, no hesitation after speaking.
+## Emotion
+
+Courage — Kiko overcomes her shyness and takes the first social step. This is the
+heart of the episode: saying hello and asking to join. The delivery is simple, honest,
+and age-appropriate.
+
+## Safe-Exposure Notes
+
+No nervous stutter, no looking at ground, no "I'm sorry to bother," no apologetic tone,
+no hesitation after speaking. Kiko's approach is direct and warm — shy but brave.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp equipment, metal playground, hard ground, falling, dangerous height,
+crowd, competition, nervous stutter, looking at ground, "I'm sorry to bother," apologetic
+tone, hesitation after speaking, extra characters, changed meadow colour, missing grass,
+cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera
+motion, static talking pose, characters frozen, background music, music, melody, song,
+soundtrack
+
+## QA Checklist
+
+- [ ] Kiko + Mimi + Sofia identity preserved; expressions match emotional beat.
+- [ ] Friendship Meadow identity preserved: soft grass, rest-circle seating, rounded shapes.
+- [ ] The play blanket and colour cards remain visible; continuity from Shot 03.
+- [ ] Kiko's approach reads sincere and natural; shy but brave.
+- [ ] Sofia's reaction reads warm and welcoming.
+- [ ] The repeated phrase "Can I play too?" is delivered clearly.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
 
 #### BLD-EP18 — Shot 05 — The Invitation (Relief)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP18 — Hello, New Friend |
+| Shot | 05 / 08 |
+| Duration | 12 seconds |
 | Location | Friendship Meadow — Rest Circle / Group Game Space edge |
 | Characters | Kiko, Mimi, Sofia |
 | Time of Day | Warm Daytime |
-| Object Lock | One small round play blanket; 4-5 large soft colour cards / blocks |
+| Spine step | RELIEF |
 
-**Opening hook:** Sofia gülümser ve renk kartlarından birini Kiko'ya uzatır — basit ve doğal
-bir davet. Kabul edildi.
+## Purpose
 
-**Dialogue**
+The emotional payoff: Sofia warmly accepts Kiko's request. She smiles and extends a
+colour card toward Kiko — a simple, natural invitation to join. The fear of rejection
+dissolves.
+
+## Opening Hook
+
+First 2–3 seconds: Sofia's face brightens into a full smile. She picks up one of the
+large soft colour cards and holds it toward Kiko. The gesture is instinctive and generous.
+
+## Continuity
+
+Direct continuation from Shot 04. Kiko has just asked "Can I play too?" Now Sofia
+responds. Background remains locked. The play blanket and remaining colour cards are
+still on the grass.
+
+## Environment Anchors
+
+- Same Friendship Meadow Rest Circle / Group Game Space edge; soft grass remains as anchor.
+- One small round play blanket with 4–5 colour cards; Sofia holds one card toward Kiko.
+- Kiko stands near the blanket; Mimi a step behind.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–04. Background locked from first frame. Only Kiko, Mimi, Sofia,
+and the colour cards move. The blanket, meadow, and rest-circle seating remain stable.
+
+## Visual Prompt
+
+```text
+Friendship Meadow — Rest Circle / Group Game Space edge, warm daytime. Sofia (wavy dark
+brown hair with pink flower clip, denim blue overalls with pink flower patch, white shirt
+with colorful trim) smiles brightly and holds a large soft colour card toward Kiko (coral
+pink shirt, brown pigtails). Sofia says: "Hi! Yes!" Her expression is warm and welcoming.
+Kiko's face lights up with a small, genuine smile — relief and happiness. Mimi (soft blue
+rabbit, yellow t-shirt, long floppy ears) watches from a step behind, quietly pleased.
+The small round play blanket and remaining colour cards are on the soft grass. Soft pastel
+colours, warm daytime light, rounded safe meadow shapes, no other characters, {style}
+{camera} {lighting}
+
+The Friendship Meadow background is locked from the first frame; keep the soft grass,
+rest-circle seating and rounded meadow shapes stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Close-up on Sofia as she smiles and extends the card, then a gentle shift to Kiko's
+reaction — her face lighting up. Medium two-shot at the end to capture the shared moment.
+Steady, warm framing.
+
+## Dialogue
 
 ```text
 Sofia: Hi! Yes!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Sofia gülümser | Close-up on Sofia |
-| 3-6 sec | "Hi! Yes!" der; kartlardan birini Kiko'ya uzatır | Close-up, extends card |
-| 6-9 sec | Kiko kartı alır; yüzünde sevinç | Close-up on Kiko |
-| 9-12 sec | İkisi birlikte gülümser; sıcak bir an | Medium two-shot |
+| 0-3 sec | Sofia smiles brightly | Close-up on Sofia |
+| 3-6 sec | "Hi! Yes!" — extends a colour card toward Kiko | Close-up, extends card |
+| 6-9 sec | Kiko takes the card; her face lights up | Close-up on Kiko |
+| 9-12 sec | Both smile at each other; warm, shared moment | Medium two-shot |
 
-**Sound:** Sofia'nın sesi samimi ve sevinçli — "Hi! Yes!" doğal bir karşılık.
-Sessiz bir an.
+## Sound
 
-**Emotion:** Kabul — Kiko davet edildi ve kabul edildi. Sofia'nın gülümsemesi ve kartı
-uzatması basit ama güçlü bir "buraya gel" mesajıdır.
+Soft meadow ambience: birds, light breeze. Sofia's voice is warm and genuinely happy —
+"Hi! Yes!" is an instant, heartfelt acceptance. No music, no fanfare.
 
-**Negative anchors:** no reluctant acceptance, no "I guess" face, no "who are you"
-question, no exclusion beat, no "you can sit here but don't touch."
+## Emotion
+
+Relief and joy — the fear of rejection dissolves in Sofia's warm smile. Kiko's courage
+is rewarded with instant acceptance. The card exchange is a simple, powerful gesture
+of welcome.
+
+## Safe-Exposure Notes
+
+No reluctant acceptance, no "I guess" face, no "who are you" question, no exclusion
+beat, no "you can sit here but don't touch." Sofia's welcome is immediate and genuine.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp equipment, metal playground, hard ground, falling, dangerous height,
+crowd, competition, reluctant acceptance, "I guess" face, "who are you" question,
+exclusion beat, "you can sit here but don't touch," extra characters, changed meadow
+colour, missing grass, cinematic LUT, blue tint, green tint, orange shift, HDR look,
+fast movement, sudden camera motion, static talking pose, characters frozen, background
+music, music, melody, song, soundtrack
+
+## QA Checklist
+
+- [ ] Kiko + Mimi + Sofia identity preserved; expressions match emotional beat.
+- [ ] Friendship Meadow identity preserved: soft grass, rest-circle seating, rounded shapes.
+- [ ] The play blanket and remaining colour cards are visible; continuity from Shot 04.
+- [ ] Sofia's welcome reads immediate and genuine; not reluctant.
+- [ ] Kiko's relief reads warm and happy; not exaggerated.
+- [ ] The card exchange is a natural, simple gesture.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
 
 #### BLD-EP18 — Shot 06 — Playing Together (Action)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP18 — Hello, New Friend |
+| Shot | 06 / 08 |
+| Duration | 15 seconds |
 | Location | Friendship Meadow — Rest Circle / Group Game Space edge |
 | Characters | Kiko, Mimi, Sofia |
 | Time of Day | Warm Daytime |
-| Object Lock | One small round play blanket; 4-5 large soft colour cards / blocks |
+| Spine step | ACTION |
 
-**Opening hook:** Üçü birlikte renk kartlarını/soft blokları dizer — her biri birer tane
-yerleştirir. Birlikte oynamak doğal ve eğlencelidir.
+## Purpose
 
-**Dialogue**
+Show the core shared activity: all three children play together with the colour cards,
+each placing one on the blanket. The play is cooperative, colourful, and natural — no
+competition, no turns, just shared creation.
+
+## Opening Hook
+
+First 2–3 seconds: All three children kneel around the small round play blanket. Their
+hands hover near the colour cards — they're about to start building something together.
+
+## Continuity
+
+Direct continuation from Shot 05. Sofia has just welcomed Kiko. Now all three children
+play together on the blanket. Background remains locked.
+
+## Environment Anchors
+
+- Same Friendship Meadow Rest Circle / Group Game Space edge; soft grass remains as anchor.
+- One small round play blanket; 4–5 large soft colour cards now being arranged by all three.
+- Kiko, Mimi, and Sofia kneeling around the blanket.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–05. Background locked from first frame. Only Kiko, Mimi, Sofia,
+and the colour cards move. The blanket, meadow, and rest-circle seating remain stable.
+
+## Visual Prompt
+
+```text
+Friendship Meadow — Rest Circle / Group Game Space edge, warm daytime. Kiko (coral pink
+shirt, brown pigtails), Mimi (soft blue rabbit, yellow t-shirt, long floppy ears), and
+Sofia (wavy dark brown hair with pink flower clip, denim blue overalls with pink flower
+patch) kneel together around the small round play blanket on soft green grass. Each child
+places a large soft colour card on the blanket — Kiko places red, Mimi places blue, Sofia
+places yellow. They work together, smiling, creating a gentle pattern. Soft pastel colours,
+warm daytime light, rounded safe meadow shapes, no other characters, {style} {camera}
+{lighting}
+
+The Friendship Meadow background is locked from the first frame; keep the soft grass,
+rest-circle seating and rounded meadow shapes stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium three-shot at child eye level, all three characters and the blanket visible.
+Camera holds steady as each child places a card. A gentle, subtle movement follows
+the action. Steady and calm.
+
+## Dialogue
 
 ```text
 Kiko: Red!
-Amara: Blue!
+Mimi: Blue!
 Sofia: Yellow!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Kiko kırmızı kartı/dizgiyi yerleştirir: "Red!" | Close-up on hands |
-| 3-6 sec | Amara mavi kartı/dizgiyi yerleştirir: "Blue!" | Close-up on hands |
-| 6-9 sec | Sofia sarı kartı/dizgiyi yerleştirir: "Yellow!" | Close-up on hands |
-| 9-12 sec | Üçü birlikte dizgiye bakar; gülümserler | Medium three-shot |
+| 0-3 sec | All three kneel around the blanket | Medium three-shot |
+| 3-6 sec | Kiko places a red card: "Red!" | Close-up on hands |
+| 6-9 sec | Mimi places a blue card: "Blue!" | Close-up on hands |
+| 9-12 sec | Sofia places a yellow card: "Yellow!" | Close-up on hands |
+| 12-15 sec | All three look at the pattern; smiles | Medium three-shot |
 
-**Sound:** Kartların/blokların yumuşak yerleştirme sesleri — "tok tok". Üçünün de sesleri
-sevinçli ve doğal.
+## Sound
 
-**Emotion:** Birlikte oyun — üçü birlikte bir şey yaratıyor. Her biri katkısını sunuyor ve
-sonuç birlikte güzellik.
+Soft meadow ambience: birds, light breeze. Cards make soft "tok" sounds when placed on
+the blanket. All three voices are happy and natural — each calling out their colour with
+quiet pride. No music, no competitive sound.
 
-**Negative anchors:** no fighting over colors, no "I wanted that one," no competition,
-no "mine is first," no rushing, no knocking over.
+## Emotion
+
+Shared creation — three children building something together, each contributing a colour.
+No one leads, no one follows. The joy is in the doing, not the result.
+
+## Safe-Exposure Notes
+
+No fighting over colours, no "I wanted that one," no competition, no "mine is first,"
+no rushing, no knocking over. The play is cooperative and gentle — each child chooses
+and places freely.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp equipment, metal playground, hard ground, falling, dangerous height,
+crowd, competition, fighting over colours, "I wanted that one," "mine is first," rushing,
+knocking over, extra characters, changed meadow colour, missing grass, cinematic LUT,
+blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, static
+talking pose, characters frozen, background music, music, melody, song, soundtrack
+
+## QA Checklist
+
+- [ ] Kiko + Mimi + Sofia identity preserved; expressions match emotional beat.
+- [ ] Friendship Meadow identity preserved: soft grass, rest-circle seating, rounded shapes.
+- [ ] One small round play blanket; 4–5 colour cards being arranged by all three.
+- [ ] Each child places one card; the play is cooperative.
+- [ ] The colour names are called out naturally; not competitive.
+- [ ] No fighting, no rushing, no knocking over.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
 
 #### BLD-EP18 — Shot 07 — New Friendship (Relief)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP18 — Hello, New Friend |
+| Shot | 07 / 08 |
+| Duration | 12 seconds |
 | Location | Friendship Meadow — Rest Circle / Group Game Space edge |
 | Characters | Kiko, Mimi, Sofia |
 | Time of Day | Warm Daytime |
-| Object Lock | One small round play blanket; 4-5 large soft colour cards / blocks |
+| Spine step | RELIEF |
 
-**Opening hook:** Kiko rahatlar; Sofia küçük bir çizimini veya yarattığı şeyi gösterir.
-Yeni dostluk kuruldu — doğal ve sıcaktır.
+## Purpose
 
-**Dialogue**
+The emotional deepening: Sofia shares something she made — a small creation from the
+colour cards. Kiko reacts with genuine wonder. The new friendship is now real and warm.
+
+## Opening Hook
+
+First 2–3 seconds: Sofia holds up a small arrangement she made from the colour cards —
+a simple, creative shape. Her face is proud and eager to share.
+
+## Continuity
+
+Direct continuation from Shot 06. The three children have been placing colour cards
+together. Now Sofia shows what she made. Background remains locked.
+
+## Environment Anchors
+
+- Same Friendship Meadow Rest Circle / Group Game Space edge; soft grass remains as anchor.
+- One small round play blanket with colour cards; Sofia holds a small arrangement.
+- Kiko and Mimi kneeling nearby, looking at Sofia's creation.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–06. Background locked from first frame. Only Kiko, Mimi, Sofia,
+and the colour cards move. The blanket, meadow, and rest-circle seating remain stable.
+
+## Visual Prompt
+
+```text
+Friendship Meadow — Rest Circle / Group Game Space edge, warm daytime. Sofia (wavy dark
+brown hair with pink flower clip, denim blue overalls with pink flower patch) holds up a
+small creative arrangement made from the large soft colour cards — a simple, proud creation.
+She says: "Look what I made!" Kiko (coral pink shirt, brown pigtails) looks at it and says:
+"Wow!" — her face full of genuine wonder. Mimi (soft blue rabbit, yellow t-shirt, long
+floppy ears) watches with a warm, happy expression. The small round play blanket and
+remaining cards are on the soft grass. Soft pastel colours, warm daytime light, rounded
+safe meadow shapes, no other characters, {style} {camera} {lighting}
+
+The Friendship Meadow background is locked from the first frame; keep the soft grass,
+rest-circle seating and rounded meadow shapes stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Close-up on Sofia's creation as she holds it up, then a gentle shift to Kiko's face —
+her "Wow" expression. Medium three-shot at the end to capture the shared pride. Steady,
+warm framing.
+
+## Dialogue
 
 ```text
 Sofia: Look what I made!
 Kiko: Wow!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Sofia küçük bir çizimini/yaptığını gösterir | Close-up on creation |
-| 3-6 sec | "Look what I made!" der | Medium on Sofia |
-| 6-9 sec | Kiko bakar: "Wow!" | Close-up on Kiko |
-| 9-12 sec | İkisi birlikte gülümser; sıcak bir an | Medium three-shot |
+| 0-3 sec | Sofia holds up her creation from the colour cards | Close-up on creation |
+| 3-6 sec | "Look what I made!" — proud and eager | Medium on Sofia |
+| 6-9 sec | Kiko looks: "Wow!" — genuine wonder | Close-up on Kiko |
+| 9-12 sec | All three smile at the creation; warm moment | Medium three-shot |
 
-**Sound:** Sofia'nın sesi gururlu ve paylaşmak isteyen — "Look what I made!" Kiko'nun
-"Wow!" sesi samimi ve takdir edici.
+## Sound
 
-**Emotion:** Yeni dostluk — birlikte bir şey yaratmak ve bunu paylaşmak, arkadaşlığın
-en doğal yoludur. Kiko artık çekingen değil, rahat.
+Soft meadow ambience: birds, light breeze. Sofia's voice is proud and eager to share.
+Kiko's "Wow!" is sincere and impressed. No music, no triumphant sting.
 
-**Negative anchors:** no bragging, no "mine is better," no comparison, no competitive
-creation, no "that's weird," no dismissal.
+## Emotion
+
+New friendship deepened through shared creation. Sofia's pride in sharing what she made
+and Kiko's genuine wonder show that the bond is real. Kiko is no longer shy — she's
+fully present and engaged.
+
+## Safe-Exposure Notes
+
+No bragging, no "mine is better," no comparison, no competitive creation, no "that's
+weird," no dismissal. Sofia's sharing is proud but humble; Kiko's response is genuine
+and kind.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp equipment, metal playground, hard ground, falling, dangerous height,
+crowd, competition, bragging, "mine is better," comparison, competitive creation, "that's
+weird," dismissal, extra characters, changed meadow colour, missing grass, cinematic LUT,
+blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, static
+talking pose, characters frozen, background music, music, melody, song, soundtrack
+
+## QA Checklist
+
+- [ ] Kiko + Mimi + Sofia identity preserved; expressions match emotional beat.
+- [ ] Friendship Meadow identity preserved: soft grass, rest-circle seating, rounded shapes.
+- [ ] The play blanket and colour cards remain visible; continuity from Shot 06.
+- [ ] Sofia's creation reads simple and creative; not elaborate or competitive.
+- [ ] Kiko's "Wow" reads genuine and warm; not exaggerated.
+- [ ] The friendship feels real and comfortable.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
 
 #### BLD-EP18 — Shot 08 — Warm Closing (Lesson)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP18 — Hello, New Friend |
+| Shot | 08 / 08 |
+| Duration | 12 seconds |
 | Location | Friendship Meadow — Rest Circle / Group Game Space edge |
 | Characters | Kiko, Mimi, Sofia |
 | Time of Day | Warm Daytime |
-| Object Lock | One small round play blanket; 4-5 large soft colour cards / blocks |
+| Spine step | LESSON |
 
-**Opening hook:** Üçü birlikte oturur; yüzlerinde sıcak gülümseme. Kiko artık çekingen değil,
-rahat ve mutlu.
+## Purpose
 
-**Dialogue**
+The warm closing shot: all three children sit together on the grass near the blanket.
+The repeated phrase "Can I play too?" is delivered one final time — now as a shared
+memory, not a question. The lesson is sealed with friendship.
+
+## Opening Hook
+
+First 2–3 seconds: All three children sit together on the soft grass near the play
+blanket. Their faces are warm and relaxed. The colour cards are arranged gently between
+them.
+
+## Continuity
+
+Direct continuation from Shot 07. The new friendship has been established through shared
+play. Now the three sit together, comfortable and happy. Background remains locked.
+
+## Environment Anchors
+
+- Same Friendship Meadow Rest Circle / Group Game Space edge; soft grass remains as anchor.
+- One small round play blanket with colour cards arranged on it.
+- Kiko, Mimi, and Sofia sitting together on the grass, facing each other or the camera.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–07. Background locked from first frame. Only Kiko, Mimi, and Sofia
+move. The blanket, colour cards, meadow, and rest-circle seating remain stable.
+
+## Visual Prompt
+
+```text
+Friendship Meadow — Rest Circle / Group Game Space edge, warm daytime. Kiko (coral pink
+shirt, brown pigtails), Mimi (soft blue rabbit, yellow t-shirt, long floppy ears), and
+Sofia (wavy dark brown hair with pink flower clip, denim blue overalls with pink flower
+patch) sit together on the soft grass near the small round play blanket. The colour cards
+are arranged gently between them. All three face the camera with warm, relaxed smiles.
+Kiko says: "Can I play too?" — now as a shared memory, not a question. Sofia and Mimi
+smile and respond. Soft pastel colours, warm daytime light, rounded safe meadow shapes,
+no other characters, {style} {camera} {lighting}
+
+The Friendship Meadow background is locked from the first frame; keep the soft grass,
+rest-circle seating and rounded meadow shapes stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium three-shot at child eye level, all three characters centered in frame. Camera
+holds steady for the final moment. A very gentle, almost imperceptible pull-back to
+show the full warm scene. The shot fades to soft warmth at the end.
+
+## Dialogue
 
 ```text
 Kiko: Can I play too?
 Sofia & Mimi: Yes!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Üçü birlikte oturur; sıcak gülümseme | Medium three-shot |
-| 3-6 sec | Kiko: "Can I play too?" | Close-up on Kiko |
-| 6-9 sec | Sofia ve Mimi: "Yes!" | Close-up, both smiling |
-| 9-12 sec | Üçü birlikte gülümser; sahne sıcakça tutulur | Wide three-shot, gentle fade |
+| 0-3 sec | All three sit together on the grass, warm and relaxed | Medium three-shot |
+| 3-6 sec | Kiko: "Can I play too?" — now a shared memory | Medium hold |
+| 6-9 sec | Sofia & Mimi: "Yes!" — all three smile | Medium hold |
+| 9-12 sec | Warm smiles; the scene holds for a soft, gentle fade | Gentle pull-back |
 
-**Sound:** Sıcak, samimi ses tonları — "Can I play too?" artık bir soru değil, bir
-hatırlatma: bu cümle yeni arkadaşlıkların anahtarıdır.
+## Sound
 
-**Emotion:** Sıcak kapanış — Kiko cesaret etti, selam verdi, kabul edildi ve yeni bir
-arkadaşlık kurdu. "Can I play too?" cümleciği artık bir deneyim.
+Soft meadow ambience: birds, light breeze. Kiko's voice is warm and reflective —
+"Can I play too?" is no longer a question but a joyful reminder. Sofia and Mimi's
+"Yes!" is warm and unified. No music, no outro sting. Natural ambience carries to
+the end.
 
-**Negative anchors:** no moralizing, no lecture, no adult voice-over, no on-screen text,
-no dramatic music, no lesson-on-screen, no exaggerated wave, no preachy tone.
+## Emotion
+
+Warm closure. The repeated phrase has transformed from a shy question into a shared
+celebration of friendship. Kiko's courage, Sofia's welcome, and Mimi's support have
+created something real. The lesson is complete, and the feeling is one of gentle
+accomplishment.
+
+## Safe-Exposure Notes
+
+No moralizing, no lecture, no adult voice-over, no dramatic music, no lesson-on-screen
+text, no exaggerated wave, no preachy tone. The repeated phrase is delivered as a
+shared discovery, not a rule being taught. The closing is warm and complete.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp equipment, metal playground, hard ground, falling, dangerous height,
+crowd, competition, moralizing, lecture, adult voice-over, dramatic music, lesson-on-screen
+text, exaggerated wave, preachy tone, extra characters, changed meadow colour, missing
+grass, cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement,
+sudden camera motion, static talking pose, characters frozen, background music, music,
+melody, song, soundtrack
+
+## QA Checklist
+
+- [ ] Kiko + Mimi + Sofia identity preserved; final expressions warm and relaxed.
+- [ ] Friendship Meadow identity preserved: soft grass, rest-circle seating, rounded shapes.
+- [ ] The play blanket and colour cards are visible; continuity from Shot 07.
+- [ ] "Can I play too?" delivered as a shared memory, not a lecture.
+- [ ] All three children sit together comfortably; no one is left out.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+- [ ] The closing feels warm and complete — no loose ends.
 
 ---
 
@@ -9858,279 +10619,953 @@ no dramatic music, no lesson-on-screen, no exaggerated wave, no preachy tone.
 
 #### BLD-EP19 — Shot 01 — Toys on the Rug (Problem)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP19 — Tidy-Up Time |
+| Shot | 01 / 08 |
+| Duration | 15 seconds |
 | Location | Kiko's Home — Living Room / toy rug |
 | Characters | Kiko, Mimi |
 | Time of Day | Warm Daytime |
-| Object Lock | KH-TOYBOX-01; 5-6 large soft toys only |
+| Spine step | PROBLEM |
 
-**Opening hook:** Kiko'nun yuvarlak halısında birkaç büyük yumuşak oyuncak durur. Kiko yavaş adımla ilerler,
-bir oyuncağın yanında durur ve odanın biraz karıştığını fark eder.
+## Purpose
 
-**Dialogue**
+Open with a simple, readable situation: Kiko's living room toy rug has several large soft toys
+scattered on it. Kiko walks in slowly, notices the mess, and stops. The clutter is gentle —
+soft, safe toys on a warm rug. No injury, no blame, no chaos.
+
+## Opening Hook
+
+First 3–5 seconds: Kiko's round toy rug is visible with 5-6 large soft toys scattered across it.
+Kiko walks in slowly with a relaxed expression. She pauses near one toy and looks around — the
+room is a little messy. The feeling is light, not alarming.
+
+## Continuity
+
+First story shot, after the shared Brave Little Days opening bumper. This shot establishes
+Kiko's Home — Living Room, the toy rug, the scattered toys, and both characters. Background:
+Kiko's Home living room with warm daytime light, soft surfaces, rounded furniture.
+
+## Environment Anchors
+
+- Kiko's Home — Living Room / toy rug; warm daytime light, soft surfaces, rounded furniture.
+- `KH-TOYBOX-01` visible at the edge of the toy rug — soft, rounded, pastel toy box.
+- 5-6 large soft toys scattered on the round toy rug: a soft yellow ball, a large blue block,
+  a soft green book, a plush red star, a round orange pillow-toy, a soft purple cube.
+- Mimi stands nearby, visible from the start.
+- No other characters, no background movement, no hard surfaces.
+
+## Background Object Lock
+
+Background locked from first frame. Kiko's Home living room, warm daytime light, soft
+surfaces, rounded furniture, `KH-TOYBOX-01` at the rug's edge remain stable. Only Kiko,
+Mimi, and the scattered toys move.
+
+## Visual Prompt
+
+```text
+Kiko's Home — Living Room / toy rug, warm daytime. Soft rounded furniture, warm golden light,
+pastel walls. A round toy rug on the floor with 5-6 large soft toys scattered across it: a
+soft yellow ball, a large blue block, a soft green book, a plush red star, a round orange
+pillow-toy, a soft purple cube. KH-TOYBOX-01 (soft pastel rounded toy box) sits at the rug's
+edge. Kiko (coral pink shirt, brown pigtails) walks in slowly and pauses, looking at the
+scattered toys. Mimi (lavender shirt, light blue short overalls, soft round ears) stands
+nearby. Soft pastel colours, warm light, rounded safe home shapes, no other characters,
+{style} {camera} {lighting}
+
+The Kiko's Home living room background is locked from the first frame; keep the soft
+furniture, toy rug, KH-TOYBOX-01 and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+32mm wide at child eye level establishing the living room and scattered toys on the rug;
+slow settle to medium on Kiko as she pauses. The scattered toys are clearly visible but not
+chaotic. Stable settle only.
+
+## Dialogue
 
 ```text
 Kiko: Uh-oh.
-
-Mimi: Tidy game!
 ```
 
-**Negative anchors:** no fall, no injury, no dirty mess, no broken toy, no blame, no scolding, no punishment,
-no tiny choking-size pieces, no cluttered frame.
+## Shot Breakdown
+
+| Time | Action | Camera |
+|---|---|---|
+| 0-4 sec | Living room visible; 5-6 large soft toys scattered on round rug | Wide |
+| 4-8 sec | Kiko walks in slowly and pauses near a toy: "Uh-oh" | Settle |
+| 8-12 sec | Mimi watches from nearby; both look at the scattered toys | Medium two-shot |
+| 12-15 sec | Kiko looks around the messy rug; a quiet beat of recognition | Medium hold |
+
+## Sound
+
+Soft home ambience: gentle room tone, light warmth. Kiko's "Uh-oh" is light and surprised,
+not alarmed. No music, no loud sounds, no dramatic sting. Natural ambience only.
+
+## Emotion
+
+Warm curiosity and gentle recognition — Kiko notices the mess without alarm or blame. The
+feeling is light: "Oh, the toys are everywhere." No urgency, no frustration, no "we have to
+fix this."
+
+## Safe-Exposure Notes
+
+No fall, no injury, no tripping, no dirty mess, no broken toy, no blame, no scolding, no
+punishment. The toys are soft and safe; the mess is gentle. Kiko simply notices and pauses.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp furniture, metal surfaces, hard ground, falling, tripping, injury,
+broken toy, dirty mess, scattered trash, tiny choking-size pieces, cluttered frame, crowd,
+blame expression, scolding face, punishment visual, extra characters, cinematic LUT, blue
+tint, green tint, orange shift, HDR look, fast movement, sudden camera motion, static
+talking pose, characters frozen, background music, music, melody, song, soundtrack,
+dangerous objects, sharp edges, heavy furniture
+
+## QA Checklist
+
+- [ ] Kiko + Mimi identity preserved; voices established.
+- [ ] Kiko's Home living room identity preserved: soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+- [ ] 5-6 large soft toys scattered on the round rug; no tiny pieces, no sharp objects.
+- [ ] The mess reads gentle and safe; no chaos, no injury, no tripping.
+- [ ] No blame, no scolding, no punishment visual.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 #### BLD-EP19 — Shot 02 — Too Messy (Feeling)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP19 — Tidy-Up Time |
+| Shot | 02 / 08 |
+| Duration | 12 seconds |
 | Location | Kiko's Home — Living Room / toy rug |
 | Characters | Kiko, Mimi |
 | Time of Day | Warm Daytime |
-| Object Lock | KH-TOYBOX-01; 5-6 large soft toys only |
+| Spine step | FEELING |
 
-**Opening hook:** Kiko etrafa bakar — halıda birkaç büyük oyuncak dağınıktır. "Uh-oh, too
-messy" der; yüzünde hafif bir şaşkınlık ama suçlama yok.
+## Purpose
 
-**Dialogue**
+Show Kiko's natural reaction to the scattered toys — a soft, age-appropriate "too messy"
+moment. Kiko recognizes the clutter without blame, frustration, or urgency. This establishes
+the tidy-up problem as a feeling, not a crisis.
+
+## Opening Hook
+
+First 2–3 seconds: Kiko looks around the toy rug from her own perspective. The 5-6 large soft
+toys are scattered across the round rug. Her expression shifts from casual to mildly surprised —
+a small "oh" moment.
+
+## Continuity
+
+Direct continuation from Shot 01. Kiko has just paused and said "Uh-oh." Now she looks around
+more fully and articulates what she feels: "Too messy." Mimi watches quietly. Background remains
+locked from Shot 01 — soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+
+## Environment Anchors
+
+- Same Kiko's Home Living Room / toy rug; warm daytime light, soft surfaces, rounded furniture.
+- `KH-TOYBOX-01` visible at the edge of the toy rug.
+- 5-6 large soft toys scattered on the round toy rug; same positions as Shot 01.
+- Mimi stands nearby, watching Kiko's reaction.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shot 01. Background locked from first frame. Only Kiko and Mimi move. The soft
+furniture, toy rug, KH-TOYBOX-01, and scattered toys remain stable.
+
+## Visual Prompt
+
+```text
+Kiko's Home — Living Room / toy rug, warm daytime. Kiko (coral pink shirt, brown pigtails)
+looks around at 5-6 large soft toys scattered on the round toy rug. Her expression shifts to
+mild surprise: "Uh-oh, too messy." Mimi (lavender shirt, light blue short overalls, soft round
+ears) watches from nearby, calm and observant. KH-TOYBOX-01 sits at the rug's edge. Soft pastel
+colours, warm light, rounded safe home shapes, no other characters, {style} {camera} {lighting}
+
+The Kiko's Home living room background is locked from the first frame; keep the soft
+furniture, toy rug, KH-TOYBOX-01 and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium shot on Kiko from her POV — she looks around the scattered toys. A slow, gentle pan
+across the rug shows the toys from her perspective. Then cut to a close-up on Kiko's face as
+she says "Too messy." Unhurried, natural.
+
+## Dialogue
 
 ```text
 Kiko: Uh-oh, too messy.
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Kiko etrafa bakar; dağınıklık görünür | Wide, Kiko's POV |
-| 3-6 sec | Kiko: "Uh-oh, too messy." | Close-up on Kiko |
-| 6-9 sec | Mimi Kiko'ya bakar; yüzünde bir karşılık hazırlığı | Close-up on Mimi |
-| 9-12 sec | İkisi dağınıklığa bakar; kısa bir sessizlik | Medium two-shot |
+| 0-3 sec | Kiko looks around the scattered toys on the rug | Medium, Kiko's POV |
+| 3-6 sec | Slow pan across the rug showing the toys | Gentle pan |
+| 6-9 sec | Close-up on Kiko: "Uh-oh, too messy." | Close-up on Kiko |
+| 9-12 sec | Mimi watches; both pause, looking at the rug | Medium two-shot |
 
-**Sound:** Sessiz bir an — dağınıklık sessizdir. Kiko'nun "Uh-oh" sesi hafif ve şaşkın.
+## Sound
 
-**Emotion:** Fark etme — Kiko dağınıklığı gördü ve bunun bir sorun olabileceğini anladı.
-Ama suçlama yok, sadece "uh-oh" hissi.
+A quiet moment — the room is soft and still. Kiko's "Uh-oh, too messy" is light and
+surprised, not frustrated. No music, no dramatic sting. Natural home ambience only.
 
-**Negative anchors:** no "who did this" blame, no "you made this mess" accusation, no
-anger, no frustration, no "clean this up now" command.
+## Emotion
+
+Recognition — Kiko sees the mess and names it. The feeling is not anger or blame; it's a
+gentle "oh, this is a lot." Mimi's quiet presence suggests a solution is coming.
+
+## Safe-Exposure Notes
+
+No "who did this" blame, no "you made this mess" accusation, no anger, no frustration, no
+"clean this up now" command. Kiko's reaction is calm and natural — a child noticing, not a
+parent scolding.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp furniture, metal surfaces, hard ground, "who did this" blame, "you made
+this mess" accusation, angry face, frustrated expression, "clean this up now" command,
+scolding, punishment, extra characters, cinematic LUT, blue tint, green tint, orange shift,
+HDR look, fast movement, sudden camera motion, static talking pose, characters frozen,
+background music, music, melody, song, soundtrack, crying, yelling, pointing finger,
+adult voice-over
+
+## QA Checklist
+
+- [ ] Kiko + Mimi identity preserved; expressions match emotional beat.
+- [ ] Kiko's Home living room identity preserved: soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+- [ ] 5-6 large soft toys scattered; continuity from Shot 01.
+- [ ] "Too messy" reads as gentle recognition; not frustration or blame.
+- [ ] Mimi's presence is calm and observant.
+- [ ] No blame, no scolding, no command.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 #### BLD-EP19 — Shot 03 — Tidy Game! (Support)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP19 — Tidy-Up Time |
+| Shot | 03 / 08 |
+| Duration | 15 seconds |
 | Location | Kiko's Home — Living Room / toy rug |
 | Characters | Kiko, Mimi |
 | Time of Day | Warm Daytime |
-| Object Lock | KH-TOYBOX-01; 5-6 large soft toys only |
+| Spine step | SUPPORT |
 
-**Opening hook:** Mimi toy box'un yanına hoplar ve heyecanla: "Tidy game?" der — toplamayı
-bir oyuna çevirir. Dağınıklık bir sorun değil, bir fırsat.
+## Purpose
 
-**Dialogue**
+The emotional turning point: Mimi transforms the tidy-up moment from a problem into a game.
+She hops to the toy box and asks "Tidy game?" — reframing cleaning as play. Kiko's mild
+surprise shifts to interest and a smile.
+
+## Opening Hook
+
+First 2–3 seconds: Mimi hops lightly toward `KH-TOYBOX-01` with a bright, excited expression.
+Her movement is playful and inviting — she's about to turn the mess into a game.
+
+## Continuity
+
+Direct continuation from Shot 02. Kiko has just said "Too messy." Both are looking at the
+scattered toys. Now Mimi takes action — she hops to the toy box and proposes a game. Background
+remains locked from Shot 01.
+
+## Environment Anchors
+
+- Same Kiko's Home Living Room / toy rug; warm daytime light, soft surfaces, rounded furniture.
+- `KH-TOYBOX-01` visible at the edge of the toy rug — Mimi hops toward it.
+- 5-6 large soft toys scattered on the round toy rug; same positions as Shots 01-02.
+- Mimi moves toward the toy box; Kiko watches.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–02. Background locked from first frame. Only Kiko, Mimi, and the
+scattered toys move. The soft furniture, toy rug, KH-TOYBOX-01, and warm daytime light
+remain stable.
+
+## Visual Prompt
+
+```text
+Kiko's Home — Living Room / toy rug, warm daytime. Mimi (lavender shirt, light blue short
+overalls, soft round ears) hops excitedly toward KH-TOYBOX-01 at the rug's edge. Her
+expression is bright and playful: "Tidy game?" Kiko (coral pink shirt, brown pigtails)
+watches from the rug, her surprised expression shifting to a smile. 5-6 large soft toys
+scattered on the round toy rug. Soft pastel colours, warm light, rounded safe home shapes,
+no other characters, {style} {camera} {lighting}
+
+The Kiko's Home living room background is locked from the first frame; keep the soft
+furniture, toy rug, KH-TOYBOX-01 and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Two-shot at child eye level, medium framing. Camera follows Mimi's hop toward the toy box,
+then catches Kiko's face as her expression shifts from surprise to a smile. Slow, gentle
+movement. No fast cuts, no dramatic angles.
+
+## Dialogue
 
 ```text
 Mimi: Tidy game?
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Mimi toy box'un yanına hoplar | Medium, follows Mimi |
-| 3-6 sec | "Tidy game?" der; yüzünde heyecan | Close-up on Mimi |
-| 6-9 sec | Kiko şaşırır; sonra gülümser | Close-up on Kiko |
-| 9-12 sec | İkisi birlikte toy box'a bakar | Medium two-shot |
+| 0-3 sec | Mimi hops excitedly toward KH-TOYBOX-01 | Medium, follows Mimi |
+| 3-7 sec | Mimi: "Tidy game?" — bright, inviting expression | Close-up on Mimi |
+| 7-10 sec | Kiko's surprised face shifts to a smile | Close-up on Kiko |
+| 10-15 sec | Both look at the scattered toys; the mood shifts to playful | Medium two-shot |
 
-**Sound:** Mimi'nin hoplama sesi — yumuşak "pof". "Tidy game?" sesi heyecanlı ve
-davetkar.
+## Sound
 
-**Emotion:** Oyuna çevirme — Mimi toplamayı bir görev değil, bir oyun olarak sunar.
-Kiko'nun şaşkınlığı gülümsemeye dönüşür: "Ah, bu bir oyun olabilir!"
+Mimi's hop makes a soft "pof" on the rug. Her "Tidy game?" is bright, excited, and
+inviting — a friend proposing an adventure. Kiko's quiet laugh is warm and surprised. No
+music, no dramatic sting. Natural home ambience only.
 
-**Negative anchors:** no "clean up now" command, no "it's your fault" blame, no chore
-feeling, no "we have to do this," no adult instruction.
+## Emotion
+
+Reframing — Mimi transforms the problem into play. The scattered toys are no longer "messy";
+they're game pieces. Kiko's shift from "uh-oh" to a smile is the emotional bridge. This is
+the support moment: help that feels like fun.
+
+## Safe-Exposure Notes
+
+No "clean up now" command, no "it's your fault" blame, no chore feeling, no "we have to do
+this," no adult instruction. Mimi's game proposal is playful and voluntary — it's an
+invitation, not an order.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp furniture, metal surfaces, hard ground, "clean up now" command, "it's
+your fault" blame, chore feeling, "we have to do this" urgency, adult instruction, scolding,
+punishment, angry face, frustrated expression, extra characters, cinematic LUT, blue tint,
+green tint, orange shift, HDR look, fast movement, sudden camera motion, static talking
+pose, characters frozen, background music, music, melody, song, soundtrack, forced smile,
+reluctant expression, heavy sigh
+
+## QA Checklist
+
+- [ ] Kiko + Mimi identity preserved; expressions match emotional beat.
+- [ ] Kiko's Home living room identity preserved: soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+- [ ] 5-6 large soft toys scattered; continuity from Shots 01-02.
+- [ ] Mimi's "Tidy game?" reads playful and inviting; not commanding.
+- [ ] Kiko's smile reads genuine and warm; not forced.
+- [ ] No blame, no chore feeling, no adult instruction.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 #### BLD-EP19 — Shot 04 — Colour by Colour (Action)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP19 — Tidy-Up Time |
+| Shot | 04 / 08 |
+| Duration | 12 seconds |
 | Location | Kiko's Home — Living Room / toy rug |
 | Characters | Kiko, Mimi |
 | Time of Day | Warm Daytime |
-| Object Lock | KH-TOYBOX-01; 5-6 large soft toys only |
+| Spine step | ACTION |
 
-**Opening hook:** Kiko sarı topu alır, Mimi ise büyük mavi bloğu — her biri birer tane
-oyuncak kutuya koyar. Renk renk toplama başlar.
+## Purpose
 
-**Dialogue**
+Show the core tidy-up game in action: Kiko picks up the yellow ball, Mimi picks up the large
+blue block — each placing one toy into the box. The colour-naming makes it playful and
+readable. Each toy is handled gently and placed, not thrown.
+
+## Opening Hook
+
+First 2–3 seconds: Kiko reaches down and picks up the soft yellow ball from the rug. Her
+movement is deliberate and cheerful — this is play, not work.
+
+## Continuity
+
+Direct continuation from Shot 03. Mimi has just proposed "Tidy game?" and Kiko smiled. Now
+both characters begin picking up toys. Background remains locked.
+
+## Environment Anchors
+
+- Same Kiko's Home Living Room / toy rug; warm daytime light, soft surfaces, rounded furniture.
+- `KH-TOYBOX-01` at the rug's edge; now the destination for the toys.
+- 5-6 large soft toys on the rug; Kiko holds the yellow ball, Mimi reaches for the blue block.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–03. Background locked from first frame. Only Kiko, Mimi, and the toys
+being picked up move. The soft furniture, toy rug, KH-TOYBOX-01, and warm daytime light
+remain stable.
+
+## Visual Prompt
+
+```text
+Kiko's Home — Living Room / toy rug, warm daytime. Kiko (coral pink shirt, brown pigtails)
+picks up the soft yellow ball from the round toy rug and says: "Yellow one!" She places it
+gently into KH-TOYBOX-01. Mimi (lavender shirt, light blue short overalls, soft round ears)
+picks up the large blue block: "Blue one!" and places it gently into the box. Both smile
+as they play the tidy game. Remaining toys still on the rug. Soft pastel colours, warm light,
+rounded safe home shapes, no other characters, {style} {camera} {lighting}
+
+The Kiko's Home living room background is locked from the first frame; keep the soft
+furniture, toy rug, KH-TOYBOX-01 and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium shot at child eye level, following each character's pick-up-and-place action. Camera
+tilts down as each toy is placed in the box, then back up to the character's smiling face.
+Gentle, rhythmic movement — pick up, place, smile. No fast cuts.
+
+## Dialogue
 
 ```text
 Kiko: Yellow one!
 Mimi: Blue one!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Kiko sarı topu alır: "Yellow one!" | Close-up on Kiko |
-| 3-6 sec | Topu kutuya bırakır | Close-up on toy box |
-| 6-9 sec | Mimi mavi bloğu alır: "Blue one!" | Close-up on Mimi |
-| 9-12 sec | Bloğu kutuya bırakır | Close-up on toy box |
+| 0-3 sec | Kiko picks up the soft yellow ball: "Yellow one!" | Medium on Kiko |
+| 3-6 sec | She places it gently into KH-TOYBOX-01 | Tilt down to box |
+| 6-9 sec | Mimi picks up the large blue block: "Blue one!" | Medium on Mimi |
+| 9-12 sec | She places it gently into the box; both smile | Tilt down to box, hold |
 
-**Sound:** Oyuncakların yumuşak kutuya bırakılma sesleri — "pof pof". Renk isimleri
-seçkin ve heyecanlı.
+## Sound
 
-**Emotion:** Toplama oyunu — her oyuncak bir renk ve her renk bir zafer. Kiko ve Mimi
-birlikte çalışırken eğleniyor.
+Soft "pof" as each toy is placed gently into the box. Kiko's "Yellow one!" and Mimi's
+"Blue one!" are bright and cheerful — naming colours as they play. No music, no rushed
+sounds. Natural home ambience only.
 
-**Negative anchors:** no rushing, no competition, no "I did more," no throwing toys,
-no broken toys, no tiny pieces, no blame.
+## Emotion
+
+Playful action — each toy is a colour, each colour a small victory. Kiko and Mimi are
+working together, and the tidy game feels fun. The gentle placement reinforces care and
+respect for the toys.
+
+## Safe-Exposure Notes
+
+No rushing, no competition, no "I did more," no throwing toys, no broken toys, no tiny
+pieces, no blame. Each toy is picked up gently and placed softly into the box. The game
+is cooperative and calm.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp furniture, metal surfaces, hard ground, rushing, competition, "I did
+more" comparison, throwing toys, broken toys, tiny pieces, blame, scolding, extra characters,
+cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera
+motion, static talking pose, characters frozen, background music, music, melody, song,
+soundtrack, heavy lifting, tired expression, "almost there" urgency
+
+## QA Checklist
+
+- [ ] Kiko + Mimi identity preserved; expressions match emotional beat.
+- [ ] Kiko's Home living room identity preserved: soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+- [ ] Each toy is picked up gently and placed softly; not thrown.
+- [ ] Colour names are cheerful and readable.
+- [ ] The tidy game reads as play, not work.
+- [ ] No competition, no rushing, no blame.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 #### BLD-EP19 — Shot 05 — Finishing Together (Action)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP19 — Tidy-Up Time |
+| Shot | 05 / 08 |
+| Duration | 12 seconds |
 | Location | Kiko's Home — Living Room / toy rug |
 | Characters | Kiko, Mimi |
 | Time of Day | Warm Daytime |
-| Object Lock | KH-TOYBOX-01; 5-6 large soft toys only |
+| Spine step | ACTION |
 
-**Opening hook:** Son oyuncaklar da kutuya girer — kitap rafa, diğer oyuncaklar
-KH-TOYBOX-01 içine. Toplama işlemi bitmek üzere.
+## Purpose
 
-**Dialogue**
+Show the final steps of the tidy-up game: Kiko places the last book on the shelf, Mimi drops
+the final toy into the box. The completion feels satisfying and shared — they did it together.
+
+## Opening Hook
+
+First 2–3 seconds: Kiko holds a soft green book and walks toward a small rounded shelf. Mimi
+holds the last remaining toy on the rug. The rug is almost clear.
+
+## Continuity
+
+Direct continuation from Shot 04. Several toys have been placed in the box. Now the final
+toys are being put away — the rug is nearly clean. Background remains locked.
+
+## Environment Anchors
+
+- Same Kiko's Home Living Room / toy rug; warm daytime light, soft surfaces, rounded furniture.
+- `KH-TOYBOX-01` at the rug's edge, now mostly full.
+- The toy rug is almost clear — only the green book and one last toy remain.
+- Kiko walks toward a small rounded shelf; Mimi holds the last toy.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–04. Background locked from first frame. Only Kiko, Mimi, and the
+remaining toys move. The soft furniture, toy rug, KH-TOYBOX-01, and warm daytime light
+remain stable.
+
+## Visual Prompt
+
+```text
+Kiko's Home — Living Room / toy rug, warm daytime. The round toy rug is almost clear — only
+a soft green book and one last plush toy remain. Kiko (coral pink shirt, brown pigtails)
+places the soft green book gently on a small rounded shelf: "Almost done!" Mimi (lavender
+shirt, light blue short overalls, soft round ears) holds the last toy and places it into
+KH-TOYBOX-01: "Last one!" Both smile — the rug is nearly clean. Soft pastel colours, warm
+light, rounded safe home shapes, no other characters, {style} {camera} {lighting}
+
+The Kiko's Home living room background is locked from the first frame; keep the soft
+furniture, toy rug, KH-TOYBOX-01 and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium shot at child eye level, following Kiko to the shelf then Mimi to the box. A gentle
+pan connects the two actions. The camera holds on the toy box as the last toy drops in — a
+satisfying completion moment. Steady and calm.
+
+## Dialogue
 
 ```text
 Kiko: Almost done!
 Mimi: Last one!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Kiko bir kitabı rafa koyar | Medium, follows Kiko |
-| 3-6 sec | "Almost done!" der | Medium hold |
-| 6-9 sec | Mimi son oyuncağı alır: "Last one!" | Medium on Mimi |
-| 9-12 sec | Oyuncağı kutuya bırakır; kutu kapanır | Close-up on toy box |
+| 0-3 sec | Kiko places the soft green book on the shelf | Medium on Kiko |
+| 3-6 sec | "Almost done!" — she turns back to the rug | Pan to rug |
+| 6-9 sec | Mimi holds the last toy: "Last one!" | Medium on Mimi |
+| 9-12 sec | She places it into KH-TOYBOX-01; the rug is clear | Close-up on box, hold |
 
-**Sound:** Son oyuncakların bırakılma sesleri — "pof". "Last one!" sevinci.
+## Sound
 
-**Emotion:** Bitirme — son adımlar heyecan verici. Kiko ve Mimi birlikte bir şeyi
-tamamlamanın gururunu yaşıyor.
+Soft "pof" as the book settles on the shelf and the last toy drops into the box. "Almost
+done!" and "Last one!" are bright and satisfied — the game is ending well. No music, no
+rushed sounds. Natural home ambience only.
 
-**Negative anchors:** no "finally" exhaustion, no "that took forever," no tired face,
-no "are we done yet," no rushed ending.
+## Emotion
+
+Completion — the last steps feel good. Kiko and Mimi are finishing together, and the rug
+is becoming clear. The satisfaction is in the doing, not just the result.
+
+## Safe-Exposure Notes
+
+No "finally" exhaustion, no "that took forever," no tired face, no "are we done yet," no
+rushed ending. The completion is warm and natural — the game ended because all the toys
+found their home.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp furniture, metal surfaces, hard ground, "finally" exhaustion, "that
+took forever" expression, tired face, "are we done yet" question, rushed ending, heavy
+sigh, extra characters, cinematic LUT, blue tint, green tint, orange shift, HDR look,
+fast movement, sudden camera motion, static talking pose, characters frozen, background
+music, music, melody, song, soundtrack, dropping toys, messy shelf, overflowing box
+
+## QA Checklist
+
+- [ ] Kiko + Mimi identity preserved; expressions match emotional beat.
+- [ ] Kiko's Home living room identity preserved: soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+- [ ] The rug is nearly clear; only the last toys remain.
+- [ ] Completion reads warm and natural; not rushed or exhausting.
+- [ ] No "finally," no tired face, no exhaustion.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 #### BLD-EP19 — Shot 06 — Open and Safe (Relief)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP19 — Tidy-Up Time |
+| Shot | 06 / 08 |
+| Duration | 15 seconds |
 | Location | Kiko's Home — Living Room / toy rug |
 | Characters | Kiko, Mimi |
 | Time of Day | Warm Daytime |
-| Object Lock | KH-TOYBOX-01; all toys inside, toy rug clear |
+| Spine step | RELIEF |
 
-**Opening hook:** Halı artık açık ve temiz görünür — dağınıklık gitti, yerine düzen ve
-güven geldi. İkisi de rahat bir nefes alır.
+## Purpose
 
-**Dialogue**
+The emotional payoff: the toy rug is now clear and open. The scattered toys are gone —
+everything is in `KH-TOYBOX-01` or on the shelf. Kiko and Mimi breathe in the clean space
+and feel the relief of a tidy room.
+
+## Opening Hook
+
+First 2–3 seconds: A wide view of the round toy rug — completely clear. The soft rug is
+open and inviting. `KH-TOYBOX-01` sits at the edge, full but tidy. The room feels warm
+and safe.
+
+## Continuity
+
+Direct continuation from Shot 05. The last toy has been placed. The rug is clear. Now
+Kiko and Mimi take in the result — a clean, open, safe space. Background remains locked.
+
+## Environment Anchors
+
+- Same Kiko's Home Living Room / toy rug; warm daytime light, soft surfaces, rounded furniture.
+- `KH-TOYBOX-01` at the rug's edge, now full — all 5-6 toys inside.
+- The round toy rug is completely clear and open.
+- Kiko and Mimi stand on or near the rug, looking at the clean space.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–05. Background locked from first frame. The only change is the rug
+is now clear and KH-TOYBOX-01 is full. Soft furniture, warm daytime light remain stable.
+
+## Visual Prompt
+
+```text
+Kiko's Home — Living Room / toy rug, warm daytime. Wide view of the round toy rug — completely
+clear and open. KH-TOYBOX-01 sits at the edge, full with soft toys. Kiko (coral pink shirt,
+brown pigtails) and Mimi (lavender shirt, light blue short overalls, soft round ears) stand
+near the rug, looking at the clean space. Both smile with relief: "All clean!" / "So tidy!"
+The room feels warm, safe, and inviting. Soft pastel colours, warm light, rounded safe home
+shapes, no other characters, {style} {camera} {lighting}
+
+The Kiko's Home living room background is locked from the first frame; keep the soft
+furniture, toy rug, KH-TOYBOX-01 and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Wide shot at child eye level showing the full clear rug, KH-TOYBOX-01, and both characters.
+Camera holds steady, letting the clean space breathe. A very gentle pull-back to show the
+whole warm room — tidy, safe, and beautiful.
+
+## Dialogue
 
 ```text
 Kiko: All clean!
 Mimi: So tidy!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Halının temiz hali görünür | Wide, toy rug |
-| 3-6 sec | Kiko: "All clean!" | Medium on Kiko |
-| 6-9 sec | Mimi: "So tidy!" | Medium on Mimi |
-| 9-12 sec | İkisi temiz odaya bakar; gülümserler | Wide two-shot |
+| 0-3 sec | Wide view of the clear toy rug; KH-TOYBOX-01 full at the edge | Wide hold |
+| 3-7 sec | Kiko: "All clean!" — warm, satisfied | Medium on Kiko |
+| 7-11 sec | Mimi: "So tidy!" — bright, proud | Medium on Mimi |
+| 11-15 sec | Both look at the clean room; a quiet, happy beat | Wide two-shot, gentle pull-back |
 
-**Sound:** Sessiz bir an — temizlik sessiz gelir. "All clean!" ve "So tidy!" sevinçli
-ama sakin sesler.
+## Sound
 
-**Emotion:** Rahatlama — temizlik işe yaradı. Oda artık güvenli ve güzel görünüyor.
-Kiko ve Mimi bunu birlikte başardı.
+A quiet moment — the room is soft and still. "All clean!" and "So tidy!" are warm, satisfied
+voices. No music, no triumphant fanfare. Natural home ambience only — the silence of a clean
+room.
 
-**Negative anchors:** no "spotless" perfection, no "perfectly clean" standard, no
-comparison to before, no "see how much better."
+## Emotion
+
+Relief and quiet pride — the tidy game worked. The room is now open, safe, and beautiful.
+Kiko and Mimi did this together, and the result feels good. No comparison to "before"; the
+clean space speaks for itself.
+
+## Safe-Exposure Notes
+
+No "spotless" perfection, no "perfectly clean" standard, no comparison to before, no "see
+how much better." The rug is simply clean — as it should be. The feeling is relief, not
+achievement.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp furniture, metal surfaces, hard ground, "spotless" perfection,
+"perfectly clean" standard, comparison to before, "see how much better" visual, "nature is
+happy now" text, dramatic reveal, extra characters, cinematic LUT, blue tint, green tint,
+orange shift, HDR look, fast movement, sudden camera motion, static talking pose, characters
+frozen, background music, music, melody, song, soundtrack, sparkling clean visual,
+before/after split, cleaning product visual
+
+## QA Checklist
+
+- [ ] Kiko + Mimi identity preserved; expressions match emotional beat.
+- [ ] Kiko's Home living room identity preserved: soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+- [ ] The toy rug is completely clear; all toys in KH-TOYBOX-01 or on shelf.
+- [ ] "All clean!" / "So tidy!" read warm and satisfied; not perfectionist.
+- [ ] No comparison to "before," no "spotless" standard.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 #### BLD-EP19 — Shot 07 — Tidy Up, All Done! (Lesson)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP19 — Tidy-Up Time |
+| Shot | 07 / 08 |
+| Duration | 12 seconds |
 | Location | Kiko's Home — Living Room / toy rug |
 | Characters | Kiko, Mimi |
 | Time of Day | Warm Daytime |
-| Object Lock | KH-TOYBOX-01; all toys inside, toy rug clear |
+| Spine step | LESSON |
 
-**Opening hook:** Kiko ve Mimi birlikte tekrarlanan cümleyi söyler: "Tidy up, all done!"
-Gururlu ve rahatlar.
+## Purpose
 
-**Dialogue**
+Deliver the repeated phrase naturally: Kiko and Mimi say "Tidy up, all done!" together. The
+lesson is presented as a shared completion — the game is over, the room is clean, and the
+phrase seals the moment with warmth.
+
+## Opening Hook
+
+First 2–3 seconds: Kiko and Mimi stand side by side on the clean toy rug, facing each other.
+Kiko's face lights up as she formulates the phrase. Mimi listens, ready to join in.
+
+## Continuity
+
+Direct continuation from Shot 06. The rug is clean, the toys are in the box. Now the
+characters articulate the repeated phrase together. Background remains locked.
+
+## Environment Anchors
+
+- Same Kiko's Home Living Room / toy rug; warm daytime light, soft surfaces, rounded furniture.
+- `KH-TOYBOX-01` at the rug's edge, full with soft toys.
+- The round toy rug is clear and open.
+- Kiko and Mimi stand on the clean rug, facing each other.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–06. Background locked from first frame. Only Kiko and Mimi move.
+The soft furniture, toy rug, KH-TOYBOX-01, and warm daytime light remain stable.
+
+## Visual Prompt
+
+```text
+Kiko's Home — Living Room / toy rug, warm daytime. Kiko (coral pink shirt, brown pigtails)
+and Mimi (lavender shirt, light blue short overalls, soft round ears) stand side by side on
+the clean round toy rug, facing each other. Both smile and say together: "Tidy up, all done!"
+KH-TOYBOX-01 sits at the rug's edge, full with soft toys. The room is warm and inviting. Soft
+pastel colours, warm light, rounded safe home shapes, no other characters, {style} {camera}
+{lighting}
+
+The Kiko's Home living room background is locked from the first frame; keep the soft
+furniture, toy rug, KH-TOYBOX-01 and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium two-shot at child eye level, both characters facing each other on the clean rug.
+Camera holds steady, letting the shared phrase land naturally. A gentle, almost
+imperceptible pull-back to show the full warm scene.
+
+## Dialogue
 
 ```text
 Kiko & Mimi: Tidy up, all done!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Kiko ve Mimi birlikte durur | Medium two-shot |
-| 3-6 sec | İkisi birlikte: "Tidy up, all done!" | Medium hold |
-| 6-9 sec | Gülümserler; gururlu bir an | Close two-shot |
-| 9-12 sec | İkisi birlikte toy box'a bakar | Medium hold |
+| 0-3 sec | Kiko and Mimi stand on the clean rug, facing each other | Medium two-shot |
+| 3-6 sec | Both say together: "Tidy up, all done!" | Medium hold |
+| 6-9 sec | They look at each other with warm, proud smiles | Close two-shot |
+| 9-12 sec | They turn to look at the clean room together | Medium hold |
 
-**Sound:** Sıcak, samimi ses tonları — birlikte söylenen cümle. Gururlu ve rahat.
+## Sound
 
-**Emotion:** Tekrarlanan cümle — "Tidy up, all done!" bir zafer ilanı değil, bir
-tamamlama hissi. Toplamak bir görev değil, bir oyundu ve bitti.
+Warm, sincere voices — both characters say the phrase together, naturally and happily. The
+room is quiet and soft. No music, no dramatic underscore. The phrase lands like a shared
+completion between friends.
 
-**Negative anchors:** no moralizing, no "always clean up" lecture, no "see how nice
-it looks," no adult instruction.
+## Emotion
+
+The repeated phrase — "Tidy up, all done!" is not a rule, it's a celebration. Kiko and Mimi
+played the tidy game together, and now they seal it with words. The lesson feels earned, not
+preached.
+
+## Safe-Exposure Notes
+
+No moralizing, no "always clean up" lecture, no "see how nice it looks," no adult instruction.
+The phrase is delivered as a shared completion, not a rule being taught. The tone is warm and
+friendly.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp furniture, metal surfaces, hard ground, moralizing, lecture, "always
+clean up" command, "see how nice it looks" visual, adult instruction, scolding, punishment,
+on-screen lesson text, dramatic music, extra characters, cinematic LUT, blue tint, green
+tint, orange shift, HDR look, fast movement, sudden camera motion, static talking pose,
+characters frozen, background music, music, melody, song, soundtrack, preachy tone,
+adult voice-over, thumbs up from off-screen
+
+## QA Checklist
+
+- [ ] Kiko + Mimi identity preserved; expressions match emotional beat.
+- [ ] Kiko's Home living room identity preserved: soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+- [ ] "Tidy up, all done!" delivered naturally; not forced or preachy.
+- [ ] The phrase feels like a shared completion, not a rule.
+- [ ] Both characters' expressions are warm and genuine.
+- [ ] No moralizing, no lecture, no adult voice-over.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 #### BLD-EP19 — Shot 08 — Warm Closing (Lesson)
 
+## Scene Context
+
 | Field | Value |
 |---|---|
+| Episode | Brave Little Days EP19 — Tidy-Up Time |
+| Shot | 08 / 08 |
+| Duration | 12 seconds |
 | Location | Kiko's Home — Living Room / toy rug |
 | Characters | Kiko, Mimi |
 | Time of Day | Warm Daytime |
-| Object Lock | KH-TOYBOX-01; all toys inside, toy rug clear |
+| Spine step | LESSON |
 
-**Opening hook:** Toy box yumuşakça kapanır; Kiko ve Mimi temiz halıda oturur. İkisi de
-rahat ve gururludur — düzen hem güzel hem güvenlidir.
+## Purpose
 
-**Dialogue**
+The warm closing shot: Kiko and Mimi sit together on the clean toy rug, facing the camera.
+The repeated phrase "Tidy up, all done!" has been delivered; the lesson is complete. The room
+is clean, safe, and warm. They give a small friendly wave.
+
+## Opening Hook
+
+First 2–3 seconds: Kiko and Mimi sit together on the clean round toy rug, facing the camera.
+Both have warm, relaxed smiles. KH-TOYBOX-01 sits at the rug's edge, full and tidy. The room
+surrounds them — clean, warm, and inviting.
+
+## Continuity
+
+Direct continuation from Shot 07. The phrase has been shared. Now the characters close the
+episode with a warm, friendly goodbye. Background remains locked.
+
+## Environment Anchors
+
+- Same Kiko's Home Living Room / toy rug; warm daytime light, soft surfaces, rounded furniture.
+- `KH-TOYBOX-01` at the rug's edge, full with soft toys.
+- The round toy rug is clean and open.
+- Kiko and Mimi sit together on the rug, facing the camera.
+- No new props, no new characters, no background movement.
+
+## Background Object Lock
+
+Identical to Shots 01–07. Background locked from first frame. Only Kiko and Mimi move.
+The soft furniture, toy rug, KH-TOYBOX-01, and warm daytime light remain stable.
+
+## Visual Prompt
+
+```text
+Kiko's Home — Living Room / toy rug, warm daytime. Kiko (coral pink shirt, brown pigtails)
+and Mimi (lavender shirt, light blue short overalls, soft round ears) sit together on the
+clean round toy rug, facing the camera. Both have warm, relaxed smiles. KH-TOYBOX-01 sits at
+the rug's edge, full with soft toys. They say: "Tidy up, all done!" Then they give a small
+gentle wave. The room is clean, warm, and inviting. Soft pastel colours, warm light, rounded
+safe home shapes, no other characters, {style} {camera} {lighting}
+
+The Kiko's Home living room background is locked from the first frame; keep the soft
+furniture, toy rug, KH-TOYBOX-01 and warm daytime light stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+Medium shot at child eye level, both characters centered in frame. Camera holds steady for
+the final moment. A very gentle, almost imperceptible pull-back to show the full warm scene.
+The shot fades to soft warmth at the end.
+
+## Dialogue
 
 ```text
 Kiko: Tidy up, all done!
 Mimi: All done!
 ```
 
-**Shot breakdown:**
+## Shot Breakdown
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Toy box yumuşakça kapanır | Close-up on toy box |
-| 3-6 sec | Kiko ve Mimi temiz halıda oturur | Medium two-shot |
-| 6-9 sec | İkisi birlikte: "Tidy up, all done!" | Medium hold |
-| 9-12 sec | Sıcak gülümseme; sahne sıcakça tutulur | Medium hold, gentle fade |
+| 0-3 sec | Kiko and Mimi sit together on the clean rug, facing camera | Medium hold |
+| 3-6 sec | Both say: "Tidy up, all done!" with warm smiles | Medium hold |
+| 6-9 sec | They give a small gentle wave to the camera | Medium hold |
+| 9-12 sec | Warm smiles; the scene holds for a soft, gentle fade | Gentle pull-back |
 
-**Sound:** Toy box'ın yumuşak kapanma sesi — "tık". Sıcak, samimi ses tonları.
-Nazik bir kapanış hissi.
+## Sound
 
-**Emotion:** Sıcak kapanış — toplamak eğlenceliydi ve sonuçta oda güzel ve güvenli
-oldu. Kiko ve Mimi bunu birlikte başardı.
+Soft home ambience: gentle room tone, light warmth. Both voices together on the repeated
+phrase — warm, sincere, and friendly. The room is quiet and peaceful. No music, no outro
+sting. Natural ambience carries to the end.
 
-**Negative anchors:** no moralizing, no lecture, no adult voice-over, no on-screen text,
-no dramatic music, no lesson-on-screen, no exaggerated wave, no preachy tone.
+## Emotion
+
+Warm closure. The clean rug, the full toy box, the shared phrase, the shared wave — everything
+reinforces that tidying up is a simple, beautiful choice made together. The lesson is complete,
+and the feeling is one of gentle accomplishment.
+
+## Safe-Exposure Notes
+
+No moralizing, no lecture, no adult voice-over, no on-screen text, no dramatic music, no
+lesson-on-screen, no exaggerated wave, no preachy tone. The repeated phrase is delivered as
+a shared completion, not a rule being taught. The wave is friendly and inclusive — inviting
+the viewer into the moment.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp furniture, metal surfaces, hard ground, moralizing, lecture, adult
+voice-over, on-screen text, dramatic music, lesson-on-screen, exaggerated wave, preachy
+tone, "always clean up" command, "see how nice it looks" text, extra characters, cinematic
+LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion,
+static talking pose, characters frozen, background music, music, melody, song, soundtrack,
+dramatic fade, lesson-on-screen text, cleaning product visual, before/after split
+
+## QA Checklist
+
+- [ ] Kiko + Mimi identity preserved; final expressions warm and relaxed.
+- [ ] Kiko's Home living room identity preserved: soft furniture, toy rug, KH-TOYBOX-01, warm daytime light.
+- [ ] The toy rug is clean; KH-TOYBOX-01 full at the edge.
+- [ ] "Tidy up, all done!" delivered as shared completion, not lecture.
+- [ ] The wave is gentle and friendly; not exaggerated.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+- [ ] The closing feels warm and complete — no loose ends.
 
 ---
 
@@ -11099,6 +12534,480 @@ soundtrack, dramatic fade, lesson-on-screen text
 - [ ] The wave is gentle and friendly; not exaggerated.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] The closing feels warm and complete — no loose ends.
+
+---
+
+## Noah & Arda — Special Scenes (Standalone Moments)
+
+> Noah ve Arda için **bağımsız sahneler** — tam bölüm değil, tekil anlar.
+> Format: Brave Little Days 15-bölüm yapısıyla aynı. Onaylandıktan sonra tam pakete çevrilir.
+
+---
+
+### Scene: Noah & Arda — Big Tree Excitement
+
+#### BLD-SP01 — Shot 01 — The Big Tree Is This Way (Excitement)
+
+## Scene Context
+
+| Field | Value |
+|---|---|
+| Episode | Noah & Arda — Special Scene 01 |
+| Shot | 01 / 01 |
+| Duration | 15 seconds |
+| Location | Central Square — near Big Pompom Tree |
+| Characters | Noah, Arda |
+| Time of Day | Warm Morning |
+| Spine step | EXCITEMENT |
+
+## Purpose
+
+Capture the excited "let's go there" feeling between two friends — no running, no walking,
+just pure enthusiasm and shared anticipation.
+
+## Opening Hook
+
+First 3–5 seconds: Noah and Arda stand together in Central Square. Noah looks toward the
+Big Pompom Tree with bright eyes; Arda bounces slightly in place with excitement.
+
+## Continuity
+
+Standalone moment. No prior shot dependency. Maintain Noah + Arda identity, Central Square
+world identity, warm morning light.
+
+## Environment Anchors
+
+- Central Square; Big Pompom Tree visible in background.
+- Soft green grass, rounded paths, warm morning light.
+- No props needed — the tree itself is the destination.
+- No extra characters.
+
+## Background Object Lock
+
+Background locked from first frame. Big Pompom Tree, soft grass, rounded paths stable.
+Only Noah and Arda move.
+
+## Visual Prompt
+
+```text
+Central Square, warm morning. Big Pompom Tree visible in the background as a landmark.
+Noah (blue-green hoodie, brown messy hair, round curious eyes) looks toward the tree
+with bright excited eyes and points with a friendly gesture. Arda (green shirt, brown
+curly hair, slightly smaller) bounces excitedly in place, hands clasped with anticipation.
+Both look toward the tree, then back to the viewer with eager smiles. Soft pastel
+colours, warm light, rounded safe shapes, no other characters, {style} {camera} {lighting}
+
+The Central Square background is locked from the first frame; keep Big Pompom Tree,
+soft grass and rounded paths stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+32mm wide at child eye level establishing Central Square and Big Pompom Tree; slow
+settle to medium on Noah and Arda. Stable settle only. No pan, no zoom, no reveal.
+
+## Dialogue
+
+```text
+Noah: The big tree is this way.
+Arda: I know! Come on!
+```
+
+## Shot Breakdown
+
+| Time | Action | Camera |
+|---|---|---|
+| 0-3 sec | Central Square visible; Big Pompom Tree in background | Wide |
+| 4-7 sec | Noah points toward the tree: "The big tree is this way." | Settle |
+| 7-10 sec | Arda bounces excitedly: "I know! Come on!" | Medium |
+| 10-15 sec | Both look toward the tree, then smile at the viewer | Medium hold |
+
+## Sound
+
+Soft Central Square ambience: birds, light breeze. Natural ambience only.
+No music, no loud sounds, no running footsteps.
+
+## Emotion
+
+Pure excitement and shared anticipation. Two friends eager to explore together.
+The feeling is light, warm, and inviting.
+
+## Safe-Exposure Notes
+
+NO running, NO walking, NO jumping, NO repositioning. Noah points with a gesture;
+Arda bounces in place. Both stay in their positions. The excitement is in their
+expressions and small movements, not in locomotion.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp objects, metal playground, hard ground, falling, dangerous height,
+crowd, competition, running, walking, jogging, repositioning, crossing, extra characters,
+redesigned Central Square, changed tree colour, cinematic LUT, blue tint, green tint,
+orange shift, HDR look, fast movement, sudden camera motion, static talking pose,
+characters frozen, background music, music, melody, song, soundtrack, new props,
+new objects, surprise elements
+
+## QA Checklist
+
+- [ ] Noah + Arda identity preserved; Noah=100 units, Arda=85 units.
+- [ ] Central Square identity preserved: Big Pompom Tree, soft grass, rounded paths.
+- [ ] No running, no walking, no repositioning — both stay in place.
+- [ ] Excitement reads through expressions and small in-place movements.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
+
+### Scene: Noah & Arda — Guessing Game
+
+#### BLD-SP02 — Shot 01 — Can You Guess Where We Are? (Game)
+
+## Scene Context
+
+| Field | Value |
+|---|---|
+| Episode | Noah & Arda — Special Scene 02 |
+| Shot | 01 / 01 |
+| Duration | 15 seconds |
+| Location | Central Square |
+| Characters | Noah, Arda |
+| Time of Day | Warm Morning |
+| Spine step | GAME |
+
+## Purpose
+
+A clean, prop-free guessing game between Noah and the viewer, with Arda answering
+excitedly. Simple, safe, and engaging.
+
+## Opening Hook
+
+First 3–5 seconds: Noah looks at the viewer with a playful, knowing smile — like he's
+about to ask a small game question. Arda stands beside him, curious and ready.
+
+## Continuity
+
+Standalone moment. No prior shot dependency. Maintain Noah + Arda identity, Central Square
+world identity, warm morning light.
+
+## Environment Anchors
+
+- Central Square; Big Pompom Tree visible in background.
+- Soft green grass, rounded paths, warm morning light.
+- No props needed — the game is verbal.
+- No extra characters.
+
+## Background Object Lock
+
+Background locked from first frame. Big Pompom Tree, soft grass, rounded paths stable.
+Only Noah and Arda move.
+
+## Visual Prompt
+
+```text
+Central Square, warm morning. Big Pompom Tree visible in the background. Noah (blue-green
+hoodie, brown messy hair, round curious eyes) looks at the viewer with a playful knowing
+smile, as if asking a small game question. Arda (green shirt, brown curly hair, slightly
+smaller) stands beside him, eyes bright with excitement, ready to answer. Both face the
+viewer. Soft pastel colours, warm light, rounded safe shapes, no other characters,
+{style} {camera} {lighting}
+
+The Central Square background is locked from the first frame; keep Big Pompom Tree,
+soft grass and rounded paths stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+32mm wide at child eye level establishing Central Square; slow settle to medium on
+Noah and Arda facing the viewer. Stable settle only. No pan, no zoom, no reveal.
+
+## Dialogue
+
+```text
+Noah: Can you guess where we are?
+Arda: Pompom Hills!
+```
+
+## Shot Breakdown
+
+| Time | Action | Camera |
+|---|---|---|
+| 0-3 sec | Central Square visible; Noah and Arda face viewer | Wide |
+| 4-7 sec | Noah smiles playfully: "Can you guess where we are?" | Settle |
+| 7-10 sec | Arda throws hands up excitedly: "Pompom Hills!" | Medium |
+| 10-15 sec | Both laugh softly; warm moment with viewer | Medium hold |
+
+## Sound
+
+Soft Central Square ambience: birds, light breeze. Natural ambience only.
+No music, no loud sounds.
+
+## Emotion
+
+Playful and engaging — Noah invites the viewer into a small game, Arda's excited
+answer creates a warm, inclusive moment.
+
+## Safe-Exposure Notes
+
+No props, no physical game, no competition. The game is purely verbal and facial.
+Both characters stay in place; excitement is in expressions only.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp objects, metal playground, hard ground, falling, dangerous height,
+crowd, competition, running, walking, repositioning, extra characters, props, toys,
+redesigned Central Square, changed tree colour, cinematic LUT, blue tint, green tint,
+orange shift, HDR look, fast movement, sudden camera motion, static talking pose,
+characters frozen, background music, music, melody, song, soundtrack, game pieces,
+scoreboard, quiz cards, new objects, surprise elements
+
+## QA Checklist
+
+- [ ] Noah + Arda identity preserved; Noah=100 units, Arda=85 units.
+- [ ] Central Square identity preserved: Big Pompom Tree, soft grass, rounded paths.
+- [ ] No props needed — game is verbal only.
+- [ ] Noah's playful smile reads inviting, not smug.
+- [ ] Arda's excitement reads genuine and natural.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
+
+### Scene: Noah & Arda — Big Smile Challenge
+
+#### BLD-SP03 — Shot 01 — Ready for a Smile? (Challenge)
+
+## Scene Context
+
+| Field | Value |
+|---|---|
+| Episode | Noah & Arda — Special Scene 03 |
+| Shot | 01 / 01 |
+| Duration | 15 seconds |
+| Location | Central Square |
+| Characters | Noah, Arda |
+| Time of Day | Warm Morning |
+| Spine step | CHALLENGE |
+
+## Purpose
+
+A gentle smile challenge — Arda tries to make the viewer smile, Noah calmly joins.
+Very preschool, very safe, very warm.
+
+## Opening Hook
+
+First 3–5 seconds: Noah and Arda face the viewer. Noah has a calm, warm smile already
+forming. Arda looks eager, like he's about to do something fun.
+
+## Continuity
+
+Standalone moment. No prior shot dependency. Maintain Noah + Arda identity, Central Square
+world identity, warm morning light.
+
+## Environment Anchors
+
+- Central Square; Big Pompom Tree visible in background.
+- Soft green grass, rounded paths, warm morning light.
+- No props needed — the smiles are the content.
+- No extra characters.
+
+## Background Object Lock
+
+Background locked from first frame. Big Pompom Tree, soft grass, rounded paths stable.
+Only Noah and Arda move.
+
+## Visual Prompt
+
+```text
+Central Square, warm morning. Big Pompom Tree visible in the background. Noah (blue-green
+hoodie, brown messy hair, round curious eyes) smiles warmly at the viewer — a calm, genuine
+smile. Arda (green shirt, brown curly hair, slightly smaller) gives a huge enthusiastic grin,
+eyes sparkling, trying to make the viewer smile. Both face the viewer with different smile
+styles — Noah's is warm and steady, Arda's is big and playful. Soft pastel colours, warm
+light, rounded safe shapes, no other characters, {style} {camera} {lighting}
+
+The Central Square background is locked from the first frame; keep Big Pompom Tree,
+soft grass and rounded paths stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+32mm wide at child eye level establishing Central Square; slow settle to medium on
+Noah and Arda facing the viewer. Stable settle only. No pan, no zoom, no reveal.
+
+## Dialogue
+
+```text
+Noah: Ready for a smile?
+Arda: Big smile!
+```
+
+## Shot Breakdown
+
+| Time | Action | Camera |
+|---|---|---|
+| 0-3 sec | Central Square visible; Noah and Arda face viewer | Wide |
+| 4-7 sec | Noah smiles warmly: "Ready for a smile?" | Settle |
+| 7-10 sec | Arda gives huge grin: "Big smile!" | Medium |
+| 10-15 sec | Both hold their smiles; warm, inviting moment | Medium hold |
+
+## Sound
+
+Soft Central Square ambience: birds, light breeze. Natural ambience only.
+No music, no loud sounds.
+
+## Emotion
+
+Warm and inviting — the smiles are genuine and different. Noah's is calm and
+steady, Arda's is big and playful. Together they create a moment that naturally
+makes the viewer want to smile back.
+
+## Safe-Exposure Notes
+
+No exaggerated expressions, no silly faces, no forced smiles. Both characters'
+smiles are natural and age-appropriate. The challenge is gentle — not competitive.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp objects, metal playground, hard ground, falling, dangerous height,
+crowd, competition, running, walking, repositioning, extra characters, props, toys,
+redesigned Central Square, changed tree colour, cinematic LUT, blue tint, green tint,
+orange shift, HDR look, fast movement, sudden camera motion, static talking pose,
+characters frozen, background music, music, melody, song, soundtrack, silly faces,
+exaggerated expressions, forced smiles, mirror, reflection, new objects, surprise elements
+
+## QA Checklist
+
+- [ ] Noah + Arda identity preserved; Noah=100 units, Arda=85 units.
+- [ ] Central Square identity preserved: Big Pompom Tree, soft grass, rounded paths.
+- [ ] Noah's smile reads warm and calm; not forced or exaggerated.
+- [ ] Arda's grin reads enthusiastic and playful; not silly or over-the-top.
+- [ ] No on-screen text; calm but alive; no frozen pose.
+
+---
+
+### Scene: Noah & Arda — More Friends Coming
+
+#### BLD-SP04 — Shot 01 — More Friends Are Coming (Anticipation)
+
+## Scene Context
+
+| Field | Value |
+|---|---|
+| Episode | Noah & Arda — Special Scene 04 |
+| Shot | 01 / 01 |
+| Duration | 15 seconds |
+| Location | Central Square |
+| Characters | Noah, Arda |
+| Time of Day | Warm Morning |
+| Spine step | ANTICIPATION |
+
+## Purpose
+
+Bridge beat: Noah and Arda feel that more friends are approaching. This shot naturally
+connects to a final full-cast moment. Strong emotional bridge.
+
+## Opening Hook
+
+First 3–5 seconds: Noah looks to the side with quiet anticipation — he senses something.
+Arda stands beside him, already buzzing with excitement.
+
+## Continuity
+
+Standalone moment with bridge function. No prior shot dependency. This shot sets up
+a transition to a larger group. Maintain Noah + Arda identity, Central Square world
+identity, warm morning light.
+
+## Environment Anchors
+
+- Central Square; Big Pompom Tree visible in background.
+- Soft green grass, rounded paths, warm morning light.
+- No props needed — the anticipation is emotional.
+- No extra characters in this shot (friends are implied, not shown).
+
+## Background Object Lock
+
+Background locked from first frame. Big Pompom Tree, soft grass, rounded paths stable.
+Only Noah and Arda move.
+
+## Visual Prompt
+
+```text
+Central Square, warm morning. Big Pompom Tree visible in the background. Noah (blue-green
+hoodie, brown messy hair, round curious eyes) looks to the side with quiet anticipation,
+as if sensing something wonderful approaching. Arda (green shirt, brown curly hair, slightly
+smaller) bounces excitedly in place, hands clasped, eyes bright with eagerness. Both look
+toward the viewer with warm, expectant smiles. Soft pastel colours, warm light, rounded
+safe shapes, no other characters, {style} {camera} {lighting}
+
+The Central Square background is locked from the first frame; keep Big Pompom Tree,
+soft grass and rounded paths stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```
+
+## Camera Direction
+
+32mm wide at child eye level establishing Central Square; slow settle to medium on
+Noah and Arda. Stable settle only. No pan, no zoom, no reveal.
+
+## Dialogue
+
+```text
+Noah: More friends are coming.
+Arda: I can't wait!
+```
+
+## Shot Breakdown
+
+| Time | Action | Camera |
+|---|---|---|
+| 0-3 sec | Central Square visible; Noah looks to the side | Wide |
+| 4-7 sec | Noah: "More friends are coming." Quiet anticipation | Settle |
+| 7-10 sec | Arda bounces: "I can't wait!" Eyes bright | Medium |
+| 10-15 sec | Both smile at viewer; expectant, warm | Medium hold |
+
+## Sound
+
+Soft Central Square ambience: birds, light breeze. Natural ambience only.
+No music, no loud sounds, no approaching footsteps (friends are implied, not heard).
+
+## Emotion
+
+Warm anticipation — something wonderful is about to happen. Noah's quiet knowing
+and Arda's eager excitement create a bridge to a larger moment. The feeling is:
+"stay with us, something good is coming."
+
+## Safe-Exposure Notes
+
+No running, no calling out, no looking off-screen with alarm. The anticipation is
+positive and gentle. Friends are implied by the dialogue, not shown or heard.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, sharp objects, metal playground, hard ground, falling, dangerous height,
+crowd, competition, running, walking, repositioning, extra characters, fourth character,
+fifth character, sixth character, approaching figures, shadows, footsteps sound, props,
+toys, redesigned Central Square, changed tree colour, cinematic LUT, blue tint, green tint,
+orange shift, HDR look, fast movement, sudden camera motion, static talking pose,
+characters frozen, background music, music, melody, song, soundtrack, new objects,
+surprise elements, looking alarmed, looking scared, tension
+
+## QA Checklist
+
+- [ ] Noah + Arda identity preserved; Noah=100 units, Arda=85 units.
+- [ ] Central Square identity preserved: Big Pompom Tree, soft grass, rounded paths.
+- [ ] Anticipation reads positive and warm; not tense or worried.
+- [ ] No extra characters appear — friends are implied only.
+- [ ] Bridge function clear: this shot sets up a group moment.
+- [ ] No on-screen text; calm but alive; no frozen pose.
 
 ---
 

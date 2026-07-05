@@ -284,6 +284,13 @@ shot-specific hand-off instruction local to each shot file where it's actually u
 - This does not replace `00-CORE/CONTINUITY_RULES.md` — it is the per-episode checklist
   built on top of it, specifically adding the world-opening → Shot 01 step and the
   standard Transition QA / repair procedure.
+- This document governs the `@image1` continuity chain between shots inside the same
+  world/episode. For multi-shot videos that are generated as separate standalone shots and
+  combined later in editing (especially videos that move between different worlds), the
+  standalone-shot generation rule and the in-file post-production transition note are defined
+  in `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/STANDALONE_SHOT_AND_TRANSITION_STANDARD.md`.
+  That standard complements this one: transitions between worlds are never generated in
+  OpenArt, they are handled in editing using each shot's Post-Production Transition Note.
 
 ---
 
