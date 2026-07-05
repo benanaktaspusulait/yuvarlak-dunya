@@ -31,6 +31,25 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Text Safety var mı? (No subtitles)
 - [ ] Negative Prompt var mı?
 
+### 2B. Master Frame Action Layout Gate (master setup shot'ları — §0.1)
+
+> Sadece obje "var mı?" değil, "aksiyon için doğru sahnelenmiş mi?" kontrolü.
+> Ref: `00-CORE/19_VIDEO_PRODUCTION_PREFLIGHT_SYSTEM.md` §0.1.
+
+- [ ] Sonraki shot'larda kullanılacak her aksiyon objesi belirlendi mi?
+- [ ] Her aksiyon objesi master frame'de görünür mü? (cropped değil)
+- [ ] Her aksiyon objesi sadece dekoratif değil, kullanılabilir interaction zone mu?
+- [ ] Her aksiyon objesi karakterin doğal ulaşabileceği mesafede mi? (2–3 küçük adım)
+- [ ] Her aksiyon objesi planlanan etkileşim için yeterince büyük mü?
+- [ ] Kamera hareketi olmadan etkileşilebilir mi?
+- [ ] Obje sonradan hareket/büyüme/çoğalma/spawn gerektirmeyecek şekilde mi konumlanmış?
+- [ ] Aksiyon alanları ana landmark / transition objesiyle aynı wide frame içinde birlikte çalışıyor mu?
+- [ ] Onay kriteri **var + yakın + usable + aksiyona uygun** sağlanıyor mu?
+
+> Herhangi bir aksiyon objesi uzak / küçük / sadece dekoratif / karakter arkasında /
+> sadece background ise → master frame **NOT READY**. First-frame still'i yeniden üret,
+> kredi harcama.
+
 ### 3. Shot-02+ Kontrolü
 
 - [ ] Frame Lock var mı? (frame zero, @image1)
@@ -214,6 +233,7 @@ Bir sahne şu durumlarda reddedilir:
 | 21 | Kamera hareketi karakteri saklayıp başka yerde yeniden gösteriyor | Evet → Red |
 | 22 | Background obje pozisyon/ölçek/kimlik değiştiriyor veya layout morphing oluşuyor | Evet → Red |
 | 23 | Bench/planter/bush/tree/path/house gibi bir obje kimlik değiştiriyor | Evet → Red |
+| 24 | Master setup frame'de gelecek aksiyon objesi görünür ama uzak / küçük / dekoratif / ulaşılamaz (staging fail, §0.1) | Evet → Red |
 
 Voice QA, Colour QA veya Lighting QA maddelerinden herhangi biri fail olursa shot reddedilir.
 

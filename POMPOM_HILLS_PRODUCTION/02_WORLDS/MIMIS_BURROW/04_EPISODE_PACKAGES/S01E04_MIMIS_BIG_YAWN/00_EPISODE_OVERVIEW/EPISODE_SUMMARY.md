@@ -79,9 +79,12 @@ Every shot only interacts with objects visible in its @image1:
 
 ## Characters
 - **Mimi:** Sleepy, gentle, needs help finding comfort — scale 80, soft blue #90CAF9
-- **Kiko:** Observant, helpful, caring friend — scale 100, coral pink #F8BBD0
+- **Kiko:** Observant, helpful, caring friend — approved canon Kiko design, scale 100
 
-**Character locks (do not change):** Kiko (scale 100, #F8BBD0), Mimi (scale 80, #90CAF9).
+**Character locks (do not change):**
+- **Kiko:** approved Kiko character design from the character reference / canon videos, scale 100. Preserve Kiko exactly; do not redesign Kiko and do not turn Kiko into a different creature.
+- **Mimi:** approved soft blue bunny-like character, scale 80, soft blue #90CAF9. Preserve Mimi exactly; sleepy expression, half-closed eyes, drooping ears.
+- Do not change character scale, identity, proportions, or colours.
 
 ## World Alignment
 Uses the **Mimi's Burrow World Specification** (exterior + interior):

@@ -265,6 +265,36 @@ görünür objeler pozisyon, ölçek, kimlik ve layout korumalıdır.
 Bench planter'a, bush tree'ye, flowerbed grass mound'a, path road'a, house shop'a
 dönüşemez. Landmark shift, resize, duplicate veya disappear yapamaz.
 
+### Interaction Object Usability Rule
+
+Bir shot bir obje ile yalnızca obje `@image1` içinde görünür ve planlanan aksiyon için
+mevcut boyutu, şekli, pozisyonu ve mesafesiyle kullanılabilir durumdaysa etkileşime
+girebilir.
+
+Visible is not enough.
+
+Eğer obje çok küçük, çok uzak, kalabalık içinde, kısmen crop edilmiş veya aksiyon için
+doğru formda değilse, karakter aksiyonu sadeleştirilir. Obje büyütülmez, çoğaltılmaz,
+taşınmaz, yeniden şekillendirilmez, replace edilmez ve spawn edilmez.
+
+Characters adapt to the environment.
+The environment does not adapt to the characters.
+
+### Environment Object Lock
+
+`@image1` içinde görünen tüm environment objeleri yerinde kilitlidir.
+
+Trees, flowers, grass patches, hills, stones, doorways, props, sky elements, furniture,
+anchors ve landmarks move, grow, shrink, slide, drift, pop in, enter frame, leave frame
+veya reposition yapamaz.
+
+Yalnızca karakterler hareket edebilir; bunun istisnası yalnızca shot tarafından açıkça
+izin verilen planlı lokasyon geçişleridir.
+
+Kamera bir objeyi daha kullanılabilir yapmak için hareket edemez.
+Obje karaktere yaklaşamaz.
+Shot mevcut kompozisyonu aynen kullanmalıdır.
+
 ### Intra-Shot Character Continuity Lock
 
 Karakter aynı shot içinde kesintisiz fiziksel varlık olarak kalmalıdır. Karakter
@@ -349,10 +379,14 @@ Her shot için:
 - [ ] Camera Must Not Break Continuity passed
 - [ ] First Second Continuity Hold passed
 - [ ] Object Identity Lock passed
+- [ ] Interaction Object Usability Rule passed
+- [ ] Environment Object Lock passed
+- [ ] Current action object is visible and usable at its existing size/position
+- [ ] Character action was simplified instead of moving/resizing/spawning an object
 ```
 
 ---
 
 *Bu belge tüm görsel süreklilik kuralları için tek kaynaktır.*
 *Her shot bu kurallara uymalıdır.*
-*Son güncelleme: 3 Temmuz 2026*
+*Son güncelleme: 5 Temmuz 2026*

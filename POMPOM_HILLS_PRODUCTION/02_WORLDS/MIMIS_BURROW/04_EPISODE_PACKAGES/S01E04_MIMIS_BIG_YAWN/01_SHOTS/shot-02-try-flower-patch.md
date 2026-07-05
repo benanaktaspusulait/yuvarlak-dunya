@@ -18,10 +18,31 @@
 - Same evening dusk lighting
 - Same character positions relative to environment
 
+## Object Continuity Gate
+
+Before generating this shot, check S01E04_OBJECT_CONTINUITY_MAP.md.
+
+All required objects for this shot must already be visible in @image1.
+
+The current action object must be visible and usable at its existing size, shape, position, and distance.
+
+Do not create, enlarge, move, multiply, reshape, replace, or reposition any object to satisfy the action.
+
+If an object is visible but not usable for the planned action, simplify the character action instead of changing the environment.
+
+Characters adapt to the environment.
+The environment does not adapt to the characters.
+
 ## Visual Prompt
 
 ```text
 Use @image1 as the exact first frame and only visual continuity source. Do not reinterpret @image1. Do not use memory of any previous video or previous shot. Do not recreate the scene from description. Only preserve what is visible in @image1. Hold @image1 almost exactly for the first 1 second. Characters may blink, breathe, and make tiny natural idle motion. No camera movement during the first second.
+
+Use only the objects already visible in @image1.
+Do not generate new objects.
+Do not enlarge, move, multiply, reshape, or reposition any environment object.
+The current action must adapt to the existing @image1 layout.
+Characters may move; environment objects may not.
 
 Continuation from @image1. Same scene outside Mimi's Burrow entrance. Evening dusk.
 
@@ -49,10 +70,43 @@ Mimi: Too tickly...
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 
+## Sound Design
+
+No music.
+No background music.
+No melody.
+No song.
+No soundtrack.
+No musical bed.
+No chime.
+No ending jingle.
+No magical sound effects.
+No sparkles, bells, or musical tones.
+
+Use natural ambience only.
+
+Exterior shots:
+Use very soft evening meadow ambience:
+- gentle breeze
+- soft grass rustle
+- tiny distant meadow insects
+- subtle flower meadow atmosphere
+- soft character breathing and tiny movement sounds
+
+Interior shots:
+Use very soft cozy room ambience:
+- warm quiet room tone
+- soft character breathing
+- tiny fabric / pillow movement sounds
+- gentle footstep or paw movement only when characters move
+
+Keep all ambience quiet, warm, preschool-safe, and bedtime-friendly.
+Do not let ambience become loud, dramatic, scary, windy, musical, or distracting.
+
 ## Negative Prompt
 
 ```text
-door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, camera movement, pan, track, zoom, dolly, Dutch angle, fisheye, shaky, motion blur, text, logo, watermark, speech bubbles, captions, subtitles, new objects, new props, flowers spawning, flower patch not matching @image1, environment change, lighting change, time change, character scale change, Mimi not sleepy, Kiko not concerned, sharp edges, clutter, random props, metal, plastic, glass, modern objects, photorealistic, wrong first frame, @image1 ignored, recreated scene, camera reset, camera searching, camera reframe, object spawning, late object appearance, new discovery object, background morphing, lighting drift, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime
+door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, camera movement, pan, track, zoom, dolly, Dutch angle, fisheye, shaky, motion blur, text, logo, watermark, speech bubbles, captions, subtitles, new objects, new props, flowers spawning, flower patch not matching @image1, environment change, lighting change, time change, character scale change, Mimi not sleepy, Kiko not concerned, sharp edges, clutter, random props, metal, plastic, glass, modern objects, photorealistic, wrong first frame, @image1 ignored, recreated scene, camera reset, camera searching, camera reframe, object spawning, late object appearance, new discovery object, background morphing, lighting drift, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime, ending jingle, magical sound effects, sparkles, bells, musical tones
 ```
 
 ## OpenArt Settings
@@ -97,7 +151,9 @@ The final frame must leave the soft tree / grass area AND the burrow entrance cl
 - **Transition:** Ends with Mimi getting up, ready for next spot
 
 ## Continuity & Safety Locks
-- **Character locks:** Kiko (scale 100, coral pink #F8BBD0), Mimi (scale 80, soft blue #90CAF9). Do not change character scale or colours.
+- **Character locks:**
+  - Kiko: approved Kiko character design from the character reference / canon videos, scale 100. Preserve Kiko exactly; do not redesign Kiko and do not turn Kiko into a different creature.
+  - Mimi: approved soft blue bunny-like character, scale 80, soft blue #90CAF9. Preserve Mimi exactly; sleepy expression, half-closed eyes, drooping ears. Do not change character scale, identity, proportions, or colours.
 - **Camera lock:** Keep the same camera position as @image1 (preserve composition; no reframe wide→medium).
 - **Lighting lock:** Match the lighting and colour grading of @image1 exactly.
 - **Character presence:** Characters are already present at the beginning of the shot. Do not introduce any character after the shot has started.

@@ -124,6 +124,103 @@ Shot asks Kiko to use the visible leaf as a blanket.
 
 ---
 
+## 0.1 HARD GATE: MASTER FRAME ACTION LAYOUT (STAGED, NOT JUST VISIBLE)
+
+> **§0 objenin GÖRÜNÜR olup olmadığını sorar. Bu gate objenin AKSİYON İÇİN
+> DOĞRU YERLEŞTİRİLİP yerleştirilmediğini sorar.**
+> Bir obje frame'de "var" diye onaylamak yetmez. Sonraki shot'ların aksiyon
+> objesi, karakterin doğal olarak ulaşıp etkileşebileceği bir interaction zone
+> olarak sahnelenmelidir.
+
+### Neden Bu Gate Var (Öğrenilen Ders)
+
+S01E04'te ağaç ve büyük çiçek çalısı Shot 01 master frame'de **vardı** — ama ikisi
+de karakter aksiyonları için yanlış mesafede / yanlış pozisyondaydı:
+- Flower patch entrance'ın solunda ama Mimi'nin oturup yaslanacağı kadar sahne içinde net değildi.
+- Tree/grass alanı sağ arkada, dekor gibi, Mimi'nin doğal olarak gidip yatacağı kadar yakın değildi.
+
+Sonuç: OpenArt sonraki shot'larda "yanlış" objeyi kendi açısından çözdü —
+aksiyon objesini karaktere uygun hale getirmek için **büyüttü / yaklaştırdı /
+sahneye çekti**. Bu bizim için continuity break oldu.
+
+**Kök neden:** Pipeline'da object *presence check* vardı ama object *staging
+check* yoktu. Bu gate o eksikliği kapatır.
+
+### Temel Kural
+
+```
+Visible is not enough. The object must be placed for action.
+Görünür olması yetmez. Obje aksiyon için yerleştirilmiş olmalı.
+```
+
+Bir shot, sonraki aksiyonlar için master setup görevi görüyorsa (ör. Shot 01),
+frame sadece gerekli objeleri **içermekle** kalmamalı — her gerekli aksiyon
+objesini **kullanılabilir bir interaction zone** olarak konumlandırmalıdır.
+
+### Doğrulama Süreci (Master Setup Frame İçin)
+
+Bir master setup frame'ini onaylamadan ÖNCE, sonraki shot'larda kullanılacak her
+gelecek aksiyon objesini belirle. Her aksiyon objesi için doğrula:
+
+| Kontrol | Gereken |
+|---------|---------|
+| Master frame'de görünür mü? | EVET |
+| Cropped mı? | HAYIR |
+| Sadece dekoratif mi? | HAYIR — aksiyon için kullanılabilir olmalı |
+| Karakterin doğal ulaşabileceği mesafede mi? | EVET (2–3 küçük adım) |
+| Planlanan etkileşim için yeterince büyük mü? | EVET |
+| Kamera hareketi olmadan etkileşilebilir mi? | EVET |
+| Sonradan hareket/büyüme/çoğalma/spawn gerektirmeyecek şekilde mi konumlanmış? | EVET |
+| Gerektiğinde ana landmark / transition objesiyle birlikte görünüyor mu? | EVET |
+
+### Sonuç
+
+Bir gelecek aksiyon objesi:
+- çok uzaktaysa,
+- çok küçükse,
+- sadece dekoratifse,
+- karakterlerin arkasında gizliyse,
+- veya yalnızca background'daysa,
+
+**MASTER FRAME NOT READY.**
+
+→ Master frame'i video üretimi için onaylama. First-frame still'i yeniden üret;
+kredi harcamadan önce staging'i düzelt.
+
+### Pompom Hills Kısa Versiyon (OpenArt-facing)
+
+```text
+Every master setup must stage the next actions, not just show the world.
+
+If a flower patch will be used, it must be usable as a flower patch.
+If a tree/grass area will be used, it must be reachable and usable.
+If an entrance will be used, it must remain open, visible, and reachable.
+
+Do not approve decorative-only objects as action-ready objects.
+```
+
+### Master Frame Action Layout Checklist (S01E04 türü dış mekân örneği)
+
+```
+[ ] Flower patch visible mı?
+[ ] Flower patch Mimi'nin oturabileceği / yaslanabileceği kadar usable mı?
+[ ] Flower patch entrance'tan doğal yürüme mesafesinde mi?
+
+[ ] Tree visible mı?
+[ ] Tree/grass area Mimi'nin 2–3 küçük adımda ulaşabileceği yerde mi?
+[ ] Tree/grass area sahnenin aşırı arkasında / kenarında / dekor gibi mi kalıyor? (öyleyse REJECT)
+
+[ ] Entrance visible mı?
+[ ] Entrance taşlarla birlikte Shot 04–05 transition için açık mı?
+
+[ ] Bu üç aksiyon alanı aynı wide frame içinde birlikte çalışıyor mu?
+```
+
+> Doğru onay kriteri: **var + yakın + usable + aksiyona uygun.**
+> Sadece "var" demek yetmez.
+
+---
+
 ## 1. Prompt + Frame Must Be Checked Together
 
 Bir shot prompt'u sadece metinle onaylanamaz.
@@ -304,6 +401,12 @@ Shot 01 şunları tohumlamalıdır:
 - Camera language
 
 Eğer sonraki bir shot bir objeye ihtiyaç duyuyorsa, o obje ideal olarak Shot 01'de görünür olmalı veya discovery shot'ından ÖNCE özel bir kurulum shot'ında tanıtılmalı.
+
+> **Kritik:** Objeyi Shot 01'e koymak yetmez — objeyi aksiyon için DOĞRU
+> sahnelemek gerekir. Her gelecek aksiyon objesi kullanılabilir bir interaction
+> zone olarak konumlanmalıdır (yakın + usable + aksiyona uygun). Bkz. §0.1 HARD
+> GATE: MASTER FRAME ACTION LAYOUT. Sadece "görünür" olan ama uzak/küçük/dekoratif
+> kalan objeler master frame'i NOT READY yapar.
 
 ---
 
@@ -602,6 +705,13 @@ Final frame şunları korumalıdır:
 0b. Her gerekli obje `@image1`'de görünür VEYA daha önce tohumlanmış mı?
 0c. Prompt'un yasakları (no new objects, background lock) ile aksiyon istekleri (walk to X, pick Y) arasında çelişki var mı?
 0d. Herhangi bir gerekli obje görünmüyorsa → shot NOT READY, üretme.
+
+**MASTER FRAME ACTION LAYOUT GATE (§0.1 — master setup shot'ları için):**
+
+0e. Bu shot sonraki aksiyonlar için master setup mı? (Shot 01 vb.)
+0f. Öyleyse: her gelecek aksiyon objesi sadece görünür değil, aynı zamanda usable interaction zone olarak mı sahnelenmiş?
+0g. Her aksiyon objesi karakterin doğal ulaşabileceği mesafede + yeterince büyük + kamera hareketi gerektirmeden etkileşilebilir mi?
+0h. Herhangi bir aksiyon objesi uzak / küçük / sadece dekoratif / karakter arkasında / sadece background ise → master frame NOT READY, first-frame still'i yeniden üret.
 
 **Standart kontroller:**
 

@@ -35,10 +35,37 @@ This is a **planned, canonical location change**, not a camera search or object 
 > on the walls/carpet/glow. The three anchors add canon charm; require at least one so
 > the interior reads as Mimi's Burrow, and prefer all three when the generation allows.
 
+## Object Continuity Gate
+Before generating this shot, check S01E04_OBJECT_CONTINUITY_MAP.md.
+
+Use the actual Shot 04 final frame as @image1.
+@image1 controls the first frame, exterior composition, characters, entrance, lighting, and continuity.
+@image2 is required and controls only the interior design after the threshold crossing.
+
+Do not restore or correct the exterior layout. Do not add new exterior objects. Do not move, grow, shrink, or reposition the tree, flowers, stones, hills, entrance, or sky before the crossing.
+
+The only allowed change is the planned transition through the already-visible round glowing entrance.
+
+After entering, the interior must be based on @image2 and must include:
+- round blue pillow
+- warm blue walls
+- soft green carpet
+- warm golden glow
+- at least one canon anchor: window, shelf, or carrot box
+
+No random interior props. No extra rooms. No cave. No dark tunnel. No adult furniture. No new non-canon objects.
+
 ## Visual Prompt
 
 ```text
 Start from @image1: the exterior evening-dusk view of Mimi's Burrow entrance, with Mimi and Kiko standing outside, turned toward the round blue glowing doorway.
+
+Use only the exterior objects already visible in @image1 for the first-frame exterior.
+After the planned entrance crossing, use only approved interior objects from @image2.
+Do not generate extra objects.
+Do not enlarge, move, multiply, reshape, or reposition any environment object.
+The current action must adapt to the existing @image1 layout and approved @image2 interior.
+Characters may move; environment objects may not, except for the planned Shot 05 threshold crossing.
 
 Hold @image1 for the first 1 second. Then, with a slow, gentle, single planned push, the camera follows Mimi and Kiko as they step across the three round grey stepping stones and through the open round blue entrance into the cozy interior. The movement is smooth, slow and calm — a soft storybook threshold crossing, not a fast dolly.
 
@@ -60,10 +87,43 @@ Kiko: See? Warm and cozy!
 Mimi: My soft pillow...
 ```
 
+## Sound Design
+
+No music.
+No background music.
+No melody.
+No song.
+No soundtrack.
+No musical bed.
+No chime.
+No ending jingle.
+No magical sound effects.
+No sparkles, bells, or musical tones.
+
+Use natural ambience only.
+
+Exterior shots:
+Use very soft evening meadow ambience:
+- gentle breeze
+- soft grass rustle
+- tiny distant meadow insects
+- subtle flower meadow atmosphere
+- soft character breathing and tiny movement sounds
+
+Interior shots:
+Use very soft cozy room ambience:
+- warm quiet room tone
+- soft character breathing
+- tiny fabric / pillow movement sounds
+- gentle footstep or paw movement only when characters move
+
+Keep all ambience quiet, warm, preschool-safe, and bedtime-friendly.
+Do not let ambience become loud, dramatic, scary, windy, musical, or distracting.
+
 ## Negative Prompt
 
 ```text
-door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, fast camera, dolly zoom, whip pan, shaky, motion blur, Dutch angle, fisheye, text, logo, watermark, speech bubbles, captions, subtitles, separate rooms, large underground chamber, oversized room, adult furniture, huge furniture, entrance becomes a door, entrance not round, entrance not blue, no warm glow, empty room, no interior anchor visible, all interior anchors missing, missing required pillow, missing required warm blue walls, missing required green carpet, missing required warm golden glow, sharp edges, clutter, random props, metal, plastic, glass, modern objects, city objects, photorealistic, realistic dirt, camera reset, camera searching, camera reframe after settling, background morphing, lighting drift, character scale change, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime
+door, closed door, wooden door, rectangular door, dark hole, cave, tunnel, scary, dark, cold, harsh shadows, black shadows, night sky, stars, moonlight, daytime, bright sun, fast camera, dolly zoom, whip pan, shaky, motion blur, Dutch angle, fisheye, text, logo, watermark, speech bubbles, captions, subtitles, separate rooms, large underground chamber, oversized room, adult furniture, huge furniture, entrance becomes a door, entrance not round, entrance not blue, no warm glow, empty room, no interior anchor visible, all interior anchors missing, missing required pillow, missing required warm blue walls, missing required green carpet, missing required warm golden glow, sharp edges, clutter, random props, metal, plastic, glass, modern objects, city objects, photorealistic, realistic dirt, camera reset, camera searching, camera reframe after settling, background morphing, lighting drift, character scale change, ghost character, duplicate character, transparent duplicate, double exposure, motion smear, character trail, music, background music, melody, song, soundtrack, musical bed, chime, ending jingle, magical sound effects, sparkles, bells, musical tones
 ```
 
 ## OpenArt Settings
@@ -120,7 +180,10 @@ Do not let @image2 override @image1.
 - **Save the settled interior final frame as @image1** for Shot 06
 
 ## Continuity & Safety Locks
-- **Character locks:** Kiko (scale 100, coral pink #F8BBD0), Mimi (scale 80, soft blue #90CAF9). Do not change character scale or colours.
+- **Character locks:**
+  - **Kiko:** approved Kiko character design from the character reference / canon videos, scale 100. Preserve Kiko exactly; do not redesign Kiko and do not turn Kiko into a different creature.
+  - **Mimi:** approved soft blue bunny-like character, scale 80, soft blue #90CAF9. Preserve Mimi exactly; sleepy expression, half-closed eyes, drooping ears.
+  - Do not change character scale, identity, proportions, or colours.
 - **Camera lock:** Start from the same camera position as @image1; the only movement is the single planned slow entrance crossing, then static.
 - **Lighting lock:** Match the lighting of @image1 for the first second (exterior dusk), then transition to the canonical warm interior glow. No night, no stars.
 - **Character presence:** Both characters are already present; do not introduce any new character after the shot has started.

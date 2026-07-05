@@ -41,6 +41,9 @@ For every episode:
 - The first 1 second of each shot must stay very close to `@image1` before the action
   continues.
 - Export the first frame and final frame for every shot.
+- Create or update the per-episode Object Continuity Map before generating shot video.
+- Check every first-frame still / cheap take against the Object Continuity Map before
+  spending video credits.
 - Watch the full video for intra-shot character continuity, not only first/final frames.
 - Watch the full video again for hard background/object stability.
 - Apply the Global OpenArt Continuity Locks from
@@ -113,6 +116,66 @@ for five worked examples of this per-shot wording (Shot 02 through Shot 06).
 The first second hold is also an intra-shot safety gate: no character may teleport,
 switch sides, pop in, disappear, or change scale during that first second, and no visible
 background object may move, disappear, duplicate, or change identity.
+
+### Object Continuity Map Gate
+
+Every episode that depends on persistent objects must maintain an Object Continuity Map
+before video credits are spent.
+
+The map lists, shot by shot:
+
+- required objects from `@image1`
+- optional objects to preserve if visible
+- current action object
+- usability checks
+- forbidden object changes
+- final-frame requirements for the next shot
+
+A shot is not approved only because an object is mentioned in the prompt. A shot is
+approved only if the required object is visible in `@image1` and usable for the planned
+action at its existing size, shape, position, and distance.
+
+Visible is not enough.
+
+If the object is too small, too far away, too crowded, partly cropped, or not shaped for
+the planned action, simplify the character action instead of changing the object.
+
+Characters adapt to the environment.
+The environment does not adapt to the characters.
+
+Do not enlarge, move, multiply, reshape, replace, relocate, or spawn objects to satisfy
+an action.
+
+All environment objects visible in `@image1` are locked in place. Trees, flowers, grass
+patches, hills, stones, doorways, props, sky elements, furniture, anchors, and landmarks
+must not move, grow, shrink, slide, drift, pop in, enter frame, leave frame, or
+reposition.
+
+Only characters may move unless the shot explicitly allows a planned location
+transition, such as an entrance crossing. The camera must not move to make an object
+more usable.
+
+Before generation, label the shot:
+
+- **SAFE:** all required objects are visible and usable; generate.
+- **RISKY:** usable but with quality risk; simplify action or add stricter locks before
+  generating.
+- **NOT READY:** required object is missing or unusable; do not spend video credits.
+- **SALVAGE:** use only if continuing from an already damaged frame; freeze the actual
+  layout and reduce action to small character gestures.
+
+Before generating any shot, answer:
+
+1. Which object does this shot interact with?
+2. Is the object visible in `@image1`?
+3. Is the object usable for the action at its current size, position, shape, and
+   distance?
+4. Would the character need camera movement to reach or use it?
+5. Would the model need to enlarge, move, multiply, reshape, or spawn the object?
+6. Does the final frame support the next shot?
+
+If any answer fails, do not generate video. Simplify the action, regenerate the
+prerequisite still, or mark the shot as salvage with frozen-layout rules.
 
 ---
 
@@ -227,4 +290,4 @@ shot-specific hand-off instruction local to each shot file where it's actually u
 *This document is the single source of truth for the shot-to-shot continuity workflow
 across episodes and worlds.*
 *Validated on: S01E07 — The Round Stone (Stone Hill).*
-*Version: 1.0 — 4 Temmuz 2026*
+*Version: 1.1 — 5 Temmuz 2026*

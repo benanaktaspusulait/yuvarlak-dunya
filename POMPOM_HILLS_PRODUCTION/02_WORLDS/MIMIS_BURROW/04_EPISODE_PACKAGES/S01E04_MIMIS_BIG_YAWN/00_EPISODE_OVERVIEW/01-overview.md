@@ -13,8 +13,9 @@
 | Locations | Exterior (Mimi's Burrow approach) → Interior (burrow room) |
 
 ## Character Locks (do not change)
-- **Kiko:** scale 100, coral pink #F8BBD0
-- **Mimi:** scale 80, soft blue #90CAF9
+- **Kiko:** approved Kiko character design from the character reference / canon videos, scale 100. Preserve Kiko exactly; do not redesign Kiko and do not turn Kiko into a different creature.
+- **Mimi:** approved soft blue bunny-like character, scale 80, soft blue #90CAF9. Preserve Mimi exactly; sleepy expression, half-closed eyes, drooping ears.
+- Do not change character scale, identity, proportions, or colours.
 
 ## World Lock
 Mimi's Burrow identity is LOCKED — do not redesign. Round blue entrance (#90CAF9), warm interior glow, exactly 3 stepping stones, green grass (#C8E6C9); interior: warm blue walls, green carpet, round blue pillow, window, shelf, carrot box. See `02_WORLD_SPEC/05-mimis-burrow-world-spec.md`.

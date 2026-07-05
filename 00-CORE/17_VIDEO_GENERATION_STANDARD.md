@@ -530,6 +530,52 @@ road, tree changes trunk shape or location, landmark changes silhouette, object
 duplicates, object disappears, object changes side of the frame, or object scale changes
 unnaturally.
 
+### Interaction Object Usability Rule
+
+A shot may interact with an object only if that object is visible in `@image1` and
+usable for the planned action at its current size, shape, position, and distance.
+
+Visible is not enough.
+
+If the object is too small, too far away, too crowded, partly cropped, or not shaped for
+the planned action, simplify the character action to fit the existing object.
+
+Do not enlarge, multiply, move, reshape, replace, spawn, or relocate any object to
+satisfy an action.
+
+Characters adapt to the environment.
+The environment does not adapt to the characters.
+
+### Environment Object Lock
+
+All environment objects visible in `@image1` are locked in place.
+
+Trees, flowers, grass patches, hills, stones, doorways, props, sky elements, furniture,
+anchors, and landmarks must not move, grow, shrink, slide, drift, pop in, enter frame,
+leave frame, or reposition.
+
+Only characters may move unless the shot explicitly allows a planned location
+transition, such as a threshold crossing.
+
+The camera must not move to make an object more usable.
+The object must not move toward the character.
+The shot must use the existing composition exactly.
+
+### Action Scale Check
+
+Before generating any shot, answer these questions:
+
+1. Which object does this shot interact with?
+2. Is the object visible in `@image1`?
+3. Is the object usable for the action in its current size, shape, position, and
+   distance?
+4. Would the character need camera movement to reach or use it?
+5. Would the model be forced to enlarge, move, multiply, reshape, or spawn the object?
+6. Does the final frame support the next shot?
+
+If any answer fails, do not spend video credits. Simplify the action, change the staging,
+or regenerate the prerequisite still before generating video.
+
 ### Character Action Reduction For Stability
 
 If a shot has background morphing, occlusion or teleport risk, reduce character

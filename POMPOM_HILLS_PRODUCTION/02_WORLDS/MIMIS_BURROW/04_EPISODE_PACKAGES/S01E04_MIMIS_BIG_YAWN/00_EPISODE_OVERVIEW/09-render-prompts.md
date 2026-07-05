@@ -8,8 +8,9 @@
 No text. No subtitles. No speech bubbles. No captions. No on-screen dialogue text.
 
 ## Global Character Locks (all shots)
-- Kiko: scale 100, coral pink #F8BBD0
-- Mimi: scale 80, soft blue #90CAF9
+- **Kiko:** approved Kiko character design from the character reference / canon videos, scale 100. Preserve Kiko exactly; do not redesign Kiko and do not turn Kiko into a different creature.
+- **Mimi:** approved soft blue bunny-like character, scale 80, soft blue #90CAF9. Preserve Mimi exactly; sleepy expression, half-closed eyes, drooping ears.
+- Do not change character scale, identity, proportions, or colours.
 
 ## Image Reference Map
 
