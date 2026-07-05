@@ -3,40 +3,141 @@
 ## Visual Prompt
 
 ```text
-Use Central Square (world reference) as the LOCKED environment. Insert Kiko (character reference), Noah (character reference), and Arda (character reference) together. Medium-wide shot, warm morning light, Big Pompom Tree behind. The three friends stand together in a natural group — Kiko near center, Noah to one side, Arda slightly in front. They look happy and playful, looking toward the viewer with warm smiles. Kiko waves, Noah gives a friendly gesture, Arda makes a tiny happy in-place body bob without changing position. All three characters are already visible from the first frame and remain in a stable group. No fourth character enters, appears, or is revealed later. The group feels naturally together but stays in place; no character crosses in front of another or changes position. Handcrafted preschool toy-set look, {style} {camera} {lighting}
+Use @image1 as the ONLY visual continuity source and locked first-frame reference for this shot.
 
-No props are used in this shot. The focus is only on the three friends together. No blocks, toys, signs, animals, or extra objects appear.
+Match @image1 for the Central Square environment, Big Pompom Tree, approved three-character group composition, character placement, framing, camera angle, warm morning lighting, and approved character appearance.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-Central Square background locked; keep trees, paths and landmarks stable.
+Continue directly from the approved @image1 composition.
+
+Preserve exactly the same three visible characters from @image1:
+Kiko, Noah, and Arda only.
+
+Preserve the approved placement from @image1:
+Kiko near the center,
+Noah on Kiko's left side,
+Arda on Kiko's right side.
+
+Arda must remain slightly smaller and younger than Kiko and Noah.
+Do not create any extra child.
+Do not create any fourth character.
+Do not create a second Arda.
+Do not place any tiny child in front of the group.
+
+Keep the three friends as one clear trio group.
+They should remain naturally together and stay in place.
+No character crosses in front of another.
+No character changes position.
+No new character appears later.
+
+The shot must begin alive immediately from the first frame.
+From frame one, the characters may already be smiling, blinking, breathing, and making tiny natural motions.
+Kiko's small wave must begin within the first 1 second.
+Noah's friendly gesture must begin within the first 1 second.
+Arda's tiny in-place happy body bob may begin within the first 1 second.
+Dialogue must begin within the first 1-2 seconds.
+No empty opening seconds.
+No silent idle pose.
+No delayed gesture.
+No delayed dialogue.
+
+No props are used in this shot.
+Do not add toys, blocks, benches, lamps, signs, direction signs, written boards, arrows, labels, captions, or any readable text.
+
+Preserve the clean approved Central Square look from @image1.
+Do not redesign the environment.
+Do not add new houses, signs, props, or decorations.
+Do not display dialogue as on-screen text.
+No speech bubbles.
+No captions.
+No subtitles.
+No text.
 ```
 
 ## Camera Direction
 
-Medium-wide, eye-level, locked composition. No pan, no zoom, no pull-back, no push-in, no tilt, no orbit, no reframe, no camera reveal. Frame all three characters in a natural, readable group composition from the first frame.
+```text
+The camera must preserve the approved @image1 framing and angle.
+
+Medium-wide, eye-level, locked composition.
+No pan, no zoom, no pull-back, no push-in, no tilt, no orbit, no reframe, no camera reveal.
+
+Keep all three characters clearly readable for the whole shot.
+Do not move the camera to reveal anything new.
+```
 
 ## Dialogue
 
 ```text
-Kiko: We're all here!
-Noah: Come join us.
-Arda: Let's play!
+Kiko: Come play with us!
+Noah: There is so much to discover.
+Arda: And so much fun to do together!
+Kiko: Our friends are waiting too!
 ```
 
 ## Natural Character Motion Rule
 
-Calm but alive: Kiko gives a small wave, Noah gives a gentle friendly gesture, Arda makes a tiny happy in-place body bob, and all three blink and smile. Energetic but soft — no walking, no running, no jumping, no crossing, no large gestures, no repositioning. The three should feel naturally together, not stiffly lined up.
+```text
+All motion belongs only to the three approved characters from @image1: Kiko, Noah, and Arda.
+
+Calm but alive from the first frame:
+Kiko, Noah, and Arda are already subtly alive at frame one with gentle breathing, blinking, warm eye contact, and the first small gesture beginning within the first 1 second.
+
+Kiko begins "Come play with us!" within the first 1-2 seconds.
+Noah and Arda respond soon after.
+
+Energetic but soft:
+no walking,
+no running,
+no jumping,
+no hopping,
+no crossing,
+no repositioning,
+no large gestures.
+
+The three should feel naturally together, not stiffly lined up.
+No freeze.
+No long pause.
+No silent idle hold.
+No delayed gesture.
+No delayed dialogue.
+No waiting before action.
+No empty opening seconds.
+```
 
 ## Sound
 
-Soft outdoor Central Square ambience: gentle birds, light breeze, very subtle warm playful friend energy without music. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
+```text
+Soft outdoor Central Square ambience: gentle birds, light breeze, very subtle warm playful friend energy without music.
+
+Natural ambience only.
+No music.
+No background music.
+No melody.
+No song.
+No soundtrack.
+No chimes.
+No whooshes.
+```
 
 ## Lighting
 
+```text
 Warm morning sunlight, soft ambient.
+Match the approved @image1 lighting.
+```
 
 ## Negative Prompt
 
 ```text
-multiple characters beyond three, group crowd, Mimi, Luca, Opa, fourth character, extra character, crowd, extra prop, blocks, toys, animal, surprise object, character entering later, stiff lineup, duplicate Kiko, duplicate Noah, duplicate Arda, low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, harsh shadows, violence, weapons, sharp objects, redesigned character, wrong scale, character drift, redesigned environment, cluttered background, frozen characters, background music, music, melody, song, soundtrack, musical bed, jingle, chime, bell, magical sparkle sound, whoosh, applause, cheering, crowd noise, loud sound, scary sound, surprise character, surprise prop, character appearing later, duplicate character, duplicate body, partial character, shadow character, reflection character, extra animal, toy creature, new object, new prop, object appearing later, object entering later, camera revealing new object, camera revealing new character, walking, running, jumping, hopping, repositioning, crossing, large gestures, camera reveal
+tiny extra child, small extra child, baby character, toddler extra, extra toddler, fourth small child, second Arda, extra small Arda, duplicate small child, child in front of group, extra foreground child, mini child cluster, fourth character, extra character, extra child, extra friend, crowd, background character, duplicate character, duplicate Kiko, duplicate Noah, duplicate Arda, Mimi, Luca, Opa, animal, toy creature, partial character, shadow character, reflection character, character entering later, character appearing later,
+
+sign, signs, signpost, direction sign, road sign, path sign, wooden sign, written board, readable sign, label, place name, arrow, map sign, banner, plaque, text, readable text, words, letters, caption, subtitle, speech bubble, watermark, logo,
+
+bench, lamp, lantern, street furniture, toy, blocks, ball, prop, extra prop, surprise object, new object, object appearing later,
+
+Flower Hill, Rainbow Vale, written location names, tourist park, cluttered background, redesigned environment, wrong Central Square, generic park, overly busy scene,
+
+walking, running, jumping, hopping, crossing, repositioning, large gestures, camera reveal, pan, zoom, pull-back, tilt, orbit, reframe,
+
+low quality, blurry, deformed, extra limbs, wrong scale, Arda same size as Kiko, Arda same size as Noah, photorealistic, horror, scary, dark lighting, harsh shadows, background music, music, melody, song, soundtrack, magical sparkle sound, whoosh, applause, cheering, crowd noise, loud sound, scary sound, long silent pause, delayed dialogue, delayed speech, delayed gesture, delayed wave, delayed nod, waiting before action, idle pose, frozen opening, no movement at start, silent hold, empty opening seconds, late speech, late gesture, long establishing hold, motion starts late, dialogue starts late
 ```

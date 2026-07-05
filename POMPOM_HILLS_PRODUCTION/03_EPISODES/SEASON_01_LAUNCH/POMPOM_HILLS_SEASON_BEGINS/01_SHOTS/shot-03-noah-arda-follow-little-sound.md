@@ -5,11 +5,11 @@
 - **Video:** Pompom Hills — The Season Begins
 - **Shot:** 03 / 06
 - **Duration:** 15 seconds
-- **Location:** Central Square
+- **Location:** Stone Hill
 - **Characters:** Noah + Arda
 - **Time of Day:** Warm morning
 
-Noah and Arda stand together in Central Square. Noah notices a tiny friendly sound somewhere off-screen and listens carefully. Arda reacts with cheerful curiosity. Together they invite the viewer to come along and see what they heard. No object or character causing the sound is shown. The focus is curiosity, friendship, and invitation.
+Noah and Arda stand together at Stone Hill. Noah notices a tiny friendly sound somewhere off-screen and listens carefully. Arda reacts with cheerful curiosity. Together they invite the viewer to come along and see what they heard. No object or character causing the sound is shown. The focus is curiosity, friendship, and discovery.
 
 ## OpenArt vs Edit Instruction Boundary
 
@@ -37,17 +37,17 @@ OpenArt must generate only this single standalone shot.
 Transitions between worlds are handled later in editing, not inside OpenArt.
 
 ## Location Lock Summary
-Location is Central Square only.
-Approved visible environment: Big Pompom Tree, rounded paths, pastel houses only if already part of the world reference.
-No playroom, no classroom, no building area, no toy room, no new path, no new location, no prop-based set.
+Location is Stone Hill only.
+Approved visible environment: rounded child-safe stone hill forms, soft grassy ground only if present in the world reference.
+No Central Square, no playroom, no classroom, no building area, no toy room, no new path, no new location, no prop-based set.
 
 ## Duo Character Rule
-This shot contains **two characters: Noah and Arda**. They appear together in Central Square.
-Independent generation (Central Square ref + Noah ref + Arda ref).
+This shot contains **two characters: Noah and Arda**. They appear together at Stone Hill.
+Independent generation (Stone Hill ref + Noah ref + Arda ref).
 Independent generation means this shot does not inherit characters, props, camera movement, or background objects from any previous shot. It must obey only this shot document and its assigned references.
 
 ## Background Object Lock
-Central Square locked: Big Pompom Tree, rounded paths, pastel houses stay stable in identity, position and scale.
+Stone Hill locked: rounded child-safe stone hill forms, soft grassy ground stay stable in identity, position and scale.
 Only Noah and Arda move subtly.
 No other characters, no new objects, no props, no toys, no blocks.
 The sound source is not shown and must not appear later.
@@ -58,7 +58,7 @@ No surprise elements may appear at any point in this shot.
 
 The character list is locked from the first frame. Only Noah and Arda may appear. No extra character, background character, crowd member, animal, toy creature, duplicate character, partial character, shadow character, silhouette character, reflection character, or off-screen entering character may appear.
 
-The object list is locked from the first frame. Only the approved Central Square environment listed in this shot may appear. Do not introduce new props, new toys, new signs, new flowers, new furniture, new stones, new houses, new paths, new decorations, new lights, new clouds, new doors, new windows, or any new background detail during the shot.
+The object list is locked from the first frame. Only the approved Stone Hill environment listed in this shot may appear. Do not introduce new props, new toys, new signs, new flowers, new furniture, new stones, new houses, new paths, new decorations, new lights, new clouds, new doors, new windows, or any new background detail during the shot.
 
 If an object or character is not visible or clearly established in the first frame, it must not appear later.
 
@@ -85,7 +85,7 @@ Do not reveal a prop, creature, or character causing the sound.
 
 ### Approved props
 - None — this shot is prop-free
-- Central Square environment only: Big Pompom Tree, rounded paths, pastel houses only if already part of the world reference
+- Stone Hill environment only: rounded child-safe stone hill forms, soft grassy ground only if present in the world reference
 
 ### Forbidden props
 - any blocks, toys, tools, food, furniture, sound-making object, or new object
@@ -94,37 +94,45 @@ Do not reveal a prop, creature, or character causing the sound.
 
 ## Visual Prompt
 ```text
-Use Central Square (world reference) as the LOCKED environment. Insert Noah (character reference) and Arda (character reference) together. Medium shot, warm morning light, Big Pompom Tree softly behind. Noah stands calmly beside Arda with a thoughtful friendly expression. Noah gently tilts his head as if hearing a tiny friendly sound from somewhere off-screen, then looks toward the viewer with a soft inviting smile. Arda stands beside Noah, cheerful and playful, reacting with excited curiosity, giving a small happy wave and one tiny in-place happy body bob without changing position. Both characters are present from the first frame. No props are used. No blocks, toys, signs, animals, or extra objects appear. The sound source is never shown. No new character appears later. No new object appears later. Handcrafted preschool toy-set look, {style} {camera} {lighting}
+Use Stone Hill (world reference) as the LOCKED environment. Insert Noah (character reference) and Arda (character reference) together. Medium shot, warm morning light. Noah stands calmly beside Arda with a thoughtful friendly expression. Arda stands beside Noah, cheerful and playful, reacting with excited curiosity. Both characters are present from the first frame.
 
-Only Noah and Arda are present. The focus is curiosity, friendship, and inviting the viewer to come along.
+The shot begins immediately with life and motion from frame one. Noah and Arda are already subtly alive at the first frame with gentle breathing, blinking, warm expression, and a tiny curious reaction beginning within the first 1 second. Noah begins speaking within the first 1–2 seconds. Arda responds soon after. Do not hold a silent idle pose. Do not wait before action. Do not delay the dialogue.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-Central Square background locked; keep trees, paths and landmarks stable.
+Noah gently tilts his head as if hearing a tiny friendly sound from somewhere off-screen, then looks toward the viewer with a soft inviting smile. Arda gives a small happy wave and one tiny in-place happy body bob without changing position. The sound source is never shown. No object or character causing the sound is shown. No camera search for the sound source.
+
+Only Noah and Arda are present. No props are used. No blocks, toys, signs, animals, furniture, sound-making objects, or extra objects appear. No new character appears later. No new object appears later. Handcrafted preschool toy-set look, rounded shapes, {style} {camera} {lighting}
+
+Stone Hill must stay clean, simple, rounded, and uncluttered. Use only approved Stone Hill environment features already present in the world reference. Do not redesign the location. Do not add any signposts, wooden signs, direction signs, arrows, written boards, labels, place names, readable signs, road signs, path signs, map signs, banners, plaques, benches, fences, lamp posts, barrels, crates, street furniture, or any object containing letters or words. If the world reference contains any sign, signpost, label, board, arrow, bench, fence, street furniture, or written text, ignore it completely and keep it out of the generated frame.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. No written text anywhere in the image.
 ```
 
 ## Camera Direction
-Medium, eye-level, locked composition. No pan, no zoom, no pull-back, no push-in, no tilt, no orbit, no reframe, no camera reveal. Frame Noah and Arda comfortably from the first frame. The camera does not search for the sound source.
+Medium, eye-level, locked composition. Frame Noah and Arda comfortably from the first frame. The camera remains locked. No pan, no zoom, no pull-back, no push-in, no tilt, no orbit, no reframe, no camera reveal. The camera does not search for the sound source. The camera does not reveal new objects or characters.
 
 ## Dialogue
 ```
-Noah: Did you hear that?
-Arda: Let's go see!
+Noah: Did you hear that? A tiny friendly sound!
+Arda: Maybe Pompom Hills is saying hello!
+Noah: Let's listen together.
+Arda: Come on, let's go see!
 ```
 
 ## Shot Breakdown
 | Time | Action | Camera |
 |---|---|---|
-| 0-2 sn | Central Square, Noah and Arda already together | Medium |
-| 2-5 sn | Noah gently tilts his head as if hearing a tiny off-screen sound | Medium |
-| 5-8 sn | Arda reacts with cheerful curiosity and a small wave | Medium |
-| 8-12 sn | Noah: "Did you hear that?" / Arda: "Let's go see!" | Medium |
-| 12-15 sn | Both smile warmly; Noah gives a thoughtful nod; Arda makes one tiny in-place happy body bob without changing position. Final 0.5s: calm still hold. | Medium |
+| 0-1 sn | Noah and Arda already alive, first curious reaction begins | Medium |
+| 1-3 sn | Noah: "Did you hear that? A tiny friendly sound!" | Medium |
+| 3-6 sn | Arda: "Maybe Pompom Hills is saying hello!" | Medium |
+| 6-9 sn | Noah: "Let's listen together." / Arda: "Come on, let's go see!" | Medium |
+| 9-12 sn | Both smile, Noah thoughtful nod, Arda tiny in-place body bob | Medium |
+| 12-15 sn | Warm smiles, calm hold for transition | Medium |
 
 ## Natural Character Motion Rule
-Calm but alive: Noah gently tilts his head, gives a soft inviting look, and a thoughtful nod. Arda gives a small wave and one tiny in-place happy body bob without changing position. Curious but soft — no walking, no running, no jumping, no hopping, no repositioning, no crossing, no sudden motion. Both blink naturally.
+Calm but alive from the first frame: Noah and Arda are already softly moving at frame one with gentle breathing, blinking, warm expressions, and a tiny curious reaction beginning within the first 1 second. Noah begins speaking within the first 1–2 seconds and Arda responds soon after. Noah gently tilts his head, gives a soft inviting look, and a thoughtful nod. Arda gives a small wave and one tiny in-place happy body bob without changing position. No freeze, no long pause, no silent idle hold, no delayed reaction, no delayed wave, no delayed nod, no delayed dialogue, no waiting before action, no empty opening seconds. No walking, no running, no jumping, no hopping, no repositioning, no crossing, no sudden motion.
 
 ## Sound
-- Birds chirping, gentle breeze, soft outdoor ambience
+- Birds chirping, gentle breeze, soft outdoor Stone Hill ambience
 - A very soft tiny off-screen friendly sound is implied by the characters' reactions, but the source is never shown
 - Natural ambience only. No music. No background music.
 
@@ -132,7 +140,7 @@ Calm but alive: Noah gently tilts his head, gives a soft inviting look, and a th
 Warm morning sunlight, soft ambient.
 
 ## Reference Usage
-- World Reference: Central Square (`POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/`)
+- World Reference: Stone Hill (`POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/`)
 - Character Reference: Noah sheet, Arda sheet.
 
 ## Reference Role Rule
@@ -148,7 +156,7 @@ Reference images have separate jobs and must not be mixed.
 
 ## Negative Prompt
 ```text
-multiple characters, three characters, group, crowd, Kiko, Mimi, Luca, Opa, blocks, building blocks, toys, tools, furniture, food, extra prop, sound source visible, surprise character, character entering later, background crowd, low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, harsh shadows, violence, weapons, sharp objects, redesigned character, wrong scale, character drift, redesigned environment, cluttered background, background music, music, melody, song, soundtrack, musical bed, surprise object, surprise prop, character appearing later, duplicate character, duplicate Noah, duplicate Arda, duplicate body, partial character, shadow character, reflection character, extra animal, toy creature, new object, new prop, object appearing later, object entering later, camera revealing new object, camera revealing new character, jumping, hopping, walking, running, repositioning, crossing, character displacement, bouncing away
+multiple characters, three characters, group, crowd, Kiko, Mimi, Luca, Opa, blocks, building blocks, toys, tools, furniture, food, extra prop, sound source visible, visible sound source, toy sound, animal call, bell object, chime object, instrument, hidden creature, surprise character, character entering later, background crowd, low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, harsh shadows, violence, weapons, sharp objects, redesigned character, wrong scale, character drift, redesigned environment, cluttered background, background music, music, melody, song, soundtrack, musical bed, jingle, chime, bell, magical sparkle sound, whoosh, applause, cheering, crowd noise, loud sound, scary sound, surprise object, surprise prop, character appearing later, duplicate character, duplicate Noah, duplicate Arda, duplicate body, partial character, shadow character, reflection character, extra animal, toy creature, new object, new prop, object appearing later, object entering later, camera revealing new object, camera revealing new character, jumping, hopping, walking, running, repositioning, crossing, character displacement, bouncing away, long silent pause, delayed dialogue, delayed speech, delayed gesture, delayed wave, delayed nod, delayed reaction, waiting before action, idle pose, frozen opening, no movement at start, silent hold, empty opening seconds, late speech, late gesture, long establishing hold, motion starts late, dialogue starts late, signpost, wooden sign, direction sign, road sign, path sign, map sign, written sign, readable sign, readable text, written board, wooden board, notice board, labels, label, letters, words, place names, arrows, banner, plaque, text on signs, writing on objects, readable words, bench, fence, lamp post, barrel, crate, street furniture
 ```
 
 ## First-Frame Generation Gate
@@ -162,7 +170,7 @@ APPROVE only if:
 - no extra character appears
 - no duplicate character appears
 - no surprise prop or object appears
-- the approved location is correct
+- the approved location is correct (Stone Hill)
 - camera framing does not require a reveal
 - lighting matches the shot document
 - no on-screen text, caption, subtitle, watermark, or logo appears
@@ -194,15 +202,7 @@ For this Season Begins video, the first frame must already contain the approved 
 
 ## Edit-Safe Opening and Ending Rule
 
-This shot will be edited together with other separately generated shots.
-
-The first 0.5 seconds must be visually stable:
-- no sudden character movement
-- no new gesture starting immediately
-- no camera movement
-- no character entering
-- no object appearing
-- location already clear from the first frame
+Opening edit handles are handled in montage, not inside OpenArt generation. OpenArt must begin alive immediately from frame one. Do not ask OpenArt to create a silent 0.5 second hold at the beginning. Any black gap, fade, or transition timing must be added later in editing.
 
 The final 0.5 seconds must be a calm edit-safe hold:
 - no new gesture starts
@@ -216,7 +216,7 @@ This allows a soft 0.4–0.6 second transition in editing.
 
 ## Post-Production Transition Note
 
-This shot ends in Central Square and transitions to Shot 04 at Opa's Tree.
+This shot ends at Stone Hill and transitions to Shot 04 at Opa's Tree.
 
 Recommended edit transition after this shot:
 - warm cream dip
@@ -229,7 +229,7 @@ Recommended edit transition after this shot:
 - no camera zoom
 
 Audio:
-- gently crossfade Central Square outdoor ambience into Opa's Tree outdoor ambience
+- gently crossfade Stone Hill outdoor ambience into Opa's Tree outdoor ambience
 - the tiny off-screen sound must not continue into Shot 04 unless added intentionally in edit
 - no music
 - no chime
@@ -245,7 +245,7 @@ Do not include transition wording inside the OpenArt Visual Prompt.
 - [ ] Exactly TWO characters (Noah + Arda) in frame — no others
 - [ ] Noah identity/scale correct (100 units)
 - [ ] Arda identity/scale correct (~85 units, slightly smaller/younger)
-- [ ] Central Square environment stable, warm morning light
+- [ ] Stone Hill environment stable, warm morning light
 - [ ] No blocks, toys, props, signs, animals, or new objects appear
 - [ ] The sound source is not shown at any time
 - [ ] Prop-free Noah + Arda curiosity / invitation beat reads clearly
@@ -259,7 +259,6 @@ Do not include transition wording inside the OpenArt Visual Prompt.
 - [ ] Camera does not reveal new characters or objects
 - [ ] Background remains locked and stable
 - [ ] No internal contradiction between Visual Prompt, Approved Props, Camera Direction, Lighting, Negative Prompt, and Shot Breakdown
-- [ ] First 0.5s is stable and edit-safe
 - [ ] Final 0.5s is calm and transition-safe
 - [ ] No new action begins in the final 0.5s
 - [ ] Post-production transition note is present

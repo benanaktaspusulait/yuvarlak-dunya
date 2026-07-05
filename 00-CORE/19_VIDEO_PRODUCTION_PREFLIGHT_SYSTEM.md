@@ -614,6 +614,13 @@ Uzun production notları, teori, QA dokümantasyonu veya iç mantık OpenArt-fac
 
 Pompom Hills sakin, yumuşak ve preschool-safe olmalıdır ama asla görsel olarak ölü olmamalıdır.
 
+**No Idle Opening / Immediate Life Rule (zorunlu, ölçülebilir):** Shot ilk frame'den itibaren
+canlı başlamalıdır. Frame-one motion olmalı, ilk onaylı jest ilk 1 saniye içinde başlamalı ve
+diyalog ilk 1–2 saniye içinde başlamalıdır (shot açıkça sessiz tasarlanmadıkça). Tam kural ve
+required wording için: `00-CORE/18_OPENART_CONTINUITY_AND_MOTION_RULES.md` §4A. Sadece "No long
+pause" yazan bir prompt yeterli DEĞİLDİR; ölçülebilir zamanlama satırları yoksa shot NOT
+READY'dir.
+
 Her 10-15 saniyelik shot'ta 2-3 saniyede bir net bir beat olmalıdır.
 
 İzin verilen beat'ler:
@@ -727,6 +734,7 @@ Final frame şunları korumalıdır:
 10. `@image1` diğer tüm image'lara öncelikli mi?
 11. İlk 1 saniye continuity hold tanımlı mı?
 12. Her 2-3 saniyede net bir action/reaction/dialogue beat var mı?
+12A. Shot frame-one motion, ilk 1 sn içinde ilk jest ve ilk 1–2 sn içinde diyalog belirtiyor mu (No Idle Opening / Immediate Life Rule, `18_OPENART_CONTINUITY_AND_MOTION_RULES.md` §4A)? Sadece "No long pause" yazıyorsa NOT READY.
 13. Sound doğal ambience only mi?
 14. Music, melody, soundtrack ve chime kasıtlı olmadıkça yasak mı?
 15. Ghosting ve duplicate characters yasak mı?

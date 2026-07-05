@@ -105,6 +105,102 @@ Diyalog sahneleri sadece talking pose olmamalıdır.
 
 Her 3-5 saniyede küçük bir görsel aksiyon olmalıdır (eğer shot kasıtlı olarak duragan değilse).
 
+**Ölçülebilir zaman kuralı (zorunlu):** "No long pause" tek başına yeterli DEĞİLDİR. Her
+OpenArt-facing prompt, hareketin ve diyalogun ne zaman başladığını sayısal olarak belirtmelidir.
+Bu, §4A No Idle Opening / Immediate Life Rule tarafından zorunlu kılınır: frame-one motion,
+ilk 1 saniye içinde ilk jest, ilk 1–2 saniye içinde diyalog. Bu zamanlama satırları yoksa
+prompt NOT READY'dir.
+
+Natural Character Motion Rule bölümünde her prompt şu yapıyı içermelidir:
+
+```text
+Calm but alive from the first frame: subtle breathing, blinking, warm expression, and the first approved gesture begins within the first 1 second. Dialogue begins within the first 1–2 seconds. No freeze, no long pause, no silent idle hold, no delayed wave, no delayed nod, no delayed reaction, no delayed dialogue, no waiting before action, no empty opening seconds.
+```
+
+---
+
+## 4A. No Idle Opening / Immediate Life Rule
+
+> **Kısa ad: NO IDLE OPENING / IMMEDIATE LIFE RULE.**
+> Bu kural zorunludur ve her OpenArt-facing prompt'a uygulanır.
+>
+> **Neden:** Önceki "No long pause" kuralı yeterince güçlü değildi. OpenArt karakteri yine de
+> birkaç saniye hareketsiz tutup el sallamayı veya konuşmayı ancak 5. saniye civarında
+> başlatabiliyordu. Bu, boş ve sıkıcı preschool shot'ları yaratır ve üretim kredisini boşa
+> harcar. Kural açık, ölçülebilir ve her OpenArt prompt'unun İÇİNDE uygulanır — sadece negative
+> prompt'ta değil.
+
+### Kural
+
+Her OpenArt video shot'ı hemen canlı başlamalıdır.
+
+- İlk frame zaten aktif, sıcak ve amaçlı hissetmelidir.
+- Karakterler daha ilk frame'den itibaren subtle doğal hareket göstermelidir.
+- İlk onaylı görünür jest ilk 1 saniye içinde başlamalıdır.
+- Diyalog, shot açıkça sessiz olarak tasarlanmadıkça ilk 1–2 saniye içinde başlamalıdır.
+- Hiçbir shot uzun sessiz hold, donmuş poz, boş establishing duraklama, gecikmiş el sallama,
+  gecikmiş baş sallama, gecikmiş tepki veya gecikmiş diyalogla başlayamaz.
+
+### Required wording — Visual Prompt
+
+Visual Prompt bölümüne, shot'a uyarlanmış bir zamanlama paragrafı eklenir:
+
+```text
+The shot begins immediately with life and motion from frame one. The character(s) are already subtly alive at the first frame with gentle breathing, blinking, warm expression, and the first approved small gesture beginning within the first 1 second. Dialogue begins early, within the first 1–2 seconds of the shot. Do not hold a silent idle pose. Do not wait before action. Do not delay the dialogue.
+```
+
+### Required wording — Natural Character Motion Rule
+
+```text
+Calm but alive from the first frame: subtle breathing, blinking, warm expression, and the first approved gesture begins within the first 1 second. Dialogue begins within the first 1–2 seconds. No freeze, no long pause, no silent idle hold, no delayed wave, no delayed nod, no delayed reaction, no delayed dialogue, no waiting before action, no empty opening seconds.
+```
+
+### Required wording — Negative Prompt
+
+```text
+long silent pause, delayed dialogue, delayed speech, delayed gesture, delayed wave, delayed nod, waiting before action, idle pose, frozen opening, no movement at start, silent hold, empty opening seconds, late speech, late gesture, long establishing hold, motion starts late, dialogue starts late
+```
+
+### Uygulama kapsamı
+
+Bu kural gelecekteki TÜM OpenArt video prompt'larına uygulanır: karakter tanıtımları, dünya
+sahneleri, bölüm shot'ları, sezon açılışları, full-cast shot'ları ve sosyal video klipleri.
+
+Özellikle 10–15 saniyelik OpenArt shot'ları için kritiktir. OpenArt'ın ilk 4–5 saniyeyi
+sessizce sahneyi kurarak harcamasına izin verme. Bir preschool video shot'ı hemen canlı
+hissetmelidir.
+
+### İlk continuity saniyesiyle uyum
+
+Bu kural §2 First-Second Continuity Hold Rule ile çelişmez. İlk 1 saniye continuity hold'dür,
+donma değildir: mevcut karakterler `@image1` pozisyon/scale'ini korurken küçük idle motion
+(blink, breathe, warm expression, tiny head/hand motion) yapar ve ilk onaylı jest bu birinci
+saniye içinde başlar. "Hemen canlı" demek "kompozisyonu resetle" demek değildir — hareket
+küçük karakter hareketinden ve erken diyalogdan gelir, kamera hareketinden değil.
+
+### Kontrol kriteri (NOT READY testi)
+
+Prompt'lar incelenirken, sadece "No long pause" yazan hiçbir OpenArt prompt'u kabul etme.
+
+Bir prompt şunları belirtmiyorsa **NOT READY**'dir:
+- motion from frame one
+- first gesture within 1 second
+- dialogue within 1–2 seconds (veya açıkça "silent shot")
+- no silent idle opening
+- no delayed dialogue
+
+### Bu kural neyi değiştirmez
+
+Mevcut hareket güvenlik kurallarını kaldırmaz. Şu kurallarla birlikte çalışır:
+- Camera Lock / Stable Composition (§3)
+- Natural Character Motion Rule (§4)
+- Surprise element / late object kuralları (§11, §14)
+- Character Count / entrance kuralları (§5)
+
+Zamanlamayı çözmek için kamera hareketi ekleme. Aktivite yaratmak için prop ekleme. Ekstra
+karakter ekleme. Çözüm sadece hemen başlayan küçük karakter hareketinden ve erken diyalogdan
+gelmelidir.
+
 ---
 
 ## 5. Character Entrance Without Recomposition Rule
@@ -582,6 +678,14 @@ QA kuralı:
 - [ ] Static talking pose yok.
 - [ ] Frozen character performance yok.
 
+### No Idle Opening / Immediate Life (§4A):
+- [ ] Shot ilk frame'den canlı başlıyor (frame-one motion belirtilmiş).
+- [ ] İlk onaylı jest ilk 1 saniye içinde başlıyor (prompt'ta yazılı).
+- [ ] Diyalog ilk 1–2 saniye içinde başlıyor (veya shot açıkça "silent" olarak işaretli).
+- [ ] Silent idle opening / frozen opening / empty opening seconds yok.
+- [ ] Delayed dialogue / delayed gesture / delayed wave / delayed nod yok.
+- [ ] Prompt sadece "No long pause" yazmıyor; ölçülebilir zamanlama satırlarını içeriyor.
+
 ### Character Entrance:
 - [ ] Yeni karakter girişi camera recomposition zorlamıyor.
 - [ ] Yeni karakter okunabilir, tiny distant background değil.
@@ -665,6 +769,12 @@ First 1 second:
 
 ### Character Motion
 ```
+From frame one (No Idle Opening / Immediate Life Rule, §4A):
+- motion from frame one (subtle breathing, blinking, warm expression)
+- first approved gesture begins within the first 1 second
+- dialogue begins within the first 1–2 seconds (unless explicitly a silent shot)
+- no silent idle opening, no frozen opening, no delayed dialogue
+
 After continuity hold:
 - define specific small actions every 3-5 seconds
 - avoid static talking pose
@@ -721,6 +831,11 @@ oversized character, cropped character, character too close to camera, character
 changed character position, changed character scale, character teleporting, character appearing from nowhere, character pop-in, character disappearing, character side-switching
 ```
 
+### Idle Opening / Timing (§4A):
+```
+long silent pause, delayed dialogue, delayed speech, delayed gesture, delayed wave, delayed nod, waiting before action, idle pose, frozen opening, no movement at start, silent hold, empty opening seconds, late speech, late gesture, long establishing hold, motion starts late, dialogue starts late
+```
+
 ### Ghosting:
 ```
 ghost character, duplicate character, transparent character, double exposure, motion smear, character trail, overlapping duplicate face, overlapping duplicate body
@@ -763,6 +878,7 @@ Preflight Checklist'in 20 maddesi:
 10. `@image1` diğer tüm image'lara öncelikli mi?
 11. İlk 1 saniye continuity hold tanımlı mı?
 12. Her 2-3 saniyede net bir action/reaction/dialogue beat var mı?
+12A. Shot frame-one motion, ilk 1 sn içinde ilk jest ve ilk 1–2 sn içinde diyalog belirtiyor mu (No Idle Opening / Immediate Life Rule §4A)? Prompt sadece "No long pause" yazıyorsa NOT READY.
 13. Sound doğal ambience only mi?
 14. Music, melody, soundtrack ve chime kasıtlı olmadıkça yasak mı?
 15. Ghosting ve duplicate characters yasak mı?
