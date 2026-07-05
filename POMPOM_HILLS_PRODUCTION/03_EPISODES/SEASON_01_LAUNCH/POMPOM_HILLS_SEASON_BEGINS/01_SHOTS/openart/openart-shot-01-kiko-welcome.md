@@ -3,7 +3,7 @@
 ## Visual Prompt
 
 ```text
-Use Central Square (world reference) as the LOCKED environment. Insert Kiko (character reference) alone. Wide establishing shot of Central Square in warm morning light, the Big Pompom Tree behind. Kiko stands near the center on a clear rounded path, looks toward the viewer, gives a warm bright wave hello. Only Kiko is present. Handcrafted preschool toy-set look, rounded shapes, {style} {camera} {lighting}
+Use Central Square (world reference) as the LOCKED environment. Insert Kiko (character reference) alone. Wide establishing shot of Central Square in warm morning light, the Big Pompom Tree behind. Kiko stands near the center on a clear rounded path, looks toward the viewer, gives a warm bright wave hello. Only Kiko is present. Kiko is already visible from the first frame and remains the only character for the whole shot. No other character enters, appears, or is revealed later. Handcrafted preschool toy-set look, rounded shapes, {style} {camera} {lighting}
 
 No props are used in this shot. No other character appears in the background, foreground, edge of frame, window, path, reflection, or shadow.
 
@@ -24,6 +24,10 @@ Kiko: Hi! Welcome to Pompom Hills!
 ## Natural Character Motion Rule
 
 Calm but alive: small wave, blink, breathe, tiny in-place happy body bob, warm smile, look to viewer. No walking, no running, no jumping, no hopping, no repositioning, no crossing, no long pause.
+
+## Sound
+
+Soft outdoor morning ambience: gentle birds chirping, light breeze, very subtle distant village warmth. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
 
 ## Lighting
 

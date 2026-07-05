@@ -46,6 +46,7 @@ Her konu için tek yetkili dosya vardır. Bu dosyalar `00-CORE/` dizinindedir:
 | Series bumper / world micro-opening ayrımı ve dosya organizasyonu | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
 | Shot'lar arası continuity workflow (@image1 zinciri, transition QA) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
 | Standalone shot + dosya-içi post-production transition notu (çok-shot'lu / world geçişli videolar) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/STANDALONE_SHOT_AND_TRANSITION_STANDARD.md` |
+| OpenArt prompt `## Sound` bölümü + doğal sakinleştirici ambient ses (shot-level, müzik yok) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/NATURAL_CALMING_AMBIENCE_SOUND_STANDARD.md` |
 | Sosyal medya görsel formatı (Story/Feed/YouTube platform seti) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SOCIAL_MEDIA_IMAGE_FORMAT_STANDARD.md` |
 
 **Kural:** Bir kural bir kez yazılır. Bölüm dosyaları bu kurallara referans verir, tekrar etmez.

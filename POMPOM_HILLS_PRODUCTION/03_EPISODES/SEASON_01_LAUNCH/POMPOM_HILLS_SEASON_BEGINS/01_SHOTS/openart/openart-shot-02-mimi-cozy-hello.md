@@ -3,7 +3,7 @@
 ## Visual Prompt
 
 ```text
-Use Mimi's Burrow (world reference) as the LOCKED environment. Insert Mimi (character reference) alone. Cozy view at the round blue burrow entrance with warm cozy interior glow inside, three grey stepping stones, soft green grass and flowers on top. Mimi peeks out softly, sleepy and gentle, gives a small warm wave to the viewer. Only Mimi is present. Handcrafted preschool toy-set look, {style} {camera} {lighting}
+Use Mimi's Burrow (world reference) as the LOCKED environment. Insert Mimi (character reference) alone. Cozy view at the round blue burrow entrance with warm cozy interior glow inside, three grey stepping stones, soft green grass and flowers on top. Mimi peeks out softly, sleepy and gentle, gives a small warm wave to the viewer. Only Mimi is present. Mimi is already visible from the first frame and remains the only character for the whole shot. The burrow stays an entrance view only, not a room, bedroom, cave, or tunnel. Handcrafted preschool toy-set look, {style} {camera} {lighting}
 
 Only the burrow elements already listed are allowed: round blue entrance, warm cozy glow, exactly 3 grey stepping stones, soft grass, and existing flowers. No new objects appear inside or outside the burrow. No other character appears in the background, foreground, edge of frame, reflection, or shadow.
 
@@ -24,6 +24,10 @@ Mimi: Hello... come in, it's cozy here.
 ## Natural Character Motion Rule
 
 Calm but alive: soft wave, sleepy blink, gentle ear-flop, warm smile. No freeze, no long pause.
+
+## Sound
+
+Soft cozy burrow ambience: very gentle indoor warmth, quiet outdoor birds in the distance, soft breeze near the burrow entrance. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
 
 ## Lighting
 

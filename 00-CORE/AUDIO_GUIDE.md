@@ -253,4 +253,17 @@ SFX: Yağmur damlaları (yuvarlak ses), kapı kapanma
 
 ---
 
+## OpenArt Prompt Ses Bölümü (Ayrı Kaynak)
+
+Bu belge, tamamlanmış bölümün ses tasarımını yönetir: müzik, enstrümanlar, mix seviyeleri,
+SFX, voice identity. Bunların büyük kısmı kurguda eklenir.
+
+Buna karşılık, **OpenArt'a giden shot prompt'unun `## Sound` bölümü** ayrı bir kuralla
+yönetilir: `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/NATURAL_CALMING_AMBIENCE_SOUND_STANDARD.md`.
+OpenArt prompt'u yalnızca yumuşak doğal ambiyans ister — müzik istemez. Bölüm müziği daha
+sonra kurguda eklenir (bkz. `00-CORE/EPISODE_AUDIO_WORKFLOW.md` §1–§2). İki kaynak çelişmez:
+biri OpenArt'ın ne ürettiğini, diğeri bitmiş bölümün nasıl mikslendiğini tanımlar.
+
+---
+
 *Bu belge Pompom Hills ses produksiyonu için referansıdır.*
