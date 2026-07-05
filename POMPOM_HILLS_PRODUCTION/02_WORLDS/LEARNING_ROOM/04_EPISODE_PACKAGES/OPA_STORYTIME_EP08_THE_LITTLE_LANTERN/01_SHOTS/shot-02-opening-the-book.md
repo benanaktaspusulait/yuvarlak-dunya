@@ -6,10 +6,10 @@
 
 | Alan | Değer |
 | --- | --- |
-| Episode | The Little Lantern (Opa's Storytime, EP08) |
+| Episode | The Little Lantern (Opa's Storytime) |
 | Shot | 02 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (cozy evening) |
+| Location | Learning Room — Reading Corner (indoor, cozy evening) |
 | Characters | Opa, Luca, Mimi |
 
 ---
@@ -26,14 +26,14 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Rug, story chair, bookshelf, lantern, cushions and window remain identical. Do not repaint or reinterpret the Reading Corner. Only characters and the book may move.
+Background locked from the first frame. Rug, story chair, bookshelf, lantern, cushions and window remain identical. Do not repaint or reinterpret the Reading Corner. The reading-corner lantern stays lit with a warm golden glow. Only characters and the book may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 01 video as Video Reference. Opa opens the picture book, Luca and Mimi lean in with curiosity, a very soft warm glow rises gently from the page (no readable text), warm lantern light unchanged, medium framing, {style} {camera} {lighting}
+Use Shot 01 video as Video Reference. Opa opens the picture book, Luca and Mimi lean in with curiosity, warm cozy evening lantern glow unchanged, medium framing, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or lantern-glow intensity.
+Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or warm lantern-glow intensity. Never dark or gloomy.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
@@ -58,7 +58,7 @@ Begin from the identical camera position of the Shot 01 reference. Only after th
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: Opa's hands on the closed book, children watching. | Medium, 35mm, static |
+| 0-1 sn | Continuity hold: Opa's hands on the closed book, children watching in the lantern glow. | Medium, 35mm, static |
 | 1-3 sn | Opa lifts the book cover slowly, soft page-turning sound. | Medium, 35mm, static |
 | 3-5 sn | Luca blinks, leans slightly forward. | Medium, 35mm, static |
 | 5-7 sn | Mimi tilts her head, eyes following the page turn. | Medium, 35mm, static |
@@ -97,16 +97,16 @@ Do not make characters stare silently for several seconds.
 
 ## Sound
 
-- Soft indoor room tone
+- Soft cozy indoor room tone
 - Gentle page turn
-- Warm evening ambience
+- Very soft chime on the warm page glow
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 01 lighting exactly. Warm lantern glow, soft golden ambient, gentle evening window light. Do not reinterpret — continue it. Never dark.
+Continue Shot 01 lighting exactly. Warm lantern glow, cozy evening, soft ambient glow. Do not reinterpret — continue it. Never dark or gloomy.
 
 ---
 
@@ -117,7 +117,7 @@ Continue Shot 01 lighting exactly. Warm lantern glow, soft golden ambient, gentl
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, pitch black, nighttime darkness, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, gloom, darkness, pitch black, unlit room, cold blue night, spooky, eerie, frightening shadows, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -144,4 +144,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Luca=100, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Children readable for expression.
+Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Children readable for expression.

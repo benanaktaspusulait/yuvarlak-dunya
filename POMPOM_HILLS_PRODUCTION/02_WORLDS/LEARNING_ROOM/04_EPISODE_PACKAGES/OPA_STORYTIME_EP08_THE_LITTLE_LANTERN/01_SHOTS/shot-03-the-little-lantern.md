@@ -6,10 +6,10 @@
 
 | Alan | Değer |
 | --- | --- |
-| Episode | The Little Lantern (Opa's Storytime, EP08) |
+| Episode | The Little Lantern (Opa's Storytime) |
 | Shot | 03 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (cozy evening) |
+| Location | Learning Room — Reading Corner (indoor, cozy evening) |
 | Characters | Opa, Luca |
 
 ---
@@ -26,12 +26,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the book may move.
+Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. The reading-corner lantern stays lit with a warm golden glow. Only characters and the book may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 02 video as Video Reference. Close-up on book page with a small softly glowing lantern illustration (no readable text), Luca leaning closer with curious expression, warm lantern light unchanged, {style} {camera} {lighting}
+Use Shot 02 video as Video Reference. Close-up on book page with a soft little-lantern illustration and a tiny gentle glow (no readable text), Luca leaning closer with a curious expression, warm cozy evening light unchanged, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -51,7 +51,7 @@ Begin from the identical camera position of the Shot 02 reference. Static close-
 ```
 Opa: Once, there was a little lantern.
 Luca: A little one?
-Opa: Yes. With a small, soft glow.
+Opa: Yes. A little lantern with a soft, small glow.
 ```
 
 ---
@@ -60,14 +60,14 @@ Opa: Yes. With a small, soft glow.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: book page, small glowing lantern illustration. | Close-up, 50mm, static |
+| 0-1 sn | Continuity hold: book page in warm focus, Luca leaning in. | Close-up, 50mm, static |
 | 1-3 sn | Opa: "Once, there was a little lantern." | Close-up, 50mm, static |
-| 3-5 sn | Luca leans closer, eyes on the little lantern picture. | Close-up, 50mm, static |
+| 3-5 sn | A tiny soft glow appears on the little-lantern illustration. | Close-up, 50mm, static |
 | 5-7 sn | Luca: "A little one?" | Close-up, 50mm, static |
-| 7-10 sn | Opa: "Yes. With a small, soft glow." | Close-up, 50mm, static |
-| 10-12 sn | The little lantern illustration glows very softly and warm. | Close-up, 50mm, static |
-| 12-13 sn | Luca blinks, small curious smile. | Close-up, 50mm, static |
-| 13-15 sn | Luca glances up toward Opa, waiting for more. | Close-up, 50mm, static |
+| 7-10 sn | Opa: "Yes. A little lantern with a soft, small glow." | Close-up, 50mm, static |
+| 10-12 sn | Luca blinks, studying the tiny glow. | Close-up, 50mm, static |
+| 12-13 sn | Luca leans a touch closer. | Close-up, 50mm, static |
+| 13-15 sn | The little glow breathes softly; Luca smiles gently. | Close-up, 50mm, static |
 
 ---
 
@@ -99,16 +99,15 @@ Do not make characters stare silently for several seconds.
 
 ## Sound
 
-- Soft indoor room tone
-- Gentle warm evening ambience
-- Very soft warm shimmer on the glow
+- Soft cozy indoor room tone
+- Gentle warm ambience
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 02 lighting exactly. Warm lantern glow, soft golden ambient. Continue, do not reinterpret. Never dark.
+Continue Shot 02 lighting exactly. Warm lantern glow, cozy evening, soft ambient glow. Continue, do not reinterpret. Never dark or gloomy.
 
 ---
 
@@ -123,7 +122,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, pitch black, nighttime darkness, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, gloom, darkness, pitch black, unlit room, cold blue night, spooky, eerie, frightening shadows, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 

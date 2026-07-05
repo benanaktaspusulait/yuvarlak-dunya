@@ -9,7 +9,7 @@
 | Episode | The Tiny Wind That Helped (Opa's Storytime) |
 | Shot | 16 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (indoor, breezy sunny day) |
+| Location | Learning Room — Reading Corner (indoor) |
 | Characters | Opa, Kiko, Noah |
 
 ---
@@ -26,12 +26,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the softly drifting curtain may move.
+Background locked from the first frame. Reading Corner elements remain identical. The window stays slightly ajar with gentle air movement. Do not repaint or reinterpret. Only characters and the gentle light may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 15 video as Video Reference. Wide shot, gentle warm daylight and soft air movement through the slightly open arched window, the curtain drifts very softly, characters calm and settled, {style} {camera} {lighting}
+Use Shot 15 video as Video Reference. Medium/wide shot, breezy window light drifting softly across the Reading Corner, a gentle leaf-shadow moving, characters settling calmly, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 15 reference. Static wide. Lens 28mm, height 0.75m, static.
+Begin from the identical camera position of the Shot 15 reference. Static medium/wide. Lens 35mm, height 0.75m, static.
 
 ---
 
@@ -58,14 +58,12 @@ Begin from the identical camera position of the Shot 15 reference. Static wide. 
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-2 sn | Continuity hold: wide view of the Reading Corner, warm daylight. | Wide, 28mm, static |
-| 2-4 sn | The curtain drifts very softly by the slightly open window. | Wide, 28mm, static |
-| 4-6 sn | Noah looks toward the gentle window light. | Wide, 28mm, static |
-| 6-8 sn | Kiko breathes softly, warm and calm. | Wide, 28mm, static |
-| 8-10 sn | Opa blinks gently, hands on the closed book. | Wide, 28mm, static |
-| 10-12 sn | A soft glow of daylight settles across the rug. | Wide, 28mm, static |
-| 12-13 sn | The children settle into the warm light. | Wide, 28mm, static |
-| 13-15 sn | Quiet, breezy warmth held across the corner. | Wide, 28mm, static |
+| 0-2 sn | Continuity hold: the warm Reading Corner, characters settled. | Medium/wide, 35mm, static |
+| 2-5 sn | Breezy window light drifts softly across the rug. | Medium/wide, 35mm, static |
+| 5-8 sn | A gentle leaf-shadow moves across the wall. | Medium/wide, 35mm, static |
+| 8-11 sn | Kiko follows the moving light with her eyes. | Medium/wide, 35mm, static |
+| 11-13 sn | Noah breathes softly, calm. | Medium/wide, 35mm, static |
+| 13-15 sn | Opa gazes gently at the window light. | Medium/wide, 35mm, static |
 
 ---
 
@@ -98,23 +96,20 @@ Do not make characters stare silently for several seconds.
 ## Sound
 
 - Soft indoor room tone
-- Very gentle breeze through the slightly open window
-- Distant soft birdsong
-- Warm ambience
+- Gentle breeze through the slightly-ajar window
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 15 lighting exactly. Warm breezy daylight, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 15 lighting exactly. Warm breezy window light, soft ambient glow, gentle moving light. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
 - Continuity Reference: Shot 15 video (or exported final frame)
-- Voice: no dialogue in this shot
 
 ## Character Presence
 
@@ -122,7 +117,7 @@ Opa, Kiko and Noah are already present at the beginning of the shot. Do not intr
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, harsh gusts, blowing papers, storm, fast motion, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, storm, gusts knocking objects over, scattered flying papers, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -130,18 +125,16 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
 - [ ] Colour / lighting continuity verified
-- [ ] Breezy window light warm and soft (never harsh or glaring)
 - [ ] Silent shot confirmed silent (no accidental line)
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
-- [ ] Breeze stays soft (no strong wind or gusts); curtain drift gentle
-- [ ] No abrupt cut to black.
+- [ ] Breeze stays gentle; no object blown around
+- [ ] No perceivable shot boundary.
 - [ ] Shot feels calm but alive.
 - [ ] Shot is not a static talking pose.
 - [ ] No long empty pause occurs.
 - [ ] No characters stare silently for several seconds.
 - [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
 - [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
 - [ ] Existing continuity hold does not freeze the character unnaturally.
 - [ ] Camera stability does not kill character motion.
@@ -149,4 +142,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Kiko=100, Noah=100 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.
+Opa=120, Kiko=100, Noah=100 reference scale (`00-CORE/VARIABLES.md`). Group framing.

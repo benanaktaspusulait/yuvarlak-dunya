@@ -9,7 +9,7 @@
 | Episode | The Raindrop That Said Sorry (Opa's Storytime) |
 | Shot | 02 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (late afternoon, just after rain) |
+| Location | Learning Room — Reading Corner (after-rain afternoon, indoor) |
 | Characters | Opa, Luca, Mimi |
 
 ---
@@ -31,9 +31,9 @@ Background locked from the first frame. Rug, story chair, bookshelf, lantern, cu
 ## Visual Prompt
 
 ```text
-Use Shot 01 video as Video Reference. Opa opens the picture book, Luca and Mimi lean in with curiosity, a very soft raindrop shape glows gently on the page (no readable text), warm Reading Corner light unchanged, medium framing, {style} {camera} {lighting}
+Use Shot 01 video as Video Reference. Opa opens the picture book, Luca and Mimi lean in with curiosity, a very soft raindrop shape glows gently on the page (no readable text), fresh after-rain Reading Corner light unchanged, medium framing, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
+Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or after-rain window-light intensity.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
@@ -59,10 +59,10 @@ Begin from the identical camera position of the Shot 01 reference. Only after th
 | Time | Action | Camera |
 |---|---|---|
 | 0-1 sn | Continuity hold: Opa's hands on the closed book, children watching. | Medium, 35mm, static |
-| 1-3 sn | Opa lifts the book cover slowly, soft page-turn sound. | Medium, 35mm, static |
+| 1-3 sn | Opa lifts the book cover slowly, soft page turning sound. | Medium, 35mm, static |
 | 3-5 sn | Luca blinks, leans slightly forward. | Medium, 35mm, static |
 | 5-7 sn | Mimi tilts her head, eyes following the page turn. | Medium, 35mm, static |
-| 7-10 sn | A soft raindrop shape glows gently on the page; both children's eyes widen. | Medium, 35mm, static |
+| 7-10 sn | A soft raindrop shape glows on the page; both children's eyes widen. | Medium, 35mm, static |
 | 10-12 sn | Luca points gently at the glowing page. | Medium, 35mm, static |
 | 12-13 sn | Mimi leans closer, breathing softly. | Medium, 35mm, static |
 | 13-15 sn | Opa looks down at the book; children settle in anticipation. | Medium, 35mm, static |
@@ -99,14 +99,14 @@ Do not make characters stare silently for several seconds.
 
 - Soft indoor room tone
 - Gentle page turn
-- Warm ambience
+- Faint post-rain drip through the window
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 01 lighting exactly. Soft post-rain window light with gentle wet sparkle, warm ambient glow. Do not reinterpret — continue it.
+Continue Shot 01 lighting exactly. Fresh after-rain window light, faint wet sparkle, soft ambient glow. Do not reinterpret — continue it.
 
 ---
 
@@ -115,13 +115,9 @@ Continue Shot 01 lighting exactly. Soft post-rain window light with gentle wet s
 - Continuity Reference: Shot 01 video (or exported final frame)
 - Voice: same approved references for Opa, Luca and Mimi
 
-## Character Presence
-
-Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
-
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, heavy rain, storm, thunder, lightning, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, heavy rain downpour, storm, thunder, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -148,4 +144,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Children readable for expression.
+Opa=120, Luca=100, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Children readable for expression.

@@ -1,4 +1,4 @@
-# The Tiny Wind That Helped — Shot 11 — A Little Help, a Big Difference
+# The Tiny Wind That Helped — Shot 11 — A Little Help, Big Difference
 
 ---
 
@@ -9,8 +9,8 @@
 | Episode | The Tiny Wind That Helped (Opa's Storytime) |
 | Shot | 11 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (indoor, breezy sunny day) |
-| Characters | Opa, Noah |
+| Location | Learning Room — Reading Corner (indoor) |
+| Characters | Opa, Kiko |
 
 ---
 
@@ -26,12 +26,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the book may move.
+Background locked from the first frame. Reading Corner elements remain identical. The window stays slightly ajar with gentle air movement. Do not repaint or reinterpret. Only characters and the book may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 10 video as Video Reference. Medium two-shot, Opa gently shares the lesson, Noah checking softly, warm breezy Reading Corner light unchanged, {style} {camera} {lighting}
+Use Shot 10 video as Video Reference. Medium two-shot, Opa shares the gentle lesson, Kiko repeating the idea back with a soft smile, warm breezy Reading Corner light unchanged, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -50,8 +50,8 @@ Begin from the identical camera position of the Shot 10 reference. Static medium
 
 ```
 Opa: Even a little help makes a big difference.
-Noah: Even a tiny bit?
-Opa: Yes. The tiny wind helped in its own gentle way.
+Kiko: Even a tiny wind?
+Opa: Even a tiny wind.
 ```
 
 ---
@@ -60,13 +60,13 @@ Opa: Yes. The tiny wind helped in its own gentle way.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: Opa and Noah, book open on the rug. | Medium, 35mm, static |
+| 0-1 sn | Continuity hold: Opa and Kiko at the open book. | Medium, 35mm, static |
 | 1-4 sn | Opa: "Even a little help makes a big difference." | Medium, 35mm, static |
-| 4-6 sn | Noah tilts his head, thinking. | Medium, 35mm, static |
-| 6-8 sn | Noah: "Even a tiny bit?" | Medium, 35mm, static |
-| 8-11 sn | Opa nods warmly: "Yes. The tiny wind helped in its own gentle way." | Medium, 35mm, static |
-| 11-13 sn | Noah smiles softly, understanding. | Medium, 35mm, static |
-| 13-15 sn | Noah glances at the page, then up at Opa. | Medium, 35mm, static |
+| 4-6 sn | Kiko thinks, eyes bright. | Medium, 35mm, static |
+| 6-8 sn | Kiko: "Even a tiny wind?" | Medium, 35mm, static |
+| 8-11 sn | Opa nods softly, warm smile. | Medium, 35mm, static |
+| 11-13 sn | Opa: "Even a tiny wind." | Medium, 35mm, static |
+| 13-15 sn | Kiko beams, hugging her knees. | Medium, 35mm, static |
 
 ---
 
@@ -99,22 +99,21 @@ Do not make characters stare silently for several seconds.
 ## Sound
 
 - Soft indoor room tone
-- Very gentle breeze through the slightly open window
-- Warm ambience
+- Gentle breeze through the slightly-ajar window
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 10 lighting exactly. Warm breezy daylight, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 10 lighting exactly. Warm breezy window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
 - Continuity Reference: Shot 10 video (or exported final frame)
-- Voice: same approved references for Opa and Noah
+- Voice: same approved references for Opa and Kiko
 
 ## Character Presence
 
@@ -122,21 +121,20 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, harsh gusts, blowing papers, storm, fast motion, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, storm, gusts knocking objects over, scattered flying papers, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
 Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Noah)
+- [ ] Voice continuity verified (Opa, Kiko)
 - [ ] Colour / lighting continuity verified
-- [ ] Learning point present ("Even a little help makes a big difference.")
-- [ ] Lesson shown through story, not lectured
+- [ ] Learning point delivered through story, not lectured
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
-- [ ] Breeze stays soft (no strong wind or gusts)
+- [ ] Breeze stays gentle; no object blown around
 - [ ] No perceivable shot boundary.
 - [ ] Shot feels calm but alive.
 - [ ] Shot is not a static talking pose.
@@ -151,4 +149,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Noah=100 reference scale (`00-CORE/VARIABLES.md`). Expression readable.
+Opa=120, Kiko=100 reference scale (`00-CORE/VARIABLES.md`). Expression readable.

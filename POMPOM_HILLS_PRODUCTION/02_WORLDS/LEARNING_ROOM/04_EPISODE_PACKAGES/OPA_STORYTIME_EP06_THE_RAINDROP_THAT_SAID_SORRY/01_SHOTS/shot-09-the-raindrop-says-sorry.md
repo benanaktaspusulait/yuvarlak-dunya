@@ -9,7 +9,7 @@
 | Episode | The Raindrop That Said Sorry (Opa's Storytime) |
 | Shot | 09 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (late afternoon, just after rain) |
+| Location | Learning Room — Reading Corner (after-rain afternoon, indoor) |
 | Characters | Opa, Luca |
 
 ---
@@ -26,14 +26,14 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the book may move.
+Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters, the book and the soft imagination glow may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 08 video as Video Reference. Close-up on the book page, the little raindrop and the bird gently together beside the cozy nest, a soft warm glow (soft imagination visual, no readable text), Luca reacting with hope, {style} {camera} {lighting}
+Use Shot 08 video as Video Reference. Slow push-in close-up on book page, soft glow as the little raindrop leans toward the flower to say sorry (no readable text), Luca leaning in to listen, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Match the lighting and colour grading exactly from the supplied continuity reference image. The imagination glow stays soft and small — no full fantasy cutaway.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
@@ -42,16 +42,16 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 08 reference. Static close-up on the book page. Lens 50mm, height 0.60m, static.
+Begin from the identical camera position of the Shot 08 reference. Very slow push-in on the book detail. Lens 50mm, height 0.60m, slow push-in (gentle, emotionally justified).
 
 ---
 
 ## Dialogue
 
 ```
-Opa: So the raindrop said, "I'm sorry, little bird."
-Luca: Did the bird hear it?
-Opa: Yes. And the bird felt a little warmer already.
+Opa: The raindrop whispered, "I'm sorry, little flower."
+Luca: It said it out loud?
+Opa: Softly. But it really, truly meant it.
 ```
 
 ---
@@ -60,13 +60,13 @@ Opa: Yes. And the bird felt a little warmer already.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: close on the book page, raindrop near the nest. | Close-up, 50mm, static |
-| 1-4 sn | Opa: "So the raindrop said, 'I'm sorry, little bird.'" | Close-up, 50mm, static |
-| 4-6 sn | A soft warm glow grows gently around the raindrop and bird. | Close-up, 50mm, static |
-| 6-8 sn | Luca leans in, hopeful: "Did the bird hear it?" | Close-up, 50mm, static |
-| 8-11 sn | Opa: "Yes. And the bird felt a little warmer already." | Close-up, 50mm, static |
-| 11-13 sn | Luca smiles softly, relieved. | Close-up, 50mm, static |
-| 13-15 sn | Luca glances up toward Opa, waiting for more. | Close-up, 50mm, static |
+| 0-1 sn | Continuity hold: book page with soft glow, Luca watching. | Close-up, 50mm, slow push-in |
+| 1-4 sn | Opa: "The raindrop whispered, 'I'm sorry, little flower.'" | Close-up, 50mm, slow push-in |
+| 4-6 sn | The glow leans gently toward the flower on the page. | Close-up, 50mm, slow push-in |
+| 6-8 sn | Luca: "It said it out loud?" | Close-up, 50mm, slow push-in |
+| 8-10 sn | Opa nods softly. | Close-up, 50mm, settle |
+| 10-13 sn | Opa: "Softly. But it really, truly meant it." | Close-up, 50mm, settle |
+| 13-15 sn | Luca leans closer, a small warm smile forming. | Close-up, 50mm, settle |
 
 ---
 
@@ -99,15 +99,15 @@ Do not make characters stare silently for several seconds.
 ## Sound
 
 - Soft indoor room tone
-- Very soft chime on the warm glow
-- Warm ambience
+- Faint post-rain drip through the window
+- Very soft chime on the imagination glow
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 08 lighting exactly. Soft post-rain window light with gentle wet sparkle, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 08 lighting exactly. Fresh after-rain window light, soft ambient glow, plus a small soft glow from the book imagination visual. Continue, do not reinterpret.
 
 ---
 
@@ -122,7 +122,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, heavy rain, storm, thunder, lightning, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, heavy rain downpour, storm, thunder, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, full fantasy cutaway, loud magical effect
 
 ## QA Checklist
 
@@ -131,9 +131,9 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] Frame Lock present; first frame indistinguishable from @image1
 - [ ] Voice continuity verified (Opa, Luca)
 - [ ] Colour / lighting continuity verified
+- [ ] Push-in slow and gentle (no fast zoom)
+- [ ] Imagination glow soft, no full fantasy cutaway
 - [ ] No readable text on book pages
-- [ ] Imagination glow soft and slow (no sudden flash)
-- [ ] "Sorry" moment reads warm and safe
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
 - [ ] No perceivable shot boundary.
@@ -150,4 +150,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Expression readable.
+Opa=120, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Book detail and expression readable.

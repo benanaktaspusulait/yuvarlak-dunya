@@ -9,7 +9,7 @@
 | Episode | The Tiny Wind That Helped (Opa's Storytime) |
 | Shot | 02 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (indoor, breezy sunny day) |
+| Location | Learning Room — Reading Corner (indoor) |
 | Characters | Opa, Kiko, Noah |
 
 ---
@@ -26,12 +26,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Rug, story chair, bookshelf, lantern, cushions and window remain identical. Do not repaint or reinterpret the Reading Corner. Only characters, the book and the softly drifting curtain may move.
+Background locked from the first frame. Rug, story chair, bookshelf, lantern, cushions and window remain identical. The window stays slightly ajar with gentle air movement. Do not repaint or reinterpret the Reading Corner. Only characters and the book may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 01 video as Video Reference. Opa opens the picture book, Kiko and Noah lean in with curiosity, a very soft wind-swirl shape glows gently on the page (no readable text), warm breezy Reading Corner light unchanged, medium framing, {style} {camera} {lighting}
+Use Shot 01 video as Video Reference. Opa opens the picture book, Kiko and Noah lean in with curiosity, gentle air lifts the page edge softly, warm breezy Reading Corner light unchanged, medium framing, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
 
@@ -59,12 +59,12 @@ Begin from the identical camera position of the Shot 01 reference. Only after th
 | Time | Action | Camera |
 |---|---|---|
 | 0-1 sn | Continuity hold: Opa's hands on the closed book, children watching. | Medium, 35mm, static |
-| 1-3 sn | Opa lifts the book cover slowly, gentle page-turning sound. | Medium, 35mm, static |
-| 3-5 sn | Noah blinks, leans slightly forward with a playful grin. | Medium, 35mm, static |
-| 5-7 sn | Kiko tilts her head, eyes following the page turn. | Medium, 35mm, static |
-| 7-10 sn | A soft wind-swirl glows on the page; both children's eyes widen. | Medium, 35mm, static |
-| 10-12 sn | Noah points gently at the glowing page. | Medium, 35mm, static |
-| 12-13 sn | Kiko leans closer, smiling brightly. | Medium, 35mm, static |
+| 1-3 sn | Opa lifts the book cover slowly, soft page-turn sound. | Medium, 35mm, static |
+| 3-5 sn | A gentle breeze lifts the page edge; Kiko blinks, leans forward. | Medium, 35mm, static |
+| 5-7 sn | Noah tilts his head, eyes following the page. | Medium, 35mm, static |
+| 7-10 sn | The book page glows softly; both children's eyes widen. | Medium, 35mm, static |
+| 10-12 sn | Kiko points gently at the glowing page. | Medium, 35mm, static |
+| 12-13 sn | Noah leans closer, breathing softly. | Medium, 35mm, static |
 | 13-15 sn | Opa looks down at the book; children settle in anticipation. | Medium, 35mm, static |
 
 ---
@@ -99,15 +99,14 @@ Do not make characters stare silently for several seconds.
 
 - Soft indoor room tone
 - Gentle page turn
-- Very gentle breeze through the slightly open window
-- Warm ambience
+- Gentle breeze through the slightly-ajar window
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 01 lighting exactly. Warm breezy daylight, soft ambient glow. Do not reinterpret — continue it.
+Continue Shot 01 lighting exactly. Warm breezy window light, soft ambient glow. Do not reinterpret — continue it.
 
 ---
 
@@ -122,7 +121,7 @@ Opa, Kiko and Noah are already present at the beginning of the shot. Do not intr
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, harsh gusts, blowing papers, storm, fast motion, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, storm, gusts knocking objects over, scattered flying papers, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -135,7 +134,7 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
-- [ ] Breeze stays soft (no strong wind or gusts)
+- [ ] Breeze stays gentle; no object blown around
 - [ ] No perceivable shot boundary.
 - [ ] Shot feels calm but alive.
 - [ ] Shot is not a static talking pose.

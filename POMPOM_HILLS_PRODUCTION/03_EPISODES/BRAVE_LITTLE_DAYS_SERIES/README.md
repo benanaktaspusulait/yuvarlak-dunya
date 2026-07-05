@@ -70,6 +70,11 @@ Bölüm paketleri world-based üretim yapısında yaşar (`02_WORLDS/{MEKAN}/04_
 | 03 | `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP03_KIKOS_CHECK_UP_DAY/` | Kiko's Check-Up Day | Central Square — Care Corner | Kiko, Mimi, Remi | Doktor/check-up korkusu / yardım almak | 120 sn (8×15) |
 | 04 | `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP04_THE_COZY_DARK/` | The Cozy Dark | Kiko's Home — Sleeping Corner (gece) | Kiko, Opa (+Mimi) | Karanlık korkusu / güven | 120 sn (8×15) |
 | 05 | `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP05_WASH_WASH_BUBBLES/` | Wash, Wash, Bubbles! | Kiko's Home — Washing Corner | Kiko, Mimi | El yıkama / günlük hijyen | 120 sn (8×15) |
+| 06 | `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP06_COZY_DOWN_SLEEPY_TIME/` | Cozy Down, Sleepy Time | Kiko's Home — Sleeping Corner | Kiko, Mimi | Uyku rutini / wind-down | 120 sn (8×15) |
+| 07 | `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP07_ONE_LITTLE_BITE/` | One Little Bite | Kiko's Home — Kitchen Nook | Kiko, Mimi | Sebze deneme / cesaret | 120 sn (8×15) |
+
+> **Sezon 1 planı (20 bölüm) ve backlog:** `SEASON_01_PLAN.md`. Package ID'ler oluşturma sırasına
+> göre sabittir; önerilen izleme sırası plan dosyasındadır (renumber yapılmaz).
 
 (Yollar `POMPOM_HILLS_PRODUCTION/` kök dizinine göredir.)
 

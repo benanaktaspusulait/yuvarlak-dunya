@@ -9,7 +9,7 @@
 | Episode | The Raindrop That Said Sorry (Opa's Storytime) |
 | Shot | 20 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (late afternoon, just after rain) |
+| Location | Learning Room — Reading Corner (after-rain afternoon, indoor) |
 | Characters | Opa, Luca, Mimi |
 
 Bu bölümün warm final hold'udur; ardından ortak kapanış bumper'ı gelir —
@@ -34,7 +34,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 19 video as Video Reference. Wide warm hold, the Reading Corner holds quietly for the final 2 seconds, soft post-rain afternoon light, {style} {camera} {lighting}
+Use Shot 19 video as Video Reference. Wide warm hold, the Reading Corner holds quietly for the final 2 seconds, soft after-rain afternoon light, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -66,7 +66,7 @@ Begin from the identical camera position of the Shot 19 reference. Static wide h
 | 4-6 sn | Mimi breathes softly, leaning slightly toward Opa. | Wide, 28mm, static |
 | 6-8 sn | Opa holds the closed book, blinks gently. | Wide, 28mm, static |
 | 8-10 sn | Luca glances at Mimi; shared quiet moment. | Wide, 28mm, static |
-| 10-12 sn | Mimi looks at the softly sparkling window, then settles. | Wide, 28mm, static |
+| 10-12 sn | Mimi looks at the sparkling window, then settles. | Wide, 28mm, static |
 | 12-13 sn | All three breathe softly in shared stillness. | Wide, 28mm, static |
 | 13-15 sn | Final hold; characters settle peacefully. | Wide, 28mm, static |
 
@@ -102,13 +102,14 @@ Do not make characters stare silently for several seconds.
 
 - Soft indoor room tone
 - Warm ambience fading softly (episode music tail added in edit)
+- Faint post-rain drip through the window
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 19 lighting exactly. Soft post-rain window light with gentle wet sparkle, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 19 lighting exactly. Fresh after-rain window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
@@ -123,7 +124,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, heavy rain, storm, thunder, lightning, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, heavy rain downpour, storm, thunder, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
 
 ## QA Checklist
 
@@ -149,4 +150,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.
+Opa=120, Luca=100, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.

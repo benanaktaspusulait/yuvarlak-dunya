@@ -5,11 +5,11 @@
 ## Story
 
 On a cozy evening story-time, Luca and Mimi sit with Opa in the warm Learning Room
-Reading Corner, wrapped in soft lantern glow. Opa opens a picture book and tells a gentle
-story about a little lantern that worried its glow was too small and dim to matter. One soft
-evening a friend cannot find the way home in the gentle dusk. The little lantern's warm glow
-lights the path and guides the friend safely home. The little lantern learns that even a
-small light is enough to help a friend. Luca and Mimi ask questions and react throughout.
+Reading Corner, lit by the soft golden glow of the reading-corner lantern. Opa opens a
+picture book and tells a gentle story about a little lantern that thought its light was
+too dim to matter. When a little friend is gently lost in the soft evening light, the
+little lantern glows its warmest best, and the friend follows the small warm glow safely
+home. Luca and Mimi ask questions and react throughout the story.
 
 ## Learning
 
@@ -21,8 +21,8 @@ Opa, Luca, Mimi
 
 ## World
 
-Learning Room — Reading Corner (cozy evening, warm lantern glow)
+Learning Room — Reading Corner (cozy evening)
 
 ## Series
 
-Opa's Storytime | Playlist: Opa's Storytime | Gentle Preschool Stories | Episode: EP08
+Opa's Storytime | Playlist: Opa's Storytime | Gentle Preschool Stories

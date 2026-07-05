@@ -15,7 +15,10 @@
 | LR-SHELF-02 | Prop (small reading-corner bookshelf) | ✅ |
 | LR-LANTERN-01 | Prop (reading-corner lantern) | ✅ |
 | LR-STUFFED-01 | Prop (stuffed animal, background charm) | ✅ |
-| Rounded picture book (no readable text) | Prop | ✅ (reuse series book per `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §11 visual rules) |
-| Post-rain window sparkle (soft wet-glass highlight, lighting treatment) | Lighting Treatment | 🔴 New — add per Lighting Notes (soft, non-cinematic, no rain streaks obscuring the scene) |
+| Rounded picture book (no readable text) | Prop | ✅ (reuse Opa's Storytime storybook prop) |
+| After-rain window sparkle pass (faint wet glass, no new object) | Lighting/FX note | 🔴 New — soft freshness pass per §11 visual rules; not a new environment object |
 
 Reference: `POMPOM_HILLS_PRODUCTION/02_WORLDS/LEARNING_ROOM/00_CANON/31-learning-room-bible.md` § Reading Corner zone.
+
+The after-rain freshness is achieved through lighting and a faint window sparkle only —
+no new props, no redesigned environment (`00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §11).

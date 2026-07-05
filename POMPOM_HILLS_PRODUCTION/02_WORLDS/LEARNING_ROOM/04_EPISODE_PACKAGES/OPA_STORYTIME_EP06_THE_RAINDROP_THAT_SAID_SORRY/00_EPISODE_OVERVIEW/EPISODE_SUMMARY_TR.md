@@ -4,16 +4,16 @@
 
 ## Konu
 
-Yağmur yeni dinmiş sakin bir ikindi vakti. Luca ve Mimi, Learning Room'un sıcak okuma
-köşesinde Opa'nın yanına otururlar; kemerli pencerede taze, ıslak bir parıltı vardır.
-Opa resimli bir kitap açar ve çok hızlı zıplayıp kazara küçük bir kuşun rahat yuvasını
-sıçratarak nemlendiren oyuncu bir yağmur damlasının masalını anlatır. Damla üzülür,
-kuşa özür diler ve sonra biraz güneş ışığını yakalayıp yuvayı yeniden nazikçe ısıtıp
-kurutur. Luca ve Mimi hikaye boyunca sorular sorar ve tepki verir.
+Yağmurun yeni dindiği taze bir öğleden sonra. Luca ve Mimi, Learning Room'un sıcak okuma
+köşesinde Opa'nın yanına otururlar; kemerli pencerede hafif ıslak bir parıltı kalmıştır.
+Opa resimli bir kitap açar ve her yere zıplamayı seven, yanlışlıkla küçük bir çiçeğin
+yuvasını sıçratan oyuncu bir yağmur damlasının masalını anlatır. Damla üzülür, özür diler
+ve her şeyi yavaşça yeniden güzelleştirmeye yardım eder. Luca ve Mimi hikaye boyunca
+sorular sorar ve tepki verir.
 
 ## Öğrenme
 
-Özür dileme • Bir şeyi düzeltme • İyilik
+Özür dileme • Bir şeyi yeniden iyi hale getirme • Nazik şefkat
 
 ## Karakterler
 
@@ -21,7 +21,7 @@ Opa, Luca, Mimi
 
 ## Mekan
 
-Learning Room — Okuma Köşesi (yağmurdan hemen sonra)
+Learning Room — Okuma Köşesi (yağmur sonrası öğleden sonra)
 
 ## Seri
 

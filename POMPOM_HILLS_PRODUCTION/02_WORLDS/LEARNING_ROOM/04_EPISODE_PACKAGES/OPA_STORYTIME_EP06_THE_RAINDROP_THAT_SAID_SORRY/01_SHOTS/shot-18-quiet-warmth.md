@@ -9,7 +9,7 @@
 | Episode | The Raindrop That Said Sorry (Opa's Storytime) |
 | Shot | 18 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (late afternoon, just after rain) |
+| Location | Learning Room — Reading Corner (after-rain afternoon, indoor) |
 | Characters | Opa, Luca, Mimi |
 
 ---
@@ -31,7 +31,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 17 video as Video Reference. Wide warm hold, a shared quiet moment, soft breathing and small glances, Opa holds the closed book, the Reading Corner holds quietly, {style} {camera} {lighting}
+Use Shot 17 video as Video Reference. Wide warm hold, quiet shared stillness, gentle breathing and small blinks, fresh after-rain light, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -58,13 +58,13 @@ Begin from the identical camera position of the Shot 17 reference. Static wide h
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-2 sn | Continuity hold: the three settled together in the corner. | Wide, 28mm, static |
-| 2-4 sn | Luca breathes softly, calm and content. | Wide, 28mm, static |
-| 4-6 sn | Mimi blinks, a small quiet smile. | Wide, 28mm, static |
-| 6-8 sn | Opa blinks warmly, hands on the closed book. | Wide, 28mm, static |
-| 8-10 sn | Luca glances at Mimi; shared warm stillness. | Wide, 28mm, static |
-| 10-12 sn | Mimi looks toward the softly sparkling window. | Wide, 28mm, static |
-| 12-13 sn | All three breathe softly in shared calm. | Wide, 28mm, static |
+| 0-2 sn | Continuity hold: wide view, all three settled warmly. | Wide, 28mm, static |
+| 2-4 sn | Luca blinks slowly, at peace. | Wide, 28mm, static |
+| 4-6 sn | Mimi breathes softly, a gentle smile. | Wide, 28mm, static |
+| 6-8 sn | Opa holds the closed book, warm and calm. | Wide, 28mm, static |
+| 8-10 sn | Luca glances at Mimi; shared quiet moment. | Wide, 28mm, static |
+| 10-12 sn | Mimi settles a little closer to Opa. | Wide, 28mm, static |
+| 12-13 sn | All three breathe softly in shared stillness. | Wide, 28mm, static |
 | 13-15 sn | Quiet warmth holds. | Wide, 28mm, static |
 
 ---
@@ -98,6 +98,7 @@ Do not make characters stare silently for several seconds.
 ## Sound
 
 - Soft indoor room tone
+- Faint post-rain drip through the window
 - Warm ambience
 - Natural ambience only. No music. No background music.
 
@@ -105,7 +106,7 @@ Do not make characters stare silently for several seconds.
 
 ## Lighting
 
-Continue Shot 17 lighting exactly. Soft post-rain window light with gentle wet sparkle, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 17 lighting exactly. Fresh after-rain window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
@@ -120,7 +121,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, heavy rain, storm, thunder, lightning, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, heavy rain downpour, storm, thunder, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
 
 ## QA Checklist
 
@@ -128,7 +129,7 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
 - [ ] Colour / lighting continuity verified
-- [ ] Static wide hold confirmed
+- [ ] Warm hold confirmed
 - [ ] Silent shot confirmed silent (no accidental line)
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
@@ -146,4 +147,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.
+Opa=120, Luca=100, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.

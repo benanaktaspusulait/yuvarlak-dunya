@@ -1,4 +1,4 @@
-# Opa's Storytime: The Little Lantern v2.0 (5-Minute Version)
+# Opa's Storytime: The Little Lantern v1.0 (5-Minute Version)
 
 ---
 
@@ -10,29 +10,27 @@
 | Hedef yaş | 3-4 |
 | Series | Opa's Storytime |
 | Playlist | Opa's Storytime \| Gentle Preschool Stories |
-| Bölüm | EP08 |
-| Ana duygu | Arkadaşlık, sıcaklık, güven |
-| Ana tema | Arkadaşlık — başkalarına yol göstermek / rehberlik etmek |
-| Mekan | Learning Room — Reading Corner (cozy evening) |
+| Ana duygu | Sıcaklık, dostluk, güven veren huzur |
+| Ana tema | Dostluk — küçük bir ışığın bir arkadaşa yol göstermesi |
+| Mekan | Learning Room — Reading Corner (indoor) |
 | Karakterler | Opa, Luca, Mimi |
 | Voice Identity | Approved voice reference per speaking character (Opa, Luca, Mimi) |
-| Colour Identity | Warm cream/wood pastel palette, warm amber lantern glow, soft low contrast, gentle evening dusk tones |
-| Lighting Identity | Warm lantern glow dominant, soft golden ambient, gentle evening dusk light through arched window — dim but cozy, never dark |
+| Colour Identity | Warm cream/wood pastel palette, warm golden lantern glow, soft saturation, low contrast |
+| Lighting Identity | Cozy evening — dim, warm lantern glow, soft golden light; gentle blue-warm evening beyond the arched window; never dark or gloomy |
 | Görsel yoğunluk | Düşük |
-| Çatışma | Yok; sadece küçük fenerin küçük ışığının bile bir arkadaşa yettiğini öğrenmesi |
+| Çatışma | Yok; sadece küçük lambanın ışığının yeterli olduğunu keşfetmesi |
 
 ---
 
 ## Story Summary
 
-Sıcak, sakin bir akşam story-time'ında Luca ve Mimi, Learning Room'un okuma köşesinde
-Opa'nın yanına otururlar; yumuşak fener ışığı odayı sarar. Opa yuvarlak bir resimli kitap
-açar ve ışığının çok küçük ve sönük olduğunu, hiçbir işe yaramayacağını düşünen küçük bir
-fenerin yumuşak masalını anlatır. Yumuşak bir akşam vakti bir arkadaş nazik alacakaranlıkta
-eve giden yolu bulamaz. Küçük fenerin sıcak ışığı yolu nazikçe aydınlatır ve arkadaşı güvenle
-eve getirir. Küçük fener, küçücük bir ışığın bile bir arkadaşa yardım etmeye yettiğini öğrenir.
-Luca ve Mimi hikaye boyunca sorular sorar, tahminde bulunur ve tepki verir. Akşam boyunca her
-şey sıcak, güvenli ve rahat — alacakaranlık yumuşak ve nazik, asla karanlık veya korkutucu değil.
+Sıcak bir akşam story-time'ında Luca ve Mimi, Learning Room'un okuma köşesinde Opa'nın
+yanına otururlar. Okuma köşesi lambası yumuşak, altın rengi bir ışıkla parıldar. Opa
+yuvarlak bir resimli kitap açar ve ışığının çok sönük olduğunu düşünen küçük bir lamba
+hakkında nazik bir masal anlatmaya başlar. Yumuşak akşam ışığında yolunu bulamayan bir
+arkadaş, küçük lambanın sıcacık parıltısını takip ederek güvenle evine döner. Luca ve
+Mimi hikaye boyunca sorular sorar, tahminde bulunur ve tepki verir. "Lost" anı asla
+korkutucu değil — yumuşak ve güven verici.
 
 ---
 
@@ -64,8 +62,8 @@ Ortak kapanış bumper kullanılır — bkz. `POMPOM_HILLS_PRODUCTION/03_EPISODE
 
 ## Micro-Moment (Key Discovery)
 
-Mimi'nin son sözü: "I can be a little light for my friend." — çocuğun hikayenin dersini kendi
-hayatına taşıdığı küçük ama unutulmaz kişisel bağlantı (Shot 13).
+Luca'nın son sözü: "I can be a little light for a friend." — çocuğun kendi hayatına
+taşıyacağı küçük ama unutulmaz bağlantı.
 
 ---
 
@@ -73,22 +71,22 @@ hayatına taşıdığı küçük ama unutulmaz kişisel bağlantı (Shot 13).
 
 | Sıra | Dosya | Süre | Karakter | Amaç |
 | --- | --- | ---: | --- | --- |
-| 01 | `shots/shot-01-story-time-begins.md` | 15 sn | Opa, Luca, Mimi | Cozy akşam story-time açılışı, seri açılış beat'i |
+| 01 | `shots/shot-01-evening-story-time-begins.md` | 15 sn | Opa, Luca, Mimi | Cozy akşam story-time açılışı, seri açılış beat'i |
 | 02 | `shots/shot-02-opening-the-book.md` | 15 sn | Opa, Luca, Mimi | Kitap açılır, merak |
-| 03 | `shots/shot-03-the-little-lantern.md` | 15 sn | Opa, Luca | Masalın başlaması, küçük fener tanıtılır (ışığı küçük) |
-| 04 | `shots/shot-04-a-wish-to-shine-brighter.md` | 15 sn | Opa, Mimi | Fener daha parlak parlamayı diler |
-| 05 | `shots/shot-05-too-small-to-matter.md` | 15 sn | Opa, Luca | Işığının işe yaramayacak kadar küçük olduğunu hisseder |
-| 06 | `shots/shot-06-is-a-little-light-enough.md` | 15 sn | Opa, Mimi | Çocuk sorusu: "Is a little light enough?" |
-| 07 | `shots/shot-07-evening-falls-softly.md` | 15 sn | Opa, Luca | Akşam yumuşakça iner; bir arkadaş nazik alacakaranlıkta dışarıda |
-| 08 | `shots/shot-08-the-friend-cannot-find-the-way.md` | 15 sn | Opa, Mimi | Arkadaş eve giden yolu bulamaz |
-| 09 | `shots/shot-09-the-warm-glow-lights-the-path.md` | 15 sn | Opa, Luca | Küçük fenerin sıcak ışığı yolu aydınlatır |
-| 10 | `shots/shot-10-safely-home.md` | 15 sn | Opa, Mimi | Arkadaş ışığı takip ederek güvenle eve gelir |
+| 03 | `shots/shot-03-the-little-lantern.md` | 15 sn | Opa, Luca | Masalın başlaması; küçük lambanın ışığı çok sönük görünür |
+| 04 | `shots/shot-04-the-bright-lanterns-shine-far.md` | 15 sn | Opa, Mimi | Büyük lambalar uzağa parıldar (nazik kontrast) |
+| 05 | `shots/shot-05-is-a-small-light-enough.md` | 15 sn | Opa, Luca | "Küçük bir ışık yeter mi?" (çocuk sorusu) |
+| 06 | `shots/shot-06-a-friend-in-the-evening-light.md` | 15 sn | Opa, Mimi | Bir arkadaş yumuşak akşam ışığında dolanır (korkutucu değil) |
+| 07 | `shots/shot-07-the-lantern-glows-its-best.md` | 15 sn | Opa, Luca | Küçük lamba en sıcak haliyle parıldar |
+| 08 | `shots/shot-08-will-the-friend-see-it.md` | 15 sn | Opa, Mimi | "Arkadaş onu görecek mi?" (çocuk sorusu) |
+| 09 | `shots/shot-09-one-small-warm-glow.md` | 15 sn | Opa, Luca | Yumuşak akşamda tek küçük sıcak parıltı |
+| 10 | `shots/shot-10-the-friend-follows-home.md` | 15 sn | Opa, Mimi | Arkadaş küçük ışığı takip edip güvenle evine döner |
 | 11 | `shots/shot-11-a-little-light-helps.md` | 15 sn | Opa, Luca | Ders hikaye üzerinden gösterilir |
-| 12 | `shots/shot-12-the-little-light-was-enough.md` | 15 sn | Opa, Luca | Çocuğun sıcak tepkisi ("The little light was enough!") |
-| 13 | `shots/shot-13-i-can-be-a-little-light.md` | 15 sn | Opa, Mimi | Micro-moment, kişisel bağlantı |
+| 12 | `shots/shot-12-the-little-lantern-helped.md` | 15 sn | Opa, Mimi | Mimi'nin sıcak tepkisi |
+| 13 | `shots/shot-13-i-can-be-a-little-light.md` | 15 sn | Opa, Luca | Micro-moment, kişisel bağlantı |
 | 14 | `shots/shot-14-book-closes-gently.md` | 15 sn | Opa, Luca, Mimi | Kitap kapanır, sıcak kapanış başlar |
 | 15 | `shots/shot-15-children-smile.md` | 15 sn | Opa, Luca, Mimi | Çocuklar gülümser |
-| 16 | `shots/shot-16-warm-lantern-glow.md` | 15 sn | Opa, Luca, Mimi | Sıcak fener/akşam pencere ışığı, sakinlik |
+| 16 | `shots/shot-16-warm-evening-light.md` | 15 sn | Opa, Luca, Mimi | Sıcak akşam pencere/lamba ışığı, sakinlik |
 | 17 | `shots/shot-17-gentle-pull-back.md` | 15 sn | Opa, Luca, Mimi | Yavaş çekim, ortam genişler |
 | 18 | `shots/shot-18-quiet-warmth.md` | 15 sn | Opa, Luca, Mimi | Sessiz sıcak an |
 | 19 | `shots/shot-19-final-warm-hold.md` | 15 sn | Opa, Luca, Mimi | Final sıcak tutuş |
@@ -106,7 +104,8 @@ Come close, little friends.
 
 ## Learning Point
 
-Küçücük bir ışık bile, bir arkadaşın yolunu bulmasına yardım eder.
+Küçük bir ışık, bir arkadaşın yolunu bulmasına yardım eder.
+(A little light helps a friend find the way.)
 
 ---
 
@@ -115,8 +114,8 @@ Küçücük bir ışık bile, bir arkadaşın yolunu bulmasına yardım eder.
 | Karakter | Ses |
 | --- | --- |
 | Opa | Approved Opa voice reference — warm, calm, wise, never rushed |
-| Luca | Approved Luca voice reference — curious, energetic but gentle on a cozy indoor evening |
-| Mimi | Approved Mimi voice reference — soft, quiet, observant, tender |
+| Luca | Approved Luca voice reference — curious, energetic but gentle indoors |
+| Mimi | Approved Mimi voice reference — soft, quiet, observant |
 
 Reference: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
 
@@ -136,9 +135,10 @@ Never replace the voice with a narrator or alternate performer.
 
 ```text
 The full episode must appear colour graded as one continuous film.
-Maintain identical white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette across all shots.
-Warm amber lantern glow stays dominant and cozy. No cool shift. No warm-orange over-grading. No green tint. No magenta tint. No HDR look. No cinematic LUT.
-The evening tone stays soft and warm — dim but cozy, never dark or crushed.
+Maintain identical white balance, exposure, colour temperature, saturation, contrast, brightness and warm pastel palette across all shots.
+The palette is warm and cozy evening: soft golden lantern glow, gentle cream/wood tones, low contrast.
+No cool shift. No warm shift. No green tint. No magenta tint. No orange over-grading. No HDR look. No cinematic LUT.
+Never let the image become dark, gloomy or under-lit. Warmth stays constant and safe.
 The viewer must not perceive a shot boundary.
 ```
 
@@ -148,23 +148,23 @@ The viewer must not perceive a shot boundary.
 
 ```text
 The lighting must continue across shots without reinterpretation.
-Maintain identical light direction, light intensity, shadow softness, ambient lighting, highlight behaviour and lantern-glow brightness.
-Warm lantern glow is the dominant key light throughout; gentle evening dusk light through the arched window is soft and secondary.
-Do not allow the episode to become brighter, darker, cooler, harsher or more cinematic between shots.
-Evening light stays soft and gentle, never dark, gloomy or scary — the lantern warmth keeps the Reading Corner cozy and safe at all times.
+The scene is a cozy evening: the reading-corner lantern is the warm hero light, soft golden glow filling the corner, gentle blue-warm evening beyond the arched window.
+Maintain identical light direction, light intensity, shadow softness, ambient lighting, highlight behaviour, lantern brightness and warm bounce.
+Do not allow the episode to become brighter, darker, colder, gloomier, harsher or more cinematic between shots.
+Never dark, never scary, never gloomy — always warm, soft and safe.
 ```
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, pitch black, nighttime darkness, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, gloom, darkness, pitch black, unlit room, cold blue night, spooky, eerie, frightening shadows, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling
 
 ---
 
 ## QA Status
 
-Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) pending for 20-shot v2.0 structure.
+Scene QA (document-level, per `00-CORE/SCENE_QA_CHECKLIST.md`) pending for 20-shot v1.0 structure.
 
 Render QA (`16_VIDEO_QA_SPEC.md`, scored /10) runs after each shot is generated — pending.
 

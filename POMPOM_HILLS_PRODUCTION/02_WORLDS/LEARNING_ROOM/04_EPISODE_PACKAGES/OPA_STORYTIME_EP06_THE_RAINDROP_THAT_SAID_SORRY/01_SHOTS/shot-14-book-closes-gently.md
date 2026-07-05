@@ -9,7 +9,7 @@
 | Episode | The Raindrop That Said Sorry (Opa's Storytime) |
 | Shot | 14 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (late afternoon, just after rain) |
+| Location | Learning Room — Reading Corner (after-rain afternoon, indoor) |
 | Characters | Opa, Luca, Mimi |
 
 ---
@@ -31,7 +31,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 13 video as Video Reference. Slow pull-back to a wide warm hold, Opa gently closes the picture book, Luca and Mimi smile, the Reading Corner holds quietly, {style} {camera} {lighting}
+Use Shot 13 video as Video Reference. Slow pull-back to a wide warm hold, Opa gently closes the picture book, Luca and Mimi smile, the Reading Corner holds quietly in fresh after-rain light, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -99,14 +99,14 @@ Do not make characters stare silently for several seconds.
 
 - Soft indoor room tone
 - Gentle book-close sound
-- Warm ambience
+- Faint post-rain drip through the window
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 13 lighting exactly. Soft post-rain window light with gentle wet sparkle, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 13 lighting exactly. Fresh after-rain window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
@@ -121,7 +121,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, heavy rain, storm, thunder, lightning, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, heavy rain downpour, storm, thunder, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
 
 ## QA Checklist
 
@@ -148,4 +148,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.
+Opa=120, Luca=100, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.

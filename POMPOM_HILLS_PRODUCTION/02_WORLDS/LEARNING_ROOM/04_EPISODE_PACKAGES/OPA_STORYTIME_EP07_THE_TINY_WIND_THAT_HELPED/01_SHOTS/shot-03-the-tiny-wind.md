@@ -9,8 +9,8 @@
 | Episode | The Tiny Wind That Helped (Opa's Storytime) |
 | Shot | 03 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (indoor, breezy sunny day) |
-| Characters | Opa, Noah |
+| Location | Learning Room — Reading Corner (indoor) |
+| Characters | Opa, Kiko |
 
 ---
 
@@ -26,12 +26,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the book may move.
+Background locked from the first frame. Reading Corner elements remain identical. The window stays slightly ajar with gentle air movement. Do not repaint or reinterpret. Only characters and the book may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 02 video as Video Reference. Medium two-shot, Opa begins the story of a tiny wind, Noah leaning in with curious playful expression, warm breezy Reading Corner light unchanged, {style} {camera} {lighting}
+Use Shot 02 video as Video Reference. Close-up on book page with a soft tiny-wind illustration (no readable text), Kiko leaning closer with a curious expression, warm breezy Reading Corner light unchanged, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 02 reference. Static medium two-shot. Lens 35mm, height 0.75m, static.
+Begin from the identical camera position of the Shot 02 reference. Static close-up on book detail. Lens 50mm, height 0.60m, static.
 
 ---
 
@@ -50,8 +50,8 @@ Begin from the identical camera position of the Shot 02 reference. Static medium
 
 ```
 Opa: Once, there was a tiny wind.
-Noah: A tiny little wind?
-Opa: Yes. A tiny wind with a big heart.
+Kiko: A really tiny one?
+Opa: So tiny, it thought it could not help at all.
 ```
 
 ---
@@ -60,14 +60,13 @@ Opa: Yes. A tiny wind with a big heart.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: Opa and Noah, book open on the rug. | Medium, 35mm, static |
-| 1-3 sn | Opa looks down at the page, warm smile. | Medium, 35mm, static |
-| 3-5 sn | Opa: "Once, there was a tiny wind." | Medium, 35mm, static |
-| 5-7 sn | Noah blinks, leans forward playfully. | Medium, 35mm, static |
-| 7-9 sn | Noah: "A tiny little wind?" | Medium, 35mm, static |
-| 9-12 sn | Opa nods gently: "Yes. A tiny wind with a big heart." | Medium, 35mm, static |
-| 12-13 sn | Noah glances at the glowing page. | Medium, 35mm, static |
-| 13-15 sn | Noah looks back at Opa, eyes bright with curiosity. | Medium, 35mm, static |
+| 0-1 sn | Continuity hold: open book page, Kiko close by. | Close-up, 50mm, static |
+| 1-3 sn | Opa: "Once, there was a tiny wind." | Close-up, 50mm, static |
+| 3-5 sn | A soft wind swirl glows gently on the page. | Close-up, 50mm, static |
+| 5-7 sn | Kiko leans in: "A really tiny one?" | Close-up, 50mm, static |
+| 7-10 sn | Kiko's eyes widen with curiosity. | Close-up, 50mm, static |
+| 10-13 sn | Opa: "So tiny, it thought it could not help at all." | Close-up, 50mm, static |
+| 13-15 sn | Kiko tilts her head, thinking softly. | Close-up, 50mm, static |
 
 ---
 
@@ -100,22 +99,22 @@ Do not make characters stare silently for several seconds.
 ## Sound
 
 - Soft indoor room tone
-- Very gentle breeze through the slightly open window
-- Warm ambience
+- Gentle breeze through the slightly-ajar window
+- Very soft airy whoosh on the imagination glow
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 02 lighting exactly. Warm breezy daylight, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 02 lighting exactly. Warm breezy window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
 - Continuity Reference: Shot 02 video (or exported final frame)
-- Voice: same approved references for Opa and Noah
+- Voice: same approved references for Opa and Kiko
 
 ## Character Presence
 
@@ -123,19 +122,19 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, harsh gusts, blowing papers, storm, fast motion, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, storm, gusts knocking objects over, scattered flying papers, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
 Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Noah)
+- [ ] Voice continuity verified (Opa, Kiko)
 - [ ] Colour / lighting continuity verified
 - [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
-- [ ] Breeze stays soft (no strong wind or gusts)
+- [ ] Breeze stays gentle; no object blown around
 - [ ] No perceivable shot boundary.
 - [ ] Shot feels calm but alive.
 - [ ] Shot is not a static talking pose.
@@ -150,4 +149,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Noah=100 reference scale (`00-CORE/VARIABLES.md`). Expression readable.
+Opa=120, Kiko=100 reference scale (`00-CORE/VARIABLES.md`). Expression readable.

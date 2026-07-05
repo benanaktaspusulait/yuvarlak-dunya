@@ -54,6 +54,9 @@
 | OPA-STORYTIME-EP03 | The Star That Shared Its Light | 🤝 Social              | Opa, Luca, Noah | Opa's Tree (night)                              | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
 | OPA-STORYTIME-EP04 | The Sleepy Leaf                | 🌙 Bedtime, 💛 Feelings | Opa, Kiko, Noah | Central Square — Outdoor Story Blanket (sunset) | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
 | OPA-STORYTIME-EP05 | The Quiet Bird                 | 💛 Feelings, 🎓 Learning | Opa, Luca, Mimi | Learning Room — Reading Corner (rainy day)      | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP06 | The Raindrop That Said Sorry   | 🙌 Helper, 💛 Feelings | Opa, Luca, Mimi | Learning Room — Reading Corner (after-rain afternoon) | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP07 | The Tiny Wind That Helped      | 🙌 Helper, 🤝 Social   | Opa, Kiko, Noah | Learning Room — Reading Corner (breezy sunny day)    | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP08 | The Little Lantern             | 🤝 Social, 💛 Feelings | Opa, Luca, Mimi | Learning Room — Reading Corner (cozy evening)        | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
 
 ---
 
@@ -71,6 +74,10 @@
 | BLD-EP03 | Kiko's Check-Up Day | 🌟 Life Skills, 💛 Feelings, 🙌 Helper | Kiko, Mimi, Remi | Central Square — Care Corner | Doktor/check-up korkusu / yardım almak | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
 | BLD-EP04 | The Cozy Dark | 💛 Feelings, 🌟 Life Skills | Kiko, Opa (+Mimi) | Kiko's Home — Sleeping Corner (gece) | Karanlık korkusu / güven | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
 | BLD-EP05 | Wash, Wash, Bubbles! | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Washing Corner | El yıkama / günlük hijyen | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+| BLD-EP06 | Cozy Down, Sleepy Time | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Sleeping Corner | Uyku rutini / wind-down | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+| BLD-EP07 | One Little Bite | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Kitchen Nook | Sebze deneme / cesaret | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+
+> **Sezon 1 planı (20 bölüm) + backlog:** `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/SEASON_01_PLAN.md`.
 
 Paket yolları:
 - `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP01_KIKOS_HAPPY_SMILE/`
@@ -78,6 +85,8 @@ Paket yolları:
 - `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP03_KIKOS_CHECK_UP_DAY/`
 - `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP04_THE_COZY_DARK/`
 - `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP05_WASH_WASH_BUBBLES/`
+- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP06_COZY_DOWN_SLEEPY_TIME/`
+- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP07_ONE_LITTLE_BITE/`
 
 > Yeni Brave Little Days helper karakterleri: **Nella** (Tooth Helper, `01-CHARACTERS/14-nella.md`),
 > **Remi** (Care Helper, `01-CHARACTERS/15-remi.md`).
@@ -160,8 +169,9 @@ Paket yolları:
   S01E14 için `s01e14-final.mp4` ve shorts exportları mevcut.
 - S01E11, mevcut tracker ve production dokümanlarında `Üretildi` olarak geçtiği için bu statüde
   korundu; final mp4 yolu package/`15-VIDEOS` altında ayrıca netleştirilmeli.
-- Opa's Storytime için 5 bölüm package/shot dosyası mevcut, fakat `OPA_STORYTIME_*`
-  klasörleri altında `.mp4`, `.mov`, `.m4v` veya `.webm` video export dosyası bulunmadı.
+- Opa's Storytime için 8 bölüm package/shot dosyası mevcut (EP06-EP08 Learning Room'da eklendi,
+  böylece Learning Room'da 5 Opa's Storytime bölümü oldu: EP01, EP05, EP06, EP07, EP08), fakat
+  `OPA_STORYTIME_*` klasörleri altında `.mp4`, `.mov`, `.m4v` veya `.webm` video export dosyası bulunmadı.
   Seri README'si 8×15 sn / 120 sn gövde derken bölüm overview dosyaları 20×15 sn / 300 sn
   olarak kilitli; bu süre çelişkisi üretimden önce çözülmeli.
 - Sezon süresi standardı hâlâ açık çelişki içeriyor (60 sn ↔ 60-90 sn ↔ bazı eski 3 dk

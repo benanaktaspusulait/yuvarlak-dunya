@@ -9,8 +9,11 @@
 | Episode | The Raindrop That Said Sorry (Opa's Storytime) |
 | Shot | 13 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (late afternoon, just after rain) |
+| Location | Learning Room — Reading Corner (after-rain afternoon, indoor) |
 | Characters | Opa, Luca |
+
+Bu shot bölümün micro-moment'idir — çocuğun dersi kendi hayatına bağladığı an
+(`00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §7).
 
 ---
 
@@ -26,12 +29,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters may move.
+Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the book may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 12 video as Video Reference. Slow push-in medium on Luca, warm emotional micro-moment expression, Opa softly acknowledging in soft focus, {style} {camera} {lighting}
+Use Shot 12 video as Video Reference. Slow push-in close-up on Luca, warm emotional micro-moment expression, Opa softly acknowledging, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,7 +45,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 12 reference. Very slow push-in toward Luca. Lens 50mm, height 0.65m, slow push-in (emotionally justified, never fast).
+Begin from the identical camera position of the Shot 12 reference. Very slow push-in on Luca. Lens 50mm, height 0.65m, slow push-in (gentle, emotionally justified).
 
 ---
 
@@ -50,7 +53,7 @@ Begin from the identical camera position of the Shot 12 reference. Very slow pus
 
 ```
 Luca: I can say sorry too.
-Opa: That is a kind thing, Luca.
+Opa: That is a brave and kind thing, Luca.
 ```
 
 ---
@@ -59,14 +62,12 @@ Opa: That is a kind thing, Luca.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: Luca and Opa on the rug. | Static medium, 50mm, slow push-in |
-| 1-3 sn | Luca blinks, looks down at his hands. | Static medium, 50mm, slow push-in |
-| 3-5 sn | Luca looks up softly. | Static medium, 50mm, slow push-in |
-| 5-7 sn | Luca: "I can say sorry too." | Static medium, 50mm, slow push-in |
-| 7-10 sn | Opa breathes softly, eyes warm. | Static medium, 50mm, slow push-in |
-| 10-12 sn | Opa: "That is a kind thing, Luca." | Static medium, 50mm, settle |
-| 12-13 sn | Luca blinks, processing the warmth. | Static medium, 50mm, settle |
-| 13-15 sn | Luca and Opa share a quiet, warm glance. | Static medium, 50mm, settle |
+| 0-2 sn | Continuity hold: Luca looking down at the book, thoughtful. | Close-up, 50mm, slow push-in |
+| 2-5 sn | Luca looks up softly: "I can say sorry too." | Close-up, 50mm, slow push-in |
+| 5-7 sn | Opa's warm, proud smile. | Close-up, 50mm, slow push-in |
+| 7-11 sn | Opa: "That is a brave and kind thing, Luca." | Close-up, 50mm, settle |
+| 11-13 sn | Luca beams gently, a small nod. | Close-up, 50mm, settle |
+| 13-15 sn | Luca settles warmly; shared quiet beat. | Close-up, 50mm, settle |
 
 ---
 
@@ -99,15 +100,15 @@ Do not make characters stare silently for several seconds.
 ## Sound
 
 - Soft indoor room tone
+- Faint post-rain drip through the window
 - Warm ambience
-- Silence held at the emotional peak
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 12 lighting exactly. Soft post-rain window light with gentle wet sparkle, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 12 lighting exactly. Fresh after-rain window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
@@ -122,7 +123,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, heavy rain, storm, thunder, lightning, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, heavy rain downpour, storm, thunder, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
@@ -132,7 +133,8 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 - [ ] Voice continuity verified (Opa, Luca)
 - [ ] Colour / lighting continuity verified
 - [ ] Push-in slow and gentle (no fast zoom)
-- [ ] Micro-moment line present ("I can say sorry too.")
+- [ ] Micro-moment personal connection clear ("I can say sorry too.")
+- [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
 - [ ] No perceivable shot boundary.
@@ -149,4 +151,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Expression clearly readable.
+Opa=120, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Luca's expression readable.

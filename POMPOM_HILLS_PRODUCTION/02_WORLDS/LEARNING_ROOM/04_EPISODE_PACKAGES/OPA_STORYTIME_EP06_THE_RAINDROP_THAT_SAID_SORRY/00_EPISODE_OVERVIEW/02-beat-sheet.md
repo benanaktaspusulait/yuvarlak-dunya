@@ -1,30 +1,30 @@
-# The Raindrop That Said Sorry — Beat Sheet v2.0 (5-Minute Version)
+# The Raindrop That Said Sorry — Beat Sheet v1.0 (5-Minute Version)
 
 ---
 
 ## Story Rhythm
 
 ```
-Beat 1 (Shot 01): Luca and Mimi arrive at the Reading Corner just after rain, sit near Opa. Series opening beat: "Come close, little friends."
+Beat 1 (Shot 01): The rain has just stopped. Luca and Mimi settle near Opa in the Reading Corner. Series opening beat: "Come close, little friends."
 Beat 2 (Shot 02): Opa opens the book. Children lean in with curiosity.
-Beat 3 (Shot 03): "Once there was a little raindrop." Luca asks if it was bouncy.
-Beat 4 (Shot 04): The raindrop bounced down very fast. Mimi asks if it was too fast.
-Beat 5 (Shot 05): Splash — it landed on a little bird's cozy nest by accident. Luca reacts.
-Beat 6 (Shot 06): The nest got damp; the bird felt a bit sad. Mimi asks if the raindrop saw.
-Beat 7 (Shot 07): "What will the raindrop do now?" Luca wonders.
-Beat 8 (Shot 08): The little raindrop felt sorry inside. Mimi asks why.
-Beat 9 (Shot 09): The raindrop says "I'm sorry, little bird." Luca asks if the bird heard.
-Beat 10 (Shot 10): The raindrop catches a little sunlight to warm and dry the nest. Mimi asks what for.
-Beat 11 (Shot 11): "Saying sorry makes things nice again." Luca adds "and helping too?"
-Beat 12 (Shot 12): "The nest is cozy again!" Mimi's warm reaction.
-Beat 13 (Shot 13): "I can say sorry too." Micro-moment.
-Beat 14 (Shot 14): Book closes gently. Quiet warm hold begins. No new dialogue.
-Beat 15 (Shot 15): Children smile. Quiet warm hold.
-Beat 16 (Shot 16): Post-rain window light, wet sparkle. Quiet warm hold.
-Beat 17 (Shot 17): Gentle pull-back. Quiet warm hold.
-Beat 18 (Shot 18): Quiet warmth. No new dialogue.
+Beat 3 (Shot 03): "Once there was a little raindrop who loved to play." Luca asks if it was bouncy.
+Beat 4 (Shot 04): The raindrop bounces everywhere — on leaves, along branches. Mimi giggles at the bouncing.
+Beat 5 (Shot 05): Oops — it bounces too fast and splashes a tiny flower's nest. A small mess.
+Beat 6 (Shot 06): "Was someone upset?" Mimi asks. The flower's petals droop, just a little.
+Beat 7 (Shot 07): The raindrop sees the mess and feels a small ache. Luca asks if it felt sorry.
+Beat 8 (Shot 08): "What should the raindrop do?" Mimi wonders. Opa turns the question back gently.
+Beat 9 (Shot 09): The raindrop whispers, "I'm sorry, little flower." Luca asks if it said it out loud.
+Beat 10 (Shot 10): The raindrop gently smooths the petals and tucks the nest back. Mimi asks if it helped.
+Beat 11 (Shot 11): "Saying sorry helps make things good again." The flower smiles. Luca compares it to running away.
+Beat 12 (Shot 12): "That was kind," Mimi says warmly. Opa agrees softly.
+Beat 13 (Shot 13): "I can say sorry too." Micro-moment. Opa: "That is a brave and kind thing, Luca."
+Beat 14 (Shot 14): Book closes gently. Children smile. Warm closing begins. No new dialogue.
+Beat 15 (Shot 15): Children smile at each other in quiet warmth.
+Beat 16 (Shot 16): After-rain window light, faint sparkle on the glass.
+Beat 17 (Shot 17): Gentle pull-back; the Reading Corner widens softly.
+Beat 18 (Shot 18): Quiet warm moment shared by all three.
 Beat 19 (Shot 19): Final warm hold.
-Beat 20 (Shot 20): Closing hold; transition to closing bumper. No new dialogue.
+Beat 20 (Shot 20): Quiet warm closing hold. No new dialogue. Transition to closing bumper.
 ```
 
 ---
@@ -33,4 +33,3 @@ Beat 20 (Shot 20): Closing hold; transition to closing bumper. No new dialogue.
 
 Her shot en az bir çocuk tepkisi (soru/tahmin/gözlem) içerir — Opa hiçbir shot'ta
 10-15 saniyeden uzun tek başına konuşmaz. Bkz. `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §7.
-Çocuk soruları Luca ve Mimi arasında dönüşümlü dağıtılır (tek karakter yüklenmez).

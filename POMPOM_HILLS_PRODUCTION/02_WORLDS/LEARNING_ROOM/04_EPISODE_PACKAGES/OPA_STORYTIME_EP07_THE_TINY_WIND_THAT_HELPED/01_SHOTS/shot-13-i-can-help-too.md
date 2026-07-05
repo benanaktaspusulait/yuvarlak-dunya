@@ -9,8 +9,10 @@
 | Episode | The Tiny Wind That Helped (Opa's Storytime) |
 | Shot | 13 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (indoor, breezy sunny day) |
-| Characters | Opa, Noah |
+| Location | Learning Room — Reading Corner (indoor) |
+| Characters | Opa, Kiko |
+
+Bu shot bölümün micro-moment'idir (kişisel bağlantı) — bkz. `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §7. Opa'nın son repliği warm final hold'a taşınır.
 
 ---
 
@@ -26,12 +28,12 @@ The viewer must not perceive a shot boundary.
 
 ## Background Object Lock
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters may move.
+Background locked from the first frame. Reading Corner elements remain identical. The window stays slightly ajar with gentle air movement. Do not repaint or reinterpret. Only characters and the book may move.
 
 ## Visual Prompt
 
 ```text
-Use Shot 12 video as Video Reference. Slow push-in medium on Noah, warm emotional micro-moment expression, Opa softly acknowledging in soft focus, warm breezy Reading Corner light unchanged, {style} {camera} {lighting}
+Use Shot 12 video as Video Reference. Slow push-in close-up on Kiko, warm emotional micro-moment expression, Opa softly acknowledging, warm breezy Reading Corner light unchanged, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,15 +44,15 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 12 reference. Very slow push-in toward Noah. Lens 50mm, height 0.65m, slow push-in (emotionally justified, never fast).
+Begin from the identical camera position of the Shot 12 reference. Slow push-in on Kiko. Lens 50mm, height 0.65m, slow push-in.
 
 ---
 
 ## Dialogue
 
 ```
-Noah: I can help a little too.
-Opa: That is a kind thing, Noah.
+Kiko: I can help a little too.
+Opa: That is a kind thing, Kiko.
 ```
 
 ---
@@ -59,14 +61,12 @@ Opa: That is a kind thing, Noah.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: Noah and Opa on the rug. | Static medium, 50mm, slow push-in |
-| 1-3 sn | Noah blinks, looks down at his hands. | Static medium, 50mm, slow push-in |
-| 3-5 sn | Noah looks up softly, a gentle smile forming. | Static medium, 50mm, slow push-in |
-| 5-7 sn | Noah: "I can help a little too." | Static medium, 50mm, slow push-in |
-| 7-10 sn | Opa breathes softly, eyes warm. | Static medium, 50mm, slow push-in |
-| 10-12 sn | Opa: "That is a kind thing, Noah." | Static medium, 50mm, settle |
-| 12-13 sn | Noah blinks, taking in the warmth. | Static medium, 50mm, settle |
-| 13-15 sn | Noah and Opa share a quiet, warm glance. | Static medium, 50mm, settle |
+| 0-1 sn | Continuity hold: Kiko close, soft warm light on her face. | Close-up, 50mm, slow push-in |
+| 1-3 sn | Kiko looks up thoughtfully. | Close-up, 50mm, slow push-in |
+| 3-6 sn | Kiko: "I can help a little too." | Close-up, 50mm, slow push-in |
+| 6-9 sn | Opa's warm gaze enters softly. | Close-up, 50mm, slow push-in |
+| 9-12 sn | Opa: "That is a kind thing, Kiko." | Close-up, 50mm, slow push-in |
+| 12-15 sn | Kiko smiles, a quiet happy breath. | Close-up, 50mm, slow push-in |
 
 ---
 
@@ -99,23 +99,21 @@ Do not make characters stare silently for several seconds.
 ## Sound
 
 - Soft indoor room tone
-- Very gentle breeze through the slightly open window
-- Warm ambience
-- Silence held at the emotional peak
+- Gentle breeze through the slightly-ajar window
 - Natural ambience only. No music. No background music.
 
 ---
 
 ## Lighting
 
-Continue Shot 12 lighting exactly. Warm breezy daylight, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 12 lighting exactly. Warm breezy window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
 - Continuity Reference: Shot 12 video (or exported final frame)
-- Voice: same approved references for Opa and Noah
+- Voice: same approved references for Opa and Kiko
 
 ## Character Presence
 
@@ -123,20 +121,20 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, harsh gusts, blowing papers, storm, fast motion, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, strong wind, storm, gusts knocking objects over, scattered flying papers, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
 
 ## QA Checklist
 
 Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 - [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Noah)
+- [ ] Voice continuity verified (Opa, Kiko)
 - [ ] Colour / lighting continuity verified
-- [ ] Push-in slow and gentle (no fast zoom)
-- [ ] Micro-moment line present ("I can help a little too.")
+- [ ] Micro-moment lands warmly (personal connection to the lesson)
+- [ ] No readable text on book pages
 - [ ] No on-screen text / subtitles
 - [ ] Environment not reinterpreted
-- [ ] Breeze stays soft (no strong wind or gusts)
+- [ ] Breeze stays gentle; no object blown around
 - [ ] No perceivable shot boundary.
 - [ ] Shot feels calm but alive.
 - [ ] Shot is not a static talking pose.
@@ -151,4 +149,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Noah=100 reference scale (`00-CORE/VARIABLES.md`). Expression clearly readable.
+Opa=120, Kiko=100 reference scale (`00-CORE/VARIABLES.md`). Expression readable.

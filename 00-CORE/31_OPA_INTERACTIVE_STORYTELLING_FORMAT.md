@@ -307,6 +307,13 @@ Camera, colour, lighting and negative-prompt rules follow `00-CORE/17_VIDEO_GENE
 | 9 | The Little Lantern | Friendship / guiding others |
 | 10 | The Quiet Bird | Listening / noticing |
 
+> **Produced episode packages (8):** The Little Cloud That Waited (EP01, Learning Room), The Little
+> Seed That Listened (EP02, Kiko's Home), The Star That Shared Its Light (EP03, Opa's Tree), The
+> Sleepy Leaf (EP04, Central Square), The Quiet Bird (EP05, Learning Room), The Raindrop That Said
+> Sorry (EP06, Learning Room), The Tiny Wind That Helped (EP07, Learning Room), The Little Lantern
+> (EP08, Learning Room). Learning Room now hosts 5 Opa's Storytime episodes (EP01, EP05, EP06, EP07,
+> EP08). "The Pebble That Found the Path" and "The Flower That Waited for Spring" remain unbuilt ideas.
+
 ---
 
 ## 14. Thumbnail Strategy

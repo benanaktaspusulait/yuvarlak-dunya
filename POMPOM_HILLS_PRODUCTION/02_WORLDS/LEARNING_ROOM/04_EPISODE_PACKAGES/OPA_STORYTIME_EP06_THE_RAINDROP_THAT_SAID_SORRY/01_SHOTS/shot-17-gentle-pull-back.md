@@ -9,7 +9,7 @@
 | Episode | The Raindrop That Said Sorry (Opa's Storytime) |
 | Shot | 17 / 20 |
 | Duration | 15 seconds |
-| Location | Learning Room — Reading Corner (late afternoon, just after rain) |
+| Location | Learning Room — Reading Corner (after-rain afternoon, indoor) |
 | Characters | Opa, Luca, Mimi |
 
 ---
@@ -31,7 +31,7 @@ Background locked from the first frame. Reading Corner elements remain identical
 ## Visual Prompt
 
 ```text
-Use Shot 16 video as Video Reference. Slow gentle pull-back, the Reading Corner opens up softly around the three, warm stillness, Opa holds the closed book, {style} {camera} {lighting}
+Use Shot 16 video as Video Reference. Slow pull-back, the Reading Corner widens softly while staying inside the same scene, warm after-rain light, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,7 +42,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 16 reference. Slow gentle pull-back (stays inside the existing scene — no new establishing shot). Lens 28mm, height 0.75m, slow pull-back settling to static.
+Begin from the identical camera position of the Shot 16 reference. Slow pull-back. Lens 28mm, height 0.75m, slow pull-back (stays inside the existing scene — no new establishing shot).
 
 ---
 
@@ -58,14 +58,13 @@ Begin from the identical camera position of the Shot 16 reference. Slow gentle p
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: wide view of the Reading Corner. | Pull-back, 28mm |
-| 1-3 sn | Camera eases back gently; the cozy corner opens up softly. | Pull-back, 28mm |
-| 3-5 sn | Luca settles, blinking calmly. | Pull-back, 28mm |
-| 5-7 sn | Mimi leans lightly toward Opa, breathing softly. | Pull-back, 28mm, settle |
-| 7-10 sn | Opa blinks warmly, hands resting on the closed book. | Wide, 28mm, static |
-| 10-12 sn | Luca and Mimi share a quiet glance. | Wide, 28mm, static |
-| 12-13 sn | The window sparkle shifts gently in the background. | Wide, 28mm, static |
-| 13-15 sn | All three settle into warm stillness. | Wide, 28mm, static |
+| 0-2 sn | Continuity hold: wide view of the Reading Corner. | Wide, 28mm, slow pull-back |
+| 2-4 sn | The framing widens softly; the cozy corner opens up. | Wide, 28mm, slow pull-back |
+| 4-6 sn | Luca shifts a touch closer to Mimi. | Wide, 28mm, slow pull-back |
+| 6-9 sn | Mimi leans gently toward Opa. | Wide, 28mm, settle |
+| 9-11 sn | Opa blinks warmly, hands on the closed book. | Wide, 28mm, settle |
+| 11-13 sn | The three sit together, calm and warm. | Wide, 28mm, settle |
+| 13-15 sn | Gentle stillness as the framing holds. | Wide, 28mm, static |
 
 ---
 
@@ -98,6 +97,7 @@ Do not make characters stare silently for several seconds.
 ## Sound
 
 - Soft indoor room tone
+- Faint post-rain drip through the window
 - Warm ambience
 - Natural ambience only. No music. No background music.
 
@@ -105,7 +105,7 @@ Do not make characters stare silently for several seconds.
 
 ## Lighting
 
-Continue Shot 16 lighting exactly. Soft post-rain window light with gentle wet sparkle, warm ambient glow. Continue, do not reinterpret.
+Continue Shot 16 lighting exactly. Fresh after-rain window light, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
@@ -120,7 +120,7 @@ Opa is already present at the beginning of the shot. Do not introduce any charac
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, heavy rain, storm, thunder, lightning, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, gloomy, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, heavy rain downpour, storm, thunder, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black, new establishing shot
 
 ## QA Checklist
 
@@ -146,4 +146,4 @@ Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.
+Opa=120, Luca=100, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.

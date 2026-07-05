@@ -23,10 +23,45 @@
 | Çarşamba | 4 sahne üret (1 bölüm) | 3-4 saat |
 | Perşembe | 4 sahne üret (1 bölüm) | 3-4 saat |
 | Cuma | Ses ve montaj | 3-4 saat |
-| Cumartesi | YouTube yükleme | 2-3 saat |
+| Cumartesi | Montaj kapatma + hafta boyu yayın için içerik kuyruğu hazırlama | 2-3 saat |
 | Pazar | Dinlenme / Planlama | — |
 
 **Toplam:** Haftada 4-5 bölüm
+
+> Bu tablo **üretim** (asset/sahne oluşturma) kapasitesini gösterir. **Yayın** artık haftalık tek
+> "Cumartesi yükleme" değil; günlük ve üç-dalgalı yürütülür — aşağıdaki "Yayın Ritmi" bölümüne bakın.
+
+---
+
+## Yayın Ritmi (Global Wave Strategy)
+
+Kaynak: `11-DOCS/09_YOUTUBE_STRATEGY.md` → Channel Growth Decisions §8 (daily publishing) + §8b
+(Global Wave Strategy). Eski "Cumartesi 10:00 UK tek yükleme" ve §8a 04:00/12:00 modeli superseded.
+
+Tüm saatler UK (Londra / BST). Günde üç dalga vardır ama günde üç ayrı ana video değil — bir ana
+içerik ailesi dalgalar arasında dolaştırılır:
+
+| Dalga | UK Saat | Bölge | Kullanım |
+|-------|---------|-------|----------|
+| Dalga 1 | 01:00–03:00 UK | Asya / Pasifik | Sadece hafif destek: story reshare, Short repost, karakter kartı |
+| Dalga 2 | 09:00–11:00 UK | Avrupa / Afrika | Ana içerik, karakter intro, eğitici post |
+| Dalga 3 | 14:00–17:00 UK | Amerika | Ana içerik, Reel / Short, güçlü promo, ana Facebook post |
+
+Varsayılan günlük akış (bir içerik ailesi, üç dokunuş):
+
+| UK Saat | Post |
+|---------|------|
+| 09:30 UK | Ana video / 1 dakikalık bölüm (veya karakter montage) |
+| 14:30 UK | Aynı videodan Short / Reel |
+| 01:30 UK | Story reshare / kısa repost / karakter kartı |
+
+- Ana video varsayılan slotu 09:30 UK; en güçlü içerik / hafta sonu / Amerika push'u 14:00–16:00 UK.
+- Asya dalgasında (01:00–03:00 UK) ağır ana video yayınlanmaz — sadece hafif tekrar/destek içerik.
+- Normal yayında 2–3 saat boşluk; sadece özel karakter push veya güçlü içerik için 40–60 dk boşluk.
+- Bu bir başlangıç önerisidir — 30 gün sonra bölgesel performansa göre gözden geçirilir (§1).
+
+Haftalık örnek yayın programı için `11-DOCS/09_YOUTUBE_STRATEGY.md` §8b "Weekly example system"
+tablosuna bakın.
 
 ---
 
@@ -97,5 +132,5 @@ Ağustos 2027:Yayın Planlama
 
 ---
 
-*Bu belge üretim takvimi için tek kaynaktır.*
-*Son güncelleme: 2 Temmuz 2026*
+*Bu belge üretim takvimi için tek kaynaktır. Yayın ritmi kaynağı: `11-DOCS/09_YOUTUBE_STRATEGY.md` §8/§8b.*
+*Son güncelleme: 5 July 2026 (Global Wave Strategy yayın ritmi eklendi)*

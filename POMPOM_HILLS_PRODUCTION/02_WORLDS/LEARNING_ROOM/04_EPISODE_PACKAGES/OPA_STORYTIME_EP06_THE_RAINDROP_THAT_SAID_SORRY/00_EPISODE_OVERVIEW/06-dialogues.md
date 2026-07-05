@@ -1,4 +1,4 @@
-# The Raindrop That Said Sorry — Dialogues v2.0 (5-Minute Version)
+# The Raindrop That Said Sorry — Dialogues v1.0 (5-Minute Version)
 
 ---
 
@@ -6,40 +6,38 @@
 
 | Shot | Character | Line |
 |---|---|---|
-| 01 | Luca | "Opa, will you tell us a story?" |
-| 01 | Mimi | "A soft one?" |
+| 01 | Luca | "Opa, the rain just stopped! Can you read us a story?" |
+| 01 | Mimi | "A gentle one?" |
 | 01 | Opa | "Of course. Come close, little friends." |
 | 02 | — | (No dialogue — children lean in as Opa opens the book) |
-| 03 | Opa | "Once, there was a little raindrop." |
+| 03 | Opa | "Once, there was a little raindrop who loved to play." |
 | 03 | Luca | "A bouncy one?" |
-| 03 | Opa | "Yes. A happy, bouncy little raindrop." |
-| 04 | Opa | "It bounced down, down, down — very fast." |
-| 04 | Mimi | "Too fast?" |
-| 04 | Opa | "A little too fast." |
-| 05 | Opa | "Splash! It landed right on a little bird's cozy nest." |
-| 05 | Luca | "Oh no. Was that the plan?" |
-| 05 | Opa | "No. It was an accident." |
-| 06 | Opa | "The nest got a little damp, and the bird felt a bit sad." |
-| 06 | Mimi | "Did the raindrop see?" |
-| 06 | Opa | "Yes. And the raindrop felt it too." |
-| 07 | Luca | "What will the raindrop do now?" |
-| 07 | Opa | "Hmm. What do you think a kind raindrop would do?" |
-| 08 | Opa | "The little raindrop felt sorry inside." |
-| 08 | Mimi | "Because it made the nest wet?" |
-| 08 | Opa | "Yes. It wanted to make things better." |
-| 09 | Opa | "So the raindrop said, 'I'm sorry, little bird.'" |
-| 09 | Luca | "Did the bird hear it?" |
-| 09 | Opa | "Yes. And the bird felt a little warmer already." |
-| 10 | Opa | "Then the raindrop caught a bit of sunlight." |
-| 10 | Mimi | "Sunlight? What for?" |
-| 10 | Opa | "To gently warm and dry the cozy nest." |
-| 11 | Opa | "Saying sorry makes things nice again." |
-| 11 | Luca | "And helping too?" |
-| 11 | Opa | "Yes. Sorry and helping, together." |
-| 12 | Mimi | "The nest is cozy again!" |
-| 12 | Opa | "It is. Soft and warm and dry." |
+| 03 | Opa | "Yes. The bounciest little raindrop you ever saw." |
+| 04 | Opa | "It bounced on the leaves and hopped along the branches." |
+| 04 | Mimi | "Bounce, bounce, bounce?" |
+| 04 | Opa | "Bounce, bounce, bounce — all around the garden." |
+| 05 | Luca | "And then what happened?" |
+| 05 | Opa | "It bounced a little too fast... and splashed a tiny flower's nest." |
+| 06 | Mimi | "Oh no. Was someone upset?" |
+| 06 | Opa | "The little flower's petals drooped, just a little." |
+| 07 | Opa | "The raindrop saw the mess and felt a small ache inside." |
+| 07 | Luca | "It felt sorry?" |
+| 07 | Opa | "Yes. Sorry, deep down." |
+| 08 | Mimi | "What should the raindrop do?" |
+| 08 | Opa | "Hmm. What do you think a kind raindrop would do?" |
+| 09 | Opa | "The raindrop whispered, 'I'm sorry, little flower.'" |
+| 09 | Luca | "It said it out loud?" |
+| 09 | Opa | "Softly. But it really, truly meant it." |
+| 10 | Opa | "Then it smoothed the petals and tucked the little nest back." |
+| 10 | Mimi | "It helped make it nice again?" |
+| 10 | Opa | "Little by little, yes." |
+| 11 | Opa | "Saying sorry helps make things good again." |
+| 11 | Luca | "Better than just bouncing away?" |
+| 11 | Opa | "Much better. And the little flower smiled again." |
+| 12 | Mimi | "That was kind." |
+| 12 | Opa | "It was, little one." |
 | 13 | Luca | "I can say sorry too." |
-| 13 | Opa | "That is a kind thing, Luca." |
+| 13 | Opa | "That is a brave and kind thing, Luca." |
 | 14 | — | (Quiet warm hold — no dialogue) |
 | 15 | — | (Quiet warm hold — no dialogue) |
 | 16 | — | (Quiet warm hold — no dialogue) |
@@ -54,6 +52,6 @@
 
 | Character | Total Lines |
 |---|---|
-| Opa | 20 |
-| Luca | 7 |
-| Mimi | 6 |
+| Opa | 14 |
+| Luca | 6 |
+| Mimi | 5 |

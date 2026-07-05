@@ -5,12 +5,12 @@
 ## Story
 
 On a breezy sunny story-time day, Kiko and Noah sit with Opa in the warm Learning Room
-Reading Corner, where the slightly open arched window lets in gentle daylight and soft
-air movement. Opa opens a picture book and tells a gentle story about a tiny wind that
-thought it was too small to help anyone. Gently, the tiny wind lifts a kite into the sky,
-helps a fluffy seed float down to soft soil, and cools a warm friend on a sunny day — and
+Reading Corner, the arched window slightly ajar with gentle air drifting in. Opa opens a
+picture book and tells a gentle story about a tiny wind that thought it was too small to
+matter. Through the story it helps in small ways — nudging a stuck kite up into the sky,
+carrying a little seed to soft soil, and pushing a leaf-boat gently across a puddle. It
 learns that even a little help makes a big difference. Kiko and Noah ask questions and
-react warmly throughout the story.
+react throughout the story.
 
 ## Learning
 
@@ -22,7 +22,7 @@ Opa, Kiko, Noah
 
 ## World
 
-Learning Room — Reading Corner (breezy sunny day)
+Learning Room — Reading Corner
 
 ## Series
 

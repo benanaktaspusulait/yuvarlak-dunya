@@ -1,134 +1,127 @@
-# The Tiny Wind That Helped — Storyboard v2.0
+# The Tiny Wind That Helped — Storyboard v1.0
 
 ---
 
-## Shot 01 (0-15 sn) — Story Time Begins
+## Shot 01 (0-15 sn) — Breezy Story Time Begins
 
-**📍 Location:** Learning Room — Reading Corner (breezy sunny day)
+**📍 Location:** Learning Room — Reading Corner
 
-Wide/medium establishing shot. Kiko and Noah settle on the soft rug near Opa's story
-chair. Gentle warm daylight through the slightly open arched window, soft air movement.
-Opa holds a rounded picture book. Series opening beat: "Come close, little friends."
+Wide/medium shot. Kiko and Noah sit on the soft rug near Opa's story chair. The window
+is slightly ajar; bright breezy sunlight and a gentle air stir move softly. Opa holds a
+rounded picture book.
 
 ## Shot 02 (15-30 sn) — Opening the Book
 
 **📍 Location:** Learning Room — Reading Corner
 
-Medium shot. Opa opens the book. Children lean in. A soft wind-swirl shape glows gently
-on the page (no readable text).
+Medium shot. Opa opens the book. Children lean in. Gentle air lifts the page edge; a soft
+wind shape glows gently on the page.
 
 ## Shot 03 (30-45 sn) — The Tiny Wind
 
 **📍 Location:** Learning Room — Reading Corner
 
-Medium two-shot. The masal begins. A tiny wind is introduced on the page. Noah asks if
-it was very tiny.
+Close-up on book page (no readable text) + Kiko's curious reaction. The story begins; the
+tiny wind feels too small.
 
-## Shot 04 (45-60 sn) — The Tiny Wind Wishes to Help
-
-**📍 Location:** Learning Room — Reading Corner
-
-Medium two-shot. The tiny wind wants to help everyone. Kiko tilts her head and asks how.
-
-## Shot 05 (60-75 sn) — Too Small to Help
+## Shot 04 (45-60 sn) — The Big Winds
 
 **📍 Location:** Learning Room — Reading Corner
 
-Close-up on book page (no readable text) + Noah's gentle reaction. The tiny wind thinks
-it is too small.
+Medium two-shot. Noah reacts to the big winds doing big things. Opa continues gently.
 
-## Shot 06 (75-90 sn) — Can Something So Tiny Help?
-
-**📍 Location:** Learning Room — Reading Corner
-
-Medium shot. Kiko asks the question with cheerful curiosity. Opa pauses kindly.
-
-## Shot 07 (90-105 sn) — The Tiny Wind Lifts a Kite
+## Shot 05 (60-75 sn) — Can a Tiny Wind Help?
 
 **📍 Location:** Learning Room — Reading Corner
 
-Close-up on book + gentle imagination glow (a kite floating up softly). Noah reacts with
-playful delight.
+Medium two-shot. Kiko tilts her head and asks the question. Opa pauses kindly.
 
-## Shot 08 (105-120 sn) — What Else Can It Do?
-
-**📍 Location:** Learning Room — Reading Corner
-
-Medium shot. Kiko leans in, curious. Opa answers softly.
-
-## Shot 09 (120-135 sn) — A Fluffy Seed Floats Down
+## Shot 06 (75-90 sn) — The Tiny Wind Tries
 
 **📍 Location:** Learning Room — Reading Corner
 
-Close-up on book + soft imagination glow (a fluffy seed drifting down to soil). Noah
-wonders if a flower will grow.
+Medium shot. Opa continues; Noah leans in asking what it did.
 
-## Shot 10 (135-150 sn) — Cooling a Warm Friend
-
-**📍 Location:** Learning Room — Reading Corner
-
-Close-up on book + gentle breeze glow. The tiny wind cools a warm friend. Kiko compares
-it to a happy little breeze.
-
-## Shot 11 (150-165 sn) — A Little Help, a Big Difference
+## Shot 07 (90-105 sn) — Nudging the Kite Up
 
 **📍 Location:** Learning Room — Reading Corner
 
-Medium two-shot. The lesson is shown through the story. Noah checks: even a tiny bit?
+Close-up on book + gentle imagination glow (kite lifting sparkle). Kiko reacts with wonder.
 
-## Shot 12 (165-180 sn) — It Helped Everyone
+## Shot 08 (105-120 sn) — What Else Can It Help?
 
 **📍 Location:** Learning Room — Reading Corner
 
-Medium shot. Kiko's warm reaction: "The little wind helped everyone!"
+Medium shot. Noah asks his question with a small smile. Opa pauses kindly.
+
+## Shot 09 (120-135 sn) — Carrying a Little Seed
+
+**📍 Location:** Learning Room — Reading Corner
+
+Close-up on book + soft seed/soil glow. Kiko leans closer with curiosity.
+
+## Shot 10 (135-150 sn) — The Leaf-Boat
+
+**📍 Location:** Learning Room — Reading Corner
+
+Close-up on book + gentle leaf-boat-on-puddle glow. Noah watches it glide softly.
+
+## Shot 11 (150-165 sn) — A Little Help, Big Difference
+
+**📍 Location:** Learning Room — Reading Corner
+
+Medium two-shot. Opa shares the lesson gently. Kiko repeats it back with a smile.
+
+## Shot 12 (165-180 sn) — Noah's Warm Reaction
+
+**📍 Location:** Learning Room — Reading Corner
+
+Medium shot. Noah reacts warmly: "The little wind did a lot!" Opa smiles.
 
 ## Shot 13 (180-195 sn) — I Can Help Too
 
 **📍 Location:** Learning Room — Reading Corner
 
-Slow push-in on Noah. Emotional micro-moment, personal connection to the lesson.
+Close-up on Kiko. Emotional micro-moment, personal connection to the lesson.
 
 ## Shot 14 (195-210 sn) — Book Closes Gently
 
 **📍 Location:** Learning Room — Reading Corner
 
-Slow pull-back to wide warm hold. Opa gently closes the book. Warm closing begins. No
-new dialogue.
+Medium shot. Opa gently closes the book. Closing beat begins. No new dialogue.
 
 ## Shot 15 (210-225 sn) — Children Smile
 
 **📍 Location:** Learning Room — Reading Corner
 
-Medium shot. Kiko and Noah smile softly, sharing a warm glance. No dialogue.
+Medium shot. Kiko and Noah smile softly in the warm breezy light.
 
 ## Shot 16 (225-240 sn) — Breezy Window Light
 
 **📍 Location:** Learning Room — Reading Corner
 
-Wide shot. Gentle warm daylight and soft air movement through the slightly open arched
-window. Calm. No dialogue.
+Medium/wide shot. Breezy window light drifts across the Reading Corner; a leaf-shadow moves.
 
 ## Shot 17 (240-255 sn) — Gentle Pull-Back
 
 **📍 Location:** Learning Room — Reading Corner
 
-Slow pull-back. The Reading Corner widens softly. No dialogue.
+Slow pull-back. The cozy Reading Corner widens.
 
 ## Shot 18 (255-270 sn) — Quiet Warmth
 
 **📍 Location:** Learning Room — Reading Corner
 
-Wide shot. A quiet, shared warm moment. No dialogue.
+Wide warm hold. Shared stillness, gentle breathing.
 
 ## Shot 19 (270-285 sn) — Final Warm Hold
 
 **📍 Location:** Learning Room — Reading Corner
 
-Wide warm hold. Characters settle peacefully together. No dialogue.
+Wide warm hold. Characters settle peacefully.
 
 ## Shot 20 (285-300 sn) — Closing Hold
 
 **📍 Location:** Learning Room — Reading Corner
 
-Wide warm hold. Final 2 seconds held static. Leads into the shared closing bumper. No
-dialogue.
+Wide warm hold. Final 2 seconds held static. Transition to shared closing bumper.
