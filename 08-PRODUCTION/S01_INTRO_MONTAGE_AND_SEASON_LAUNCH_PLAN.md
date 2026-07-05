@@ -48,12 +48,16 @@ exact file names unless already known.
 
 | Character | Intro Video Available? | Best Moment Selected? | Notes |
 |-----------|------------------------|-----------------------|-------|
-| Kiko | TBD | TBD | central / warm / curious |
-| Mimi | TBD | TBD | sleepy / cozy / soft |
-| Noah | TBD | TBD | calm / helpful / thoughtful |
-| Arda | TBD | TBD | energetic / learning / small |
-| Luca | TBD | TBD | wonder / stars / curiosity |
-| Opa | TBD | TBD | wise / calm / story keeper |
+| Kiko | ✅ | TBD | Full: `15-VIDEOS/intros/01-kiko-intro.mp4`; Short: `15-VIDEOS/intro-shorts/kiko-intro-shorts.mp4`; central / warm / curious |
+| Mimi | ✅ | TBD | Full: `15-VIDEOS/intros/02-mimi-intro.mp4`; Short: `15-VIDEOS/intro-shorts/mimi-intro-shorts.mp4`; sleepy / cozy / soft |
+| Noah | ✅ | TBD | Full: `15-VIDEOS/intros/05-noah-intro.mp4`; Short: `15-VIDEOS/intro-shorts/noah-intro-shorts.mp4`; calm / helpful / thoughtful |
+| Arda | ✅ | TBD | Full: `15-VIDEOS/intros/03-arda-intro.mp4`; Short: `15-VIDEOS/intro-shorts/arda-intro-shorts.mp4`; energetic / learning / small |
+| Luca | ✅ | TBD | Full: `15-VIDEOS/intros/06-luca-intro.mp4`; Short: `15-VIDEOS/intro-shorts/luca-intro-shorts.mp4`; wonder / stars / curiosity |
+| Opa | ✅ | TBD | Full: `15-VIDEOS/intros/04-opa-intro.mp4`; Short: `15-VIDEOS/intro-shorts/opa-intro-shorts.mp4`; alt take also exists as `07-opa-intro-2`; wise / calm / story keeper |
+
+**Verified source footage status (5 July 2026):** all six main character intro videos
+exist in both full intro and intro-shorts form. Best moments still need editorial
+selection and QA before final two-character or three-character montage exports.
 
 ---
 
@@ -245,6 +249,18 @@ Create this package first.
 
 Then create optional three-character montages **only after the first package is reviewed**.
 
+**Current production status (5 July 2026):**
+
+| Montage | Source Footage | Export / Edit Status | Notes |
+|---------|----------------|----------------------|-------|
+| Full cast — Meet the Friends of Pompom Hills | ✅ All six character intros exist | 🟠 Tighter rough cut in recommended order: `15-VIDEOS/montages/meet-the-friends-of-pompom-hills.mp4` (~78s, Kiko→Mimi→Noah→Arda→Luca→Opa). Earlier raw concat `15-VIDEOS/intros/all-intros-combined.mp4` (~105s) superseded. | Ready to publish; labels + title/final card optional in editor |
+| Noah + Arda — We Build Together | ✅ Noah + Arda footage exists | 🟠 Rough cut: `15-VIDEOS/montages/noah-arda-we-build-together.mp4` | ~28s; labels + closing card still to add in editor |
+| Kiko + Mimi — Kind Friends | ✅ Kiko + Mimi footage exists | 🟠 Rough cut: `15-VIDEOS/montages/kiko-mimi-kind-friends.mp4` | ~28s; labels + closing card still to add in editor |
+| Luca + Opa — Little Wonders | ✅ Luca + Opa footage exists | 🟠 Rough cut: `15-VIDEOS/montages/luca-opa-little-wonders.mp4` | ~28s; labels + closing card still to add in editor |
+| Kiko + Noah + Arda — Friends Who Try | ✅ All three footage sources exist | ❌ Not cut yet | Optional after first package review |
+| Mimi + Kiko + Opa — Cozy Friends | ✅ All three footage sources exist | ❌ Not cut yet | Optional after first package review |
+| Luca + Opa + Kiko — Little Questions, Big Wonders | ✅ All three footage sources exist | ❌ Not cut yet | Optional after first package review |
+
 ---
 
 ## 11. Later New Video: Season Begins
@@ -307,12 +323,14 @@ Run this checklist for each montage edit:
 
 Action plan:
 
-1. Collect all approved character intro videos.
-2. For each intro, select the best 8–12 second character identity moment.
-3. Create the full cast montage rough cut first.
-4. Review pacing and character order.
-5. Then create the first two-character montage: **Noah & Arda**.
-6. Only after montage tests, plan the new "Season Begins" generated video.
+1. ✅ Collect all approved character intro videos.
+2. ⏳ For each intro, select the best 8–12 second character identity moment (refine trim windows in `15-VIDEOS/montages/MONTAGE_CUTSHEETS.md`).
+3. ✅ Two-character montages produced AND published: Noah & Arda, Kiko & Mimi, Luca & Opa.
+4. ✅ Full-cast montage produced in recommended order: `15-VIDEOS/montages/meet-the-friends-of-pompom-hills.mp4` (~78s) — 🟠 ready to publish.
+5. ⏳ Publish the full-cast montage (FB/IG captions ready in `15-VIDEOS/montages/SOCIAL_CAPTIONS.md`).
+6. ⏳ Optional: add "Meet X" labels + title/closing cards in a text-capable editor (this ffmpeg build has no text renderer).
+7. ⏳ Optional 3-character montages (Friends Who Try / Cozy Friends / Little Questions, Big Wonders) — after full-cast review.
+8. Later: plan the new "Season Begins" generated video (§11) — not yet.
 
 ---
 

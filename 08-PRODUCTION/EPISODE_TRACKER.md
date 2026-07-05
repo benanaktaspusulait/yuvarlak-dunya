@@ -76,10 +76,25 @@
 | BLD-EP05 | Wash, Wash, Bubbles! | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Washing Corner | El yıkama / günlük hijyen | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
 | BLD-EP06 | Cozy Down, Sleepy Time | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Sleeping Corner | Uyku rutini / wind-down | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
 | BLD-EP07 | One Little Bite | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Kitchen Nook | Sebze deneme / cesaret | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+| BLD-EP08 | Share and Play | 🌟 Life Skills, 🤝 Social | Kiko, Amara | Benny's Playground — Ball Pit Area | Paylaşma | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
+| BLD-EP09 | I'm Sorry | 🌟 Life Skills, 🤝 Social, 💛 Feelings | Kiko, Arda | Central Square | Özür dileme | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
+| BLD-EP10 | Thank You! | 🌟 Life Skills, 🤝 Social | Kiko, Mimi | Central Square | Teşekkür etme | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
+| BLD-EP11 | Slow Breaths | 🌟 Life Skills, 💛 Feelings | Kiko, Opa | Kiko's Home — Living Room / toy rug | Nefes alarak sakinleşme | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
+| BLD-EP12 | Gentle Hands | 🌟 Life Skills, 💛 Feelings, 🤝 Social | Kiko, Arda | Kiko's Home — Living Room / toy rug | Kızınca vurmamak | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; no hitting shown | ❌ Yok |
+| BLD-EP13 | A Little Tumble | 🌟 Life Skills, 🙌 Helper, 💛 Feelings | Kiko, Mimi, Opa | Benny's Playground — Rest Corner | Kaza sonrası yardım isteme | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; soft sit-down | ❌ Yok |
+| BLD-EP14 | If I Get Lost | 🌟 Life Skills, 🙌 Helper, 💛 Feelings | Kiko, Opa, Remi | Central Square — Big Pompom Tree / Care Corner edge | Kaybolunca helper bulma | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; light crowd/helper onayı bekler | ❌ Yok |
+| BLD-EP15 | Stop, Look, Cross | 🌟 Life Skills, 🙌 Helper | Kiko, Opa | Pompom Crossing — proposed soft practice path | Güvenli yürüyüş | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; new set onayı bekler | ❌ Yok |
+| BLD-EP16 | Careful, It's Hot! | 🌟 Life Skills, 💛 Feelings | Kiko, Opa | Kiko's Home — Kitchen Nook | Sıcak şeylere dokunmamak | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
+| BLD-EP17 | My First Day | 🌟 Life Skills, 💛 Feelings, 🤝 Social | Kiko, Opa, Amara | Learning Room — Entrance / Activity Area | İlk Learning Room günü | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; production/drop-off onayı bekler | ❌ Yok |
+| BLD-EP18 | Hello, New Friend | 🌟 Life Skills, 🤝 Social | Kiko, Mimi, Sofia | Friendship Meadow — Rest Circle / Group Game Space edge | Yeni arkadaş edinmek | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
+| BLD-EP19 | Tidy-Up Time | 🌟 Life Skills, 🙌 Helper | Kiko, Mimi | Kiko's Home — Living Room / toy rug | Oyuncakları toplamak | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
+| BLD-EP20 | Keep Pompom Hills Clean | 🌟 Life Skills, 🌿 Nature, 🙌 Helper | Kiko, Mimi | Little Forest — Leaf Trail | Snack leftover'ı doğru yere koymak | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; clean-up prop onayı bekler | ❌ Yok |
 
 > **Sezon 1 planı (20 bölüm) + backlog:** `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/SEASON_01_PLAN.md`.
+> **Scene starter envanteri:** `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/SEASON_01_DRAFTS.md`
+> içinde BLD-EP08–BLD-EP20 için 13 starter vardır. Bunlar henüz tam world-based package değildir.
 
-Paket yolları:
+Yazılı package yolları (BLD-EP01–BLD-EP07):
 - `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP01_KIKOS_HAPPY_SMILE/`
 - `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP02_BRUSH_BRUSH_SPARKLE/`
 - `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP03_KIKOS_CHECK_UP_DAY/`
@@ -129,6 +144,7 @@ Paket yolları:
 |----------------|-----------------------------------------------------------------------|
 | 🔴 Planlanmadı | Henüz bölüm fikri / package yok                                       |
 | 🟡 Yazıldı     | Episode package ve sahne dosyaları hazır                              |
+| 🟣 Scene Starter | Drafts dosyasında 8-shot omurga + Shot 01 detay tanımı var; tam package henüz yok |
 | 🟠 Üretimde    | Video üretiliyor                                                      |
 | 🟢 Üretildi    | Video tamamlandı veya production dokümanında üretildi olarak işaretli |
 | 🔵 Yayınlandı  | YouTube'da yayınlandı                                                 |
@@ -174,6 +190,9 @@ Paket yolları:
   `OPA_STORYTIME_*` klasörleri altında `.mp4`, `.mov`, `.m4v` veya `.webm` video export dosyası bulunmadı.
   Seri README'si 8×15 sn / 120 sn gövde derken bölüm overview dosyaları 20×15 sn / 300 sn
   olarak kilitli; bu süre çelişkisi üretimden önce çözülmeli.
+- Brave Little Days EP08-EP20 için `SEASON_01_DRAFTS.md` içinde scene starter vardır
+  (13 starter, 104 shot beat, 13 Shot 01 detay), fakat henüz world-based `04_EPISODE_PACKAGES/`
+  altında tam package oluşturulmadı. Tracker'da bu yüzden durum `🟣 Scene Starter`.
 - Sezon süresi standardı hâlâ açık çelişki içeriyor (60 sn ↔ 60-90 sn ↔ bazı eski 3 dk
   package overview'ları). Bu tracker mevcut production/README yapısını yansıtır; teknik
   standardı değiştirmez.
@@ -257,7 +276,7 @@ Paket yolları:
 ---
 
 *Bu dosya Sezon 1 bölüm takibi için tek kaynaktır.*
-*Son güncelleme: 5 Temmuz 2026 — Tematik `Tip` (Story Type) kolonu ve tip lejantı eklendi.*
+*Son güncelleme: 5 Temmuz 2026 — Brave Little Days EP08-EP20 scene starter durumu eklendi.*
 
 ---
 

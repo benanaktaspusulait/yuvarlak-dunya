@@ -62,31 +62,57 @@ Tüm production assetlerinin durumunu takip eder.
 
 ---
 
-## 2a. Instagram Reels Assetleri (UK Timezone Dual-Post Standard)
+## 2a. Character Intro, Reels & Montage Assetleri (Global Wave Strategy)
 
-> Standart plan: `11-DOCS/09_YOUTUBE_STRATEGY.md` → Channel Growth Decisions §8a
-> (UK Timezone Dual-Post Strategy). Bu, artık tüm karakter lansmanları için
-> tekrarlanan standart bir kalıptır — Noah'a özel bir deney değil.
+> Güncel yayın stratejisi: `11-DOCS/09_YOUTUBE_STRATEGY.md` → Channel Growth Decisions §8b
+> (Global Wave Strategy, approved 5 July 2026). Eski §8a UK 04:00 / 12:00 iki-post modeli
+> artık superseded durumdadır; sadece non-identical repost ve 24-48 saat spacing mantığı
+> §8b içinde yaşamaya devam eder.
 >
-> Zamanlama: Ana video **UK 04:00**'te (Doğu Yarımküre — Asya/Avrupa için öğlen
-> saatleri), aynı videonun kısa kesiti/farklı kapağı **UK 12:00**'de (Batı
-> Yarımküre — Amerika için sabah saatleri) paylaşılır. İki paylaşım arası en az
-> 24-48 saat olmalı.
+> Bu bölüm kaynak footage, türetilmiş Reel/Short kesimleri ve intro montaj export'larını
+> takip eder. Platform eşleştirme durumu için `08-PRODUCTION/CONTENT_MATRIX.md` kullanılır.
 
-| Reel | Karakter | Kaynak Dosya | Süre | Format | Kapak Fotoğrafı | UK Yayın Saati | Durum |
-|------|----------|-------------|------|--------|------------------|-----------------|-------|
-| Noah Reel 1 — Meet Noah | Noah | `15-VIDEOS/intro-shorts/noah-intro-shorts.mp4` (mevcut, değiştirilmedi) | 30 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-1-cover.jpg` (~21.5s karesi) | 04:00 (Doğu Yarımküre) | 🟢 Hazır |
-| Noah Reel 2 — I Have an Idea (cutest 15s cut) | Noah | `15-VIDEOS/reels/noah-reel-2-cutest-15s.mp4` (yeni, ilk 15sn kesildi) | 15 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-2-cover.jpg` (~9.5s karesi) | 12:00 (Batı Yarımküre) | 🟢 Hazır |
-| Mimi Reel 1 — Meet Mimi | Mimi | `15-VIDEOS/intro-shorts/mimi-intro-shorts.mp4` | — | 1080x1920 | 🔴 Bekliyor (kapak fotoğrafı seçilmedi) | 04:00 (Doğu Yarımküre) | 🔴 Bekliyor |
-| Mimi Reel 2 — kısa kesit / alternatif kapak | Mimi | 🔴 Bekliyor (kesim yapılmadı) | 15 sn (hedef) | 1080x1920 | 🔴 Bekliyor | 12:00 (Batı Yarımküre) | 🔴 Bekliyor |
-| Arda Reel 1 — Meet Arda | Arda | `15-VIDEOS/intro-shorts/arda-intro-shorts.mp4` | — | 1080x1920 | 🔴 Bekliyor (kapak fotoğrafı seçilmedi) | 04:00 (Doğu Yarımküre) | 🔴 Bekliyor |
-| Arda Reel 2 — kısa kesit / alternatif kapak | Arda | 🔴 Bekliyor (kesim yapılmadı) | 15 sn (hedef) | 1080x1920 | 🔴 Bekliyor | 12:00 (Batı Yarımküre) | 🔴 Bekliyor |
+### 2a.1 Confirmed Character Intro Source Footage
 
-Not: Reel 2 (her karakter için), Reel 1'den en az 24-48 saat sonra farklı bir
-gün diliminde paylaşılmalı (bkz. metadata detayları için `00-CORE/30_YOUTUBE_METADATA_STANDARD.md`).
-Mimi ve Arda için kaynak intro-shorts dosyaları mevcut ancak Reel 2 kesimleri
-ve kapak fotoğrafları henüz üretilmedi — Noah Reel 2 üretim adımları örnek
-alınarak tamamlanmalı.
+| Karakter | Full Intro Source | Intro Short Source | Footage Status | Notes |
+|----------|-------------------|--------------------|----------------|-------|
+| Kiko | `15-VIDEOS/intros/01-kiko-intro.mp4` | `15-VIDEOS/intro-shorts/kiko-intro-shorts.mp4` | 🟢 Hazır | Main character intro source confirmed |
+| Mimi | `15-VIDEOS/intros/02-mimi-intro.mp4` | `15-VIDEOS/intro-shorts/mimi-intro-shorts.mp4` | 🟢 Hazır | Main character intro source confirmed |
+| Noah | `15-VIDEOS/intros/05-noah-intro.mp4` | `15-VIDEOS/intro-shorts/noah-intro-shorts.mp4` | 🟢 Hazır | Reel 1 and Reel 2 derived assets also exist |
+| Arda | `15-VIDEOS/intros/03-arda-intro.mp4` | `15-VIDEOS/intro-shorts/arda-intro-shorts.mp4` | 🟢 Hazır | Main character intro source confirmed |
+| Luca | `15-VIDEOS/intros/06-luca-intro.mp4` | `15-VIDEOS/intro-shorts/luca-intro-shorts.mp4` | 🟢 Hazır | Main character intro source confirmed |
+| Opa | `15-VIDEOS/intros/04-opa-intro.mp4` | `15-VIDEOS/intro-shorts/opa-intro-shorts.mp4` | 🟢 Hazır | Alt take also exists: `15-VIDEOS/intros/07-opa-intro-2.mp4` and `15-VIDEOS/intro-shorts/07-opa-intro-2-shorts.mp4` |
+
+### 2a.2 Instagram Reels / Short Cuts
+
+| Reel | Karakter | Kaynak Dosya | Süre | Format | Kapak Fotoğrafı | Yayın Dalgası | Durum |
+|------|----------|-------------|------|--------|------------------|---------------|-------|
+| Noah Reel 1 — Meet Noah | Noah | `15-VIDEOS/intro-shorts/noah-intro-shorts.mp4` (mevcut, değiştirilmedi) | 30 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-1-cover.jpg` (~21.5s karesi) | Wave 2 or Wave 3 main content | 🟢 Hazır |
+| Noah Reel 2 — I Have an Idea (cutest 15s cut) | Noah | `15-VIDEOS/reels/noah-reel-2-cutest-15s.mp4` (ilk 15sn kesildi) | 15 sn | 1080x1920 | `15-VIDEOS/reels/thumbnails/noah-reel-2-cover.jpg` (~9.5s karesi) | Wave 3 supporting Reel / Short | 🟢 Hazır |
+| Mimi Reel 1 — Meet Mimi | Mimi | `15-VIDEOS/intro-shorts/mimi-intro-shorts.mp4` | — | 1080x1920 | 🔴 Bekliyor (kapak fotoğrafı seçilmedi) | Wave 2 or Wave 3 main content | 🔴 Bekliyor |
+| Mimi Reel 2 — kısa kesit / alternatif kapak | Mimi | 🔴 Bekliyor (kesim yapılmadı) | 15 sn (hedef) | 1080x1920 | 🔴 Bekliyor | Wave 3 supporting Reel / Short | 🔴 Bekliyor |
+| Arda Reel 1 — Meet Arda | Arda | `15-VIDEOS/intro-shorts/arda-intro-shorts.mp4` | — | 1080x1920 | 🔴 Bekliyor (kapak fotoğrafı seçilmedi) | Wave 2 or Wave 3 main content | 🔴 Bekliyor |
+| Arda Reel 2 — kısa kesit / alternatif kapak | Arda | 🔴 Bekliyor (kesim yapılmadı) | 15 sn (hedef) | 1080x1920 | 🔴 Bekliyor | Wave 3 supporting Reel / Short | 🔴 Bekliyor |
+
+Not: Reel 2 / Short türevleri, ana karakter intro paylaşımından en az 24-48 saat sonra ve
+non-identical repost kuralıyla paylaşılmalı. Kısa kesit veya farklı kapak kullanılmalı; aynı
+dosyanın birebir tekrar yüklemesi yapılmamalı. Mimi ve Arda için kaynak intro-shorts dosyaları
+mevcut, ancak Reel 2 kesimleri ve kapak fotoğrafları henüz üretilmedi — Noah Reel 2 üretim
+adımları örnek alınarak tamamlanmalı.
+
+### 2a.3 Intro Montage Edit Assets
+
+Kaynak plan: `08-PRODUCTION/S01_INTRO_MONTAGE_AND_SEASON_LAUNCH_PLAN.md`.
+
+| Montage | Kaynak Footage | Export Dosyası | Durum |
+|---------|----------------|----------------|-------|
+| Full Cast — Meet the Friends of Pompom Hills | Kiko, Mimi, Noah, Arda, Luca, Opa | `15-VIDEOS/intros/all-intros-combined.mp4` | 🟠 Rough cut / QA bekliyor |
+| Noah + Arda — We Build Together | Noah + Arda full/short intro sources | 🔴 Bekliyor | 🔴 Kesilmedi |
+| Kiko + Mimi — Kind Friends | Kiko + Mimi full/short intro sources | 🔴 Bekliyor | 🔴 Kesilmedi |
+| Luca + Opa — Little Wonders | Luca + Opa full/short intro sources | 🔴 Bekliyor | 🔴 Kesilmedi |
+| Kiko + Noah + Arda — Friends Who Try | Kiko + Noah + Arda full/short intro sources | 🔴 Bekliyor | 🔴 Kesilmedi |
+| Mimi + Kiko + Opa — Cozy Friends | Mimi + Kiko + Opa full/short intro sources | 🔴 Bekliyor | 🔴 Kesilmedi |
+| Luca + Opa + Kiko — Little Questions, Big Wonders | Luca + Opa + Kiko full/short intro sources | 🔴 Bekliyor | 🔴 Kesilmedi |
 
 ---
 

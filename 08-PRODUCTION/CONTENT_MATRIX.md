@@ -44,6 +44,13 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | Mimi Intro — Reel 2 (short cut / alt cover) | Mimi | Central Square | — | ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | ⚪ |
 | Arda Intro — Reel 1 (Meet Arda, full length) | Arda | Opa's Tree | — | ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | ⚪ |
 | Arda Intro — Reel 2 (short cut / alt cover) | Arda | Opa's Tree | — | ⚪ | ⚪ | ⚪ | 🔴 | ⚪ | ⚪ |
+| Intro Montage — Full Cast (Meet the Friends of Pompom Hills) | Kiko, Mimi, Noah, Arda, Luca, Opa | Approved intro footage | Character Intro Montage | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Intro Montage — Noah + Arda (We Build Together) | Noah, Arda | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
+| Intro Montage — Kiko + Mimi (Kind Friends) | Kiko, Mimi | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
+| Intro Montage — Luca + Opa (Little Wonders) | Luca, Opa | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
+| Intro Montage — Kiko + Noah + Arda (Friends Who Try) | Kiko, Noah, Arda | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
+| Intro Montage — Mimi + Kiko + Opa (Cozy Friends) | Mimi, Kiko, Opa | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
+| Intro Montage — Luca + Opa + Kiko (Little Questions, Big Wonders) | Luca, Opa, Kiko | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
 | Pompom Hills Family Fun — Event Campaign (5 scene) | Kiko, Mimi, Opa, Noah | Central Square | — | ⚪ | ⚪ | 🔴 | 🔴 | ⚪ | ⚪ |
 
 > Yeni içerik üretildikçe/yayınlandıkça satır ekleyin ve ilgili durum sütununu güncelleyin.
@@ -60,6 +67,10 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 > `08-PRODUCTION/ASSET_TRACKER.md` §2a'ya bakın.
 > Event Campaign satırı için prompt paketi: `07-BRANDING/campaigns/pompom-hills-event/prompts.md`,
 > scene bazlı üretim durumu için `08-PRODUCTION/ASSET_TRACKER.md` §2b'ye bakın.
+> Intro Montage satırları için kaynak plan: `08-PRODUCTION/S01_INTRO_MONTAGE_AND_SEASON_LAUNCH_PLAN.md`.
+> Full-cast rough cut `15-VIDEOS/intros/all-intros-combined.mp4` olarak diskte mevcut olduğu için
+> Long Video durumu 🟠 tutuldu. İkili/üçlü montajların kaynak footage'ı hazır, ancak export/kesim
+> dosyaları henüz üretilmediği için yayın formatları 🔴 bırakıldı.
 
 ---
 

@@ -75,6 +75,9 @@ Bölüm paketleri world-based üretim yapısında yaşar (`02_WORLDS/{MEKAN}/04_
 
 > **Sezon 1 planı (20 bölüm) ve backlog:** `SEASON_01_PLAN.md`. Package ID'ler oluşturma sırasına
 > göre sabittir; önerilen izleme sırası plan dosyasındadır (renumber yapılmaz).
+> **Scene starter durum:** `SEASON_01_DRAFTS.md` içinde BLD-EP08–BLD-EP20 için 13 adet scene
+> definition starter hazırdır (her biri 8-shot omurga + Shot 01 detay tanımı). Bunlar tam episode
+> package değildir; onay sonrası ilgili dünya klasöründe package'a çevrilir.
 
 (Yollar `POMPOM_HILLS_PRODUCTION/` kök dizinine göredir.)
 
@@ -83,6 +86,14 @@ Bölüm paketleri world-based üretim yapısında yaşar (`02_WORLDS/{MEKAN}/04_
 Doktora check-up · Diş fırçalama · El yıkama · Karanlıktan korkmamak · Uyku rutini ·
 Sebze deneme · Sırayla oynama · Küçük kazada yardım istemek · Özür dilemek ·
 Sakinleşmek için nefes almak. (Kesin sıra/başlık üretim takvimiyle kilitlenir.)
+
+### Season 1 Draft Status
+
+| Aralık | Durum | Not |
+|---|---|---|
+| BLD-EP01–BLD-EP07 | Package yazıldı | World-based `04_EPISODE_PACKAGES/` altında mevcut |
+| BLD-EP08–BLD-EP20 | Scene starter hazır | `SEASON_01_DRAFTS.md`; 13 starter, 104 shot beat, 13 Shot 01 detay |
+| BLD-EP14, EP15, EP17, EP20 | Onay bekliyor | Canon/production/prop kararları tam package öncesi kilitlenmeli |
 
 ---
 
