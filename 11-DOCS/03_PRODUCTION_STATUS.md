@@ -30,7 +30,7 @@
 | Cloud Hill | Dış | ✅ | Image-Based | 🟡 Kısmi |
 | Kiko's Home | İç+Dış | ✅ | Hybrid | 🟢 Production Ready |
 | Sun Hill | Dış | ✅ | Image-Based | 🟡 Kısmi |
-| Mimi's Burrow | İç | ✅ | Description-Based | 🟡 Kısmi |
+| Mimi's Burrow | İç | ✅ | Description-Based | 🟢 Production Ready |
 | Opa's Tree | Dış | ✅ | Image-Based | 🟢 Production Ready |
 | Tillo's Garden | Dış | ✅ | Image-Based | 🟡 Kısmi |
 | Lulu's Greenhouse | İç | ✅ | Description-Based | 🔴 Major Revision |
@@ -50,7 +50,7 @@
 | Story Circle | Dış | ✅ | Image-Based | 🟡 Kısmi |
 | Art Corner | Dış | ✅ | Image-Based | 🟡 Kısmi |
 | Adventure Trail | Dış | ✅ | Image-Based | 🟡 Kısmi |
-| Flower Hill | Dış | ✅ | Image-Based | 🟢 Production Ready |
+| Flower Hill | Dış | ✅ | Image-Based | 🟡 Kısmi |
 | Tree Hill | Dış | ✅ | Image-Based | 🟡 Kısmi |
 | Stone Hill | Dış | ✅ | Image-Based | 🟢 Production Ready |
 | Paddle Cove | Dış | ❌ | Image-Based | 🔴 Major Revision |
