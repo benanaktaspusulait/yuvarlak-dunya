@@ -112,7 +112,7 @@ Do not copy exterior camera or composition.
 
 - **5 Temmuz 2026:** First approved version based on updated world spec v3.1
 - **Exterior Identity:** Round blue entrance, 3 stones, flowers, warm glow, Mimi-sized
-- **Next Phase:** Interior Hero View to be developed separately
+- **Interior Hero View:** see `mimis-burrow-interior-openart-prompt.md` (used as `@image2` for S01E04 Shot 05)
 
 ---
 

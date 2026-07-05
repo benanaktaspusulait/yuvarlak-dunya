@@ -150,7 +150,100 @@ OpenArt'tan onaylı frame'in desteklemediği hiçbir şeyi keşfetmesini isteme.
 
 ---
 
-## 2. Episode Object / Colour / Prop Map
+## 2. RULE LANGUAGE IS NOT COMPLIANCE
+
+> **Bir shot dosyası sadece doğru kural metni içeriyor diye "safe" olarak işaretlenemez.**
+
+### Sorun
+
+Bir shot dosyası şu metinleri içerebilir:
+```text
+Background locked.
+No new environment elements.
+No object spawning.
+Camera locked.
+Lighting locked.
+```
+
+AMA aynı dosya şunu da istiyor olabilir:
+```text
+They walk toward a stream.
+Kiko picks a large leaf.
+Mimi lies on a flower patch.
+Stars appear in the sky.
+```
+
+Eğer stream / leaf / flower patch / stars @image1'de görünmüyorsa, kural metni anlamsızdır.
+
+Story isteği kuralı ezer. Model mecburen yeni obje üretir.
+
+### Çelişki Kontrolü
+
+Validator şu üç şeyi karşılaştırmalıdır:
+
+1. **Prompt neyi yasaklıyor?**
+   - "no new environment"
+   - "no object spawning"
+   - "background locked"
+
+2. **Shot aksiyonu ne gerektiriyor?**
+   - walk to stream
+   - pick a leaf
+   - lie on flower patch
+   - stars appear
+
+3. **@image1 ne gösteriyor?**
+   - grassy area (no stream visible)
+   - path and flowers (no large leaf visible)
+   - dusk sky (no stars visible)
+
+**Çelişki varsa: SHOT BAŞARISIZ.**
+
+### Yasaklanan Durumlar
+
+| Kural Metni | Aksiyon İsteği | @image1 Göstermiyor | Sonuç |
+|-------------|----------------|---------------------|-------|
+| "no new environment" | walk to stream | stream yok | FAIL |
+| "no object spawning" | pick a leaf | leaf yok | FAIL |
+| "camera locked" | walk to new location | location yok | FAIL |
+| "lighting locked" | dusk → night with stars | stars yok | FAIL* |
+
+*Yalnızca açıkça planlanmış gradual transition varsa geçerli.
+
+### Örnek Çelişki
+
+**SHOT DOSYASI:**
+```markdown
+## Background Object Lock
+The background is locked from the first frame.
+Do not create new objects.
+
+## Visual Prompt
+Kiko leads Mimi toward a small rounded bench.
+Mimi tries to lie on it.
+```
+
+**@image1:**
+```
+Shows Mimi, Kiko, and grassy area.
+No bench visible.
+```
+
+**SONUÇ:**
+```
+Shot contains "background lock" and "no new objects" text.
+BUT shot action requires a bench that is not in @image1.
+This is a CONTRADICTION.
+→ FAIL PREFLIGHT
+```
+
+Doğrusu ya:
+1. Shot'ı yeniden yaz: "Kiko leads Mimi toward [visible object]"
+2. VEYA Shot 01'e bench ekle: "Kiko leads Mimi toward the already-visible bench"
+
+---
+
+## 3. Episode Object / Colour / Prop Map
 
 Bir episode için shot prompt'ları yazmadan önce bir object map oluştur.
 
@@ -193,7 +286,7 @@ Cevap güvensizse, üretimden önce daha önceki bir kurulum shot'ını revize e
 
 ---
 
-## 3. Shot 01 as Master Setup / Visual Contract
+## 4. Shot 01 as Master Setup / Visual Contract
 
 Bir sequence'in Shot 01'i sadece bir açılış shot'ı değildir.
 
@@ -214,7 +307,7 @@ Eğer sonraki bir shot bir objeye ihtiyaç duyuyorsa, o obje ideal olarak Shot 0
 
 ---
 
-## 4. Early Object Seeding / No Surprise Discovery Objects
+## 5. Early Object Seeding / No Surprise Discovery Objects
 
 Herhangi bir object, prop, landmark, renk ipucu veya discovery item, sonraki bir shot'ta önemli hale gelecekse, daha önceki bir kurulum shot'ında kasıtlı olarak tohumlanmalıdır.
 
@@ -226,7 +319,7 @@ Discovery karakterin dikkatinden gelir, dünya yaratılmasından değil.
 
 ---
 
-## 5. Discovery Object Must Be Localised
+## 6. Discovery Object Must Be Localised
 
 Bir discovery objesinin sadece dünyada belirsiz bir yerde olması yetmez.
 
@@ -251,7 +344,7 @@ Daha önceki kurulum shot'ını revize et veya özel bir reference sağla.
 
 ---
 
-## 6. Multi-Image Reference Planning / Each Image Must Have A Role
+## 7. Multi-Image Reference Planning / Each Image Must Have A Role
 
 Üretimden önce bir image'ın yeterli olup olmadığına karar ver.
 
@@ -291,7 +384,7 @@ Hard kural:
 
 ---
 
-## 7. Shot Contract Before OpenArt Prompt
+## 8. Shot Contract Before OpenArt Prompt
 
 OpenArt-facing prompt'u yazmadan önce, her shot için kısa bir Shot Contract olmalıdır.
 
@@ -303,9 +396,16 @@ Gerekli format:
 Shot:
 @image1 source:
 Characters visible in @image1:
+Required story objects/props/targets (all of them):
+  - [object]: visible in @image1? / seeded earlier? / localised?
 Discovery object:
 Is discovery object visible in @image1:
 Discovery object location:
+Rule text vs action contradiction check:
+  - Forbids: [no new objects / background lock / ...]
+  - Action needs: [walk to X / pick Y / ...]
+  - @image1 shows: [...]
+  - Contradiction? yes/no
 Must preserve:
 Camera:
 Allowed movement:
@@ -315,8 +415,10 @@ Beat structure:
 Sound:
 Final frame requirement:
 Risk verdict:
-- safe / risky / not ready
+- SAFE / RISKY / NOT READY
 ```
+
+> Not: Eğer "Required story objects" listesinde `@image1`'de görünmeyen VE tohumlanmamış bir obje varsa, verdict otomatik olarak **NOT READY** olur. Kural metni bunu değiştirmez (bkz. §0, §2).
 
 Örnek:
 
@@ -378,7 +480,7 @@ Eğer contract risky veya not ready ise henüz prompt yazma.
 
 ---
 
-## 8. OpenArt Prompt Structure
+## 9. OpenArt Prompt Structure
 
 OpenArt-facing prompt dosyaları kısa, direkt ve operasyonel olmalıdır.
 
@@ -405,7 +507,7 @@ Uzun production notları, teori, QA dokümantasyonu veya iç mantık OpenArt-fac
 
 ---
 
-## 9. Calm But Alive / No Empty Pauses
+## 10. Calm But Alive / No Empty Pauses
 
 Pompom Hills sakin, yumuşak ve preschool-safe olmalıdır ama asla görsel olarak ölü olmamalıdır.
 
@@ -437,7 +539,7 @@ Yasak:
 
 ---
 
-## 10. Sound Must Be Explicit
+## 11. Sound Must Be Explicit
 
 Müzik istenmiyorsa, açıkça yasaklanmalıdır.
 
@@ -459,7 +561,7 @@ No chime.
 
 ---
 
-## 11. Final Frame as Next @image1
+## 12. Final Frame as Next @image1
 
 Her shot'ın final frame'i bir sonraki shot'ın `@image1`'i olabilir.
 
@@ -494,6 +596,15 @@ Final frame şunları korumalıdır:
 
 Üretimden önce her shot şunları cevaplamalıdır:
 
+**HARD GATE (§0 ve §2 — önce bunlar geçmeli):**
+
+0a. Shot'taki tüm story-relevant obje/prop/landmark/action target listelendi mi?
+0b. Her gerekli obje `@image1`'de görünür VEYA daha önce tohumlanmış mı?
+0c. Prompt'un yasakları (no new objects, background lock) ile aksiyon istekleri (walk to X, pick Y) arasında çelişki var mı?
+0d. Herhangi bir gerekli obje görünmüyorsa → shot NOT READY, üretme.
+
+**Standart kontroller:**
+
 1. `@image1` seçilmiş ve onaylanmış mı?
 2. `@image1` görsel olarak bu shot'ı destekliyor mu?
 3. Gerekli tüm karakterler `@image1`'de görünür mü?
@@ -513,9 +624,50 @@ Final frame şunları korumalıdır:
 17. Sadece dialogue ihtiyaç duyduğunda görünen bir nesne var mı?
 18. Kamera reset, widen, pan, zoom, search veya reframe'e neden olabilecek prompt wording var mı?
 19. Orange/golden lighting drift'e neden olabilecek "warm morning" wording var mı?
-20. Shot safe / risky / not ready mu?
+20. Shot SAFE / RISKY / NOT READY mu?
 
 Herhangi bir cevap güvensizse, henüz shot'ı üretme.
+
+---
+
+## Shot Status: SAFE / RISKY / NOT READY
+
+Her shot üretimden önce şu üç statüden birini almalıdır. Bu statü, kural metnine göre değil, `@image1`'in aksiyonu gerçekten destekleyip desteklemediğine göre verilir.
+
+### SAFE
+`@image1` aksiyonu destekliyor ve tüm gerekli objeler görünür veya tohumlanmış.
+- Tüm karakterler `@image1`'de görünür.
+- Tüm story objeleri `@image1`'de görünür veya onaylı bir setup frame'de tohumlanmış.
+- Kamera araması, reseti, genişlemesi yok.
+- Lighting/sky jump yok.
+- Yeni environment üretimi yok.
+
+→ **Sadece SAFE shot'lar OpenArt üretimine geçebilir.**
+
+### RISKY
+Çoğu element destekleniyor, ama bir obje belirsiz, küçük veya kötü lokalize.
+- Obje `@image1`'de var ama okunabilir değil.
+- Obje çok küçük veya belirsiz konumda.
+- Karakter etkileşimi kamera araması gerektirebilir.
+
+→ **Rewrite veya daha iyi setup gerekir. RISKY shot üretime geçemez.**
+
+### NOT READY
+Shot görünmeyen obje, tohumlanmamış location değişikliği, kamera araması, lighting jump veya yeni environment üretimi gerektiriyor.
+- Gerekli obje `@image1`'de yok ve tohumlanmamış.
+- Yeni location'a yürüme (location görünmüyor).
+- Stars/night gibi lighting değişikliği (planlanmamış).
+- Model bir şeyi icat etmek zorunda.
+
+→ **NOT READY shot ÜRETİLMEZ. Setup shot'ı revize et veya shot'ı yeniden yaz.**
+
+### Statü Kuralı
+
+```
+Frame support yok = NOT READY = üretim yok.
+```
+
+Kural metni (background lock, no new objects) bir shot'ı SAFE yapmaz. Sadece `@image1`'in gerçek görsel desteği SAFE yapar.
 
 ---
 
