@@ -5,10 +5,12 @@
 ```text
 Use Central Square (world reference) as the LOCKED environment. Insert Kiko (character reference) alone. Wide establishing shot of Central Square in warm morning light, the Big Pompom Tree behind. Kiko stands near the center on a clear rounded path, looks toward the viewer, gives a warm bright wave hello. Only Kiko is present. Kiko is already visible from the first frame and remains the only character for the whole shot. No other character enters, appears, or is revealed later. Handcrafted preschool toy-set look, rounded shapes, {style} {camera} {lighting}
 
-No props are used in this shot. No other character appears in the background, foreground, edge of frame, window, path, reflection, or shadow.
+The environment must stay clean and uncluttered. No props are used in this shot. Do not add any signposts, wooden signs, direction signs, arrows, written boards, labels, place names, readable signs, road signs, path signs, map signs, banners, plaques, or any object containing letters or words. If the world reference contains any sign, signpost, label, board, arrow, or written text, ignore it completely and keep it out of the generated frame.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-Central Square background locked from the first frame; keep all trees, paths and landmarks stable.
+No other character appears in the background, foreground, edge of frame, window, path, reflection, or shadow.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. No written text anywhere in the image.
+Central Square background locked from the first frame; keep the Big Pompom Tree, rounded paths, flowers and landmarks stable, but do not include any written signs or readable boards.
 ```
 
 ## Camera Direction
@@ -36,5 +38,5 @@ Warm morning sunlight, soft ambient, no hard shadows.
 ## Negative Prompt
 
 ```text
-multiple characters, other characters, two characters, group, crowd, Mimi, Noah, Arda, Luca, Opa, low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, harsh shadows, violence, weapons, sharp objects, redesigned character, wrong scale, character drift, redesigned environment, cluttered background, static talking pose, frozen character, long empty pause, background music, music, melody, song, soundtrack, musical bed, surprise character, background character, partial character, character entering later, extra prop, new prop, animal, toy creature, duplicate Kiko, reflection character, shadow character, surprise object, surprise prop, character appearing later, duplicate character, duplicate body, extra character, new object, object appearing later, object entering later, camera revealing new object, camera revealing new character, jumping, hopping, walking, running, repositioning, character displacement, bouncing away
+multiple characters, other characters, two characters, group, crowd, Mimi, Noah, Arda, Luca, Opa, low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, harsh shadows, violence, weapons, sharp objects, redesigned character, wrong scale, character drift, redesigned environment, cluttered background, static talking pose, frozen character, long empty pause, background music, music, melody, song, soundtrack, musical bed, jingle, chime, bell, magical sparkle sound, whoosh, applause, cheering, crowd noise, loud sound, scary sound, signpost, wooden sign, direction sign, road sign, path sign, map sign, written sign, readable sign, readable text, written board, wooden board, notice board, labels, label, letters, words, place names, arrows, banner, plaque, text on signs, writing on objects, readable words, surprise character, background character, partial character, character entering later, extra prop, new prop, animal, toy creature, duplicate Kiko, reflection character, shadow character, surprise object, surprise prop, character appearing later, duplicate character, duplicate body, extra character, new object, object appearing later, object entering later, camera revealing new object, camera revealing new character, jumping, hopping, walking, running, repositioning, character displacement, bouncing away
 ```
