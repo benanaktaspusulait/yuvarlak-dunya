@@ -1,5 +1,7 @@
 # S01E08 — Sound Effects
 
+> Natural ambience only. No music, no background music, no melody/soundtrack.
+
 ---
 
 ## Ambiance
@@ -15,8 +17,11 @@
 
 | Shot | Sound | Description |
 |---|---|---|
-| 01 | Block sounds | Blocks stacking |
-| 01 | Happy greeting | Friendly tone |
-| 02 | Block wobble | Tower shaking |
-| 03 | Block click | Block placed gently |
-| 04 | Happy cheer | Celebration |
+| 01 | Soft block-touch | Noah handling blocks |
+| 02 | Block handling | Choosing/lifting blocks |
+| 03 | Block click | Blocks stacking, gentle wobble |
+| 04 | Soft settle | Gentle, light tumble (not a crash) |
+| 05 | Quiet ambience | Tender feeling beat |
+| 06 | Block place | Base block placed |
+| 07 | Block click | Careful stacking together |
+| 08 | Soft happy reaction | Gentle celebration (not loud) |

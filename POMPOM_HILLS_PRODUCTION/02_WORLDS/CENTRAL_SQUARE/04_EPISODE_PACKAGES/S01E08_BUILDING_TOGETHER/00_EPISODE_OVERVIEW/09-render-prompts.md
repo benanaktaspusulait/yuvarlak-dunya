@@ -1,64 +1,79 @@
 # S01E08 — Render Prompts
 
+> Consolidated OpenArt prompts for all 8 shots. Full per-shot detail (contract, continuity, QA)
+> lives in `01_SHOTS/`. Shot 01 is the master setup; Shots 02–08 use the previous shot's exported
+> final frame as `@image1`. Append the shared Block Negative Prompt (below) to every shot.
+
 ---
 
-## Shot 01
+## Shot 01 — Blocks Are Found (MASTER SETUP)
 
 ```text
-Noah and Arda from Pompom Hills in Central Square with colorful building blocks, starting to stack blocks on the ground, warm morning light, Central Square with flower beds, no other characters, {style} {camera} {lighting}
+Noah and Arda at Central Square in warm morning light, near the Big Pompom Tree. On the ground: exactly six colourful rounded building blocks — two large flat blocks and four medium round-and-flat blocks in soft pastel colours (coral, yellow, blue, green). Noah crouches and arranges the blocks; Arda arrives from a rounded path at the frame edge and joins him. Child-sized, Arda a little smaller than Noah. Toy-set preschool look, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+```
 
-Do not change the established exposure, brightness or moonlight intensity.
+## Shot 02 — Choosing Shapes
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+```text
+Use Shot 01 exported final frame as @image1. Noah and Arda kneeling by the six blocks, warm morning light. Arda lifts a round block questioningly; Noah shows a large flat block as the base. Calm cooperative planning, no other characters, {style} {camera} {lighting}
+
+Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
+```
+
+## Shot 03 — First Tower Attempt
+
+```text
+Use Shot 02 exported final frame as @image1. Noah and Arda carefully stacking the blocks into a small tower on the flat base; the tower rises to chest height and wobbles slightly. Focused, careful. Tower no taller than the children, no other characters, {style} {camera} {lighting}
+
+Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
+```
+
+## Shot 04 — Tower Falls
+
+```text
+Use Shot 03 exported final frame as @image1. The small tower gently tips and softly tumbles; the same six blocks slide and settle on the ground in a soft, harmless, almost funny way — nothing loud or fast. Noah and Arda lean back with soft surprised faces, safe. Same six blocks all present. No pull-back, no other characters, {style} {camera} {lighting}
+
+Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
+```
+
+## Shot 05 — Small Feeling Beat
+
+```text
+Use Shot 04 exported final frame as @image1 (scatter positions preserved). Arda's shoulders drop a little, a small gentle discouraged feeling; Noah turns with a warm, calm, encouraging expression and a soft reassuring gesture. Tender, supportive, safe — small feeling, quickly comforted. No other characters, {style} {camera} {lighting}
+
+Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
+```
+
+## Shot 06 — New Plan
+
+```text
+Use Shot 05 exported final frame as @image1. Noah points clearly at the large flat block — hand, eyes, head and body all aimed at it — then places it as the base; then points at a small round block for the top. Arda follows the point, turns to the same block, and nods. Calm, cooperative, no other characters, {style} {camera} {lighting}
+
+Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
+```
+
+## Shot 07 — Careful Together Build
+
+```text
+Use Shot 06 exported final frame as @image1. Arda steadies the tower with both hands while Noah gently places each block, big low and smaller higher; slow, careful teamwork; the tower rises steadily and stays small. Warm, cooperative, no other characters, {style} {camera} {lighting}
+
+Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
+```
+
+## Shot 08 — Tower Stands
+
+```text
+Use Shot 07 exported final frame as @image1. Noah and Arda beside their finished tower of six blocks standing steadily (no taller than the children), happy and proud, a gentle celebration (soft high-five or clap). Warm morning daylight — do not shift to golden/sunset. No pull-back, no other characters, {style} {camera} {lighting}
+
+Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
 ```
 
 ---
 
-## Shot 02
+## Shared Block Negative Prompt (append to every shot)
 
 ```text
-Use Shot 01 video as Video Reference.
-Arda reaching up for a block too high on a small tower, Noah watching, warm daylight, Central Square, no other characters, {style} {camera} {lighting}
-
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, lighting change, colour grading change, camera reset, camera pull-back, static talking pose, characters frozen, long empty pause, silent staring, dead air, background music, music, melody, song, soundtrack, musical bed, new blocks, extra blocks, missing blocks, disappearing blocks, changing block colours, blocks turning into toys, furniture, stones, food, boxes, tools, letters or signs, tower taller than the children, giant tower, oversized tower, duplicated blocks, morphing blocks, floating blocks
 ```
-
----
-
-## Shot 03
-
-```text
-Noah helping Arda by placing a block on top of the tower, both focused, warm light, Central Square, no other characters, {style} {camera} {lighting}
-
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
-
----
-
-## Shot 04
-
-```text
-Noah and Arda standing next to a finished tower of colorful blocks, proud smiles, warm afternoon light, Central Square, peaceful happy moment, no other characters, {style} {camera} {lighting}
-
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
-
----
-
-## Negative Prompt
-
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment

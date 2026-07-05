@@ -6,8 +6,8 @@
 
 | Character | File | Shots |
 |---|---|---|
-| ✅ Noah | `01-CHARACTERS/drawings/noah.png` | 01, 02, 03, 04 |
-| ✅ Arda | `01-CHARACTERS/drawings/arda.png` | 01, 02, 03, 04 |
+| ✅ Noah | `01-CHARACTERS/drawings/noah.png` | 01–08 |
+| ✅ Arda | `01-CHARACTERS/drawings/arda.png` | 01–08 |
 
 ---
 
@@ -15,12 +15,12 @@
 
 | Environment | File | Shots |
 |---|---|---|
-| Central Square | `environment/01-central-square/hero-view.png` | 01, 02, 03, 04 |
+| Central Square | `environment/01-central-square/hero-view.png` | 01–08 |
 
 ---
 
 ## Props Used
 
-| Prop | File | Shots |
-|---|---|---|
-| Building Blocks | (generated) | 01, 02, 03, 04 |
+| Prop | File | Shots | Note |
+|---|---|---|---|
+| Building Blocks (6, fixed set) | (generated) | 01–08 | Only movable prop; 2 large flat + 4 medium round/flat; seeded in Shot 01 |

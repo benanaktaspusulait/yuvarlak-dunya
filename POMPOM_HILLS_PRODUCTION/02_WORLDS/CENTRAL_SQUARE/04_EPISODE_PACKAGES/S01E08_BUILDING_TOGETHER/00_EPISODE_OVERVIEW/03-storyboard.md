@@ -1,89 +1,125 @@
 # S01E08 — Building Together — Storyboard
 
+> 8 shot × 15 sn = 120 sn. Tüm shot'lar static (izinli küçük settle hariç). Işık: sabah (golden/sunset yok).
+
 ---
 
-## Shot 01 — Blokları Toplarlar (0-15 sn)
+## Shot 01 — Blocks Are Found (0-15 sn) — MASTER SETUP
 
-**Kamera:** 35mm wide → Medium
-**Mekan:** Central Square
-**Karakter:** Noah, Arda
+**Kamera:** 35mm wide → Medium · **Mekan:** Central Square · **Karakter:** Noah, Arda
 
-**Aksiyon:**
-- 0-5 sn: Central Square görünür. Noah oturmuş blokları inceler.
-- 5-10 sn: Arda gelir. Noah'ın yanına oturur.
-- 10-15 sn: İkisi de bloklara bakar. Gülümserler.
+**Aksiyon:** Central Square ve yerdeki 6 renkli blok görünür. Noah blokları inceler. Arda yuvarlak yoldan gelir, yanına oturur. Bloklara birlikte bakarlar. (Tüm objeler burada seed edilir.)
 
 **Dialogue:**
 ```
-Noah: Want to build?
-Arda: Yes!
+Noah: Look at these blocks.
+Arda: Can we build?
+Noah: Yes!
 ```
-
-**Işık:** Sabah güneş ışığı
-**Ses:** Kuş cıvıltısı
+**Işık:** Sabah güneş ışığı · **Ses:** Kuş cıvıltısı, yumuşak blok sesi
 
 ---
 
-## Shot 02 — İlk Deneme (15-30 sn)
+## Shot 02 — Choosing Shapes (15-30 sn)
 
-**Kamera:** Medium → Wide
-**Mekan:** Central Square
-**Karakter:** Noah, Arda
+**Kamera:** Medium · **Mekan:** Central Square · **Karakter:** Noah, Arda
 
-**Aksiyon:**
-- 0-5 sn: Noah üst üste blok koyar.
-- 5-10 sn: Arda da bir tane daha ekler.
-- 10-15 sn: Kule devrilir. İkisi de şaşırır.
+**Aksiyon:** Arda yuvarlak bir blok kaldırır, Noah'a sorar gibi bakar. Noah büyük düz bloğu gösterir (önce taban). Arda anlar, taban bloğu yere koyarlar.
+
+**Dialogue:**
+```
+Arda: This one?
+Noah: The flat one first.
+```
+**Işık:** Sabah · **Ses:** Blok elleme sesleri
+
+---
+
+## Shot 03 — First Tower Attempt (30-45 sn)
+
+**Kamera:** Medium · **Mekan:** Central Square · **Karakter:** Noah, Arda
+
+**Aksiyon:** Blokları dikkatlice üst üste koyarlar; kule göğüs hizasına yükselir ve hafifçe sallanır. Gerilim.
+
+**Dialogue:**
+```
+Noah: Careful...
+Arda: I am careful!
+```
+**Işık:** Sabah · **Ses:** Blok "click" sesleri
+
+---
+
+## Shot 04 — Tower Falls (45-60 sn)
+
+**Kamera:** Medium (pull-back yok) · **Mekan:** Central Square · **Karakter:** Noah, Arda
+
+**Aksiyon:** Kule yumuşakça devrilir; aynı 6 blok nazikçe yere dağılır. İkisi yumuşak bir şaşkınlıkla bakar (güvenli, komik-tatlı).
 
 **Dialogue:**
 ```
 Arda: Oh no!
-Noah: It fell!
+Noah: It fell.
 ```
-
-**Işık:** Sabah güneş ışığı
-**Ses:** Yumuşak çarpma sesi
+**Işık:** Sabah · **Ses:** Yumuşak yerleşme sesi (çarpma yok)
 
 ---
 
-## Shot 03 — Tekrar Denerler (30-45 sn)
+## Shot 05 — Small Feeling Beat (60-75 sn)
 
-**Kamera:** Medium → Medium close-up
-**Mekan:** Central Square
-**Karakter:** Noah, Arda
+**Kamera:** Medium · **Mekan:** Central Square · **Karakter:** Noah, Arda
 
-**Aksiyon:**
-- 0-5 sn: Noah gülümser. "Tekrar" der gibi.
-- 5-10 sn: Arda da gülümser. Blokları toplarlar.
-- 10-15 sn: Dikkatlice üst üste koyarlar.
+**Aksiyon:** Arda'nın omuzları hafif düşer, üzülür gibi. Noah sıcak ve sakin şekilde cesaret verir. Küçük, kısa duygu — hemen tesellisi. (Dağılan bloklar yerinde kalır.)
 
 **Dialogue:**
 ```
-Noah: Let's try again.
-Arda: Okay!
+Arda: I can't do it.
+Noah: We can try together.
 ```
-
-**Işık:** Sabah güneş ışığı
-**Ses:** Blok "click" sesleri
+**Işık:** Sabah · **Ses:** Sakin ambiyans
 
 ---
 
-## Shot 04 — Kule Hazır (45-60 sn)
+## Shot 06 — New Plan (75-90 sn)
 
-**Kamera:** Wide → Medium close-up
-**Mekan:** Central Square
-**Karakter:** Noah, Arda
+**Kamera:** Medium · **Mekan:** Central Square · **Karakter:** Noah, Arda
 
-**Aksiyon:**
-- 0-5 sn: Kule dimdik durur.
-- 5-10 sn: İkisi de gururla bakar.
-- 10-15 sn: Gülümserler. Altın ışık başlar.
+**Aksiyon:** Noah büyük düz bloğu net şekilde işaret eder (el+göz+baş+gövde hizalı), taban olarak koyar; sonra küçük bloğu gösterir. Arda aynı bloğa döner, anlar.
+
+**Dialogue:**
+```
+Noah: Big block first.
+Arda: Small block on top?
+Noah: Yes.
+```
+**Işık:** Sabah · **Ses:** Blok yerleştirme sesi
+
+---
+
+## Shot 07 — Careful Together Build (90-105 sn)
+
+**Kamera:** Medium · **Mekan:** Central Square · **Karakter:** Noah, Arda
+
+**Aksiyon:** Biri tutar, diğeri koyar. Yavaş ve dikkatli birlikte kuleyi tekrar kurarlar; kule istikrarlı yükselir (≤ baş hizası).
+
+**Dialogue:**
+```
+Arda: You hold it.
+Noah: I've got it.
+```
+**Işık:** Sabah · **Ses:** Blok "click" sesleri
+
+---
+
+## Shot 08 — Tower Stands (105-120 sn)
+
+**Kamera:** Medium (pull-back yok) · **Mekan:** Central Square · **Karakter:** Noah, Arda
+
+**Aksiyon:** Kule dimdik durur. İkisi mutlu ve gururlu; yumuşak bir kutlama (hafif çak/alkış). Sıcak final.
 
 **Dialogue:**
 ```
 Noah: We did it!
 Arda: Together!
 ```
-
-**Işık:** Altın ışık başlıyor
-**Ses:** —
+**Işık:** Sabah (golden/sunset'e kaymaz) · **Ses:** Yumuşak mutlu tepki
