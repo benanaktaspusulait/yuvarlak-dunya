@@ -76,11 +76,13 @@ Release order:
 
 ## Release Philosophy
 
-> **Superseded by Channel Growth Decisions §8 (daily publishing) and §8a
-> (UK Timezone Dual-Post Strategy) below.** The "2–3 per week" cadence and
-> single "Saturday 10:00 UK" slot no longer apply — publishing is now daily,
-> and each character/video launch uses two UK posting times (04:00 and
-> 12:00) instead of one weekly slot. Kept here for historical context only.
+> **Superseded by Channel Growth Decisions §8 (daily publishing) and §8b
+> (Global Wave Strategy) below.** The "2–3 per week" cadence and single
+> "Saturday 10:00 UK" slot no longer apply — publishing is now daily, and each
+> day uses one main content piece plus a supporting Short and a story/reshare
+> spread across three UK time waves (see §8b). §8a's earlier two-post model
+> (04:00 / 12:00 UK) is itself now superseded by §8b. Kept here for historical
+> context only.
 
 - Episodes in production order
 - 2–3 per week ~~(superseded — see §8)~~
@@ -330,6 +332,14 @@ Avoid overloading the same character repeatedly unless the data clearly supports
 8a. UK TIMEZONE DUAL-POST STRATEGY
 --------------------------------------------------
 
+> **Superseded by §8b Global Wave Strategy (below), approved 5 July 2026.**
+> The two-post model (main video 04:00 UK, reel 12:00 UK) is replaced by a
+> three-wave model that does NOT put a heavy main video in the Asia/Pacific
+> window and instead publishes one main content piece per day supported by a
+> Short and a story/reshare across the three waves. The reasoning in §8a about
+> post spacing, non-identical reposts, and per-post tracking still applies and
+> is folded into §8b. Kept here for historical context only.
+
 All publishing times below are given in UK time and apply across all platforms
 (YouTube, Instagram, Facebook).
 
@@ -362,6 +372,174 @@ Rules:
 - This schedule is a starting recommendation, not a locked rule — review
   actual regional performance after 30 days (per §1 Early Data Interpretation)
   and adjust the two posting times if the data supports a different split.
+
+--------------------------------------------------
+8b. GLOBAL WAVE STRATEGY (current — supersedes 8a)
+--------------------------------------------------
+
+Status: APPROVED (5 July 2026). This is the current publishing model for
+Pompom Hills and replaces the §8a two-post schedule.
+
+All times below are UK time (London / BST) and apply across all platforms
+(YouTube, Instagram, Facebook).
+
+Core principle:
+
+We do NOT publish every main video three times per day. We publish one main
+content piece, then support it through Shorts, Reels, Stories and resharing
+across global time waves. In other words: not three different main videos in a
+day — the same content family circulated through different waves.
+
+--------------------------------------------------
+The three daily waves
+--------------------------------------------------
+
+| Wave | UK Time | Region | Primary use |
+|------|---------|--------|-------------|
+| Wave 1 | 01:00–03:00 UK | Asia / Pacific | Light support only — story reshare, Short repost, character card, light engagement |
+| Wave 2 | 09:00–11:00 UK | Europe / Africa | Main content, character intro, educational post |
+| Wave 3 | 14:00–17:00 UK | Americas | Main content, Reel / Short, strong promo, main Facebook family post |
+
+--------------------------------------------------
+Daily rhythm — one content family, three touches
+--------------------------------------------------
+
+Per day, publish:
+
+- 1 main content piece
+- 1 supporting Short / Reel
+- 1 Story or reshare / character card
+
+Recommended default daily flow (normal days):
+
+| UK Time | Post |
+|---------|------|
+| 09:30 UK | Main video / 1-minute episode (or character montage) |
+| 14:30 UK | Short / Reel derived from the same video |
+| 01:30 UK | Story reshare / short repost / character card |
+
+This keeps the main video's reach alive while giving it a second, locally
+relevant appearance in another region — without looking like a content flood.
+
+--------------------------------------------------
+Which wave should the MAIN video go in?
+--------------------------------------------------
+
+- Default daily main slot: 09:30 UK. It fits the operator's own working hours
+  and serves the UK / Europe audience naturally.
+- Strongest content, weekend, and Americas-focused pushes: 14:00–16:00 UK.
+  The Americas + Latin America family audience (US, Mexico, Peru) is strong for
+  preschool/parent content, and the Americas wave is valuable for the Facebook
+  family audience.
+- Test the Europe morning window (09:00–11:00 UK) 1–2 times per week as a
+  natural fit for UK / Europe and the operator's schedule.
+
+--------------------------------------------------
+How to use the Asia / Pacific wave (01:00–03:00 UK)
+--------------------------------------------------
+
+Publishing a heavy main video at 01:00–03:00 UK is operationally hard for the
+team. Use this wave for light, repeat / support content only:
+
+- story reshare
+- Short repost
+- character card
+- Facebook story / Instagram story
+
+Do NOT schedule a fresh heavy main video in this wave at launch.
+
+--------------------------------------------------
+Spacing: 2–3 hours vs 40–60 minutes
+--------------------------------------------------
+
+- Normal publishing: keep 2–3 hour gaps between posts. Safer, avoids audience
+  fatigue.
+- Special character push or a strong-performing piece only: 40–60 minute gaps
+  are allowed. Example (Kiko performing well):
+  - 14:00 UK — Kiko main video
+  - 15:00 UK — Kiko Short
+  - 16:30 UK — Kiko story / behind-the-scenes / quote card
+- Do NOT run the tight 40–60 minute pattern every day — it overloads the
+  audience. Normal healthy rhythm stays at 09:30 main / 14:30 Short /
+  18:00 story-repost-caption (or 01:30 Asia reshare per the daily flow above).
+
+Post-spacing and non-identical-repost rules from §8a still apply: a repost
+should not be an identical re-upload (use a shorter cut or a different
+cover/thumbnail), and both posts per content item are tracked in
+`08-PRODUCTION/ASSET_TRACKER.md` §2a and `08-PRODUCTION/CONTENT_MATRIX.md`.
+
+--------------------------------------------------
+Content type by wave (summary)
+--------------------------------------------------
+
+| UK Time | Content types |
+|---------|----------------|
+| 01:00–03:00 UK | Story, reshare, Short, character card |
+| 09:00–11:00 UK | Main episode, character intro, educational post |
+| 14:00–17:00 UK | Main episode, Reel / Short, strong promo, main Facebook post |
+
+--------------------------------------------------
+Weekly example system (first 4–6 months, steady but active)
+--------------------------------------------------
+
+| Day | Schedule |
+|-----|----------|
+| Monday | 09:30 — 1-minute episode · 14:30 — Short from the episode |
+| Tuesday | 10:00 — character intro / montage · 15:00 — story / Short |
+| Wednesday | 09:30 — 1-minute episode · 14:30 — Short from the episode |
+| Thursday | 10:00 — two-character montage · 15:00 — Short / story |
+| Friday | 09:30 — 1-minute episode · 14:30 — Short from the episode · 16:30 — weekend story |
+| Saturday | 14:00 — strongest content / new episode / main video for the family audience |
+| Sunday | Lighter day: story, recap, "meet the friends", cozy post |
+
+--------------------------------------------------
+Canonical statement (for reference / reuse)
+--------------------------------------------------
+
+> Pompom Hills Global Wave Strategy
+>
+> We do not publish every main video three times. We publish one main content
+> piece, then support it through Shorts, Reels, Stories and resharing across
+> global time waves.
+>
+> Main content should usually be published during either:
+> - Europe/Africa morning wave: 09:00–11:00 UK
+> - Americas wave: 14:00–17:00 UK
+>
+> Asia/Pacific wave should mainly be used for:
+> - story resharing
+> - Short reposts
+> - character cards
+> - light engagement posts
+>
+> Avoid flooding the audience. Use 2–3 hour gaps for normal publishing. Use
+> 40–60 minute gaps only for special character pushes or strong-performing
+> content.
+
+--------------------------------------------------
+Language / dubbing rollout (phased)
+--------------------------------------------------
+
+Do not translate every video into 5 languages at once. Roll out in phases:
+
+- Primary language: English.
+- Support caption: short, simple English.
+- Test languages, in priority order:
+  1. Spanish (first target — widest reach for Mexico, Peru, Latin America)
+  2. Portuguese or Filipino / Tagalog
+  3. Japanese
+
+Note: this language rollout complements, and does not replace, the required
+EN / TR / ES subtitle rule in the Subtitle Rule section above.
+
+--------------------------------------------------
+Review note
+--------------------------------------------------
+
+This is a starting recommendation, not a locked rule. Review actual regional
+performance after 30 days (per §1 Early Data Interpretation) and adjust wave
+times, the main-video window, and language priorities if the data supports a
+different split.
 
 ==================================================
 9. FORMAT PAIRING
@@ -495,3 +673,4 @@ Placement in publishing cadence:
 *Source of truth for: How finished content reaches the audience*
 *Channel Growth Decisions section last updated: 4 Temmuz 2026 (Meat.ai discussion)*
 *§14 Recurring Sub-Series added 4 Temmuz 2026.*
+*§8b Global Wave Strategy added 5 July 2026; supersedes §8a two-post schedule.*

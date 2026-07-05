@@ -18,8 +18,8 @@
 ## Shot Contract
 
 - **Role:** First build — tower rises but wobbles (gentle tension).
-- **Uses:** the 6 blocks seeded in Shot 01.
-- **Tower ledger:** start 0 stacked (blocks on ground) → end ~4 stacked, wobbly, chest-high, ≤ head.
+- **Uses:** the 8 blocks seeded in Shot 01.
+- **Tower ledger:** start base placed → end ~4–5 stacked, wobbly, chest-high, ≤ head.
 - **Preflight status:** RISKY (tower height must stay ≤ head).
 - **Gate:** B.
 
@@ -27,7 +27,7 @@
 
 ## Continuity
 
-Continues directly from Shot 02. Same Central Square, same six blocks, same morning light. `@image1` = Shot 02 exported final frame (flat base block already placed).
+Continues directly from Shot 02. Same Central Square, same eight blocks, same morning light. `@image1` = Shot 02 exported final frame (flat base block already placed).
 
 ---
 
@@ -39,7 +39,7 @@ Use Shot 02's exported final frame as the exact first frame. Hold close to `@ima
 
 ## Background Object Lock
 
-The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 6 blocks may move.
+The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 8 blocks may move.
 
 ---
 
@@ -122,8 +122,8 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 Reference: 16_VIDEO_QA_SPEC.md
 
 - [ ] Character integrity/consistency/scale verified
-- [ ] Object persistence — same 6 blocks; no spawn/vanish/morph/duplicate/colour change
-- [ ] **Tower height ≤ head level** (ledger: end ~4 stacked, chest-high)
+- [ ] Object persistence — same 8 blocks; no spawn/vanish/morph/duplicate/colour change
+- [ ] **Tower height ≤ head level** (ledger: end ~4–5 stacked, chest-high)
 - [ ] Camera and lighting consistent with `@image1`
 - [ ] Background stable; environment not reinterpreted
 - [ ] Wobble reads as gentle tension, not scary

@@ -18,8 +18,8 @@
 ## Shot Contract
 
 - **Role:** Problem-solving — Noah shows the plan: big block on the bottom, small block on top.
-- **Uses:** the 6 scattered blocks; Noah places one large flat block as the new base.
-- **Tower ledger:** start 6 scattered → end 6 scattered with 1 big block placed as base.
+- **Uses:** the 8 scattered blocks; Noah places one large flat block as the new base.
+- **Tower ledger:** start 8 scattered → end 1 big flat block placed as base (other 7 on the ground).
 - **Preflight status:** RISKY (pointing/gaze alignment must be clear).
 - **Gate:** C.
 
@@ -27,7 +27,7 @@
 
 ## Continuity
 
-Continues directly from Shot 05. Same Central Square, same six blocks, same morning light. `@image1` = Shot 05 exported final frame.
+Continues directly from Shot 05. Same Central Square, same eight blocks, same morning light. `@image1` = Shot 05 exported final frame.
 
 ---
 
@@ -39,7 +39,7 @@ Use Shot 05's exported final frame as the exact first frame. Hold close to `@ima
 
 ## Background Object Lock
 
-The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 6 blocks may move.
+The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 8 blocks may move.
 
 ---
 
@@ -56,7 +56,7 @@ The background is locked from the first frame. Maintain all visible background o
 ## Visual Prompt
 
 ```text
-Noah shows Arda a simple plan at Central Square, warm morning light. Noah points clearly at the large flat block on the ground — his hand, eyes, head and body all aimed at it — then places it down as the base; then he points at a small round block to show it goes on top. Arda follows Noah's point, turning to look at the same block, and nods with understanding. Calm, encouraging, cooperative. The six blocks are the same set from before. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
+Noah shows Arda a simple plan at Central Square, warm morning light. Noah points clearly at the large flat block on the ground — his hand, eyes, head and body all aimed at it — then places it down as the base; then he points at a small round block to show it goes on top. Arda follows Noah's point, turning to look at the same block, and nods with understanding. Calm, encouraging, cooperative. The eight blocks are the same set from before. Do not build the tower yet in this shot — only place one large flat block as the base, and leave the other seven blocks on the ground. The real rebuilding begins in Shot 07. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -81,8 +81,8 @@ Begin identical to `@image1`; static eye-level medium framing. Only a very subtl
 
 ```
 Noah: Big block first.
-Arda: Small block on top?
-Noah: Yes.
+Arda: Slowly this time?
+Noah: Yes, together.
 ```
 
 ---
@@ -132,7 +132,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 Reference: 16_VIDEO_QA_SPEC.md
 
 - [ ] Character integrity/consistency/scale verified
-- [ ] Same 6 blocks; no spawn/vanish/morph/duplicate/colour change
+- [ ] Same 8 blocks; no spawn/vanish/morph/duplicate/colour change
 - [ ] **Pointing, gaze, and body orientation all aligned to a visible target block** (both targets)
 - [ ] **Arda turns toward the same block Noah indicates**
 - [ ] Camera and lighting consistent with `@image1`

@@ -23,4 +23,4 @@
 
 | Prop | File | Shots | Note |
 |---|---|---|---|
-| Building Blocks (6, fixed set) | (generated) | 01–08 | Only movable prop; 2 large flat + 4 medium round/flat; seeded in Shot 01 |
+| Building Blocks (8, fixed set) | (generated) | 01–08 | Only movable prop; 2 large flat + 3 medium flat/rounded + 3 small round/soft; seeded in Shot 01 |

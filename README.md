@@ -79,6 +79,7 @@ yuvarlak-dunya/
 | Shot'lar arası continuity workflow (@image1 zinciri, transition QA) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
 | Sosyal medya görsel formatı (Story/Feed/YouTube platform seti, safe margin) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SOCIAL_MEDIA_IMAGE_FORMAT_STANDARD.md` |
 | Opa's Storytime (interactive storytelling sub-series, format, playlist) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` |
+| Brave Little Days (life-skills / günlük hayat becerileri sub-series, format, playlist) | `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md` |
 | Bölüm detayları | `POMPOM_HILLS_PRODUCTION/02_WORLDS/{MEKAN}/04_EPISODE_PACKAGES/{bolum}/` |
 | Üretim takibi | `08-PRODUCTION/` |
 | Mekan görselleri (PNG) | `environment/NN-slug.png` veya çok görünümlü `environment/NN-slug/hero-view.png` |

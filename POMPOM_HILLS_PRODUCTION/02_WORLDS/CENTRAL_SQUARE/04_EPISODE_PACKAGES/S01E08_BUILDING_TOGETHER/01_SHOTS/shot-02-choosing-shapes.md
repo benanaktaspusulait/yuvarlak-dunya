@@ -18,7 +18,7 @@
 ## Shot Contract
 
 - **Role:** Planning beat — simple shape logic (round vs flat).
-- **Uses:** the 6 blocks seeded in Shot 01. No new objects.
+- **Uses:** the 8 blocks seeded in Shot 01. No new objects.
 - **Preflight status:** SAFE.
 - **Gate:** B.
 
@@ -26,7 +26,7 @@
 
 ## Continuity
 
-Continues directly from Shot 01. Same Central Square, same six blocks, same morning light. `@image1` = Shot 01 exported final frame.
+Continues directly from Shot 01. Same Central Square, same eight blocks, same morning light. `@image1` = Shot 01 exported final frame.
 
 ---
 
@@ -38,14 +38,14 @@ Use Shot 01's exported final frame as the exact first frame. Hold close to `@ima
 
 ## Background Object Lock
 
-The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 6 blocks may move.
+The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 8 blocks may move.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Noah and Arda kneeling by the six colourful blocks at Central Square, warm morning light. They are choosing which block to use first: Arda lifts a round block and looks questioningly at Noah; Noah gently picks up a large flat block and shows it, as if to say the flat one is the base. Calm, thoughtful, cooperative planning. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
+Noah and Arda kneeling by the eight colourful blocks at Central Square, warm morning light. They are choosing which block to use first: Arda lifts a round block and looks questioningly at Noah; Noah gently picks up a large flat block and shows it, as if to say the flat one is the base. Calm, thoughtful, cooperative planning. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -79,7 +79,7 @@ Noah: The flat one first.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold — six blocks, both kneeling | Medium |
+| 0-1 sn | Continuity hold — eight blocks, both kneeling | Medium |
 | 1-4 sn | Arda picks up a round block, holds it up, looks at Noah | Medium |
 | 4-8 sn | Noah gently takes a large flat block, shows it | Medium |
 | 8-11 sn | Arda looks at the flat block, understands, nods | Medium |
@@ -120,7 +120,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 Reference: 16_VIDEO_QA_SPEC.md
 
 - [ ] Character integrity/consistency/scale verified (Arda smaller than Noah)
-- [ ] Object persistence — same 6 blocks, no spawn/vanish/morph/duplicate/colour change
+- [ ] Object persistence — same 8 blocks, no spawn/vanish/morph/duplicate/colour change
 - [ ] Camera and lighting consistent with `@image1`
 - [ ] Background stable; environment not reinterpreted
 - [ ] Round vs flat shape choice reads clearly

@@ -21,7 +21,7 @@
 
 ## Story Summary
 
-Noah Central Square'da altı renkli blok bulur; Arda katılır. Şekilleri seçip kule yaparlar ama
+Noah Central Square'da sekiz renkli blok bulur; Arda katılır. Şekilleri seçip kule yaparlar ama
 ilk kule sallanıp devrilir. Arda biraz üzülür; Noah cesaret verir — birlikte tekrar denerler.
 Yeni planla (büyük blok alta, küçük üste) ve iş birliğiyle (biri tutar, biri koyar) kuleyi
 yeniden kurarlar. Bu kez ayakta kalır: "Together!"
@@ -49,7 +49,7 @@ Overview docs: `01-overview.md`, `02-beat-sheet.md`, `03-storyboard.md`, `04-ass
 
 ## Production Notes
 
-- **Block Object Model:** 6 blocks (2 large flat + 4 medium round/flat), stable colours, tower ≤ head. Only movable prop; seeded in Shot 01. Reusable Block negative-prompt block in `01-overview.md` / `09-render-prompts.md`.
+- **Block Object Model:** 8 blocks (2 large flat + 3 medium flat/rounded + 3 small round/soft), stable colours, tower ≤ head. Only movable prop; seeded in Shot 01. Reusable Block negative-prompt block in `01-overview.md` / `09-render-prompts.md`.
 - **Continuity:** Shot 01 master setup; Shots 02–08 use previous shot's final frame as `@image1`. Shot 04→05 preserves scatter positions.
 - **Staged gates A–D** and per-shot SAFE/RISKY/NOT READY status — see `EPISODE_SUMMARY.md`. Do not generate all 8 at once.
 - **Lighting:** warm morning throughout (no golden/sunset drift). All shots static (no pull-back).

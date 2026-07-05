@@ -1,11 +1,11 @@
 # Environment Bible — Central Square
 
-> **Version 3.1** — Visual Richness & World Charm pass.
+> **Version 3.3** — Added optional Tooth Helper Corner + Care Corner set-pieces (Brave Little Days).
 
 ```
 Environment ID: ENV-001
 File: POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/
-Version: 3.1
+Version: 3.3
 Location: PomPom Hills merkezi
 Type: Exterior World
 Status: Production Ready
@@ -140,6 +140,39 @@ shot instantly readable as Central Square.
 ✗ dark or dramatic lighting
 ```
 
+### Optional Recurring Set-Piece — Tooth Helper Corner (Brave Little Days)
+
+Introduced in **Brave Little Days EP01 — "Kiko's Happy Smile."** A cozy, **optional**
+nook at the edge of the square, near the low pastel houses — NOT a default part of every
+Central Square shot. Used only when a Brave Little Days health/care story calls for it.
+
+- Soft mint-and-cream rounded awning / small tent
+- One cushioned round "smile chair"
+- Small wooden shelf with little round tooth mirrors and a friendly water cup
+- Potted pastel flowers, warm morning light
+
+**Must stay non-clinical.** Forbidden here: clinical white surfaces, bright surgical lamp,
+metal trays, needles, drills, sharp tools. This corner does not replace or crowd the Big
+Pompom Tree; it sits at the square's edge as a warm community helper spot.
+Reference: `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`, `01-CHARACTERS/14-nella.md`.
+
+### Optional Recurring Set-Piece — Care Corner (Brave Little Days)
+
+Introduced in **Brave Little Days EP03 — "Kiko's Check-Up Day."** A sibling to the Tooth Helper
+Corner: an **optional**, warm, non-clinical health nook at the square's edge, used only when a
+Brave Little Days doctor/check-up story calls for it.
+
+- Soft blue-and-cream rounded awning / small tent
+- One cushioned round mat / low soft bench
+- A friendly height chart on a soft board
+- A soft rounded stethoscope ("listening heart") and star stickers on a small shelf
+- Potted pastel flowers, warm light
+
+**Must stay non-clinical.** Forbidden: needles, syringes, sharp tools, bright surgical lamp,
+metal trays, clinical white. Home to Care Helper **Remi** (`01-CHARACTERS/15-remi.md`). Optional/
+opt-in only; does not replace or crowd the Big Pompom Tree.
+Reference: `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`.
+
 ### Thumbnail Hook
 
 The Big Pompom Tree in full bloom at the centre of a warm, colourful stone
@@ -219,9 +252,11 @@ Central Square buluşma mekanıdır.
 |---------|---------|:--------:|
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ |
 | 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = CS-TREE-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Central Square could be described as only "a plaza." No changes to World Identity Lock or pipeline. | — |
+| 3.2 | **Optional Set-Piece Added.** Documented the **Tooth Helper Corner** (optional, edge-of-square, non-clinical) introduced in Brave Little Days EP01. Optional/opt-in only; does not change World Identity Lock, default shots, or the Big Pompom Tree. | — |
+| 3.3 | **Optional Set-Piece Added.** Documented the **Care Corner** (optional, edge-of-square, non-clinical) introduced in Brave Little Days EP03, home to Care Helper Remi. Optional/opt-in only; no change to World Identity Lock, default shots, or the Big Pompom Tree. | — |
 
 ---
 
 *Bu belge Central Square mekanı için creative referanstır.*
-*Environment Bible v3.1*
-*Son güncelleme: 4 Temmuz 2026*
+*Environment Bible v3.3*
+*Son güncelleme: 5 Temmuz 2026*

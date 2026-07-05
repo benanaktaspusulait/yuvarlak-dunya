@@ -249,6 +249,50 @@ This ratio preserves the anchor while allowing sufficient variety for a full sea
 
 ---
 
+## 6a. Story Types (Thematic Axis)
+
+> §6'daki "Episode Types" hikayeyi **kimin yönettiğini** (Discovery / Animal Friend / Guide /
+> World — karakter-liderliği ekseni) tanımlar. Bu bölümdeki **Story Type** ise hikayenin
+> **ne hakkında olduğunu / çocuğa hangi işlevi gördüğünü** tanımlayan ayrı ve tamamlayıcı bir
+> tematik eksendir. İkisi birbirinin yerine geçmez.
+
+### Kural
+
+- Her hikayeye en az bir Story Type atanır.
+- Bir hikaye **birden çok tipe** dahil olabilir. İlk yazılan tip, bölümün **baskın/birincil
+  temasıdır**; sonrakiler ikincil temalardır.
+- Bu tipler yeni içerik (bölüm, Opa's Storytime, Brave Little Days vb.) planlanırken tematik
+  denge ve playlist gruplaması için kullanılır.
+
+### Tip Tanımları
+
+| Tip           | Anlam                                                                       | Örnek bölüm |
+|---------------|-----------------------------------------------------------------------------|-------------|
+| 🎓 Learning   | Kavram ve merak: renk, şekil, sayı, "neden/nasıl" bilgi keşfi               | S01E05 Colours Everywhere, S01E07 The Round Stone |
+| 💛 Feelings   | Duygu tanıma ve düzenleme: uyku, utangaçlık, sabır, sakinlik                | S01E04 Mimi's Big Yawn, S01E09 The Quiet Place |
+| 🤝 Social     | Paylaşma, sıra bekleme, nezaket, arkadaşlık, birlikte olmak                 | S01E10 My Turn, Your Turn, S01E26 Goodbye, See You Soon |
+| 🙌 Helper     | Yardım etme, işbirliği, birlikte iş başarma                                 | S01E08 Building Together, S01E18 The Garden Helper |
+| 🌿 Nature     | Doğa, hava, mevsim, bitki/hayvan, dünya ve mekan keşfi                      | S01E06 The Soft Wind, S01E15 Butterfly Journey |
+| 🎨 Creativity | Sanat, müzik, renk-boya, bir şey üretme                                      | S01E17 Painting Day, S01E24 Music Trees |
+| 🌙 Bedtime    | Uyku, gece, sakin kapanış rutini                                            | S01E11 Goodnight Tree, S01E23 Starlight Night |
+| 🌟 Life Skills | Günlük hayat becerileri, öz-bakım rutinleri, korkuyla güvenli baş etme (dişçi, doktor, banyo, diş fırçalama, sebze yeme vb.) | BLD-EP01 Kiko's Happy Smile, BLD-EP02 Brush, Brush, Sparkle! |
+
+> 🌟 Life Skills tipi özellikle **Brave Little Days** alt-serisinin çekirdek temasıdır
+> (bkz. `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`). Diğer tiplerle birlikte
+> kullanılabilir (ör. 🌟 Life Skills + 💛 Feelings + 🙌 Helper).
+
+### İki Eksenin İlişkisi
+
+- **Episode Type (§6)** üretim/karakter dengesi için kullanılır (kim lider, ekran süresi payı).
+- **Story Type (§6a)** tematik içerik dengesi ve YouTube playlist gruplaması için kullanılır.
+- Örnek: *S01E18 The Garden Helper* — Episode Type = Discovery (Kiko lider), Story Type =
+  🙌 Helper + 🌿 Nature.
+
+Bölüm bazında güncel Story Type atamaları ve tematik dağılım tablosu için tek takip kaynağı:
+`08-PRODUCTION/EPISODE_TRACKER.md` → "Story Type / Hikaye Tipi (Tematik)" bölümü.
+
+---
+
 ## 7. Main Character Role
 
 ### Personality

@@ -8,7 +8,7 @@
 
 **Kamera:** 35mm wide → Medium · **Mekan:** Central Square · **Karakter:** Noah, Arda
 
-**Aksiyon:** Central Square ve yerdeki 6 renkli blok görünür. Noah blokları inceler. Arda yuvarlak yoldan gelir, yanına oturur. Bloklara birlikte bakarlar. (Tüm objeler burada seed edilir.)
+**Aksiyon:** Central Square ve yerdeki 8 renkli blok görünür. Noah blokları inceler. Arda yuvarlak yoldan gelir, yanına oturur. Bloklara birlikte bakarlar. (Tüm objeler burada seed edilir.)
 
 **Dialogue:**
 ```
@@ -54,7 +54,7 @@ Arda: I am careful!
 
 **Kamera:** Medium (pull-back yok) · **Mekan:** Central Square · **Karakter:** Noah, Arda
 
-**Aksiyon:** Kule yumuşakça devrilir; aynı 6 blok nazikçe yere dağılır. İkisi yumuşak bir şaşkınlıkla bakar (güvenli, komik-tatlı).
+**Aksiyon:** Kule yumuşakça devrilir; aynı 8 blok nazikçe yere dağılır. İkisi yumuşak bir şaşkınlıkla bakar (güvenli, komik-tatlı).
 
 **Dialogue:**
 ```

@@ -4,35 +4,40 @@
 
 ## Durum Tablosu
 
-| Bölüm    | Başlık                    | Karakter                         | Mekan                                                                             | Durum       | Sahne Süresi / Toplam                               |
-|----------|---------------------------|----------------------------------|-----------------------------------------------------------------------------------|-------------|-----------------------------------------------------|
-| S01E01   | Hello Pompom Hills        | Kiko, Mimi, Opa + 10 komşu       | Central Square                                                                    | 🟡 Yazıldı  | 15 sahne; 01-03: 15-60 sn, 04-15: 15 sn; hedef 7 dk |
-| S01E02-A | Kiko's Home Tour          | Kiko                             | Kiko's Home (Front Garden → Interior)                                             | 🟢 Üretildi | 4 kısa sahne: 0-4 / 4-14 / 14-22 / 22-24 sn         |
-| S01E02-B | Bounce, Bounce, Kiko!     | Kiko, Mimi, Opa                  | Flower Hill — Home Cluster Zone → Kiko's Home → Butterfly Meadow → Central Square | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E03   | The Little Flower         | Kiko, Mimi, Opa                  | Tillo's Garden                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E04   | Mimi's Big Yawn           | Kiko, Mimi                       | Mimi's Burrow (Exterior → Interior)                                               | 🟢 Üretildi | 8 sahne × 15 sn = 120 sn                            |
-| S01E05   | Colours Everywhere        | Kiko, Mimi                       | Central Square                                                                    | 🟢 Üretildi | 4 sahne × 15 sn = 60 sn + 4 sn micro-opening        |
-| S01E06   | The Soft Wind             | Kiko, Mimi                       | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E07   | The Round Stone           | Luca, Kiko                       | Stone Hill                                                                        | 🟢 Üretildi | 6 sahne × 15 sn = 90 sn + 4 sn micro-opening        |
-| S01E08   | Building Together         | Noah, Arda                       | Central Square                                                                    | 🟡 Yazıldı  | 8 sahne × 15 sn = 120 sn                            |
-| S01E09   | The Quiet Place           | Kiko, Opa                        | Opa's Tree                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E10   | My Turn, Your Turn        | Luca, Noah                       | Central Square                                                                    | 🟢 Üretildi | 6 sahne × 15 sn = 90 sn                             |
-| S01E11   | Goodnight Tree            | Arda, Opa                        | Opa's Tree                                                                        | 🟢 Üretildi | 4 sahne × 15 sn = 60 sn                             |
-| S01E12   | Why Do Leaves Fall        | Kiko, Opa                        | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E13   | Where Does Rain Come From | Luca, Mimi                       | Cloud Hill                                                                        | 🟡 Yazıldı  | 6 sahne × 15 sn = 90 sn                             |
-| S01E14   | What Stars Say            | Luca, Opa                        | Opa's Tree (Night)                                                                | 🟢 Üretildi | 4 sahne × 15 sn = 60 sn                             |
-| S01E15   | Butterfly Journey         | Luca, Kiko                       | Butterfly Meadow                                                                  | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E16   | The Shy Squirrel          | Aiko, Kiko                       | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E17   | Painting Day              | Sofia, Kiko                      | Art Corner                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E18   | The Garden Helper         | Tillo, Kiko                      | Tillo's Garden                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E19   | The Quiet Cat             | Mirnik, Kiko                     | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E20   | The Stream Singer         | Mimo, Kiko                       | Rainbow Creek                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E21   | The Crystal Cave          | Luca, Kiko                       | Stone Hill                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E22   | Rainbow Wishes            | Kiko, Mimi                       | Rainbow Bridge                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E23   | Starlight Night           | Kiko, Opa                        | Central Square (Night)                                                            | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E24   | Music Trees               | Noah, Arda                       | Music Hill                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E25   | Colorful Flowers          | Sofia, Kiko                      | Painting Garden                                                                   | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
-| S01E26   | Goodbye, See You Soon     | Kiko, Mimi, Opa + tüm arkadaşlar | Central Square                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+> `Tip` = hikayenin tematik/işlevsel türü (aşağıdaki [Story Type / Hikaye Tipi](#story-type--hikaye-tipi-tematik) tablosu).
+> Bir hikaye birden çok tipe dahil olabilir. Bu, `00-CORE/SERIES_STRUCTURE.md` §6'daki
+> karakter-liderliği eksenli "Episode Types" (Discovery / Animal Friend / Guide / World)
+> sınıflamasından **farklı ve ona ek** bir eksendir.
+
+| Bölüm    | Başlık                    | Tip                    | Karakter                         | Mekan                                                                             | Durum       | Sahne Süresi / Toplam                               |
+|----------|---------------------------|------------------------|----------------------------------|-----------------------------------------------------------------------------------|-------------|-----------------------------------------------------|
+| S01E01   | Hello Pompom Hills        | 🤝 Social, 🌿 Nature   | Kiko, Mimi, Opa + 10 komşu       | Central Square                                                                    | 🟡 Yazıldı  | 15 sahne; 01-03: 15-60 sn, 04-15: 15 sn; hedef 7 dk |
+| S01E02-A | Kiko's Home Tour          | 🌿 Nature              | Kiko                             | Kiko's Home (Front Garden → Interior)                                             | 🟢 Üretildi | 4 kısa sahne: 0-4 / 4-14 / 14-22 / 22-24 sn         |
+| S01E02-B | Bounce, Bounce, Kiko!     | 🤝 Social, 💛 Feelings | Kiko, Mimi, Opa                  | Flower Hill — Home Cluster Zone → Kiko's Home → Butterfly Meadow → Central Square | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E03   | The Little Flower         | 🌿 Nature, 💛 Feelings | Kiko, Mimi, Opa                  | Tillo's Garden                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E04   | Mimi's Big Yawn           | 💛 Feelings, 🌙 Bedtime | Kiko, Mimi                       | Mimi's Burrow (Exterior → Interior)                                               | 🟢 Üretildi | 8 sahne × 15 sn = 120 sn                            |
+| S01E05   | Colours Everywhere        | 🎓 Learning            | Kiko, Mimi                       | Central Square                                                                    | 🟢 Üretildi | 4 sahne × 15 sn = 60 sn + 4 sn micro-opening        |
+| S01E06   | The Soft Wind             | 🌿 Nature              | Kiko, Mimi                       | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E07   | The Round Stone           | 🎓 Learning, 🌿 Nature | Luca, Kiko                       | Stone Hill                                                                        | 🟢 Üretildi | 6 sahne × 15 sn = 90 sn + 4 sn micro-opening        |
+| S01E08   | Building Together         | 🙌 Helper, 🤝 Social   | Noah, Arda                       | Central Square                                                                    | 🟡 Yazıldı  | 8 sahne × 15 sn = 120 sn                            |
+| S01E09   | The Quiet Place           | 💛 Feelings            | Kiko, Opa                        | Opa's Tree                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E10   | My Turn, Your Turn        | 🤝 Social              | Luca, Noah                       | Central Square                                                                    | 🟢 Üretildi | 6 sahne × 15 sn = 90 sn                             |
+| S01E11   | Goodnight Tree            | 🌙 Bedtime             | Arda, Opa                        | Opa's Tree                                                                        | 🟢 Üretildi | 4 sahne × 15 sn = 60 sn                             |
+| S01E12   | Why Do Leaves Fall        | 🎓 Learning, 🌿 Nature | Kiko, Opa                        | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E13   | Where Does Rain Come From | 🎓 Learning, 🌿 Nature | Luca, Mimi                       | Cloud Hill                                                                        | 🟡 Yazıldı  | 6 sahne × 15 sn = 90 sn                             |
+| S01E14   | What Stars Say            | 🌙 Bedtime, 🌿 Nature  | Luca, Opa                        | Opa's Tree (Night)                                                                | 🟢 Üretildi | 4 sahne × 15 sn = 60 sn                             |
+| S01E15   | Butterfly Journey         | 🌿 Nature              | Luca, Kiko                       | Butterfly Meadow                                                                  | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E16   | The Shy Squirrel          | 💛 Feelings, 🤝 Social | Aiko, Kiko                       | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E17   | Painting Day              | 🎨 Creativity          | Sofia, Kiko                      | Art Corner                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E18   | The Garden Helper         | 🙌 Helper, 🌿 Nature   | Tillo, Kiko                      | Tillo's Garden                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E19   | The Quiet Cat             | 💛 Feelings, 🤝 Social | Mirnik, Kiko                     | Little Forest                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E20   | The Stream Singer         | 🎨 Creativity, 🌿 Nature | Mimo, Kiko                       | Rainbow Creek                                                                     | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E21   | The Crystal Cave          | 🌿 Nature, 🎓 Learning | Luca, Kiko                       | Stone Hill                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E22   | Rainbow Wishes            | 🌿 Nature, 💛 Feelings | Kiko, Mimi                       | Rainbow Bridge                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E23   | Starlight Night           | 🌙 Bedtime, 🌿 Nature  | Kiko, Opa                        | Central Square (Night)                                                            | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E24   | Music Trees               | 🎨 Creativity, 🌿 Nature | Noah, Arda                       | Music Hill                                                                        | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E25   | Colorful Flowers          | 🎨 Creativity, 🌿 Nature | Sofia, Kiko                      | Painting Garden                                                                   | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
+| S01E26   | Goodbye, See You Soon     | 🤝 Social              | Kiko, Mimi, Opa + tüm arkadaşlar | Central Square                                                                    | 🟡 Yazıldı  | 4 sahne × 15 sn = 60 sn                             |
 
 ---
 
@@ -42,13 +47,70 @@
 > takip edilir. Bölüm paketleri world-based klasörlerde mevcut, ancak render edilmiş
 > video export dosyası bulunmadı.
 
-| Story ID           | Başlık                         | Karakter        | Mekan                                           | Durum      | Paket Süresi / Sahne                        | Video Export |
-|--------------------|--------------------------------|-----------------|-------------------------------------------------|------------|---------------------------------------------|--------------|
-| OPA-STORYTIME-EP01 | The Little Cloud That Waited   | Opa, Luca, Mimi | Learning Room — Reading Corner (indoor)         | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
-| OPA-STORYTIME-EP02 | The Little Seed That Listened  | Opa, Kiko, Mimi | Kiko's Home — Reading Corner (indoor)           | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
-| OPA-STORYTIME-EP03 | The Star That Shared Its Light | Opa, Luca, Noah | Opa's Tree (night)                              | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
-| OPA-STORYTIME-EP04 | The Sleepy Leaf                | Opa, Kiko, Noah | Central Square — Outdoor Story Blanket (sunset) | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
-| OPA-STORYTIME-EP05 | The Quiet Bird                 | Opa, Luca, Mimi | Learning Room — Reading Corner (rainy day)      | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| Story ID           | Başlık                         | Tip                    | Karakter        | Mekan                                           | Durum      | Paket Süresi / Sahne                        | Video Export |
+|--------------------|--------------------------------|------------------------|-----------------|-------------------------------------------------|------------|---------------------------------------------|--------------|
+| OPA-STORYTIME-EP01 | The Little Cloud That Waited   | 💛 Feelings, 🙌 Helper | Opa, Luca, Mimi | Learning Room — Reading Corner (indoor)         | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP02 | The Little Seed That Listened  | 🎓 Learning, 🌿 Nature | Opa, Kiko, Mimi | Kiko's Home — Reading Corner (indoor)           | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP03 | The Star That Shared Its Light | 🤝 Social              | Opa, Luca, Noah | Opa's Tree (night)                              | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP04 | The Sleepy Leaf                | 🌙 Bedtime, 💛 Feelings | Opa, Kiko, Noah | Central Square — Outdoor Story Blanket (sunset) | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+| OPA-STORYTIME-EP05 | The Quiet Bird                 | 💛 Feelings, 🎓 Learning | Opa, Luca, Mimi | Learning Room — Reading Corner (rainy day)      | 🟡 Yazıldı | Package overview: 20 sahne × 15 sn = 300 sn | ❌ Yok        |
+
+---
+
+## Brave Little Days Sub-Series Takibi
+
+> Bu alt-seri normal `S01E##` numaralandırmasına dahil değildir; kendi playlist'iyle
+> (`Brave Little Days | Gentle Everyday Skills`) takip edilir. Günlük hayat becerileri +
+> korkuyla baş etme temalı öğretici bölümlerdir. Format: `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`.
+> Seri-seviyesi dosyalar: `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/`.
+
+| Story ID | Başlık | Tip | Karakterler | Mekan | Tema | Durum | Süre / Sahne | Video Export |
+|----------|--------|-----|-------------|-------|------|-------|--------------|--------------|
+| BLD-EP01 | Kiko's Happy Smile | 🌟 Life Skills, 💛 Feelings, 🙌 Helper | Kiko, Mimi, Nella | Central Square — Tooth Helper Corner | Dişçiden korkmamak / yardım almak | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+| BLD-EP02 | Brush, Brush, Sparkle! | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Washing Corner | Diş fırçalama / günlük bakım rutini | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+| BLD-EP03 | Kiko's Check-Up Day | 🌟 Life Skills, 💛 Feelings, 🙌 Helper | Kiko, Mimi, Remi | Central Square — Care Corner | Doktor/check-up korkusu / yardım almak | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+| BLD-EP04 | The Cozy Dark | 💛 Feelings, 🌟 Life Skills | Kiko, Opa (+Mimi) | Kiko's Home — Sleeping Corner (gece) | Karanlık korkusu / güven | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+| BLD-EP05 | Wash, Wash, Bubbles! | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Washing Corner | El yıkama / günlük hijyen | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+
+Paket yolları:
+- `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP01_KIKOS_HAPPY_SMILE/`
+- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP02_BRUSH_BRUSH_SPARKLE/`
+- `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP03_KIKOS_CHECK_UP_DAY/`
+- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP04_THE_COZY_DARK/`
+- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP05_WASH_WASH_BUBBLES/`
+
+> Yeni Brave Little Days helper karakterleri: **Nella** (Tooth Helper, `01-CHARACTERS/14-nella.md`),
+> **Remi** (Care Helper, `01-CHARACTERS/15-remi.md`).
+
+---
+
+## Story Type / Hikaye Tipi (Tematik)
+
+> **Tip tanımlarının tek kaynağı:** `00-CORE/SERIES_STRUCTURE.md` §6a "Story Types (Thematic Axis)".
+> Bu bölüm tanımları tekrarlamaz; sadece bölüm bazında **atamaları** ve **tematik dağılımı** takip eder.
+>
+> Kısaca: Story Type, hikayenin **ne hakkında olduğunu / çocuğa hangi işlevi gördüğünü** anlatan
+> tematik bir eksendir. Bir hikaye birden çok tipe dahil olabilir (tabloda virgülle ayrılır);
+> ilk yazılan tip baskın/birincil temadır. Bu eksen, `SERIES_STRUCTURE.md` §6'daki
+> karakter-liderliği eksenli "Episode Types" sınıflamasından farklıdır.
+>
+> Tipler: 🎓 Learning · 💛 Feelings · 🤝 Social · 🙌 Helper · 🌿 Nature · 🎨 Creativity · 🌙 Bedtime · 🌟 Life Skills
+> (anlamları için bkz. `SERIES_STRUCTURE.md` §6a). 🌟 Life Skills tipi özellikle Brave Little Days
+> alt-serisinin çekirdek temasıdır.
+
+### Tip Dağılımı (Sezon 1 ana tablo)
+
+| Tip           | Bölüm Sayısı | Bölümler                                                                       |
+|---------------|--------------|--------------------------------------------------------------------------------|
+| 🌿 Nature     | 16           | S01E01, E02-A, E03, E06, E07, E12, E13, E14, E15, E18, E20, E21, E22, E23, E24, E25 |
+| 💛 Feelings   | 7            | S01E02-B, E03, E04, E09, E16, E19, E22                                         |
+| 🤝 Social     | 7            | S01E01, E02-B, E08, E10, E16, E19, E26                                         |
+| 🎓 Learning   | 5            | S01E05, E07, E12, E13, E21                                                     |
+| 🎨 Creativity | 4            | S01E17, E20, E24, E25                                                          |
+| 🌙 Bedtime    | 4            | S01E04, E11, E14, E23                                                          |
+| 🙌 Helper     | 2            | S01E08, E18                                                                    |
+
+> Not: Bir bölüm birden çok tipe sayıldığı için toplam, bölüm sayısından fazladır.
 
 ---
 
@@ -185,7 +247,7 @@
 ---
 
 *Bu dosya Sezon 1 bölüm takibi için tek kaynaktır.*
-*Son güncelleme: 4 Temmuz 2026*
+*Son güncelleme: 5 Temmuz 2026 — Tematik `Tip` (Story Type) kolonu ve tip lejantı eklendi.*
 
 ---
 

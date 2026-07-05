@@ -23,14 +23,15 @@ Kiko = 100 birim (1.00 m)
 | Noah | TBD | TBD | Big Pompom Tree yakınında, blokları dizer |
 | Arda | TBD | TBD | Yuvarlak yoldan gelir, birlikte inşa eder |
 
-### Prop Konumları — Bloklar (tek movable prop, 6 blok)
+### Prop Konumları — Bloklar (tek movable prop, 8 blok)
 
 | Prop | Başlangıç | Bitiş | Durum |
 | --- | --- | --- | --- |
-| 2 large flat block | TBD | TBD | Taban; big-block-first planında kullanılır |
-| 4 medium round/flat block | TBD | TBD | Üst kısım; dizilir → devrilir → yeniden dizilir |
+| 2 large flat base block | TBD | TBD | Taban; big-block-first planında kullanılır |
+| 3 medium flat/rounded block | TBD | TBD | Üst kısım; dizilir → devrilir → yeniden dizilir |
+| 3 small round/soft block | TBD | TBD | Üst katmanlar; dizilir → devrilir → yeniden dizilir |
 
-> Tower yüksekliği her zaman ≤ çocukların baş hizası. Blok sayısı tüm bölümde sabit: 6.
+> Tower yüksekliği her zaman ≤ çocukların baş hizası. Blok sayısı tüm bölümde sabit: 8.
 
 ## Kamera (shot bazında)
 
@@ -49,11 +50,11 @@ Kiko = 100 birim (1.00 m)
 
 | Shot | Başlangıç (stacked / yükseklik) | Bitiş (stacked / yükseklik) |
 | --- | --- | --- |
-| 03 | 0 / yerde | ~4 / sallanan, göğüs hizası |
-| 04 | ~4 | 0 stacked / 6 dağılmış (aynı 6 blok) |
-| 06 | 6 dağılmış | 6 dağılmış (1 büyük blok taban olarak yerleşti) |
-| 07 | 1 taban | ~5 / yükselen |
-| 08 | ~5–6 | tam kule ayakta, ≤ baş hizası |
+| 03 | 0 / yerde | ~4–5 / sallanan, göğüs hizası |
+| 04 | ~4–5 | 0 stacked / 8 dağılmış (aynı 8 blok) |
+| 06 | 8 dağılmış | 1 büyük blok taban olarak yerleşti (7 yerde) |
+| 07 | 1 taban | ~6 / yükselen |
+| 08 | ~6 | 7–8 bloklu kule ayakta, ≤ baş hizası |
 
 ## Hava Kilidi
 

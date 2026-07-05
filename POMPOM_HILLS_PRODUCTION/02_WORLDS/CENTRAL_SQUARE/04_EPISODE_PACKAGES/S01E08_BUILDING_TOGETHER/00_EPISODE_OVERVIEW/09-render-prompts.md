@@ -9,7 +9,7 @@
 ## Shot 01 — Blocks Are Found (MASTER SETUP)
 
 ```text
-Noah and Arda at Central Square in warm morning light, near the Big Pompom Tree. On the ground: exactly six colourful rounded building blocks — two large flat blocks and four medium round-and-flat blocks in soft pastel colours (coral, yellow, blue, green). Noah crouches and arranges the blocks; Arda arrives from a rounded path at the frame edge and joins him. Child-sized, Arda a little smaller than Noah. Toy-set preschool look, no other characters, {style} {camera} {lighting}
+Noah and Arda at Central Square in warm morning light, near the Big Pompom Tree. On the ground: exactly eight colourful rounded building blocks — two large flat base blocks, three medium flat/rounded blocks and three small round/soft blocks in soft pastel colours (coral, yellow, blue, green). Noah crouches and arranges the blocks; Arda arrives from a rounded path at the frame edge and joins him. Child-sized, Arda a little smaller than Noah. Toy-set preschool look, no other characters, {style} {camera} {lighting}
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
@@ -17,7 +17,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 ## Shot 02 — Choosing Shapes
 
 ```text
-Use Shot 01 exported final frame as @image1. Noah and Arda kneeling by the six blocks, warm morning light. Arda lifts a round block questioningly; Noah shows a large flat block as the base. Calm cooperative planning, no other characters, {style} {camera} {lighting}
+Use Shot 01 exported final frame as @image1. Noah and Arda kneeling by the eight blocks, warm morning light. Arda lifts a round block questioningly; Noah shows a large flat block as the base. Calm cooperative planning, no other characters, {style} {camera} {lighting}
 
 Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
 ```
@@ -33,7 +33,7 @@ Match lighting and colour grading exactly from @image1. No on-screen text, no su
 ## Shot 04 — Tower Falls
 
 ```text
-Use Shot 03 exported final frame as @image1. The small tower gently tips and softly tumbles; the same six blocks slide and settle on the ground in a soft, harmless, almost funny way — nothing loud or fast. Noah and Arda lean back with soft surprised faces, safe. Same six blocks all present. No pull-back, no other characters, {style} {camera} {lighting}
+Use Shot 03 exported final frame as @image1. The small tower gently tips and softly tumbles; the same eight blocks slide and settle on the ground in a soft, harmless, almost funny way — nothing loud or fast. Noah and Arda lean back with soft surprised faces, safe. Same eight blocks all present. No pull-back, no other characters, {style} {camera} {lighting}
 
 Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
 ```
@@ -65,7 +65,7 @@ Match lighting and colour grading exactly from @image1. No on-screen text, no su
 ## Shot 08 — Tower Stands
 
 ```text
-Use Shot 07 exported final frame as @image1. Noah and Arda beside their finished tower of six blocks standing steadily (no taller than the children), happy and proud, a gentle celebration (soft high-five or clap). Warm morning daylight — do not shift to golden/sunset. No pull-back, no other characters, {style} {camera} {lighting}
+Use Shot 07 exported final frame as @image1. Noah and Arda beside their finished tower of seven or eight blocks standing steadily (no taller than the children), happy and proud, a gentle celebration (soft high-five or clap). Warm morning daylight — do not shift to golden/sunset. No pull-back, no other characters, {style} {camera} {lighting}
 
 Match lighting and colour grading exactly from @image1. No on-screen text, no subtitles.
 ```

@@ -17,6 +17,12 @@
 | `11-tillo.md` | Tillo | Rabbit | Gardener of Pompom Hills | Garden Green | "Let's grow something beautiful!" |
 | `12-mirnik.md` | Mirnik | Cat | Playful cat | Warm Orange | "Hehe... you can't find me!" |
 | `13-mimo.md` | Mimo | Turtle | Kind young turtle / slow problem solver | Soft Leaf Green | "Let's take it slow and steady!" |
+| `14-nella.md` | Nella | Beaver | Tooth Helper / gentle health helper (Brave Little Days) | Chestnut Brown | "Let's count your smile!" |
+| `15-remi.md` | Remi | Bear | Care Helper / gentle check-up helper (Brave Little Days) | Honey Tan | "All strong and healthy!" |
+
+> **Nella (v1.0)** ve **Remi (v1.0)** çekirdek roster'a değil, **Brave Little Days** life-skills
+> alt-serisine aittir; sağlık/bakım temalı bölümlerde tekrar kullanılabilen güvenli
+> yetişkin-yardımcılardır. Bkz. `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`.
 
 ---
 
@@ -49,6 +55,8 @@
 | Tillo | Low | Medium | High | Medium | Gardening and patience |
 | Mirnik | Medium | High | Low | Low | Soft mischief |
 | Mimo | Low | Medium | High | Low | Slow problem-solving |
+| Nella | Low | Low | High | Medium | Gentle health helper (Brave Little Days) |
+| Remi | Low | Low | High | Medium | Gentle care/check-up helper (Brave Little Days) |
 
 ---
 
@@ -69,6 +77,8 @@
 | Gardener | Tillo | "Let's grow something beautiful!" |
 | Playful Surprise | Mirnik | "Hehe... you can't find me!" |
 | Slow Solver | Mimo | "Let's take it slow and steady!" |
+| Tooth Helper | Nella | "Let's count your smile!" |
+| Care Helper | Remi | "All strong and healthy!" |
 
 ---
 
@@ -112,3 +122,9 @@
 
 ### Mimo
 "A kind young turtle with soft leaf green skin, warm brown eyes, olive-brown shell, cream plastron, orange scarf with green leaf pendant, slow problem solver personality, soft toy-like appearance, Pompom Hills world"
+
+### Nella
+"A gentle beaver tooth helper with round soft chestnut-brown fur, cream belly, big kind brown eyes, small round soft glasses, two small friendly rounded front teeth, warm calm smile, soft mint-green helper apron, holding a small round tooth mirror, soft toy-like appearance, Pompom Hills world"
+
+### Remi
+"A gentle bear care helper with big round honey-tan fur, cream belly, big kind brown eyes, warm calm smile, soft blue care scarf, holding a friendly rounded soft-ended stethoscope, soft toy-like appearance, Pompom Hills world"

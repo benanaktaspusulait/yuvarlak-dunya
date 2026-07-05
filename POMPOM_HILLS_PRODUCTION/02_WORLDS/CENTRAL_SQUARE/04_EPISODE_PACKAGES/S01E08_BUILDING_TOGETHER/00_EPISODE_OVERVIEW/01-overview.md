@@ -59,8 +59,8 @@ The building blocks are the **only** movable prop in this episode.
 
 | Attribute | Value |
 |---|---|
-| Block set | **6 blocks, fixed count** for the whole episode |
-| Composition | 2 large flat blocks (stable base) + 4 medium round/flat blocks (upper stack) |
+| Block set | **8 blocks, fixed count** for the whole episode |
+| Composition | 2 large flat base blocks + 3 medium flat/rounded blocks + 3 small round/soft blocks |
 | Colours | Pastel Pompom palette (coral, yellow, blue, green); stable across all shots |
 | Tower height ceiling | **≤ the children's chest-to-head level** (taller requires explicit approval) |
 | Movability | Only characters move individual blocks during building; blocks never spawn, vanish, morph, duplicate, or transform |
@@ -80,11 +80,11 @@ morphing blocks, floating blocks
 
 | Shot | Start (stacked / height) | End (stacked / height) |
 |---|---|---|
-| 03 First attempt | 0 / ground | ~4 / wobbly, chest-high |
-| 04 Tower falls | ~4 | 0 stacked / 6 scattered (same 6 blocks) |
-| 06 New plan | 6 scattered | 6 scattered (1 big block placed as base) |
-| 07 Together build | 1 base | ~5 / rising |
-| 08 Tower stands | ~5–6 | full tower standing, ≤ head-high |
+| 03 First attempt | 0 / ground | ~4–5 / wobbly, chest-high |
+| 04 Tower falls | ~4–5 | 0 stacked / 8 scattered (same 8 blocks) |
+| 06 New plan | 8 scattered | 1 big flat block placed as base (7 on ground) |
+| 07 Together build | 1 base | ~6 / rising |
+| 08 Tower stands | ~6 | 7–8 block tower standing, ≤ head-high |
 
 ---
 
@@ -92,7 +92,7 @@ morphing blocks, floating blocks
 
 | # | Shot | Beat |
 |---|---|---|
-| 01 | Blocks Are Found | Master setup — seeds all 6 blocks + build area |
+| 01 | Blocks Are Found | Master setup — seeds all 8 blocks + build area |
 | 02 | Choosing Shapes | Plan: round vs flat |
 | 03 | First Tower Attempt | Wobbly rise, gentle tension |
 | 04 | Tower Falls | Soft fall, blocks scatter gently |

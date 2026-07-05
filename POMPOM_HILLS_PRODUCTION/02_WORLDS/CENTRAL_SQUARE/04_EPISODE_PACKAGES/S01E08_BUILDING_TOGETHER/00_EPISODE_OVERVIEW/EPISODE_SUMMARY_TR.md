@@ -10,7 +10,7 @@
 
 ### Sahne 1 — Bloklar Bulunur (Master Setup)
 
-Central Square'da büyük ponpon ağacın altında altı renkli blok duruyor.
+Central Square'da büyük ponpon ağacın altında sekiz renkli blok duruyor.
 
 Noah onları inceler. Arda yuvarlak yoldan gelir, yanına oturur.
 
@@ -40,7 +40,7 @@ Blokları dikkatlice dizerler. Kule göğüs hizasına yükselir ve sallanır.
 
 ### Sahne 4 — Kule Devrilir
 
-Kule yumuşakça devrilir. Aynı altı blok nazikçe yere dağılır. Korkutucu değil, güvenli.
+Kule yumuşakça devrilir. Aynı sekiz blok nazikçe yere dağılır. Korkutucu değil, güvenli.
 
 > **"Oh no!"**
 > **"It fell."**

@@ -18,8 +18,8 @@
 ## Shot Contract
 
 - **Role:** Teamwork made physical — one holds, one places; the tower rises again.
-- **Uses:** the 6 blocks; big flat base already placed in Shot 06.
-- **Tower ledger:** start 1 base → end ~5 stacked, rising, ≤ head.
+- **Uses:** the 8 blocks; big flat base already placed in Shot 06.
+- **Tower ledger:** start 1 base → end ~6 stacked, rising, ≤ head.
 - **Preflight status:** RISKY (tower height must stay ≤ head).
 - **Gate:** D.
 
@@ -27,7 +27,7 @@
 
 ## Continuity
 
-Continues directly from Shot 06. Same Central Square, same six blocks, same morning light. `@image1` = Shot 06 exported final frame (flat base placed).
+Continues directly from Shot 06. Same Central Square, same eight blocks, same morning light. `@image1` = Shot 06 exported final frame (flat base placed).
 
 ---
 
@@ -39,14 +39,14 @@ Use Shot 06's exported final frame as the exact first frame. Hold close to `@ima
 
 ## Background Object Lock
 
-The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 6 blocks may move.
+The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 8 blocks may move.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Noah and Arda rebuilding the tower together at Central Square, warm morning light, working as a team. Arda steadies the tower with both hands while Noah gently places each block on top, big blocks low and smaller blocks higher. They move slowly and carefully, helping each other; the tower rises steadily and stays small, no taller than the children. Focused, warm, cooperative. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
+Noah and Arda rebuilding the tower together at Central Square, warm morning light, working as a team. Arda steadies the tower with both hands while Noah gently places each block on top, big blocks low and smaller blocks higher. They move slowly and carefully, helping each other; the tower rises steadily and stays small, no taller than the children. Focused, warm, cooperative. Do not celebrate yet — the tower is not presented as finished in this shot. End with focused hope, not final success; save the proud celebration for Shot 08. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -70,8 +70,8 @@ Begin identical to `@image1`; static eye-level medium framing. Only a very subtl
 ## Dialogue
 
 ```
-Arda: You hold it.
-Noah: I've got it.
+Noah: You hold it.
+Arda: I've got it.
 ```
 
 ---
@@ -121,8 +121,8 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 Reference: 16_VIDEO_QA_SPEC.md
 
 - [ ] Character integrity/consistency/scale verified
-- [ ] Same 6 blocks; no spawn/vanish/morph/duplicate/colour change
-- [ ] **Tower height ≤ head level** (ledger: rising toward ~5 stacked)
+- [ ] Same 8 blocks; no spawn/vanish/morph/duplicate/colour change
+- [ ] **Tower height ≤ head level** (ledger: rising toward ~6 stacked)
 - [ ] Teamwork reads physically — one holds, one places
 - [ ] Camera and lighting consistent with `@image1`
 - [ ] Background stable; environment not reinterpreted

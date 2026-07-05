@@ -3,7 +3,7 @@
 > **🔒 Living World** — First validated Living World of Pompom Hills.
 > This document describes a connected living environment, not just an exterior.
 
-> **Version 3.2** — Visual Richness & World Charm pass added.
+> **Version 3.3** — Added optional Washing Corner set-piece (Brave Little Days).
 > This document is the single source of truth: creative definition and
 > production-ready specifications together. Tool-specific prompt syntax
 > (e.g. OpenArt) is not embedded here — see `Production Readiness` below.
@@ -13,7 +13,7 @@
 ```
 Environment ID: ENV-003
 File: POMPOM_HILLS_PRODUCTION/02_WORLDS/KIKOS_HOME/01_HERO_VIEW/
-Version: 3.2
+Version: 3.3
 Location: Flower Hill — Home Cluster Zone
 Type: Living World
 Status: Production Ready — In Use
@@ -894,6 +894,22 @@ house" into "the house where Kiko welcomes you in."
 A round coral-pink cottage with its white arched door open and warm light glowing,
 garden flowers blooming out front under a soft morning sun.
 
+### Optional Recurring Set-Piece — Washing Corner (Brave Little Days)
+
+Introduced in **Brave Little Days EP02 — "Brush, Brush, Sparkle!"** A small, **optional**
+washing nook inside the continuous living space (NOT a separate walled room, NOT part of
+every episode). Used only when a Brave Little Days daily-care story needs it.
+
+- Low round white sink (child chest height), rounded edges
+- Round white-framed mirror above the sink at child eye level
+- A little cup holding two small toothbrushes (coral + soft blue) and a small toothpaste tube
+- Warm evening light, coral-pink accents matching the home palette
+
+**Must stay on-canon:** all rounded/soft, pink+white toy-cottage material language — no sharp
+corners, no cold metal/glass look, no dark shadows, no clinical styling. This corner does not
+replace the Iconic Landmark (KH-DOOR-01) or change default shots.
+Reference: `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`.
+
 ### Child Recognition Test
 
 **"Kiko'nun pembe yuvarlak evi, beyaz kapılı."** ("Kiko's round pink house with the white door.")
@@ -1170,8 +1186,8 @@ If successful, this design philosophy will become the standard for future homes 
 ---
 
 *Bu belge Kiko's Home mekanı için creative referanstır.*
-*Living World Bible v3.2*
-*Son güncelleme: 4 Temmuz 2026*
+*Living World Bible v3.3*
+*Son güncelleme: 5 Temmuz 2026*
 
 ---
 
@@ -1183,3 +1199,4 @@ If successful, this design philosophy will become the standard for future homes 
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
 | 3.2 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = KH-DOOR-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk. No changes to World Identity Lock or pipeline. | — |
+| 3.3 | **Optional Set-Piece Added.** Documented the **Washing Corner** (optional, in-living-space, non-clinical) introduced in Brave Little Days EP02. Optional/opt-in only; does not change World Identity Lock, default shots, or KH-DOOR-01. | — |

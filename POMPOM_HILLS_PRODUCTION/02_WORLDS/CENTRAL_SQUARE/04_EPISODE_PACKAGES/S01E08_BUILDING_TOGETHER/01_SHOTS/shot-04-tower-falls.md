@@ -18,8 +18,8 @@
 ## Shot Contract
 
 - **Role:** Problem beat — the tower topples softly and the blocks scatter gently.
-- **Uses:** the same 6 blocks; count and identity preserved before and after the fall.
-- **Tower ledger:** start ~4 stacked → end 0 stacked / 6 scattered (the SAME 6 blocks).
+- **Uses:** the same 8 blocks; count and identity preserved before and after the fall.
+- **Tower ledger:** start ~4–5 stacked → end 0 stacked / 8 scattered (the SAME 8 blocks).
 - **Preflight status:** RISKY (fall must be soft; no block leaves/enters the set).
 - **Gate:** B.
 
@@ -27,7 +27,7 @@
 
 ## Continuity
 
-Continues directly from Shot 03. Same Central Square, same six blocks, same morning light. `@image1` = Shot 03 exported final frame (wobbly chest-high tower).
+Continues directly from Shot 03. Same Central Square, same eight blocks, same morning light. `@image1` = Shot 03 exported final frame (wobbly chest-high tower).
 
 ---
 
@@ -39,14 +39,14 @@ Use Shot 03's exported final frame as the exact first frame. Hold close to `@ima
 
 ## Background Object Lock
 
-The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 6 blocks may move.
+The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 8 blocks may move.
 
 ---
 
 ## Visual Prompt
 
 ```text
-The small block tower gently tips and softly tumbles at Central Square, warm morning light. The six colourful blocks slide and settle onto the ground in a gentle, soft, harmless way — a light, almost funny topple, nothing loud or fast. Noah and Arda lean back with soft surprised faces, safe and unhurt. The same six blocks are all still there, now resting on the ground. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
+The small block tower gently tips and softly tumbles at Central Square, warm morning light. The eight colourful blocks slide and settle onto the ground in a gentle, soft, harmless way — a light, almost funny topple, nothing loud or fast. Noah and Arda lean back with soft surprised faces, safe and unhurt. The same eight blocks are all still there, now resting on the ground. Do not make the scattered blocks look neatly arranged or reset into a clean layout — the scattered layout may be imperfect, but it must be preserved exactly for the next shot. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -121,7 +121,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 Reference: 16_VIDEO_QA_SPEC.md
 
 - [ ] Character integrity/consistency/scale verified
-- [ ] **Block count preserved** — the SAME 6 blocks before and after the fall; none leave or enter the set
+- [ ] **Block count preserved** — the SAME 8 blocks before and after the fall; none leave or enter the set
 - [ ] No block spawns/vanishes/morphs/duplicates/changes colour
 - [ ] Fall is soft, gentle, safe — not loud, fast, crashing or scary
 - [ ] Camera static (no pull-back); lighting consistent with `@image1`

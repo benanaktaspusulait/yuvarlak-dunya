@@ -18,7 +18,7 @@
 ## Shot Contract
 
 - **Role:** Emotional centre — Arda is briefly discouraged; Noah reassures him calmly.
-- **Uses:** the 6 scattered blocks from Shot 04 (positions preserved).
+- **Uses:** the 8 scattered blocks from Shot 04 (positions preserved).
 - **Preflight status:** SAFE.
 - **Gate:** C.
 
@@ -26,7 +26,7 @@
 
 ## Continuity
 
-Continues directly from Shot 04. Same Central Square, same six scattered blocks, same morning light. `@image1` = Shot 04 exported final frame. **The scattered-block positions from Shot 04 are preserved exactly** — no cleanup, no re-scatter, no new arrangement.
+Continues directly from Shot 04. Same Central Square, same eight scattered blocks, same morning light. `@image1` = Shot 04 exported final frame. **The scattered-block positions from Shot 04 are preserved exactly** — no cleanup, no re-scatter, no new arrangement.
 
 ---
 
@@ -38,14 +38,14 @@ Use Shot 04's exported final frame as the exact first frame. Hold close to `@ima
 
 ## Background Object Lock
 
-The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 6 blocks may move (and here the blocks stay where they scattered).
+The background is locked from the first frame. Maintain all visible background objects; do not remove, replace, repaint or transform any of them. Only the characters and the 8 blocks may move (and here the blocks stay where they scattered).
 
 ---
 
 ## Visual Prompt
 
 ```text
-Noah and Arda beside the six scattered blocks at Central Square, warm morning light. Arda's shoulders drop a little and he looks down, a small, gentle discouraged feeling. Noah turns to him with a warm, calm, encouraging expression and a soft reassuring gesture, as if to say it's okay, we can try again. Tender, supportive, safe — a small feeling, quickly comforted. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
+Noah and Arda beside the eight scattered blocks at Central Square, warm morning light. Arda's shoulders drop a little and he looks down, a small, gentle discouraged feeling. Noah turns to him with a warm, calm, encouraging expression and a soft reassuring gesture, as if to say it's okay, we can try again. Tender, supportive, safe — a small feeling, quickly comforted. During this shot, the blocks do not move at all. No character touches, picks up, cleans up, nudges, or rearranges any block. Only Noah and Arda's faces, heads, shoulders, and hands move gently. Big Pompom Tree behind them, no other characters, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
@@ -120,7 +120,7 @@ Reference: 16_VIDEO_QA_SPEC.md
 
 - [ ] Character integrity/consistency/scale verified
 - [ ] Scatter positions preserved exactly from Shot 04's final frame (no cleanup/re-scatter)
-- [ ] Same 6 blocks; no spawn/vanish/morph/duplicate/colour change
+- [ ] Same 8 blocks; no spawn/vanish/morph/duplicate/colour change
 - [ ] **Emotional beat reads as brief and supportive, not distressing** (no meltdown/shame)
 - [ ] Camera and lighting consistent with `@image1`
 - [ ] Background stable; environment not reinterpreted

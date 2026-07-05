@@ -30,12 +30,12 @@
 
 ---
 
-## Blocks (the only movable prop — 6 blocks)
+## Blocks (the only movable prop — 8 blocks)
 
 | Moment | Motion |
 |---|---|
 | Stacking | Blocks lift and settle gently, click softly |
-| Fall (Shot 04) | Soft, light tumble; the same 6 blocks scatter and rest on the ground |
+| Fall (Shot 04) | Soft, light tumble; the same 8 blocks scatter and rest on the ground |
 | Scatter hold (Shot 05) | Blocks stay exactly where they landed |
 
 ---
