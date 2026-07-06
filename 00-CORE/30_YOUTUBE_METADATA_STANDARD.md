@@ -5,7 +5,7 @@
 > It does NOT require rewriting existing videos unless specifically requested.
 > Every future YouTube title, description, tags, Shorts metadata and social caption should follow this document.
 
-Channel URL: https://www.youtube.com/@PompomHills
+Channel URL (reference only — do NOT paste into post/caption text, see §14): https://www.youtube.com/@PompomHills
 
 > Video-level style, pacing, hook and ending decisions (what the video itself shows) are defined in
 > `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md`. This document only covers title, description,
@@ -136,8 +136,9 @@ Every long-form video description should include:
 2. Short story summary
 3. Educational / emotional value
 4. Episode details
-5. Channel CTA
-6. Hashtags
+5. Hashtags
+
+No channel link or CTA line is included (see §14).
 
 Structure:
 
@@ -152,8 +153,6 @@ Episode: SxxExx — [Episode Title]
 Characters: [Character names]
 Location: [World / environment]
 Theme: [Sharing / colours / rain / friendship / etc.]
-
-Watch more Pompom Hills here: https://www.youtube.com/@PompomHills
 
 [Hashtags]
 ```
@@ -201,8 +200,6 @@ Characters: [Character Names]
 Location: [World Name]
 Theme: [Theme]
 
-Watch more Pompom Hills: https://www.youtube.com/@PompomHills
-
 #PompomHills #PreschoolAnimation #KidsAnimation
 ```
 
@@ -214,8 +211,6 @@ Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 [Character] and [Character] [simple action] in this gentle Pompom Hills preschool Short.
 
 A warm moment about [theme].
-
-Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 
 #PompomHills #Shorts #PreschoolAnimation
 ```
@@ -312,7 +307,8 @@ Description must include:
 - character name
 - simple personality trait
 - what children can expect from this character
-- Pompom Hills channel link
+
+No channel link or CTA line (see §14).
 
 Example structure:
 
@@ -320,8 +316,6 @@ Example structure:
 Meet [Character] from Pompom Hills!
 
 [Character] is [personality trait]. In this gentle preschool animation, children can get to know [him/her/them] through a warm first moment.
-
-Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 ```
 
 Tags should include:
@@ -351,7 +345,8 @@ Description must include:
 - emotional purpose
 - what children can do there
 - connected characters if relevant
-- Pompom Hills channel link
+
+No channel link or CTA line (see §14).
 
 Example:
 
@@ -359,8 +354,6 @@ Example:
 Welcome to Cloud Hill!
 
 Cloud Hill is a peaceful place in Pompom Hills where children look up, wonder, and watch the clouds. In this gentle preschool animation, [character] discovers [simple idea].
-
-Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 ```
 
 ---
@@ -410,48 +403,50 @@ Example Shorts from one episode:
 
 ---
 
-## 14. CTA Rules
+## 14. CTA and Link Rules
 
-Use soft CTA only.
+Pompom Hills post metadata uses **no call-to-action asks and no external links**. This applies
+to every Short, long video, and social post (YouTube, Facebook, Instagram).
 
-Allowed:
+Do NOT include in any title, description, or caption:
 
-```text
-Watch more Pompom Hills: https://www.youtube.com/@PompomHills
+- YouTube links or channel URLs (no `https://www.youtube.com/@PompomHills`, no video URLs)
+- "link in bio" or any external link / redirect URL
+- subscribe requests of any kind ("Subscribe", "Subscribe for more", "SUBSCRIBE NOW")
+- like / share / comment / follow requests ("smash like", "don't forget to like", "follow us")
+- "Must subscribe", "You must watch", "Viral", "Best cartoon" and similar hype
 
-Join Kiko, Noah, Mimi and friends for more gentle preschool stories.
+Post text ends naturally with the warm caption and hashtags only.
 
-Subscribe for more warm Pompom Hills adventures.
-```
+**Allowed (optional):** a gentle brand-voice closing line with **no link**, e.g. "Sweet dreams
+from Pompom Hills." A soft, linkless content pointer such as "watch the full episode on our
+channel" is permitted but not required — just never attach a link and never add a
+subscribe/like/follow ask to it.
 
-Avoid aggressive CTA:
-- SUBSCRIBE NOW!!!
-- Don't forget to smash like
-- You must watch
-- Viral
-- Best cartoon
+> Note: The channel URL at the top of this document is reference information only. It must not
+> be pasted into post/caption text.
+>
+> Video-level ending rules are separate: inside-video subscribe/like language is already
+> forbidden by `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §9a.
 
 ---
 
-## 15. Facebook / Instagram Cross-Promotion
+## 15. Facebook / Instagram Captions
 
-When preparing Facebook or Instagram captions to send viewers to YouTube, use this structure:
+Facebook and Instagram captions are self-contained. They do **not** link out to YouTube and do
+**not** ask for subscribe / like / follow / share (see §14).
 
 ```text
-Pompom Hills is growing on YouTube! 🌟
+A gentle preschool moment from Pompom Hills. 🌟
 
-Kiko, Noah, Mimi and friends are now sharing longer preschool stories on our YouTube channel.
-
-Children can enjoy warm stories about sharing, friendship, colours, nature and small everyday discoveries.
-
-Watch more here: https://www.youtube.com/@PompomHills
+Kiko, Noah, Mimi and friends share warm little stories about friendship, colours, nature and small everyday discoveries.
 
 #PompomHills #PreschoolAnimation #KidsAnimation
 ```
 
-Do not use YouTube Studio links.
-
-Only use public YouTube links: `https://www.youtube.com/@PompomHills` or public video URLs.
+- Do not include any YouTube link (no channel URL, no video URL, no "link in bio", no "watch more" redirect).
+- Do not include subscribe, like, follow or share requests.
+- Keep the caption warm and complete on its own, ending with hashtags.
 
 ---
 
@@ -480,21 +475,11 @@ Playlist: Opa's Storytime | Gentle Preschool Stories
 Characters: Opa, [child characters]
 Location: [reading / story location]
 Theme: [theme]
-
-Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 ```
 
-**Playlist CTA:** When a public playlist URL exists, use it in place of the channel URL:
+No channel link, playlist link, or CTA line is included (see §14).
 
-```text
-Watch more Opa's Storytime episodes here: https://www.youtube.com/@PompomHills
-```
-
-**Shorts naming:** Every Short title must include either "Opa's Storytime" or "Opa" (see `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §15). Every Short description must include:
-
-```text
-Watch the full Opa's Storytime series: https://www.youtube.com/@PompomHills
-```
+**Shorts naming:** Every Short title must include either "Opa's Storytime" or "Opa" (see `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` §15). Every Short description must NOT include a YouTube/playlist link or a subscribe/like/follow CTA (§14).
 
 **Tags:** add `Opa's Storytime`, `Opa`, plus the two required child character tags and the location tag from the Core Tag Bank (§8).
 
@@ -535,11 +520,10 @@ Before finalizing metadata, check:
 - [ ] Title includes clear story or learning value.
 - [ ] Title includes Pompom Hills when useful.
 - [ ] Description is warm and parent-friendly.
-- [ ] Description includes channel URL: https://www.youtube.com/@PompomHills
 - [ ] Tags are relevant.
 - [ ] No misleading claims.
-- [ ] No YouTube Studio links.
-- [ ] No aggressive CTA.
+- [ ] No YouTube/channel/video links or "link in bio" (§14).
+- [ ] No subscribe / like / follow / share requests (§14).
 - [ ] No excessive emojis.
 - [ ] Metadata matches the actual video content.
 - [ ] If video is a Short, title is short and hook-based.
@@ -584,4 +568,6 @@ The output must follow the Required Output Format (§17) and pass the Quality Ch
 
 *This document is the single source of truth for YouTube titles, descriptions, tags, hashtags and Shorts metadata.*
 *Source strategy: `11-DOCS/09_YOUTUBE_STRATEGY.md` — Channel Growth Decisions.*
-*Version: 1.0*
+*Version: 1.1 — 6 Temmuz 2026. Changelog: §14 rewritten — removed the requirement to include
+YouTube/channel links in Shorts and normal post text, and removed all subscribe/like/follow/share
+CTAs. Updated §4, §6, §7, §10, §11, §15, §16, §18 accordingly.*

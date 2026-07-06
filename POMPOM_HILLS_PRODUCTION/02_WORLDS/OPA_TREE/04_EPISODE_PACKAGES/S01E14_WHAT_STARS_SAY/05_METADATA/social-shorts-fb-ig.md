@@ -3,9 +3,13 @@
 > Bu dosya, S01E14 Shorts'larının **Facebook ve Instagram** sosyal medya metinlerini içerir
 > (title, description/caption, hashtag, tag). YouTube Shorts metadata için bkz.
 > `../00_EPISODE_OVERVIEW/SHORTS_PLAN.md`. Standart: `00-CORE/30_YOUTUBE_METADATA_STANDARD.md`
-> §7 (Shorts), §9 (Hashtag), §15 (Facebook / Instagram Cross-Promotion).
+> §7 (Shorts), §9 (Hashtag), §14 (CTA and Link Rules), §15 (Facebook / Instagram Captions).
 >
 > Marka sesi: sıcak, sakin, ebeveyn dostu, clickbait değil. Emoji ölçülü.
+>
+> **Kural (§14):** Post metinlerinde YouTube/kanal linki YOK, "watch more / full episode" YOK,
+> "link in bio" YOK, subscribe / like / follow / share isteği YOK. Caption sıcak bir cümle ve
+> hashtag'lerle doğal biter.
 
 ---
 
@@ -20,9 +24,8 @@
 | Shorts sayısı | 4 |
 
 **Platform notları:**
-- **Instagram:** Caption içinde tıklanabilir link çalışmaz. CTA olarak "Link in bio" kullan. Hashtag'ler caption sonunda.
-- **Facebook:** Açıklama içinde public YouTube linki kullanılabilir. YouTube Studio linki KULLANMA (§15).
-- **Handle:** IG/FB kullanıcı adları teyit edilmeli. Aşağıda `@pompomhills` placeholder olarak kullanıldı; kanal YouTube: https://www.youtube.com/@PompomHills
+- **Instagram:** Caption sıcak bir cümle + hashtag'lerle biter. Link yok, "link in bio" yok, subscribe/like isteği yok.
+- **Facebook:** Aynı — açıklamada link ve CTA yok. Caption kendi içinde tamam.
 
 ---
 
@@ -38,8 +41,6 @@
 
 A gentle bedtime moment from Pompom Hills, where wondering is always welcome.
 
-Watch the full episode: https://www.youtube.com/@PompomHills
-
 #PompomHills #PreschoolAnimation #KidsAnimation #BedtimeStory
 ```
 
@@ -47,20 +48,15 @@ Watch the full episode: https://www.youtube.com/@PompomHills
 ```text
 ✨ "What do stars say?" 🌙
 
-A quiet bedtime question under the stars with Luca. Full gentle story on YouTube — link in bio.
+A quiet bedtime question under the stars with Luca. A gentle moment from Pompom Hills.
 
 .
 .
 #PompomHills #PreschoolAnimation #KidsAnimation #BedtimeStory #ToddlerLife #GentleParenting #KidsReels #Preschool #StarGazing #CalmKids
 ```
 
-**Tags / keywords:** ✨ "What do stars say?" 🌙
+**Tags / keywords:** Pompom Hills, Luca, stars, bedtime, wonder, preschool animation, kids animation, calm kids, gentle story, night sky
 
-A quiet bedtime question under the stars with Luca. Full gentle story on YouTube — link in bio.
-
-.
-.
-#PompomHills #PreschoolAnimation #KidsAnimation #BedtimeStory #ToddlerLife #GentleParenting #KidsReels #Preschool #StarGazing #CalmKids
 ---
 
 ## Short #2 — Opa Knows the Answer 🦉
@@ -75,8 +71,6 @@ A quiet bedtime question under the stars with Luca. Full gentle story on YouTube
 
 Can you guess what the stars say? A calm little moment from Pompom Hills.
 
-Watch the full episode: https://www.youtube.com/@PompomHills
-
 #PompomHills #PreschoolAnimation #KidsAnimation #BedtimeStory
 ```
 
@@ -84,7 +78,7 @@ Watch the full episode: https://www.youtube.com/@PompomHills
 ```text
 🦉 "Hmm, let me think..."
 
-Opa always knows the gentlest answer. Can you guess what the stars say? Full story on YouTube — link in bio.
+Opa always knows the gentlest answer. Can you guess what the stars say? A calm moment from Pompom Hills.
 
 .
 .
@@ -109,8 +103,6 @@ Opa always knows the gentlest answer. Can you guess what the stars say? Full sto
 
 The warmest little moment from Pompom Hills — a reminder that everyone is loved at bedtime.
 
-Watch the full episode: https://www.youtube.com/@PompomHills
-
 #PompomHills #PreschoolAnimation #KidsAnimation #BedtimeStory
 ```
 
@@ -118,7 +110,7 @@ Watch the full episode: https://www.youtube.com/@PompomHills
 ```text
 🌙 "Even to me?" — "Especially to you." 💛
 
-The gentlest goodnight from the stars. Full bedtime story on YouTube — link in bio.
+The gentlest goodnight from the stars, from Pompom Hills.
 
 .
 .
@@ -141,8 +133,6 @@ The gentlest goodnight from the stars. Full bedtime story on YouTube — link in
 
 Sweet dreams from Pompom Hills. 🌙
 
-Watch the full episode: https://www.youtube.com/@PompomHills
-
 #PompomHills #PreschoolAnimation #KidsAnimation #Goodnight
 ```
 
@@ -150,7 +140,7 @@ Watch the full episode: https://www.youtube.com/@PompomHills
 ```text
 💛 "Goodnight, stars." 🌙
 
-A cozy ending under Opa's Tree. Sweet dreams from Pompom Hills. Full episode on YouTube — link in bio.
+A cozy ending under Opa's Tree. Sweet dreams from Pompom Hills.
 
 .
 .
@@ -164,6 +154,6 @@ A cozy ending under Opa's Tree. Sweet dreams from Pompom Hills. Full episode on 
 ## Notlar
 
 - Instagram caption'larındaki iki nokta satırları (`.`) hashtag'leri caption'dan görsel olarak ayırmak içindir; istenirse kaldırılabilir.
-- Facebook açıklamaları public kanal linkini kullanır. Belirli bir Short'un public video URL'i varsa kanal linki yerine o kullanılabilir.
-- IG/FB hesap handle'ları teyit edilince "link in bio" ve `@pompomhills` ifadeleri güncellenmeli.
-- Tüm metinler `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §18 Quality Checklist ile uyumludur: clickbait yok, agresif CTA yok, YouTube Studio linki yok, emoji ölçülü.
+- Post metinlerinde YouTube/kanal linki, "watch more / full episode", "link in bio" ve subscribe/like/follow/share isteği YOKTUR (`00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §14).
+- "Sweet dreams from Pompom Hills." gibi kapanışlar link/CTA içermediği için serbesttir.
+- Tüm metinler §18 Quality Checklist ile uyumludur: clickbait yok, agresif CTA yok, link yok, emoji ölçülü.

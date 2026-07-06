@@ -65,9 +65,9 @@ Join Opa and the Pompom Hills friends for gentle interactive storytime episodes.
 In each warm preschool story, Opa reads or tells a simple tale while the children
 ask questions, wonder, and learn about kindness, patience, sharing, friendship,
 feelings, and little everyday discoveries.
-
-Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 ```
+
+(No channel/playlist link or CTA in the description text — see `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §14.)
 
 **Playlist purpose:**
 
@@ -149,7 +149,7 @@ Opa and the children sit together in a quiet, warm final hold. No new dialogue.
 
 Forbidden: loud subscribe requests, "smash like" language, flashing text, long credits, abrupt cut to black — see `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §9a for the full forbidden list.
 
-Playlist CTA and end-screen elements go in the description/upload metadata, not inside the video — see §16 and `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §17 Public Link Rule.
+Description/caption text carries no channel/playlist link and no subscribe/like/follow CTA — see §16 and `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §14 (CTA and Link Rules).
 
 ---
 
@@ -348,25 +348,17 @@ Can You Wait Too?
 One Gentle Drop
 ```
 
-Every Short description must include:
-
-```text
-Watch the full Opa's Storytime series: https://www.youtube.com/@PompomHills
-```
-
-No aggressive CTA.
+Every Short description must NOT include a YouTube/playlist link or a subscribe/like/follow CTA
+(see `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §14).
 
 ---
 
 ## 16. Playlist CTA
 
-Use a soft playlist CTA in long-video and Shorts descriptions:
-
-```text
-Watch more Opa's Storytime episodes here: https://www.youtube.com/@PompomHills
-```
-
-When a direct public playlist URL exists, replace the channel URL above with the public playlist URL. Never use YouTube Studio playlist links publicly — see `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §17 Public Link Rule.
+No playlist link or CTA is placed in long-video or Shorts description text. Post descriptions
+end with the warm caption and hashtags only — see `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` §14
+(CTA and Link Rules). Playlists are still organized inside YouTube; they just aren't linked from
+the public description text.
 
 ---
 
