@@ -89,13 +89,18 @@ not dramatic achievement.
 
 ## Safe-Exposure Notes
 
-No throwing, no crumpling, no "just扔 it," no hesitation, no "does it matter" question.
+No throwing, no crumpling, no "just throw it," no hesitation, no "does it matter" question.
 The paper is placed gently — not tossed, not forced. The basket is soft and inviting.
+
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
 
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
-dark lighting, throwing paper, crumpling, "just扔 it" gesture, hesitation, "does it matter"
+dark lighting, throwing paper, crumpling, "just throw it" gesture, hesitation, "does it matter"
 question, overflowing basket, garbage, dirty basket, city bin, metal surface, logo/text,
 cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera
 motion, static talking pose, characters frozen, background music, music, melody, song,

@@ -120,6 +120,13 @@ no pulling. Opa offers; Kiko chooses to take. The connection is mutual and warm.
 
 ---
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

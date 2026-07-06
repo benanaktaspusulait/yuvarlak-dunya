@@ -99,8 +99,8 @@ Mimi: You're welcome!
 
 ## Sound
 
-Nazik bir "You're welcome!" karşılığı. Sıcak, samimi ses tonları. Playground ambience devam
-eder — kuşlar, hafif rüzgar. Sessiz bir an.
+A gentle "You're welcome!" reply. Warm, sincere tones. Playground ambience continues — birds,
+light breeze. A quiet moment.
 
 ---
 
@@ -118,6 +118,13 @@ No competition, no comparison, no "now you owe me" undertone, no adult intervent
 warmth is mutual and natural — not transactional.
 
 ---
+
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
 
 ## Negative Prompt
 

@@ -122,6 +122,13 @@ no lesson recitation yet. The relief is natural and quiet.
 
 ---
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

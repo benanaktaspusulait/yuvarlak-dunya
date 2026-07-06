@@ -95,6 +95,11 @@ No "that's disgusting" face, no "put it in the trash" command, no pointing with 
 no "how could you." Mimi's help is calm and friendly. The basket is soft and inviting — not
 industrial, not city-like.
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

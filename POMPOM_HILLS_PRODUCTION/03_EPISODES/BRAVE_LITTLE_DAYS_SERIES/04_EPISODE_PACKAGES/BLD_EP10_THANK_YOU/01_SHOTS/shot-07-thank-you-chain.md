@@ -99,8 +99,8 @@ Kiko: You're welcome!
 
 ## Sound
 
-Mimi'nin samimi "Thank you!" karşılığı. Kiko'nun sıcak "You're welcome!" cevabı. Playground
-ambience devam eder — kuşlar, hafif rüzgar.
+Mimi's sincere "Thank you!" reply. Kiko's warm "You're welcome!" response. Playground ambience
+continues — birds, light breeze.
 
 ---
 
@@ -117,6 +117,13 @@ No competition, no "I helped you more" comparison, no adult intervention, no dra
 no lesson recitation, no song. The exchange is simple, warm, and natural.
 
 ---
+
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
 
 ## Negative Prompt
 

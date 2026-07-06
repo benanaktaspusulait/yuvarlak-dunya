@@ -124,6 +124,13 @@ The looking is slow, deliberate, and thorough — modeling careful behavior.
 
 ---
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

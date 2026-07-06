@@ -121,6 +121,13 @@ tears, no shaking, no "don't ever do that again." The reunion is calm, warm, and
 
 ---
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

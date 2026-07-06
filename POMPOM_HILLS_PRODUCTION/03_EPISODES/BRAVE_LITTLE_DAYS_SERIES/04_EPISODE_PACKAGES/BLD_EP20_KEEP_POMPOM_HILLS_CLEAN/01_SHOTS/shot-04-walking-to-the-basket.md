@@ -92,6 +92,11 @@ Kiko and Mimi are doing the right thing together, and it feels easy and natural.
 No rushing, no running, no "hurry up," no competitive walking, no "we have to get there fast."
 The walk is unhurried and pleasant. Both characters move at a natural, relaxed pace.
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

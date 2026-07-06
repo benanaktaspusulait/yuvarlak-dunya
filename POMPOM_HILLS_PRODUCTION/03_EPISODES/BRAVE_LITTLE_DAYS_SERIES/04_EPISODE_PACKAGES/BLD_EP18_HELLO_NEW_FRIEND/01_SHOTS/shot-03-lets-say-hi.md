@@ -121,6 +121,13 @@ no peer pressure. Mimi's support is gentle and genuine — a friend offering cou
 
 ---
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

@@ -95,6 +95,11 @@ No moralizing, no "always clean up," no lecture, no "nature thanks you," no "you
 always." The phrase is delivered as a shared discovery, not a rule being taught. The tone
 is warm and friendly.
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

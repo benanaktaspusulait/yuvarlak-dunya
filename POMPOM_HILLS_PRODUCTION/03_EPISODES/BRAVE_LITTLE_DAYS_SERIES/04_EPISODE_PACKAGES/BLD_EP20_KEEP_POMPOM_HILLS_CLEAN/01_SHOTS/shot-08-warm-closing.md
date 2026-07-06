@@ -97,6 +97,11 @@ lesson-on-screen, no exaggerated wave, no preachy tone. The repeated phrase is d
 a shared discovery, not a rule being taught. The wave is friendly and inclusive — inviting the
 viewer into the moment.
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

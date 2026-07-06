@@ -100,8 +100,8 @@ Kiko & Mimi: Thank you!
 
 ## Sound
 
-Sıcak, samimi ses tonları — birlikte söylenen "Thank you!" Playground ambience devam eder.
-Nazik bir kapanış hissi. No music, no outro sting. Natural ambience carries to the end.
+Warm, sincere tones — a shared "Thank you!" Playground ambience continues. A gentle closing
+feeling. No music, no outro sting. Natural ambience carries to the end.
 
 ---
 
@@ -120,6 +120,13 @@ discovery, not a rule being taught. The wave is friendly and inclusive — invit
 into the moment.
 
 ---
+
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
 
 ## Negative Prompt
 

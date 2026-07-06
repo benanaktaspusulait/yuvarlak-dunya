@@ -98,8 +98,8 @@ Kiko: Thank you!
 
 ## Sound
 
-Kiko'nun sesi samimi ve sıcak — gerçekten teşekkür ediyor. Mimi'nin gülümsemesi sözsüz bir
-karşılık. Playground ambience devam eder — kuşlar, hafif rüzgar.
+Kiko's voice is sincere and warm — a genuine thank you. Mimi's smile is a wordless reply.
+Playground ambience continues — birds, light breeze.
 
 ---
 
@@ -116,6 +116,13 @@ No exaggerated gratitude, no bowing, no over-the-top emotion, no dramatic music.
 you" is delivered as a natural, age-appropriate expression — warm and sincere.
 
 ---
+
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
 
 ## Negative Prompt
 

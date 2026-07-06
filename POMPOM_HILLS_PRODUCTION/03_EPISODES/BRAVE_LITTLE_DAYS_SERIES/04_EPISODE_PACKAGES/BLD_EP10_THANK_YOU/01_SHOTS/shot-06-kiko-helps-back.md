@@ -98,8 +98,8 @@ Kiko: Let's carry it together!
 
 ## Sound
 
-Nazik bir "Let's carry it together!" teklifi. Topun yumuşak dokunuş sesi — iki çocuğun
-birlikte taşıması. Playground ambience devam eder.
+A gentle "Let's carry it together!" offer. The soft touch sound of the ball — two children
+carrying it together. Playground ambience continues.
 
 ---
 
@@ -116,6 +116,13 @@ No heavy lifting, no struggle, no "I can do it myself" refusal from Mimi, no com
 speed, no rushing. The carrying is gentle and cooperative.
 
 ---
+
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
 
 ## Negative Prompt
 

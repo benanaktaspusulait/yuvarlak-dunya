@@ -95,6 +95,11 @@ No dirty trash, no pollution, no messy environment, no scattered litter. The for
 pristine. The single clean snack paper is clearly readable as a leftover, not as garbage.
 No guilt, no scolding, no "bad" language.
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

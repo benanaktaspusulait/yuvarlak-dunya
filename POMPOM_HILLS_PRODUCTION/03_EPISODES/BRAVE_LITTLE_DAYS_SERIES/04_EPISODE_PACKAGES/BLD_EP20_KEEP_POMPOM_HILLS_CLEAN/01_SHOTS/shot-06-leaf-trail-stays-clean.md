@@ -93,6 +93,11 @@ No "perfectly clean" standard, no "spotless" comparison, no "see how much better
 "nature is happy now." The trail is simply clean — as it should be. No dramatic environmental
 message; just a beautiful, clean forest.
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+
 ## Negative Prompt
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,

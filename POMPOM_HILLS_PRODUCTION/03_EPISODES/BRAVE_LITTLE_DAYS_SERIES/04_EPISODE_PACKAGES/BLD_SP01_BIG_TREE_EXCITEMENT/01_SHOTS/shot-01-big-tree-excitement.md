@@ -209,6 +209,13 @@ Do not include transition wording inside the OpenArt Visual Prompt.
 
 ---
 
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
+
 ## Negative Prompt
 
 ```text

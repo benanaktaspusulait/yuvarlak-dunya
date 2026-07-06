@@ -100,8 +100,8 @@ Mimi: I can help.
 
 ## Sound
 
-Topun yumuşak yuvarlanma sesi — çok hafif "fıss". Mimi'nin sesi sıcak ve nazik.
-Playground ambience devam eder.
+The soft sound of the ball rolling — a very gentle "pss". Mimi's voice is warm and kind.
+Playground ambience continues.
 
 ---
 
@@ -118,6 +118,13 @@ No reluctant help, no sighing, no "here you go again" face, no rushing, no compe
 help is natural and unsolicited. Kiko doesn't resist — she receives the help gracefully.
 
 ---
+
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
 
 ## Negative Prompt
 

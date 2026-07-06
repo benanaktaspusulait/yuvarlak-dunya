@@ -99,8 +99,8 @@ Kiko: Oh no.
 
 ## Sound
 
-Yumuşak bir "oh no" — hafif hayal kırıklığı ama sakin. Topun yuvarlanma sesi bitmiş,
-sessizlik. Playground ambience devam eder.
+A soft "oh no" — mild disappointment but calm. The ball rolling sound has stopped; quiet.
+Playground ambience continues.
 
 ---
 
@@ -117,6 +117,13 @@ No crying, no frustration meltdown, no throwing, no kicking, no angry face, no b
 "Oh no" is calm and quiet — a simple observation, not a crisis.
 
 ---
+
+## Lighting
+
+Warm soft natural light, consistent with the approved world reference. No harsh shadows, no dramatic lighting, no dark scenes.
+
+---
+
 
 ## Negative Prompt
 
