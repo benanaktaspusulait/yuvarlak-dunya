@@ -14,13 +14,18 @@
 ## Long-form Strategy
 
 > **Updated by Channel Growth Decisions (see below):** duration and cadence superseded — 60–90 seconds is now the main format, 120 seconds only after retention data supports it, and publishing moves to a daily rhythm (long video + Shorts mix).
+>
+> **Birleştirme Modeli (Temmuz 2026):** Küçük bölümler (120 sn) birleştirilerek 6 dakikalık uzun videolar oluşturulur. YouTube algoritması 5-10 dk aralığındaki videoları daha çok önerir. Detaylı plan: `11-DOCS/23_PLATFORM_AUDIENCE_STRATEGY.md`
+>
+> **ALTIN KURAL: Her bölüm 120 sn'de sıkı tutulur. Uzatma yok. Kalite > Süre.**
 
 | Setting | Value |
 |---------|-------|
-| Duration | 60–90 seconds (120s only after strong retention on 60–90s) |
-| Shots | 4 per episode |
-| Frequency | Daily rhythm — see Channel Growth Decisions §8 |
-| Target | 3–4 years old |
+| **Bölüm Süresi** | **120 sn (8 shot × 15 sn) — sıkı** |
+| **YouTube Birleştirme** | **3 × 120 sn = ~6 dk** |
+| **Shorts** | 15-30 sn (birleşik videodan dönüşüm) |
+| **Frequency** | Haftada 1-2 birleşik video + 5-7 Shorts |
+| **Target** | 3–4 years old |
 
 ### Content Pillars
 

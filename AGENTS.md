@@ -84,17 +84,16 @@ Repoda iki paralel doküman seti var:
   süresi, karakter sayısı) farklı sayılar içerebilir.
 
 **Kural:** Teknik/görsel/karakter/dünya canon için **`00-CORE/` kazanır**. `11-DOCS/`
-anlatısal bağlam, strateji ve narrative derinlik için kullanılır (örn. karakterin "neden var
-olduğu" gibi). İki kaynak doğrudan çelişiyorsa (örn. bölüm süresi):
+anlatısal bağlam, strateji ve narrative derinlik için kullanılır. İki kaynak doğrudan çelişiyorsa:
 
 1. Sessizce birini seçip devam etme.
 2. Çelişkiyi kullanıcıya bildir, hangisinin geçerli olacağını sor.
-3. Kullanıcı onaylayınca hangi dosyanın güncelleneceğine karar ver (mümkünse eski dosyaya
-   "superseded by X" notu ekle, silme).
+3. Kullanıcı onaylayınca hangi dosyanın güncelleneceğine karar ver.
 
-> **Çözülen çelişki:** Bölüm süresi standardı 120 saniye (minimum) olarak kilitlenmiştir.
-> `00-CORE/TECH_SPECS.md`, `00-CORE/SERIES_STRUCTURE.md`, `00-CORE/PRODUCTION_PIPELINE.md`,
-> `00-CORE/CHARACTER_GUIDE.md` ve `08-PRODUCTION/` dosyaları güncellenmiştir.
+> **Çözülen çelişkiler:**
+> - Bölüm süresi: 120 sn (minimum) olarak kilitlenmiştir.
+> - Opa's Storytime: 300 sn (5 dakika) olarak kilitlenmiştir.
+> - Sezon yapısı: S1 (6 karakter), S2 (4 yeni karakter), S3 (4 yeni karakter) olarak ayrılmıştır.
 
 ---
 

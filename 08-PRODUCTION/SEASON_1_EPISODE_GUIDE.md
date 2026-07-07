@@ -10,14 +10,16 @@
 | Toplam bölüm | 26 |
 | Hedef yaş | 3-4 |
 | Format | 3D animasyon |
-| **YouTube Bölüm Süresi** | **120-180 sn (8-12 shot × 15 sn)** |
+| **Bölüm Süresi** | **120 sn (8 shot × 15 sn) — sıkı, uzatma yok** |
+| **YouTube Birleştirme** | **3 × 120 sn = ~6 dk** |
 | **TikTok Süresi** | **15-30 sn (dönüşüm)** |
 | **Instagram Reels Süresi** | **15-30 sn (dönüşüm)** |
 | **Facebook Süresi** | **60-90 sn (dönüşüm)** |
-| Toplam süre (YouTube) | ~52-78 dakika |
+| Toplam süre (YouTube) | ~46 dk (7 birleşik video × ~6 dk) |
 | Üretilen | 7/26 |
 
-> *YouTube ana bölümler 120-180 sn olarak üretilir.*
+> *Her bölüm 120 sn'de sıkı tutulur. Uzatma yok. Kalite > Süre.*
+> *YouTube için 3 bölüm birleştirilir → ~6 dk video.*
 > *Diğer platformlar için aynı içerikten optimize edilmiş dönüşümler yapılır.*
 
 ---

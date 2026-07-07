@@ -860,5 +860,57 @@ This rule was added after discovering intra-shot background drift in generated v
 
 ---
 
+## Shorts Üretim Kuralları
+
+> Detaylı plan: `11-DOCS/24_SHORTS_PRODUCTION_QUALITY.md`
+
+### Altın Kural
+
+**16:9 videodan 9:16'ya kırperken karakterler her zaman çerçevede kalmalı.**
+
+### Kompozisyon Kuralları (16:9 Üretim Sırasında)
+
+| Kural | Değer |
+|-------|-------|
+| **Güvenli bölge** | 16:9'un ortasındaki %60 |
+| **Karakter pozisyonu** | Güvenli bölge içinde |
+| **Kenar bölgeler** | Sadece arka plan (karakter yok) |
+| **Metin/altyazı** | Güvenli bölge dışında, sonra eklenebilir |
+
+### Güvenli Bölge Haritası
+
+```
+16:9 Video (1920×1080)
+┌─────────────────────────────────────┐
+│  Tehlikeli  │  GÜVENLİ  │ Tehlikeli │
+│   Bölge    │   BÖLGE   │  Bölge   │
+│  (kayıp)   │  (kalır)  │ (kayıp)  │
+└─────────────────────────────────────┘
+         ↓ Kırpma
+    9:16 Video (1080×1920)
+    ┌───────────┐
+    │ GÜVENLI   │
+    │  BÖLGE    │
+    │ (tamamı)  │
+    └───────────┘
+```
+
+### Shorts Üretim Adımları
+
+1. **Shot listesi oluştur** — Hangi sahneler shorts için uygun?
+2. **Kompozisyon planı** — Karakter pozisyonları güvenli bölgede mi?
+3. **Çift üretim** — Hem 16:9 hem 9:16 için üret (mümkünse)
+4. **Kalite kontrolü** — Her formatta karakter görünür mü?
+
+### Shorts Kontrol Listesi
+
+- [ ] Karakter her zaman çerçevede mi?
+- [ ] Arka plan dikey formata uygun mu?
+- [ ] İlk 3 saniye dikkat çekici mi?
+- [ ] Metin/altyazı okunabilir mi?
+- [ ] Kalite düşüşü var mı?
+
+---
+
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 4.0 — Intra-Shot Background Persistence Fix*
+*Versiyon: 4.1 — Shorts Üretim Kuralları Eklendi*
