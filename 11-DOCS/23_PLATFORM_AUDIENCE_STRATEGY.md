@@ -2,341 +2,375 @@
 
 ---
 
-## Problem Tanımı
+## Temel Prensip
 
-Mevcut stratejide **tüm platformlarda aynı içerik** yayınlanıyor. Oysa her sosyal medya platformunun:
+**Tek ana içerik üretilir → Her platform için optimize edilerek dönüştürülür.**
 
-- **Farklı demografisi** var (yaş, cinsiyet, gelir düzeyi)
-- **Farklı tüketim alışkanlıkları** var (ne zaman, ne kadar, nasıl izliyor)
-- **Farklı içerik formatları** var (yatay, dikey, kısa, uzun)
-- **Farklı algoritmaları** var (keşfet, abone, paylaşım)
-- **Farklı etkileşim modelleri** var (yorum, beğeni, paylaşım, kaydetme)
-
-Bu dokümanda her platform için **özgün strateji** tanımlıyoruz.
+- **Ana içerik:** YouTube için üretilir (120+ sn)
+- **Dönüşümler:** TikTok, Instagram, Facebook için optimize edilir
+- **Üretim verimliliği:** 1 ana video × 4 platform = maksimum erişim
 
 ---
 
-## Platform Demografisi Karşılaştırması
+## Platform Demografisi
 
 ### YouTube
 
 | Özellik | Değer |
 |---------|-------|
 | **Ana izleyici** | Ebeveyn + çocuk (birlikte izleme) |
-| **Yaş dağılımı** | 25-44 yaş ebeveynler, 3-6 yaş çocuklar |
-| **Cinsiyet** | %60-70 kadın (anne) |
-| **Tüketim zamanı** | Akşam 19:00-22:00 (yemek sonrası), hafta sonu |
-| **Tüketim süresi** | Uzun oturumlar (10-30 dakika) |
-| **Niyet** | Eğitim, eğlence, aile zamanı |
+| **Yaş** | 25-44 yaş ebeveyn, 3-6 yaş çocuk |
+| **Tüketim zamanı** | Akşam 19:00-22:00, hafta sonu |
+| **Tüketim süresi** | Uzun oturumlar (10-30 dk) |
 | **Cihaz** | TV, tablet, telefon |
-| **Etkileşim** | Yorum, abone olma, playlist ekleme |
+| **Niyet** | Eğitim, eğlence, aile zamanı |
 
 ### TikTok
 
 | Özellik | Değer |
 |---------|-------|
 | **Ana izleyici** | Genç ebeveynler (18-34 yaş) |
-| **Yaş dağılımı** | 18-34 yaş ana hedef |
-| **Cinsiyet** | %60-70 kadın |
-| **Tüketim zamanı** | Öğle arası 12:00-14:00, akşam 20:00-23:00 |
-| **Tüketim süresi** | Kısa oturumlar (5-15 dakika) |
-| **Niyet** | Eğlence, keşif, trend |
+| **Yaş** | 18-34 yaş |
+| **Tüketim zamanı** | Öğle 12-14, akşam 20-23 |
+| **Tüketim süresi** | Kısa oturumlar (5-15 dk) |
 | **Cihaz** | Telefon (>%95) |
-| **Etkileşim** | Beğeni, paylaşım, yorum, duet |
+| **Niyet** | Eğlence, keşif, trend |
 
 ### Instagram
 
 | Özellik | Değer |
 |---------|-------|
 | **Ana izleyici** | Ebeveynler (25-44 yaş) |
-| **Yaş dağılımı** | 25-44 yaş |
-| **Cinsiyet** | %65-75 kadın (anne) |
-| **Tüketim zamanı** | Sabah 07:00-09:00, akşam 19:00-21:00 |
-| **Tüketim süresi** | Orta oturumlar (10-20 dakika) |
-| **Niyet** | İlham, bağlantı, keşif |
+| **Yaş** | 25-44 yaş |
+| **Tüketim zamanı** | Sabah 07-09, akşam 19-21 |
+| **Tüketim süresi** | Orta oturumlar (10-20 dk) |
 | **Cihaz** | Telefon (>%90) |
-| **Etkileşim** | Kaydetme, paylaşım, DM, Story yanıtlama |
+| **Niyet** | İlham, bağlantı, keşif |
 
 ### Facebook
 
 | Özellik | Değer |
 |---------|-------|
 | **Ana izleyici** | Ebeveynler (30-55 yaş) |
-| **Yaş dağılımı** | 30-55 yaş |
-| **Cinsiyet** | %50-60 kadın |
-| **Tüketim zamanı** | Akşam 20:00-23:00, hafta sonu |
-| **Tüketim süresi** | Kısa-orta oturumlar (5-15 dakika) |
-| **Niyet** | Bağlantı, paylaşım, topluluk |
+| **Yaş** | 30-55 yaş |
+| **Tüketim zamanı** | Akşam 20-23, hafta sonu |
+| **Tüketim süresi** | Kısa-orta (5-15 dk) |
 | **Cihaz** | Telefon, bilgisayar |
-| **Etkileşim** | Paylaşım, yorum, beğeni, grup paylaşımı |
+| **Niyet** | Bağlantı, paylaşım, topluluk |
 
 ---
 
-## Mevcut Strateji Sorunları
+## Video Uzunluk Stratejisi
 
-### Sorun 1: Aynı İçerik Her Platformda
+### YouTube (Ana Platform)
 
-**Mevcut:** 120 sn YouTube videosu → aynı video Facebook'a, aynı kırımlar TikTok/Instagram'a
+| Format | Uzunluk | Açıklama |
+|--------|---------|----------|
+| **Ana Bölüm** | **120-180 sn** | Tam hikaye, 8-12 shot |
+| **Shorts** | 15-30 sn | Keşif motoru, döngü |
+| **Playlist** | 10-30 dk | Maraton izleme |
 
-**Sorun:** 
-- YouTube'da ebeveyn+çocuk 120 sn izler
-- TikTok'ta genç ebeveyn 15 sn'lik bir şey arıyor
-- Instagram'da anne 30 sn'lik ilham verici bir şey bekliyor
-- Facebook'ta baba 60 sn'lik aile dostu bir şey arıyor
+**Neden 120+ sn?**
+- YouTube algoritması izleme süresini ödüllendirir
+- Ebeveyn+çocuk birlikte 5-10 dk izler
+- Playlist maraton izlemesi sağlar
+- Reklam geliri izleme süresine bağlıdır
+- 3-4 yaş çocuğu 120 sn'lik bir bölümü tamamlayabilir (doğru pacing ile)
 
-**Çözüm:** Her platform için **özgün içerik** üret (sadece dönüştürme değil)
+### TikTok (Dönüşüm)
 
-### Sorun 2: Video Uzunlukları Tutarsız
+| Format | Uzunluk | Açıklama |
+|--------|---------|----------|
+| **Ana Video** | 15-30 sn | YouTube'dan en iyi an |
+| **Döngü** | 15 sn | Tekrar izlenen sahne |
+| **Hook** | 3-5 sn | İlk 3 saniye |
 
-**Mevcut:** YouTube Strategy 60-90 sn diyor, ama üretilen bölümler 120 sn
+### Instagram (Dönüşüm)
 
-**Sorun:**
-- 120 sn çok uzun (3-4 yaş çocuk dikkati 60-90 sn)
-- 60-90 sn YouTube için ideal (özellikle başlangıçta)
-- TikTok için 15-30 sn ideal
-- Instagram Reels için 15-30 sn ideal
+| Format | Uzunluk | Açıklama |
+|--------|---------|----------|
+| **Reels** | 15-30 sn | YouTube'dan ilham verici an |
+| **Story** | 15 sn | Günlük güncelleme |
+| **Carousel** | 5-7 görsel | Eğitim içeriği |
 
-**Çözüm:** Her platform için **farklı uzunluk** belirle
+### Facebook (Dönüşüm)
 
-### Sorun 3: İçerik Türleri Karışmış
-
-**Mevcut:** "Full Episode" tüm platformlarda yayınlanıyor
-
-**Sorun:**
-- YouTube: Eğitim + eğlence (uzun form)
-- TikTok: Eğlence + trend (kısa form)
-- Instagram: İlham + bağlantı (görsel form)
-- Facebook: Topluluk + paylaşım (aile formu)
-
-**Çözüm:** Her platform için **özgün içerik türü** tanımla
-
-### Sorun 4: Başlık/Açıklama Kalıplarıynı
-
-**Mevcut:** Tüm platformlarda aynı başlık kalıbı
-
-**Sorun:**
-- YouTube: SEO odaklı, anahtar kelime ağırlıklı
-- TikTok: Merak uyandıran, trend odaklı
-- Instagram: Duygusal, emoji ağırlıklı
-- Facebook: Aile odaklı, paylaşım odaklı
-
-**Çözüm:** Her platform için **özgün başlık/açıklama** stratejisi
+| Format | Uzunluk | Açıklama |
+|--------|---------|----------|
+| **Video** | 60-90 sn | YouTube'un aile dostu versiyonu |
+| **Story** | 15 sn | Günlük güncelleme |
 
 ---
 
-## Yeni Platform Stratejisi
-
-### YouTube Stratejisi
-
-| Öğe | Değer |
-|-----|-------|
-| **Hedef** | Aile izleme deneyimi |
-| **İçerik türü** | Eğitim + eğlence hikayeleri |
-| **Video uzunluğu** | 60-90 sn (başlangıç), sonra 120 sn |
-| **Shorts** | 15-30 sn (keşif motoru) |
-| **Yayın sıklığı** | Haftada 3-4 uzun video + 5-7 Shorts |
-| **Başlık kalıbı** | `[Emoji] [Karakter] [Aksiyon] — Pompom Hills` |
-| **Açıklama** | Öğrenim noktası + ebeveyn notu + CTA |
-| **Thumbnail** | Büyük karakter yüzü + net aksiyon |
-| **Altyazı** | Zorunlu (EN + TR + ES) |
-| **Playlist** | Kategorilere göre (uyku, doğa, sosyal) |
-
-**YouTube İçin Özel İçerik Türleri:**
-1. **Eğitim Hikayesi** (60-90 sn) — Tek bir öğrenim noktası
-2. **Uyku Vakti** (90-120 sn) — Yavaş, sakin, ninni
-3. **Karakter Tanıtımı** (60 sn) — Yeni karakter keşfi
-4. **Dünya Turu** (60 sn) — Mekan tanıtımı
-5. **Shorts Serisi** (15-30 sn) — Keşif, döngü, tekrar
-
-### TikTok Stratejisi
-
-| Öğe | Değer |
-|-----|-------|
-| **Hedef** | Genç ebeveynleri yakalama |
-| **İçerik türü** | Eğlenceli anlar, trendler, duygusal bağ |
-| **Video uzunluğu** | 15-30 sn (maksimum 60 sn) |
-| **Yayın sıklığı** | Günde 1-2 video |
-| **Başlık kalıbı** | `[Emoji] Merak uyandıran soru [Emoji]` |
-| **Açıklama** | Kısa + hashtag'ler |
-| **Ses** | Trend sesler veya kısa melodiler |
-| **Metin** | Büyük, okunabilir, merak uyandıran |
-
-**TikTok İçin Özel İçerik Türleri:**
-1. **Hook Videosu** (3-5 sn) — İlk 3 saniyede dikkat çek
-2. **Döngü Videosu** (15 sn) — Tekrar izlenen sahne
-3. **Duygusal An** (15-20 sn) — Gülümseme, şaşırma
-4. **Eğitim İpucu** (15-20 sn) — "Biliyor muydunuz?"
-5. **Trend Uyarlama** (15-30 sn) — Mevcut trende Pompom Hills ekle
-
-### Instagram Stratejisi
-
-| Öğe | Değer |
-|-----|-------|
-| **Hedef** | Ebeveynlerle bağlantı kurma |
-| **İçerik türü** | İlham verici, paylaşılabilir, bilgilendirici |
-| **Reels uzunluğu** | 15-30 sn |
-| **Story sıklığı** | Günde 3-5 Story |
-| **Post sıklığı** | Haftada 3-4 post |
-| **Başlık kalıbı** | `[Emoji] Duygusal açıklama [Emoji]` |
-| **Açıklama** | Kısa + soru + hashtag'ler |
-| **Carousel** | 5-7 görsel (eğitim içeriği) |
-| **CTA** | "Kaydet", "Paylaş", "Yorum yaz" |
-
-**Instagram İçin Özel İçerik Türleri:**
-1. **Reels** (15-30 sn) — En iyi an, ilham verici
-2. **Carousel** (5-7 görsel) — Eğitim içeriği, ipuçları
-3. **Story** (15 sn) — Günlük güncelleme, anket
-4. **Canlı** (5-10 dk) — Soru-cevap, etkinlik
-5. **Alıntı Kartı** — Karakter sözleri, duygusal mesajlar
-
-### Facebook Stratejisi
-
-| Öğe | Değer |
-|-----|-------|
-| **Hedef** | Aile topluluğu oluşturma |
-| **İçerik türü** | Aile dostu, paylaşılabilir, topluluk odaklı |
-| **Video uzunluğu** | 60-90 sn |
-| **Post sıklığı** | Günde 1-2 post |
-| **Story sıklığı** | Günde 2-3 Story |
-| **Başlık kalıbı** | `[Emoji] Aile odaklı mesaj [Emoji]` |
-| **Açıklama** | Samimi, paylaşım odaklı |
-| **Grup** | "Pompom Hills Aileleri" grubu |
-| **CTA** | "Paylaş", "Yorum yaz", "Beğen" |
-
-**Facebook İçin Özel İçerik Türleri:**
-1. **Video** (60-90 sn) — Aile izleme deneyimi
-2. **Hikaye** (15 sn) — Günlük güncelleme
-3. **Etkinlik** — Mevsimsel etkinlikler
-4. **Anket** — "En sevdiğiniz karakter hangisi?"
-5. **Grup Paylaşımı** — Topluluk etkileşimi
-
----
-
-## Video Uzunluk Özeti
-
-| Platform | Ana Video | Kısa Video | En-boy Oranı |
-|----------|-----------|------------|--------------|
-| **YouTube** | 60-90 sn (başlangıç) / 120 sn (sonra) | 15-30 sn Shorts | 16:9 + 9:16 |
-| **TikTok** | — | 15-30 sn (maks 60 sn) | 9:16 |
-| **Instagram** | — | 15-30 sn Reels | 9:16 |
-| **Facebook** | 60-90 sn | 15-30 sn Story | 16:9 veya 1:1 |
-
----
-
-## İçerik Üretim Akışı
+## Dönüşüm Akışı
 
 ```
-ANA HİKAYE (YouTube için 60-90 sn)
+ANA HİKAYE (YouTube — 120-180 sn)
     │
     ├──→ YouTube Shorts (15-30 sn) × 3-5
-    │     └── Farklı sahneler, hook'lar
+    │     └── Farklı sahneler, hook'lar, döngüler
     │
     ├──→ TikTok (15-30 sn) × 2-3
-    │     └── Eğlenceli/duygusal anlar
+    │     └── Eğlenceli/duygusal anlar, trend sesler
     │
     ├──→ Instagram Reels (15-30 sn) × 2-3
-    │     └── İlham verici, paylaşılabilir
+    │     └── İlham verici, paylaşılabilir anlar
+    │
+    ├──→ Instagram Story (15 sn) × 3-5
+    │     └── Perde arkası, anket, güncelleme
     │
     ├──→ Instagram Carousel × 1
     │     └── Eğitim içeriği (5-7 görsel)
     │
-    ├──→ Instagram Story × 3-5
-    │     └── Günlük güncelleme
-    │
     ├──→ Facebook Video (60-90 sn) × 1
-    │     └── Aile dostu versiyon
+    │     └── Aile dostu kısaltılmış versiyon
     │
-    └──→ Facebook Story × 2-3
+    └──→ Facebook Story (15 sn) × 2-3
           └── Günlük güncelleme
 ```
 
 ---
 
-## Başlık ve Açıklama Örnekleri
+## Dönüşüm Kuralları
 
-### Aynı Bölüm — Farklı Platformlar
+### YouTube → TikTok Dönüşümü
 
-**Bölüm:** S01E05 — Colours Everywhere (Kiko renkleri keşfeder)
+| Öğe | YouTube (120-180 sn) | TikTok (15-30 sn) |
+|------|---------------------|-------------------|
+| **Süre** | 120-180 sn | 15-30 sn |
+| **En-boy** | 16:9 | 9:16 |
+| **İçerik** | Tam hikaye | En eğlenceli 1-2 sahne |
+| **Ses** | Tam seslendirme | Kısa ses + trend müzik |
+| **Metin** | Altyazı | Büyük metin + emoji |
+| **İlk 3 sn** | Hook | Merak uyandıran soru/görsel |
 
-**YouTube Başlık:**
-```
-🌈 Kiko Renkleri Keşfeder — Pompom Hills | Eğitici Çocuk Videosu
-```
+**Dönüşüm Adımları:**
+1. En eğlenceli veya duygusal 1 sahneyi seç
+2. 9:16 formatında kırp (sadece o sahneyi al)
+3. Büyük metin overlay ekle (emoji'li)
+4. Trend ses veya kısa melodiler ekle
+5. Merak uyandıran başlık/açıklama yaz
 
-**YouTube Açıklama:**
-```
-Kiko bu bölümde renkleri keşfediyor! 🌈
+**Örnek:** YouTube'da "Kiko çiçeği suluyor, filiz çıkıyor, çiçek açıyor" → TikTok'ta "Sadece çiçek açma anı (3 sn) + 'Bekle ve gör! 🌸'"
 
-Öğrenim Noktaları:
-🎨 Renk isimleri (kırmızı, mavi, sarı, yeşil)
-🔍 Dikkat gözlemi
-🤝 Arkadaşlık ve paylaşma
+### YouTube → Instagram Reels Dönüşümü
 
-Ebeveyn Notu: Bu bölüm 3-4 yaş çocuklar için renk tanıma becerisini geliştirir.
+| Öğe | YouTube (120-180 sn) | Instagram Reels (15-30 sn) |
+|------|---------------------|---------------------------|
+| **Süre** | 120-180 sn | 15-30 sn |
+| **En-boy** | 16:9 | 9:16 |
+| **İçerik** | Tam hikaye | En ilham verici 1 sahne |
+| **Ses** | Tam seslendirme | Kısa ses + müzik |
+| **Metin** | Altyazı | Büyük metin |
+| **Hashtag** | YouTube hashtag | Instagram hashtag'leri |
 
-#PompomHills #Kiko #Renkler #EğiticiÇocukVideosu #PreschoolAnimation
-```
+**Dönüşüm Adımları:**
+1. En ilham verici 1 sahneyi seç
+2. 9:16 formatında kırp
+3. Büyük metin overlay ekle
+4. Kısa ve etkili ses ekle
+5. "Kaydet", "Paylaş" CTA'sı ekle
 
-**TikTok Başlık:**
-```
-🌈 Hangi renk en güzel? 😍 #PompomHills #Renkler #ÇocukVideosu
-```
+**Örnek:** YouTube'da "Kiko ve Mimi birlikte bekliyor, filiz çıkıyor" → Instagram'da "Birlikte beklediklerinde güzel şeyler olur 🌱 Kaydet!"
 
-**TikTok Açıklama:**
-```
-Kiko renkleri keşfetti! Sizin favori renginiz hangisi? 🎨
-#PompomHills #KidsContent #Preschool #ÇocukProgramı
-```
+### YouTube → Facebook Dönüşümü
 
-**Instagram Reels Başlık:**
-```
-🌸 Kiko'nun renk yolculuğu 🌈
-```
+| Öğe | YouTube (120-180 sn) | Facebook (60-90 sn) |
+|------|---------------------|---------------------|
+| **Süre** | 120-180 sn | 60-90 sn |
+| **En-boy** | 16:9 | 16:9 veya 1:1 |
+| **İçerik** | Tam hikaye | Kısaltılmış aile versiyonu |
+| **Ses** | Tam seslendirme | Aynı ses |
+| **Metin** | Altyazı | Aynı altyazı |
+| **CTA** | Abone ol | Paylaş, yorum yaz |
 
-**Instagram Reels Açıklama:**
-```
-Her rengin bir hikayesi var 🎨
+**Dönüşüm Adımları:**
+1. En önemli 4-5 sahneyi seç (karmaşık olanları çıkar)
+2. 60-90 sn'ye kısalt
+3. Aile odaklı başlık/açıklama yaz
+4. "Bu videoyu ailece izleyin" CTA'sı ekle
 
-Sizin çocuğunuzun favori rengi hangisi? 👇
-
-#PompomHills #Kiko #Renkler #PreschoolAnimation #ÇocukGelişimi
-```
-
-**Facebook Başlık:**
-```
-🌈 Çocuğunuzla birlikte renkleri keşfedin!
-```
-
-**Facebook Açıklama:**
-```
-Kiko ve Mimi renkleri keşfederken çocuğunuz da öğreniyor! 🎨
-
-Bu videoyu ailece izleyin ve çocuğunuzla renkler hakkında konuşun.
-
- hangi renkleri biliyorlar? Yorum yazın! 👇
-```
+**Örnek:** YouTube'da 120 sn tam hikaye → Facebook'ta 60 sn "En önemli anlar" versiyonu
 
 ---
 
-## Yayın Takvimi Özeti
+## Başlık ve Açıklama Stratejisi
+
+### YouTube
+
+**Başlık:** SEO odaklı, anahtar kelime ağırlıklı
+```
+[Emoji] [Karakter] [Aksiyon] [Nesne] — Pompom Hills | Eğitici Çocuk Videosu
+```
+
+**Açıklama:**
+- Detaylı öğrenim noktaları
+- Ebeveyn notu
+- Zaman damgası (eğer 120+ sn ise)
+- Hashtag'ler (5-10)
+
+### TikTok
+
+**Başlık:** Merak uyandıran, kısa
+```
+[Emoji] Merak uyandıran soru [Emoji]
+```
+
+**Açıklama:**
+- 1-2 cümle
+- Soru sor
+- Hashtag'ler (3-5)
+
+### Instagram
+
+**Başlık:** Duygusal, paylaşılabilir
+```
+[Emoji] Duygusal açıklama [Emoji]
+```
+
+**Açıklama:**
+- Kısa açıklama
+- Soru sor
+- "Kaydet" / "Paylaş" CTA'sı
+- Hashtag'ler (5-10)
+
+### Facebook
+
+**Başlık:** Aile odaklı
+```
+[Emoji] Aile odaklı mesaj [Emoji]
+```
+
+**Açıklama:**
+- Samimi dil
+- "Birlikte izleyin" vurgusu
+- "Paylaş" / "Yorum yaz" CTA'sı
+
+---
+
+## Yayın Takvimi
+
+### Haftalık Plan
 
 | Gün | YouTube | TikTok | Instagram | Facebook |
 |-----|---------|--------|-----------|----------|
-| Pzt | Uzun video (60-90 sn) | 1 video (15 sn) | Reels (20 sn) + Story | Video (60-90 sn) |
-| Sal | Shorts × 2 | 1 video (15 sn) | Story × 3 | Story × 2 |
-| Çar | Uzun video (60-90 sn) | 1 video (20 sn) | Reels (15 sn) + Carousel | Video (60-90 sn) |
-| Per | Shorts × 2 | 1 video (15 sn) | Story × 3 | Story × 2 |
-| Cum | Uzun video (60-90 sn) | 1 video (30 sn) | Reels (25 sn) + Story | Video (60-90 sn) |
-| Cmt | Shorts × 3 | 2 video (15-20 sn) | Story × 3 | Etkinlik/Grup |
-| Paz | Community Post | 1 video (20 sn) | Carousel + Story | Topluluk etkileşimi |
+| **Pzt** | Ana Bölüm (120-180 sn) | Video #1 (15-20 sn) | Reels (20 sn) + Story | Video (60-90 sn) |
+| **Sal** | Shorts × 2 | Video #2 (15 sn) | Story × 3 | Story × 2 |
+| **Çar** | Shorts × 2 | Video #3 (20 sn) | Reels (15 sn) + Carousel | Story × 2 |
+| **Per** | Shorts × 2 | Video #4 (15 sn) | Story × 3 | Story × 2 |
+| **Cum** | Shorts × 2 | Video #5 (25 sn) | Reels (25 sn) + Story | Video (60-90 sn) |
+| **Cmt** | Shorts × 3 | Video #6 (15-20 sn) | Story × 3 | Etkinlik/Grup |
+| **Paz** | Community Post | Video #7 (20 sn) | Carousel + Story | Topluluk |
+
+### Haftada 1 Bölüm İçin
+
+| Gün | İçerik |
+|-----|--------|
+| **Gün 1** | YouTube'a yükle (120-180 sn) |
+| **Gün 1** | YouTube Short #1 (15 sn) — Hook |
+| **Gün 2** | TikTok #1 (15 sn) — Eğlenceli an |
+| **Gün 2** | Instagram Reels #1 (20 sn) — İlham |
+| **Gün 3** | YouTube Short #2 (20 sn) — Keşif |
+| **Gün 3** | Facebook Video (60-90 sn) — Aile versiyonu |
+| **Gün 4** | TikTok #2 (15 sn) — Döngü |
+| **Gün 4** | Instagram Story × 3 — Perde arkası |
+| **Gün 5** | YouTube Short #3 (25 sn) — Duygusal |
+| **Gün 5** | Instagram Reels #2 (15 sn) — Alıntı |
+| **Gün 6** | TikTok #3 (20 sn) — Trend |
+| **Gün 6** | Facebook Story × 2 — Güncelleme |
+| **Gün 7** | YouTube Community Post — Anket |
+| **Gün 7** | Instagram Carousel — Eğitim |
 
 ---
 
-## Performans Metrikleri (Platform Bazlı)
+## İçerik Türleri (Platform Bazlı)
+
+### YouTube İçin
+
+| Tür | Uzunluk | Amaç |
+|-----|---------|------|
+| **Ana Bölüm** | 120-180 sn | Tam hikaye, eğitim |
+| **Uyku Vakti** | 120-180 sn | Yavaş, sakin, ninni |
+| **Karakter Tanıtımı** | 90-120 sn | Yeni karakter keşfi |
+| **Dünya Turu** | 90-120 sn | Mekan tanıtımı |
+| **Shorts** | 15-30 sn | Keşif, döngü, tekrar |
+
+### TikTok İçin (YouTube'dan Dönüşüm)
+
+| Tür | Uzunluk | Kaynak |
+|-----|---------|--------|
+| **Eğlenceli An** | 15-20 sn | YouTube'dan en komik sahne |
+| **Duygusal An** | 15-20 sn | YouTube'dan en duygusal sahne |
+| **Döngü** | 15 sn | YouTube'dan tekrar izlenen sahne |
+| **Hook** | 3-5 sn | YouTube'dan ilk 3 saniye |
+| **Trend Uyarlama** | 15-30 sn | YouTube sahnesi + trend ses |
+
+### Instagram İçin (YouTube'dan Dönüşüm)
+
+| Tür | Uzunluk | Kaynak |
+|-----|---------|--------|
+| **Reels** | 15-30 sn | YouTube'dan ilham verici an |
+| **Story** | 15 sn | YouTube'dan perde arkası |
+| **Carousel** | 5-7 görsel | YouTube'dan öğrenim noktaları |
+| **Alıntı** | 15 sn | YouTube'dan karakter sözü |
+
+### Facebook İçin (YouTube'dan Dönüşüm)
+
+| Tür | Uzunluk | Kaynak |
+|-----|---------|--------|
+| **Video** | 60-90 sn | YouTube'un kısaltılmış versiyonu |
+| **Story** | 15 sn | YouTube'dan güncelleme |
+| **Etkinlik** | — | Mevsimsel etkinlik |
+
+---
+
+## Örnek Dönüşüm
+
+### S01E05 — Colours Everywhere (Kiko renkleri keşfeder)
+
+**YouTube (Ana Bölüm — 120 sn):**
+```
+0-15 sn: Kiko uyanır, pencereye bakar
+15-30 sn: Dışarı çıkar, renkleri görür
+30-45 sn: Kırmızı çiçeği bulur
+45-60 sn: Mavi gökyüzüne bakar
+60-75 sn: Sarı kelebeği kovalar
+75-90 sn: Mimi ile buluşur
+90-105 sn: Birlikte renkleri keşfederler
+105-120 sn: Gökkuşağı görürler, gülümserler
+```
+
+**TikTok #1 (15 sn — Eğlenceli An):**
+```
+Sadece 45-60 sn arası: Kiko sarı kelebeği kovalar
+Metin: "Kelebeği yakalayabilecek mi? 🦋"
+Ses: Neşeli müzik
+```
+
+**Instagram Reels #1 (20 sn — İlham):**
+```
+75-95 sn arası: Kiko ve Mimi buluşur, gülümser
+Metin: "En güzel renk: Arkadaşlık 🌸"
+Ses: Kısa melodiler
+CTA: "Kaydet!"
+```
+
+**Facebook Video (60 sn — Aile Versiyonu):**
+```
+0-15 sn: Kiko uyanır
+15-30 sn: Renkleri keşfeder
+30-45 sn: Mimi ile buluşur
+45-60 sn: Gökkuşağı görürler
+Metin: "Çocuğunuzla birlikte renkleri keşfedin!"
+```
+
+---
+
+## Performans Metrikleri
 
 | Metrik | YouTube | TikTok | Instagram | Facebook |
 |--------|---------|--------|-----------|----------|
-| **Hedef** | İzlenme süresi | Tamamlanma oranı | Kaydetme | Paylaşım |
+| **Birincil** | İzlenme süresi | Tamamlanma | Kaydetme | Paylaşım |
 | **İkincil** | Abone artışı | Beğeni | Beğeni | Yorum |
 | **Takip** | Haftalık | Günlük | Günlük | Haftalık |
 
@@ -345,22 +379,22 @@ Bu videoyu ailece izleyin ve çocuğunuzla renkler hakkında konuşun.
 ## Eylem Planı
 
 ### Hemen (Bu Hafta)
-- [ ] Bu dokümanı gözden geçir ve onayla
-- [ ] Mevcut video tanımlarını güncelle (uzunluklar)
-- [ ] Platform başına içerik şablonları oluştur
+- [x] Bu dokümanı oluştur
+- [ ] Ana bölüm formatını kilitle (120-180 sn)
+- [ ] Dönüşüm şablonlarını oluştur
 
 ### Kısa Vadeli (2 Hafta)
-- [ ] Her platform için ilk 10 içerik planı oluştur
+- [ ] İlk 5 bölüm için dönüşüm planı oluştur
 - [ ] Başlık/açıklama kalıplarını test et
 - [ ] Yayın takvimini uygula
 
 ### Orta Vadeli (1 Ay)
 - [ ] İlk 30 gün verilerini analiz et
 - [ ] Platform bazlı optimizasyon yap
-- [ ] En iyi performans gösteren içerik türünü belirle
+- [ ] En iyi dönüşüm formatını belirle
 
 ---
 
 *Bu dosya platform bazlı strateji için tek kaynaktır.*
 *Oluşturma tarihi: 7 Temmuz 2026*
-*Durum: TASLAK — Kullanıcı onayı bekliyor*
+*Temel prensip: Tek ana içerik (YouTube 120-180 sn) → Her platform için optimize edilmiş dönüşümler*

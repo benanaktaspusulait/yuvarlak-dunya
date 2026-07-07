@@ -34,32 +34,37 @@ bu dosyalara dokunmaz.
 
 | Yapılacak iş | Önce oku |
 |---|---|
+| **Sezon yapısı** | `08-PRODUCTION/EPISODE_TRACKER_S01.md`, `EPISODE_TRACKER_S02.md`, `EPISODE_TRACKER_S03.md` |
+| Sezon 1 bölüm/şena yazımı | `00-CORE/SERIES_STRUCTURE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/` |
+| Sezon 2 bölüm/şena yazımı | `POMPOM_HILLS_PRODUCTION/02_SEASON_2/04_EPISODE_PACKAGES/` |
+| Sezon 3 bölüm/şena yazımı | `POMPOM_HILLS_PRODUCTION/03_SEASON_3/04_EPISODE_PACKAGES/` |
 | Yeni karakter ekleme/değiştirme | `00-CORE/CHARACTER_GUIDE.md`, `01-CHARACTERS/`, `CONTRIBUTING.md` §"Yeni Karakter" |
 | Yeni dünya/mekan ekleme/değiştirme | `00-CORE/WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/`, `CONTRIBUTING.md` §"Yeni Mekan" |
-| Yeni bölüm/sahne yazımı | `00-CORE/SERIES_STRUCTURE.md`, `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/EPISODE_TEMPLATES/`, `00-CORE/CONTINUITY_RULES.md` |
-| Opa's Storytime bölümü (interactive storytelling sub-series) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`, ardından ilgili mekan (`POMPOM_HILLS_PRODUCTION/02_WORLDS/`) ve karakter (`01-CHARACTERS/`) dosyaları |
-| Brave Little Days bölümü (life-skills / günlük hayat becerileri + korkuyla baş etme sub-series) | `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`, ardından `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/` (bumper'lar), ilgili mekan (`POMPOM_HILLS_PRODUCTION/02_WORLDS/`) ve karakter (`01-CHARACTERS/`) dosyaları |
+| Opa's Storytime (masal anlatımı sub-series) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/OPA_STORYTIME_*` |
+| Brave Little Days (yaşam becerisi sub-series) | `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`, `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/` |
+| **Kiko's Discovery Days** (keşif/merak sub-series) | `POMPOM_HILLS_PRODUCTION/04_KIKOS_DISCOVERY_DAYS/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
+| **Mimi's Feelings Corner** (duygu okuryazarlığı sub-series) | `POMPOM_HILLS_PRODUCTION/05_MIMIS_FEELINGS_CORNER/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
+| **Music & Rhythm Time** (müzik/ritim sub-series) | `POMPOM_HILLS_PRODUCTION/06_MUSIC_RHYTHM_TIME/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
 | Shot/video üretimi (kamera, renk, süreklilik, teknik) | `00-CORE/17_VIDEO_GENERATION_STANDARD.md`, `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/VISUAL_CONTINUITY_RULES.md` |
-| Video pacing / hook / retention stili, micro-opening & warm-closing / bumper (dış feedback dahil) | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
-| Series bumper (Opa's Storytime vb.) ile world micro-opening ayrımı, hangisinin ne zaman kullanılacağı, dosya organizasyonu | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
-| Shot'lar arası continuity workflow (@image1 zinciri, transition QA, jump/drift onarımı) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
-| Standalone shot üretimi + dosya-içi post-production transition notu (ayrı üretilip sonra kurguda birleştirilen çok-shot'lu videolar, world geçişleri) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/STANDALONE_SHOT_AND_TRANSITION_STANDARD.md` |
-| Sosyal medya görsel formatı (Story/Feed/YouTube platform seti, safe margin, isimlendirme) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SOCIAL_MEDIA_IMAGE_FORMAT_STANDARD.md` |
+| Video pacing / hook / retention stili | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
+| Series bumper ile world micro-opening ayrımı | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
+| Shot'lar arası continuity workflow | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
+| Standalone shot üretimi | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/STANDALONE_SHOT_AND_TRANSITION_STANDARD.md` |
+| Sosyal medya görsel formatı | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SOCIAL_MEDIA_IMAGE_FORMAT_STANDARD.md` |
 | YouTube title / description / tags / Shorts metadata | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |
-| Yayın stratejisi, kanal büyümesi, publishing cadence, karakter/dünya rollout hızı | `11-DOCS/09_YOUTUBE_STRATEGY.md` (Channel Growth Decisions bölümü) |
-| Ses / voice / seslendirme | `00-CORE/AUDIO_GUIDE.md`, `00-CORE/EPISODE_AUDIO_WORKFLOW.md`, `05-AI-PROMPTS/voice/` |
-| OpenArt prompt `## Sound` bölümü + doğal sakinleştirici ambient ses (shot-level, müzik yok) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/NATURAL_CALMING_AMBIENCE_SOUND_STANDARD.md` |
+| Yayın stratejisi | `11-DOCS/09_YOUTUBE_STRATEGY.md` |
+| Ses / voice / seslendirme | `00-CORE/AUDIO_GUIDE.md`, `00-CORE/EPISODE_AUDIO_WORKFLOW.md` |
+| OpenArt prompt Sound bölümü | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/NATURAL_CALMING_AMBIENCE_SOUND_STANDARD.md` |
 | Çocuk güvenliği / COPPA | `00-CORE/CHILD_SAFETY_RULES.md`, `10-LICENSING/COPPA_MADE_FOR_KIDS_CHECKLIST.md` |
 | Yasak/negatif prompt listeleri | `00-CORE/NEGATIVE_PROMPTS.md` |
-| Prompt değişkenleri (`{style}` `{camera}` `{lighting}`) | `00-CORE/VARIABLES.md` |
-| Yayın öncesi kalite kontrol | `00-CORE/MASTER_QA_CHECKLIST.md`, `00-CORE/SCENE_QA_CHECKLIST.md`, `00-CORE/PRE_RENDER_CHECKLIST.md` |
-| Altyazı (SRT/VTT) | `14-SUBTITLES/SRT_TEMPLATE.md`, `11-DOCS/12_SUBTITLE_STYLE_GUIDE.md`, `11-DOCS/15_SUBTITLE_WORKFLOW.md` |
-| Üretim takibi (asset/tracker/takvim/bütçe) | `08-PRODUCTION/` (ör. `ASSET_TRACKER.md`, `EPISODE_TRACKER.md`, `PRODUCTION_CALENDAR.md`) |
-| İçerik/format eşleştirme (long video ↔ Shorts ↔ sosyal medya) | `08-PRODUCTION/CONTENT_MATRIX.md` |
-| Haftalık performans raporu | `08-PRODUCTION/WEEKLY_PERFORMANCE_REPORT.md` |
+| Prompt değişkenleri | `00-CORE/VARIABLES.md` |
+| Yayın öncesi kalite kontrol | `00-CORE/MASTER_QA_CHECKLIST.md`, `00-CORE/SCENE_QA_CHECKLIST.md` |
+| Altyazı (SRT/VTT) | `14-SUBTITLES/SRT_TEMPLATE.md`, `11-DOCS/12_SUBTITLE_STYLE_GUIDE.md` |
+| Üretim takibi | `08-PRODUCTION/EPISODE_TRACKER_S01.md`, `EPISODE_TRACKER_S02.md`, `EPISODE_TRACKER_S03.md` |
+| İçerik/format eşleştirme | `08-PRODUCTION/CONTENT_MATRIX.md` |
 | Lisanslama / marka / hukuki | `10-LICENSING/` |
 | Branding, thumbnail, renk paleti | `07-BRANDING/` |
-| Dosya isimlendirme, PR kuralları, doğrulama script'leri | `CONTRIBUTING.md` |
+| Dosya isimlendirme, PR kuralları | `CONTRIBUTING.md` |
 
 Bir görev birden fazla satıra giriyorsa (örn. "yeni karakter tanıtım videosu için başlık
 yaz") ilgili tüm dosyaları oku, sadece birini değil.

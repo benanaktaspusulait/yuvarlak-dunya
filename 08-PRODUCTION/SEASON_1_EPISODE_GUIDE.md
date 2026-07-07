@@ -10,46 +10,49 @@
 | Toplam bölüm | 26 |
 | Hedef yaş | 3-4 |
 | Format | 3D animasyon |
-| Bölüm süresi | 120 saniye (8 shot × 15 sn) — minimum standart |
-| Toplam süre | ~52 dakika |
+| **YouTube Bölüm Süresi** | **120-180 sn (8-12 shot × 15 sn)** |
+| **TikTok Süresi** | **15-30 sn (dönüşüm)** |
+| **Instagram Reels Süresi** | **15-30 sn (dönüşüm)** |
+| **Facebook Süresi** | **60-90 sn (dönüşüm)** |
+| Toplam süre (YouTube) | ~52-78 dakika |
 | Üretilen | 7/26 |
 
-> *Sezon 1 minimum bölüm süresi 120 sn (8 shot × 15 sn) olarak kilitlenmiştir.*
-> *Üretilmiş bölümlerin süresi geçerlidir; yeni bölümler 120 sn minimum standardına uygun üretilir.*
+> *YouTube ana bölümler 120-180 sn olarak üretilir.*
+> *Diğer platformlar için aynı içerikten optimize edilmiş dönüşümler yapılır.*
 
 ---
 
 ## Bölüm Listesi
 
-| # | Başlık (TR) | Kısa Özet | Karakterler | Mekan | Süre | Yapıldı? |
-|---|-------------|-----------|-------------|-------|------|----------|
-| 01 | Merhaba Pompom Hills | Kiko uyanır, dünyayı keşfeder, Mimi ve Opa ile tanışır, tüm arkadaşlarıyla selamlaşır | Kiko, Mimi, Opa + 10 | Central Square | 7 dk | ❌ |
-| 02a | Kiko'nun Ev Turu | Kiko izleyicileri içeriye davet eder, evin okuma köşesi, oyuncak köşesi ve penceresini gösterir | Kiko | Kiko's Home (Dış Bahçe → İç) | 15 sn | ✅ |
-| 02b | Zıpla Zıpla Kiko | Kiko sarı bir top bulur, Mimi ile oynar, kelebekler arasında zıplarlar | Kiko, Mimi, Opa | Flower Hill — Home Cluster Zone → Central Square | 3 dk | ❌ |
-| 03 | Küçük Çiçek | Kiko tohum bulur, diker, sulayarak bekler, Mimi yardım eder, çiçek açar | Kiko, Mimi, Tillo, Opa | Tillo's Garden | 3 dk | ❌ |
-| 04 | Mimi'nin Büyük Esnemesi | Mimi durmadan esner, Kiko ona rahat bir yer arar, ağacın altında uyur | Kiko, Mimi, Opa | Mimi's Burrow | 120 sn | ✅ |
-| 05 | Renkler Her Yerde | Kiko renkleri keşfeder, Mimi ile birlikte mor lavanta bulurlar, gökkuşağı yaparlar | Kiko, Mimi, Opa | Friendship Meadow | 120 sn | ✅ |
-| 06 | Yumuşak Rüzgar | Rüzgar eser, yapraklar sallanır, Kiko ve Mimi rüzgarla oynarlar | Kiko, Mimi, Opa | Little Forest | 3 dk | ❌ |
-| 07 | Yuvarlak Taş | Luca yuvarlak bir taş bulur, Kiko'ya gösterir, şekilleri fark edip keşfi paylaşırlar | Luca, Kiko | Stone Hill | 94 sn (90 sn hikaye + 4 sn micro-opening) | ✅ |
-| 08 | Birlikte İnşa | Noah ve Arda bloklarla kule yaparlar, birlikte başarırlar | Noah, Arda | Central Square | 1 dk | ❌ |
-| 09 | Sessiz Yer | Kiko Opa'yı ziyaret eder, birlikte sessizce doğa seslerini dinlerler | Kiko, Opa | Opa's Tree | 1 dk | ❌ |
-| 10 | Benim Sıram Senin Sıran | Luca ve Noah top oynarlar, sırayla oynamayı öğrenirler | Luca, Noah | Central Square | 120 sn | ✅ |
-| 11 | İyi Geceler Ağaç | Arda Opa'nın ağacına gider, "Ağaç da uykulu mu?" der, birlikte iyi geceler derler | Arda, Opa | Opa's Tree | 1 dk | ✅ |
-| 12 | Yapraklar Neden Düşer | Kiko yaprakların düştüğünü görür, Opa'ya sorar, yeni yapraklar büyüdüğünü öğrenir | Kiko, Opa | Little Forest | 1 dk | ❌ |
-| 13 | Yağmur Nereden Gelir | Kiko yağmur sesini duyar, Luca ve Mimi ile bulutları izlerler, yağmuru keşfederler | Luca, Mimi | Cloud Hill | 1 dk | ❌ |
-| 14 | Yıldızlar Ne Söyler | Luca gece yıldızlara bakar, Opa'ya "Ne söylerler?" der, Opa "İyi geceler der" der | Luca, Opa | Opa's Tree (gece) | 1 dk | ✅ |
-| 15 | Kelebek Yolculuğu | Luca ve Kiko kelebek peşinden giderler, gizli bir bahçe bulurlar | Luca, Kiko | Butterfly Meadow | 1 dk | ❌ |
-| 16 | Utangaç Sincap | Aiko utangaç bir sincap bulur, sabırla bekler, sincap yaklaşır | Aiko, Kiko | Little Forest | 1 dk | ❌ |
-| 17 | Resim Günü | Sofia resim yapar, Kiko katılır, birlikte farklı şekillerde resim yaparlar | Sofia, Kiko | Art Corner | 1 dk | ❌ |
-| 18 | Bahçe Yardımcısı | Tillo bahçeyle uğraşır, Kiko yardım eder, çiçekleri sularlar | Tillo, Kiko | Tillo's Garden | 1 dk | ❌ |
-| 19 | Sessiz Kedi | Kiko sessiz bir kedi bulur, yanına oturur, kedi yaklaşır | Mirnik, Kiko | Little Forest | 1 dk | ❌ |
-| 20 | Dere Şarkıcısı | Mimo deryenin şarkı söylediğini duyar, Kiko ile birlikte dinlerler | Mimo, Kiko | Rainbow Creek | 1 dk | ❌ |
-| 21 | Kristal Mağara | Luca kristal bir mağara keşfeder, Kiko ile birlikte girerler, kristaller parlar | Luca, Kiko | Stone Hill | 1 dk | ❌ |
-| 22 | Gökkuşağı Dilekleri | Kiko ve Mimi gökkuşağı görürler, dilek dilerler, dilekleri sıcak hissederler | Kiko, Mimi | Rainbow Bridge | 1 dk | ❌ |
-| 23 | Yıldızlı Gece | Kiko ve Opa yıldızları sayarlar, Opa ninni söyler, Kiko uykuya dalar | Kiko, Opa | Central Square (gece) | 1 dk | ❌ |
-| 24 | Müzik Ağaçları | Noah müzik yapan ağaçlar keşfeder, Arda ile birlikte dans ederler | Noah, Arda | Music Hill | 1 dk | ❌ |
-| 25 | Renkli Çiçekler | Sofia renkli çiçekler bulur, Kiko ile birlikte çiçek toplarlar, arkadaşlarıyla paylaşırlar | Sofia, Kiko | Painting Garden | 1 dk | ❌ |
-| 26 | Hoşça Kal Görüşürüz | Tüm arkadaşlar Central Square'da toplanırlar, hoşça derler, yine görüşeceklerine söz verirler | Kiko, Mimi, Opa + tümü | Central Square | 1 dk | ❌ |
+| # | Başlık (TR) | Kısa Özet | Karakterler | Mekan | YouTube | TikTok | Instagram | Facebook | Yapıldı? |
+|---|-------------|-----------|-------------|-------|---------|--------|-----------|----------|----------|
+| 01 | Merhaba Pompom Hills | Kiko uyanır, dünyayı keşfeder, Mimi ve Opa ile tanışır | Kiko, Mimi, Opa + 10 | Central Square | 180 sn | 15-30 sn | 15-30 sn | 90 sn | ❌ |
+| 02a | Kiko'nun Ev Turu | Kiko izleyicileri içeriye davet eder | Kiko | Kiko's Home | 24 sn (micro) | 15 sn | 15 sn | 24 sn | ✅ |
+| 02b | Zıpla Zıpla Kiko | Kiko sarı bir top bulur, Mimi ile oynar | Kiko, Mimi, Opa | Flower Hill → Central Square | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 03 | Küçük Çiçek | Kiko tohum bulur, diker, çiçek açar | Kiko, Mimi, Tillo, Opa | Tillo's Garden | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 04 | Mimi'nin Büyük Esnemesi | Mimi durmadan esner, rahat bir yer arar | Kiko, Mimi, Opa | Mimi's Burrow | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ✅ |
+| 05 | Renkler Her Yerde | Kiko renkleri keşfeder, gökkuşağı yaparlar | Kiko, Mimi, Opa | Friendship Meadow | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ✅ |
+| 06 | Yumuşak Rüzgar | Rüzgar eser, Kiko ve Mimi rüzgarla oynarlar | Kiko, Mimi, Opa | Little Forest | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 07 | Yuvarlak Taş | Luca yuvarlak bir taş bulur, keşfi paylaşırlar | Luca, Kiko | Stone Hill | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ✅ |
+| 08 | Birlikte İnşa | Noah ve Arda bloklarla kule yaparlar | Noah, Arda | Central Square | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 09 | Sessiz Yer | Kiko Opa'yı ziyaret eder, sessizce doğa seslerini dinlerler | Kiko, Opa | Opa's Tree | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 10 | Benim Sıram Senin Sıran | Luca ve Noah top oynarlar, sırayla oynamayı öğrenirler | Luca, Noah | Central Square | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ✅ |
+| 11 | İyi Geceler Ağaç | Arda Opa'nın ağacına gider, iyi geceler derler | Arda, Opa | Opa's Tree | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ✅ |
+| 12 | Yapraklar Neden Düşer | Kiko yaprakların düştüğünü görür, yeni yapraklar büyüdüğünü öğrenir | Kiko, Opa | Little Forest | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 13 | Yağmur Nereden Gelir | Kiko yağmur sesini duyar, bulutları izlerler | Luca, Mimi | Cloud Hill | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 14 | Yıldızlar Ne Söyler | Luca gece yıldızlara bakar, Opa "İyi geceler der" der | Luca, Opa | Opa's Tree (gece) | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ✅ |
+| 15 | Kelebek Yolculuğu | Luca ve Kiko kelebek peşinden giderler | Luca, Kiko | Butterfly Meadow | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 16 | Utangaç Sincap | Aiko utangaç bir sincap bulur | Aiko, Kiko | Little Forest | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 17 | Resim Günü | Sofia resim yapar, Kiko katılır | Sofia, Kiko | Art Corner | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 18 | Bahçe Yardımcısı | Tillo bahçeyle uğraşır, Kiko yardım eder | Tillo, Kiko | Tillo's Garden | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 19 | Sessiz Kedi | Kiko sessiz bir kedi bulur | Mirnik, Kiko | Little Forest | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 20 | Dere Şarkıcısı | Mimo deryenin şarkı söylediğini duyar | Mimo, Kiko | Rainbow Creek | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 21 | Kristal Mağara | Luca kristal bir mağara keşfeder | Luca, Kiko | Stone Hill | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 22 | Gökkuşağı Dilekleri | Kiko ve Mimi gökkuşağı görürler, dilek dilerler | Kiko, Mimi | Rainbow Bridge | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 23 | Yıldızlı Gece | Kiko ve Opa yıldızları sayarlar | Kiko, Opa | Central Square (gece) | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 24 | Müzik Ağaçları | Noah müzik yapan ağaçlar keşfeder | Noah, Arda | Music Hill | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 25 | Renkli Çiçekler | Sofia renkli çiçekler bulur | Sofia, Kiko | Painting Garden | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
+| 26 | Hoşça Kal Görüşürüz | Tüm arkadaşlar toplanırlar, hoşça derler | Kiko, Mimi, Opa + tümü | Central Square | 120 sn | 15-30 sn | 15-30 sn | 60 sn | ❌ |
 
 ---
 
@@ -182,3 +185,4 @@ Gelecek sezonlarda yeni karakter eklenirken onboarding politikasına uyulmalı.
 
 *Bu belge Sezon 1 bölüm rehberi için tek kaynaktır.*
 *Son güncelleme: 7 Temmuz 2026*
+*Format: YouTube 120-180 sn | TikTok 15-30 sn | Instagram 15-30 sn | Facebook 60-90 sn*
