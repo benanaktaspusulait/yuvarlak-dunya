@@ -1,11 +1,31 @@
 1
-00:00:01,000 --> 00:00:04,000
-Painting Day
+00:00:01,000 --> 00:00:03,000
+Sofia arrives at Art Corner.
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:03,500 --> 00:00:05,500
+Painting day!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Episode content goes here]
+00:00:06,000 --> 00:00:08,500
+Which colour first?
+
+4
+00:00:09,000 --> 00:00:11,500
+Red! No, blue!
+
+5
+00:00:12,000 --> 00:00:14,500
+Let's paint together!
+
+6
+00:00:18,000 --> 00:00:20,000
+So beautiful!
+
+7
+00:00:22,000 --> 00:00:24,500
+Look what we made!
+
+8
+00:00:26,000 --> 00:00:29,000
+Art is more fun with friends.

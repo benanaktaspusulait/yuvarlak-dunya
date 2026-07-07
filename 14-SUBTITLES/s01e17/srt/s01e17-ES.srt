@@ -1,11 +1,31 @@
 1
-00:00:01,000 --> 00:00:04,000
-Día de Pintar
+00:00:01,000 --> 00:00:03,000
+Sofia llega a la Esquina del Arte.
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:03,500 --> 00:00:05,500
+¡Día de pintar!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Contenido del episodio aquí]
+00:00:06,000 --> 00:00:08,500
+¿Qué color primero?
+
+4
+00:00:09,000 --> 00:00:11,500
+¡Rojo! No, ¡azul!
+
+5
+00:00:12,000 --> 00:00:14,500
+¡Pintemos juntos!
+
+6
+00:00:18,000 --> 00:00:20,000
+¡Tan hermoso!
+
+7
+00:00:22,000 --> 00:00:24,500
+¡Mira lo que hicimos!
+
+8
+00:00:26,000 --> 00:00:29,000
+El arte es más divertido con amigos.

@@ -1,11 +1,31 @@
 1
-00:00:01,000 --> 00:00:04,000
-Renkli Çiçekler
+00:00:01,000 --> 00:00:03,500
+Sofia renkli çiçekler bulur.
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:04,000 --> 00:00:06,000
+Çok fazla renk!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Bölüm içeriği buraya eklenecek]
+00:00:06,500 --> 00:00:09,000
+Biraz toplayalım!
+
+4
+00:00:09,500 --> 00:00:12,000
+Arkadaşlarımız için!
+
+5
+00:00:14,000 --> 00:00:16,000
+Alın!
+
+6
+00:00:16,500 --> 00:00:19,000
+Teşekkürler, Sofia!
+
+7
+00:00:20,000 --> 00:00:23,000
+Çiçekler paylaşılınca daha güzel.
+
+8
+00:00:24,000 --> 00:00:27,000
+Arkadaşlar ve çiçekler birlikte.
