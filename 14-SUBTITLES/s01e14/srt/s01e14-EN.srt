@@ -1,11 +1,31 @@
 1
-00:00:01,000 --> 00:00:04,000
-What Stars Say
+00:00:01,000 --> 00:00:03,500
+Opa, the stars are pretty.
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:04,000 --> 00:00:06,500
+What do stars say?
 
 3
-00:00:07,500 --> 00:00:10,000
-[Episode content goes here]
+00:00:07,000 --> 00:00:09,500
+Hmm, let me think.
+
+4
+00:00:10,000 --> 00:00:12,500
+Stars say goodnight.
+
+5
+00:00:13,000 --> 00:00:14,500
+Even to me?
+
+6
+00:00:15,000 --> 00:00:17,500
+Especially to you.
+
+7
+00:00:18,000 --> 00:00:20,000
+Goodnight, stars.
+
+8
+00:00:20,500 --> 00:00:23,000
+Goodnight, little one.

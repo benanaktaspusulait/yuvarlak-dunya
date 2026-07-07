@@ -1,11 +1,39 @@
 1
-00:00:01,000 --> 00:00:04,000
-Zıpla Zıpla Kiko!
+00:00:01,000 --> 00:00:03,500
+Bir top! Oynayalım!
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:04,000 --> 00:00:07,000
+Hop hop! Ben de oynamak istiyorum!
 
 3
 00:00:07,500 --> 00:00:10,000
-[Bölüm içeriği buraya eklenecek]
+ yakala, Mimi!
+
+4
+00:00:10,500 --> 00:00:12,000
+Çok eğlenceli!
+
+5
+00:00:12,500 --> 00:00:15,000
+Aferin arkadaşlar!
+
+6
+00:00:15,500 --> 00:00:18,500
+Mimi! Bak ne buldum!
+
+7
+00:00:19,000 --> 00:00:21,500
+Bir top! Ben de oynayabilir miyim?
+
+8
+00:00:22,000 --> 00:00:24,500
+Zıpla, zıpla!
+
+9
+00:00:25,000 --> 00:00:28,000
+Aferin küçükler!
+
+10
+00:00:28,500 --> 00:00:31,500
+Oyunlar paylaşıldığında parlar!

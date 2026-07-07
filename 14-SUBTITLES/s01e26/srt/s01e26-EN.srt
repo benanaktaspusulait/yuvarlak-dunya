@@ -1,11 +1,59 @@
 1
-00:00:01,000 --> 00:00:04,000
-Goodbye See You Soon
+00:00:01,000 --> 00:00:03,000
+Everyone is here!
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:03,500 --> 00:00:06,000
+Goodbye, friends!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Episode content goes here]
+00:00:06,500 --> 00:00:08,500
+See you soon!
+
+4
+00:00:09,000 --> 00:00:12,000
+Goodnight, Pompom Hills!
+
+5
+00:00:12,500 --> 00:00:15,500
+Every goodbye is a promise.
+
+6
+00:00:16,000 --> 00:00:18,500
+Promise to meet again.
+
+7
+00:00:19,000 --> 00:00:20,000
+Promise?
+
+8
+00:00:20,500 --> 00:00:22,500
+Promise. Always.
+
+9
+00:00:23,000 --> 00:00:25,000
+We promise!
+
+10
+00:00:25,500 --> 00:00:28,000
+See you soon, friends.
+
+11
+00:00:28,500 --> 00:00:31,500
+The Pompom Tree is glowing!
+
+12
+00:00:32,000 --> 00:00:34,500
+It's saying goodbye too.
+
+13
+00:00:35,000 --> 00:00:37,500
+Goodnight, friends.
+
+14
+00:00:38,000 --> 00:00:40,500
+See you next season!
+
+15
+00:00:41,000 --> 00:00:43,000
+See you soon!

@@ -1,11 +1,63 @@
 1
-00:00:01,000 --> 00:00:04,000
-La Piedra Redonda
+00:00:01,000 --> 00:00:03,000
+¡Oh! ¿Qué es esto?
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:03,500 --> 00:00:05,000
+¡Hola Luca!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Contenido del episodio aquí]
+00:00:05,500 --> 00:00:07,500
+¡Mira lo que encontré!
+
+4
+00:00:08,000 --> 00:00:09,000
+¡Guau!
+
+5
+00:00:09,500 --> 00:00:11,500
+Es tan redondo.
+
+6
+00:00:12,000 --> 00:00:14,000
+¡Como una luna pequeña!
+
+7
+00:00:14,500 --> 00:00:17,000
+Este también es redondo.
+
+8
+00:00:17,500 --> 00:00:20,500
+¡Colina de Piedra tiene muchas formas!
+
+9
+00:00:21,000 --> 00:00:23,500
+¿Lo guardamos?
+
+10
+00:00:24,000 --> 00:00:26,500
+Quizás podemos compartirlo.
+
+11
+00:00:27,000 --> 00:00:29,500
+Ahora todos pueden verlo.
+
+12
+00:00:30,000 --> 00:00:31,500
+Juntos.
+
+13
+00:00:32,000 --> 00:00:34,500
+Se ve perfecto aquí.
+
+14
+00:00:35,000 --> 00:00:38,000
+Como si siempre hubiera estado destinado a estar aquí.
+
+15
+00:00:38,500 --> 00:00:40,500
+Adiós, piedrita.
+
+16
+00:00:41,000 --> 00:00:43,500
+¡Te visitaremos de nuevo!

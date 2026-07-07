@@ -1,11 +1,31 @@
 1
-00:00:01,000 --> 00:00:04,000
-Lo Que Dicen las Estrellas
+00:00:01,000 --> 00:00:03,500
+Opa, las estrellas son bonitas.
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:04,000 --> 00:00:06,500
+¿Qué dicen las estrellas?
 
 3
-00:00:07,500 --> 00:00:10,000
-[Contenido del episodio aquí]
+00:00:07,000 --> 00:00:09,500
+Hmm, déjame pensar.
+
+4
+00:00:10,000 --> 00:00:12,500
+Las estrellas dicen buenas noches.
+
+5
+00:00:13,000 --> 00:00:14,500
+¿Incluso a mí?
+
+6
+00:00:15,000 --> 00:00:17,500
+Especialmente a ti.
+
+7
+00:00:18,000 --> 00:00:20,000
+Buenas noches, estrellas.
+
+8
+00:00:20,500 --> 00:00:23,000
+Buenas noches, pequeño.

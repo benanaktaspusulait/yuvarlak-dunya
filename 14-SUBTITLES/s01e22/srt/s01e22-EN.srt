@@ -1,11 +1,51 @@
 1
-00:00:01,000 --> 00:00:04,000
-Rainbow Wishes
+00:00:01,000 --> 00:00:03,000
+A rainbow!
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:03,500 --> 00:00:05,500
+So pretty!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Episode content goes here]
+00:00:06,000 --> 00:00:09,000
+I wish for more adventures!
+
+4
+00:00:09,500 --> 00:00:12,500
+I wish for more friends!
+
+5
+00:00:13,000 --> 00:00:16,500
+I wish for happy days with Mimi.
+
+6
+00:00:17,000 --> 00:00:19,500
+Your wish came true!
+
+7
+00:00:20,000 --> 00:00:22,000
+I think so!
+
+8
+00:00:22,500 --> 00:00:25,000
+Your turn, Mimi!
+
+9
+00:00:25,500 --> 00:00:28,500
+I wish for more rainbow days.
+
+10
+00:00:29,000 --> 00:00:31,500
+Let's wish together!
+
+11
+00:00:32,000 --> 00:00:35,500
+We wish for friendship forever!
+
+12
+00:00:36,000 --> 00:00:38,500
+The rainbow is glowing!
+
+13
+00:00:39,000 --> 00:00:42,500
+Our wishes are in the rainbow!

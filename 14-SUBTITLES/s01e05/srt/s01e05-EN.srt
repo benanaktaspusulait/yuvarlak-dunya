@@ -1,11 +1,63 @@
 1
-00:00:01,000 --> 00:00:04,000
-Colours Everywhere
+00:00:01,000 --> 00:00:03,500
+Red! I found red!
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:04,000 --> 00:00:06,000
+Hi Kiko!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Episode content goes here]
+00:00:06,500 --> 00:00:09,000
+I'm finding colours!
+
+4
+00:00:09,500 --> 00:00:11,500
+I see blue!
+
+5
+00:00:12,000 --> 00:00:14,000
+A blue bench!
+
+6
+00:00:14,500 --> 00:00:16,500
+Yellow flowers!
+
+7
+00:00:17,000 --> 00:00:19,000
+So bright!
+
+8
+00:00:19,500 --> 00:00:22,500
+Look! The grass is green!
+
+9
+00:00:23,000 --> 00:00:25,500
+So soft and green!
+
+10
+00:00:26,000 --> 00:00:28,000
+Purple flags!
+
+11
+00:00:28,500 --> 00:00:31,000
+Purple is so pretty!
+
+12
+00:00:31,500 --> 00:00:35,000
+Red, blue, yellow, green, purple...
+
+13
+00:00:35,500 --> 00:00:38,000
+All the colours are here!
+
+14
+00:00:38,500 --> 00:00:41,000
+In one happy place!
+
+15
+00:00:41,500 --> 00:00:44,000
+Colours are everywhere!
+
+16
+00:00:44,500 --> 00:00:47,500
+And we found them together!

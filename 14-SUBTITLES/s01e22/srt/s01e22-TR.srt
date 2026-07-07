@@ -1,11 +1,51 @@
 1
-00:00:01,000 --> 00:00:04,000
-Gökkuşağı Dilekleri
+00:00:01,000 --> 00:00:03,000
+Bir gökkuşağı!
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:03,500 --> 00:00:05,500
+Çok güzel!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Bölüm içeriği buraya eklenecek]
+00:00:06,000 --> 00:00:09,000
+Daha fazla macera diliyorum!
+
+4
+00:00:09,500 --> 00:00:12,500
+Daha fazla arkadaş diliyorum!
+
+5
+00:00:13,000 --> 00:00:16,500
+Mimi ile mutlu günler diliyorum.
+
+6
+00:00:17,000 --> 00:00:19,500
+Dileğin gerçekleşti!
+
+7
+00:00:20,000 --> 00:00:22,000
+Öyle düşünüyorum!
+
+8
+00:00:22,500 --> 00:00:25,000
+Sıra sende, Mimi!
+
+9
+00:00:25,500 --> 00:00:28,500
+Daha fazla gökkuşağı günü diliyorum.
+
+10
+00:00:29,000 --> 00:00:31,500
+Birlikte dileyelim!
+
+11
+00:00:32,000 --> 00:00:35,500
+Sonsuza kadar arkadaşlık diliyoruz!
+
+12
+00:00:36,000 --> 00:00:38,500
+Gökkuşağı parlıyor!
+
+13
+00:00:39,000 --> 00:00:42,500
+Dileklerimiz gökkuşağında!

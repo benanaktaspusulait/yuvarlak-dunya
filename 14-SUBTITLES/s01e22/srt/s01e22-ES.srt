@@ -1,11 +1,51 @@
 1
-00:00:01,000 --> 00:00:04,000
-Los Deseos del Arcoíris
+00:00:01,000 --> 00:00:03,000
+¡Un arcoíris!
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:03,500 --> 00:00:05,500
+¡Tan bonita!
 
 3
-00:00:07,500 --> 00:00:10,000
-[Contenido del episodio aquí]
+00:00:06,000 --> 00:00:09,000
+¡Deseo más aventuras!
+
+4
+00:00:09,500 --> 00:00:12,500
+¡Deseo más amigos!
+
+5
+00:00:13,000 --> 00:00:16,500
+Deseo días felices con Mimi.
+
+6
+00:00:17,000 --> 00:00:19,500
+¡Tu deseo se hizo realidad!
+
+7
+00:00:20,000 --> 00:00:22,000
+¡Creo que sí!
+
+8
+00:00:22,500 --> 00:00:25,000
+¡Tu turno, Mimi!
+
+9
+00:00:25,500 --> 00:00:28,500
+Deseo más días de arcoíris.
+
+10
+00:00:29,000 --> 00:00:31,500
+¡Deseemos juntos!
+
+11
+00:00:32,000 --> 00:00:35,500
+¡Deseamos amistad para siempre!
+
+12
+00:00:36,000 --> 00:00:38,500
+¡El arcoíris brilla!
+
+13
+00:00:39,000 --> 00:00:42,500
+¡Nuestros deseos están en el arcoíris!

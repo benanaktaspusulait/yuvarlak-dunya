@@ -1,11 +1,31 @@
 1
-00:00:01,000 --> 00:00:04,000
-Yapraklar Neden Düşer
+00:00:01,000 --> 00:00:03,500
+Yapraklar düşüyor...
 
 2
-00:00:04,500 --> 00:00:07,000
-Pompom Hills
+00:00:04,000 --> 00:00:07,000
+Opa, yapraklar neden düşer?
 
 3
 00:00:07,500 --> 00:00:10,000
-[Bölüm içeriği buraya eklenecek]
+Yenileri büyüyebilsin diye.
+
+4
+00:00:10,500 --> 00:00:13,000
+Merhaba, küçük yaprak!
+
+5
+00:00:13,500 --> 00:00:16,000
+Dans ediyorlar gibi görünüyorlar.
+
+6
+00:00:16,500 --> 00:00:18,000
+Yakaladım!
+
+7
+00:00:18,500 --> 00:00:21,000
+Çok güzel.
+
+8
+00:00:21,500 --> 00:00:24,500
+Her şey yavaşça değişir.
