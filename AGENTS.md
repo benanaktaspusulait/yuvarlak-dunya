@@ -87,7 +87,7 @@ olduğu" gibi). İki kaynak doğrudan çelişiyorsa (örn. bölüm süresi):
 3. Kullanıcı onaylayınca hangi dosyanın güncelleneceğine karar ver (mümkünse eski dosyaya
    "superseded by X" notu ekle, silme).
 
-> **Çözülen çelişki:** Bölüm süresi standardı 90 saniye olarak kilitlenmiştir.
+> **Çözülen çelişki:** Bölüm süresi standardı 120 saniye (minimum) olarak kilitlenmiştir.
 > `00-CORE/TECH_SPECS.md`, `00-CORE/SERIES_STRUCTURE.md`, `00-CORE/PRODUCTION_PIPELINE.md`,
 > `00-CORE/CHARACTER_GUIDE.md` ve `08-PRODUCTION/` dosyaları güncellenmiştir.
 

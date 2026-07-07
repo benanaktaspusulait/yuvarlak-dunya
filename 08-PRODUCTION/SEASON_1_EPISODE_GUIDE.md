@@ -10,12 +10,12 @@
 | Toplam bölüm | 26 |
 | Hedef yaş | 3-4 |
 | Format | 3D animasyon |
-| Bölüm süresi | 90 saniye (6 shot × 15 sn) — standart format |
-| Toplam süre | ~39 dakika |
+| Bölüm süresi | 120 saniye (8 shot × 15 sn) — minimum standart |
+| Toplam süre | ~52 dakika |
 | Üretilen | 7/26 |
 
-> *Sezon 1 standart bölüm süresi 90 saniye (6 shot × 15 sn) olarak kilitlenmiştir.*
-> *Üretilmiş bölümlerin süresi (60 sn) geçerlidir; yeni bölümler 90 sn standardına uygun üretilir.*
+> *Sezon 1 minimum bölüm süresi 120 sn (8 shot × 15 sn) olarak kilitlenmiştir.*
+> *Üretilmiş bölümlerin süresi geçerlidir; yeni bölümler 120 sn minimum standardına uygun üretilir.*
 
 ---
 

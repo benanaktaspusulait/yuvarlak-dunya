@@ -542,15 +542,15 @@ A warm hug. A soft voice. A gentle discovery. A safe ending. The toddler should 
 
 ## 12. Standard Episode Formula
 
-### Base Formula (90 seconds)
+### Base Formula (120 seconds minimum)
 
 | Section | Duration | Description |
 |---------|----------|-------------|
 | **Opening Routine** | 10–15 seconds | Familiar music, same visuals, same greeting. Creates ritual and safety. |
 | **Simple Discovery / Problem** | 20–30 seconds | One small thing happens. A sound, a sight, a feeling. |
-| **Gentle Exploration** | 30–45 seconds | Characters investigate, try, react, learn. |
-| **Soft Resolution** | 10–15 seconds | Problem solved gently. Everyone happy. Emotional loop closed. |
-| **Repetition / Song / Goodbye** | 10–15 seconds | Key phrase repeated. Mini melody. Warm goodbye. |
+| **Gentle Exploration** | 40–60 characters investigate, try, react, learn. |
+| **Soft Resolution** | 15–20 seconds | Problem solved gently. Everyone happy. Emotional loop closed. |
+| **Repetition / Song / Goodbye** | 15–20 seconds | Key phrase repeated. Mini melody. Warm goodbye. |
 
 ### Variation by Episode Type
 

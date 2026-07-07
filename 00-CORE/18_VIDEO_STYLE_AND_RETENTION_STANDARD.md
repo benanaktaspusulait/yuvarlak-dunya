@@ -560,11 +560,11 @@ Bad retention tools:
 
 Current preferred long-form lengths:
 
-- 90 seconds (primary standard)
+- 120 seconds (minimum standard)
 
-120-second videos are allowed only when:
+Longer videos (180–300 sn) are allowed when:
 
-- 90-second videos show strong retention
+- 120-second videos show strong retention
 - the story has enough beats
 - the world can support longer attention
 - the episode can produce multiple strong Shorts

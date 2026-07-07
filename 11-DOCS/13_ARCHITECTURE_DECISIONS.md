@@ -530,7 +530,7 @@ This decision should be revisited after 30 days of analytics data.
 **Category:** Production
 
 **Decision:**
-Shorts (15-30 seconds) are derived from existing long episodes (90 seconds), not produced as independent content. Each long episode should yield 1-2 Shorts.
+Shorts (15-30 seconds) are derived from existing long episodes (120 seconds), not produced as independent content. Each long episode should yield 1-2 Shorts.
 
 **Context:**
 Producing Shorts independently doubles production cost. Deriving them from episodes ensures visual consistency and maximizes return on production investment.

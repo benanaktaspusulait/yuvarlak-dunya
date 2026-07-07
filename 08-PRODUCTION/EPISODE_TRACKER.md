@@ -184,7 +184,7 @@
   `OPA_STORYTIME_*` klasörleri altında `.mp4`, `.mov`, `.m4v` veya `.webm` video export dosyası bulunmadı.
   Seri standardı 300 sn (5 dakika) olarak kilitlenmiştir.
 - Brave Little Days EP08-EP20 için episode package'lar tamamlanmıştır (`04_EPISODE_PACKAGES/` altında mevcut). Durum 🟡 Yazıldı olarak güncellenmiştir.
-- Sezon süresi standardı 90 saniye olarak kilitlenmiştir. Üretilmiş bölümlerin süresi (60 sn) geçerlidir; yeni bölümler 90 sn standardına uygun üretilir.
+- Sezon süresi standardı 120 sn (minimum) olarak kilitlenmiştir. Üretilmiş bölümlerin süresi geçerlidir; yeni bölümler 120 sn minimum standardına uygun üretilir.
 
 ---
 

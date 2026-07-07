@@ -108,7 +108,7 @@ Walking shot batch:
 ```
 □ Tüm shot'ları sırayla birleştir
 □ Ses ekle (diyalog + SFX + müzik)
-□ Süre kontrolü (90 saniye)
+□ Süre kontrolü (120 saniye)
 □ Final kalite kontrol
 ```
 

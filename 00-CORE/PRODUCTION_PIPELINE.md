@@ -30,7 +30,7 @@ The goal of the first production phase is NOT to create long episodes.
 
 The goal is to build a professional, repeatable and reliable production pipeline.
 
-Every 90-second episode is considered a production experiment.
+Every 120-second episode is considered a production experiment.
 
 Each episode should help validate or improve one or more production rules.
 
@@ -63,7 +63,7 @@ A production rule is considered stable only after it has been successfully valid
 
 Goal:
 
-Create multiple 90-second episodes.
+Create multiple 120-second episodes.
 
 The objective is to strengthen the production system rather than increase story complexity.
 
@@ -294,7 +294,7 @@ Bu bölümler, "Goodnight, Tree" (E11) bölümünün üretim sürecinde edinilen
 
 ## Story Structure
 
-- Start with 90-second episodes.
+- Start with 120-second episodes.
 - Each episode consists of 6 shots.
 - Each shot is approximately 15 seconds.
 - Use only one world whenever possible.
@@ -393,7 +393,7 @@ Improve the pipeline only after the episode is complete.
 
 **Phase 1**
 
-Create several 90-second episodes.
+Create several 120-second episodes.
 
 Focus on production quality and workflow consistency.
 

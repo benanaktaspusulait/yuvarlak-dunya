@@ -2,6 +2,22 @@
 
 Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 
+## v3.3 - Minimum Süre 2 Dakika
+
+### Changed
+
+- Bölüm süresi standardı 120 saniye (minimum) olarak güncellendi
+  - `00-CORE/TECH_SPECS.md`: 90sn → 120sn minimum, frame count 2,160 → 2,880
+  - `00-CORE/SERIES_STRUCTURE.md`: Base Formula 120sn minimum
+  - `00-CORE/PRODUCTION_PIPELINE.md`: Tüm "90-second" referansları
+  - `00-CORE/CHARACTER_GUIDE.md`: Format 120sn
+  - `00-CORE/BATCH_WORKFLOW.md`: Süre kontrolü 120sn
+  - `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md`: Primary 120sn minimum
+  - `08-PRODUCTION/PRODUCTION_CALENDAR.md`: Toplam süre 52 dk
+  - `08-PRODUCTION/SEASON_1_EPISODE_GUIDE.md`: Standart 120sn
+  - `08-PRODUCTION/EPISODE_TRACKER.md`: Çelişki notu güncellendi
+  - `AGENTS.md`: Çözüm notu güncellendi
+
 ## v3.2 - Süre Standardı Çelişkisi Çözümü
 
 ### Changed
