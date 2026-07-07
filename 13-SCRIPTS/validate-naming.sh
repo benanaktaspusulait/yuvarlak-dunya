@@ -38,8 +38,8 @@ echo "📁 POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/ kontrolü...
 for d in POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/*/; do
     [ -d "$d" ] || continue
     dirname=$(basename "$d")
-    if [[ ! "$dirname" =~ ^(S01E|ONB_E|OPA_STORYTIME_EP)[A-Z0-9_]+$ ]]; then
-        echo "  ❌ HATALI: $dirname (beklenen: S01Exx_..., ONB_Exx_... veya OPA_STORYTIME_EPxx_...)"
+    if [[ ! "$dirname" =~ ^(S01E|ONB_E|OPA_STORYTIME_EP|BLD_EP|BRAVE_LITTLE_DAYS_EP)[A-Z0-9_]+$ ]]; then
+        echo "  ❌ HATALI: $dirname (beklenen: S01Exx_..., ONB_Exx_..., OPA_STORYTIME_EPxx_... veya BLD/BRAVE_LITTLE_DAYS_EPxx_...)"
         ERRORS=$((ERRORS + 1))
     fi
 done

@@ -20,7 +20,7 @@ Seasons are designed to be:
 | Aspect | Detail |
 |--------|--------|
 | **Episodes** | 26 |
-| **Episode length** | 60 seconds |
+| **Episode length** | 90 seconds |
 | **Focus** | Introduce the world and core characters |
 | **New characters** | 6 (Kiko, Mimi, Opa, Luca, Noah, Arda) |
 | **New worlds** | 4 (Central Square, Opa's Tree, Opa's Tree Night, Stone Hill) |
@@ -31,7 +31,7 @@ Seasons are designed to be:
 | Aspect | Detail |
 |--------|--------|
 | **Episodes** | 26 |
-| **Episode length** | 60 seconds |
+| **Episode length** | 90 seconds |
 | **Focus** | Deepen character relationships, introduce new worlds |
 | **New characters** | 2–3 |
 | **New worlds** | 2–3 |

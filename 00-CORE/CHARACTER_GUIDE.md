@@ -7,7 +7,7 @@
 | Alan | Kilit Standart |
 | --- | --- |
 | Seri | Yuvarlak Dunya - Pompom Hills |
-| Format | 3D animasyon, 60 saniye x 26 bolum |
+| Format | 3D animasyon, 90 saniye x 26 bolum |
 | Hedef yas | 3-4 yas |
 | Olcu sistemi | Kiko toplam boy = 100 birim |
 | Ana trio | Kiko, Mimi, Opa |

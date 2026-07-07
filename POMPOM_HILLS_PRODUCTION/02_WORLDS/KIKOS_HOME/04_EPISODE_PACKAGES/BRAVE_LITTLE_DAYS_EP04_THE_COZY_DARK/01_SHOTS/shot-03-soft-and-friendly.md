@@ -96,3 +96,4 @@ background music, music, melody, song, soundtrack
 - [ ] Kiko + Opa identity/voices consistent; night soft blue (not black).
 - [ ] Kiko's shift toward hope reads clearly (pivot beat).
 - [ ] Interior stable; no on-screen text; calm but alive.
+- [ ] Sky, lighting, colour grading match @image1; soft blue night locked.

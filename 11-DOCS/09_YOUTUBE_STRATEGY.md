@@ -99,7 +99,7 @@ Release order:
 | Bedtime Stories | Evening viewing |
 | Nature & Discovery | Educational |
 | Best Of | New viewer entry |
-| Opa's Storytime \| Gentle Preschool Stories | Recurring interactive storytelling sub-series hosted by Opa; groups longer 60–120s episodes for session time and repeat viewing. See `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`. |
+| Opa's Storytime \| Gentle Preschool Stories | Recurring interactive storytelling sub-series hosted by Opa; groups longer 300-second episodes for session time and repeat viewing. See `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`. |
 
 ---
 
@@ -660,7 +660,7 @@ strategic placement of the series within channel publishing.
 
 Placement in publishing cadence:
 
-- Opa's Storytime episodes run 60–120 seconds and count as a "long video" slot in the daily rhythm (§8).
+- Opa's Storytime episodes run 300 seconds and count as a "long video" slot in the daily rhythm (§8).
 - Each episode still produces 3–5 Shorts under the same rules as other long videos (§7), tagged so they
   drive viewers back to the Opa's Storytime playlist (see format doc §15–16).
 - Track each Opa's Storytime episode in `08-PRODUCTION/CONTENT_MATRIX.md` alongside other content.

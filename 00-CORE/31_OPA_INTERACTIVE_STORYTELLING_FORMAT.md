@@ -74,7 +74,7 @@ feelings, and little everyday discoveries.
 - Improve YouTube session time.
 - Help parents find calm story videos.
 - Make Opa a recognisable storyteller.
-- Group longer 60–120 second episodes together.
+- Group longer 300-second episodes together.
 - Support repeat viewing.
 - Create a clear content lane separate from character intros and general learning stories.
 

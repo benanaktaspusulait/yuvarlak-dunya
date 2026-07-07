@@ -10,12 +10,12 @@
 | Toplam bölüm | 26 |
 | Hedef yaş | 3-4 |
 | Format | 3D animasyon |
-| Bölüm süresi | 60 saniye (4 shot × 15 sn) — varsayılan format* |
-| Toplam süre | ~26 dakika |
-| Üretilen | 4/26 |
+| Bölüm süresi | 90 saniye (6 shot × 15 sn) — standart format |
+| Toplam süre | ~39 dakika |
+| Üretilen | 7/26 |
 
-> *İstisna: S01E07 — The Round Stone 90 saniyeye (6 shot × 15 sn) genişletildi.
-> Sezon geneli süre standardı (60s ↔ 90s) henüz çözülmedi (bkz. `AGENTS.md` §2).
+> *Sezon 1 standart bölüm süresi 90 saniye (6 shot × 15 sn) olarak kilitlenmiştir.*
+> *Üretilmiş bölümlerin süresi (60 sn) geçerlidir; yeni bölümler 90 sn standardına uygun üretilir.*
 
 ---
 

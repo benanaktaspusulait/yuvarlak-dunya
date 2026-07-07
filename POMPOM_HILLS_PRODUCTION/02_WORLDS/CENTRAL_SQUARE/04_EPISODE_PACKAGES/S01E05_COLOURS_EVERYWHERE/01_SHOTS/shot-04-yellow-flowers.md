@@ -163,3 +163,4 @@ See `03_VIDEO_EXPORTS/shot-04-openart-prompt.md` for the OpenArt-facing Negative
 - [ ] Sky, lighting, colour grading, exposure and contrast match @image1.
 - [ ] Natural ambience only; no music, melody, song, soundtrack or chime.
 - [ ] Final frame is usable as @image1 for the next shot.
+- [ ] No subtitles. No text. No speech bubbles. No captions.

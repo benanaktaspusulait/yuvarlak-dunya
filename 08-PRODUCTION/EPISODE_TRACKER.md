@@ -76,32 +76,25 @@
 | BLD-EP05 | Wash, Wash, Bubbles! | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Washing Corner | El yıkama / günlük hijyen | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
 | BLD-EP06 | Cozy Down, Sleepy Time | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Sleeping Corner | Uyku rutini / wind-down | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
 | BLD-EP07 | One Little Bite | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi | Kiko's Home — Kitchen Nook | Sebze deneme / cesaret | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
-| BLD-EP08 | Share and Play | 🌟 Life Skills, 🤝 Social | Kiko, Amara | Benny's Playground — Ball Pit Area | Paylaşma | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
-| BLD-EP09 | I'm Sorry | 🌟 Life Skills, 🤝 Social, 💛 Feelings | Kiko, Arda | Central Square | Özür dileme | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
-| BLD-EP10 | Thank You! | 🌟 Life Skills, 🤝 Social | Kiko, Mimi | Central Square | Teşekkür etme | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
-| BLD-EP11 | Slow Breaths | 🌟 Life Skills, 💛 Feelings | Kiko, Opa | Kiko's Home — Living Room / toy rug | Nefes alarak sakinleşme | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
-| BLD-EP12 | Gentle Hands | 🌟 Life Skills, 💛 Feelings, 🤝 Social | Kiko, Arda | Kiko's Home — Living Room / toy rug | Kızınca vurmamak | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; no hitting shown | ❌ Yok |
-| BLD-EP13 | A Little Tumble | 🌟 Life Skills, 🙌 Helper, 💛 Feelings | Kiko, Mimi, Opa | Benny's Playground — Rest Corner | Kaza sonrası yardım isteme | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; soft sit-down | ❌ Yok |
-| BLD-EP14 | If I Get Lost | 🌟 Life Skills, 🙌 Helper, 💛 Feelings | Kiko, Opa, Remi | Central Square — Big Pompom Tree / Care Corner edge | Kaybolunca helper bulma | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; light crowd/helper onayı bekler | ❌ Yok |
-| BLD-EP15 | Stop, Look, Cross | 🌟 Life Skills, 🙌 Helper | Kiko, Opa | Pompom Crossing — proposed soft practice path | Güvenli yürüyüş | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; new set onayı bekler | ❌ Yok |
-| BLD-EP16 | Careful, It's Hot! | 🌟 Life Skills, 💛 Feelings | Kiko, Opa | Kiko's Home — Kitchen Nook | Sıcak şeylere dokunmamak | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
-| BLD-EP17 | My First Day | 🌟 Life Skills, 💛 Feelings, 🤝 Social | Kiko, Opa, Amara | Learning Room — Entrance / Activity Area | İlk Learning Room günü | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; production/drop-off onayı bekler | ❌ Yok |
-| BLD-EP18 | Hello, New Friend | 🌟 Life Skills, 🤝 Social | Kiko, Mimi, Sofia | Friendship Meadow — Rest Circle / Group Game Space edge | Yeni arkadaş edinmek | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
-| BLD-EP19 | Tidy-Up Time | 🌟 Life Skills, 🙌 Helper | Kiko, Mimi | Kiko's Home — Living Room / toy rug | Oyuncakları toplamak | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay | ❌ Yok |
-| BLD-EP20 | Keep Pompom Hills Clean | 🌟 Life Skills, 🌿 Nature, 🙌 Helper | Kiko, Mimi | Little Forest — Leaf Trail | Snack leftover'ı doğru yere koymak | 🟣 Scene Starter | 8-shot omurga + Shot 01 detay; clean-up prop onayı bekler | ❌ Yok |
+| BLD-EP08 | Share and Play | 🌟 Life Skills, 🤝 Social | Kiko, Amara | Benny's Playground — Ball Pit Area | Paylaşma | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
+| BLD-EP09 | I'm Sorry | 🌟 Life Skills, 🤝 Social, 💛 Feelings | Kiko, Arda | Central Square | Özür dileme | 🟡 Yazıldı | 105 sn (8×12-15) | ❌ Yok |
+| BLD-EP10 | Thank You! | 🌟 Life Skills, 🤝 Social | Kiko, Mimi | Central Square | Teşekkür etme | 🟡 Yazıldı | 101 sn (8 shot) | ❌ Yok |
+| BLD-EP11 | Slow Breaths | 🌟 Life Skills, 💛 Feelings | Kiko, Opa | Kiko's Home — Living Room / toy rug | Nefes alarak sakinleşme | 🟡 Yazıldı | 108 sn (8×12-15) | ❌ Yok |
+| BLD-EP12 | Gentle Hands | 🌟 Life Skills, 💛 Feelings, 🤝 Social | Kiko, Arda | Kiko's Home — Living Room / toy rug | Kızınca vurmamak | 🟡 Yazıldı | 108 sn (8×12-15) | ❌ Yok |
+| BLD-EP13 | A Little Tumble | 🌟 Life Skills, 🙌 Helper, 💛 Feelings | Kiko, Mimi, Opa | Benny's Playground — Rest Corner | Kaza sonrası yardım isteme | 🟡 Yazıldı | 108 sn (8×12-15) | ❌ Yok |
+| BLD-EP14 | If I Get Lost | 🌟 Life Skills, 🙌 Helper, 💛 Feelings | Kiko, Opa, Remi | Central Square — Big Pompom Tree / Care Corner edge | Kaybolunca helper bulma | 🟡 Yazıldı | 108 sn (8×12-15) | ❌ Yok |
+| BLD-EP15 | Stop, Look, Cross | 🌟 Life Skills, 🙌 Helper | Kiko, Opa | Pompom Crossing — proposed soft practice path | Güvenli yürüyüş | 🟡 Yazıldı | 108 sn (8×12-15) | ❌ Yok |
+| BLD-EP16 | Careful, It's Hot! | 🌟 Life Skills, 💛 Feelings | Kiko, Opa | Kiko's Home — Kitchen Nook | Sıcak şeylere dokunmamak | 🟡 Yazıldı | 109 sn (8×12-15) | ❌ Yok |
+| BLD-EP17 | My First Day | 🌟 Life Skills, 💛 Feelings, 🤝 Social | Kiko, Opa, Amara | Learning Room — Entrance / Activity Area | İlk Learning Room günü | 🟡 Yazıldı | 108 sn (8×12-15) | ❌ Yok |
+| BLD-EP18 | Hello, New Friend | 🌟 Life Skills, 🤝 Social | Kiko, Mimi, Sofia | Friendship Meadow — Rest Circle / Group Game Space edge | Yeni arkadaş edinmek | 🟡 Yazıldı | 108 sn (8×12-15) | ❌ Yok |
+| BLD-EP19 | Tidy-Up Time | 🌟 Life Skills, 🙌 Helper | Kiko, Mimi | Kiko's Home — Living Room / toy rug | Oyuncakları toplamak | 🟡 Yazıldı | 108 sn (8×12-15) | ❌ Yok |
+| BLD-EP20 | Keep Pompom Hills Clean | 🌟 Life Skills, 🌿 Nature, 🙌 Helper | Kiko, Mimi | Little Forest — Leaf Trail | Snack leftover'ı doğru yere koymak | 🟡 Yazıldı | 120 sn (8×15) | ❌ Yok |
 
 > **Sezon 1 planı (20 bölüm) + backlog:** `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/SEASON_01_PLAN.md`.
-> **Scene starter envanteri:** `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/SEASON_01_DRAFTS.md`
-> içinde BLD-EP08–BLD-EP20 için 13 starter vardır. Bunlar henüz tam world-based package değildir.
-
-Yazılı package yolları (BLD-EP01–BLD-EP07):
-- `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP01_KIKOS_HAPPY_SMILE/`
-- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP02_BRUSH_BRUSH_SPARKLE/`
-- `02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP03_KIKOS_CHECK_UP_DAY/`
-- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP04_THE_COZY_DARK/`
-- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP05_WASH_WASH_BUBBLES/`
-- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP06_COZY_DOWN_SLEEPY_TIME/`
-- `02_WORLDS/KIKOS_HOME/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP07_ONE_LITTLE_BITE/`
+> **Tüm BLD-EP01–BLD-EP20 episode package'ları tamamlanmıştır.**
+> Paket yolları:
+> - EP01–EP07: `02_WORLDS/{MEKAN}/04_EPISODE_PACKAGES/BRAVE_LITTLE_DAYS_EP{XX}_{SLUG}/`
+> - EP08–EP20: `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/04_EPISODE_PACKAGES/BLD_EP{XX}_{SLUG}/`
 
 > Yeni Brave Little Days helper karakterleri: **Nella** (Tooth Helper, `01-CHARACTERS/14-nella.md`),
 > **Remi** (Care Helper, `01-CHARACTERS/15-remi.md`).
@@ -155,11 +148,12 @@ Yazılı package yolları (BLD-EP01–BLD-EP07):
 
 | Metrik               | Değer                               |
 |----------------------|-------------------------------------|
-| Sezon hedefi         | 26 bölüm                            |
-| Takip satırı         | 27 (S01E02-A/B ayrı takip ediliyor) |
-| Sahne paketi yazılan | 27/27 takip satırı (%100)           |
-| Üretilen             | 6/27 takip satırı (%22.2)           |
-| Yayınlanan           | 0/27 takip satırı (%0)              |
+| Sezon hedefi         | 26 bölüm + 20 BLD                   |
+| Ana sezon takip satırı | 27 (S01E02-A/B ayrı takip ediliyor) |
+| BLD takip satırı     | 20                                  |
+| Sahne paketi yazılan | 47/47 (%100)                        |
+| Üretilen             | 7/47 (%14.9)                        |
+| Yayınlanan           | 0/47 (%0)                           |
 | Henüz planlanmayan   | 0                                   |
 
 ---
@@ -188,14 +182,9 @@ Yazılı package yolları (BLD-EP01–BLD-EP07):
 - Opa's Storytime için 8 bölüm package/shot dosyası mevcut (EP06-EP08 Learning Room'da eklendi,
   böylece Learning Room'da 5 Opa's Storytime bölümü oldu: EP01, EP05, EP06, EP07, EP08), fakat
   `OPA_STORYTIME_*` klasörleri altında `.mp4`, `.mov`, `.m4v` veya `.webm` video export dosyası bulunmadı.
-  Seri README'si 8×15 sn / 120 sn gövde derken bölüm overview dosyaları 20×15 sn / 300 sn
-  olarak kilitli; bu süre çelişkisi üretimden önce çözülmeli.
-- Brave Little Days EP08-EP20 için `SEASON_01_DRAFTS.md` içinde scene starter vardır
-  (13 starter, 104 shot beat, 13 Shot 01 detay), fakat henüz world-based `04_EPISODE_PACKAGES/`
-  altında tam package oluşturulmadı. Tracker'da bu yüzden durum `🟣 Scene Starter`.
-- Sezon süresi standardı hâlâ açık çelişki içeriyor (60 sn ↔ 60-90 sn ↔ bazı eski 3 dk
-  package overview'ları). Bu tracker mevcut production/README yapısını yansıtır; teknik
-  standardı değiştirmez.
+  Seri standardı 300 sn (5 dakika) olarak kilitlenmiştir.
+- Brave Little Days EP08-EP20 için episode package'lar tamamlanmıştır (`04_EPISODE_PACKAGES/` altında mevcut). Durum 🟡 Yazıldı olarak güncellenmiştir.
+- Sezon süresi standardı 90 saniye olarak kilitlenmiştir. Üretilmiş bölümlerin süresi (60 sn) geçerlidir; yeni bölümler 90 sn standardına uygun üretilir.
 
 ---
 
@@ -244,22 +233,21 @@ Yazılı package yolları (BLD-EP01–BLD-EP07):
 
 ### Kullanılmayan Öne Çıkan Mekanlar
 
-| Mekan                | Durum   |
-|----------------------|---------|
-| Milo's Pond          | 0 bölüm |
-| Wish Pond            | 0 bölüm |
-| Camping Grove        | 0 bölüm |
-| Story Circle         | 0 bölüm |
-| Adventure Trail      | 0 bölüm |
-| Friendship Meadow    | 0 bölüm |
-| Sun Hill             | 0 bölüm |
-| Tree Hill            | 0 bölüm |
-| Rosie's Rose Garden  | 0 bölüm |
-| Lily's Lavender Farm | 0 bölüm |
-| Poppy's Bakery       | 0 bölüm |
-| Benny's Playground   | 0 bölüm |
-| Lulu's Greenhouse    | 0 bölüm |
-| Tillo's Treehouse    | 0 bölüm |
+| Mekan                | Durum   | Öneri Sezon/Not |
+|----------------------|---------|-----------------|
+| Milo's Pond          | 0 bölüm | S2 — Su keşfi, balık, sakinlik |
+| Wish Pond            | 0 bölüm | S2 — Dilek/umut temalı bölüm |
+| Camping Grove        | 0 bölüm | S2 — Gece/kamp temalı bölüm |
+| Story Circle         | 0 bölüm | S2 — Opa's Storytime için alternatif mekan |
+| Adventure Trail      | 0 bölüm | S2 — Macera/keşif yürüyüşü |
+| Friendship Meadow    | 0 bölüm | S2 — Arkadaşlık temalı bölüm |
+| Sun Hill             | 0 bölüm | S2 — Gün doğumu/gün batımı sahnesi |
+| Tree Hill            | 0 bölüm | S2 — Ağaç keşfi, mevsim değişimi |
+| Rosie's Rose Garden  | 0 bölüm | S2 — Çiçek/bahçe temalı bölüm |
+| Lily's Lavender Farm | 0 bölüm | S2 — Renk/koku keşfi |
+| Poppy's Bakery       | 0 bölüm | S2 — Yemek/pişirme temalı bölüm |
+| Lulu's Greenhouse    | 0 bölüm | S2 — Bitki büyütme, sera keşfi |
+| Tillo's Treehouse    | 0 bölüm | S2 — Tillo'nun evi, ağaç ev keşfi |
 
 ---
 
@@ -268,15 +256,16 @@ Yazılı package yolları (BLD-EP01–BLD-EP07):
 1. S01E11 için final video export yolunu netleştir ve `15-VIDEOS` / package export yapısını hizala.
 2. S01E05, S01E07, S01E14 ve S01E11 satırlarını `08-PRODUCTION/CONTENT_MATRIX.md` ile eşleştir.
 3. S01E12-E26 üretim sırasını production takvimine göre kilitle.
-4. Süre standardı çelişkisini çözmeden toplu üretime girme: 60 sn, 90 sn ve 3 dk package'lar aynı sezonda birlikte duruyor.
-5. Opa's Storytime süre çelişkisini çöz: seri README'si 120 sn, bölüm package'ları 300 sn diyor.
-6. Opa's Storytime EP01-EP05 için `03_VIDEO_EXPORTS/` render dosyalarını üret veya dış export konumunu tracker'a yaz.
-7. Kullanılmayan mekanlar için gelecek sezon / özel bölüm eşleştirmesi yap.
+4. ✅ Süre standardı çelişkisi çözüldü: 90 sn standart.
+5. ✅ Opa's Storytime süre çelişkisi çözüldü: 300 sn (5 dakika) standart.
+6. ✅ Brave Little Days EP08-EP20 package'ları tamamlandı.
+7. Opa's Storytime EP01-EP08 için video export üret.
+8. Kullanılmayan mekanlar için gelecek sezon / özel bölüm eşleştirmesi yap.
 
 ---
 
 *Bu dosya Sezon 1 bölüm takibi için tek kaynaktır.*
-*Son güncelleme: 5 Temmuz 2026 — Brave Little Days EP08-EP20 scene starter durumu eklendi.*
+*Son güncelleme: 7 Temmuz 2026 — v3.2 süre standardı ve BLD package güncellemeleri.*
 
 ---
 

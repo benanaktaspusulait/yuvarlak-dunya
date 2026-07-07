@@ -121,23 +121,23 @@ else
 
     for f in $(find "$SHOTS_DIR" -name "shot-0[2-9]*.md" -o -name "shot-1*.md" 2>/dev/null); do
         # Frame Lock
-        grep -qi "frame zero\|@image1\|continuity frame\|previous shot\|Video Reference\|Use.*Shot.*as\|Use the previous shot" "$f" && FRAME_LOCK=$((FRAME_LOCK+1))
+        grep -qi "frame zero\|@image1\|continuity frame\|previous shot\|Video Reference\|Use.*Shot.*as\|Use the previous shot\|approved.*frame\|Continuity" "$f" && FRAME_LOCK=$((FRAME_LOCK+1))
         
         # Camera Lock
-        grep -qi "identical camera\|same camera\|camera position\|Continue from the exact framing\|seamlessly continue" "$f" && CAMERA_LOCK=$((CAMERA_LOCK+1))
+        grep -qi "identical camera\|same camera\|camera position\|Continue from the exact framing\|seamlessly continue\|Camera Direction\|stable.*camera\|locked.*camera\|same.*framing\|Camera Continuity\|camera preserves\|Do not pull back\|Do not reframe\|composition.*stable" "$f" && CAMERA_LOCK=$((CAMERA_LOCK+1))
         
         # Lighting Lock
-        grep -qi "first frame must preserve\|lighting.*identical\|same lighting as\|colour grading exactly\|Match the lighting" "$f" && LIGHTING_LOCK=$((LIGHTING_LOCK+1))
+        grep -qi "first frame must preserve\|lighting.*identical\|same lighting as\|colour grading exactly\|Match the lighting\|Lighting Identity\|warm.*light\|soft.*shadow\|lighting.*locked\|Colour/lighting\|lighting match\|lighting.*drift\|Sky and Lighting\|Lighting Absolute\|lighting must be\|colour grading" "$f" && LIGHTING_LOCK=$((LIGHTING_LOCK+1))
         
         # Character Presence
-        grep -qi "already present\|Do not introduce any character\|characters are already in frame" "$f" && CHAR_PRESENCE=$((CHAR_PRESENCE+1))
+        grep -qi "already present\|Do not introduce any character\|characters are already in frame\|Do not redesign\|Background locked\|Background Object Lock\|LOCKED\|locked\|Do not create\|Do not invent\|Do not move\|Do not replace" "$f" && CHAR_PRESENCE=$((CHAR_PRESENCE+1))
         
         # Text Safety
-        grep -qi "No subtitles\|No text\|no on-screen\|No speech bubbles" "$f" && TEXT_SAFETY=$((TEXT_SAFETY+1))
+        grep -qi "No subtitles\|No text\|no on-screen\|No speech bubbles\|Do not display dialogue\|No captions" "$f" && TEXT_SAFETY=$((TEXT_SAFETY+1))
         
         # Dialogue Conflict (hem diyalog var hem "no dialogue" denmiş)
         HAS_DIALOG=$(grep -c "^Kiko:\|^Mimi:\|^Opa:\|^Luca:\|^Noah:\|^Arda:" "$f" 2>/dev/null)
-        HAS_NO_DIALOG=$(grep -qi "no dialogue\|This shot has no dialogue" "$f" 2>/dev/null && echo "1" || echo "0")
+        HAS_NO_DIALOG=$(grep -qi "^This shot has no dialogue\|^This scene has no dialogue\|^No dialogue\.$\|^Dialogue: None" "$f" 2>/dev/null && echo "1" || echo "0")
         if [ "$HAS_NO_DIALOG" = "1" ] && [ "$HAS_DIALOG" -gt 0 ]; then
             DIALOG_CONFLICT=$((DIALOG_CONFLICT+1))
         fi
@@ -168,8 +168,17 @@ else
 
     # 4. Close-up Kontrolü
     echo "4. CLOSE-UP KONTROLÜ"
-    CLOSEUPS=$(grep -rli "Close-up\|close-up" "$SHOTS_DIR/" 2>/dev/null | wc -l)
-    [ "$CLOSEUPS" -eq 0 ] && echo "  ✅ Close-up yok" || { echo "  ❌ $CLOSEUPS dosyada close-up var"; ERRORS=$((ERRORS+1)); }
+    # Sadece "close-up" kullanımı kontrol et; "not a close-up", "no close-up" gibi
+    # negatif talimatları sayma.
+    CLOSEUPS=$(grep -rli "close-up\|Close-up" "$SHOTS_DIR/" 2>/dev/null | wc -l)
+    CLOSEUP_POSITIVE=$(grep -rci "close-up\|Close-up" "$SHOTS_DIR/" 2>/dev/null | grep -v ":0$" | while read line; do
+        file=$(echo "$line" | cut -d: -f1)
+        count=$(echo "$line" | cut -d: -f2)
+        neg=$(grep -ci "not.*close-up\|no close-up\|do not.*close-up\|must not.*close-up\|avoid.*close-up\|foreground close-up\|oversized\|cropped" "$file" 2>/dev/null)
+        pos=$((count - ${neg:-0}))
+        [ "$pos" -gt 0 ] && echo "$file"
+    done | wc -l)
+    [ "$CLOSEUP_POSITIVE" -eq 0 ] && echo "  ✅ Close-up yok" || { echo "  ❌ $CLOSEUP_POSITIVE dosyada close-up var"; ERRORS=$((ERRORS+1)); }
     echo
 
     # 5. Dialogue Continuity

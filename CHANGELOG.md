@@ -2,6 +2,35 @@
 
 Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 
+## v3.2 - Süre Standardı Çelişkisi Çözümü
+
+### Changed
+
+- Bölüm süresi standardı 90 saniye olarak kilitlendi
+  - `00-CORE/TECH_SPECS.md`: "60 saniye" → "90 saniye", frame count 1,440 → 2,160
+  - `00-CORE/SERIES_STRUCTURE.md`: Base Formula 60 sn → 90 sn, süre dağılımları güncellendi
+  - `00-CORE/PRODUCTION_PIPELINE.md`: "1-minute" → "90-second" tüm referanslar
+  - `00-CORE/CHARACTER_GUIDE.md`: Format satırı 90 sn olarak güncellendi
+  - `00-CORE/BATCH_WORKFLOW.md`: Süre kontrolü 90 sn olarak güncellendi
+  - `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md`: Primary length 90 sn olarak belirlendi
+  - `08-PRODUCTION/PRODUCTION_CALENDAR.md`: Toplam süre 26 dk → 39 dk
+  - `08-PRODUCTION/SEASON_1_EPISODE_GUIDE.md`: Standart format 90 sn olarak kilitlendi
+  - `08-PRODUCTION/EPISODE_TRACKER.md`: Çelişki notları güncellendi
+
+- Opa's Storytime süresi 300 sn (5 dakika) olarak kilitlendi
+  - `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`: Süre 300 sn olarak güncellendi
+  - `11-DOCS/09_YOUTUBE_STRATEGY.md`: Playlist ve publishing notları güncellendi
+
+- 00-CORE vs 11-DOCS çelişkileri çözüldü
+  - `11-DOCS/02_SEASON_STRATEGY.md`: S1 & S2 süre 60sn → 90sn
+  - `11-DOCS/13_ARCHITECTURE_DECISIONS.md`: Shorts kaynak süre 60sn → 90sn
+
+- Brave Little Days EP08-EP20 tamamlandı
+  - `08-PRODUCTION/EPISODE_TRACKER.md`: Tüm EP08-EP20 durumu 🟣 Scene Starter → 🟡 Yazıldı
+  - Kullanılmayan mekan listesi güncellendi (Benny's Playground çıkarıldı, S2 önerileri eklendi)
+
+- `AGENTS.md`: Bilinen çelişki notu kaldırıldı, çözüm notu eklendi
+
 ## v3.1 - Eksik Tamamlama (Kısmi)
 
 ### Added

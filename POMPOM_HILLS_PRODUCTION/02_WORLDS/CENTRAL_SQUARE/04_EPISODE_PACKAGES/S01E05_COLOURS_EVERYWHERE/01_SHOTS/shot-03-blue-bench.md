@@ -171,3 +171,4 @@ See `03_VIDEO_EXPORTS/shot-03-openart-prompt.md` for the OpenArt-facing Negative
 - [ ] Existing continuity hold does not freeze the character unnaturally.
 - [ ] Camera stability does not kill character motion.
 - [ ] No random filler motion appears.
+- [ ] No subtitles. No text. No speech bubbles. No captions.

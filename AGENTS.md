@@ -80,17 +80,16 @@ Repoda iki paralel doküman seti var:
 
 **Kural:** Teknik/görsel/karakter/dünya canon için **`00-CORE/` kazanır**. `11-DOCS/`
 anlatısal bağlam, strateji ve narrative derinlik için kullanılır (örn. karakterin "neden var
-olduğu" gibi). İki kaynak doğrudan çelişiyorsa (örn. bölüm süresi 60s vs 60-90s):
+olduğu" gibi). İki kaynak doğrudan çelişiyorsa (örn. bölüm süresi):
 
 1. Sessizce birini seçip devam etme.
 2. Çelişkiyi kullanıcıya bildir, hangisinin geçerli olacağını sor.
 3. Kullanıcı onaylayınca hangi dosyanın güncelleneceğine karar ver (mümkünse eski dosyaya
    "superseded by X" notu ekle, silme).
 
-Bilinen açık çelişki örneği: `00-CORE/TECH_SPECS.md` / `SERIES_STRUCTURE.md` / `PRODUCTION_PIPELINE.md`
-hâlâ "60 saniye" bölüm süresini teknik standart olarak tanımlıyor, ancak
-`11-DOCS/09_YOUTUBE_STRATEGY.md` → Channel Growth Decisions §6 artık 60–90 saniyeyi ana
-format yapıyor. Bu henüz çözülmedi — production canon dosyalarına dokunulmadan bekletiliyor.
+> **Çözülen çelişki:** Bölüm süresi standardı 90 saniye olarak kilitlenmiştir.
+> `00-CORE/TECH_SPECS.md`, `00-CORE/SERIES_STRUCTURE.md`, `00-CORE/PRODUCTION_PIPELINE.md`,
+> `00-CORE/CHARACTER_GUIDE.md` ve `08-PRODUCTION/` dosyaları güncellenmiştir.
 
 ---
 

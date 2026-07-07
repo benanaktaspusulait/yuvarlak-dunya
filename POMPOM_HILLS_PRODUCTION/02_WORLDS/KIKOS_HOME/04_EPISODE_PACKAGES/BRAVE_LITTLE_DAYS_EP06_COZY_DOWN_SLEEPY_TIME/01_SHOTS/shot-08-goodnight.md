@@ -99,3 +99,4 @@ background music, music, melody, song, soundtrack
 - [ ] End frame end-screen-safe (clear center + lower corners; no burned-in text).
 - [ ] Soft blue night (not black); friendly moon hint; interior stable.
 - [ ] Identities/voices consistent; warm final hold hands off to the shared closing bumper.
+- [ ] Sky, lighting, colour grading match @image1; soft blue night locked.
