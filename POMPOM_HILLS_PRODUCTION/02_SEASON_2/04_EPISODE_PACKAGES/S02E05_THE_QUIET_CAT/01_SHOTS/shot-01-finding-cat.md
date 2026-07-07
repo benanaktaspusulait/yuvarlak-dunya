@@ -74,8 +74,10 @@ Camera movement must remain slow, stable and natural.
 ## Dialogue
 
 ```
-Kiko: A cat! So quiet!
+Kiko: *gasps softly* Shh! Look! A kitty! It's so quiet... Will it say hello?
 ```
+
+> **Hook Purpose:** The whispered discovery and question "Will it say hello?" creates anticipation. Children will wonder if the shy cat will approach.
 
 ---
 

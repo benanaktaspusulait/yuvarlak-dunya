@@ -90,6 +90,9 @@ S01E02-A, S01E04, S01E05, S01E07, S01E10, S01E11, S01E14
 | Flower Hill | 1 | E02-B |
 | Mimi's Burrow | 1 | E04 |
 | Kiko's Home | 1 | E02-A |
+| **Arda's Home** | 0 | 🆕 Yeni oluşturuldu |
+| **Luca's Home** | 0 | 🆕 Yeni oluşturuldu |
+| **Noah's Home** | 0 | 🆕 Yeni oluşturuldu |
 
 ---
 

@@ -74,8 +74,10 @@ Camera movement must remain slow, stable and natural.
 ## Dialogue
 
 ```
-Tillo: Hello, Kiko! Want to help?
+Tillo: *struggling with a big watering can* Oh! This is too heavy for me! Kiko, can you help?
 ```
+
+> **Hook Purpose:** Seeing Tillo struggle creates immediate empathy and a problem to solve. Children will want to see if Kiko can help.
 
 ---
 

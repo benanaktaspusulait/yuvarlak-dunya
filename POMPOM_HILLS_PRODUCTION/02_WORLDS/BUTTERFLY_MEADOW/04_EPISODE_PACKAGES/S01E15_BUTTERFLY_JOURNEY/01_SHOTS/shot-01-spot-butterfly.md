@@ -156,4 +156,4 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 ## Opening Hook
 
-First 3-5 seconds: the butterfly flies into frame — an immediate visual surprise that creates curiosity.
+First 3-5 seconds: A brilliant blue butterfly glides across a field of colourful flowers, its wings catching the sunlight like stained glass. Luca watches, mesmerized.

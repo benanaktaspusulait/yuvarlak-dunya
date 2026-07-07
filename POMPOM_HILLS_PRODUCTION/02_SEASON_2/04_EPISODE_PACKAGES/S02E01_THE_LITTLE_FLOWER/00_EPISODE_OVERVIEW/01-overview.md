@@ -46,7 +46,15 @@ Patience • Care • Nature • Sharing wonder with a friend
 
 ## Story Summary
 
-Kiko finds a tiny seed in Tillo's Garden. She holds it in her paw and examines it closely — so small, but full of potential. She plants it in soft soil and waters it gently. She waits. Nothing happens. She waters it again and waits more. Her ears droop a little — is it working? Mimi arrives and sits beside her. "We can wait together," he says. They sit quietly, watching the soil. A tiny green sprout pushes through! They both gasp. They water it more carefully now. The sprout grows taller. Then one morning — a beautiful flower blooms in soft pink and yellow. Kiko and Mimi stare in wonder. Opa appears at the garden edge and says quietly: "Some beautiful things need time. And a friend to wait with."
+**OPENING HOOK (First 3 seconds):** Kiko discovers a tiny seed that GLOWS in her paw — "Look what I found! It's... it's glowing!" This magical moment immediately captures attention and creates curiosity.
+
+Kiko finds a glowing seed in Tillo's Garden. She holds it in her paw and examines it closely — so small, but full of potential. She plants it in soft soil and waters it gently. She waits. Nothing happens. She waters it again and waits more. Her ears droop a little — is it working? Mimi arrives and sits beside her. "We can wait together," he says. They sit quietly, watching the soil. A tiny green sprout pushes through! They both gasp. They water it more carefully now. The sprout grows taller. Then one morning — a beautiful flower blooms in soft pink and yellow. Kiko and Mimi stare in wonder. Opa appears at the garden edge and says quietly: "Some beautiful things need time. And a friend to wait with."
+
+**WHY THIS HOOK WORKS:**
+- Magical realism: A glowing seed is unexpected in a realistic garden setting
+- Immediate question: "What will this seed become?"
+- Visual spectacle: The glow catches the eye instantly
+- Emotional hook: Kiko's excitement is contagious
 
 ---
 

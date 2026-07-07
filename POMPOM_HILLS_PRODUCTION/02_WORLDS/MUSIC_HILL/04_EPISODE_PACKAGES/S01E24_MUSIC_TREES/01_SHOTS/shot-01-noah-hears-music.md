@@ -98,4 +98,4 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 ## Opening Hook
 
-First 3-5 seconds: Noah stops mid-walk, head tilted — music caught his ear. Immediate curiosity.
+First 3-5 seconds: A gentle breeze passes through the trees and each branch hums a different musical note, creating an accidental melody. Noah's eyes light up.

@@ -1,6 +1,6 @@
-# Opening Hook
+## Opening Hook
 
-The first 3-5 seconds should immediately create curiosity.
+A single, perfect, round raindrop falls in extreme slow motion, reflecting the entire world in its surface before it lands with a tiny 'plip'.
 
 # E13 — Shot 01 — Climbing Cloud Hill
 

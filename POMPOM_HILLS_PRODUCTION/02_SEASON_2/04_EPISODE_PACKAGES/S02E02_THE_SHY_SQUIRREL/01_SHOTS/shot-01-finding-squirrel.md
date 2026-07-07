@@ -74,8 +74,10 @@ Camera movement must remain slow, stable and natural.
 ## Dialogue
 
 ```
-Aiko: Oh! A little squirrel!
+Aiko: *whispers excitedly* Shh! Look! Something's hiding behind that tree!
 ```
+
+> **Hook Purpose:** The whispered excitement and "something hiding" creates immediate mystery. Children will lean in to see what's behind the tree.
 
 ---
 

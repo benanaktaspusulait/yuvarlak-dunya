@@ -56,8 +56,10 @@ Camera movement must remain slow, stable and natural.
 ## Dialogue
 
 ```
-Sofia: Painting day!
+Sofia: *gasps with delight* Oh wow! Look at all these colours! Which one should I use first?
 ```
+
+> **Hook Purpose:** The immediate visual spectacle of colourful paints plus Sofia's excited question creates engagement. Children will wonder "Which colour will she pick?"
 
 ---
 

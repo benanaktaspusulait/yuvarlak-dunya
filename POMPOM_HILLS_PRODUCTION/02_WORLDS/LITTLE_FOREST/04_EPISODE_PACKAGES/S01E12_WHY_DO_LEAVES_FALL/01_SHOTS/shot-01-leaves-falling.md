@@ -188,14 +188,7 @@ Reference: 16_VIDEO_QA_SPEC.md
 
 ## Opening Hook
 
-The first 3-5 seconds should immediately create curiosity.
-Avoid slow introductions. Begin with an interesting visual, a surprising action, a curious question, or an emotional expression.
-
-Examples:
-- Can you hear that?
-- Look what I found!
-- Do you know where stars sleep?
-- What is hiding over there?
+A shower of golden and orange leaves falls gently in slow motion. Kiko looks up, amazed, as leaves land on her head and shoulders.
 
 ## Scale
 

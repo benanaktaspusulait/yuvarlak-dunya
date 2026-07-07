@@ -114,4 +114,4 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 ## Opening Hook
 
-First 3-5 seconds: their eyes widen as they see the rainbow — immediate visual wonder.
+First 3-5 seconds: A shimmering rainbow arch appears over the bridge, its colours gently pulsing like a heartbeat. Kiko gasps softly and reaches toward it.

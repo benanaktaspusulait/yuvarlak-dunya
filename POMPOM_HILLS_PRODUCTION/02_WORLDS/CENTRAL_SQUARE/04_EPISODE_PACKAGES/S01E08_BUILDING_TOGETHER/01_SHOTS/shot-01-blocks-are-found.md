@@ -146,3 +146,7 @@ Reference: 16_VIDEO_QA_SPEC.md
 - [ ] No music/soundtrack; natural ambience only
 - [ ] **Gate A:** all 8 blocks + build area seeded and usable for later stacking; if any missing → NOT READY, fix this shot (not later prompts)
 - [ ] Final frame usable as `@image1` for Shot 02 (no crop/close-up/lighting change/new object)
+
+## Opening Hook
+
+Colourful soft blocks tumble gently from the top of the frame, landing in a playful pile. Noah and Arda look up excitedly.

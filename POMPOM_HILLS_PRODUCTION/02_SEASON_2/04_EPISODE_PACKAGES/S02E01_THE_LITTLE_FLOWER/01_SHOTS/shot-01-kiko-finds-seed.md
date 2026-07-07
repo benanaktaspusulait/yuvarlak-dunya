@@ -74,8 +74,10 @@ Camera movement must remain slow, stable and natural.
 ## Dialogue
 
 ```
-Kiko: A seed! Let's plant it!
+Kiko: *gasps* Look what I found! *holds up tiny seed* It's... it's glowing!
 ```
+
+> **Hook Purpose:** This opening creates immediate curiosity — a glowing seed is unexpected and magical. Children will wonder "What will happen to it?" and keep watching.
 
 ---
 
