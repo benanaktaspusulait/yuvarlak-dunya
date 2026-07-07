@@ -20,7 +20,8 @@ Varsayılan olarak DEĞİŞTİRME (aksi açıkça istenmedikçe):
 
 - Character canon (`00-CORE/CHARACTER_GUIDE.md`, `01-CHARACTERS/*`)
 - World canon (`00-CORE/WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/*`)
-- Episode script'leri (`POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/*`)
+- Episode script'leri (`POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/*`, `02_SEASON_2/*`, `03_SEASON_3/*`)
+- Sub-series script'leri (`04_KIKOS_DISCOVERY_DAYS/*`, `05_MIMIS_FEELINGS_CORNER/*`, `06_MUSIC_RHYTHM_TIME/*`)
 - Production/teknik standartlar (`00-CORE/TECH_SPECS.md`, `00-CORE/17_VIDEO_GENERATION_STANDARD.md`,
   `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/CONTINUITY_RULES.md`)
 
@@ -47,6 +48,7 @@ bu dosyalara dokunmaz.
 | **Music & Rhythm Time** (müzik/ritim sub-series) | `POMPOM_HILLS_PRODUCTION/06_MUSIC_RHYTHM_TIME/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
 | Shot/video üretimi (kamera, renk, süreklilik, teknik) | `00-CORE/17_VIDEO_GENERATION_STANDARD.md`, `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/VISUAL_CONTINUITY_RULES.md` |
 | Video pacing / hook / retention stili | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
+| **Shorts üretim standardı (karakter görünürsüzlüğü, kalite)** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_PRODUCTION_STANDARD.md` |
 | Series bumper ile world micro-opening ayrımı | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
 | Shot'lar arası continuity workflow | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
 | Standalone shot üretimi | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/STANDALONE_SHOT_AND_TRANSITION_STANDARD.md` |
@@ -61,6 +63,7 @@ bu dosyalara dokunmaz.
 | Yayın öncesi kalite kontrol | `00-CORE/MASTER_QA_CHECKLIST.md`, `00-CORE/SCENE_QA_CHECKLIST.md` |
 | Altyazı (SRT/VTT) | `14-SUBTITLES/SRT_TEMPLATE.md`, `11-DOCS/12_SUBTITLE_STYLE_GUIDE.md` |
 | Üretim takibi | `08-PRODUCTION/EPISODE_TRACKER_S01.md`, `EPISODE_TRACKER_S02.md`, `EPISODE_TRACKER_S03.md` |
+| **Profesyonel standartlar / TODO** | `08-PRODUCTION/TODO.md` |
 | İçerik/format eşleştirme | `08-PRODUCTION/CONTENT_MATRIX.md` |
 | Lisanslama / marka / hukuki | `10-LICENSING/` |
 | Branding, thumbnail, renk paleti | `07-BRANDING/` |
@@ -91,9 +94,13 @@ anlatısal bağlam, strateji ve narrative derinlik için kullanılır. İki kayn
 3. Kullanıcı onaylayınca hangi dosyanın güncelleneceğine karar ver.
 
 > **Çözülen çelişkiler:**
-> - Bölüm süresi: 120 sn (minimum) olarak kilitlenmiştir.
+> - Bölüm süresi: **120 sn** (8 shot × 15 sn) — sıkı, uzatma yok.
+> - YouTube birleştirme: **3 × 120 sn = ~6 dk** — tema bazlı birleştirme.
 > - Opa's Storytime: 300 sn (5 dakika) olarak kilitlenmiştir.
 > - Sezon yapısı: S1 (6 karakter), S2 (4 yeni karakter), S3 (4 yeni karakter) olarak ayrılmıştır.
+> - Platform stratejisi: Tek ana içerik (YouTube) → Diğer platformlar için dönüşüm.
+> - Shorts kalitesi: 16:9 üretirken karakteri ortadaki %60 güvenli bölge içinde tut.
+> - **ALTIN KURAL: Kalite > Süre. Uzatma yok.**
 
 ---
 
@@ -150,4 +157,4 @@ Eğer:
 
 *Bu dosya, repodaki tüm agent/tool etkileşimleri için giriş noktasıdır.*
 *Diğer tüm kaynak dosyalar bu dosyadan yönlendirilir, bu dosya onların içeriğini tekrar etmez.*
-*Versiyon: 1.0*
+*Versiyon: 1.2 — Shorts Production Standard, TODO.md, yeni seriler eklendi*

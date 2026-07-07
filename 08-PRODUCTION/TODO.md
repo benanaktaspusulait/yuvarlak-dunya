@@ -226,5 +226,20 @@ Renk: pastel, canlı, tutarlı
 
 ---
 
+## Öncelik 10: Shorts Üretim Kalitesi ✅
+
+### 10.1 Shorts Kalite Sorunları
+- [x] `24_SHORTS_PRODUCTION_QUALITY.md` oluşturuldu
+- [x] Karakter çerçeve dışı sorunu için çözüm stratejileri eklendi
+- [x] Güvenli bölge haritası oluşturuldu (16:9'un orta %60'ı)
+- [x] 17_VIDEO_GENERATION_STANDARD.md'ye shorts kuralları eklendi
+- [x] Shorts kontrol listesi oluşturuldu
+- [x] Platform bazlı shorts kuralları eklendi
+
+### 10.2 Shorts Üretim Kuralı
+**ALTIN KURAL:** 16:9 üretirken karakteri ortadaki %60'lık güvenli bölge içinde tut. Böylece 9:16'ya kırptığında karakter çerçeve dışına çıkmaz.
+
+---
+
 *Oluşturulma: 7 Temmuz 2026*
 *Son güncelleme: 7 Temmuz 2026*

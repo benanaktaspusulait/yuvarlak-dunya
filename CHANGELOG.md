@@ -2,6 +2,56 @@
 
 Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 
+## v3.4 - Platform Stratejisi & Birleştirme Modeli
+
+### Added
+
+- **Yeni dosyalar:**
+  - `11-DOCS/19_SEASONAL_CONTENT_CALENDAR.md` — 12 aylık mevsimsel içerik takvimi
+  - `11-DOCS/20_COMMUNITY_STRATEGY.md` — Topluluk oluşturma stratejisi
+  - `11-DOCS/21_CROSS_PLATFORM_PLAN.md` — Cross-platform içerik dönüştürme planı
+  - `11-DOCS/22_MONETIZATION_PLAN.md` — Gelir modeli ve monetizasyon planı
+  - `11-DOCS/23_PLATFORM_AUDIENCE_STRATEGY.md` — Platform bazlı izleyici ve içerik stratejisi
+  - `11-DOCS/24_SHORTS_PRODUCTION_QUALITY.md` — Shorts üretim kalite kontrolü
+  - `08-PRODUCTION/S01_PUBLICATION_ORDER.md` — Sezon 1 yayın sırası
+  - `SEASON_2_ONBOARDING/worlds/` — 7 dünya onboarding doc'u (rainbow-bridge, starlight-meadow, music-hill, painting-garden, sleepy-hollow, kite-field, treasure-island)
+
+### Changed
+
+- **YouTube birleştirme modeli:**
+  - 3 bölüm birleştirilir → ~6 dk uzun video
+  - `EPISODE_TRACKER_S01.md`: Birleştirme planı eklendi (7 video)
+  - `PRODUCTION_CALENDAR.md`: Toplam süre güncellendi (~46 dk)
+  - `09_YOUTUBE_STRATEGY.md`: Birleştirme modeli eklendi
+
+- **120 sn kuralı ve uzatma yasağı:**
+  - `EPISODE_TRACKER_S01.md`: "120 sn sıkı, uzatma yok" kuralı eklendi
+  - `SEASON_1_EPISODE_GUIDE.md`: Tüm süreler güncellendi
+  - `AGENTS.md`: Altın kural eklendi
+
+- **Platform stratejisi:**
+  - YouTube: 6 dk birleşik video
+  - TikTok: 15-30 sn (dönüşüm)
+  - Instagram: 15-30 sn (dönüşüm)
+  - Facebook: 60-90 sn (dönüşüm)
+  - `CONTENT_MATRIX.md`: Tüm üretilen bölümler eklendi
+
+- **AGENTS.md güncellemesi:**
+  - Yeni dosyalar routing tablosuna eklendi
+  - Çözülen çelişkilere yeni kararlar eklendi
+  - Versiyon 1.1
+
+- **README.md güncellemesi:**
+  - Dosya Sorumluluk Haritası'na yeni dosyalar eklendi
+  - Son güncelleme tarihi: 7 Temmuz 2026
+
+- **Diğer güncellemeler:**
+  - `ASSET_TRACKER.md`: Nella ve Remi eklendi (15 karakter)
+  - `03_PRODUCTION_STATUS.md`: Tüm üretim durumları güncellendi
+  - `SERIES_STRUCTURE.md`: Kırık referanslar düzeltildi
+  - `CONTRIBUTING.md`: `scripts/` → `13-SCRIPTS/` düzeltildi
+  - `17_VIDEO_GENERATION_STANDARD.md`: Shorts kuralları eklendi
+
 ## v3.3 - Minimum Süre 2 Dakika
 
 ### Changed
@@ -161,6 +211,10 @@ Bu dosya Pompom Hills repo sürüm geçmişini tutar.
 - 11 bible'daki kırık `File:` referansları gerçek dosya adlarına düzeltildi (apostrof/boşluk/büyük
   harf temizlendi; ör. `9-poppy's-bakery.png` → `9-poppys-bakery.png`, `20-Wish-Pond.png` →
   `20-wish-pond.png`). Central Square gerçek konumu olan `1-central-square/1-central-square.png`'e işaret ediyor.
+
+---
+
+*Son güncelleme: 7 Temmuz 2026 — v3.4 Platform Stratejisi & Birleştirme Modeli*
 
 ### Production Philosophy
 

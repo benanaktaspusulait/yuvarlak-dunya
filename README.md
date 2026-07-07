@@ -89,6 +89,14 @@ yuvarlak-dunya/
 | Prop görselleri (PNG) | `03-PROPS/{kategori}/...` |
 | Video çıktıları | `videos/` |
 | Facebook/Instagram event kampanya görselleri (poster/story/reel-cover promptları) | `07-BRANDING/campaigns/{kampanya-adı}/prompts.md` |
+| **Platform bazlı strateji (izleyici, demografi, dönüşüm)** | `11-DOCS/23_PLATFORM_AUDIENCE_STRATEGY.md` |
+| **Shorts üretim kalitesi (karakter çerçeve dışı sorunu)** | `11-DOCS/24_SHORTS_PRODUCTION_QUALITY.md` |
+| **Mevsimsel içerik takvimi** | `11-DOCS/19_SEASONAL_CONTENT_CALENDAR.md` |
+| **Topluluk oluşturma stratejisi** | `11-DOCS/20_COMMUNITY_STRATEGY.md` |
+| **Cross-platform içerik dönüştürme** | `11-DOCS/21_CROSS_PLATFORM_PLAN.md` |
+| **Gelir modeli / monetizasyon** | `11-DOCS/22_MONETIZATION_PLAN.md` |
+| **Sezon 1 yayın sırası** | `08-PRODUCTION/S01_PUBLICATION_ORDER.md` |
+| **Sezon 2/3 onboarding** | `SEASON_2_ONBOARDING/` |
 
 ## İsimlendirme Standardı
 
@@ -150,4 +158,4 @@ Tüm promptlar bu üç değişkenle başlar veya biter:
 ---
 
 *Bu belge Pompom Hills projesinin ana giriş dosyasıdır.*
-*Son güncelleme: 2 Temmuz 2026*
+*Son güncelleme: 7 Temmuz 2026*

@@ -7,10 +7,15 @@
 | Alan | Değer |
 |------|-------|
 | Toplam bölüm | 26 |
-| Bölüm süresi | 120 saniye (minimum) |
-| Toplam süre | 52 dakika |
+| **Bölüm süresi** | **120 sn (8 shot × 15 sn) — sıkı, uzatma yok** |
+| **YouTube birleştirme** | **3 × 120 sn = ~6 dk** |
+| **Toplam süre (YouTube)** | **~46 dk (7 birleşik video)** |
 | Hedef yaş | 3-4 |
 | Format | 3D animasyon |
+| **ALTIN KURAL** | **Kalite > Süre. Uzatma yok.** |
+
+> Detaylı platform stratejisi: `11-DOCS/23_PLATFORM_AUDIENCE_STRATEGY.md`
+> Shorts kalitesi: `11-DOCS/24_SHORTS_PRODUCTION_QUALITY.md`
 
 ---
 
@@ -133,4 +138,4 @@ Ağustos 2027:Yayın Planlama
 ---
 
 *Bu belge üretim takvimi için tek kaynaktır. Yayın ritmi kaynağı: `11-DOCS/09_YOUTUBE_STRATEGY.md` §8/§8b.*
-*Son güncelleme: 5 July 2026 (Global Wave Strategy yayın ritmi eklendi)*
+*Son güncelleme: 7 Temmuz 2026 (Birleştirme modeli, 120 sn kuralı, platform stratejisi eklendi)*
