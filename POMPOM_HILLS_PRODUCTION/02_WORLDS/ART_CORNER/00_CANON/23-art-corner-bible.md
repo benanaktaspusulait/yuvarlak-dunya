@@ -418,7 +418,8 @@ Tüm aktiviteler dışarıda gerçekleşir. Doğal ışık ve manzara ilham veri
 - Huzurlu
 
 ### Kış
-- İç mekan alternatifi
+- Characters remain outdoors or under cover, or the scene moves to another approved indoor world.
+- Do not create an indoor version of this world.
 - Sıcak çikolata
 - Hayal gücü
 
@@ -461,7 +462,8 @@ Tüm aktiviteler dışarıda gerçekleşir. Doğal ışık ve manzara ilham veri
 - Fırçalar korunur
 
 ### Yağmurlu
-- İç mekan alternatifi
+- Characters remain outdoors or under cover, or the scene moves to another approved indoor world.
+- Do not create an indoor version of this world.
 - Sıcak içecek
 - Sessiz
 
@@ -669,7 +671,9 @@ Art Corner nasıl çekilir? Kamera stüdyo alanı içinde doğal hareket eder.
 
 ## OpenArt Production Rules
 
-- **Tek Hero View 사용** — Hero View zorunlu
+- **Hero View is the primary canon reference.** Entrance View, Trail View, and Detail View are supporting references only.
+- They must not redesign the world.
+- All views must preserve the same landmark, style, lighting direction, and colour palette.
 - Tutarlı aydınlatma ve renk paleti (canlı, yaratıcı, çok renkli)
 - Referanslarda karakter yok — sadece ortam ve sanat malzemeleri
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -836,7 +840,7 @@ Giriş → Tuvaller → Boya alanı → Sergi köşesi
 4 views.
 
 ## Prompt Generation Rules
-Tek Hero View 사용.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ## Emotional Tone
 Yaratıcı, renkli, ilham verici.

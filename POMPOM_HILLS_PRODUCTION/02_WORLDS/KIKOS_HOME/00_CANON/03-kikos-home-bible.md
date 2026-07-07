@@ -1024,7 +1024,7 @@ Güven · Rahatlık · Sıcaklık · Dostluk
 
 | Kural | Açıklama |
 |-------|----------|
-| Tek Hero View 사용 | Her shot'ta en fazla 4 |
+| Hero View primary | Her shot'ta en fazla 4 |
 | Hero View zorunlu | Her üretimde |
 | Tutarlı ışık | Sıcak sabah |
 | Tutarlı renk | Pembe + beyaz |

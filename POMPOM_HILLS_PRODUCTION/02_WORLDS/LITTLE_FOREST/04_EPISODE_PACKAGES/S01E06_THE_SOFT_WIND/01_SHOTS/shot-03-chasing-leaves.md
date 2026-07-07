@@ -5,191 +5,57 @@
 ## Scene Context
 
 | Alan | Değer |
-| --- | --- |
-| Episode | The Soft Wind |
-| Shot | 03 / 04 |
+|------|-------|
+| Episode | S01E06 — The Soft Wind |
+| Shot | 03 / 12 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Little Forest |
+| Characters | Kiko |
+| Time of Day | Warm Morning |
 
 ---
 
-## Background Object Lock
+## Purpose
 
-The background is locked from the first frame of this shot.
+Kiko begins to follow the wind by chasing a floating leaf.
 
-Maintain all visible background objects throughout the entire video.
+## Continuity
 
-Do not remove, replace, repaint or transform any visible background object.
-
-If a tree is visible, it remains the same tree.
-If a path is visible, it remains the same path.
-If a bush is visible, it remains the same bush.
-If a house is visible, it remains the same house.
-If a landmark is visible, it remains in the same relative position.
-
-Do not introduce new trees or remove existing background objects.
-Do not reinterpret the environment during the shot.
-
-Only the main characters and any props may move unless camera movement naturally changes what is visible.
+Direct continuation from Shot 02. Background locked.
 
 ## Visual Prompt
 
 ```text
-They chase leaves and feel the breeze. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Wide, 35mm, tracking, no other characters, {style} {camera} {lighting}
+Little Forest, warm morning. A single golden leaf floats past Kiko's nose. She reaches for it but it drifts away. She takes a step forward, reaching again. The leaf dances just out of reach. Kiko (coral pink #F8BBD0) laughs and begins to follow it. Soft dappled sunlight, warm pastel colours, round soft shapes, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
-
-[Karakterler] is already present at the beginning of the shot.
-
-Do not introduce [Karakterler] after the shot has started.
+The Little Forest background is locked from Shot 02; keep all trees, paths and environment stable.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Pompom Hills background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
-```Continue directly from the previous shot video reference.
-
-The opening frame must continue seamlessly from the previous shot video reference or exported continuity frame.
-
-Treat the previous shot video reference as the starting point.
-
-The animation begins only after the opening frame continues seamlessly from the previous shot reference.
-
-Use the previous shot video reference as the exact starting composition.
-
-Do not reinterpret the previous shot reference.
-
-Do not reposition the camera.
-
-Do not recompose the scene.
-
-Do not adjust framing before movement begins.
-
-Continue the action naturally from the previous shot reference.
-
----
+```
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in the previous shot reference.
-
-No camera movement is allowed until the opening frame continues seamlessly from the previous shot reference.
-
-The first visible frame should appear visually identical to the previous shot reference.
-
-Only then may the planned camera movement begin.
-
-Wide, 35mm, tracking.
-
-Camera movement must remain slow, stable and natural.
-
----
+Medium shot at child eye level. Tracking shot following Kiko as she moves forward. Kiko 15-20% of frame.
 
 ## Dialogue
 
-The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in the previous shot reference.
-
-Match the lighting and colour grading exactly from the previous shot reference.
-
-Do not change:
-- exposure
-- brightness
-- light intensity
-- colour temperature
-- colour grading
-
+```text
+Kiko: Come back! Where are you going?
 ```
-Kiko: Catch the leaves!
-```
-
----
 
 ## Shot Breakdown
 
 | Time | Action | Camera |
-|---|---|---|
-| 0-1 sn | Continuity hold; forest scene with floating leaves | Wide, 35mm, tracking |
-| 1-3 sn | Kiko says: "Catch the leaves!" and starts walking | Wide, 35mm, tracking |
-| 3-5 sn | They chase a group of fluttering leaves together | Wide, 35mm, tracking |
-| 5-7 sn | Mimi reaches for a leaf but it drifts away; she laughs | Wide, 35mm, tracking |
-| 7-10 sn | They continue chasing; Kiko catches one leaf gently | Wide, 35mm, tracking |
-| 10-13 sn | Both look at the caught leaf with wonder | Wide, 35mm, tracking |
-| 13-15 sn | The leaf blows away again; they smile; final continuity frame | Wide, 35mm, tracking |
-
----
-
-## Natural Character Motion Rule
-
-This shot should feel calm but alive.
-
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
+|------|--------|--------|
+| 0-3 sec | Golden leaf floats past Kiko's nose | Medium hold |
+| 3-6 sec | Kiko reaches for it, it drifts away | Medium follows |
+| 7-10 sec | She steps forward, laughing, chasing | Tracking |
+| 11-15 sec | "Come back! Where are you going?" | Medium on Kiko |
 
 ## Sound
 
-- Soft wind through leaves
-- Distant birds
-- Gentle leaf rustle
-
-Natural ambience only. No music. No background music.
-
----
-
-## Lighting
-
-Soft daytime forest light. Warm morning or gentle afternoon daylight. No night sky.
-
----
+Gentle wind, leaf flutter, Kiko's soft laughter. No music.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, night sky with stars, moonlight, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
-
-## QA Checklist
-
-Reference: 16_VIDEO_QA_SPEC.md
-
-- [ ] Character integrity verified
-- [ ] Character consistency verified
-- [ ] Object persistence verified
-- [ ] No rendering artefacts
-- [ ] Camera consistency verified
-- [ ] Lighting consistency verified
-- [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
-
-## Emotional Beat
-
-Include a small emotional moment visible through facial expressions and body language.
-Examples: wonder, joy, surprise, kindness, gratitude, encouragement.
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, night sky, stars, moonlight, background music, music, melody, song, soundtrack

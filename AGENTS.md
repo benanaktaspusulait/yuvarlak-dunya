@@ -40,7 +40,7 @@ bu dosyalara dokunmaz.
 | Sezon 2 bölüm/şena yazımı | `POMPOM_HILLS_PRODUCTION/02_SEASON_2/04_EPISODE_PACKAGES/` |
 | Sezon 3 bölüm/şena yazımı | `POMPOM_HILLS_PRODUCTION/03_SEASON_3/04_EPISODE_PACKAGES/` |
 | Yeni karakter ekleme/değiştirme | `00-CORE/CHARACTER_GUIDE.md`, `01-CHARACTERS/`, `CONTRIBUTING.md` §"Yeni Karakter" |
-| Yeni dünya/mekan ekleme/değiştirme | `00-CORE/WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/`, `CONTRIBUTING.md` §"Yeni Mekan" |
+| Yeni dünya/mekan ekleme/değiştirme | `00-CORE/WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/`, `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_BIBLE_TEMPLATE.md`, `CONTRIBUTING.md` §"Yeni Mekan" |
 | Opa's Storytime (masal anlatımı sub-series) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/OPA_STORYTIME_*` |
 | Brave Little Days (yaşam becerisi sub-series) | `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md`, `POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/` |
 | **Kiko's Discovery Days** (keşif/merak sub-series) | `POMPOM_HILLS_PRODUCTION/04_KIKOS_DISCOVERY_DAYS/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |

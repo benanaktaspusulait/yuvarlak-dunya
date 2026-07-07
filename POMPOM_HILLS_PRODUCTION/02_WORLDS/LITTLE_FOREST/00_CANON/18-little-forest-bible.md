@@ -387,11 +387,19 @@ Tüm aktiviteler dışarıda gerçekleşir. Ağaçlar arasında dinlenme alanlar
 | Obje | Pozisyon | Renk | Not |
 |---|---|---|---|
 | Ağaçlar | Tüm alan | Yeşil+kahverengi | Her zaman yuvarlak |
-| Mantarlar | Ağaç altında | Kırmızı-beyaz | Her zaman sihirli |
-| Kuşlar | Dallarda | Sarı/mavi/pembe | Her zaman cıvıldar |
-| Sincaplar | Ağaç kovuğunda | Kahverengi | Her zaman sevimli |
+| Mantarlar | Ağaç altında | Kırmızı-beyaz | Her zaman sihirli — ANCHOR |
+| Kuşlar | Dallarda | Sarı/mavi/pembe | Optional per shot — see below |
+| Sincaplar | Ağaç kovuğunda | Kahverengi | Optional per shot — see below |
 | Yapraklar | Yerde | Yeşil/sarı/turuncu | Her zaman yumuşak |
 | Taşlar | Yolda | Gri | Her zaman pürüzsüz |
+
+### Hayvan Kullanım Kuralları
+
+Birds and squirrels are canon nature details, but they are **optional per shot**.
+Use them only when the shot asks for them.
+Wide hero view may include 1 small bird or 1 squirrel detail, but no animal crowd.
+No large animals.
+No surprise animal entering later in video.
 
 ---
 
@@ -426,7 +434,8 @@ Tüm aktiviteler dışarıda gerçekleşir. Ağaçlar arasında dinlenme alanlar
 ### Kış
 - Yapraklar dökülür
 - Sessiz
-- İç mekan alternatifi
+- Characters remain outdoors under tree cover, or the scene moves to another approved indoor world.
+- Do not create a forest house, cave, hut, room, tunnel, or indoor version of Little Forest.
 
 ---
 
@@ -464,7 +473,14 @@ Tüm aktiviteler dışarıda gerçekleşir. Ağaçlar arasında dinlenme alanlar
 ### Yağmurlu
 - Damlalar yapraklara
 - Sessiz
-- İç mekan alternatifi
+- Characters remain outdoors under tree cover, near the forest entrance, or the scene moves to another approved indoor world.
+- Do not create a forest house, cave, hut, room, tunnel, or indoor version of Little Forest.
+
+### Kış
+- Yapraklar dökülür
+- Sessiz
+- Characters remain outdoors under tree cover, near the forest entrance, or the scene moves to another approved indoor world.
+- Do not create a forest house, cave, hut, room, tunnel, or indoor version of Little Forest.
 
 ### Rüzgarlı
 - Yapraklar uçar
@@ -681,7 +697,9 @@ Little Forest nasıl çekilir? Kamera orman alanı içinde doğal hareket eder.
 
 ## OpenArt Production Rules
 
-- **Tek Hero View 사용** — Hero View zorunlu
+- **Hero View is the primary canon reference.** Entrance View, Trail View, and Detail View are supporting references only.
+- They must not redesign the forest.
+- All views must preserve the same mushroom circle, round tree style, lighting direction, and colour palette.
 - Tutarlı aydınlatma ve renk paleti (yeşil tonları, sıcak ışık)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -833,7 +851,14 @@ Keşif, gözlem, hayal gücü.
 
 ## Visual Identity
 
-Yuvarlak kabarık ağaçlar, yeşil atmosfer, doğal doku.
+Little Forest is not just round green trees.
+Its visual identity is:
+- Round plush green trees forming a small safe forest circle
+- The magical red-and-white mushroom circle as the primary landmark
+- Soft dappled sunlight through leaves
+- Colourful fallen leaves along the path
+- Smooth round stepping stones
+- Tiny friendly nature details, used only when the shot asks for them
 
 ---
 
@@ -861,7 +886,12 @@ Giriş → Ağaç yol → Mantar çemberi → Kuş gözlemi → Çıkış
 ---
 
 ## Prompt Generation Rules
-Tek Hero View 사용.
+
+Hero View is the primary canon reference.
+Entrance View, Trail View, and Detail View are supporting references only.
+Never allow supporting views to redesign the Hero View.
+For hero/world generation, character references are not used.
+For shot generation, use the approved world reference plus only the required character references.
 
 ---
 
@@ -871,42 +901,107 @@ Büyülü, güvenli, doğal.
 ---
 
 ## World Identity Lock
-Yuvarlak ağaçlar, yeşil.
+
+Little Forest is recognised by:
+- A small circular forest of round plush green trees
+- The magical red-and-white mushroom circle at the heart of the forest (LF-MUSHROOM-01)
+- Soft dappled sunlight through leaves
+- Colourful fallen leaves along the path
+- Smooth round stepping stones
+- Tiny friendly nature details such as birds and a squirrel hollow
+
+**Primary visual anchor:** The magical mushroom circle must be visible in the main Little Forest Hero View. It is the main landmark that makes the world recognisable.
+
+Reject if it looks like only generic green trees.
+Reject if the mushroom circle is missing.
+Reject if the forest feels dark, dense, scary, sharp, or too realistic.
+
+**Little Forest is not "some green trees." Little Forest is the small safe discovery forest with the magical red-and-white mushroom circle.**
 
 ---
 
 ## Hero View Technical Specification
-28mm, 0.85m.
+
+| Alan | Değer |
+|------|-------|
+| Lens | 28mm |
+| Kamera yüksekliği | 0.85m (child eye-level) |
+| Kompozisyon | Wide, mushroom circle visible, trees frame the scene |
+| Karakter | Yok (environment only) |
 
 ---
 
 ## Camera Identity
-28-35mm.
+
+28-35mm lens. Child eye-level (0.85m). Slow pan, gentle push-in, locked-off shots.
+No Dutch angle, no fisheye, no shaky cam, no fast zoom.
+Camera follows the path through the forest — never dramatic, always inviting.
 
 ---
 
 ## Lighting Identity
-Doğal, yapraklar arasından.
+
+Doğal, yapraklar arasından süzülen dappled sunlight.
+Sıcak, yumuşak, davetkar. Sert gölge yok.
+Sabah/öğle: altın tonları. Akşam: sıcak turuncu. Gece: yumuşak mavi (asla siyah).
 
 ---
 
 ## Colour Identity
-Yeşil #66BB6A, kahverengi.
+
+| Element | Colour | Hex |
+|---------|--------|-----|
+| Ağaç yaprakları | Forest green | #66BB6A |
+| Ağaç gövdeleri | Soft brown | #A1887F |
+| Mantarlar | Red & white | #E53935 + #FFFFFF |
+| Çim | Warm green | #81C784 |
+| Yapraklar (sonbahar) | Sarı/turuncu | #FFB74D / #FF7043 |
+| Taşlar | Light grey | #E0E0E0 |
+| Gökyüzü | Clear blue | #81D4FA |
+
+Atmosphere: Warm, inviting, magical, safe. No cold tones, no harsh contrasts, no neon.
 
 ---
 
 ## Environmental Sound Identity
-Kuş, yaprak, rüzgar.
+
+| Element | Sound | Volume |
+|---------|-------|--------|
+| Kuşlar | Cıvıltı | Low–Medium |
+| Yapraklar | Hışırtı | Low |
+| Rüzgar | Hafif esme | Low |
+| Sincap | Hafif cırcır | Low |
+| Mantarlar | Sessiz (sihirli) | Very Low |
+| Su (yalnızca bir shot'a özel dere eklendiyse) | Hafif şırıltı | Low |
+
+> Not: Su/dere Little Forest kimliğinin bir parçası **değildir** ve Hero View'de yer almaz.
+> Yumuşak bir dere yalnızca ileride belirli bir shot'a özel opsiyonel detay olarak eklenebilir;
+> asıl landmark her zaman LF-MUSHROOM-01 (kırmızı-beyaz sihirli mantar dairesi) olarak kalır.
+> Detay için: `../02_WORLD_SPEC/18-little-forest-world-spec.md` § Water / Stream Rule (Hero View).
 
 ---
 
 ## Continuity Rules
-Yuvarlak ağaçlar.
+
+Across all Little Forest shots:
+- The round plush tree style must remain consistent
+- LF-MUSHROOM-01 must remain the primary landmark whenever the wider forest identity is shown
+- The forest must stay small, safe, open, and preschool-friendly
+- Lighting must remain soft and dappled through leaves
+- Paths must stay rounded and inviting
+- No dark, dense, scary, sharp, realistic, or tangled forest redesign
+- Birds and squirrels are optional per shot, not mandatory background clutter
 
 ---
 
 ## Production QA
-Tanınabilir mi? Güvenli mi?
+
+- [ ] Mushroom circle visible and correct (LF-MUSHROOM-01)?
+- [ ] Round plush tree style consistent?
+- [ ] Dappled sunlight present?
+- [ ] No dark, scary, sharp, or realistic elements?
+- [ ] Colour palette matches bible?
+- [ ] Safe, small, preschool-friendly atmosphere?
 
 ---
 
@@ -969,4 +1064,4 @@ This Living World is designed to provide a magical, discovery-rich environment f
 | 1.0 | İlk oluşturma | — |
 | 2.0 | Production pipeline | — |
 | 3.0 | GLOBAL_ENVIRONMENT_STANDARD uyumlu | ✅ Breaking |
-| 3.1 | **Visual Richness Update.** Added `## Visual Richness & World Charm` section (Iconic Landmark = LF-MUSHROOM-01, Allowed Charm Details by category, Forbidden Clutter, Thumbnail Hook, Child Recognition Test). Corrects over-simplification risk where Little Forest could be described as only "some trees." No changes to World Identity Lock or pipeline. | — |
+| 3.1 | **Visual Richness Update.** Added Visual Richness & World Charm section. Strengthened World Identity Lock, Visual Identity, Prompt Generation Rules, Continuity Rules, and Production QA to prevent Little Forest from becoming generic green trees. Iconic Landmark = LF-MUSHROOM-01. | — |

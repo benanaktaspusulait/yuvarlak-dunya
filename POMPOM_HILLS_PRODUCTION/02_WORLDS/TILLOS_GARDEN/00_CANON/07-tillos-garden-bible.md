@@ -346,7 +346,7 @@ Her alan bir sonrakine yumuşak geçiş sağlar. Sert duvarlar veya ani kesimler
 
 | Kural | Açıklama |
 |-------|----------|
-| Tek Hero View 사용 | Her shot'ta en fazla 4 referans kullanılır |
+| Hero View primary | Her shot'ta en fazla 4 referans kullanılır |
 | Hero View zorunlu | Her üretimde Hero View yüklenir |
 | Tutarlı ışık | Sıcak altın güneş, sabah |
 | Tutarlı renk | Sıcak palet, toprak + yeşil |

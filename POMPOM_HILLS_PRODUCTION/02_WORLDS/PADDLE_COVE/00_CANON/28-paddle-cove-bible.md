@@ -426,7 +426,8 @@ Tüm aktiviteler dışarıda gerçekleşir. Kıyıda oturma alanları vardır.
 ### Kış
 - Soğuk su
 - Kısa ziyaret
-- İç mekan alternatifi
+- Characters remain outdoors or under cover, or the scene moves to another approved indoor world.
+- Do not create an indoor version of this world.
 
 ---
 
@@ -467,7 +468,8 @@ Tüm aktiviteler dışarıda gerçekleşir. Kıyıda oturma alanları vardır.
 - Taşlar daha güzel atılır
 
 ### Yağmurlu
-- İç mekan alternatifi
+- Characters remain outdoors or under cover, or the scene moves to another approved indoor world.
+- Do not create an indoor version of this world.
 - Sessiz
 - Farklı güzellik
 
@@ -746,7 +748,7 @@ Paddle Cove nasıl çekilir? Kamera koy alanı içinde doğal hareket eder.
 
 | Kural | Açıklama |
 |-------|----------|
-| Tek Hero View 사용 | Hiçbir shot 4'ten fazla ortam referansı kullanmaz |
+| Hero View primary | Hiçbir shot 4'ten fazla ortam referansı kullanmaz |
 | Hero View zorunlu | Mümkün olan her shot'ta Hero View dahil edilmeli |
 | Tutarlı ışık | Tüm referans görsellerde aynı ışık |
 | Tutarlı renk | Tüm referans görsellerde aynı renk paleti |
@@ -975,7 +977,7 @@ Giriş → Koy → Su kenarı → Kayıklar → Çıkış
 4 views.
 
 ## Prompt Generation Rules
-Tek Hero View 사용.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ## Emotional Tone
 Eğlenceli, maceracı, güvenli.

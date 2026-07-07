@@ -667,7 +667,9 @@ Wish Pond nasıl çekilir? Kamera gölet alanı içinde doğal hareket eder.
 
 ## OpenArt Production Rules
 
-- **Tek Hero View 사용** — Hero View zorunlu
+- **Hero View is the primary canon reference.** Entrance View, Trail View, and Detail View are supporting references only.
+- They must not redesign the world.
+- All views must preserve the same landmark, style, lighting direction, and colour palette.
 - Tutarlı aydınlatma ve renk paleti (gece mavi-mor tonları, yıldız parlaklığı)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -853,7 +855,7 @@ Giriş → Göl kenarı → Su yüzeyi → Yıldızlar
 
 ## Prompt Generation Rules
 
-Tek Hero View 사용.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ---
 

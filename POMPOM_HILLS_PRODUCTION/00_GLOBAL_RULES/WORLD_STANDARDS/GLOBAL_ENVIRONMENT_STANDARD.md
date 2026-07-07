@@ -326,6 +326,41 @@ If any test fails, reject the Hero View.
 
 ---
 
+## Hero View Identity Lock — Non-Identity Feature Rule ⭐
+
+> Added 8 Temmuz 2026. This is the global form of the Little Forest water rule
+> (`POMPOM_HILLS_PRODUCTION/02_WORLDS/LITTLE_FOREST/02_WORLD_SPEC/18-little-forest-world-spec.md`
+> § Water / Stream Rule (Hero View)). It applies to every world.
+
+A world's Hero View shows only that world's **canonical identity**. Its primary landmark must
+always be that world's own canonical primary landmark. Do not add any feature to a Hero View
+unless it is part of that world's canonical identity.
+
+**Water is the most common non-identity intrusion.** For any world where water is NOT part of
+the canonical identity, do NOT add a river, stream, pond, waterfall, bridge, or water feature to
+the Hero View. The same rule applies to any element borrowed from another world (another world's
+landmark, buildings, foreign props) that is not this world's own identity.
+
+**Shot-specific exception:** If a later shot explicitly needs a non-identity supporting detail
+(for example a gentle stream passing through a forest for one scene), it may be introduced only
+as a shot-specific optional detail — never as the Hero View's primary landmark, and never in a
+way that redefines the world's identity.
+
+**Canonical-feature exception:** In worlds where the feature IS the canonical identity, it
+belongs in the Hero View and is a primary landmark, not an intrusion. Examples: a creek for
+Rainbow Creek, a pond for Wish Pond / Milo's Pond, a cove for Paddle Cove, a bridge for Rainbow
+Bridge. Each world's Bible §World Identity Lock and Spec §Identity define whether a given feature
+is canonical.
+
+**When in doubt,** treat the feature as non-identity and keep it out of the Hero View. The
+primary landmark stays the world's own canonical landmark (e.g. LF-MUSHROOM-01 for Little
+Forest).
+
+**Reject Rule:** Reject a Hero View if it contains a water feature — or any borrowed
+non-identity landmark — that is not part of that world's canonical identity.
+
+---
+
 ## Art Direction Prompt Layer ⭐
 
 World Specs should include two prompt layers when writing a Hero View
@@ -548,6 +583,7 @@ Production QA section):
 ✓ Are details canon-approved rather than random?
 ✓ Would a child remember this place?
 ✓ Would a parent perceive this as premium preschool animation?
+✓ Does the Hero View contain only canonical-identity features (no non-identity water feature or borrowed landmark)? See Hero View Identity Lock — Non-Identity Feature Rule.
 ```
 
 ### Hero View Prompt Template Addition ⭐
@@ -584,12 +620,13 @@ Reject any result that looks like a generic version of the world.
 |---------|---------|:--------:|
 | 1.0 | Initial standard | — |
 | 2.0 | **Visual Richness Update:** Added Visual Richness Principle (global). Added Visual Richness & World Charm Bible section (§18a) and Visual Richness Layer World Spec section. Added World Charm Categories (Landmark / Surface / Small Prop / Motion). Added Forbidden Over-Simplification rule. Added Hero View Quality Target (Silhouette/Colour/Charm tests). Added Art Direction Prompt Layer (Technical Canon + Art Direction). Added Visual Quality Anchor policy for reusing strong prior reference images. Added Image vs Text vs Hybrid generation preference (hybrid preferred). Added Negative Prompt Philosophy ("no random clutter" not "no detail"). Added Visual Richness & World Charm QA checks and updated Hero View prompt template. Does not remove or replace the single Hero View + World Spec + Shot Continuity pipeline. | ✅ Breaking (adds mandatory section) |
+| 2.1 | Added **Hero View Identity Lock — Non-Identity Feature Rule** (global form of the Little Forest water rule): a Hero View shows only canonical-identity features; no non-identity water feature (river/stream/pond/waterfall/bridge) or borrowed landmark, with shot-specific and canonical-feature exceptions. Added matching Hero View QA check. | — |
 
 ---
 
 *Bu belge tüm Pompom Hills mekanları için üretim standardını tanımlar.*
-*Versiyon: 2.0*
-*Son güncelleme: 4 Temmuz 2026*
+*Versiyon: 2.1*
+*Son güncelleme: 8 Temmuz 2026*
 
 ---
 

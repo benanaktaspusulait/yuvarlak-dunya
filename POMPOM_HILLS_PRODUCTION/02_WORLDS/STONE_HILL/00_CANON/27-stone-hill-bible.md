@@ -95,7 +95,7 @@ Wide, close-up taş, mağara.
 
 ## Prompt Generation Rules
 
-Tek Hero View 사용.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ---
 

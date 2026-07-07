@@ -468,7 +468,8 @@ Tüm aktiviteler dışarıda gerçekleşir. Doğal çevre ve manzara ilham verir
 ### Yağmurlu
 - Sessiz
 - Farklı güzellik
-- İç mekan alternatifi
+- Characters remain outdoors or under cover, or the scene moves to another approved indoor world.
+- Do not create an indoor version of this world.
 
 ### Karlı
 - Beyaz patika
@@ -675,7 +676,9 @@ Close-up of round trail marker stone with path texture. Small discoveries along 
 
 ## OpenArt Production Rules
 
-- **Tek Hero View 사용** — Hero View zorunlu
+- **Hero View is the primary canon reference.** Entrance View, Trail View, and Detail View are supporting references only.
+- They must not redesign the world.
+- All views must preserve the same landmark, style, lighting direction, and colour palette.
 - Tutarlı aydınlatma ve renk paleti (sıcak doğal, toprak tonları)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -867,7 +870,7 @@ Central Square → Patika → Flower Hill → Little Forest → ...
 
 ## Prompt Generation Rules
 
-Tek Hero View 사용.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ---
 

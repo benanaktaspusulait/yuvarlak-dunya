@@ -5,192 +5,89 @@
 ## Scene Context
 
 | Alan | Değer |
-| --- | --- |
-| Episode | The Soft Wind |
-| Shot | 02 / 04 |
+|------|-------|
+| Episode | S01E06 — The Soft Wind |
+| Shot | 02 / 12 |
 | Duration | 15 seconds |
-| Location | [Mekan] |
-| Characters | [Karakterler] |
+| Location | Little Forest |
+| Characters | Kiko |
+| Time of Day | Warm Morning |
 
 ---
 
-## Background Object Lock
+## Purpose
 
-The background is locked from the first frame of this shot.
+Show the wind's effect on nature — flowers sway, leaves dance.
 
-Maintain all visible background objects throughout the entire video.
+## Continuity
 
-Do not remove, replace, repaint or transform any visible background object.
-
-If a tree is visible, it remains the same tree.
-If a path is visible, it remains the same path.
-If a bush is visible, it remains the same bush.
-If a house is visible, it remains the same house.
-If a landmark is visible, it remains in the same relative position.
-
-Do not introduce new trees or remove existing background objects.
-Do not reinterpret the environment during the shot.
-
-Only the main characters and any props may move unless camera movement naturally changes what is visible.
+Direct continuation from Shot 01. Kiko is in the same position. Background locked.
 
 ## Visual Prompt
 
 ```text
-Flowers sway, trees move, Mimi's ears flap. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars, Wide, 35mm, slow pan, no other characters, {style} {camera} {lighting}
+Little Forest, warm morning. The wind picks up gently — flowers sway, leaves dance in the air, tree branches move softly. Kiko (coral pink #F8BBD0) watches with wonder, turning her head to follow the movement. Soft dappled sunlight, warm pastel colours, round soft shapes, no other characters, {style} {camera} {lighting}
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
-
-Do not change the established exposure, brightness or moonlight intensity.
-
-[Karakterler] is already present at the beginning of the shot.
-
-Do not introduce [Karakterler] after the shot has started.
+The Little Forest background is locked from Shot 01; keep all trees, paths and environment stable.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-The Pompom Hills background is locked from the first frame; keep all visible trees, paths, landmarks and environment elements stable throughout the shot.
-```Continue directly from the previous shot video reference.
-
-The opening frame must continue seamlessly from the previous shot video reference or exported continuity frame.
-
-Treat the previous shot video reference as the starting point.
-
-The animation begins only after the opening frame continues seamlessly from the previous shot reference.
-
-Use the previous shot video reference as the exact starting composition.
-
-Do not reinterpret the previous shot reference.
-
-Do not reposition the camera.
-
-Do not recompose the scene.
-
-Do not adjust framing before movement begins.
-
-Continue the action naturally from the previous shot reference.
-
----
+```
 
 ## Camera Direction
 
-The shot must begin from the identical camera position shown in the previous shot reference.
-
-No camera movement is allowed until the opening frame continues seamlessly from the previous shot reference.
-
-The first visible frame should appear visually identical to the previous shot reference.
-
-Only then may the planned camera movement begin.
-
-Wide, 35mm, slow pan.
-
-Camera movement must remain slow, stable and natural.
-
----
+Wide shot at child eye level. Slow pan following the wind movement. Kiko visible, 10-15% of frame.
 
 ## Dialogue
 
-The first frame must preserve the exact lighting, colour grading, exposure and moonlight/sunlight intensity shown in the previous shot reference.
-
-Match the lighting and colour grading exactly from the previous shot reference.
-
-Do not change:
-- exposure
-- brightness
-- light intensity
-- colour temperature
-- colour grading
-
+```text
+Kiko: Where is it coming from?
 ```
-Mimi: My ears are flying!
-```
-
----
 
 ## Shot Breakdown
 
 | Time | Action | Camera |
-|---|---|---|
-| 0-1 sn | Continuity hold; forest scene with flowers and trees | Wide, 35mm, slow pan |
-| 1-3 sn | Flowers sway gently in the breeze; Mimi's ears flap | Wide, 35mm, slow pan |
-| 3-5 sn | Mimi says: "My ears are flying!" and laughs | Wide, 35mm, slow pan |
-| 5-7 sn | Trees move softly; leaves flutter in the wind | Wide, 35mm, slow pan |
-| 7-10 sn | Mimi touches her flapping ears; giggles | Wide, 35mm, slow pan |
-| 10-13 sn | Both characters watch the swaying nature around them | Wide, 35mm, slow pan |
-| 13-15 sn | Mimi smiles warmly; final continuity frame | Wide, 35mm, slow pan |
-
----
-
-## Natural Character Motion Rule
-
-This shot should feel calm but alive.
-
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
+|------|--------|--------|
+| 0-3 sec | Flowers sway gently in the breeze | Wide hold |
+| 3-6 sec | Leaves lift and dance in the air | Slow pan right |
+| 7-10 sec | Kiko turns her head, following the movement | Pan continues |
+| 11-15 sec | "Where is it coming from?" — curious expression | Medium on Kiko |
 
 ## Sound
 
-- Soft wind through leaves
-- Distant birds
-- Gentle leaf rustle
-
-Natural ambience only. No music. No background music.
-
----
-
-## Lighting
-
-Soft daytime forest light. Warm morning or gentle afternoon daylight. No night sky.
-
----
+Forest ambience intensifies slightly: more leaf rustle, gentle wind whoosh. No music.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, night sky with stars, moonlight, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, night sky, stars, moonlight, background music, music, melody, song, soundtrack, sign, signs, readable text, label, symbol, letter, letters, arrow, direction mark, carved mark, painted mark, sign-like shape, marking on tree trunk, tree trunk symbol, yellow Y shape, carved letter, glyph, rune, logo
 
-## QA Checklist
+---
 
-Reference: 16_VIDEO_QA_SPEC.md
+## QA — Shot 02 First-Frame (REJECTED for full video)
 
-- [ ] Character integrity verified
-- [ ] Character consistency verified
-- [ ] Object persistence verified
-- [ ] No rendering artefacts
-- [ ] Camera consistency verified
-- [ ] Lighting consistency verified
-- [ ] Canonical rules followed
-- [ ] Background objects visible in the first frame remain stable.
-- [ ] No background object disappears or is replaced.
-- [ ] Environment is not reinterpreted during the shot.
-- [ ] No background object morphing.
-- [ ] No new environment elements appear.
-- [ ] Camera movement does not cause background repainting.
-- [ ] Same physical location is preserved throughout the shot.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
+**Verdict:** RISKY → **REJECT FOR FULL VIDEO.** Regenerate first-frame / cheap preview before spending video credits.
 
-## Micro Actions
+**Reason (single blocking issue):** A yellow "Y"-like mark appeared on the right-side tree trunk. Even though it is not literally text, in a preschool video a viewer reads it as a sign / symbol / letter, and OpenArt may amplify it in motion. This violates the hard rule: **No signs. No readable text. No labels. No symbols. No arrows. No direction marks** (see `00-CORE/NEGATIVE_PROMPTS.md` and `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § Text Safety).
 
-Every 3-6 seconds introduce a small visual action.
-Examples: wave, blink, look around, pick up object, walk, jump, point, smile, laugh, sit, stand.
-Actions should feel natural.
+**What was already good (keep on regenerate):**
+- Kiko present, no Mimi, no extra characters
+- Little Forest reads well; stepping-stone path clear; mushroom circle readable in the back
+- Kiko doing a small gesture, fits Shot 02 (watching nature)
+- no water / stream / bridge; no night; camera generally safe
+
+**Minor, non-blocking:** Kiko is a little small — acceptable for Shot 02 (this is an environment-motion shot, not a Shot 01 social hook), so not a reason to reject.
+
+## Regeneration Note (First-Frame Correction)
+
+Use this add-on when regenerating the Shot 02 first-frame / cheap preview:
+
+```text
+Regenerate Shot 02 first-frame / cheap preview.
+
+Keep the same composition idea: Kiko stands on the Little Forest stepping-stone path, watching leaves and flowers move gently in the breeze.
+
+Important correction: Do not place any symbol, letter, marking, carved shape, painted mark, arrow, direction mark, sign-like shape, readable mark, or label on any tree trunk, mushroom, stone, leaf, or background object.
+
+Tree trunks must be plain natural toy-like bark only. No yellow Y shape. No carved letters. No symbols. No sign-like markings.
+
+Keep Kiko readable and inside the central safe area. Locked child-eye-level camera. No camera movement. No new objects. No extra characters. No Mimi yet. No water. No giant foreground mushroom.
+```

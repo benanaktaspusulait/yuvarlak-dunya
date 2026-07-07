@@ -675,7 +675,9 @@ Lily's Lavender Farm nasıl çekilir? Kamera çiftlik alanı içinde doğal hare
 
 ## OpenArt Production Rules
 
-- **Tek Hero View 사용** — Hero View zorunlu
+- **Hero View is the primary canon reference.** Entrance View, Trail View, and Detail View are supporting references only.
+- They must not redesign the world.
+- All views must preserve the same landmark, style, lighting direction, and colour palette.
 - Tutarlı aydınlatma ve renk paleti (mor lavanta, sıcak güneş, yeşil tonlar)
 - Referanslarda karakter yok — sadece ortam ve doğa detayları
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -809,7 +811,7 @@ Giriş → Lavanta sıraları → Kovan evi → Yeldeğirmeni → Çıkış
 
 ## Prompt Generation Rules
 
-Tek Hero View 사용, Hero zorunlu.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ---
 

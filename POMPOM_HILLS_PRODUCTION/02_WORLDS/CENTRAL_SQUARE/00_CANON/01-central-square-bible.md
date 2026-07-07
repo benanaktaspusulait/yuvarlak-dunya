@@ -70,7 +70,7 @@ Wide establishing, medium group, close-up.
 
 ## Prompt Generation Rules
 
-Tek Hero View 사용, Hero zorunlu.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ## Soundscape
 

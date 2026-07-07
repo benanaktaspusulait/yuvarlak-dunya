@@ -470,7 +470,8 @@ Tüm aktiviteler dışarıda gerçekleşir. Dinlenme köşesi gölge altında bi
 
 ### Yağmurlu
 - Park kapalı
-- İç mekan alternatifi
+- Characters remain outdoors or under cover, or the scene moves to another approved indoor world.
+- Do not create an indoor version of this world.
 - Sıcak çikolata
 
 ### Rüzgarlı
@@ -688,7 +689,9 @@ Benny's Playground nasıl çekilir? Kamera oyun alanı içinde doğal hareket ed
 
 ## OpenArt Production Rules
 
-- **Tek Hero View 사용** — Hero View zorunlu
+- **Hero View is the primary canon reference.** Entrance View, Trail View, and Detail View are supporting references only.
+- They must not redesign the world.
+- All views must preserve the same landmark, style, lighting direction, and colour palette.
 - Tutarlı aydınlatma ve renk paleti (canlı, neşeli tonlar)
 - Referanslarda karakter yok — sadece ortam ve ekipman
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -871,7 +874,7 @@ Giriş → Salıncaklar → Kaydırak → Top havuzu → Dinlenme alanı
 
 ## Prompt Generation Rules
 
-Tek Hero View 사용, Hero zorunlu, tutarlı ışık.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ---
 

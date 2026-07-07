@@ -426,7 +426,8 @@ Her şey yuvarlak ve yumuşak.
 ### Kış
 - Soğuk
 - Kısa gece
-- İç mekan alternatifi
+- Characters remain outdoors or under cover, or the scene moves to another approved indoor world.
+- Do not create an indoor version of this world.
 
 ---
 
@@ -682,7 +683,9 @@ Close-up of round campfire stones with warm embers. Safe flame contained within 
 
 ## OpenArt Production Rules
 
-- **Tek Hero View 사용** — Hero View zorunlu
+- **Hero View is the primary canon reference.** Entrance View, Trail View, and Detail View are supporting references only.
+- They must not redesign the world.
+- All views must preserve the same landmark, style, lighting direction, and colour palette.
 - Tutarlı aydınlatma ve renk paleti (sıcak ateş + yıldız ışığı)
 - Referanslarda karakter yok — sadece ortam ve detay
 - Tüm referanslar aynı ışık yönü ve zaman dilimini yansıtmalı
@@ -869,7 +872,7 @@ Giriş → Kamp alanı → Çadırlar → Ateş → Gökyüzü
 
 ## Prompt Generation Rules
 
-Tek Hero View 사용.
+Hero View is the primary canon reference. Other views are supporting only.
 
 ---
 

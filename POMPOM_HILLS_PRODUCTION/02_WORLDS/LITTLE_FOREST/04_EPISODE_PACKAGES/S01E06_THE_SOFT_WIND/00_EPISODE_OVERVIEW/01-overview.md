@@ -4,7 +4,7 @@
 
 ## Duration
 
-2:00 (8 shots × 15 seconds)
+3:00 (12 shots × 15 seconds)
 
 ---
 

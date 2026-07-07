@@ -20,14 +20,23 @@ and friendly animals.
 
 The following elements define the canonical identity of Little Forest and must never change:
 
-- Small, round forest with soft trees
-- Round mushroom circles (magical)
-- Friendly birds in branches
-- Cute squirrels in tree hollows
+- **Primary landmark: The magical red-and-white mushroom circle (LF-MUSHROOM-01)**
+- Small, round forest with soft plush green trees
+- Round mushroom circles (magical) — MUST be visible in Hero View
+- Friendly birds in branches (optional per shot)
+- Cute squirrels in tree hollows (optional per shot)
 - Soft leaf trail on the ground
 - Golden light through leaves
 - Warm, safe atmosphere
 - No sharp corners anywhere
+
+**Little Forest is NOT "some green trees." Little Forest is the small safe discovery forest with the magical red-and-white mushroom circle.**
+
+### Water / Stream Rule (Hero View)
+
+Water / stream is not part of the Little Forest Hero View identity. Do not add a river, stream, pond, waterfall, bridge, or water feature to the Hero View. If a later shot explicitly needs a gentle stream, it may be introduced only as a shot-specific optional detail, not as the primary landmark. The primary Hero View landmark remains LF-MUSHROOM-01, the magical red-and-white mushroom circle.
+
+This is the Little Forest instance of the global Hero View Identity Lock — Non-Identity Feature Rule (`POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/WORLD_STANDARDS/GLOBAL_ENVIRONMENT_STANDARD.md`).
 
 ---
 
@@ -125,14 +134,16 @@ movement. The forest never feels dark or threatening.
 
 ## Consistency Rules
 
-- The forest is always small, round, and magical — never dark, never vast.
-- Trees stay round and green across every generation.
-- Mushrooms stay round and magical (red caps, white dots).
-- Birds stay friendly and colourful.
-- Squirrels stay cute and brown.
-- No sharp corners, no dark shadows, no threatening animals.
-- No dark or high-contrast lighting.
-- The forest's core shape, colours, and proportions are never redesigned or reinterpreted.
+- The round plush tree style must remain consistent across all generations
+- LF-MUSHROOM-01 must remain the primary landmark whenever the wider forest identity is shown
+- The forest must stay small, safe, open, and preschool-friendly
+- Lighting must remain soft and dappled through leaves
+- Paths must stay rounded and inviting
+- No dark, dense, scary, sharp, realistic, or tangled forest redesign
+- Birds and squirrels are optional per shot, not mandatory background clutter
+- No indoor version of Little Forest — characters stay outdoors or move to another world
+- The forest's core shape, colours, and proportions are never redesigned or reinterpreted
+- No river, stream, pond, waterfall, bridge, or water feature in the Hero View; a gentle stream may appear only as a shot-specific optional detail in a later shot, never as a Hero View landmark (see Water / Stream Rule above)
 
 ---
 
@@ -146,6 +157,18 @@ the warm natural set defined above. Favor a soft, matte, natural material
 language over any glossy, metallic, or realistic rendering. Treat the
 forest's shape, colours, and proportions as a fixed identity to preserve
 exactly, not to reinterpret, across every generation.
+
+### Reject Rules
+
+Reject the generation if:
+- The mushroom circle is missing or not visible
+- The forest looks like generic green trees without the mushroom circle
+- The forest feels dark, dense, scary, sharp, or too realistic
+- Birds or squirrels appear as mandatory clutter in every shot
+- Any indoor structure is created (house, cave, hut, room, tunnel)
+- Sharp corners, thorns, or dangerous elements appear
+- Colours are cold, desaturated, or harsh
+- A river, stream, pond, waterfall, bridge, or water feature appears in the Hero View
 
 ---
 
@@ -197,5 +220,5 @@ If any test fails, reject.
 
 ---
 
-*Little Forest — World Specification, aligned with Bible v3.1.*
-*Visual Richness Layer added 4 Temmuz 2026.*
+*Little Forest — World Specification, aligned with Bible v4.0.*
+*Updated 7 Temmuz 2026 — Aligned with Bible patches (Identity Lock, Visual Identity, Prompt Generation Rules, Continuity Rules).*
