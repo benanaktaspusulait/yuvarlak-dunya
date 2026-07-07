@@ -8,14 +8,14 @@
 
 ## Ana Sezon Bölümleri
 
-| Bölüm | Başlık | Tip | Karakter | Mekan | Durum | Süre |
-|-------|--------|-----|----------|-------|-------|------|
-| S02E01 | The Little Flower | 🌿 Nature, 💛 Feelings | Kiko, Mimi, Opa, **Tillo** | Tillo's Garden | 🟡 Yazıldı | 120 sn |
-| S02E02 | The Shy Squirrel | 💛 Feelings, 🤝 Social | **Aiko**, Kiko | Little Forest | 🟡 Yazıldı | 120 sn |
-| S02E03 | Painting Day | 🎨 Creativity | **Sofia**, Kiko | Art Corner | 🟡 Yazıldı | 120 sn |
-| S02E04 | The Garden Helper | 🙌 Helper, 🌿 Nature | **Tillo**, Kiko | Tillo's Garden | 🟡 Yazıldı | 120 sn |
-| S02E05 | The Quiet Cat | 💛 Feelings, 🤝 Social | **Mirnik**, Kiko | Little Forest | 🟡 Yazıldı | 120 sn |
-| S02E07 | Colorful Flowers | 🎨 Creativity, 🌿 Nature | **Sofia**, Kiko | Painting Garden | 🟡 Yazıldı | 120 sn |
+| Bölüm | Başlık | Tip | Karakter | Mekan | Durum | Süre | Hook |
+|-------|--------|-----|----------|-------|-------|------|------|
+| S02E01 | The Little Flower | 🌿 Nature, 💛 Feelings | Kiko, Mimi, Opa, **Tillo** | Tillo's Garden | 🟡 Yazıldı | 120 sn | ✨ Glowing seed |
+| S02E02 | The Shy Squirrel | 💛 Feelings, 🤝 Social | **Aiko**, Kiko | Little Forest | 🟡 Yazıldı | 120 sn | 🔍 Something hiding |
+| S02E03 | Painting Day | 🎨 Creativity | **Sofia**, Kiko | Art Corner | 🟡 Yazıldı | 120 sn | 🎨 Colour explosion |
+| S02E04 | The Garden Helper | 🙌 Helper, 🌿 Nature | **Tillo**, Kiko | Tillo's Garden | 🟡 Yazıldı | 120 sn | 💧 Heavy watering can |
+| S02E05 | The Quiet Cat | 💛 Feelings, 🤝 Social | **Mirnik**, Kiko | Little Forest | 🟡 Yazıldı | 120 sn | 🐱 Whispered discovery |
+| S02E07 | Colorful Flowers | 🎨 Creativity, 🌿 Nature | **Sofia**, Kiko | Painting Garden | 🟡 Yazıldı | 120 sn | 🌈 Which colour first? |
 
 ---
 

@@ -121,7 +121,7 @@ POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/S01E01_HELL
 
 ### Script'ler
 
-`scripts/` klasöründe 3 doğrulama scripti bulunur:
+`13-SCRIPTS/` klasöründe 3 doğrulama scripti bulunur:
 
 | Script | Amaç |
 |--------|------|
@@ -133,12 +133,12 @@ POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/04_EPISODE_PACKAGES/S01E01_HELL
 
 ```bash
 # Tüm scriptleri çalıştır
-bash scripts/validate-naming.sh
-python3 scripts/validate-continuity.py
-python3 scripts/lint-prompts.py
+bash 13-SCRIPTS/validate-naming.sh
+python3 13-SCRIPTS/validate-continuity.py
+python3 13-SCRIPTS/lint-prompts.py
 
 # veya tek seferde
-./scripts/validate-naming.sh && python3 scripts/validate-continuity.py && python3 scripts/lint-prompts.py
+./13-SCRIPTS/validate-naming.sh && python3 13-SCRIPTS/validate-continuity.py && python3 13-SCRIPTS/lint-prompts.py
 ```
 
 ### GitHub Actions

@@ -25,6 +25,8 @@ Tüm production assetlerinin durumunu takip eder.
 | Tillo | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
 | Mirnik | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
 | Mimo | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Nella | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
+| Remi | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🔴 Bekliyor | 🟢 Hazır | 🔴 |
 
 ---
 
@@ -206,4 +208,4 @@ Görsel onay süreci: `CONTRIBUTING.md` § Görsel Onay Süreci (Prompt QA → P
 ---
 
 *Bu dosya asset takibi için tek kaynaktır.*
-*Son güncelleme: 2 Temmuz 2026*
+*Son güncelleme: 7 Temmuz 2026*

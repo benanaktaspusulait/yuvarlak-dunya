@@ -90,10 +90,12 @@ dramatic angles.
 ## Dialogue
 
 ```text
-Kiko: Stay with me?
+Kiko: *peeks inside, clutching Opa's hand* It's so... new in there. Will you come with me?
 
-Opa: I'll be back soon.
+Opa: *kneels down, warm smile* Just for a little bit. Then you'll be braver than you think.
 ```
+
+> **Hook Purpose:** Kiko's hesitation at the door is instantly relatable for any child starting something new. Opa's promise of bravery creates hope and curiosity.
 
 ---
 

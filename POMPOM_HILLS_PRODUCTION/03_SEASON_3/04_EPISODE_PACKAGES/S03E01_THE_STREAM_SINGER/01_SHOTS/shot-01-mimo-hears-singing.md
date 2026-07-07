@@ -54,8 +54,10 @@ Camera movement must remain slow, stable and natural.
 ## Dialogue
 
 ```
-Mimo: What's that sound?
+Mimo: *stops suddenly, eyes wide* Wait... do you hear that? Something's... singing!
 ```
+
+> **Hook Purpose:** The immediate mystery of "something singing" captures attention. Children will wonder "What's singing? Where is it coming from?"
 
 ---
 

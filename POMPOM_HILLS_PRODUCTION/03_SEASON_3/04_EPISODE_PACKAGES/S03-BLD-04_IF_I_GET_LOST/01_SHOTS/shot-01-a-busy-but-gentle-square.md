@@ -89,10 +89,12 @@ Camera movement must remain slow, stable and natural. No fast zoom, no handheld 
 ## Dialogue
 
 ```text
-Kiko: So many friends.
+Kiko: *eyes wide with wonder* Opa! Look! Everyone's here today! It's so busy!
 
-Opa: Stay close, Kiko.
+Opa: *gently holding Kiko's hand* It is! That's why we stick together, little one.
 ```
+
+> **Hook Purpose:** The lively square with "everyone's here" creates excitement, while Opa's gentle warning hints at what might happen — setting up the "what if I get lost?" theme.
 
 ---
 

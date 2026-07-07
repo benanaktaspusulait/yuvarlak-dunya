@@ -84,10 +84,12 @@ Camera movement must remain slow, stable and natural. No fast zoom, no handheld 
 ## Dialogue
 
 ```text
-Kiko: Look, a ball!
+Kiko: *eyes light up* Look! A purple ball! It rolled right to me!
 
-Amara: Can I play?
+Amara: *steps forward, hopeful* Ooh! Can I play too?
 ```
+
+> **Hook Purpose:** The ball rolling to Kiko feels like a gift — immediately engaging. Amara's question introduces the sharing theme naturally.
 
 ---
 

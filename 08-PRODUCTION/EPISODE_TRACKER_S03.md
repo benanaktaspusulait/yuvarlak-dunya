@@ -8,21 +8,21 @@
 
 ## Ana Sezon Bölümleri
 
-| Bölüm | Başlık | Tip | Karakter | Mekan | Durum | Süre |
-|-------|--------|-----|----------|-------|-------|------|
-| S03E01 | The Stream Singer | 🎨 Creativity, 🌿 Nature | **Mimo**, Kiko | Rainbow Creek | 🟡 Yazıldı | 120 sn |
+| Bölüm | Başlık | Tip | Karakter | Mekan | Durum | Süre | Hook |
+|-------|--------|-----|----------|-------|-------|------|------|
+| S03E01 | The Stream Singer | 🎨 Creativity, 🌿 Nature | **Mimo**, Kiko | Rainbow Creek | 🟡 Yazıldı | 120 sn | 🎵 Mystery singing |
 
 ---
 
 ## Brave Little Days Bölümleri
 
-| Bölüm | Başlık | Tip | Karakter | Mekan | Tema | Durum | Süre |
-|-------|--------|-----|----------|-------|------|-------|------|
-| S03-BLD-01 | Kiko's Happy Smile | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi, **Nella** | Central Square | Dişçiden korkmamak | 🟡 Yazıldı | 120 sn |
-| S03-BLD-02 | Kiko's Check-Up Day | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi, **Remi** | Central Square | Doktor korkusu | 🟡 Yazıldı | 120 sn |
-| S03-BLD-03 | Share and Play | 🌟 Life Skills, 🤝 Social | Kiko, **Amara** | Benny's Playground | Paylaşma | 🟡 Yazıldı | 120 sn |
-| S03-BLD-04 | If I Get Lost | 🌟 Life Skills, 🙌 Helper | Kiko, Opa, **Remi** | Central Square | Kaybolunca helper | 🟡 Yazıldı | 120 sn |
-| S03-BLD-05 | My First Day | 🌟 Life Skills, 💛 Feelings | Kiko, Opa, **Amara** | Learning Room | İlk gün | 🟡 Yazıldı | 120 sn |
+| Bölüm | Başlık | Tip | Karakter | Mekan | Tema | Durum | Süre | Hook |
+|-------|--------|-----|----------|-------|------|-------|------|------|
+| S03-BLD-01 | Kiko's Happy Smile | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi, **Nella** | Central Square | Dişçiden korkmamak | 🟡 Yazıldı | 120 sn | 😬 Tooth surprise |
+| S03-BLD-02 | Kiko's Check-Up Day | 🌟 Life Skills, 💛 Feelings | Kiko, Mimi, **Remi** | Central Square | Doktor korkusu | 🟡 Yazıldı | 120 sn | 😟 Check-up nerves |
+| S03-BLD-03 | Share and Play | 🌟 Life Skills, 🤝 Social | Kiko, **Amara** | Benny's Playground | Paylaşma | 🟡 Yazıldı | 120 sn | ⚽ Ball rolls to Kiko |
+| S03-BLD-04 | If I Get Lost | 🌟 Life Skills, 🙌 Helper | Kiko, Opa, **Remi** | Central Square | Kaybolunca helper | 🟡 Yazıldı | 120 sn | 👀 Busy square |
+| S03-BLD-05 | My First Day | 🌟 Life Skills, 💛 Feelings | Kiko, Opa, **Amara** | Learning Room | İlk gün | 🟡 Yazıldı | 120 sn | 🚪 New door hesitation |
 
 ---
 

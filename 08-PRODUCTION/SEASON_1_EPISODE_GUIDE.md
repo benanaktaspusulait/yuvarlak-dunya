@@ -27,13 +27,13 @@
 | 02a | Kiko'nun Ev Turu | Kiko izleyicileri içeriye davet eder, evin okuma köşesi, oyuncak köşesi ve penceresini gösterir | Kiko | Kiko's Home (Dış Bahçe → İç) | 15 sn | ✅ |
 | 02b | Zıpla Zıpla Kiko | Kiko sarı bir top bulur, Mimi ile oynar, kelebekler arasında zıplarlar | Kiko, Mimi, Opa | Flower Hill — Home Cluster Zone → Central Square | 3 dk | ❌ |
 | 03 | Küçük Çiçek | Kiko tohum bulur, diker, sulayarak bekler, Mimi yardım eder, çiçek açar | Kiko, Mimi, Tillo, Opa | Tillo's Garden | 3 dk | ❌ |
-| 04 | Mimi'nin Büyük Esnemesi | Mimi durmadan esner, Kiko ona rahat bir yer arar, ağacın altında uyur | Kiko, Mimi, Opa | Mimi's Burrow | 3 dk | ❌ |
-| 05 | Renkler Her Yerde | Kiko renkleri keşfeder, Mimi ile birlikte mor lavanta bulurlar, gökkuşağı yaparlar | Kiko, Mimi, Opa | Friendship Meadow | 3 dk | ❌ |
+| 04 | Mimi'nin Büyük Esnemesi | Mimi durmadan esner, Kiko ona rahat bir yer arar, ağacın altında uyur | Kiko, Mimi, Opa | Mimi's Burrow | 120 sn | ✅ |
+| 05 | Renkler Her Yerde | Kiko renkleri keşfeder, Mimi ile birlikte mor lavanta bulurlar, gökkuşağı yaparlar | Kiko, Mimi, Opa | Friendship Meadow | 120 sn | ✅ |
 | 06 | Yumuşak Rüzgar | Rüzgar eser, yapraklar sallanır, Kiko ve Mimi rüzgarla oynarlar | Kiko, Mimi, Opa | Little Forest | 3 dk | ❌ |
 | 07 | Yuvarlak Taş | Luca yuvarlak bir taş bulur, Kiko'ya gösterir, şekilleri fark edip keşfi paylaşırlar | Luca, Kiko | Stone Hill | 94 sn (90 sn hikaye + 4 sn micro-opening) | ✅ |
 | 08 | Birlikte İnşa | Noah ve Arda bloklarla kule yaparlar, birlikte başarırlar | Noah, Arda | Central Square | 1 dk | ❌ |
 | 09 | Sessiz Yer | Kiko Opa'yı ziyaret eder, birlikte sessizce doğa seslerini dinlerler | Kiko, Opa | Opa's Tree | 1 dk | ❌ |
-| 10 | Benim Sıram Senin Sıran | Luca ve Noah top oynarlar, sırayla oynamayı öğrenirler | Luca, Noah | Central Square | 1 dk | ❌ |
+| 10 | Benim Sıram Senin Sıran | Luca ve Noah top oynarlar, sırayla oynamayı öğrenirler | Luca, Noah | Central Square | 120 sn | ✅ |
 | 11 | İyi Geceler Ağaç | Arda Opa'nın ağacına gider, "Ağaç da uykulu mu?" der, birlikte iyi geceler derler | Arda, Opa | Opa's Tree | 1 dk | ✅ |
 | 12 | Yapraklar Neden Düşer | Kiko yaprakların düştüğünü görür, Opa'ya sorar, yeni yapraklar büyüdüğünü öğrenir | Kiko, Opa | Little Forest | 1 dk | ❌ |
 | 13 | Yağmur Nereden Gelir | Kiko yağmur sesini duyar, Luca ve Mimi ile bulutları izlerler, yağmuru keşfederler | Luca, Mimi | Cloud Hill | 1 dk | ❌ |
@@ -98,13 +98,13 @@
 |--------|-------|
 | Toplam bölüm | 26 |
 | Yazılan | 26/26 (%100) |
-| Üretilen | 4/26 (%15.4) |
+| Üretilen | 7/26 (%26.9) |
 | Yayınlanan | 0/26 (%0) |
 
 | Durum | Kod | Sayı |
 |-------|-----|------|
-| ✅ Üretildi | _done klasörü / tamamlandı | 4 |
-| ❌ Üretilmedi | Normal klasör | 22 |
+| ✅ Üretildi | _done klasörü / tamamlandı | 7 |
+| ❌ Üretilmedi | Normal klasör | 19 |
 
 ---
 
@@ -181,4 +181,4 @@ Gelecek sezonlarda yeni karakter eklenirken onboarding politikasına uyulmalı.
 ---
 
 *Bu belge Sezon 1 bölüm rehberi için tek kaynaktır.*
-*Son güncelleme: 4 Temmuz 2026*
+*Son güncelleme: 7 Temmuz 2026*

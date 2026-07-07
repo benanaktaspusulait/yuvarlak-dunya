@@ -65,10 +65,12 @@ to medium on Kiko and Mimi. Stable settle only.
 ## Dialogue
 
 ```text
-Mimi: It's check-up day!
+Mimi: *bouncing excitedly* Today's the day, Kiko! Check-up day!
 
-Kiko: Um... already?
+Kiko: *slows down, fidgeting* Already? But... but I just got here!
 ```
+
+> **Hook Purpose:** Kiko's nervous reaction to "check-up day" is instantly relatable. Children who've felt nervous about doctor visits will connect immediately.
 
 ## Shot Breakdown
 

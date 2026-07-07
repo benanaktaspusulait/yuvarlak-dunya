@@ -478,7 +478,7 @@ She is always warm. Always. Without exception.
 
 > **Production Update (v2.1):** Proje, üretim sürecinde 13 isimli karakterden oluşan bir
 > genişletilmiş kadroya (bkz. `01-CHARACTERS/`) taşındı. Bu karakterler S01E01'de
-> kısa "merhaba" cameo sahneleriyle (bkz. `scenes/season-01/s01e01-hello-pompom-hills/`)
+> kısa "merhaba" cameo sahneleriyle (bkz. `POMPOM_HILLS_PRODUCTION/02_WORLDS/CENTRAL_SQUARE/`)
 > tanıtılır; ana trio (Kiko, Mimi, Opa) duygusal çıpa olarak kalır ve bölümleri yönetir.
 > Aşağıdaki bölüm, orijinal "önce yalnızca trio" tasarım gerekçesini korur; güncel karar,
 > kadronun cameo düzeyinde erken tanıtılıp trionun liderliğini koruması yönündedir.
@@ -502,8 +502,8 @@ She is always warm. Always. Without exception.
 | 4 | **Boo** | Bear | Big, soft, loves napping | Episode 14 (visual), Season 2 (speaking) |
 
 > Not: **Mirnik** (kedi) bu "gelecek" listesinden çıkarıldı; artık ana cameo kadrosunun bir
-> parçasıdır ve S01E01'de tanıtılır (`01-CHARACTERS/12-mirnik.md`,
-> `scenes/season-01/s01e01-hello-pompom-hills/13-mirnik-intro.md`).
+> parçasıdır ve S01E01'de tanıtılır (`01-CHARACTERS/12-mirnik.md`).
+> Sezon 2'de S02E05 (The Quiet Cat) bölümünde başrol oynar.
 
 ### Season 1 Side Character Rules
 
@@ -580,8 +580,9 @@ A warm hug. A soft voice. A gentle discovery. A safe ending. The toddler should 
 
 ### Sample Episode Pool (illustrative)
 
-> **Season 1 = 26 bölüm.** Aşağıdaki tablo **illüstratif bir fikir havuzudur**, kesin yayın
-> sırası değildir. Kanonik üretim sırası ve başlıkları `scenes/season-01/` altında tanımlıdır.
+> **Season 1 = 19 bölüm (EPISODE_TRACKER_S01.md).** Aşağıdaki tablo **illüstratif bir fikir havuzudur**, kesin yayın
+> sırası değildir. Kanonik üretim sırası ve başlıkları `08-PRODUCTION/EPISODE_TRACKER_S01.md` ve
+> `08-PRODUCTION/S01_PUBLICATION_ORDER.md` altında tanımlıdır.
 > Üretilen ilk 6 bölüm: **s01e01 Hello Pompom Hills · s01e02 Bounce Bounce Kiko ·
 > s01e03 The Little Flower · s01e04 Mimi's Big Yawn · s01e05 Colours Everywhere ·
 > s01e06 The Soft Wind**. Havuzdaki diğer başlıklar kalan 20 bölüme dağıtılır.

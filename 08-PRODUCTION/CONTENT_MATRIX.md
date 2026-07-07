@@ -28,8 +28,20 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | Content ID | Karakter | Mekan | Series / Playlist | Long Video | Shorts | Facebook | Instagram | YouTube Long | YouTube Short |
 |------------|----------|-------|--------------------|-------------|--------|----------|-----------|---------------|----------------|
 | S01E01 | Kiko, Mimi, Opa + 10 komşu | Central Square | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| S01E02-A | Kiko | Kiko's Home | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| S01E11 | Arda, Opa | Opa's Tree | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| S01E02-A | Kiko | Kiko's Home | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| S01E04 | Kiko, Mimi | Mimi's Burrow | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| S01E05 | Kiko, Mimi | Friendship Meadow | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| S01E07 | Luca, Kiko | Stone Hill | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| S01E10 | Luca, Noah | Central Square | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| S01E11 | Arda, Opa | Opa's Tree | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| S01E14 | Luca, Opa | Opa's Tree (gece) | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| BLD-EP01 | Kiko, Mimi | Central Square | Brave Little Days | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| BLD-EP02 | Kiko, Mimi | Central Square | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| BLD-EP03 | Kiko, Mimi | Central Square | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| BLD-EP04 | Kiko, Mimi | Central Square | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| BLD-EP05 | Kiko, Mimi | Central Square | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| BLD-EP06 | Kiko, Mimi, Sofia | Friendship Meadow | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| BLD-EP07 | Kiko, Mimi | Central Square | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Opa's Storytime EP01 — The Little Cloud That Waited | Opa, Luca, Mimi | Learning Room — Reading Corner (indoor) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Opa's Storytime EP02 — The Little Seed That Listened | Opa, Kiko, Mimi | Kiko's Home — Reading Corner (indoor) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Opa's Storytime EP03 — The Star That Shared Its Light | Opa, Luca, Noah | Opa's Tree (night) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |

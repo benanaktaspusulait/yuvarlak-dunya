@@ -72,10 +72,12 @@ settle toward medium as Kiko pauses mid-bite. Stable settle only; keep backgroun
 ## Dialogue
 
 ```text
-Kiko: Oh! My tooth feels funny.
+Kiko: *mid-bite, freezes* Oh! Oh! Mimi — something's happening to my tooth!
 
-Mimi: Are you okay?
+Mimi: *leans in, worried* What happened? Is it okay?
 ```
+
+> **Hook Purpose:** The sudden freeze and "something's happening" creates immediate concern and curiosity. Children will want to know what's wrong with Kiko's tooth.
 
 ## Shot Breakdown
 
