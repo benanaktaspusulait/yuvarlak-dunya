@@ -168,17 +168,10 @@ else
 
     # 4. Close-up Kontrolü
     echo "4. CLOSE-UP KONTROLÜ"
-    # Sadece "close-up" kullanımı kontrol et; "not a close-up", "no close-up" gibi
-    # negatif talimatları sayma.
+    # Close-up izinlidir (TECH_SPECS: "Close-up | Face readable, background simple").
+    # Sadece bilgilendirme olarak raporla, hata verme.
     CLOSEUPS=$(grep -rli "close-up\|Close-up" "$SHOTS_DIR/" 2>/dev/null | wc -l)
-    CLOSEUP_POSITIVE=$(grep -rci "close-up\|Close-up" "$SHOTS_DIR/" 2>/dev/null | grep -v ":0$" | while read line; do
-        file=$(echo "$line" | cut -d: -f1)
-        count=$(echo "$line" | cut -d: -f2)
-        neg=$(grep -ci "not.*close-up\|no close-up\|do not.*close-up\|must not.*close-up\|avoid.*close-up\|foreground close-up\|oversized\|cropped" "$file" 2>/dev/null)
-        pos=$((count - ${neg:-0}))
-        [ "$pos" -gt 0 ] && echo "$file"
-    done | wc -l)
-    [ "$CLOSEUP_POSITIVE" -eq 0 ] && echo "  ✅ Close-up yok" || { echo "  ❌ $CLOSEUP_POSITIVE dosyada close-up var"; ERRORS=$((ERRORS+1)); }
+    [ "$CLOSEUPS" -eq 0 ] && echo "  ✅ Close-up yok" || echo "  ℹ️  $CLOSEUPS dosyada close-up referansı var (izinli)"
     echo
 
     # 5. Dialogue Continuity
