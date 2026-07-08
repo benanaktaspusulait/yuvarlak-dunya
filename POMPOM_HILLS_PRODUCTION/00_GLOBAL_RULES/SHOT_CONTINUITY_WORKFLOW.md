@@ -117,6 +117,122 @@ The first second hold is also an intra-shot safety gate: no character may telepo
 switch sides, pop in, disappear, or change scale during that first second, and no visible
 background object may move, disappear, duplicate, or change identity.
 
+### Colour / Contrast Drift Control Rule
+
+When a shot continues from a previous shot final frame using `@image1`, the visual style
+must not become progressively more contrasty, saturated, sharp, glossy, HDR-looking, or
+harsh.
+
+OpenArt sometimes increases:
+- contrast
+- saturation
+- sharpness
+- glossy plastic highlights
+- HDR-like lighting
+- harsh shadows
+- blown highlights
+- deeper dark areas
+- over-polished CGI look
+
+This must be prevented globally.
+
+For every frame-to-video continuity prompt, include a Colour / Contrast Stability section:
+
+```
+Colour / Contrast Stability:
+Match @image1 for continuity, but do not intensify it.
+Preserve the soft pastel preschool look.
+Preserve medium-low contrast.
+Preserve warm morning dappled sunlight.
+Preserve gentle golden warmth.
+Preserve soft shadows.
+Preserve matte handcrafted toy-set materials.
+Do not increase contrast.
+Do not increase saturation.
+Do not add HDR effect.
+Do not add extra sharpening.
+Do not add glossy plastic highlights.
+Do not create harsher shadows.
+Do not brighten highlights into a blown-out look.
+Do not make dark areas deeper or more cave-like.
+Do not make the scene look more intense than @image1.
+If any adjustment happens, it should be slightly softer and calmer, never stronger,
+sharper, glossier, darker, or more contrasty.
+```
+
+Add these terms to the global negative prompt for all OpenArt video prompts:
+
+```
+high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look,
+glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights,
+oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation
+drift, contrast drift, dark areas growing darker, highlights growing brighter, lighting
+becoming harsher
+```
+
+Add this checklist item to every frame-to-video approval checklist:
+
+```
+- [ ] No contrast / saturation / HDR / glossy / oversharpened drift from @image1
+```
+
+### Character Voice Lock Rule
+
+Every character must use the same locked voice across all shots in an episode and across
+the entire series. Voice changes between shots break immersion and confuse young viewers.
+
+OpenArt and post-production voice assignment must follow these rules:
+
+1. **One voice per character.** Each character has one locked Voice ID / voice reference
+   that never changes.
+
+2. **Voice IDs must be registered** in `08-PRODUCTION/VOICE_TRACKER.md` before production
+   begins. No shot may be generated without a confirmed Voice ID for every speaking
+   character.
+
+3. **Every shot prompt must specify** the locked Voice ID for each speaking character.
+   Never let OpenArt or any TTS system "choose" a voice.
+
+4. **Voice identity includes:**
+   - Same pitch
+   - Same timbre
+   - Same age impression
+   - Same speaking speed
+   - Same warmth
+   - Same preschool energy
+   - Same speaking rhythm
+   - Same pronunciation
+   - Same accent
+   - Same recording quality
+
+5. **Reference-based voice lock:** If the system supports voice reference, use the
+   approved Shot 01 voice sample as the reference for every subsequent shot. Never
+   generate a new voice mid-episode.
+
+6. **Forbidden:**
+   - Different narrator voice for the same character
+   - Alternate voice or voice variant
+   - Older/younger sounding replacement
+   - Different performer feel
+   - AI-generated voice that drifts from the registered voice
+   - Any voice not registered in VOICE_TRACKER.md
+
+Add this to every OpenArt shot prompt that has dialogue:
+
+```
+Voice Lock:
+Each character must use their registered locked voice from VOICE_TRACKER.md.
+Do not let OpenArt choose or generate voices.
+Do not change voice between shots.
+Same pitch, same timbre, same age, same speed, same warmth.
+```
+
+Add this checklist item to every approval checklist:
+
+```
+- [ ] Character voices match registered Voice IDs — no drift
+```
+
 ### Object Continuity Map Gate
 
 Every episode that depends on persistent objects must maintain an Object Continuity Map

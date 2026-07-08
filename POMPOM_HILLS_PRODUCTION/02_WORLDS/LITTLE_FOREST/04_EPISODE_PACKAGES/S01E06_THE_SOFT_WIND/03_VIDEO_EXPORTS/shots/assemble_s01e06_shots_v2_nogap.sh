@@ -17,10 +17,14 @@ err() { echo -e "${RED}[✗]${NC} $1"; exit 1; }
 
 command -v ffmpeg &>/dev/null || err "ffmpeg not found"
 
-# Find all shot videos, sorted naturally
-SHOTS=($(ls "${SCRIPT_DIR}"/shot-*.mp4 "${SCRIPT_DIR}"/shot0*.mp4 2>/dev/null | grep -v 'all-shots' | sort -t'-' -k2 -n))
+# Find ALL shot videos in this folder, in natural order (shot-1, shot-2, ... shot-10, ...).
+# Fully generic: works for any number of shots, zero-padded or not.
+SHOTS=()
+while IFS= read -r f; do
+    SHOTS+=("$f")
+done < <(find "${SCRIPT_DIR}" -maxdepth 1 -type f -name 'shot-*.mp4' ! -name '*all-shots*' | sort -V)
 [ ${#SHOTS[@]} -eq 0 ] && err "No shot-*.mp4 files found"
-log "Found ${#SHOTS[@]} shots:"
+log "Found ${#SHOTS[@]} shots (in play order):"
 for s in "${SHOTS[@]}"; do log "  $(basename "$s")"; done
 
 # Get video properties from first shot
