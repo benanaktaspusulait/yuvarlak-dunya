@@ -84,6 +84,5 @@ No realistic food textures — keep it soft and toy-like.
 No large crowds or queues.
 No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 No modern bakery chains, no neon signs, no coffee shop aesthetics.
-No realistic food textures — keep cookies and bread soft and toy-like.
 
 The final image must feel like the definitive Poppy's Bakery Hero View: iconic, readable, reusable, warm, cosy, and unmistakably Pompom Hills.
