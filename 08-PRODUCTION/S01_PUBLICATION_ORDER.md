@@ -15,7 +15,7 @@
 | 4 | S01E05 | Colours Everywhere | Kiko, Mimi | Central Square | 🎨 Renkler | 120 sn | ✅ |
 | 5 | S01E04 | Mimi's Big Yawn | Kiko, Mimi | Mimi's Burrow | 💛 Hissetme | 120 sn | ✅ |
 | 6 | S01E07 | The Round Stone | Luca, Kiko | Stone Hill | 🔵 Luca tanıtımı | 120 sn | ✅ |
-| 7 | S01E06 | The Soft Wind | Kiko, Mimi | Little Forest | 🌿 Doğa | 120 sn | ❌ |
+| 7 | S01E06 | The Soft Wind | Kiko, Mimi | Little Forest | 🌿 Doğa | 120 sn | ✅ |
 | 8 | S01E08 | Building Together | Noah, Arda | Central Square | 🧱 Noah + Arda tanıtımı | 120 sn | ❌ |
 | 9 | S01E09 | The Quiet Place | Kiko, Opa | Opa's Tree | 🌙 Sessizlik | 120 sn | ❌ |
 | 10 | S01E10 | My Turn, Your Turn | Luca, Noah | Central Square | 🤝 Sıralama | 120 sn | ✅ |

@@ -16,7 +16,7 @@ Her karakter için potansiyel bölüm kombinasyonlarını listeler.
 | S01E02 | Flower Hill — Home Cluster Zone → Central Square | Top oyunu | 🟡 Yazıldı |
 | S01E03 | Tillo's Garden | Çiçek yetiştirme | 🟡 Yazıldı |
 | S01E05 | Rosie's Garden → Central Square | Renkler | 🟡 Yazıldı |
-| S01E06 | Pompom Hills genel | Rüzgar | 🟡 Yazıldı |
+| S01E06 | Little Forest | Rüzgar | 🟢 Üretildi |
 | S01E07 | Stone Hill | Yuvarlak taş | 🟢 Üretildi |
 | S01E09 | Opa's Tree | Sessiz yer | 🟡 Yazıldı |
 
