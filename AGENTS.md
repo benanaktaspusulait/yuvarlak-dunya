@@ -48,6 +48,7 @@ bu dosyalara dokunmaz.
 | **Music & Rhythm Time** (müzik/ritim sub-series) | `POMPOM_HILLS_PRODUCTION/06_MUSIC_RHYTHM_TIME/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
 | Shot/video üretimi (kamera, renk, süreklilik, teknik) | `00-CORE/17_VIDEO_GENERATION_STANDARD.md`, `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/VISUAL_CONTINUITY_RULES.md` |
 | **Pompom Items (dünya imza nesneleri)** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/POMPOM_ITEMS/00-POMPOM_ITEMS_BIBLE.md`, `01-pompom-ball.md` ... `07-pompom-raindrop.md` |
+| **Hero View OpenArt Prompt Standardı** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` § Hero View OpenArt Prompt Standard (Image Generation + World Builder) |
 | Video pacing / hook / retention stili | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
 | **Shorts üretim standardı (karakter görünürsüzlüğü, kalite)** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_PRODUCTION_STANDARD.md` |
 | Series bumper ile world micro-opening ayrımı | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |

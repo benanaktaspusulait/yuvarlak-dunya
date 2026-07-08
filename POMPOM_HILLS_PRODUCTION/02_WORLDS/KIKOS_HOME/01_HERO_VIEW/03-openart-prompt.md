@@ -1,122 +1,91 @@
-# Kikos Home — OpenArt World Builder Prompt
+Create the single canonical Hero View for Kiko's Home in the Pompom Hills preschool animation world.
 
-## Purpose
+This must be a premium master world image, not a generic flower field, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
-This file is only the OpenArt World Builder input guide for KIKOS HOME.
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.85 m.
+28 mm lens feeling.
+The round white arched front door is always centred — the primary visual anchor.
+The coral-pink cottage fills the middle ground, with soft garden elements framing it.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Round grey stepping-stone path in the foreground → soft green garden with three large round flowers in the middle ground → the round coral-pink house with its white arched door at centre → dark-pink dome roof with decorative round chimney → soft warm sky on the horizon.
 
-- The approved KIKOS HOME Hero View is the primary input.
-- Text is secondary only.
-- `02-world-spec.md` remains the full production reference.
-- Do not paste the full spec into OpenArt World Builder.
+PRIMARY WORLD IDENTITY:
+Kiko's Home must be instantly recognisable from this image alone.
+It is the safe base of Pompom Hills — the warm rounded toy-cottage heart of the series.
+KH-DOOR-01, the round white arched front door, is the primary visual anchor — the threshold that turns "a pink house" into "the house where Kiko welcomes you in."
+The house is round, coral-pink (#F8BBD0), with a dark-pink dome roof (#E91E63) and a small decorative round chimney.
+It should feel like a house you want to run up and knock on.
 
----
+ENVIRONMENT:
+Round grey stepping-stone path (#E0E0E0) curves from the fence to the door.
+Three large round front-garden flowers (red, yellow, pink) bloom out front.
+Soft carpet-like green grass (#C8E6C9) surrounds the house.
+A low coral-pink fence (#F8BBD0) with round tops encloses the garden.
+Two round windows with white frames glow with warm interior light.
+The garden is tidy, colourful, and inviting — no clutter, no mess.
+Everything is round, soft, and child-proportioned.
+A small round mailbox or number plate sits near the fence if canonised.
+The chimney has a round, gentle shape — no sharp edges, no industrial look.
 
-## World Builder Reality Check
+COLOUR DIRECTION:
+Warm morning palette from the Pompom Hills bible.
+House walls: coral-pink #F8BBD0 — warm, soft, inviting.
+Roof: dark-pink #E91E63 — rounded dome, playful but not garish.
+Door and window frames: white #FFFFFF — clean, bright, welcoming.
+Fence: coral-pink #F8BBD0 — low, round-topped, friendly.
+Grass: soft green #C8E6C9 — lush, carpet-like.
+Stepping stones: soft grey #E0E0E0 — round, smooth, safe.
+Avoid dark colours, cold tones, or high contrast.
+Kiko's Home is pinker and more cottage-like than Central Square (which is green and tree-dominated).
+This world should feel like the warmest, safest, most inviting home in all of Pompom Hills.
 
-OpenArt World Builder is a 3D spatial extrapolation tool. It may not perfectly follow detailed prompt rules. It may reinterpret objects, flatten space, sharpen textures, or add unwanted clutter. Because of this, the approved Hero View image must be treated as the highest-fidelity source.
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
----
+MOOD:
+Safe, warm, inviting, familiar — like the house you always want to come home to.
+This is where adventures begin and end, where friends are welcomed at the door, where mornings start with sunlight through round windows.
+Children should feel: "I want to go inside. I want to knock on that door."
+The comfort of home, the warmth of welcome, the gentle promise of safety.
 
-## Required Input Method
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Central Square — there is no Big Pompom Tree, no stone circle, no communal gathering space here.
+Do not make it look like Flower Hill — there is no dense five-colour flower carpet, no S-curve stepping-stone path.
+Do not make it look like Mimi's Burrow — there is no underground entrance, no blue doorway, no hidden burrow.
+Do not make it look like Little Forest — there is no mushroom circle, no dense tree canopy, no forest floor.
+Do not make it look like Opa's Tree — there is no single oversized storytelling branch, no below-looking-up angle.
+Do not make it look like Music Hill — there are no music trees, no leaf chimes, no stepping stones on a hill.
 
-### Best Method — 1 Image Mode
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No rectangular or sharp-edged house shape.
+No vehicles or modern technology.
+No broken or messy objects.
+No large crowds or clutter in the garden.
+No harsh dark shadows or scary silhouettes.
+No sharp corners on any furniture or structure.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
-- Upload the approved KIKOS HOME Hero View.
-- Use the prompt below only as a supplementary style and layout hint.
-- The image is the primary instruction.
-- Do not add character references.
-- Do not add episode shots.
-- Do not add failed generations.
-
-### 2–4 Image Mode
-
-- If OpenArt disables the text field after uploading multiple images, that is expected.
-- In that case, the images become the instruction.
-- Use only canon-consistent views.
-- All images must match lighting, colour palette, material style, and camera height.
-- Do not mix different styles or generations.
-
-Recommended views:
-
-- Image 1 / Front: approved Hero View, all identity elements visible.
-- Image 2 / Back: reverse view, same palette.
-- Image 3 / Left: side view showing layout and depth.
-- Image 4 / Right optional: closer detail, not macro.
-
----
-
-## OpenArt Text Prompt — Use Only In 1 Image Mode
-
-```
-Create a soft, preschool-friendly world called KIKOS HOME.
-Use the uploaded approved Hero View as the primary reference.
-Preserve its layout, lighting, colour palette, camera feeling, and soft toy-like handcrafted style.
-
-This is a connected living world — a single continuous living space.
-No hard walls between zones. Soft activity areas flow naturally within one space.
-Front Garden: three big pastel flowers, stone path, low fence.
-Front Porch: round white door, warm transition from outside to inside.
-Entrance: shoe area, first step into the safe home.
-
-Interior has no partitions — Reading Corner with shelf and books, Kitchen Nook with small table and fruit basket, Window Corner with large round window, Sleeping Corner with round bed and blanket.
-All zones share one warm open space with soft cream and pink tones.
-
-Child-eye camera height, warm morning sunlight through the round window.
-Soft pale sky visible beyond, gentle natural depth.
-Medium-low contrast, matte handcrafted toy-set materials, rounded shapes.
-Back Garden with small flowers and a little tree visible through back door.
-This is the safest place in Pompom Hills — where adventures begin and end.
-
-No characters, children, rabbits, animals, or birds.
-No giant foreground objects, cropped edge objects, sharp corners.
-No modern appliances, clinical white surfaces, bright surgical lamps.
-No metal trays, needles, sharp tools, harsh shadows.
-No HDR, glossy plastic, high contrast, oversharpening, or neon colours.
-```
-
----
-
-## Negative Prompt / Forbidden Output
-
-```
-characters, children, Kiko, Mimi, Noah, Arda, Luca, Opa, rabbits, animals, birds, sharp corners, modern appliances, clinical white surfaces, bright surgical lamps, metal trays, needles, sharp tools, giant flowers, foreground flower close-up, cropped flowers at frame edge, cropped objects, clutter, buildings, signs, labels, readable text, arrows, fences, roads, vehicles, night, sunset, moon, stars, harsh shadows, high contrast, HDR, glossy plastic, glossy CGI, oversharpened, realistic textures, photorealism, neon colours, over-saturated colours
-```
-
----
-
-## Identity Lock
-
-KIKOS HOME must read as:
-
-- A connected living world with no hard walls between soft zones
-- Warm cream and pink tones, round forms, the safest place in Pompom Hills
-- A Front Garden with three big flowers and a round white door leading inside
-- Soft pastel Pompom Hills style with matte handcrafted toy-set materials
-
-It must NOT read as:
-
-- A realistic house with separate rooms and corridors
-- A clinical or modern interior
-- A different Pompom Hills world
-- A dark or scary place
-- A generic stock location
-
----
-
-## Production QA After World Build
-
-- [ ] Is the world still recognisable as KIKOS HOME from silhouette and layout?
-- [ ] Is the round white door visible as the entrance?
-- [ ] Does the interior flow as one continuous space without hard wall partitions?
-- [ ] Are there no characters or animals?
-- [ ] Are there no sharp corners, modern appliances, or clinical surfaces?
-- [ ] Is the style still soft pastel, matte, toy-like, preschool-safe?
-- [ ] Is contrast medium-low?
-- [ ] Is there no HDR, glossy CGI, oversharpening, or harsh shadow drift?
-- [ ] Does it match the approved Hero View more than the text prompt?
-
----
-
-## Final Usage Note
-
-Use the generated World Builder output only after QA. If it adds unwanted elements, glossy/HDR contrast, or drifts from the approved Hero View, reject the world and regenerate. Do not treat a failed world as canon.
+The final image must feel like the definitive Kiko's Home Hero View: iconic, readable, reusable, safe, warm, inviting, and unmistakably Pompom Hills.

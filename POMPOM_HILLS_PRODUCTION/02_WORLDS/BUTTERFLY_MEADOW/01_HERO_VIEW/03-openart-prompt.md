@@ -1,122 +1,96 @@
-# Butterfly Meadow — OpenArt World Builder Prompt
+Create the single canonical Hero View for Butterfly Meadow in the Pompom Hills preschool animation world.
 
-## Purpose
+This must be a premium master world image, not a generic flower field, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
-This file is only the OpenArt World Builder input guide for Butterfly Meadow.
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+The meadow should feel spacious and explorable, not like a small stage set.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+soft flower-lined path → subtle butterfly-shaped central meadow garden → low natural butterfly-wing floral arch landmark → open meadow continuation → distant rounded hills and soft sky.
 
-- The approved Butterfly Meadow Hero View is the primary input.
-- Text is secondary only.
-- `02-world-spec.md` remains the full production reference.
-- Do not paste the full spec into OpenArt World Builder.
+PRIMARY WORLD IDENTITY:
+Butterfly Meadow must be instantly recognisable from this image alone.
+It is a soft, airy, open meadow world with pastel wildflowers and a gentle butterfly theme.
+At the centre of the meadow, create a subtle “butterfly dance garden” integrated into the landscape: two low curved flower beds left and right, suggesting butterfly wings when viewed from the front, but still feeling natural and environmental, not graphic, not logo-like, not artificial.
+Near the centre, include one small natural landmark: a low rounded floral arch whose silhouette softly suggests butterfly wings. It should feel handcrafted and child-safe, made of wood and covered with flowers and leaves, but it must remain an environmental feature, not an entrance gate, not a theme park prop, not a sign, and with no readable text.
 
----
+ENVIRONMENT:
+Open meadow with soft green grass and gentle low rolling land.
+Pastel wildflowers in pink, yellow, orange, purple, red, white, and soft coral, spread richly across the meadow in a premium but controlled way.
+Flowers should feel abundant, cheerful, and visually rich without becoming cluttered.
+No giant foreground flowers.
+No macro flower close-up feeling.
+No cropped edge flowers dominating the frame.
+A gentle rounded stepping-stone path or grassy walking route should lead naturally into the scene.
+Add only a few small rounded toy-like trees at the far edges and horizon, never dense, never forest-like.
+This world must feel more open, flatter, and airier than Flower Hill, and much less dense than Little Forest.
+Add soft rounded distant hills and a warm blue morning sky with soft fluffy clouds.
 
-## World Builder Reality Check
+COLOUR DIRECTION:
+Use a brighter, more joyful, more lively colour palette than the previous draft while staying within the Pompom Hills preschool look.
+The meadow should feel fresh, cheerful, and visually inviting.
+Increase colour richness in the flowers, grass, and sky, but keep it tasteful and controlled.
+Use more vivid pastel pinks, sunny yellows, soft oranges, cheerful purples, warm coral tones, and fresh greens.
+The image should feel more colourful and alive, but never neon, never overly saturated, and never harsh.
+Keep the colours clean, luminous, and happy while preserving softness.
 
-OpenArt World Builder is a 3D spatial extrapolation tool. It may not perfectly follow detailed prompt rules. It may reinterpret objects, flatten space, make butterflies too realistic, sharpen textures, or add unwanted clutter. Because of this, the approved Hero View image must be treated as the highest-fidelity source.
+BUTTERFLIES:
+Only a few tiny, soft, distant pastel butterflies lightly drifting above the meadow.
+They must be non-dominant supporting accents only.
+No giant butterflies.
+No butterfly close-up.
+No swarm.
+No realistic insect anatomy.
+No scary bug detail.
 
----
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Soft pastel palette with richer and more lively colour presence.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-## Required Input Method
+MOOD:
+Peaceful, magical, breezy, inviting, safe, and emotionally warm.
+It should feel like a place where children would slowly explore, watch tiny butterflies, and feel calm and happy.
+The scene should also feel cheerful, fresh, colourful, and full of gentle life.
 
-### Best Method — 1 Image Mode
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Flower Hill.
+Do not make it look like Little Forest.
+Do not make it look like Central Square.
+Do not make it look like Opa’s Tree.
+Do not make it look like Stone Hill.
+Do not make it a generic meadow.
+Do not make it a flower park.
+Do not make it a butterfly zoo.
+Do not make it a decorative poster scene.
 
-- Upload the approved Butterfly Meadow Hero View.
-- Use the prompt below only as a supplementary style and layout hint.
-- The image is the primary instruction.
-- Do not add character references.
-- Do not add episode shots.
-- Do not add failed generations.
-- Do not add random extra meadow images unless they match the same canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No gazebo, no house, no building, no bridge, no pond, no river, no stream, no waterfall, no fence, no road, no modern object.
+No dense forest, no dark forest, no cave, no tree hollow, no giant central tree.
+No giant butterfly, no butterfly close-up, no realistic insect, no insect swarm.
+No giant flowers, no cluttered flower wall, no edge-cropped giant foreground flowers.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
-### 2–4 Image Mode
-
-- If OpenArt disables the text field after uploading multiple images, that is expected.
-- In that case, the images become the instruction.
-- Use only canon-consistent views.
-- All images must match lighting, grass colour, sky colour, flower palette, material style, and camera height.
-- Do not mix different styles or generations.
-
-Recommended views:
-
-- Image 1 / Front: approved Hero View, wide meadow, all identity elements visible.
-- Image 2 / Back: reverse view from inside the meadow, still same flower/grass/sky palette.
-- Image 3 / Left: side view showing meadow openness, soft path/grass route, low flowers.
-- Image 4 / Right optional: closer meadow detail, but not macro, not giant butterfly, not giant flowers.
-
----
-
-## OpenArt Text Prompt — Use Only In 1 Image Mode
-
-```
-Create a soft, airy, open preschool meadow world called Butterfly Meadow. Use the uploaded approved Hero View as the primary reference and preserve its layout, lighting, colour palette, camera feeling, and soft toy-like handcrafted style.
-
-The world should feel calm, breezy, safe, and spacious. It is flatter and more open than Flower Hill, and much less dense than Little Forest. The meadow has soft green grass, gentle low rolling edges, pastel wildflowers, and a simple rounded grassy path or soft stepping-stone route that gives children a clear place to walk.
-
-Keep the composition wide, readable, and reusable as a permanent world reference. Child-eye camera height, warm morning light, soft sky, gentle natural depth, medium-low contrast, matte handcrafted toy-set materials, rounded shapes, no sharp realism.
-
-Flowers should be small-to-medium, rounded, soft, and spread naturally across the meadow in pastel red, yellow, pink, purple, and orange. They should create a cheerful meadow identity without becoming giant foreground objects.
-
-Butterflies may appear only as tiny, soft, distant, non-dominant pastel accents above or between the flowers. They must not become the main subject. No giant butterflies, no realistic insects, no swarm, no butterfly close-up, no scary bug detail.
-
-Add only a few small rounded distant trees at the far edge of the meadow if needed. Keep the space open and breathable. Preserve the same warm morning sunlight direction as the uploaded Hero View. Keep shadows soft and gentle.
-
-Pompom Hills preschool animation style: soft pastel colours, matte handcrafted toy-like surfaces, rounded safe shapes, gentle storybook charm, warm and peaceful atmosphere.
-
-No characters. No children. No rabbits. No animals. No birds. No dominant butterflies. No giant foreground flowers. No cropped edge objects. No buildings. No signs. No text. No labels. No arrows. No fences. No roads. No cars. No modern objects. No water, river, pond, bridge, or waterfall. No dark forest. No dense trees. No scary insects. No realistic textures. No sharp corners. No clutter. No HDR. No glossy plastic. No harsh shadows. No high contrast. No oversharpening. No saturated neon colours.
-```
-
----
-
-## Negative Prompt / Forbidden Output
-
-```
-characters, children, Kiko, Mimi, Noah, Arda, Luca, Opa, rabbits, animals, birds, dominant butterfly, giant butterfly, butterfly close-up, realistic insect, insect swarm, scary insect, giant flowers, foreground flower close-up, cropped flowers at frame edge, cropped objects, clutter, dense forest, dark forest, tree tunnel, cave, hollow tree, buildings, houses, signs, labels, readable text, arrows, fences, roads, vehicles, water, river, stream, pond, bridge, waterfall, night, sunset, moon, stars, harsh shadows, high contrast, HDR, glossy plastic, glossy CGI, oversharpened, realistic textures, photorealism, sharp corners, neon colours, over-saturated colours
-```
-
----
-
-## Identity Lock
-
-Butterfly Meadow must read as:
-
-- open meadow
-- soft grass
-- pastel wildflowers
-- airy sky
-- gentle low rolling edges
-- tiny non-dominant butterflies only
-- warm morning light
-- soft matte Pompom Hills toy-set style
-
-It must NOT read as:
-
-- Flower Hill
-- Little Forest
-- a dense flower garden
-- a realistic insect habitat
-- a butterfly zoo
-- a forest clearing
-- a giant flower macro scene
-- a random generic meadow
-
----
-
-## Production QA After World Build
-
-- [ ] Is the world still recognisable as Butterfly Meadow from silhouette and layout?
-- [ ] Is it open and airy, not dense like Little Forest?
-- [ ] Are butterflies tiny, soft, distant, and non-dominant?
-- [ ] Are there no characters or animals?
-- [ ] Are there no giant foreground flowers or cropped edge objects?
-- [ ] Is the style still soft pastel, matte, toy-like, preschool-safe?
-- [ ] Is contrast medium-low?
-- [ ] Is there no HDR, glossy CGI, oversharpening, or harsh shadow drift?
-- [ ] Is there no text, sign, symbol, fence, road, building, or water?
-- [ ] Does it match the approved Hero View more than the text prompt?
-
----
-
-## Final Usage Note
-
-Use the generated World Builder output only after QA. If it adds dominant butterflies, realistic insects, giant flowers, dark forest areas, buildings, signs, water, or glossy/HDR contrast, reject the world and regenerate. Do not treat a failed world as canon.
+The final image must feel like the definitive Butterfly Meadow Hero View: iconic, readable, reusable, open, airy, soft, premium, colourful, cheerful, and unmistakably Pompom Hills.

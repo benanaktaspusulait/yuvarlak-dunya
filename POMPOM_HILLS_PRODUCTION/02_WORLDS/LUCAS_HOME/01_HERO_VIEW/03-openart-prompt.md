@@ -1,67 +1,91 @@
-# Luca's Home — OpenArt World Builder Prompt
+Create the single canonical Hero View for Luca's Home in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic forest house scene, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+The leaf-green house sits in the mid-ground, slightly left of centre.
+A small forest edge with tall trees frames the right side of the scene.
+Walking paths branch out from the house in multiple directions.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+A wooden compass and hiking stick leaning near the foreground → walking paths leading to the house → the leaf-green house with its dark-green dome roof and large round light-blue windows → the small forest edge with tall rounded trees → distant soft hills under a clear sky.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Luca's Home must be instantly recognisable from this image alone.
+The leaf-green house with its dark-green dome roof is the signature building.
+Large round light-blue windows give the house a distinctive explorer's outpost feel.
+The proximity to the forest edge and the walking paths confirm this is Luca's adventurous world.
+This is the curious, explorer-oriented home base of the series.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+The house sits on a grassy clearing near a small forest edge.
+Walking paths made of soft packed earth branch from the house front yard toward different directions.
+Trees near the small forest edge are tall with rounded canopies in varied greens.
+A wooden compass leans against a low post near the entrance.
+A hiking stick rests beside the compass.
+A wall display with a simple map is visible through or near a window.
+The forest edge has a gentle, non-threatening quality with soft undergrowth.
+Warm green grass surrounds the house.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Leaf-green house walls (#68AE68) are the dominant structure colour.
+Dark-green dome roof (#388E3C) adds depth and contrast on top.
+Large round light-blue windows (#81D4FA) provide a bright, cool accent.
+Warm-brown door and wooden elements (#A1887F) add earthy grounding.
+Forest trees in varied soft greens.
+Earth paths in warm tan and soft brown.
+Grass in warm green.
+Sky in gentle light blue.
+This world should feel greener and more forest-adjacent than Arda's Home or Noah's Home.
+Avoid heavy dark greens, avoid cold tones, avoid saturated reds.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Explorer and adventurer aesthetic blended with toy-like softness.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Luca's Home we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Adventurous, curious, and inspiring.
+This is the world where children feel the call to explore.
+The forest edge promises discovery and mystery.
+The paths suggest journeys to unknown places.
+Brave, inquisitive, full of potential adventure.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Arda's Home, which has a sky-blue house with a garden full of balls and a swing.
+Do not make it look like Cloud Hill, which is a tall serene hill with vast sky and no buildings.
+Do not make it look like Hobby Horse Trail, which is a festive path with bunting and a bridge.
+Do not make it look like Noah's Home, which has a soft-blue house with musical instruments.
+Do not make it look like Paddle Cove, which has water, boats, and pebbles.
+Do not make it look like Pony Meadow, which features ponies and a fence.
 
-If World Builder's 3D output still drifts from our identity (wrong house colour, wrong roof shape, explorer props missing), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No dense dark forest, no scary shadows, no thick fog.
+No swimming pools, no mechanical playground equipment.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No fallen logs, no stumps, no thorny bushes.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `LH-HOUSE-01` or `LH-MAP-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A leaf-green house with a round dark-green roof and large round light-blue windows, set among walking paths and trees near a small forest. The front door is round and warm brown. The garden has a wooden compass, a hiking stick, and a map wall visible through the window. Warm sunlight from the upper right, no harsh shadows. The house feels adventurous, curious, and ready for exploration — like a basecamp for discovering the world. Low pastel hills on the distant horizon. Children's storybook style, soft matte handcrafted look. No fences, no roads, no modern objects, no sharp corners, no dark clouds.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the house from the path, showing the full facade and garden
-- Image 2 (back): view from behind showing the forest edge and walking paths
-- Image 3 (left): side view showing the round roof silhouette and explorer props
-- Image 4 (right, optional): detail of the compass and hiking stick in the garden
-
-All four images must share the same lighting direction, sky colour, and house colour so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Luca's Home Hero View: iconic, readable, reusable, adventurous, curious, inspiring, green, and unmistakably Pompom Hills.

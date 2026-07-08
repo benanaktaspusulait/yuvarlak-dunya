@@ -1,124 +1,82 @@
-# Rainbow Bridge — OpenArt World Builder Prompt
+Create the single canonical Hero View for Rainbow Bridge in the Pompom Hills preschool animation world.
 
-## Purpose
+This must be a premium master world image, not a generic bridge, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
-This file is only the OpenArt World Builder input guide for Rainbow Bridge.
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 1.50 m.
+28 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+Rainbow Bridge spans a gentle valley between Cloud Hill and Rainbow Creek.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Wishing stones along the bridge edge → the rounded colourful bridge itself → water flowing beneath → distant green banks → the six-colour rainbow arching overhead.
 
-- The approved Rainbow Bridge Hero View is the primary input.
-- Text is secondary only.
-- `02-world-spec.md` remains the full production reference.
-- Do not paste the full spec into OpenArt World Builder.
+PRIMARY WORLD IDENTITY:
+Rainbow Bridge must be instantly recognisable from this image alone.
+The six-colour rainbow arching from sky to bridge is the iconic landmark.
+Wishing stones line the bridge edges, smooth and pastel-coloured.
+The bridge is rounded, colourful, and toy-set in its material language.
 
----
+ENVIRONMENT:
+A rounded, colourful bridge spans a shallow, sparkling creek.
+Water flows gently beneath the bridge, clear and light blue.
+Smooth pastel wishing stones are arranged along both bridge edges.
+Colourful rounded railings provide safety.
+Green leaves and soft flowers frame the banks.
+The atmosphere is filled with soft magical sparkle and warm light.
 
-## World Builder Reality Check
+COLOUR DIRECTION:
+Rainbow spectrum palette: red, orange, yellow, green, blue, purple.
+Bridge surface is a blended rainbow of soft pastel hues.
+Wishing stones are smooth pastels: pink, yellow, blue, green.
+Water is clear light blue (#E3F2FD).
+Sky holds the natural rainbow against soft white clouds.
+Avoid dark grey, black, or muted tones.
+This world is more magical and prismatic than any other Pompom Hills location.
 
-OpenArt World Builder is a 3D spatial extrapolation tool. It may not perfectly follow detailed prompt rules. It may reinterpret objects, sharpen the bridge arch, make rainbow colours neon, add realistic water, or introduce unwanted sparkles and clutter. Because of this, the approved Hero View image must be treated as the highest-fidelity source.
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Magical transition world with toy-set materials.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
----
+MOOD:
+Magical, hopeful, wondrous.
+Children feel that anything is possible here.
+The world whispers of wishes and dreams.
 
-## Required Input Method
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Rainbow Creek.
+Do not make it look like Tillo's Garden.
+Do not make it look like Friendship Meadow.
+Do not make it look like Painting Garden.
+Do not make it look like Art Corner.
 
-### Best Method — 1 Image Mode
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No broken bridge structure.
+No sharp or rough stones.
+No dark or stormy atmosphere.
+No rain or lightning.
+No cold colour shifts.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
-- Upload the approved Rainbow Bridge Hero View.
-- Use the prompt below only as a supplementary style and layout hint.
-- The image is the primary instruction.
-- Do not add character references.
-- Do not add episode shots.
-- Do not add failed generations.
-- Do not add random extra bridge images unless they match the same canon.
-
-### 2–4 Image Mode
-
-- If OpenArt disables the text field after uploading multiple images, that is expected.
-- In that case, the images become the instruction.
-- Use only canon-consistent views.
-- All images must match lighting, sky colour, rainbow palette, stream colour, material style, and camera height.
-- Do not mix different styles or generations.
-
-Recommended views:
-
-- Image 1 / Front: approved Hero View, full bridge arch visible, all six rainbow colours readable.
-- Image 2 / Back: reverse view from the other side of the stream, same palette.
-- Image 3 / Left: side view showing the arch profile and colour sequence.
-- Image 4 / Right optional: closer detail of the wishing stones at one end, but not macro.
-
----
-
-## OpenArt Text Prompt — Use Only In 1 Image Mode
-
-```
-Create a soft, magical, preschool-friendly bridge world called Rainbow Bridge. Use the uploaded approved Hero View as the primary reference and preserve its arch shape, rainbow colour sequence, lighting, stream position, camera feeling, and soft toy-like handcrafted style.
-
-The world should feel hopeful, gentle, and magical. A beautiful arched bridge spans a gentle stream. The bridge is painted in six soft pastel rainbow colours — red, orange, yellow, green, blue, purple — each colour gentle and muted, not neon or harsh. The arch is smooth, rounded, and toy-like. The bridge is the single main subject of the world.
-
-Small colourful wishing stones sit at each end of the bridge — round, soft, gently glowing, not oversized. A gentle stream flows beneath with soft blue water and smooth round stones on the bottom. Soft green grass on both banks with pastel flowers. A few round-topped trees with soft canopies in the far background. Keep the space open around the bridge.
-
-Keep the composition wide, readable, and reusable as a permanent world reference. Child-eye camera height, warm golden sunlight, soft sky, gentle natural depth, medium-low contrast, matte handcrafted toy-set materials, rounded shapes, no sharp realism.
-
-Soft sparkles may appear in the air around the bridge as tiny, gentle, non-dominant accents. They must not become the main subject. No giant sparkles, no harsh glow, no laser effects.
-
-Preserve the same warm sunlight direction as the uploaded Hero View. Keep shadows soft and gentle.
-
-Pompom Hills preschool animation style: soft pastel colours, matte handcrafted toy-like surfaces, rounded safe shapes, gentle storybook charm, warm and hopeful atmosphere.
-
-No characters. No children. No rabbits. No animals. No birds. No dominant sparkles. No giant foreground flowers. No cropped edge objects. No buildings. No signs. No text. No labels. No arrows. No fences. No roads. No cars. No modern objects. No dark shadows. No realistic water texture. No sharp corners. No clutter. No HDR. No glossy plastic. No harsh shadows. No high contrast. No oversharpening. No saturated neon colours. No neon rainbow. No dark bridge. No broken bridge.
-```
-
----
-
-## Negative Prompt / Forbidden Output
-
-```
-characters, children, Kiko, Mimi, Noah, Arda, Luca, Opa, rabbits, animals, birds, dominant sparkles, giant sparkles, sparkle close-up, realistic water, river, stream detail, pond, waterfall, dark water, broken bridge, cracked bridge, neon rainbow, harsh rainbow colours, giant flowers, foreground flower close-up, cropped flowers at frame edge, cropped objects, clutter, buildings, houses, signs, labels, readable text, arrows, fences, roads, vehicles, night, sunset, moon, stars, harsh shadows, high contrast, HDR, glossy plastic, glossy CGI, oversharpened, realistic textures, photorealism, sharp corners, neon colours, over-saturated colours
-```
-
----
-
-## Identity Lock
-
-Rainbow Bridge must read as:
-
-- single arched bridge
-- six soft pastel rainbow colours
-- smooth rounded arch
-- gentle stream beneath
-- wishing stones at each end
-- soft sparkles (tiny, distant, non-dominant)
-- warm golden sunlight
-- soft matte Pompom Hills toy-set style
-
-It must NOT read as:
-
-- a realistic stone bridge
-- a neon rainbow structure
-- a water park
-- a carnival ride
-- a dark or broken bridge
-- a generic overpass
-- a realistic river crossing
-- a giant sparkle explosion
-
----
-
-## Production QA After World Build
-
-- [ ] Is the world still recognisable as Rainbow Bridge from the arch silhouette?
-- [ ] Are rainbow colours soft pastel, not neon or harsh?
-- [ ] Are sparkles tiny, soft, distant, and non-dominant?
-- [ ] Is the stream gentle and toy-like, not realistic water?
-- [ ] Are wishing stones small, round, and soft?
-- [ ] Are there no characters or animals?
-- [ ] Are there no giant foreground flowers or cropped edge objects?
-- [ ] Is the style still soft pastel, matte, toy-like, preschool-safe?
-- [ ] Is contrast medium-low?
-- [ ] Is there no HDR, glossy CGI, oversharpening, or harsh shadow drift?
-- [ ] Is there no text, sign, symbol, fence, road, building, or dark area?
-- [ ] Does it match the approved Hero View more than the text prompt?
-
----
-
-## Final Usage Note
-
-Use the generated World Builder output only after QA. If it adds neon rainbow colours, realistic water, giant sparkles, dark areas, buildings, signs, or glossy/HDR contrast, reject the world and regenerate. Do not treat a failed world as canon.
+The final image must feel like the definitive Rainbow Bridge Hero View: iconic, readable, reusable, magical, hopeful, and unmistakably Pompom Hills.

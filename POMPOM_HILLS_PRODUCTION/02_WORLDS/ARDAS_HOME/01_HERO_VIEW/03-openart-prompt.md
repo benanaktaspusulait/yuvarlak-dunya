@@ -1,67 +1,88 @@
-# Arda's Home — OpenArt World Builder Prompt
+Create the single canonical Hero View for Arda's Home in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic house scene, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+The round sky-blue house sits slightly right of centre on a gentle grassy slope.
+The garden spreads across the full foreground and left side.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Colourful scattered garden balls and wooden swing → warm green lawn leading to the house front → the round sky-blue house with its dome roof and round windows → low pastel rolling hills → soft blue sky with gentle clouds.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Arda's Home must be instantly recognisable from this image alone.
+The signature round sky-blue house with its warm-orange dome roof is the anchor landmark.
+Colourful balls scattered across the garden and the wooden swing beside the house confirm this is Arda's playful world.
+This is the energetic, welcoming home base of the series.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+Warm green grass carpet (#81C784) covers the ground, soft and inviting.
+Colourful round balls in red, yellow, green, and blue are scattered naturally across the garden area.
+A simple wooden swing hangs from a rounded frame near the left side of the house.
+A small jumping area with soft bouncy texture sits in the foreground.
+Round soft-yellow windows glow warmly on the house façade.
+A warm-brown rounded door marks the main entrance.
+Low pastel green and blue hills roll gently along the distant horizon.
+The sky is clear with a few soft fluffy clouds.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Sky-blue house walls (#8CC9F0) dominate the mid-ground.
+Warm-orange dome roof (#FF7043) adds a cheerful pop of colour on top.
+Soft-yellow window frames (#FFF59D) glow invitingly.
+Warm-brown door and swing frame (#A1887F) add earthy grounding.
+Garden grass in warm green (#81C784).
+Balls in saturated but soft primary colours.
+Sky in gentle gradient from light blue to soft white at the horizon.
+Avoid cool tones, avoid grey, avoid muddy colours.
+This world should feel warmer and more playful than Cloud Hill or Paddle Cove.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Round, bubbly, toy-like architectural forms for the house.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Arda's Home we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Energetic, playful, and inviting.
+This is the world children feel excited to return to.
+Warm, safe, full of possibility and fun.
+The garden promises adventure and play.
+The house promises comfort and welcome.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Cloud Hill, which is a tall serene hill with sparse daisies and vast sky.
+Do not make it look like Hobby Horse Trail, which is a winding path with bunting and a bridge.
+Do not make it look like Luca's Home, which has a leaf-green house near a forest edge.
+Do not make it look like Noah's Home, which has a soft-blue house with musical instruments.
+Do not make it look like Paddle Cove, which is a waterside cove with boats and pebbles.
+Do not make it look like Pony Meadow, which features ponies and a fence.
 
-If World Builder's 3D output still drifts from our identity (wrong house colour, wrong roof shape, playground missing), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No other houses or buildings visible in the background.
+No swimming pools, no slides, no mechanical playground equipment.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No autumn leaves, no snow, no rain, no puddles.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `AH-HOUSE-01` or `AH-BALL-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A cheerful sky-blue house with a round warm-orange roof and round soft-yellow windows, sitting on a patch of warm green grass. The front door is round and warm brown. The garden has colourful balls scattered on the grass, a small wooden swing, and a soft jumping area. Warm sunlight from the upper right, no harsh shadows. The house feels playful, energetic, and inviting — like a place where fun never stops. Low pastel hills on the distant horizon. Children's storybook style, soft matte handcrafted look. No fences, no roads, no modern objects, no sharp corners, no dark clouds.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the house from the garden, showing the full facade
-- Image 2 (back): view from behind the house showing the garden and surroundings
-- Image 3 (left): side view showing the round roof silhouette
-- Image 4 (right, optional): garden detail showing the swing and balls
-
-All four images must share the same lighting direction, sky colour, and house colour so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Arda's Home Hero View: iconic, readable, reusable, energetic, playful, welcoming, and unmistakably Pompom Hills.

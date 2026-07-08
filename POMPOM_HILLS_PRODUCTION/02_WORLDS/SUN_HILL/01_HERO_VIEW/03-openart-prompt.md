@@ -1,67 +1,91 @@
-# Sun Hill — OpenArt World Builder Prompt
+Create the single canonical Hero View for Sun Hill in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic hilltop, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+Warm grassy hill crest as the central focus.
+Full panoramic valley view stretching to the distant horizon.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Short bright green grass in foreground → round sitting stone at brightest point → yellow and orange wildflower patches → rolling valley below → golden morning sky.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Sun Hill must be instantly recognisable from this image alone.
+A warm grassy hill crest bathed in golden morning sunlight with panoramic valley view.
+The round sun-warmed sitting stone at the brightest point is the iconic landmark.
+The golden morning light is the secondary signature element.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+Short bright green grass (#C8E6C9) covering the hill crest.
+Round sun-warmed sitting stone at the brightest point on the hill.
+Yellow and orange wildflowers scattered across the grass in natural clusters.
+Full panoramic valley view stretching into the far distance.
+Rolling green hills and soft distant mountains beyond.
+Open sky with soft warm morning clouds.
+No trees blocking the view — open and expansive.
+Gentle breeze feeling through the grass blades.
+The hill feels like the top of the world, full of possibility.
+The morning light bathes everything in golden hope.
+The sitting stone glows warm, as if sun-kissed for eternity.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact sun position, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Bright green grass (#C8E6C9), golden morning sunlight (#FFE082).
+Yellow wildflowers (#FFD54F), orange wildflowers (#FFB74D).
+Soft blue sky (#BBDEFB) with warm golden clouds.
+Avoid cool blues, harsh shadows, or overly saturated tones.
+Bright energetic morning palette distinct from all other worlds.
+Not as enclosed as Rosie's Rose Garden, not as wooded as Tree Hill, not as blue as Wish Pond.
+Not as stony as Stone Hill, not as woody as Tillo's Treehouse.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Open hilltop landscape with child-safe rounded forms.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Golden morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Sun Hill we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Warm, energetic, hopeful, uplifting.
+Children feel uplifted and energised by the morning light.
+A place of new beginnings and bright possibilities.
+Joyful and expansive.
+The morning light fills the heart with warmth and courage.
+Every blade of grass seems to reach upward toward the golden sun.
+The valley below stretches endless, full of tomorrow's adventures.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Rosie's Rose Garden — no flowers beyond wildflowers, no fence, no fountain.
+Do not make it look like Stone Hill — no stones covering hillside, no cave, no waterfall.
+Do not make it look like Story Circle — no ancient tree, no storytelling circle, no sitting stones.
+Do not make it look like Tillo's Treehouse — no treehouse, no wooden bridge, no ladder.
+Do not make it look like Wish Pond — no pond, no night sky, no stars.
 
-If World Builder's 3D output still drifts from our identity (light becomes cold, sun disappears, horizon narrows), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No large trees, no forest, no cave, no pond, no enclosure.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No dark corners, no evening light, no cold atmosphere.
+No tall structures, no buildings, no fences — the view is completely open.
+No clouds blocking the sun, no haze — the morning is crystal clear.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `SH-GRASS-01` or `SH-STONE-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A wide warm grassy hill crest bathed in golden morning sunlight, the first light of the day pouring across the short bright green grass. A round sun-warmed sitting stone sits at the brightest point on the plateau. Scattered yellow and orange wildflowers dot the slope. The sky is warm blue, taking up most of the frame, with a visible golden sun in the upper corner. A full panoramic valley view stretches from the summit with low pastel hills on the distant horizon. Children's storybook style, soft matte handcrafted look, warm and energetic atmosphere. No rain, no fog, no cold tones, no dark shadows, no modern structures, no sharp corners.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide view from the slope looking up at the crest and sky
-- Image 2 (back): view from the summit looking down at the valley
-- Image 3 (left): side view showing the hill's gentle warm slope
-- Image 4 (right, optional): close-up of the sun-warmed stone and wildflowers
-
-All four images must share the same lighting direction, grass color, and sky color so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Sun Hill Hero View: iconic, readable, reusable, warm, energetic, and unmistakably Pompom Hills.

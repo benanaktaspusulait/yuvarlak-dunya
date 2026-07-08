@@ -1,124 +1,90 @@
-# Central Square — OpenArt World Builder Prompt
+Create the single canonical Hero View for Central Square in the Pompom Hills preschool animation world.
 
-## Purpose
+This must be a premium master world image, not a generic flower field, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
-This file is only the OpenArt World Builder input guide for CENTRAL SQUARE.
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+The Big Pompom Tree is always centred and always the tallest element in the frame.
+Soft carpet-like green ground with dappled tree-shadow patterns across the grass.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Ring of coloured stepping stones in the foreground → soft green carpet with dappled shadows in the middle ground → the Big Pompom Tree at the centre → low pastel houses at the edge of the square → soft warm sky on the horizon.
 
-- The approved CENTRAL SQUARE Hero View is the primary input.
-- Text is secondary only.
-- `02-world-spec.md` remains the full production reference.
-- Do not paste the full spec into OpenArt World Builder.
+PRIMARY WORLD IDENTITY:
+Central Square must be instantly recognisable from this image alone.
+It is the heart and gathering place of Pompom Hills — the meeting point where every adventure begins and ends.
+The Big Pompom Tree (CS-TREE-01, canopy #81C784, trunk #A1887F) is always centred, always the most prominent landmark.
+A ring of coloured stepping stones (CS-STONE-PNK/YEL/BLU/GRN) circles the tree, creating the square's signature stone circle.
 
----
+ENVIRONMENT:
+Soft carpet-like green ground (CS-GRASS-01) covers the entire square.
+Dappled tree-shadow patterns fall across the grass around the trunk, creating a gentle canopy of light and shade.
+Low pastel houses are visible at the edge of the square, soft and distant — background only, never redesigning the homes.
+A small wooden bench sits near the tree if canonised for a shot.
+The square feels open, spacious, and communal — a place where everyone gathers.
+It is not a plaza with paving stones. It is a soft, grassy gathering space with a living tree at its heart.
+The ground is soft underfoot, the air is warm, and the tree canopy provides gentle shelter.
+No fences, no barriers — the square is open on all sides, inviting everyone in.
 
-## World Builder Reality Check
+COLOUR DIRECTION:
+Warm morning palette from the Pompom Hills bible.
+Tree canopy: #81C784 — fresh, lively green.
+Tree trunk: #A1887F — warm, soft brown.
+Stepping stones: soft pastel pink, yellow, blue, green — each stone a different colour.
+Ground: soft warm green #C8E6C9 — carpet-like, inviting.
+Sky: warm, soft, clear — no dramatic clouds, no storm.
+Avoid dark colours, cold tones, or high contrast.
+Central Square is warmer and greener than Flower Hill (which is flower-dominated) and less pink than Kiko's Home.
+This world should feel like the warmest, most inviting gathering spot in all of Pompom Hills.
 
-OpenArt World Builder is a 3D spatial extrapolation tool. It may not perfectly follow detailed prompt rules. It may reinterpret objects, flatten space, sharpen textures, or add unwanted clutter. Because of this, the approved Hero View image must be treated as the highest-fidelity source.
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
----
+MOOD:
+Warm, cheerful, familiar — like a place you have visited a hundred times and always feel welcome.
+This is where friends meet, adventures begin, and goodbyes happen softly.
+Children should feel: "I know this place. I belong here."
+The warmth of community, the comfort of a known landmark, the gentle promise of something about to start.
+The soft rustle of leaves, the dappled light on the grass, the feeling that someone is always coming around the corner.
+Central Square is the emotional centre of Pompom Hills — the place that holds every memory.
 
-## Required Input Method
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Kiko's Home — there is no pink house, no white arched door, no garden fence here.
+Do not make it look like Flower Hill — there is no dense five-colour flower carpet, no S-curve stepping-stone path.
+Do not make it look like Mimi's Burrow — there is no underground entrance, no blue round doorway, no hidden burrow.
+Do not make it look like Little Forest — there is no mushroom circle, no dense tree canopy, no forest floor.
+Do not make it look like Opa's Tree — there is no single oversized storytelling branch, no below-looking-up angle.
+Do not make it look like Music Hill — there are no music trees, no leaf chimes, no stepping stones on a hill.
 
-### Best Method — 1 Image Mode
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No market stalls, signage, or modern street furniture.
+No sharp-edged paving or geometric plaza design.
+No dark or dramatic lighting.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No empty plaza with no tree. The Big Pompom Tree must be present and prominent.
+No oversized or undersized tree — the tree must dominate the frame naturally.
 
-- Upload the approved CENTRAL SQUARE Hero View.
-- Use the prompt below only as a supplementary style and layout hint.
-- The image is the primary instruction.
-- Do not add character references.
-- Do not add episode shots.
-- Do not add failed generations.
-
-### 2–4 Image Mode
-
-- If OpenArt disables the text field after uploading multiple images, that is expected.
-- In that case, the images become the instruction.
-- Use only canon-consistent views.
-- All images must match lighting, colour palette, material style, and camera height.
-- Do not mix different styles or generations.
-
-Recommended views:
-
-- Image 1 / Front: approved Hero View, all identity elements visible.
-- Image 2 / Back: reverse view, same palette.
-- Image 3 / Left: side view showing layout and depth.
-- Image 4 / Right optional: closer detail, not macro.
-
----
-
-## OpenArt Text Prompt — Use Only In 1 Image Mode
-
-```
-Create a soft, preschool-friendly world called CENTRAL SQUARE.
-Use the uploaded approved Hero View as the primary reference.
-Preserve its layout, lighting, colour palette, camera feeling, and soft toy-like handcrafted style.
-
-The world must feature the BIG POM-POM TREE as the absolute centrepiece.
-Always centred, always the tallest and most colourful element in frame.
-Canopy is round and fluffy green (#81C784), trunk is warm soft brown (#A1887F).
-A ring of coloured stepping stones — pink, yellow, blue, green — circles the tree base.
-Stones sit on soft carpet-like green grass (#A5D6A7).
-Dappled tree-shadow patterns fall on the grass around the trunk.
-
-Child-eye camera height, warm morning sunlight, soft pale sky.
-Gentle natural depth, medium-low contrast.
-Matte handcrafted toy-set materials, rounded shapes, no sharp realism.
-Preserve the same warm sunlight direction as the uploaded Hero View.
-
-Low pastel houses visible at the far edge — background only, never redesigned.
-Small wooden bench near the tree if canonised for the shot.
-Gentle leaf rustle on the Pompom Tree canopy.
-Warm, inviting, communal — this is where friends meet and play.
-
-No characters, children, rabbits, animals, or birds.
-No giant foreground objects, cropped edge objects, market stalls, or signage.
-No modern street furniture, crowd, dark or dramatic lighting.
-No sharp-edged paving, geometric plaza design, or roads.
-No HDR, glossy plastic, harsh shadows, high contrast, oversharpening, or neon colours.
-```
-
----
-
-## Negative Prompt / Forbidden Output
-
-```
-characters, children, Kiko, Mimi, Noah, Arda, Luca, Opa, rabbits, animals, birds, empty plaza with no tree, Big Pompom Tree missing or undersized, market stalls, signage, modern street furniture, crowd, sharp-edged paving, geometric plaza design, dark dramatic lighting, giant flowers, foreground flower close-up, cropped flowers at frame edge, cropped objects, clutter, buildings, signs, labels, readable text, arrows, fences, roads, vehicles, night, sunset, moon, stars, harsh shadows, high contrast, HDR, glossy plastic, glossy CGI, oversharpened, realistic textures, photorealism, sharp corners, neon colours, over-saturated colours
-```
-
----
-
-## Identity Lock
-
-CENTRAL SQUARE must read as:
-
-- The place where friends meet, with the Big Pompom Tree always centred and tallest
-- Warm, communal gathering space with coloured stepping stones circling the tree
-- Soft pastel Pompom Hills style with carpet-like green grass and dappled shadows
-- Matte handcrafted toy-set materials, warm and inviting
-
-It must NOT read as:
-
-- An empty plaza with no tree
-- A market, street, or modern urban space
-- A different Pompom Hills world
-- A realistic or dark environment
-- A generic stock location
-
----
-
-## Production QA After World Build
-
-- [ ] Is the Big Pompom Tree centred and the tallest element in frame?
-- [ ] Are coloured stepping stones visible circling the tree?
-- [ ] Is the world still recognisable as CENTRAL SQUARE from silhouette and layout?
-- [ ] Are there no characters or animals?
-- [ ] Are there no market stalls, signage, or modern street furniture?
-- [ ] Is the style still soft pastel, matte, toy-like, preschool-safe?
-- [ ] Is contrast medium-low?
-- [ ] Is there no HDR, glossy CGI, oversharpening, or harsh shadow drift?
-- [ ] Does it match the approved Hero View more than the text prompt?
-
----
-
-## Final Usage Note
-
-Use the generated World Builder output only after QA. If it adds unwanted elements, glossy/HDR contrast, or drifts from the approved Hero View, reject the world and regenerate. Do not treat a failed world as canon.
+The final image must feel like the definitive Central Square Hero View: iconic, readable, reusable, warm, communal, and unmistakably Pompom Hills.

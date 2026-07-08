@@ -1,67 +1,92 @@
-# Wish Pond — OpenArt World Builder Prompt
+Create the single canonical Hero View for Wish Pond in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic pond, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+Perfectly round still pond as central focus.
+Deep blue-purple night light atmosphere.
+Smooth warm-grey round stones in circle around the pond edge.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Grassy edge with stone circle → round pond surface → reflected golden-white stars in water → round green trees at far shore → deep starry night sky.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Wish Pond must be instantly recognisable from this image alone.
+A perfectly round still pond reflecting golden-white stars in deep blue-purple night light.
+The mirror-still water reflecting golden-white stars is the iconic feature.
+The smooth warm-grey stones in circle around the edge are the secondary signature element.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+Perfectly round still pond with crystal clear mirror-still water.
+Golden-white stars reflected perfectly in the water surface below.
+Smooth warm-grey round stones arranged in circle around the pond edge.
+Round green trees at the far shore of the pond.
+Deep blue-purple night sky (#1A237E) filled with golden-white stars (#FFF8E1).
+Soft grass around the stone circle edges.
+No ripples in the water — perfectly still and meditative.
+Magical atmospheric glow radiating softly around the pond.
+The water surface is a perfect mirror to the heavens above.
+The stone circle feels like a magical threshold between earth and sky.
+Stars seem to float both above and below, creating infinite depth.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Deep blue-purple night sky (#1A237E), golden-white stars (#FFF8E1).
+Warm-grey stones (#BDBDBD), green trees (#81C784).
+Soft blue-purple water reflection (#3F51B5).
+Avoid neon blues, harsh purples, or overly saturated tones.
+Deep mystical night palette distinct from all other worlds.
+Not as warm as Sun Hill, not as floral as Rosie's Rose Garden, not as earthy as Stone Hill.
+Not as woody as Tillo's Treehouse, not as deep as Tree Hill's forest canopy.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Magical night landscape with child-safe rounded forms.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Soft starlight from above.
+Cool blue-purple atmosphere with warm star accents.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Wish Pond we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Magical, meditative, peaceful, dreamy.
+Children feel calm and wonderstruck by the star reflections.
+A place of quiet wishes and gentle magic.
+Serene and enchanting.
+The night air shimmers with whispered dreams and gentle wonder.
+Every star reflected in the water holds a tiny wish waiting to come true.
+The night breathes gently, and the pond breathes with it.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Rosie's Rose Garden — no flowers, no fence, no fountain.
+Do not make it look like Stone Hill — no cave, no waterfall, no hillside.
+Do not make it look like Story Circle — no ancient tree, no storytelling circle, no sitting stones.
+Do not make it look like Sun Hill — not a hilltop, not golden morning light, not panoramic.
+Do not make it look like Tillo's Treehouse — no treehouse, no wooden bridge, no ladder.
 
-If World Builder's 3D output still drifts from our identity (wrong water colour, wrong star reflections, stones missing), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No ripples in water, no waves, no floating objects, no harsh daylight.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No dark corners, no spooky atmosphere, no cold harsh lighting.
+No clouds obscuring stars, no fog — the sky is clear and the reflection is perfect.
+No light pollution, no city glow — only pure starlight fills the scene.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `WP-POND-01` or `WP-STARS-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A perfectly round, still pond glowing softly in deep blue-purple night light. The water is crystal clear and mirror-still, reflecting a full field of golden-white stars from the dark navy sky above. Smooth, warm-grey round stones are arranged in a gentle circle around the pond's edge. A few round green trees offer soft shade at the far shore. The atmosphere is magical, meditative, and safe — like a wishing place where the stars come down to swim in the water. Children's storybook style, soft matte handcrafted look, warm and enchanting. No buildings, no fences, no modern objects, no sharp rocks, no murky water, no dark or scary atmosphere.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the pond from the shore, star reflections visible on the water surface
-- Image 2 (back): view from the opposite shore looking across the pond
-- Image 3 (left): side view showing the pond's round shape and stone circle
-- Image 4 (right, optional): close-up of the water surface with star reflections
-
-All four images must share the same night lighting, star field, and blue-purple colour palette so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Wish Pond Hero View: iconic, readable, reusable, magical, meditative, and unmistakably Pompom Hills.

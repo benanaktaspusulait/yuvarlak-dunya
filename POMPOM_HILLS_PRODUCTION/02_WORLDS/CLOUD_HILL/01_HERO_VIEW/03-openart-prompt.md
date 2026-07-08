@@ -1,67 +1,88 @@
-# Cloud Hill — OpenArt World Builder Prompt
+Create the single canonical Hero View for Cloud Hill in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic hill landscape, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+The tall round hill dominates the centre of the frame.
+The sky occupies 60% of the total image, creating vast open space.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Soft green foreground grass with a few scattered daisies → the smooth sloping hill rising to a flat plateau summit → the small grey stone sitting on the summit → distant pastel hill silhouettes layered behind → the expansive soft blue sky with large round fluffy clouds.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Cloud Hill must be instantly recognisable from this image alone.
+The tallest round hill in Pompom Hills is the signature landmark.
+Its smooth soft green surface and flat plateau summit with a single small grey stone are unique identifiers.
+Large round fluffy white clouds sitting close to the summit create the "cloud hill" concept.
+This is the serene, contemplative high point of the world.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+Smooth soft green hill surface (#A5D6A7) covering the slopes.
+A flat plateau summit at the top with even short grass.
+A single small grey stone sits prominently on the summit as a marker.
+Sparse white daisies dot the grass at gentle intervals, not overcrowded.
+2-3 large round fluffy white clouds drift near or just above the summit.
+Distant pastel hill silhouettes in soft greens and blues layer behind the main hill.
+The foreground shows gentle grassy terrain leading up to the hill base.
+The sky fills the upper 60% with a gentle gradient.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact 62% sky ratio, exact stone position, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Soft green hill (#A5D6A7) is the dominant mid-ground colour.
+White daisies and fluffy clouds add brightness.
+Sky gradient from soft blue at top to pale blue-white near horizon.
+Pastel distant hills in muted greens and soft lavender.
+White clouds with gentle grey undersides for volume.
+This world should feel cooler and calmer than Arda's Home or Hobby Horse Trail.
+Avoid warm oranges, avoid saturated reds, avoid heavy earth tones.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+The hill should have a perfectly smooth, rounded, toy-like quality.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Cloud Hill we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Serene, contemplative, and peaceful.
+This is the world where children feel calm and expansive.
+The vast sky creates a sense of openness and wonder.
+The quiet summit invites peaceful thinking.
+Gentle, meditative, quietly magical.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Arda's Home, which has a round house, garden, and playful equipment.
+Do not make it look like Hobby Horse Trail, which is a winding path with bunting and a bridge.
+Do not make it look like Luca's Home, which has a house near a forest edge.
+Do not make it look like Noah's Home, which has a house with musical instruments.
+Do not make it look like Paddle Cove, which has water, boats, and pebbles.
+Do not make it look like Pony Meadow, which features ponies and a fence.
 
-If World Builder's 3D output still drifts from our identity (wrong grass color, wrong cloud count, stone missing), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No houses, no buildings, no structures on the hill.
+No paths, no roads, no fences.
+No trees, no bushes, no dense vegetation.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No storm clouds, no dark skies, no rain, no wind effects.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `CH-STONE-01` or `CH-GRASS-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A single smooth, gently rounded grass hill under a wide open pastel blue sky. Soft white fluffy rounded clouds, three of them, spaced apart, upper half of the sky. Warm soft sunlight from the upper right, no harsh shadows. Short, even, plush green grass. A small smooth flat grey stone sits at the top of the hill, slightly right of center. A few small white daisies scattered sparsely on the slope. Low pastel-colored hills on the distant horizon. Sky takes up most of the frame, hill silhouette fills the width of the frame. Children's storybook style, soft matte handcrafted look, warm and safe atmosphere. No buildings, no fences, no roads, no modern objects, no sharp rocks, no dark clouds.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the hill from below, matching the description above
-- Image 2 (back): view from the summit looking back down the slope
-- Image 3 (left): side view of the hill showing the dome silhouette
-- Image 4 (right, optional): summit close-up showing the stone and grass
-
-All four images must share the same lighting direction, sky color, and grass color so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Cloud Hill Hero View: iconic, readable, reusable, serene, contemplative, vast, peaceful, and unmistakably Pompom Hills.

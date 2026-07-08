@@ -1,67 +1,89 @@
-# Paddle Cove — OpenArt World Builder Prompt
+Create the single canonical Hero View for Paddle Cove in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic beach scene, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+The shallow cove curves gently from the right side across the middle of the frame.
+Colourful round-hulled boats sit in the cove.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Smooth grey, pink, and yellow pebbles in the foreground shore → stepping stones leading into the shallow water → crystal-clear light-blue water filling the cove → colourful round-hulled boats floating gently → soft green grass shore on the far side with pink, yellow, and purple flowers along the edge → distant soft hills under a gentle sky.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Paddle Cove must be instantly recognisable from this image alone.
+The crystal-clear shallow water no deeper than a child's ankle is the signature feature.
+Smooth rounded pebbles in grey, pink, and yellow create a unique shoreline texture.
+Colourful round-hulled boats in the cove are iconic landmarks.
+Stepping stones crossing the water add a playful explorer quality.
+This is the gentle, safe, exploratory waterside world of the series.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+Crystal-clear light-blue water fills the shallow cove, transparent enough to see the pebbled bottom.
+The water is calm, still, and inviting, never deeper than ankle-height.
+Smooth grey, pink, and yellow pebbles cover the shore in the foreground.
+Stepping stones made of larger flat stones lead from shore into the water.
+Colourful round-hulled boats in coral, yellow, and soft blue sit in the cove.
+The far shore has soft green grass.
+Pink, yellow, and purple flowers grow along the grass-water edge.
+Low soft hills are visible in the distant background.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Crystal-clear light-blue water as the central colour element.
+Grey, pink, and yellow pebbles create a multicoloured shore.
+Boats in coral, yellow, and soft blue add bright accents.
+Green grass on the far shore.
+Pink, yellow, and purple flowers along the water edge.
+Sky in gentle light blue.
+This world should feel cooler and more aquatic than Arda's Home or Hobby Horse Trail.
+Avoid heavy dark greens, avoid brown murky water, avoid grey skies.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Gentle waterside aesthetic with toy-like softness.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth on pebbles and water surface.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Paddle Cove we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Gentle, exploratory, and safe.
+This is the world where children feel curious and calm.
+The clear shallow water invites safe wading and discovery.
+The pebbles and boats suggest gentle adventure.
+Peaceful, inviting, quietly magical, full of gentle wonder.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Arda's Home, which has a round house with a garden and balls.
+Do not make it look like Cloud Hill, which is a tall serene hill with vast sky and no water.
+Do not make it look like Hobby Horse Trail, which is a festive path with bunting and a bridge.
+Do not make it look like Luca's Home, which has a leaf-green house near a forest edge.
+Do not make it look like Noah's Home, which has a soft-blue house with musical instruments.
+Do not make it look like Pony Meadow, which features ponies and a fence.
 
-If World Builder's 3D output still drifts from our identity (water too deep, boats missing, looks like a lake), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No deep water, no waves, no surf, no strong current.
+No sandy beach, no palm trees, no tropical elements.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No seashells, no seaweed, no fish, no jellyfish.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `PC-COVE-01` or `PC-BOAT-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A round, shallow cove with crystal-clear light-blue water no deeper than a child's ankle. Smooth grey, pink, and yellow pebbles are visible beneath the calm surface. Round stepping stones reach into the water. A small cluster of colourful round-hulled boats rests at the water's edge. Soft green grass covers the shore, with clusters of pink, yellow, and purple flowers along the flower edge. Small round green bushes frame the background. Warm sunlight from the upper right, no harsh shadows. The mood is gentle, exploratory, and safe — a place for toes in the water and stone skipping. Children's storybook style, soft matte handcrafted look. No deep water, no swimming, no fast currents, no sharp stones, no scary creatures.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the cove from the shore, showing water and boats
-- Image 2 (back): view from across the cove looking back at the shore
-- Image 3 (left): low-angle shot showing the stepping stones and pebbles
-- Image 4 (right, optional): close-up of flowers along the flower edge
-
-All four images must share the same warm lighting, light-blue water colour, and grass colour so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Paddle Cove Hero View: iconic, readable, reusable, gentle, exploratory, safe, calm, and unmistakably Pompom Hills.

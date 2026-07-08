@@ -1,67 +1,89 @@
-# Painting Garden — OpenArt World Builder Prompt
+Create the single canonical Hero View for Painting Garden in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic garden, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, colourful, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+Painting Garden features four distinct colour zones of round painterly flowers, a canvas on easel, and a white fence surrounding the space.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Soft grass with paint splashes in foreground → red and yellow flower clusters → the white canvas on easel centre-right and paint pots centre-left → purple and blue flower clusters → white fence and fresh green trees → soft blue sky.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Painting Garden must be instantly recognisable from this image alone.
+The four colour zones — red, yellow, blue, purple — each with round painterly flowers, are the iconic landmark.
+The white canvas on a wooden easel centre-right and pastel paint pots centre-left anchor the creative purpose.
+The soft white rounded fence surrounds the garden, creating a safe, inviting boundary.
+Every flower looks like a brushstroke — this is a garden painted by nature and children together.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+Four round clusters of painterly flowers, each a single colour: red (#EF5350), blue (#42A5F5), yellow (#FFEE58), purple (#AB47BC).
+A white canvas on a wooden easel stands centre-right, unpainted and waiting.
+Round pastel paint pots sit centre-left with six different colours.
+A soft white rounded fence (#FAFAFA) surrounds the entire garden.
+Two fresh green trees frame the sides.
+Warm sand path leads to the entrance.
+The atmosphere is colourful, joyful, and artistic.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Four primary flower colours at maximum contrast and harmony: red, blue, yellow, purple.
+Grass is warm green (#81C784).
+Trees are fresh green (#66BB6A) with soft brown trunks (#A1887F).
+Fence is soft white (#FAFAFA).
+Path is warm sand (#FFE0B2).
+Sky is clear blue (#81D4FA).
+Canvas is white (#FFFFFF).
+This is one of the most colourful worlds in Pompom Hills — every corner tells a different colour story.
+Avoid cool blue shifts, desaturation, or neon oversaturation.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Colourful artistic garden with toy-set materials.
+Hand-painted colour palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Painting Garden we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Colourful, joyful, artistic.
+Children feel curious and creative, wanting to paint and discover colours.
+The world invites beauty and shared creation.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Art Corner.
+Do not make it look like Tillo's Garden.
+Do not make it look like Rainbow Bridge.
+Do not make it look like Friendship Meadow.
+Do not make it look like Rainbow Creek.
 
-If World Builder's 3D output still drifts from our identity (colour zones mixed, fence missing, flowers look realistic), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No sharp edges, thorns, or dangerous elements.
+No realistic art supplies like professional brushes or toxic paints.
+No modern objects like metal easels or plastic containers.
+No neon colours or harsh contrasts.
+No dark shadows or scary lighting.
+No crowded scenes.
+No fast-moving objects.
+No unfinished or messy paintings.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `PG-FLOWER-RED` or `PG-CANVAS-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A flat, enclosed garden surrounded by a soft white rounded fence. Inside, four distinct colour zones of round, painterly flowers — red in the upper left, yellow in the upper right, purple in the lower left, blue in the lower right — each cluster looking like soft brushstrokes. A white canvas on a wooden easel stands in the centre-right, waiting to be painted. Pastel paint pots sit in the centre-left. Two fresh green trees with soft brown trunks frame the edges. Warm sand path at the entrance. Warm sunlight from the upper left, no harsh shadows. The mood is colourful, joyful, and artistic — like a palette come to life. Children's storybook style, soft matte handcrafted look. No realistic flowers, no modern art supplies, no neon colours, no messy or chaotic garden.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the full garden from the entrance, all four colour zones visible
-- Image 2 (back): view from the far side looking back toward the entrance
-- Image 3 (left): close-up of the canvas and paint pots in the centre
-- Image 4 (right, optional): detail of one colour zone with painterly flowers
-
-All four images must share the same warm lighting, clear blue sky, and consistent flower colours so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Painting Garden Hero View: iconic, readable, reusable, colourful, joyful, and unmistakably Pompom Hills.

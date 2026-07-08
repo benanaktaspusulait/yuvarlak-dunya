@@ -1,67 +1,90 @@
-# Noah's Home — OpenArt World Builder Prompt
+Create the single canonical Hero View for Noah's Home in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic house scene, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+The soft-blue house sits in the mid-ground, centre to slightly right.
+A maker corner with a wooden workbench is visible in the foreground or near the house exterior.
+Musical instruments and building blocks are scattered near the entrance.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Colourful building blocks and musical instruments near the foreground → a maker corner with wooden workbench to the side → the soft-blue house with dark-blue dome roof and soft-yellow windows → warm green grass surrounding the house → distant soft hills under a clear pastel sky.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Noah's Home must be instantly recognisable from this image alone.
+The soft-blue house with its dark-blue dome roof is the signature structure.
+Soft-yellow windows glow warmly on the façade.
+Colourful building blocks, a drum, and a tambourine near the entrance signal this is Noah's creative, musical world.
+The wooden workbench maker corner confirms this is where building and crafting happen.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+Soft green grass surrounds the house.
+Colourful building blocks in red, yellow, green, and blue are scattered near the entrance as if mid-play.
+A small drum and a tambourine sit on the grass or near the workbench.
+A wooden workbench stands to one side as a maker corner with simple tools.
+The house has a warm-brown rounded door.
+Soft-yellow windows (#FFF59D) glow invitingly.
+Low pastel hills roll gently in the distance.
+The sky is clear and soft.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Soft-blue house walls (#8EC5F0) dominate the mid-ground.
+Dark-blue dome roof (#1565C0) provides strong but not harsh contrast.
+Soft-yellow windows (#FFF59D) add warm glow.
+Warm-brown door and workbench (#A1887F) add earthy grounding.
+Building blocks in saturated but soft primary colours.
+Grass in warm green.
+Sky in gentle light blue gradient.
+This world should feel more creative and musical than Arda's Home or Cloud Hill.
+Avoid heavy dark tones, avoid grey, avoid cold sterile colours.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Creative workshop aesthetic blended with toy-like softness.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Noah's Home we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Creative, musical, and joyful.
+This is the world where children feel inspired to make and create.
+The instruments suggest music and rhythm.
+The workbench suggests building and inventing.
+Imaginative, expressive, full of creative energy.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Arda's Home, which has a sky-blue house with a garden full of balls and a swing.
+Do not make it look like Cloud Hill, which is a tall serene hill with vast sky and no buildings.
+Do not make it look like Hobby Horse Trail, which is a festive path with bunting and a bridge.
+Do not make it look like Luca's Home, which has a leaf-green house near a forest edge.
+Do not make it look like Paddle Cove, which has water, boats, and pebbles.
+Do not make it look like Pony Meadow, which features ponies and a fence.
 
-If World Builder's 3D output still drifts from our identity (wrong house colour, wrong roof shape, music props missing), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No electronic devices, no screens, no keyboards.
+No swimming pools, no mechanical playground equipment.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No construction site elements, no hard hats, no power tools.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `NH-HOUSE-01` or `NH-DRUM-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A soft blue house with a round dark-blue roof and round soft-yellow windows, sitting on warm green grass. The front door is round and warm brown. The garden has colourful building blocks, a small drum, a tambourine, and a maker corner with wooden materials. Warm sunlight from the upper right, no harsh shadows. The house feels creative, musical, and joyful — like a place where music and building come alive. Low pastel hills on the distant horizon. Children's storybook style, soft matte handcrafted look. No fences, no roads, no modern objects, no sharp corners, no dark clouds.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the house from the garden, showing the full facade
-- Image 2 (back): view from behind showing the maker corner and music area
-- Image 3 (left): side view showing the round roof silhouette
-- Image 4 (right, optional): detail of the building blocks and musical instruments
-
-All four images must share the same lighting direction, sky colour, and house colour so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Noah's Home Hero View: iconic, readable, reusable, creative, musical, joyful, inspiring, and unmistakably Pompom Hills.

@@ -1,67 +1,85 @@
-# Rainbow Creek — OpenArt World Builder Prompt
+Create the single canonical Hero View for Rainbow Creek in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic stream, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, peaceful, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 1.20 m.
+28 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+Rainbow Creek features a shallow clear stream lined with rainbow-coloured stones and a small wooden bridge.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Green plants and colourful flowers on the bank in foreground → smooth round rainbow-coloured stones lining the creek → the clear sparkling water flowing gently → the small rounded wooden bridge at midpoint → green banks and soft sky above.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Rainbow Creek must be instantly recognisable from this image alone.
+The small, low, round wooden bridge crossing the creek at its midpoint is the iconic landmark.
+Smooth round rainbow-coloured stones — pink, yellow, blue, green — line both banks.
+Clear shallow water reveals small friendly fish gliding beneath the surface.
+This is the stream where you sit on a colourful stone and watch the fish glide by.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+A shallow, clear creek with gentle sparkling water flowing over a smooth bed.
+Round rainbow-coloured stones line both banks — pink (#F48FB1), yellow (#FFD54F), blue (#42A5F5), green (#66BB6A).
+A small, low, round wooden bridge with railings spans the creek at its midpoint.
+Green plants and colourful flowers scatter along the banks.
+A few leaves float gently on the water surface.
+Sunlight sparkles across the moving water.
+The atmosphere is peaceful, natural, and meditative.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact stone positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Water is clear light blue (#E3F2FD) with sunlight sparkle.
+Stone colours: pink, yellow, blue, green — soft and inviting.
+Bridge is natural wood (#A1887F).
+Plants and flowers are fresh green (#66BB6A) with colourful accents.
+Avoid dark blue-grey, black, or cold tones.
+This world is the most peaceful and natural in Pompom Hills — a quiet water retreat.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Natural waterway world with toy-set materials.
+Soft natural palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Rainbow Creek we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Peaceful, calm, meditative.
+Children feel serene and curious, wanting to sit and watch the water flow.
+The world whispers of quiet moments and gentle nature.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Rainbow Bridge.
+Do not make it look like Tillo's Garden.
+Do not make it look like Friendship Meadow.
+Do not make it look like Painting Garden.
+Do not make it look like Art Corner.
 
-If World Builder's 3D output still drifts from our identity (wrong stone colors, wrong bridge shape, missing fish), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No deep or murky water.
+No fast rushing rapids or waterfall.
+No generic drainage ditch look.
+No cold blue-grey water tone.
+No dark overhanging vegetation.
+No thorny plants or scary creatures.
+No sharp rocky edges.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `RC-CREEK-01` or `RC-BRIDGE-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A shallow clear creek flowing gently between soft green banks, with a small low rounded wooden bridge spanning the water at its midpoint. Smooth round rainbow-coloured stones line both banks — pink, yellow, blue, green — polished and toy-like. Small fish glide visible beneath the clear water surface. Warm natural sunlight reflects off the water with soft sparkle. Green plants and colourful flowers grow along the edges. A few leaves float gently on the current. Children's storybook style, soft matte handcrafted look, warm and safe atmosphere. No deep water, no fast rapids, no dark tones, no modern objects, no thorns, no sharp edges.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide view of the creek with bridge, stones, and banks
-- Image 2 (back): view from the bridge looking downstream
-- Image 3 (left): side view showing the stone-lined banks
-- Image 4 (right, optional): close-up of the water surface with fish and sparkle
-
-All four images must share the same lighting direction, water color, and stone colors so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Rainbow Creek Hero View: iconic, readable, reusable, peaceful, calm, and unmistakably Pompom Hills.

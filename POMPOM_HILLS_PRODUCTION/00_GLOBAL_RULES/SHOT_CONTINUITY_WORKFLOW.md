@@ -273,6 +273,121 @@ Add this to episode planning checklists:
 - [ ] At least 1 Pompom item included in the episode
 ```
 
+### Hero View OpenArt Prompt Standard
+
+Every world needs TWO separate prompt files for the hero view:
+
+1. **Image Generation Prompt** (`03-openart-prompt.md`) — Creates the canonical hero view image
+2. **World Builder Prompt** (optional, separate file) — Uses the hero view image to build 3D world
+
+#### File 1: Image Generation Prompt (`03-openart-prompt.md`)
+
+This is the PRIMARY prompt. It generates the canonical hero view image that becomes the
+visual reference for all shots in that world.
+
+**Required Sections (9 sections):**
+
+1. **Opening Statement** — One sentence defining the image goal. Must state this is a
+   "premium master world image" not a generic scene, poster, or concept board.
+
+2. **Format and Composition** — Technical specifications:
+   - Aspect ratio (16:9)
+   - Camera height (child-eye, ~0.80m)
+   - Lens feeling (35mm)
+   - Composition type (ultra-wide establishing shot)
+   - Depth layers (foreground → middle ground → horizon)
+   - Readability and breathability requirements
+
+3. **Primary World Identity** — What makes this world instantly recognisable:
+   - Core identity description (2-3 sentences)
+   - Key landmark or feature that defines the world
+   - How it should feel as a location
+
+4. **Environment** — Physical world details:
+   - Ground cover (grass, path, stones)
+   - Vegetation (flowers, trees, bushes)
+   - Spatial qualities (open, dense, flat, hilly)
+   - Differentiation from other worlds
+   - Sky and horizon details
+
+5. **Colour Direction** — Specific colour instructions:
+   - Palette character (brighter, softer, warmer, etc.)
+   - Specific colours to use
+   - Relationship to Pompom Hills base palette
+   - What to avoid (neon, harsh, oversaturated)
+
+6. **Style** — Rendering and visual language:
+   - Pompom Hills visual language reference
+   - Quality level (high-quality preschool animation)
+   - Material feel (matte, handcrafted, toy-like)
+   - Lighting (warm morning, soft shadows)
+   - Technical rendering rules (no HDR, no gloss, etc.)
+
+7. **Mood** — Emotional atmosphere:
+   - 3-5 mood descriptors
+   - How children should feel when looking at it
+   - What the scene should evoke
+
+8. **Important Differentiation** — Explicit comparison to other worlds:
+   - List 3-5 specific worlds it must NOT look like
+   - State what it must NOT be (generic, theme park, poster, etc.)
+
+9. **Forbidden** — Comprehensive negative list:
+   - No text/labels/signs/logo
+   - No characters/children/animals
+   - No buildings/structures
+   - No world-specific forbidden elements
+   - No rendering issues (HDR, gloss, harsh shadows)
+
+**Quality Checklist:**
+- [ ] Opening statement defines premium quality
+- [ ] Composition includes camera height, lens, aspect ratio
+- [ ] World identity has unique landmark/feature
+- [ ] Environment differentiates from other worlds
+- [ ] Colour direction specifies palette and avoids
+- [ ] Style includes all rendering rules
+- [ ] Mood defines emotional atmosphere
+- [ ] Differentiation lists specific worlds to avoid
+- [ ] Forbidden list is comprehensive
+
+#### File 2: World Builder Prompt (Optional)
+
+Used only when building 3D world from the approved hero view image.
+
+**Required Sections (8 sections):**
+
+1. **Purpose** — This is only the OpenArt World Builder input guide
+2. **World Builder Reality Check** — Honest limitations of the tool
+3. **Required Input Method** — 1 Image Mode / 2-4 Image Mode instructions
+4. **OpenArt Text Prompt** — Supplementary style hint (world-specific)
+5. **Negative Prompt** — World-specific forbidden output
+6. **Identity Lock** — MUST read as / MUST NOT read as
+7. **Production QA After World Build** — Verification checklist
+8. **Final Usage Note** — Reject and regenerate if quality fails
+
+#### Forbidden Patterns
+
+- ❌ No generic prompts without world-specific identity
+- ❌ No prompts that could produce a different world
+- ❌ No prompts with dominant animals/insects/characters
+- ❌ No prompts allowing HDR, glossy, or harsh contrast
+- ❌ No prompts without differentiation from other worlds
+- ❌ No prompts without comprehensive forbidden list
+
+Add this to world creation checklists:
+
+```
+- [ ] Hero view has image generation prompt (03-openart-prompt.md)
+- [ ] Image prompt has all 9 required sections
+- [ ] Image prompt differentiates from other worlds
+- [ ] Image prompt includes comprehensive forbidden list
+```
+- [ ] Hero view openart prompt has all 8 required sections
+- [ ] Text prompt includes world-specific identity elements
+- [ ] Negative prompt includes world-specific forbidden elements
+- [ ] Identity Lock defines what world MUST and MUST NOT read as
+```
+
 ### Object Continuity Map Gate
 
 Every episode that depends on persistent objects must maintain an Object Continuity Map

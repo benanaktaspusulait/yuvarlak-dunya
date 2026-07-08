@@ -1,67 +1,88 @@
-# Hobby Horse Trail — OpenArt World Builder Prompt
+Create the single canonical Hero View for Hobby Horse Trail in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic path scene, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+The winding soft grass path leads from the foreground toward the middle distance.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+4 hobby horses standing at the trail entrance → the winding grass path curving gently forward → a round flower arch midpoint spanning the path → a small curved wooden bridge further along → soft green bushes and pompom trees flanking the trail → distant pastel hills under a soft sky.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Hobby Horse Trail must be instantly recognisable from this image alone.
+The 4 hobby horses at the trail entrance in coral pink, light blue, yellow, and green are the signature landmark.
+Colourful bunting flags strung overhead mark this as a festive celebration trail.
+The round flower arch midpoint is a secondary iconic feature.
+This is the playful, festive pathway world of the series.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+A winding soft grass path curves gently through the scene.
+Colourful bunting flags are strung between posts along the trail.
+A round archway made of flowers spans the path at the midpoint.
+A small curved wooden bridge crosses a shallow decorative dip further along the trail.
+4 hobby horses stand in a welcoming row at the trail entrance: coral pink, light blue, yellow, and green.
+Round green bushes line the path edges at intervals.
+Pompom-style trees with rounded canopies dot the background.
+Soft grass covers all ground surfaces.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Grass path in warm green.
+Bunting flags in coral pink, light blue, yellow, and green.
+Flower arch in mixed pastels: pink, yellow, white, and soft purple.
+Hobby horses in their four signature colours: coral pink, light blue, yellow, green.
+Wooden bridge and posts in warm brown.
+Bushes and trees in varied soft greens.
+Sky in gentle light blue.
+This world should feel more colourful and festive than Cloud Hill or Paddle Cove.
+Avoid monochrome, avoid grey, avoid muddy or desaturated tones.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Festive, decorative, parade-like quality.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Hobby Horse Trail we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Festive, playful, and celebratory.
+This is the world where children feel the excitement of a parade or festival.
+The bunting and flower arch create a party atmosphere.
+The hobby horses invite imaginative riding adventures.
+Joyful, colourful, full of celebration.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Arda's Home, which has a round house and garden.
+Do not make it look like Cloud Hill, which is a tall serene hill with vast sky.
+Do not make it look like Luca's Home, which has a house near a forest edge.
+Do not make it look like Noah's Home, which has a house with musical instruments.
+Do not make it look like Paddle Cove, which has water, boats, and pebbles.
+Do not make it look like Pony Meadow, which features ponies and a fence.
 
-If World Builder's 3D output still drifts from our identity (wrong path shape, flags missing, looks like a race track), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No cars, no vehicles, no mechanical rides.
+No modern playground equipment.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No streamers, no confetti, no fireworks.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `HH-ARCH-01` or `HH-BUNTING-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A winding soft grass path lined with colourful bunting flags, leading through a round flower arch at the midpoint. A small curved wooden bridge crosses a gentle dip. Colourful hobby horses — coral pink, light blue, yellow, green, and purple — wait at the entrance. Round green bushes and small pompom trees border the path. Warm sunlight from the upper right, no harsh shadows. The mood is playful, imaginative, and inviting — like an adventure trail where a stick becomes a horse. Children's storybook style, soft matte handcrafted look. No race track markings, no timer, no real horses, no sharp obstacles, no competitive elements.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the trail from the entrance, showing the path and flags
-- Image 2 (back): view from the end looking back toward the entrance
-- Image 3 (left): side view showing the flower arch and bridge
-- Image 4 (right, optional): close-up of a hobby horse at the entrance
-
-All four images must share the same lighting direction, sky colour, and grass colour so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Hobby Horse Trail Hero View: iconic, readable, reusable, festive, playful, celebratory, colourful, and unmistakably Pompom Hills.

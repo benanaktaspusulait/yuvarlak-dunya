@@ -1,67 +1,91 @@
-# Tillo's Treehouse — OpenArt World Builder Prompt
+Create the single canonical Hero View for Tillo's Treehouse in the Pompom Hills preschool animation world.
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+This must be a premium master world image, not a generic treehouse, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
----
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable composition with clear environmental depth.
+Large tree with honey-coloured wooden treehouse as central focus.
+Low wooden bridge with safe railings extending to nearby forest.
+Wooden ladder from ground to treehouse.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Grassy ground with ladder base → thick round trunk → honey-coloured treehouse in branches → wooden bridge with railings → distant forest canopy → soft sky.
 
-## Honest Limitation — Read This First
+PRIMARY WORLD IDENTITY:
+Tillo's Treehouse must be instantly recognisable from this image alone.
+A large tree with a round honey-coloured wooden treehouse and connecting wooden bridge.
+The honey-coloured wooden treehouse (#FFCC80) is the iconic landmark.
+The wooden bridge with safe railings is the secondary signature element.
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+ENVIRONMENT:
+Large tree with thick round trunk and wide spreading canopy.
+Round honey-coloured wooden treehouse (#FFCC80) nestled in the branches.
+Low wooden bridge with safe railings connecting to nearby forest trees.
+Wooden ladder from ground to treehouse with round rungs.
+Dappled light filtering through the canopy above.
+Soft green grass around the tree base.
+Surrounding forest trees in soft gentle focus.
+Warm wood textures throughout, all rounded and child-safe.
+The treehouse feels like a secret hideaway in the treetops.
+The bridge sways gently, inviting adventure across the gap.
+Round windows in the treehouse glow with warm interior light.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact bridge position, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
+COLOUR DIRECTION:
+Honey-coloured wood (#FFCC80), warm brown trunk (#A1887F).
+Green grass and leaves (#A5D6A7), soft sky (#BBDEFB).
+Avoid cool greys, harsh browns, or overly saturated tones.
+Warm wooden adventure palette distinct from all other worlds.
+Not as floral as Rosie's Rose Garden, not as stony as Stone Hill, not as blue as Wish Pond.
+Not as golden as Sun Hill, not as deep as Tree Hill's forest canopy.
 
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Wooden adventure space with child-safe rounded forms.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Dappled sunlight filtering through canopy.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Tillo's Treehouse we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
+MOOD:
+Adventurous yet safe, exciting, inviting.
+Children feel excited to climb and explore the treehouse.
+A place of imagination and safe adventure.
+Playful and sheltered beneath the canopy.
+The air hums with the promise of exciting discoveries above.
+Every rung and plank feels solid and welcoming.
+The canopy shelters everything like a gentle green umbrella above.
 
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Rosie's Rose Garden — no flowers, no fence, no fountain.
+Do not make it look like Stone Hill — no stones covering hillside, no cave, no waterfall.
+Do not make it look like Story Circle — no ancient tree ring, no sitting stones, no storytelling circle.
+Do not make it look like Sun Hill — not an open hilltop, no panoramic view, no golden morning light.
+Do not make it look like Tree Hill — no campfire, no cathedral gateway, no ancient forest.
 
-If World Builder's 3D output still drifts from our identity (bridge looks unsafe, wood turns grey, height feels dangerous), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds.
+No campfire, no smoke, no dangerous heights, no broken wood, no splinters.
+No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No dark corners, no spooky atmosphere, no cold lighting.
+No leaning structures, no wobbly planks — everything is sturdy and safe.
+No exposed nails, no rough edges — all wood is smooth and child-friendly.
 
----
-
-## Why a separate file
-
-OpenArt World Builder's text prompt field:
-
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `TT-HOUSE-01` or `TT-BRIDGE-01`
-
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
-
----
-
-## If uploading 1 image
-
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A large tree with a round honey-coloured wooden treehouse nestled among its wide branches, warm light glowing from its round window. A low wooden bridge with safe railings connects the treehouse to the nearby forest, passing through green leaves. A wooden ladder leads up from the ground. The tree has a thick round trunk and wide spreading canopy. Natural sunlight filters through the leaves, creating soft dappled light on the warm wood. Children's storybook style, soft matte handcrafted look, adventurous yet safe atmosphere. No dangerous drops, no broken bridges, no sharp nails, no dark interior, no cold colours, no modern building materials, no sharp edges.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide view looking up at the treehouse and bridge from below
-- Image 2 (back): view from the bridge looking toward the treehouse door
-- Image 3 (left): side view showing the treehouse nestled in the canopy
-- Image 4 (right, optional): interior view through the round window
-
-All four images must share the same lighting direction, wood color, and leaf color so OpenArt reads them as one consistent space.
-
----
-
-## After the world is built
-
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+The final image must feel like the definitive Tillo's Treehouse Hero View: iconic, readable, reusable, adventurous, safe, and unmistakably Pompom Hills.

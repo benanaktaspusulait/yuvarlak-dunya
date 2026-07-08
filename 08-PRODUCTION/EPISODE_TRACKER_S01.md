@@ -94,9 +94,9 @@ S01E02-A, S01E04, S01E05, S01E06, S01E07, S01E10, S01E11, S01E14
 | Little Forest | ✅ | 2 image | ✅ | 2 | ✅ Production Ready |
 | Mimi's Burrow | ✅ | 1 image | ✅ | 1 | ✅ Production Ready |
 | Cloud Hill | ✅ | 2 image | ✅ | 2 | ✅ Production Ready |
-| Butterfly Meadow | ✅ | 1 image | ✅ | 1 | 🟡 Multi-angle eksik |
-| Rainbow Bridge | ✅ | 1 image | ✅ | 1 | 🟡 Multi-angle eksik |
-| Music Hill | ✅ | **0 image** | ✅ | 1 | 🔴 Hero view eksik |
+| Butterfly Meadow | ✅ | 1 image + production-safe prompt | ✅ | 1 | ✅ Production Ready |
+| Rainbow Bridge | ✅ | 1 image + production-safe prompt | ✅ | 1 | ✅ Production Ready |
+| Music Hill | ✅ | **0 image** (prompt ready) | ✅ | 1 | 🔴 Hero view image eksik |
 
 ---
 

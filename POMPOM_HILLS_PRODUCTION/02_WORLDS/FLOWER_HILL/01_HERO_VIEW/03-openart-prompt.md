@@ -1,125 +1,94 @@
-# Flower Hill — OpenArt World Builder Prompt
+Create the single canonical Hero View for Flower Hill in the Pompom Hills preschool animation world.
 
-## Purpose
+This must be a premium master world image, not a generic flower field, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
-This file is only the OpenArt World Builder input guide for FLOWER HILL.
+FORMAT AND COMPOSITION:
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 1.20 m (wide establishing).
+24–35 mm lens feeling — wide but not distorted.
+Slightly upward tilt, around 5–10° above horizon.
+Flower-dominated composition — the flower carpet fills the majority of the frame.
+Sky occupies approximately 25–30% of the frame.
+The image should guide the eye naturally from foreground to middle ground to horizon:
+Curved stepping-stone path and dense foreground flowers → soft rounded Flower Hill covered in five-colour flower clusters → the hill crest with distant soft hills on the horizon → clear warm sky above.
 
-- The approved FLOWER HILL Hero View is the primary input.
-- Text is secondary only.
-- `02-world-spec.md` remains the full production reference.
-- Do not paste the full spec into OpenArt World Builder.
-
----
-
-## World Builder Reality Check
-
-OpenArt World Builder is a 3D spatial extrapolation tool. It may not perfectly follow detailed prompt rules. It may reinterpret objects, flatten space, sharpen textures, or add unwanted clutter. Because of this, the approved Hero View image must be treated as the highest-fidelity source.
-
----
-
-## Required Input Method
-
-### Best Method — 1 Image Mode
-
-- Upload the approved FLOWER HILL Hero View.
-- Use the prompt below only as a supplementary style and layout hint.
-- The image is the primary instruction.
-- Do not add character references.
-- Do not add episode shots.
-- Do not add failed generations.
-
-### 2–4 Image Mode
-
-- If OpenArt disables the text field after uploading multiple images, that is expected.
-- In that case, the images become the instruction.
-- Use only canon-consistent views.
-- All images must match lighting, colour palette, material style, and camera height.
-- Do not mix different styles or generations.
-
-Recommended views:
-
-- Image 1 / Front: approved Hero View, all identity elements visible.
-- Image 2 / Back: reverse view, same palette.
-- Image 3 / Left: side view showing layout and depth.
-- Image 4 / Right optional: closer detail, not macro.
-
----
-
-## OpenArt Text Prompt — Use Only In 1 Image Mode
-
-```
-Create a soft, preschool-friendly world called FLOWER HILL.
-Use the uploaded approved Hero View as the primary reference.
-Preserve its layout, lighting, colour palette, camera feeling, and soft toy-like handcrafted style.
-
-The world must feature a soft, round green hillside with a dense but readable flower carpet.
-Five flower colours — red, yellow, pink, purple, and orange — grow in clusters.
-Each cluster has 8 to 15 flowers. Walking space exists between clusters.
+PRIMARY WORLD IDENTITY:
+Flower Hill must be instantly recognisable from this image alone.
+It is the most colourful hill in Pompom Hills — a soft rounded green hill covered in an abundant but readable five-colour flower carpet.
+The S-curve stepping-stone path (FH-PATH-01) cuts clearly through the flower carpet — it is the primary visual landmark.
+Five flower colours are always visible and balanced: red, yellow, pink, purple, orange.
 No single colour dominates more than 40% of the frame.
-Flower height reaches knee-waist level for a small character.
+The hill has no sharp peak — it spreads wide and gentle.
 
-A curved stone path forms a gentle S-curve through the flower field.
-Yuvarlak, düz üstlü taşlar — çap yaklaşık 0.35 m.
-Taşlar arasında yumuşak çimen boşluğu.
-Patika asla düz çizgiye dönüşmez.
+ENVIRONMENT:
+Soft rounded green hill covered in dense five-colour flower clusters.
+Each cluster contains 8–15 flowers, with soft grass gaps between clusters.
+The path is made of smooth grey round stepping stones (#E0E0E0) forming a clear S-curve.
+Flowers grow at child knee-to-waist height (approximately 0.25–0.40 m).
+The hill slope is gentle — a small child could walk up it easily.
+Neighbouring homes (Kiko's Home, Mimi's Burrow) appear only as tiny distant silhouettes if visible at all — never redesigned, never prominent.
 
-Hill has no single peak — it spreads wide and welcoming.
-Soft wind rustles the flower heads and grass continuously.
-Child-eye camera height, warm morning sunlight, soft pale sky.
-Medium-low contrast, matte handcrafted toy-set materials, rounded shapes.
-Pastel houses may appear as tiny distant silhouettes — never dominant.
-This is the most colourful place in Pompom Hills.
+COLOUR DIRECTION:
+Warm morning daylight palette from the Pompom Hills bible.
+Red flowers: #EF5350.
+Yellow flowers: #FFD54F.
+Pink flowers: #F48FB1.
+Purple flowers: #CE93D8.
+Orange flowers: #FF7043.
+Soft green grass: #C8E6C9.
+Soft grey path: #E0E0E0.
+White balance: warm morning daylight, approximately 5500K.
+Highlights are soft and rolled — never clipped to pure white.
+Shadows are lifted and warm — never cold, never black.
+No golden-hour, no sunset, no orange grading in the Hero View.
+No neon, no oversaturation, no HDR.
+Flower Hill is more colourful and vibrant than Central Square (which is green and tree-dominated) but less pink than Kiko's Home.
 
-No characters, children, rabbits, animals, or birds.
-No giant foreground objects, cropped edge flowers, sharp slopes.
-No dark or dramatic lighting, HDR, glossy plastic.
-No harsh shadows, high contrast, oversharpening, or neon colours.
-```
+STYLE:
+Pompom Hills visual language.
+High-quality preschool animation environment.
+Soft pastel palette.
+Matte handcrafted toy-set materials.
+Rounded safe shapes.
+Gentle storybook charm.
+Warm morning sunlight from the upper left.
+Soft golden warmth.
+Soft shadows.
+Medium-low contrast.
+Clean, calm, premium rendering.
+No photorealism.
+No sharp realism.
+No glossy plastic.
+No glossy CGI.
+No HDR.
+No oversharpening.
+No neon colours.
+No extreme saturation.
+No overly polished Pixar-like hyper-gloss look.
 
----
+MOOD:
+Colourful, beautiful, inviting, safe — like a hill that asks you to walk up and count every flower.
+This is where colour comes alive, where children discover that the world is made of beautiful things.
+Children should feel: "How many colours can I see? I want to walk up that path."
+The joy of colour, the wonder of beauty, the gentle invitation to explore.
 
-## Negative Prompt / Forbidden Output
+IMPORTANT DIFFERENTIATION:
+Do not make it look like Central Square — there is no Big Pompom Tree, no stone circle, no communal gathering space here.
+Do not make it look like Kiko's Home — there is no pink house, no white arched door, no garden fence here.
+Do not make it look like Mimi's Burrow — there is no underground entrance, no blue doorway, no hidden burrow.
+Do not make it look like Little Forest — there is no mushroom circle, no dense tree canopy, no forest floor.
+Do not make it look like Opa's Tree — there is no single oversized storytelling branch, no below-looking-up angle.
+Do not make it look like Music Hill — there are no music trees, no leaf chimes, no stepping stones on a hill.
 
-```
-characters, children, Kiko, Mimi, Noah, Arda, Luca, Opa, rabbits, animals, birds, sharp slopes, single peak, dark dramatic lighting, giant flowers, foreground flower close-up, cropped flowers at frame edge, cropped objects, clutter, buildings, signs, labels, readable text, arrows, fences, roads, vehicles, water, river, stream, night, sunset, moon, stars, harsh shadows, high contrast, HDR, glossy plastic, glossy CGI, oversharpened, realistic textures, photorealism, sharp corners, neon colours, over-saturated colours
-```
+FORBIDDEN:
+No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No characters, no children, no rabbits, no animals, no birds, no butterflies in the Hero View.
+No barren soil, no brown patches, no dry grass.
+No dark or dramatic lighting.
+No sunset or golden-hour grading in the Hero View.
+No neon colours, no oversaturation.
+No realistic landscape, no photorealistic flowers.
+No redesigned Kiko's Home or Mimi's Burrow.
+No sharp corners, no harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
----
-
-## Identity Lock
-
-FLOWER HILL must read as:
-
-- A soft round hillside with a dense, colourful five-colour flower carpet
-- A curved stone path in a gentle S-curve winding through the flowers
-- The most colourful place in Pompom Hills — warm, inviting, nature-focused
-- Soft pastel Pompom Hills style with matte handcrafted toy-set materials
-
-It must NOT read as:
-
-- A steep or sharp-sloped mountain
-- A generic flower field without the S-curved path
-- A different Pompom Hills world
-- A dark or dramatic landscape
-- A generic stock location
-
----
-
-## Production QA After World Build
-
-- [ ] Is the world still recognisable as FLOWER HILL from silhouette and layout?
-- [ ] Are five distinct flower colours visible in balanced clusters?
-- [ ] Is the S-curved stone path clearly visible?
-- [ ] Is the hill soft and rounded with no sharp peak?
-- [ ] Are there no characters or animals?
-- [ ] Are there no giant foreground flowers or cropped edge flowers?
-- [ ] Is the style still soft pastel, matte, toy-like, preschool-safe?
-- [ ] Is contrast medium-low?
-- [ ] Is there no HDR, glossy CGI, oversharpening, or harsh shadow drift?
-- [ ] Does it match the approved Hero View more than the text prompt?
-
----
-
-## Final Usage Note
-
-Use the generated World Builder output only after QA. If it adds unwanted elements, glossy/HDR contrast, or drifts from the approved Hero View, reject the world and regenerate. Do not treat a failed world as canon.
+The final image must feel like the definitive Flower Hill Hero View: iconic, readable, reusable, colourful, beautiful, and unmistakably Pompom Hills.
