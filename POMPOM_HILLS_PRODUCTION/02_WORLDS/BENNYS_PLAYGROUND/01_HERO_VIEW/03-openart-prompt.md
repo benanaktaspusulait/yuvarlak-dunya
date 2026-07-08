@@ -80,5 +80,8 @@ No shadows from overhead structures — the equipment should feel free-standing 
 No ball pit balls outside the pit — the balls should feel like a contained world of colour and bounce.
 No swings with chains — the ropes should be soft and thick, safe for tiny hands to grip.
 No slide with a steep drop — the curve should be gentle, the speed controlled, the joy guaranteed.
+No climbing structures taller than a child can safely reach — everything should be accessible and inviting.
+No dark or muted tones in the equipment — every colour should feel bright, fresh, and full of energy.
+No signs of wear, tear, or damage — the playground should feel fresh, new, and loved.
 
 The final image must feel like the definitive Benny's Playground Hero View: iconic, readable, reusable, joyful, playful, colourful, and unmistakably Pompom Hills. It should make any child viewing it want to run to the swings, climb the hill, and dive into the ball pit with pure, unbridled happiness. This image should serve as the single source of truth for Benny's Playground across all episodes, shorts, and marketing materials.

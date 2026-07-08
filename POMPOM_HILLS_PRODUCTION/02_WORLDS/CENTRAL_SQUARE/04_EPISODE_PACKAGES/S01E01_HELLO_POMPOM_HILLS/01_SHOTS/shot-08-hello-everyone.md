@@ -19,52 +19,96 @@
 
 This is the final shot. All six friends are together under the Giant Pompom Tree.
 
+> Mode: Frame-to-video.
+> @image1 = approved Shot 07 final frame.
+> Do NOT generate a separate first frame.
+
 ---
 
 ## Visual Prompt
 
-```text
-Central Square in Pompom Hills, warm pastel colors, round soft shapes, morning light. All six friends stand together under the Giant Pompom Tree. They all wave at the camera and say hello together. Bright, cheerful, warm ending, {style} {camera} {lighting}
+Use @image1 = approved Shot 07 final frame as the ONLY locked first-frame continuity source. Create the full 15-second video directly from @image1.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
-```
+Central Square in Pompom Hills, warm morning light, round pastel houses, Giant Pompom Tree in background. All six friends (Kiko, Mimi, Opa, Luca, Noah, Arda) stand together under the tree. They look at the camera and wave hello together. Bright, cheerful, warm ending. Soft smiles, gentle waving motion. No running. No jumping. No spinning. Small gentle gestures only.
+
+The first visible frame must match @image1. Do not start with a new establishing shot. Do not remove any characters. Do not regenerate the background.
+
+All characters must remain exactly the same as in @image1. Do not redesign anyone.
+
+---
+
+## Camera Direction
+
+Locked camera only. Keep the same camera angle, distance, character scale, and composition as @image1. No camera movement. No pan. No tilt. No zoom. No push-in. No pull-back.
 
 ---
 
 ## Dialogue
 
-```
-All together: Hello Pompom Hills!
-```
+All together: "Hello Pompom Hills!"
 
 ---
 
-## Shot Breakdown
+## Voice Lock
 
-| Time | Action | Camera |
-|---|---|---|
-| 0-3 sn | All friends look at camera | Wide, static |
-| 3-6 sn | They start waving | Wide, static |
-| 6-9 sn | They say hello together | Wide, static |
-| 9-12 sn | They keep waving and smiling | Wide, static |
-| 12-15 sn | Final smile, warm ending | Wide, static |
+Each character uses their registered locked voice from VOICE_TRACKER.md.
+Kiko, Mimi, Opa, Luca, Noah, Arda all speak in unison.
+Do not let OpenArt choose or generate voices.
+
+---
+
+## Timing / Beat Sheet
+
+- 0–1s: Hold close to @image1.
+- 1–4s: All six friends look at camera and begin waving.
+- 4–8s: They say together: "Hello Pompom Hills!"
+- 8–12s: They keep waving and smiling warmly.
+- 12–15s: Final smile, warm ending. Peaceful and complete.
+
+---
+
+## Natural Character Motion Rule
+
+The shot begins alive immediately and holds close to @image1. All characters blink and breathe from frame one. Motion is small, gentle, and preschool-safe. Gentle waving, soft smiles. No running. No jumping. No spinning. No large travel. No side switching. No exaggerated gesture. No delayed dialogue. No empty opening seconds. No dead air.
 
 ---
 
 ## Sound
 
-- Birds chirping
-- Soft morning ambience
-- Happy voices together
-
-Natural ambience only. No music.
+Warm Central Square morning ambience: soft breeze through leaves, gentle distant bird sounds, warm forest bed under dialogue. All six voices speak in unison. Natural ambience only. No music. No melody. No soundtrack. No chimes. No whoosh. Keep all ambience soft under dialogue.
 
 ---
 
-## QA Checklist
+## Lighting
 
-- [ ] All characters visible and waving
-- [ ] Background objects stable
-- [ ] Lighting consistency verified
-- [ ] Warm ending achieved
-- [ ] Shot feels calm but alive
+Match @image1 for continuity. Warm morning dappled sunlight. Soft pastel palette. Medium-low contrast. Gentle golden warmth. Soft shadows. No colour drift. No contrast increase. No HDR look.
+
+---
+
+## Negative Prompt
+
+environment-only first frame, empty first frame, characters missing, new establishing shot, regenerated background, camera movement, chase, jump, spinning, text, music, melody, high contrast, HDR, glossy plastic, harsh shadows, night, sunset, fade to dark
+
+---
+
+## OpenArt Settings
+
+- Duration: 15 seconds
+- Mode: Frame-to-video
+- References: @image1 = approved Shot 07 final frame
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
+- Locked camera only
+
+---
+
+## Approval Checklist
+
+- [ ] First frame matches @image1
+- [ ] All six characters visible
+- [ ] No camera movement
+- [ ] Warm ending emotion
+- [ ] Voice Lock applied
+- [ ] No contrast/saturation drift
+- [ ] Dialogue begins early
+- [ ] No dead air
