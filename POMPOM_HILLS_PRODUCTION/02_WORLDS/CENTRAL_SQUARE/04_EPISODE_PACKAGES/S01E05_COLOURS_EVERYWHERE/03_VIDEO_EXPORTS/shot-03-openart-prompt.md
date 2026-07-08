@@ -106,13 +106,21 @@ Kiko: A blue bench!
 
 ---
 
+## Voice Lock
+
+Each character must use their registered locked voice from VOICE_TRACKER.md.
+Do not let OpenArt choose or generate voices.
+Do not change voice between shots.
+Same pitch, same timbre, same age, same speed, same warmth.
+
 ## Negative Prompt
 
 ```text
 camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lens, camera tracking, pan, tilt, zoom, push-in, pull-back, reframing, camera settle, camera drift, camera searching for bench, changed character position, changed character scale, changed lighting, changed colour grading, sky colour shift, sunset sky, orange sky, golden sky, grey sky, dramatic sky, painterly sky, lighting reinterpretation, new blue bench, new blue object, large foreground blue bench, blue bench appearing from nowhere, bench spawning, duplicated bench, resized bench, moved bench, repainted bench, bench identity change, oversized Kiko, oversized Mimi, Kiko too large, Mimi too large, cropped character, character too close to camera, character dominating frame, older child, school-age child, teenager, adult proportions, realistic child, tall child, wrong scale, ghost Kiko, duplicate Kiko, transparent Kiko, double exposure Kiko, motion smear Kiko, character trail Kiko, ghost Mimi, duplicate Mimi, transparent Mimi, double exposure Mimi, motion smear Mimi, character trail Mimi, extra characters, non-canon characters, disappearing character, teleporting character, character side-switching, character hidden behind objects, character occluded by bench, character occluded by flowers, character occluded by planters, character clipping through bench, character clipping through bushes, character clipping through plants, background morphing, disappearing objects, moving trees, moving planters, moving bench, changing path, new path, new landmarks, new buildings, roads, cars, traffic, shops, readable signs, fountain, water feature, bridge, river, pond, crowd, static talking pose, characters frozen, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, frozen dialogue, inactive characters, random filler motion, meaningless movement, music, background music, melody, song, soundtrack, musical bed, chime, text, readable text, captions, subtitles, speech bubbles, logo, watermark, title card, subscribe button, like button
 ```
 
----
+---, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, dark areas growing darker, highlights growing brighter, lighting becoming harsher
+
 
 ## OpenArt Ayarları
 

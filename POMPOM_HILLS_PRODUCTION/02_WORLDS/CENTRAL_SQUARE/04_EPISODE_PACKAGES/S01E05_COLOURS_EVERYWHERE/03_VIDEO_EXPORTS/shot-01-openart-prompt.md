@@ -72,13 +72,21 @@ Kiko: Red! I found red!
 
 ---
 
+## Voice Lock
+
+Each character must use their registered locked voice from VOICE_TRACKER.md.
+Do not let OpenArt choose or generate voices.
+Do not change voice between shots.
+Same pitch, same timbre, same age, same speed, same warmth.
+
 ## Negative Prompt
 
 ```text
 camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lighting, changed colour grading, sky colour shift, sunset sky, orange sky, golden sky, grey sky, dramatic sky, Kiko visible in first frame, new character in first 1 second, oversized Kiko, giant foreground character, cropped Kiko, Kiko too close to camera, Kiko dominating frame, new red pot, new red bucket, new red planter, new red vase, large foreground red object, extra characters, Mimi, text, captions, subtitles, speech bubbles
 ```
 
----
+---, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, dark areas growing darker, highlights growing brighter, lighting becoming harsher
+
 
 ## OpenArt Ayarları
 

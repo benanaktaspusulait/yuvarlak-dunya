@@ -33,9 +33,17 @@ No other characters. No Opa. No text. No captions.
 Dialogue:
 Kiko: The leaves are falling...
 
+## Voice Lock
+
+Each character must use their registered locked voice from VOICE_TRACKER.md.
+Do not let OpenArt choose or generate voices.
+Do not change voice between shots.
+Same pitch, same timbre, same age, same speed, same warmth.
+
 ## Negative Prompt
 
-camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lighting, changed colour grading, sky colour shift, sunset sky, orange sky, golden sky, grey sky, dramatic sky, Kiko visible in first frame, oversized Kiko, giant foreground character, cropped Kiko, Kiko too close to camera, Kiko dominating frame, extra characters, Opa, text, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack
+camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lighting, changed colour grading, sky colour shift, sunset sky, orange sky, golden sky, grey sky, dramatic sky, Kiko visible in first frame, oversized Kiko, giant foreground character, cropped Kiko, Kiko too close to camera, Kiko dominating frame, extra characters, Opa, text, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, dark areas growing darker, highlights growing brighter, lighting becoming harsher
+
 
 ## OpenArt Ayarları
 

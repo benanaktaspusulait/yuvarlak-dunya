@@ -110,13 +110,21 @@ Kiko: Red! I'm finding colours!
 
 ---
 
+## Voice Lock
+
+Each character must use their registered locked voice from VOICE_TRACKER.md.
+Do not let OpenArt choose or generate voices.
+Do not change voice between shots.
+Same pitch, same timbre, same age, same speed, same warmth.
+
 ## Negative Prompt
 
 ```text
 camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed Kiko position, changed Kiko scale, changed lighting, changed colour grading, sky colour shift, sunset sky, orange sky, golden sky, grey sky, dramatic sky, Mimi visible in first frame, new character in first 1 second, Mimi too large, oversized Mimi, giant foreground Mimi, cropped Mimi, Mimi too close to camera, Mimi dominating frame, Kiko too large, Kiko changed position, extra characters, text, captions, subtitles, speech bubbles, tiny distant Mimi, background-only Mimi, unreadable Mimi, Mimi hidden behind tree, Mimi hidden behind flowers, Mimi appearing behind objects, Mimi wrong perspective scale, Mimi too far away, Kiko frozen unnaturally, frozen Kiko pose, static talking pose, characters frozen, no movement, ghost Kiko, duplicate Kiko, transparent Kiko, double exposure Kiko, motion smear Kiko, character trail, ghost Mimi, duplicate Mimi, transparent Mimi, double exposure Mimi, motion smear Mimi, music, background music, melody, song, soundtrack, musical bed, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion
 ```
 
----
+---, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, dark areas growing darker, highlights growing brighter, lighting becoming harsher
+
 
 ## OpenArt Ayarları
 

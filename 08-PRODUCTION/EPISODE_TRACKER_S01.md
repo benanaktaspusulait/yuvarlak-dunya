@@ -35,7 +35,7 @@
 | S01E02-B | Bounce, Bounce, Kiko! | 🤝 Social, 💛 Feelings | Kiko, Mimi, Opa | Flower Hill → Central Square | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E04 | Mimi's Big Yawn | 💛 Feelings, 🌙 Bedtime | Kiko, Mimi | Mimi's Burrow | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E05 | Colours Everywhere | 🎓 Learning | Kiko, Mimi | Central Square | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E06 | The Soft Wind | 🌿 Nature | Kiko, Mimi | Little Forest | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E06 | The Soft Wind | 🌿 Nature | Kiko, Mimi | Little Forest | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E07 | The Round Stone | 🎓 Learning, 🌿 Nature | Luca, Kiko | Stone Hill | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E08 | Building Together | 🙌 Helper, 🤝 Social | Noah, Arda | Central Square | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E09 | The Quiet Place | 💛 Feelings | Kiko, Opa | Opa's Tree | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
@@ -71,14 +71,14 @@
 |--------|-------|
 | Toplam bölüm | 19 |
 | Yazılan | 19 (%100) |
-| Üretilen | 7 (%36.8) |
+| Üretilen | 8 (%42.1) |
 | Yayınlanan | 0 (%0) |
 
 ---
 
 ## Üretilen Bölümler
 
-S01E02-A, S01E04, S01E05, S01E07, S01E10, S01E11, S01E14
+S01E02-A, S01E04, S01E05, S01E06, S01E07, S01E10, S01E11, S01E14
 
 ---
 
