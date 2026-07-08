@@ -237,6 +237,19 @@ Do not reinterpret the lighting. Continue it.
 - No sudden camera reset
 - No tight framing
 
+> **Locked camera by default (Global Camera Stability Rule).**
+> The camera stays locked unless a camera move is explicitly required by the story beat AND
+> explicitly written in the shot document. OpenArt must never invent camera movement, sudden angle
+> changes, surprise reframing, or camera-follow on its own. The approved first frame defines the
+> camera angle, height, distance, framing and composition lock for the entire shot; the video must
+> not drift into a new angle later. Characters and small elements (leaves, butterflies, wind-driven
+> props) may move inside the frame, but the camera must not follow them — if an action would need
+> the camera to move to stay visible, redesign the shot so it fits the existing frame. When a shot
+> is meant to be visually stable, the OpenArt-facing prompt must say: "Locked camera only. No pan.
+> No zoom. No push-in. No pull-back. No camera movement. No reframing. No angle change. No reveal."
+> Full rule, "when movement is allowed", prompt-wording rule and failure pattern:
+> `00-CORE/18_OPENART_CONTINUITY_AND_MOTION_RULES.md` §18.
+
 ---
 
 ## Text Safety
@@ -913,4 +926,4 @@ This rule was added after discovering intra-shot background drift in generated v
 ---
 
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 4.1 — Shorts Üretim Kuralları Eklendi*
+*Versiyon: 4.2 — Global Camera Stability Rule cross-reference eklendi (bkz. 18_OPENART_CONTINUITY_AND_MOTION_RULES.md §18)*

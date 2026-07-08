@@ -672,6 +672,13 @@ QA kuralı:
 - [ ] Shot istenmeyen wide establishing frame'e dönmüyor.
 - [ ] Shot istenmeyen close-up'a push-in yapmıyor.
 
+### Camera Stability (§18 — Global Camera Stability Rule):
+- [ ] Locked camera ise prompt açıkça "Locked camera only. No pan. No zoom. No push-in. No pull-back. No camera movement. No reframing. No angle change. No reveal." içeriyor.
+- [ ] Prompt'ta "or minimal soft follow", "if needed", "gentle follow", "slight camera adjustment", "small cinematic movement" gibi belirsiz kamera dili YOK.
+- [ ] Kamera hareketi varsa tek, adı net verilmiş, basit ve yavaş bir hareket (ör. "Slow left-to-right pan only.") ve §18'in 5 koşulunun tümü sağlanıyor.
+- [ ] Kamera hareketli bir objeyi (yaprak, kelebek, rüzgârla hareket eden prop) takip etmiyor; hareketli objeler mevcut kompozisyon içinde kalıyor.
+- [ ] Kamera shot boyunca ilk frame açısına/yüksekliğine/mesafesine/framing'ine kilitli kalıyor; sonradan yeni bir açıya kaymıyor.
+
 ### Character Motion:
 - [ ] Karakterler doğal preschool-safe hareketle canlı görünüyor.
 - [ ] Diyalog görsel aksiyonla destekleniyor.
@@ -788,6 +795,17 @@ After continuity hold:
 - no tracking/reframing
 ```
 
+### Camera Stability (§18 — Global Camera Stability Rule)
+```
+- locked camera by default; camera locked to the approved first frame (angle, height, distance, framing, composition)
+- if the shot is locked, the OpenArt-facing prompt must state:
+  "Locked camera only. No pan. No zoom. No push-in. No pull-back. No camera movement. No reframing. No angle change. No reveal."
+- no vague camera language ("or minimal soft follow", "if needed", "gentle follow", "small cinematic movement")
+- camera does not follow leaves, butterflies, wind-driven props or any moving object
+- camera movement allowed ONLY if it is part of the story beat, explicitly written here, named clearly, simple/slow/readable, and does not create an unintended reveal
+- if a move is required, replace the locked-camera line with a single named move only (e.g. "Slow left-to-right pan only.")
+```
+
 ### Scale Continuity
 ```
 - existing character keeps @image1 scale
@@ -813,7 +831,7 @@ Her kategoriden uygun terimler seçilmelidir:
 
 ### Camera:
 ```
-camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lens, camera tracking, pan, tilt, zoom, push-in, pull-back, reframing
+camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lens, camera tracking, pan, tilt, zoom, push-in, pull-back, reframing, dolly, soft follow, gentle follow, camera chase, camera following object, camera inventing movement, sudden camera angle change, surprise reframing, unscripted reveal move, widening reset, wide shot turning into close-up, cinematic camera improvisation, camera reacting to moving object
 ```
 
 ### Lighting:
@@ -1022,3 +1040,147 @@ unrelated off-screen direction.
 
 > Bkz. QA: `00-CORE/MASTER_QA_CHECKLIST.md` ve `00-CORE/SCENE_QA_CHECKLIST.md`
 > "Pointing / Gaze Direction" kontrolü.
+
+---
+
+## 18. Global Camera Stability Rule (No Surprise Camera Change Rule)
+
+> **Kısa ad: GLOBAL CAMERA STABILITY RULE / NO SURPRISE CAMERA CHANGE RULE.**
+> Bu kural zorunludur ve gelecekteki TÜM Pompom Hills shot dokümanlarına ve OpenArt-facing
+> prompt'larına uygulanır. Bu tek seferlik bir Shot 03 düzeltmesi değildir; kalıcı bir global
+> production kuralıdır.
+>
+> **Neden:** OpenArt, prompt açıkça kamera hareketi istemese bile kendi kafasına göre kamera
+> hareketi, ani açı değişimi, sürpriz reframing veya hareketli bir objeyi takip (camera-follow)
+> uydurabiliyor. Bu, preschool storytelling için okunabilir, sakin ve stabil kompozisyonu bozar.
+> Bu kural bunu prompt tasarımıyla kalıcı olarak engeller.
+
+### The Rule
+
+For all Pompom Hills shots, the camera must stay locked unless a camera move is explicitly
+required by the story beat and explicitly written in the shot document.
+
+OpenArt must never invent camera movement on its own.
+
+The approved first frame defines the camera angle, camera height, camera distance, framing, and
+composition lock for the shot. The video must not drift into a new angle later in the shot.
+
+Characters may move inside the frame, but the camera must not react unless the shot explicitly
+says so.
+
+### What "Locked Camera" Means
+
+If a shot is written as **locked camera**, that means:
+
+- no pan
+- no tilt
+- no zoom
+- no push-in
+- no pull-back
+- no dolly
+- no tracking
+- no soft follow
+- no camera chase
+- no reframing
+- no angle change
+- no widening reset
+- no reveal move
+- no sudden composition change
+
+The camera angle, camera height, camera distance, framing, and composition are all locked to the
+approved first frame for the entire duration of the shot.
+
+### Moving Objects Do Not Move the Camera
+
+Objects such as leaves, butterflies, wind-driven props, or small moving elements must stay inside
+the existing composition. The camera must not follow them.
+
+If an object or character would require the camera to move in order to stay visible, then the shot
+must be redesigned so the action fits inside the existing frame. The environment and staging adapt
+to the locked camera — the camera does not adapt to the action.
+
+### Preschool Storytelling Preference
+
+For preschool storytelling, prefer:
+
+- locked camera
+- simple readable staging
+- motion inside frame
+- no dramatic camera invention
+- no cinematic improvisation by OpenArt
+
+### When Camera Movement Is Allowed
+
+Camera movement is allowed only if ALL of the following are true:
+
+1. the movement is part of the story beat
+2. the movement is explicitly written in the shot document
+3. the movement type is named clearly
+4. the movement is simple, slow, and readable
+5. the movement does not create a reveal that changes story meaning unintentionally
+
+If any one of these five is not satisfied, the shot is locked camera by default.
+
+### Prompt Wording Rule
+
+Shot prompts must never use vague camera language such as:
+
+- "or minimal soft follow"
+- "if needed"
+- "unless necessary"
+- "gentle follow"
+- "slight camera adjustment"
+- "small cinematic movement"
+
+Instead, prompts must be explicit:
+
+- "Locked camera only."
+
+or, if a camera move is truly required by the story beat and written in the shot document:
+
+- "Slow left-to-right pan only."
+- "Very slow push-in only."
+
+etc. The named movement must be the only movement allowed, and every other movement type stays
+forbidden.
+
+### Failure Pattern (Recurring Issue To Prevent)
+
+Without this rule, OpenArt may otherwise:
+
+- suddenly change camera angle
+- move closer to the character
+- start following a moving object
+- turn a wide shot into a close-up
+- reframe toward a tree/object
+- create a reveal that was never scripted
+
+These are production errors and must be prevented by prompt design, not fixed after the fact.
+
+### Implementation Instruction
+
+This new rule must be reflected in all future OpenArt shot prompts.
+
+Whenever a shot is intended to stay visually stable, the OpenArt-facing prompt should explicitly
+say:
+
+```text
+Locked camera only. No pan. No zoom. No push-in. No pull-back. No camera movement. No reframing. No angle change. No reveal.
+```
+
+If the story beat genuinely requires movement, replace this line with a single named, simple, slow
+move (e.g. "Slow left-to-right pan only." or "Very slow push-in only.") and keep every other
+camera movement type forbidden.
+
+### Negative Prompt Additions (Camera Stability)
+
+```text
+sudden camera angle change, surprise reframing, unintended camera movement, camera inventing movement, camera following object, camera chasing character, soft follow, gentle follow, camera drift to new angle, unscripted push-in, unscripted pull-back, unscripted zoom, unscripted pan, unscripted tilt, unscripted dolly, unscripted tracking, wide shot turning into close-up, close-up turning into wide shot, reframe toward tree, reframe toward object, unscripted reveal move, widening reset, cinematic camera improvisation, camera reacting to moving object
+```
+
+### Relationship To Other Camera Rules
+
+This rule builds on and does not replace: §2 First-Second Continuity Hold Rule, §3 Stable
+Composition vs Frozen Scene Rule, and the Camera Rules / Global OpenArt Continuity Locks in
+`00-CORE/17_VIDEO_GENERATION_STANDARD.md`. A locked camera still allows natural character motion
+inside the frame (§4, §4A). "Locked camera" locks the camera, not the characters.
