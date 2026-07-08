@@ -1,53 +1,34 @@
 Create the single canonical Hero View for Learning Room in the Pompom Hills preschool animation world.
 
-This must be a premium master world image, not a generic classroom, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, cosy, curious, soft, handcrafted, and spatially clear.
+This must be a premium master world image, not a generic classroom, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
 FORMAT AND COMPOSITION:
-Ultra-wide interior establishing shot, 16:9.
-Child-eye camera height, around 0.75 m.
-28 mm lens feeling.
-Wide, open, breathable composition with clear environmental depth.
-Learning Room is a warm wooden cottage interior with a big round activity table at centre.
-The image should guide the eye naturally from foreground to middle ground to horizon:
-Soft round rug and cushions in foreground → the big round wooden activity table with small chairs → the round chalkboard on the back wall with simple hand-drawn illustrations → the reading corner with bookshelves on the left → the creative corner with art supplies on the right → arched windows with warm morning sunlight streaming in.
+Ultra-wide establishing shot, 16:9.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
+Wide, open, breathable interior composition with clear spatial depth.
+The room is a warm wooden cabin interior with arched windows. The image should guide the eye naturally from foreground to middle ground to horizon:
+soft warm wooden floor with a round pastel rug → a large round wooden activity table with small chairs → a round chalkboard on the back wall with simple drawings → low shelves with books, plants, and art supplies → arched windows showing soft daylight and green trees outside.
 
 PRIMARY WORLD IDENTITY:
 Learning Room must be instantly recognisable from this image alone.
-The big round wooden activity table (LR-TABLE-01) at the centre of the room is the iconic landmark.
-The round chalkboard (LR-BOARD-01) on the back wall with simple friendly chalk drawings — sun, mountain, tree, butterfly, rainbow — anchors the learning purpose.
-This is the cosy room where children gather to learn, create, and discover together.
-Morning sunlight pours through arched windows, making everything warm and inviting.
+It is a warm wooden cabin interior with a round activity table, a chalkboard, and cozy learning corners.
+At the centre, a large round wooden table with 4-6 small round chairs in pastel colours invites group activities. Behind it, a round chalkboard shows simple chalk drawings — a smiling sun, a mountain, a butterfly. Low wooden shelves line the walls with books facing outward, small potted plants, wooden toys, and art supplies. A soft reading corner with cushions sits at one end.
 
 ENVIRONMENT:
-A warm wooden cottage interior with cream walls and wooden floors.
-A big round wooden activity table sits at the centre with 4-6 small round chairs.
-A large round chalkboard on the back wall shows simple hand-drawn chalk illustrations.
-A reading corner in the left corner features a soft rug, cushions, a small bookshelf, a lantern, and stuffed animals.
-A creative corner in the right corner holds paper, crayons, coloured pencils, wooden blocks, clay, and nature collections.
-Low wooden shelves line the side walls with books, baskets, and indoor plants.
-Arched windows on the left wall let warm morning sunlight stream in.
-Round wooden ceiling beams add warmth above.
-The atmosphere is cosy, curious, and safe.
+Warm natural wood covers the walls, floor, and ceiling with rounded beams and gentle grain. Arched windows let in soft golden daylight and show green trees and soft sky outside. The round activity table is warm honey wood. Small round chairs in pastel pink, blue, yellow, and green surround it. Low shelves hold books facing outward, small potted plants, wooden blocks, and art supplies. A round chalkboard on the back wall shows simple hand-drawn chalk illustrations. A soft reading corner has a round rug, floor cushions in warm tones, and a small bookshelf. Everything is warm, natural, and child-scaled.
 
 COLOUR DIRECTION:
-Walls are warm cream (#FFF8E1).
-Floor is warm wood (#D7CCC8).
-Furniture is natural wood (#BCAAA4).
-Accent colours are soft pastels: green, pink, yellow, blue.
-Chalkboard has simple colourful chalk drawings.
-Books, crayons, and blocks add pops of colour.
-Avoid cold blue, dark grey, or black tones.
-This is the warmest and most intimate world in Pompom Hills — a safe indoor haven.
+Use warm natural wood tones — honey, amber, soft brown — as the dominant base. Pastel accents come from the chairs, cushions, and book covers — soft pink, gentle blue, warm yellow, fresh green. The chalkboard is soft grey-green with white chalk drawings. Daylight through the windows is warm gold. Plants add natural green accents. Avoid cold, clinical, or fluorescent colours. The overall feeling is warm, natural, cozy, and inviting.
 
 STYLE:
 Pompom Hills visual language.
 High-quality preschool animation environment.
-Cosy cottage interior with toy-set materials.
-Warm pastel palette.
+Soft pastel palette with warm wood tones.
 Matte handcrafted toy-set materials.
 Rounded safe shapes.
 Gentle storybook charm.
-Warm morning sunlight from the left windows.
+Warm natural daylight from arched windows.
 Soft golden warmth.
 Soft shadows.
 Medium-low contrast.
@@ -63,27 +44,23 @@ No extreme saturation.
 No overly polished Pixar-like hyper-gloss look.
 
 MOOD:
-Cosy, curious, safe.
-Children feel warm and welcome, wanting to sit at the table and make something.
-The world invites learning, creativity, and quiet discovery.
+Warm, curious, cozy, inviting, safe, and emotionally nurturing.
+It should feel like a place where children would settle in, pick up a book, and discover something wonderful.
+The scene should feel like a warm embrace that encourages learning through wonder and gentle exploration.
 
 IMPORTANT DIFFERENTIATION:
-Do not make it look like Art Corner.
-Do not make it look like Painting Garden.
-Do not make it look like Tillo's Garden.
-Do not make it look like Friendship Meadow.
-Do not make it look like Rainbow Bridge.
+Do not make it look like Art Corner (outdoor open-air studio with easels, not indoor room).
+Do not make it look like a real school classroom (too formal, too structured, too many desks).
+Do not make it look like Poppy's Bakery (food-focused with oven, not learning-focused).
+Do not make it look like Kiko's Home (a home living room, not a dedicated learning space).
+Do not make it look like a library (too quiet, too many books on tall shelves — this is active learning).
 
 FORBIDDEN:
 No text, no labels, no signs, no logo, no map marker, no title, no caption.
 No characters, no children, no rabbits, no animals, no birds.
-No readable text or writing on the chalkboard.
-No modern classroom furniture like metal desks or plastic chairs.
-No technology like tablets, computers, or screens.
-No sharp corners anywhere.
-No cold or fluorescent lighting.
-No cluttered, disorganised shelves.
-No licensed characters or logos.
+No fluorescent lights, no whiteboards, no computers, no screens, no projectors.
+No desks in rows, no teacher's desk, no classroom rules posters, no clock on wall.
+No sharp corners, no metal fixtures, no glass display cases, no filing cabinets.
 No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
-The final image must feel like the definitive Learning Room Hero View: iconic, readable, reusable, cosy, curious, and unmistakably Pompom Hills.
+The final image must feel like the definitive Learning Room Hero View: iconic, readable, reusable, warm, curious, cozy, and unmistakably Pompom Hills.

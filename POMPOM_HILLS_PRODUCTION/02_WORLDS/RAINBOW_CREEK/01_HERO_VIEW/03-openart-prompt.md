@@ -1,45 +1,30 @@
 Create the single canonical Hero View for Rainbow Creek in the Pompom Hills preschool animation world.
 
-This must be a premium master world image, not a generic stream, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, peaceful, calm, soft, handcrafted, and spatially clear.
+This must be a premium master world image, not a generic stream, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
 FORMAT AND COMPOSITION:
 Ultra-wide establishing shot, 16:9.
-Child-eye camera height, around 1.20 m.
-28 mm lens feeling.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
 Wide, open, breathable composition with clear environmental depth.
-Rainbow Creek features a shallow clear stream lined with rainbow-coloured stones and a small wooden bridge.
-The image should guide the eye naturally from foreground to middle ground to horizon:
-Green plants and colourful flowers on the bank in foreground → smooth round rainbow-coloured stones lining the creek → the clear sparkling water flowing gently → the small rounded wooden bridge at midpoint → green banks and soft sky above.
+The creek flows gently between Stone Hill and Flower Hill through a soft green valley. The image should guide the eye naturally from foreground to middle ground to horizon:
+colourful round pebbles along the creek bank → clear shallow water flowing over smooth rainbow stones → a small round wooden bridge crossing the creek → soft green grass banks with wildflowers and reeds → distant soft hills under warm blue sky.
 
 PRIMARY WORLD IDENTITY:
 Rainbow Creek must be instantly recognisable from this image alone.
-The small, low, round wooden bridge crossing the creek at its midpoint is the iconic landmark.
-Smooth round rainbow-coloured stones — pink, yellow, blue, green — line both banks.
-Clear shallow water reveals small friendly fish gliding beneath the surface.
-This is the stream where you sit on a colourful stone and watch the fish glide by.
+It is a gentle shallow creek with crystal-clear water flowing over rainbow-coloured round stones, crossed by a small wooden bridge.
+The creek bed is lined with smooth round stones in pink, yellow, blue, and green — giving the water a rainbow shimmer in sunlight. A small round wooden bridge with safe railings crosses at the midpoint. Small fish are visible through the clear water.
 
 ENVIRONMENT:
-A shallow, clear creek with gentle sparkling water flowing over a smooth bed.
-Round rainbow-coloured stones line both banks — pink (#F48FB1), yellow (#FFD54F), blue (#42A5F5), green (#66BB6A).
-A small, low, round wooden bridge with railings spans the creek at its midpoint.
-Green plants and colourful flowers scatter along the banks.
-A few leaves float gently on the water surface.
-Sunlight sparkles across the moving water.
-The atmosphere is peaceful, natural, and meditative.
+Clear shallow water flows gently over smooth round stones, no deeper than a child's ankle. The creek banks are soft green grass with clusters of pastel wildflowers — pink, yellow, white. Tall green reeds sway gently at the edges. Small round fish are visible through the crystal-clear water. A small round wooden bridge with safe rounded railings crosses the creek at the midpoint. Distant soft hills frame the background under warm blue sky. The creek feels like a gentle natural waterway, peaceful and alive with quiet movement.
 
 COLOUR DIRECTION:
-Water is clear light blue (#E3F2FD) with sunlight sparkle.
-Stone colours: pink, yellow, blue, green — soft and inviting.
-Bridge is natural wood (#A1887F).
-Plants and flowers are fresh green (#66BB6A) with colourful accents.
-Avoid dark blue-grey, black, or cold tones.
-This world is the most peaceful and natural in Pompom Hills — a quiet water retreat.
+Use fresh, clear, natural tones. The water is crystal-clear with rainbow reflections from the coloured stones beneath — soft pink, warm yellow, gentle blue, fresh green. The grass is warm green. Reeds are deeper green. Wildflowers add gentle pastel accents. The bridge is warm honey wood. Avoid dark, murky, or cold water colours. The overall feeling is clean, fresh, and rainbow-kissed by the stones below.
 
 STYLE:
 Pompom Hills visual language.
 High-quality preschool animation environment.
-Natural waterway world with toy-set materials.
-Soft natural palette.
+Soft pastel palette with rainbow stone accents.
 Matte handcrafted toy-set materials.
 Rounded safe shapes.
 Gentle storybook charm.
@@ -59,27 +44,23 @@ No extreme saturation.
 No overly polished Pixar-like hyper-gloss look.
 
 MOOD:
-Peaceful, calm, meditative.
-Children feel serene and curious, wanting to sit and watch the water flow.
-The world whispers of quiet moments and gentle nature.
+Peaceful, meditative, natural, inviting, safe, and emotionally calming.
+It should feel like a place where children would skip stones, watch fish, and listen to the gentle water.
+The scene should feel like nature's quietest, most beautiful moment — a creek that whispers rather than roars.
 
 IMPORTANT DIFFERENTIATION:
-Do not make it look like Rainbow Bridge.
-Do not make it look like Tillo's Garden.
-Do not make it look like Friendship Meadow.
-Do not make it look like Painting Garden.
-Do not make it look like Art Corner.
+Do not make it look like Wish Pond (a still reflecting pond with star reflections, not a flowing creek).
+Do not make it look like Milo's Pond (a lily pad pond with reeds and dock, not a flowing creek).
+Do not make it look like Paddle Cove (a coastal cove with boats, not a creek).
+Do not make it look like Stone Hill (a stone climbing hill, not a waterway).
+Do not make it look like Rainbow Bridge (an elevated rainbow bridge, not a ground-level creek).
 
 FORBIDDEN:
 No text, no labels, no signs, no logo, no map marker, no title, no caption.
 No characters, no children, no rabbits, no animals, no birds.
-No deep or murky water.
-No fast rushing rapids or waterfall.
-No generic drainage ditch look.
-No cold blue-grey water tone.
-No dark overhanging vegetation.
-No thorny plants or scary creatures.
-No sharp rocky edges.
+No deep water, no rapids, no waterfalls, no dams, no pools, no swimming.
+No dark or murky water, no muddy banks, no pollution, no litter.
+No modern bridges, no concrete, no steel, no fences, no roads alongside.
 No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
-The final image must feel like the definitive Rainbow Creek Hero View: iconic, readable, reusable, peaceful, calm, and unmistakably Pompom Hills.
+The final image must feel like the definitive Rainbow Creek Hero View: iconic, readable, reusable, peaceful, fresh, rainbow-kissed, and unmistakably Pompom Hills.

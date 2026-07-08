@@ -1,47 +1,30 @@
 Create the single canonical Hero View for Tillo's Garden in the Pompom Hills preschool animation world.
 
-This must be a premium master world image, not a generic garden, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, nurturing, calm, soft, handcrafted, and spatially clear.
+This must be a premium master world image, not a generic garden, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
 FORMAT AND COMPOSITION:
 Ultra-wide establishing shot, 16:9.
 Child-eye camera height, around 0.80 m.
 35 mm lens feeling.
 Wide, open, breathable composition with clear environmental depth.
-Tillo's Garden features round flower beds with growing plants and soft earthy soil.
-The image should guide the eye naturally from foreground to middle ground to horizon:
-Soft brown soil and grass in foreground → round flower beds with sprouting plants → Tillo's tool corner with straw hat and watering can → the watering point → trees and warm sky above.
+The garden sits on a gentle flat area near Flower Hill. The image should guide the eye naturally from foreground to middle ground to horizon:
+soft brown soil with tiny green sprouts emerging → round raised wooden beds with growing plants and flowers at various stages → Tillo's straw hat on a post and blue watering can nearby → warm green grass edges with small bushes → distant soft hills and warm blue sky.
 
 PRIMARY WORLD IDENTITY:
 Tillo's Garden must be instantly recognisable from this image alone.
-The round, low flower beds filled with soft brown soil and healthy growing plants are the iconic landmark.
-Tillo's straw hat and blue watering can sit together in the tool corner.
-This is the place where seeds grow and patience is rewarded.
-The garden teaches children that good things take time.
+It is a nurturing vegetable and flower garden with round raised beds, soft soil, and growing things at various stages of life.
+At the centre, round low wooden raised beds hold small green plants, young sprouts, and colourful flowers. Tillo's straw hat hangs on a wooden post beside the beds. A round blue watering can sits nearby. A small wooden tool shelf holds gentle garden tools — a small trowel, a seed box. The garden feels alive with growth, patience, and care.
 
 ENVIRONMENT:
-Round, low flower beds with visible soft brown soil (#8D6E63).
-Healthy green plants sprout from the beds at various stages of growth.
-Natural wooden tools — a round straw hat, blue watering can, small wooden shovel.
-A small wooden seed box sits nearby.
-Soft green grass surrounds the beds.
-Warm golden sunlight bathes the entire garden.
-A small round sunflower stands tallest among the growing plants.
-The atmosphere is patient, nurturing, and earthy.
+Soft warm brown soil fills the raised beds, looking rich and inviting. Round low wooden borders contain the growing areas with gentle curved edges. Small green sprouts, young plants at different heights, and blooming flowers show the passage of time and the beauty of growth. A round blue watering can, a straw hat, and a small wooden seed box sit near the beds. Round green bushes and two small pompom trees frame the edges. Fresh warm green grass surrounds the garden area. Distant soft hills under warm blue sky complete the background. The garden feels peaceful, patient, and full of quiet promise.
 
 COLOUR DIRECTION:
-Warm earth palette: brown soil (#8D6E63), green grass (#C8E6C9).
-Flower colours: soft yellow (#FFD54F), gentle red (#EF5350), warm pink (#F48FB1).
-Natural wood tones for tools (#A1887F).
-Straw hat is warm cream (#FFF9C4).
-Blue watering can (#42A5F5) adds a friendly accent.
-Avoid cold blue, dark grey, or black tones.
-This world is grounded, warm, and natural — the most earthy palette in Pompom Hills.
+Use warm earthy tones — soft brown soil, fresh green sprouts at various shades, warm honey wood for the beds and tools. Flowers add gentle pops of pink, yellow, orange, and soft purple. The watering can is soft blue. The straw hat is warm golden. The sky is warm blue with gentle clouds. Avoid cold, dark, or muddy colours. The overall feeling is warm, nurturing, and alive with the quiet energy of growing things.
 
 STYLE:
 Pompom Hills visual language.
 High-quality preschool animation environment.
-Natural gardening world with toy-set materials.
-Soft earthy palette.
+Soft pastel palette with warm earthy accents.
 Matte handcrafted toy-set materials.
 Rounded safe shapes.
 Gentle storybook charm.
@@ -61,29 +44,23 @@ No extreme saturation.
 No overly polished Pixar-like hyper-gloss look.
 
 MOOD:
-Patient, nurturing, hopeful.
-Children feel calm and curious, wanting to plant something and watch it grow.
-The world whispers of growth, care, and the beauty of waiting.
+Nurturing, patient, hopeful, warm, inviting, safe, and emotionally gentle.
+It should feel like a place where children would plant seeds, water plants, and watch them grow with wonder and patience.
+The scene should feel like a gentle promise that good things take time and care.
 
 IMPORTANT DIFFERENTIATION:
-Do not make it look like Painting Garden.
-Do not make it look like Rainbow Creek.
-Do not make it look like Friendship Meadow.
-Do not make it look like Benny's Playground.
-Do not make it look like Learning Room.
+Do not make it look like Flower Hill (wild flowers covering a hillside, not cultivated raised beds).
+Do not make it look like Lulu's Greenhouse (glass structure with tropical plants, not open garden beds).
+Do not make it look like Painting Garden (art-focused with easels, not garden-focused with soil).
+Do not make it look like Rosie's Rose Garden (rose labyrinth with fountain, not vegetable and flower beds).
+Do not make it look like a commercial farm, greenhouse, or botanical garden.
 
 FORBIDDEN:
 No text, no labels, no signs, no logo, no map marker, no title, no caption.
 No characters, no children, no rabbits, no animals, no birds.
-No thorny plants.
-No sharp or metal tools.
-No fast or hurried movement.
-No large or unsafe holes.
-No mess or overgrowth.
-No frightening insects.
-No cold or dim colour palette.
+No sharp tools, no machinery, no tractors, no irrigation systems, no hoses.
+No large vegetables, no giant pumpkins, no oversized produce, no harvest abundance.
+No dark soil, no muddy patches, no dead plants, no weeds, no wilted flowers.
 No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
-No greenhouse structures, no plastic planters, no modern gardening equipment.
-No wilting or dying plants — everything is healthy and growing.
 
-The final image must feel like the definitive Tillo's Garden Hero View: iconic, readable, reusable, patient, nurturing, and unmistakably Pompom Hills.
+The final image must feel like the definitive Tillo's Garden Hero View: iconic, readable, reusable, nurturing, patient, warm, and unmistakably Pompom Hills.

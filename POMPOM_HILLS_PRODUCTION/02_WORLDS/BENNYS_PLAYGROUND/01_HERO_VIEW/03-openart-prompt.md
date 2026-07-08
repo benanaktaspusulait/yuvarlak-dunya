@@ -1,47 +1,30 @@
 Create the single canonical Hero View for Benny's Playground in the Pompom Hills preschool animation world.
 
-This must be a premium master world image, not a generic playground, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, energetic, fun, soft, handcrafted, and spatially clear.
+This must be a premium master world image, not a generic playground, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
 FORMAT AND COMPOSITION:
 Ultra-wide establishing shot, 16:9.
-Child-eye camera height, around 0.85 m.
-28 mm lens feeling.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
 Wide, open, breathable composition with clear environmental depth.
-Benny's Playground features a round blue slide at centre, red and yellow swings, an orange climbing hill, and a colourful ball pit.
-The image should guide the eye naturally from foreground to middle ground to horizon:
-Soft plush green grass in foreground → the round blue slide at centre → red and yellow swings to the left → the orange climbing hill to the right → the ball pit with colourful balls in background → warm sunshine and soft sky.
+The playground sits on a gentle flat area near Central Square. The image should guide the eye naturally from foreground to middle ground to horizon:
+colourful soft ground surface in pastel sections → two round swings hanging from a curved wooden frame → a gentle curved slide wrapping around a small climbing hill → a shallow ball pit filled with colourful balls → distant soft trees and warm blue sky.
 
 PRIMARY WORLD IDENTITY:
 Benny's Playground must be instantly recognisable from this image alone.
-The one round blue slide at the centre of the play space is the iconic landmark.
-Red and yellow swings flank the slide on the left.
-The orange climbing hill rises gently on the right.
-The colourful ball pit filled with red, yellow, blue, green, and purple balls completes the scene.
-This is the park where children run in to swing, slide, and jump right away.
+It is a joyful, colourful playground with round soft equipment — swings, a curved slide, a climbing hill, and a ball pit.
+Two round swings hang from a curved wooden frame with soft rope. A gentle curved slide in warm orange wraps around a small green climbing hill with round soft steps. A shallow ball pit with red, yellow, blue, and green balls sits in a soft-sided enclosure. Everything is round, soft, and toy-like.
 
 ENVIRONMENT:
-A round, open-air play space with soft plush green grass.
-A round blue slide stands at the centre, wide and inviting.
-Two round swings — one red, one yellow — hang from soft plastic-coated chains.
-A low, rounded orange climbing hill with soft steps rises gently.
-A round ball pit filled with colourful balls sits in the background.
-A colourful entrance gate with a welcome sign marks the entry.
-A soft wooden bench sits in the shaded rest corner.
-The atmosphere is bright, energetic, and joyful.
+Soft pastel-coloured ground surface covers the playground in sections — warm pink, gentle yellow, soft blue. Two round wooden swing frames with soft seats hang from curved wooden arches. A curved slide in warm orange wraps around a small green climbing hill with round soft steps leading up. A shallow ball pit filled with colourful round balls sits in a soft-sided circular enclosure. Round green bushes frame the edges. Two small pompom trees provide shade at the rest area. Distant soft hills under warm blue sky complete the background.
 
 COLOUR DIRECTION:
-Equipment colours: blue slide (#42A5F5), red swing (#EF5350), yellow swing (#FFEE58), orange hill (#FFB74D).
-Ball pit balls: red, yellow, blue, green, purple.
-Grass is soft green (#A5D6A7).
-Sky is warm and bright.
-Avoid cold colours, dark tones, or muted palettes.
-This is one of the most energetic and playful worlds in Pompom Hills.
+Use bright, cheerful, joyful colours. The equipment uses warm orange, soft blue, gentle yellow, and fresh green. The ground surface uses soft pastel sections in pink, yellow, and blue. The balls are primary colours — red, yellow, blue, green. The grass surrounding the playground is warm green. The sky is soft blue with gentle clouds. Avoid dark, muted, or cold colours. The overall feeling is energetic, happy, and alive with playful joy.
 
 STYLE:
 Pompom Hills visual language.
 High-quality preschool animation environment.
-Round playground world with toy-set materials.
-Bright playful palette.
+Soft pastel palette with bright playful accents.
 Matte handcrafted toy-set materials.
 Rounded safe shapes.
 Gentle storybook charm.
@@ -61,30 +44,23 @@ No extreme saturation.
 No overly polished Pixar-like hyper-gloss look.
 
 MOOD:
-Energetic, fun, free.
-Children feel excited and happy, wanting to run in and play immediately.
-The world invites movement, laughter, and friendship.
+Energetic, joyful, playful, inviting, safe, and emotionally exciting.
+It should feel like a place where children would run, swing, slide, and laugh with pure delight.
+The scene should feel like childhood happiness made physical — every surface inviting movement and joy.
 
 IMPORTANT DIFFERENTIATION:
-Do not make it look like Friendship Meadow.
-Do not make it look like Art Corner.
-Do not make it look like Tillo's Garden.
-Do not make it look like Painting Garden.
-Do not make it look like Rainbow Bridge.
+Do not make it look like Hobby Horse Trail (a nature path with hobby horses, not playground equipment).
+Do not make it look like Adventure Trail (a winding nature trail, not a playground).
+Do not make it look like Arda's Home garden (a home garden with swing, not a public playground).
+Do not make it look like a real modern playground with metal equipment and asphalt.
+Do not make it look like a theme park, amusement park, or fairground.
 
 FORBIDDEN:
 No text, no labels, no signs, no logo, no map marker, no title, no caption.
 No characters, no children, no rabbits, no animals, no birds.
-No metal equipment.
-No tall or dangerous structures.
-No sharp corners anywhere.
-No fast or dangerous movement.
-No broken equipment.
-No cold colours.
-No hard ground surface.
-No dark or threatening lighting.
-No large crowds.
-No competitive scoring elements.
+No metal equipment, no chains, no sharp edges, no tall structures, no towers.
+No realistic playground bolts, no concrete surfaces, no asphalt, no rubber matting.
+No dark or scary equipment, no broken pieces, no rusty parts.
 No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
-The final image must feel like the definitive Benny's Playground Hero View: iconic, readable, reusable, energetic, fun, and unmistakably Pompom Hills.
+The final image must feel like the definitive Benny's Playground Hero View: iconic, readable, reusable, joyful, playful, colourful, and unmistakably Pompom Hills.

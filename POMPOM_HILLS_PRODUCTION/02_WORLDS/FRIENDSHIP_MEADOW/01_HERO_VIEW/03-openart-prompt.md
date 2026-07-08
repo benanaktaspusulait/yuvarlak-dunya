@@ -1,46 +1,30 @@
 Create the single canonical Hero View for Friendship Meadow in the Pompom Hills preschool animation world.
 
-This must be a premium master world image, not a generic field, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, open, joyful, soft, handcrafted, and spatially clear.
+This must be a premium master world image, not a generic field, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
 FORMAT AND COMPOSITION:
 Ultra-wide establishing shot, 16:9.
-Child-eye camera height, around 0.85 m.
-28 mm lens feeling.
+Child-eye camera height, around 0.80 m.
+35 mm lens feeling.
 Wide, open, breathable composition with clear environmental depth.
-Friendship Meadow features a wide green meadow with colourful kites drifting overhead and a gentle rounded hill at the edge.
-The image should guide the eye naturally from foreground to middle ground to horizon:
-Soft green grass with flower clusters in foreground → the wide open meadow stretching outward → colourful round kites drifting in the sky → a gentle rounded hill silhouette at the edge → warm blue sky with soft clouds.
+The meadow is a wide gentle green space near Central Square. The image should guide the eye naturally from foreground to middle ground to horizon:
+soft green grass with scattered wildflowers → a round pastel picnic blanket with a woven basket → colourful kites resting on the grass and drifting in the sky → a gentle hill with a circle of round sitting stones at the top → distant soft hills and warm blue sky.
 
 PRIMARY WORLD IDENTITY:
 Friendship Meadow must be instantly recognisable from this image alone.
-The cluster of 2-3 colourful round kites drifting in the sky above the wide open meadow is the iconic landmark.
-The gentle rounded hill silhouette at the meadow's edge provides a soft anchor.
-This is the big grassy field where friends fly kites and share picnics together.
-The meadow is the open-hearted gathering place of Pompom Hills.
+It is a wide, warm, inviting meadow where children gather for picnics, kite flying, and group play.
+A round pastel picnic blanket with a small woven basket sits at the centre-left. Two or three colourful diamond-shaped kites — red, blue, yellow — rest on the grass nearby, with one or two drifting gently in the sky above. A gentle hill rises at the back with a circle of round sitting stones at the summit.
 
 ENVIRONMENT:
-A wide, open green meadow with soft short grass.
-Colourful round kites — red, yellow, blue — drift gently in the breeze.
-A gentle rounded hill rises at the meadow's edge.
-Clusters of colourful flowers — red, yellow, purple — mark the path edges.
-3-4 round, wide trees with soft green foliage frame the sides.
-Smooth grey stepping stones mark the entrance path.
-The atmosphere is open, breezy, and full of togetherness.
+Soft warm green grass covers the entire meadow, looking freshly mown and inviting. Scattered wildflowers in pink, yellow, and white dot the grass in natural clusters. A round pastel picnic blanket with a small woven basket sits invitingly at the centre. Colourful kites — red, blue, yellow — rest on the grass or drift gently in the sky above, their strings trailing down. A gentle hill at the back has a circle of round sitting stones at the summit. Round green bushes and two small pompom trees frame the edges. Distant soft hills complete the background under warm blue sky with gentle clouds.
 
 COLOUR DIRECTION:
-Grass is warm green (#81C784) with natural wave patterns.
-Kites are bright: red, yellow, blue, green, purple.
-Flower clusters: red, yellow, purple.
-Trees are fresh green (#66BB6A) with soft brown trunks.
-Sky is clear and bright.
-Avoid narrow, cramped, or dark colour schemes.
-This is the most open and expansive world in Pompom Hills — wide skies, wide grass, wide freedom.
+Use warm, cheerful, welcoming colours. The grass is fresh warm green. Wildflowers add gentle pink, yellow, and white accents. The kites provide pops of red, blue, and yellow against the sky. The picnic blanket is pastel with soft patterns. The sky is warm blue with gentle fluffy clouds. Avoid cold, dark, or muted colours. The overall feeling is warm, friendly, and full of gentle life and togetherness.
 
 STYLE:
 Pompom Hills visual language.
 High-quality preschool animation environment.
-Open meadow world with natural materials.
-Bright natural palette.
+Soft pastel palette with warm cheerful accents.
 Matte handcrafted toy-set materials.
 Rounded safe shapes.
 Gentle storybook charm.
@@ -60,27 +44,23 @@ No extreme saturation.
 No overly polished Pixar-like hyper-gloss look.
 
 MOOD:
-Open, joyful, free.
-Children feel excited to run, fly kites, and share moments with friends.
-The world invites togetherness, play, and wide-open freedom.
+Warm, friendly, welcoming, joyful, safe, and emotionally connecting.
+It should feel like a place where children would spread a blanket, fly kites, and share snacks together.
+The scene should feel like friendship itself — open, generous, happy, and full of gentle warmth.
 
 IMPORTANT DIFFERENTIATION:
-Do not make it look like Benny's Playground.
-Do not make it look like Tillo's Garden.
-Do not make it look like Rainbow Bridge.
-Do not make it look like Painting Garden.
-Do not make it look like Rainbow Creek.
+Do not make it look like Butterfly Meadow (butterfly-focused meadow, not friendship-gathering meadow).
+Do not make it look like Pony Meadow (pony-focused meadow, not group-play focused).
+Do not make it look like Flower Hill (wild hillside flowers, not a gathering meadow).
+Do not make it look like Adventure Trail (a winding path, not a wide gathering space).
+Do not make it look like a generic park, sports field, or public garden.
 
 FORBIDDEN:
 No text, no labels, no signs, no logo, no map marker, no title, no caption.
 No characters, no children, no rabbits, no animals, no birds.
-No empty bare field with nothing to anchor the eye.
-No narrow or cramped space.
-No sharp corners anywhere.
-No modern playground equipment.
-No competitive game markings like goals, lines, or scoreboards.
-No large crowds — a few friends is enough.
-No dark or gloomy lighting.
+No sports equipment, no goals, no nets, no competition elements, no race markers.
+No modern picnic tables, no benches, no trash cans, no paved paths, no parking.
+No dense trees, no forest, no buildings, no structures beyond the stone circle on the hill.
 No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
-The final image must feel like the definitive Friendship Meadow Hero View: iconic, readable, reusable, open, joyful, and unmistakably Pompom Hills.
+The final image must feel like the definitive Friendship Meadow Hero View: iconic, readable, reusable, warm, welcoming, joyful, and unmistakably Pompom Hills.

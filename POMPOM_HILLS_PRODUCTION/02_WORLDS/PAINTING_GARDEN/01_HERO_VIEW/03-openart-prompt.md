@@ -1,48 +1,30 @@
 Create the single canonical Hero View for Painting Garden in the Pompom Hills preschool animation world.
 
-This must be a premium master world image, not a generic garden, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, colourful, calm, soft, handcrafted, and spatially clear.
+This must be a premium master world image, not a generic flower garden, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
 FORMAT AND COMPOSITION:
 Ultra-wide establishing shot, 16:9.
 Child-eye camera height, around 0.80 m.
 35 mm lens feeling.
 Wide, open, breathable composition with clear environmental depth.
-Painting Garden features four distinct colour zones of round painterly flowers, a canvas on easel, and a white fence surrounding the space.
-The image should guide the eye naturally from foreground to middle ground to horizon:
-Soft grass with paint splashes in foreground → red and yellow flower clusters → the white canvas on easel centre-right and paint pots centre-left → purple and blue flower clusters → white fence and fresh green trees → soft blue sky.
+The garden sits on a gentle flat area near Little Forest and Art Corner. The image should guide the eye naturally from foreground to middle ground to horizon:
+soft green grass with scattered paint splatters → four colour zones of flowers (red, blue, yellow, purple) arranged in quadrants → a white wooden canvas on an easel at the centre with round paint pots beside it → low white rounded fence with ball-top finials surrounding the garden → distant trees and soft blue sky.
 
 PRIMARY WORLD IDENTITY:
 Painting Garden must be instantly recognisable from this image alone.
-The four colour zones — red, yellow, blue, purple — each with round painterly flowers, are the iconic landmark.
-The white canvas on a wooden easel centre-right and pastel paint pots centre-left anchor the creative purpose.
-The soft white rounded fence surrounds the garden, creating a safe, inviting boundary.
-Every flower looks like a brushstroke — this is a garden painted by nature and children together.
+It is a garden where each flower cluster looks like a brushstroke come to life, with four distinct colour zones and art supplies at the centre.
+Four rounded flower clusters fill the quadrants: red (#EF5350) top-left, yellow (#FFEE58) top-right, purple (#AB47BC) bottom-left, blue (#42A5F5) bottom-right. Each cluster has 5-7 round flowers that look like brushstrokes, not realistic petals. At the centre, a white wooden easel holds a blank canvas. Round pastel paint pots in six colours sit nearby.
 
 ENVIRONMENT:
-Four round clusters of painterly flowers, each a single colour: red (#EF5350), blue (#42A5F5), yellow (#FFEE58), purple (#AB47BC).
-A white canvas on a wooden easel stands centre-right, unpainted and waiting.
-Round pastel paint pots sit centre-left with six different colours.
-A soft white rounded fence (#FAFAFA) surrounds the entire garden.
-Two fresh green trees frame the sides.
-Warm sand path leads to the entrance.
-The atmosphere is colourful, joyful, and artistic.
+Soft green grass covers the ground throughout. Four distinct flower clusters in red, blue, yellow, and purple are arranged in quadrants — each cluster is round and full, with flowers that look like thick brushstrokes painted onto the landscape. A white wooden easel with blank canvas stands at the centre-right. Round pastel paint pots — red, blue, yellow, green, purple, orange — sit at centre-left on the grass. A low white rounded fence with ball-top finials surrounds the entire garden. Two fresh green trees frame the left and right edges, their leaves gently swaying. Warm sand-coloured paths lead to the entrance gates.
 
 COLOUR DIRECTION:
-Four primary flower colours at maximum contrast and harmony: red, blue, yellow, purple.
-Grass is warm green (#81C784).
-Trees are fresh green (#66BB6A) with soft brown trunks (#A1887F).
-Fence is soft white (#FAFAFA).
-Path is warm sand (#FFE0B2).
-Sky is clear blue (#81D4FA).
-Canvas is white (#FFFFFF).
-This is one of the most colourful worlds in Pompom Hills — every corner tells a different colour story.
-Avoid cool blue shifts, desaturation, or neon oversaturation.
+Use four bold but controlled colour zones — red, blue, yellow, purple — as the primary palette. The flowers should feel like fresh paint on canvas, vivid but not neon. The grass is warm green with tiny paint splatters adding spontaneous colour. The fence is clean white (#FAFAFA). The sky is soft blue with gentle clouds. Avoid muddy, dark, or desaturated colours. Each colour zone should be distinct but harmonious together. The overall feeling is vibrant, artistic, and alive with colour and creativity.
 
 STYLE:
 Pompom Hills visual language.
 High-quality preschool animation environment.
-Colourful artistic garden with toy-set materials.
-Hand-painted colour palette.
+Soft pastel palette with bold colour-zone accents.
 Matte handcrafted toy-set materials.
 Rounded safe shapes.
 Gentle storybook charm.
@@ -62,28 +44,23 @@ No extreme saturation.
 No overly polished Pixar-like hyper-gloss look.
 
 MOOD:
-Colourful, joyful, artistic.
-Children feel curious and creative, wanting to paint and discover colours.
-The world invites beauty and shared creation.
+Creative, colourful, joyful, inviting, safe, and emotionally inspiring.
+It should feel like a place where children would pick flowers by colour, paint on the canvas, and discover that nature is art.
+The scene should feel like stepping inside a living painting — every flower a brushstroke, every leaf a colour choice.
 
 IMPORTANT DIFFERENTIATION:
-Do not make it look like Art Corner.
-Do not make it look like Tillo's Garden.
-Do not make it look like Rainbow Bridge.
-Do not make it look like Friendship Meadow.
-Do not make it look like Rainbow Creek.
+Do not make it look like Art Corner (easel-focused outdoor studio with paint supplies, not garden-focused with flower quadrants).
+Do not make it look like Flower Hill (wild hillside flowers with no structure, not colour-zoned garden).
+Do not make it look like Rosie's Rose Garden (rose labyrinth with fountain and heart beds, not colour quadrants).
+Do not make it look like Butterfly Meadow (open meadow with butterflies, not fenced garden with art supplies).
+Do not make it look like Tillo's Garden (vegetable and flower beds with soil focus, not art-focused colour zones).
 
 FORBIDDEN:
 No text, no labels, no signs, no logo, no map marker, no title, no caption.
 No characters, no children, no rabbits, no animals, no birds.
-No sharp edges, thorns, or dangerous elements.
-No realistic art supplies like professional brushes or toxic paints.
-No modern objects like metal easels or plastic containers.
-No neon colours or harsh contrasts.
-No dark shadows or scary lighting.
-No crowded scenes.
-No fast-moving objects.
-No unfinished or messy paintings.
+No realistic flower species, no photorealistic petals, no wilting flowers, no dead blooms.
+No art supplies beyond the easel and paint pots — no adult equipment, no palettes, no water cups.
+No dark fence, no sharp fence points, no chain-link, no metal fencing.
 No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
 
-The final image must feel like the definitive Painting Garden Hero View: iconic, readable, reusable, colourful, joyful, and unmistakably Pompom Hills.
+The final image must feel like the definitive Painting Garden Hero View: iconic, readable, reusable, colourful, artistic, joyful, and unmistakably Pompom Hills.
