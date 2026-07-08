@@ -52,3 +52,12 @@ camera pull-back, wider first frame, recomposed scene, new establishing shot, ca
 - @image1: Shot 07 exported continuity frame
 - Prompt enhancer: Kapalı
 - Cinematic/auto camera: Kapalı
+
+
+## Approval Checklist
+
+- [ ] First frame matches @image1
+- [ ] No camera movement
+- [ ] Character voices match registered Voice IDs — no drift
+- [ ] No contrast / saturation / HDR / glossy drift from @image1
+- [ ] Dialogue begins early — no dead air

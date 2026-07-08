@@ -1,26 +1,56 @@
-# Shot 04 — OpenArt Prompt
+# Shot 04 — Watch Me — OpenArt Frame-to-Video Prompt
+
+> Shot 04 Purpose: Arda shows confidence — "Watch me bounce it!" He bounces the Pompom Ball higher.
+
+> Mode: Frame-to-video. @image1 = approved Shot 03 final frame.
 
 ## Visual Prompt
+
 Duration: 15 seconds.
 
-Use @image1 as the exact locked first frame and only visual continuity source.
-Do not reinterpret @image1.
-Ball reaches Central Square. Opa says well done. in Pompom Hills, warm pastel colors, round soft shapes, night sky with stars. Kiko coral pink #F8BBD0 shirt, white shorts, brown pigtails, happy smile. Mimi soft blue #90CAF9 shirt, round ears, playful look. Opa warm green #A5D6A7 shirt, golden glasses, wise smile.
-Central Square — rounded paths, trees, landmarks, no other characters, no text, no captions.
+Use @image1 = approved Shot 03 final frame. Flower Hill. Kiko and Arda already together from frame one. Arda bounces the Pompom Ball with confidence — a slightly higher bounce. The ball goes up and comes back down softly. Kiko watches excitedly. Small motion only. No running. No jumping.
 
-Dialogue: Opa: "Well done, friends!"
+## Camera Direction
+
+Locked camera only. No camera movement.
+
+## Dialogue
+
+Arda: "Watch me bounce it!"
+
 ## Voice Lock
 
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
+Arda uses Arda's locked voice. Kiko uses Kiko's locked voice.
+
+## Timing / Beat Sheet
+
+- 0–1s: Hold close to @image1.
+- 1–5s: Arda says: "Watch me bounce it!"
+- 5–10s: Arda bounces the ball higher. It floats up softly.
+- 10–15s: Ball comes back down. Kiko watches amazed.
+
+## Sound
+
+Soft bounce sound. Flower Hill ambience. No music.
+
+## Lighting
+
+Match @image1. No contrast increase.
 
 ## Negative Prompt
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, dark areas growing darker, highlights growing brighter, lighting becoming harsher
 
-## OpenArt Ayarları
-- Duration: 15 seconds
-- @image1: Central Square — rounded paths, trees, landmarks
-- Prompt enhancer: Kapalı
-- Cinematic/auto camera: Kapalı
+camera movement, chase, jump, bird, animal, text, music, high contrast, HDR
+
+## OpenArt Settings
+
+- Duration: 15 seconds, Mode: Frame-to-video
+- References: @image1 = approved Shot 03 final frame
+- Prompt enhancer: Off, Locked camera only
+
+## Checklist
+
+- [ ] First frame matches @image1
+- [ ] Both characters visible
+- [ ] Pompom Ball bounce readable
+- [ ] No camera movement
+- [ ] Voice Lock applied

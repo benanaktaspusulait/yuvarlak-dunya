@@ -55,3 +55,12 @@ camera pull-back, wider first frame, recomposed scene, changed camera angle, cha
 - @image1: Previous shot video reference (shot-06 final frame)
 - Prompt enhancer: Kapalı
 - Cinematic/auto camera: Kapalı
+
+
+## Approval Checklist
+
+- [ ] First frame matches @image1
+- [ ] No camera movement
+- [ ] Character voices match registered Voice IDs — no drift
+- [ ] No contrast / saturation / HDR / glossy drift from @image1
+- [ ] Dialogue begins early — no dead air

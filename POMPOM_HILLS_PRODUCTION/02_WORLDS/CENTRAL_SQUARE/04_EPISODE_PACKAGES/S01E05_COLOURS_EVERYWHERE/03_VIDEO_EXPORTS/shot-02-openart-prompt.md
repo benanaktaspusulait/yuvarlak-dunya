@@ -179,3 +179,12 @@ Genel:
 - Her 2-3 saniyede küçük aksiyon veya konuşma beat'i var mı?
 - Diyalog doğal akıyor mu?
 ```
+
+
+## Approval Checklist
+
+- [ ] First frame matches @image1
+- [ ] No camera movement
+- [ ] Character voices match registered Voice IDs — no drift
+- [ ] No contrast / saturation / HDR / glossy drift from @image1
+- [ ] Dialogue begins early — no dead air

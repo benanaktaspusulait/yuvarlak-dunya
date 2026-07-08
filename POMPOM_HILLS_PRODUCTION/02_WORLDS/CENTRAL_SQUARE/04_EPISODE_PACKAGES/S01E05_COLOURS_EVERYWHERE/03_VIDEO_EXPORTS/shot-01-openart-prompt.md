@@ -114,3 +114,12 @@ camera pull-back, wider first frame, recomposed scene, new establishing shot, ca
 - Kamera geri çekilmedi mi?
 - Yeni kırmızı obje çıkmadı mı?
 ```
+
+
+## Approval Checklist
+
+- [ ] First frame matches @image1
+- [ ] No camera movement
+- [ ] Character voices match registered Voice IDs — no drift
+- [ ] No contrast / saturation / HDR / glossy drift from @image1
+- [ ] Dialogue begins early — no dead air

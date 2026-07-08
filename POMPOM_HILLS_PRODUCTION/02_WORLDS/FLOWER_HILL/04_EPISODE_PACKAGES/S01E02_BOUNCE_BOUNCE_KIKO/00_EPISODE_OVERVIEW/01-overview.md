@@ -1,22 +1,22 @@
-# S01E02 — Bounce, Bounce, Kiko!
+# S01E02-B — Bounce, Bounce, Kiko!
 
 ---
 
 ## Duration
 
-2:00 (8 shots × 15 seconds)
+3:00 (12 shots × 15 seconds)
 
 ---
 
 ## Theme
 
-Sharing is fun — physical play creates emotional connection.
+Teamwork — "Friends bounce better together"
 
 ---
 
 ## Learning
 
-Curiosity • Friendship • Sharing • Joy of playing together
+Curiosity • Teamwork • Friendship • Problem-solving together
 
 ---
 
@@ -24,67 +24,60 @@ Curiosity • Friendship • Sharing • Joy of playing together
 
 | Character | Role |
 |---|---|
-| Kiko | Explorer, finds the ball, discovers bouncing |
-| Mimi | Friend, joins the play, makes it better together |
-| Opa | Wise guide, watches from above, encourages |
+| Kiko | Explorer, finds the Pompom Ball, discovers bouncing |
+| Arda | Energetic friend, joins the play, brings excitement |
+| Opa | Wise guide, teaches teamwork lesson |
 
 ---
 
 ## Locations
 
 1. Flower Hill — Home Cluster Zone
-2. Butterfly Meadow
 
 ---
 
 ## Props
 
-- 🟡 Yellow Ball
-- 🦋 Butterflies
-- 🌸 Flowers
+- 🟣 Pompom Ball (soft, fluffy, pastel colors — pink/purple/orange)
+- 🌸 Pompom Flowers (background)
+- 🌿 Flower Hill garden
 
 ---
 
 ## Story Summary
 
-Kiko wakes up on Flower Hill and spots a bright yellow ball half-hidden in the grass. She pokes it — it bounces! She bounces it again, higher this time, and laughs. The ball rolls toward Butterfly Meadow. Kiko chases it and finds Mimi at his burrow entrance. Mimi's ears perk up — he wants to play too. They bounce the ball back and forth between them, surrounded by fluttering butterflies. The ball rolls to a stop between them. They look at each other and smile — the game is better with a friend. High above, Opa watches from his tree and calls down: "Well done, little ones! Games are brightest when shared!"
+Kiko discovers a fluffy Pompom Ball on Flower Hill. She's amazed at how soft and bouncy it is. Arda joins the play, bouncing it high with excitement. But the ball rolls too far into the flowers! They can't find it. Opa appears and asks: "What if you look together?" They search together and find it. Opa teaches: "Friends find things faster." They bounce the ball together, happier than before.
 
 ---
 
 ## Micro-Moment (Key Discovery)
 
-Kiko pokes the ball and it bounces for the first time — her surprise and delight at discovering what the ball can do. The second wow moment is when the ball stops between them and they share a wordless smile — the moment play becomes connection.
+Kiko finds the Pompom Ball and marvels at its softness — "It's like a little cloud!" The wow moment is when they lose it and Opa guides them to work together, leading to the learning point.
 
 ---
 
 ## Scene Order
 
-| Sıra | Dosya | Süre | Karakter | Amaç |
+| Sıra | Shot | Süre | Karakter | Amaç |
 | --- | --- | --- | --- | --- |
-| 01 | `shot-01-kiko-wakes.md` | 15 sn | Kiko | Hook — Kiko wakes on Flower Hill, spots something yellow in the grass |
-| 02 | `shot-02-discovery.md` | 15 sn | Kiko | WOW MOMENT — Kiko pokes the ball, it bounces! She gasps and laughs |
-| 03 | `shot-03-bouncing-alone.md` | 15 sn | Kiko | Exploration — Kiko bounces the ball higher, chases it across Flower Hill |
-| 04 | `shot-04-ball-rolls-away.md` | 15 sn | Kiko | Transition — ball rolls toward Butterfly Meadow, Kiko follows |
-| 05 | `shot-05-meets-mimi.md` | 15 sn | Kiko, Mimi | Connection — Kiko finds Mimi at his burrow, Mimi's ears perk up |
-| 06 | `shot-06-bouncing-together.md` | 15 sn | Kiko, Mimi | Shared Play — they bounce the ball back and forth, butterflies flutter around them |
-| 07 | `shot-07-the-smile.md` | 15 sn | Kiko, Mimi | WOW MOMENT — ball stops between them, they share a wordless smile, the game is better together |
-| 08 | `shot-08-opas-wisdom.md` | 15 sn | Kiko, Mimi, Opa | Resolution — Opa calls from his tree: "Games are brightest when shared!" They wave up at him |
-
----
-
-## Repeated Phrase
-
-```text
-Bounce, bounce!
-```
-
-(Kiko says it alone in Shot 02, both say it together in Shot 06.)
+| 01 | shot-01-discovery.md | 15 sn | Kiko | Hook — Kiko finds the Pompom Ball |
+| 02 | shot-02-first-bounce.md | 15 sn | Kiko, Arda | First bounce — Arda bounces it soft |
+| 03 | shot-03-like-a-cloud.md | 15 sn | Kiko | Wonder — "It's like a little cloud!" |
+| 04 | shot-04-watch-me.md | 15 sn | Arda | Confidence — "Watch me bounce it!" |
+| 05 | shot-05-wow-bouncy.md | 15 sn | Kiko | Amazement — "Wow, so bouncy!" |
+| 06 | shot-06-too-far.md | 15 sn | Arda, Kiko | Problem — "It went too far!" |
+| 07 | shot-07-where-did-it-go.md | 15 sn | Kiko | Concern — "Oh no, where did it go?" |
+| 08 | shot-08-opa-appears.md | 15 sn | Opa, Arda | Guidance — "Where did it roll?" / "Into the flowers!" |
+| 09 | shot-09-together-search.md | 15 sn | Opa | Teaching — "What if you look together?" |
+| 10 | shot-10-found-it.md | 15 sn | Kiko | Relief — "There it is!" |
+| 11 | shot-11-bounce-together.md | 15 sn | Arda, Kiko | Joy — "Let's bounce it together!" |
+| 12 | shot-12-opa-closing.md | 15 sn | Opa | Warm closure — "Friends find things faster." |
 
 ---
 
 ## Learning Point
 
-When you play with a friend, the fun gets bigger. Sharing a game makes it twice as bright.
+When you work together, problems are easier to solve. Friends help each other find what's lost.
 
 ---
 
@@ -92,20 +85,18 @@ When you play with a friend, the fun gets bigger. Sharing a game makes it twice 
 
 | Karakter | Ses |
 | --- | --- |
-| Kiko | Approved Kiko voice — curious, surprised, then joyful, excited |
-| Mimi | Approved Mimi voice — friendly, playful, happy |
-| Opa | Approved Opa voice — warm, wise, encouraging |
+| Kiko | Approved Kiko voice — curious, amazed, then relieved, joyful |
+| Arda | Approved Arda voice — energetic, excited, then worried, then happy |
+| Opa | Approved Opa voice — warm, wise, teaching |
 
 ---
 
 ## Colour Notes
 
 ```text
-Warm, sunny palette. Bright yellows, soft greens, pastel flower colours.
-Identical white balance, exposure, colour temperature, saturation, contrast across all shots.
-No cool shift. No desaturated look. No green tint. No magenta tint.
-The yellow ball must remain consistent in colour across all shots.
-Flower Hill should feel warm and inviting throughout.
+Warm, sunny palette. Pastel pinks, purples, oranges from Pompom Ball.
+Soft greens from Flower Hill. Identical white balance across all shots.
+Pompom Ball must remain consistent in color and fluffiness across all shots.
 ```
 
 ---
@@ -114,28 +105,38 @@ Flower Hill should feel warm and inviting throughout.
 
 ```text
 Bright, golden-hour daylight. Soft, warm shadows.
-Identical light direction, intensity, shadow softness across all shots.
-Butterfly Meadow should feel magical and light-filled.
-No dramatic lighting changes between shots.
+Identical light direction across all shots.
+Flower Hill should feel warm and inviting throughout.
 ```
+
+---
+
+## Pompom Item
+
+**Pompom Ball** — the episode's main object. Must be:
+- Round and fluffy
+- Soft pastel colors (pink, purple, orange mix)
+- Bouncy but gentle
+- Visible in every shot where it's present
+- Consistent shape and color across all shots
 
 ---
 
 ## Negative Prompt (Episode-level)
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
-dark lighting, violence, rough ball handling, angry expressions, crying, frustration,
-realistic animal textures, dark forest, storm clouds, rain, cold lighting,
-cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, sudden camera motion,
-tight framing, push-in, static talking pose, characters frozen, long empty pause,
-silent staring, background music, music, melody, song, soundtrack
+dark lighting, violence, realistic animal textures, dark forest, storm clouds, rain,
+cold lighting, cinematic LUT, blue tint, green tint, HDR look, fast movement,
+sudden camera motion, tight framing, push-in, static talking pose, characters frozen,
+long empty pause, silent staring, background music, music, melody, song, soundtrack,
+sharp edges on Pompom Ball, hard texture, realistic ball, yellow ball
 
 ---
 
 ## Emotion Journey
 
 ```
-Merak → Keşif → Heyecan → Paylaşım → Neşe → Hafif endişe → Başarı → Mutluluk
+Discovery → Wonder → Excitement → Problem → Concern → Teaching → Relief → Joy
 ```
 
 ---
@@ -152,3 +153,7 @@ Merak → Keşif → Heyecan → Paylaşım → Neşe → Hafif endişe → Baş
 | 06 | /10 | ⬜ |
 | 07 | /10 | ⬜ |
 | 08 | /10 | ⬜ |
+| 09 | /10 | ⬜ |
+| 10 | /10 | ⬜ |
+| 11 | /10 | ⬜ |
+| 12 | /10 | ⬜ |

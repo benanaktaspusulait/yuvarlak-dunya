@@ -173,3 +173,12 @@ Genel:
 - Uzun boş bekleme var mı?
 - Her 2-3 saniyede küçük aksiyon var mı?
 ```
+
+
+## Approval Checklist
+
+- [ ] First frame matches @image1
+- [ ] No camera movement
+- [ ] Character voices match registered Voice IDs — no drift
+- [ ] No contrast / saturation / HDR / glossy drift from @image1
+- [ ] Dialogue begins early — no dead air

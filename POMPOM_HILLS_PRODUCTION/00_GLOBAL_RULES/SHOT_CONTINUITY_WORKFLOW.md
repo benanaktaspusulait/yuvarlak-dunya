@@ -233,6 +233,46 @@ Add this checklist item to every approval checklist:
 - [ ] Character voices match registered Voice IDs — no drift
 ```
 
+### Pompom Items — World Signature Objects
+
+Pompom Hills has a unique visual identity built around "Pompom" items — soft, round,
+fluffy objects that appear across the world. Every episode must include at least one
+Pompom item to reinforce the brand identity.
+
+#### Pompom Item Catalog
+
+| Item | Description | Used In |
+|------|-------------|---------|
+| Pompom Ball | Soft, fluffy, colorful bouncing ball | Play scenes, games |
+| Pompom Flower | Round, fluffy flower with pastel petals | Flower Hill, nature |
+| Pompom Cloud | Cotton-like fluffy cloud in the sky | Outdoor daytime scenes |
+| Pompom Leaf | Round, fluffy leaf shape | Little Forest, autumn |
+| Pompom Stone | Soft-looking rounded stone | Stone Hill |
+| Pompom Star | Glowing round star | Night scenes |
+| Pompom Raindrop | Round, soft raindrop shape | Rain scenes |
+
+#### Rules
+
+1. **Every episode must include at least 1 Pompom item** — either as a story object
+   or as a background detail.
+2. **Pompom items are always round, fluffy, and soft-looking** — never sharp, angular,
+   or hard.
+3. **Color palette:** pastel (pink, purple, orange, yellow, soft blue).
+4. **Pompom items are friends, not enemies** — characters can touch, hold, and play
+   with them.
+5. **Pompom Ball** is the most common — used in play/game episodes with "find and
+   bounce" themes.
+6. **Pompom items may appear in background** if not the main story object, but must
+   be visually identifiable as Pompom items (round + fluffy).
+7. **No sharp edges, no hard textures, no realistic materials** on Pompom items.
+   They must feel like soft toys.
+
+Add this to episode planning checklists:
+
+```
+- [ ] At least 1 Pompom item included in the episode
+```
+
 ### Object Continuity Map Gate
 
 Every episode that depends on persistent objects must maintain an Object Continuity Map

@@ -32,7 +32,7 @@
 |-------|--------|-----|----------|-------|-------|---------------------|-------------------|---------------------|---------------------|
 | S01E01 | Hello Pompom Hills | 🤝 Social, 🌿 Nature | Kiko, Mimi, Opa + 10 | Central Square | 🟡 Yazıldı | 15 sahne; hedef 180 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E02-A | Kiko's Home Tour | 🌿 Nature | Kiko | Kiko's Home | 🟢 Üretildi | 24 sn (micro) | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E02-B | Bounce, Bounce, Kiko! | 🤝 Social, 💛 Feelings | Kiko, Mimi, Opa | Flower Hill → Central Square | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E02-B | Bounce, Bounce, Kiko! | 🤝 Social, 💛 Feelings | Kiko, Arda, Opa | Flower Hill | 🟡 Yazıldı | 180 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E04 | Mimi's Big Yawn | 💛 Feelings, 🌙 Bedtime | Kiko, Mimi | Mimi's Burrow | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E05 | Colours Everywhere | 🎓 Learning | Kiko, Mimi | Central Square | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E06 | The Soft Wind | 🌿 Nature | Kiko, Mimi | Little Forest | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |

@@ -34,3 +34,12 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - @image1: Meadow at golden hour, last sparkle, characters walking home
 - Prompt enhancer: Kapalı
 - Cinematic/auto camera: Kapalı
+
+
+## Approval Checklist
+
+- [ ] First frame matches @image1
+- [ ] No camera movement
+- [ ] Character voices match registered Voice IDs — no drift
+- [ ] No contrast / saturation / HDR / glossy drift from @image1
+- [ ] Dialogue begins early — no dead air
