@@ -82,6 +82,24 @@ S01E02-A, S01E04, S01E05, S01E06, S01E07, S01E10, S01E11, S01E14
 
 ---
 
+## Dünya Üretim Durumu (S01)
+
+| Dünya | Bible | Hero View | World Spec | Bölüm | Durum |
+|---|---|---|---|---|---|
+| Central Square | ✅ | 5 image | ✅ | 8 | ✅ Production Ready |
+| Opa's Tree | ✅ | 5 image | ✅ | 4 | ✅ Production Ready |
+| Kiko's Home | ✅ | 1 image | ✅ | 7 | ✅ Production Ready |
+| Flower Hill | ✅ | 4 image | ✅ | 1 | ✅ Production Ready |
+| Stone Hill | ✅ | 4 image | ✅ | 3 | ✅ Production Ready |
+| Little Forest | ✅ | 2 image | ✅ | 2 | ✅ Production Ready |
+| Mimi's Burrow | ✅ | 1 image | ✅ | 1 | ✅ Production Ready |
+| Cloud Hill | ✅ | 2 image | ✅ | 2 | ✅ Production Ready |
+| Butterfly Meadow | ✅ | 1 image | ✅ | 1 | 🟡 Multi-angle eksik |
+| Rainbow Bridge | ✅ | 1 image | ✅ | 1 | 🟡 Multi-angle eksik |
+| Music Hill | ✅ | **0 image** | ✅ | 1 | 🔴 Hero view eksik |
+
+---
+
 ## Karakter Kullanımı
 
 | Karakter | Bölüm Sayısı | Roller |

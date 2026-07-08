@@ -1,30 +1,108 @@
 # Little Forest — OpenArt World Builder Prompt
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
+## Purpose
+
+This file is only the OpenArt World Builder input guide for LITTLE FOREST.
+
+- The approved LITTLE FOREST Hero View is the primary input.
+- Text is secondary only.
+- `02-world-spec.md` remains the full production reference.
+- Do not paste the full spec into OpenArt World Builder.
 
 ---
 
-## If uploading 1 image
+## World Builder Reality Check
 
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A small magical forest with round, plush green trees with puffy canopies. Soft dappled sunlight filters through the leaves creating gentle light patterns on the mossy ground. A circle of small red-capped mushrooms sits in a clearing. Smooth round stepping stones wind through the trees. Tiny birds perch on branches. Warm, inviting, safe atmosphere. Children's storybook style, soft matte handcrafted look. No dark corners, no sharp branches, no scary shadows, no modern objects.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot of the forest entrance
-- Image 2 (back): view from inside looking out
-- Image 3 (left): side view showing tree density
-- Image 4 (right, optional): close-up of mushroom circle
-
-All four images must share the same lighting direction, sky color, and green palette.
+OpenArt World Builder is a 3D spatial extrapolation tool. It may not perfectly follow detailed prompt rules. It may reinterpret objects, flatten space, sharpen textures, or add unwanted clutter. Because of this, the approved Hero View image must be treated as the highest-fidelity source.
 
 ---
 
-## After the world is built
+## Required Input Method
 
-Use the bible at `00_CANON/` as your production reference when framing shots, placing characters, and running QA inside the generated world.
+### Best Method — 1 Image Mode
+
+- Upload the approved LITTLE FOREST Hero View.
+- Use the prompt below only as a supplementary style and layout hint.
+- The image is the primary instruction.
+- Do not add character references.
+- Do not add episode shots.
+- Do not add failed generations.
+
+### 2–4 Image Mode
+
+- If OpenArt disables the text field after uploading multiple images, that is expected.
+- In that case, the images become the instruction.
+- Use only canon-consistent views.
+- All images must match lighting, colour palette, material style, and camera height.
+- Do not mix different styles or generations.
+
+Recommended views:
+
+- Image 1 / Front: approved Hero View, all identity elements visible.
+- Image 2 / Back: reverse view, same palette.
+- Image 3 / Left: side view showing layout and depth.
+- Image 4 / Right optional: closer detail, not macro.
+
+---
+
+## OpenArt Text Prompt — Use Only In 1 Image Mode
+
+```
+Create a soft, preschool-friendly world called LITTLE FOREST. Use the uploaded approved Hero View as the primary reference and preserve its layout, lighting, colour palette, camera feeling, and soft toy-like handcrafted style.
+
+This is a small, safe, magical forest — not a dense or dark forest. Rounded trees with soft green crowns frame the space. Sunlight filters through leaves creating dappled golden light on the forest floor. A Forest Entrance with welcoming leaf archway leads into one continuous connected forest space with soft zones: Mushroom Circle with round spotted mushrooms in a ring, Bird Watchpoint on a branch lookout, Squirrel Hollow with round tree-knot homes, Leaf Trail with colourful fallen leaves on a stone path, and a Magic Clearing bathed in warm golden light.
+
+Keep the composition wide, readable, and reusable as a permanent world reference. Child-eye camera height, warm morning sunlight through canopy, soft pale sky visible through gaps, gentle natural depth, medium-low contrast, matte handcrafted toy-set materials, rounded shapes, no sharp realism.
+
+This forest is the discovery gateway of Pompom Hills — every adventure begins by looking under a leaf. Small, intimate, full of gentle surprises. Warm, curious, inviting.
+
+No characters. No children. No rabbits. No animals. No birds. No giant foreground objects. No cropped edge objects. No dense dark forest. No scary shadows. No sharp thorns or branches. No HDR. No glossy plastic. No harsh shadows. No high contrast. No oversharpening. No saturated neon colours.
+```
+
+---
+
+## Negative Prompt / Forbidden Output
+
+```
+characters, children, Kiko, Mimi, Noah, Arda, Luca, Opa, rabbits, animals, birds, dense dark forest, scary shadows, sharp thorns, sharp branches, giant flowers, foreground flower close-up, cropped flowers at frame edge, cropped objects, clutter, buildings, signs, labels, readable text, arrows, fences, roads, vehicles, water, river, stream, night, sunset, moon, stars, harsh shadows, high contrast, HDR, glossy plastic, glossy CGI, oversharpened, realistic textures, photorealism, sharp corners, neon colours, over-saturated colours
+```
+
+---
+
+## Identity Lock
+
+LITTLE FOREST must read as:
+
+- A small, safe, magical forest — intimate, not dense or dark
+- Dappled golden sunlight through rounded tree canopies
+- Soft zones flowing naturally: mushrooms, birds, squirrels, leaves, magic clearing
+- Soft pastel Pompom Hills style with matte handcrafted toy-set materials
+
+It must NOT read as:
+
+- A dense, dark, or scary forest
+- A wilderness or jungle
+- A different Pompom Hills world
+- A generic stock location
+- A large or endless forest
+
+---
+
+## Production QA After World Build
+
+- [ ] Is the world still recognisable as LITTLE FOREST from silhouette and layout?
+- [ ] Are rounded trees with soft crowns framing the space?
+- [ ] Is dappled golden sunlight visible on the forest floor?
+- [ ] Are there no characters or animals?
+- [ ] Is the forest small and intimate, not dense or dark?
+- [ ] Are there no sharp thorns, scary shadows, or dark atmosphere?
+- [ ] Is the style still soft pastel, matte, toy-like, preschool-safe?
+- [ ] Is contrast medium-low?
+- [ ] Is there no HDR, glossy CGI, oversharpening, or harsh shadow drift?
+- [ ] Does it match the approved Hero View more than the text prompt?
+
+---
+
+## Final Usage Note
+
+Use the generated World Builder output only after QA. If it adds unwanted elements, glossy/HDR contrast, or drifts from the approved Hero View, reject the world and regenerate. Do not treat a failed world as canon.

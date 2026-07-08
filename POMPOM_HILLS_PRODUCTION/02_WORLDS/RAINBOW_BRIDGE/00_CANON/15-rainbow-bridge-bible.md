@@ -13,7 +13,7 @@ Location: Cloud Hill → Rainbow Creek arası
 Type: Exterior World
 Status: Design
 Bible: ✅
-Hero View: ❌
+Hero View: ✅ 1 image + multi-angle prompts
 World Spec: ❌
 ```
 

@@ -10,7 +10,7 @@ File: POMPOM_HILLS_PRODUCTION/02_WORLDS/MUSIC_HILL/01_HERO_VIEW/
 Version: 4.0
 Location: World map position 28 — Pompom Hills doğu kenarı
 Bible: ✅
-Hero View: ❌ — Pending
+Hero View: 🟡 Pending image generation — multi-angle prompts ready
 ```
 
 > The canonical creative definition is contained within this document.

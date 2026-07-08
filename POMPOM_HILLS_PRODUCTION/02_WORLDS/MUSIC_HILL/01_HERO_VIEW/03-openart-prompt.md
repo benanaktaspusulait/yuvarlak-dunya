@@ -1,67 +1,124 @@
 # Music Hill — OpenArt World Builder Prompt
 
-> Use this short plain-text prompt in the OpenArt World Builder text field.
-> `02-world-spec.md` stays as the full production specification — it is not meant to be pasted directly into OpenArt.
-> This file is a compressed, natural-language translation for that one text box.
+## Purpose
+
+This file is only the OpenArt World Builder input guide for Music Hill.
+
+- The approved Music Hill Hero View is the primary input.
+- Text is secondary only.
+- `02-world-spec.md` remains the full production reference.
+- Do not paste the full spec into OpenArt World Builder.
 
 ---
 
-## Honest Limitation — Read This First
+## World Builder Reality Check
 
-OpenArt World Builder does **not** guarantee output that matches our full production standard.
+OpenArt World Builder is a 3D spatial extrapolation tool. It may not perfectly follow detailed prompt rules. It may reinterpret objects, make trees look generic, flatten the hill, add realistic instruments, or introduce unwanted clutter. Because of this, the approved Hero View image must be treated as the highest-fidelity source.
 
-It is a 3D spatial extrapolation tool, not a prompt-following image generator. It reconstructs a navigable 3D space from images — it does not carefully honor a detailed spec the way our render pipeline does. A short text prompt cannot carry the precision of `02-world-spec.md` (exact hex colors, exact positions, the full forbidden list). Some quality and identity loss versus the Bible/Spec standard should be expected.
-
-**The correct input is not a fresh text prompt — it's the already-approved Hero View image.**
-
-We already have a canon Hero View image that passed QA against the Bible. That image is the highest-fidelity representation of Music Hill we have. Feed *that* image into World Builder as the reference, and let the text prompt (below) serve only as a secondary hint — not as the thing trying to recreate the world from scratch.
-
-```
-1 image mode  → Upload the approved Hero View. Use the short prompt only as
-                supplementary style guidance, not as the primary description.
-2–4 image mode → Text prompt disables. The Hero View should be one of the
-                 uploaded images (front view). Do not try to redescribe the
-                 world in text — the image is the instruction.
-```
-
-If World Builder's 3D output still drifts from our identity (wrong tree count, wrong leaf colours, looks like a normal hill), that is an inherent limitation of the extrapolation — not something a better prompt can fully fix. Treat any World Builder output as a rough 3D blockout, and run it through the Production QA checklist before treating any capture from it as canon.
+**Note:** Music Hill currently has no approved Hero View image. Generate the hero view first using the image generation prompts in `01-hero-view-prompt.md`, then use that approved image as the World Builder input.
 
 ---
 
-## Why a separate file
+## Required Input Method
 
-OpenArt World Builder's text prompt field:
+### Best Method — 1 Image Mode
 
-- expects a short natural-language description, not a structured document
-- disables itself entirely once 2+ reference images are uploaded (images become the instruction)
-- does not parse markdown — tables, headers, and code blocks read as noise or get truncated
-- does not understand internal asset IDs like `MH-TREE-01` or `MH-LEAF-CHIME`
+- Upload the approved Music Hill Hero View.
+- Use the prompt below only as a supplementary style and layout hint.
+- The image is the primary instruction.
+- Do not add character references.
+- Do not add episode shots.
+- Do not add failed generations.
+- Do not add random extra hill images unless they match the same canon.
 
-The full `02-world-spec.md` (150+ lines, tables, asset IDs) is very likely why generation is failing or producing nothing usable — it's the wrong format for this input, not wrong content.
+### 2–4 Image Mode
 
----
+- If OpenArt disables the text field after uploading multiple images, that is expected.
+- In that case, the images become the instruction.
+- Use only canon-consistent views.
+- All images must match lighting, sky colour, grass colour, tree style, material style, and camera height.
+- Do not mix different styles or generations.
 
-## If uploading 1 image
+Recommended views:
 
-Use the image as the primary reference and paste this prompt into the text field:
-
-```
-A single smooth, gently rounded grass hill under a wide open pastel blue sky. Three to five music trees stand on the hill — each with a soft brown trunk and round, plump clusters of musical-green leaves that look like they could chime in the wind. The tallest tree stands near the summit, others flank at different heights. Melody-pink flowers are scattered naturally at the tree bases. A winding warm-sand path leads from the lower left up toward the summit, with soft coral stepping stones along it. Gentle breeze implied by slight leaf movement. Warm sunlight from the upper left, no harsh shadows. The mood is rhythmic, inviting, and warm — like a place where the trees sing. Children's storybook style, soft matte handcrafted look. No modern instruments, no sharp edges, no realistic trees, no dark shadows, no dramatic sky.
-```
-
-## If uploading 2–4 images
-
-Do not rely on the text field — it will be disabled. Instead:
-
-- Image 1 (front): wide shot from the base of the hill looking up, showing the full hill and trees
-- Image 2 (back): view from the summit looking down the slope
-- Image 3 (left): side view showing the hill's dome silhouette and tree heights
-- Image 4 (right, optional): close-up of a music tree's leaf chimes and flowers
-
-All four images must share the same lighting direction, sky colour, and grass colour so OpenArt reads them as one consistent space.
+- Image 1 / Front: approved Hero View, full hill visible, all 3-5 music trees readable.
+- Image 2 / Back: view from the summit looking down the slope.
+- Image 3 / Left: side view showing the hill's dome silhouette and tree heights.
+- Image 4 / Right optional: closer view of a music tree's leaf clusters and flowers.
 
 ---
 
-## After the world is built
+## OpenArt Text Prompt — Use Only In 1 Image Mode
 
-Use `02-world-spec.md` as your production reference when framing shots, placing characters, and running QA inside the generated world — not as an input to the builder itself.
+```
+Create a soft, rhythmic, preschool-friendly hill world called Music Hill. Use the uploaded approved Hero View as the primary reference and preserve its hill shape, tree count, tree style, path layout, lighting, camera feeling, and soft toy-like handcrafted style.
+
+The world should feel warm, inviting, and rhythmic — like a place where the trees sing. A single smooth, gently rounded grass hill rises under a wide open pastel blue sky. Three to five music trees stand on the hill — each with a soft brown trunk and round, plump clusters of musical-green leaves that look like they could chime in the wind. The tallest tree stands near the summit, others flank at different heights on the slopes.
+
+Melody-pink flowers are scattered naturally at the tree bases — small, rounded, soft, not oversized. A winding warm-sand path leads from the lower area up toward the summit, with soft coral stepping stones along it. The path gives children a clear place to walk.
+
+Keep the composition wide, readable, and reusable as a permanent world reference. Child-eye camera height, warm morning sunlight from the upper left, soft sky, gentle natural depth, medium-low contrast, matte handcrafted toy-set materials, rounded shapes, no sharp realism.
+
+Preserve the same warm sunlight direction as the uploaded Hero View. Keep shadows soft and gentle.
+
+Pompom Hills preschool animation style: soft pastel colours, matte handcrafted toy-like surfaces, rounded safe shapes, gentle storybook charm, warm and rhythmic atmosphere.
+
+No characters. No children. No rabbits. No animals. No birds. No musical instruments. No piano, guitar, drum, or any real instrument. No giant flowers. No cropped edge objects. No buildings. No signs. No text. No labels. No arrows. No fences. No roads. No cars. No modern objects. No water, river, pond, bridge, or waterfall. No dark forest. No dense trees. No sharp corners. No clutter. No HDR. No glossy plastic. No harsh shadows. No high contrast. No oversharpening. No saturated neon colours.
+```
+
+---
+
+## Negative Prompt / Forbidden Output
+
+```
+characters, children, Kiko, Mimi, Noah, Arda, Luca, Opa, rabbits, animals, birds, musical instruments, piano, guitar, drum, keyboard, trumpet, violin, any real instrument, giant flowers, foreground flower close-up, cropped flowers at frame edge, cropped objects, clutter, dense forest, dark forest, tree tunnel, cave, hollow tree, buildings, houses, signs, labels, readable text, arrows, fences, roads, vehicles, water, river, stream, pond, bridge, waterfall, night, sunset, moon, stars, harsh shadows, high contrast, HDR, glossy plastic, glossy CGI, oversharpened, realistic textures, photorealism, sharp corners, neon colours, over-saturated colours
+```
+
+---
+
+## Identity Lock
+
+Music Hill must read as:
+
+- single rounded grass hill
+- 3-5 music trees with round leaf clusters
+- melody-pink flowers at tree bases
+- warm-sand winding path
+- coral stepping stones
+- open pastel blue sky
+- warm morning sunlight
+- soft matte Pompom Hills toy-set style
+
+It must NOT read as:
+
+- a normal generic hill
+- a forest
+- a concert venue
+- a music studio
+- a theme park
+- a realistic landscape
+- a dense wooded area
+- a generic park
+
+---
+
+## Production QA After World Build
+
+- [ ] Is the world still recognisable as Music Hill from the hill silhouette and tree count?
+- [ ] Are there 3-5 music trees with round leaf clusters (not generic trees)?
+- [ ] Is the melody-pink flower presence soft and natural (not giant)?
+- [ ] Is the warm-sand path visible and winding?
+- [ ] Are there no characters or animals?
+- [ ] Are there no musical instruments?
+- [ ] Are there no giant foreground flowers or cropped edge objects?
+- [ ] Is the style still soft pastel, matte, toy-like, preschool-safe?
+- [ ] Is contrast medium-low?
+- [ ] Is there no HDR, glossy CGI, oversharpening, or harsh shadow drift?
+- [ ] Is there no text, sign, symbol, fence, road, building, or water?
+- [ ] Does it match the approved Hero View more than the text prompt?
+
+---
+
+## Final Usage Note
+
+Use the generated World Builder output only after QA. If it adds realistic instruments, generic trees, dense forest, dark areas, buildings, signs, water, or glossy/HDR contrast, reject the world and regenerate. Do not treat a failed world as canon.
