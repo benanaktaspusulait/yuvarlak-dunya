@@ -8,32 +8,42 @@
 |---|---|
 | Episode | S01E02 — Kiko's Home Tour |
 | Karakterler | Kiko |
-| Shorts Sayısı | 4 |
-| Platform | YouTube Shorts |
+| Shorts Sayısı | 2 |
+| Platform | YouTube Shorts / Facebook / Instagram |
+
+---
+
+## Revizyon Notu (9 Temmuz 2026)
+
+Önceki plan 4 Short içeriyordu ve 60 saniyelik kaynak video için bu sayı fazlaydı:
+zaman aralıkları birbiriyle çakışıyordu (#1↔#2 2 sn, #2↔#3 5 sn, #3↔#4 3 sn), yani
+aynı sahneler birden fazla Short'ta tekrar ediyordu ve her klipte tekrar niteliğinde
+bir "yeniden ısınma" hook'u gerekiyordu. 60 sn'lik bir kaynaktan 4 yerine, her biri
+kendi başına tam bir mini-hikaye olan (hook → aksiyon → duygu), çakışmasız ve
+tekrarsız **2 Short**'a düşürüldü.
 
 ---
 
 ## Short Schedule
 
-| Short | Yayın Tarihi | Başlık | Timing |
-|---|---|---|---|
-| #1 | TBD | Oh! I Almost Forgot! 🏠 | 00:05 – 00:20 |
-| #2 | TBD | Come On Inside! 🚪 | 00:18 – 00:35 |
-| #3 | TBD | Kiko's Favourite Spots ✨ | 00:30 – 00:48 |
-| #4 | TBD | Welcome Inside! 💛 | 00:45 – 01:00 |
+| Short | Yayın Tarihi | Başlık | Timing | Süre |
+|---|---|---|---|---|
+| #1 — Hook | TBD | Oh! I Almost Forgot! 🏠 | 00:05 – 00:20 | 15 sn |
+| #2 — Tour + Welcome | TBD | Kiko's Favourite Spots ✨💛 | 00:30 – 01:00 | ~30 sn |
 
 ---
 
 ## Short #1 — The Hook
 
 **Başlık:** Oh! I Almost Forgot! 🏠
-**Timing:** 00:05 – 00:20
+**Timing:** 00:05 – 00:20 (15 sn)
 
 ### İçerik
 Kiko bahçede duruyor.
 Birden gülümser, döner.
 "Oh! I almost forgot!"
-Merak uyandırıyor — ne unuttu?
+"Come on... let me show you inside!"
+Merak uyandırıyor — ne unuttu, içeride ne var?
 
 ### YouTube Metadata
 
@@ -42,93 +52,65 @@ Merak uyandırıyor — ne unuttu?
 **Description:**
 🏠 Kiko has something exciting to show you...
 Come along to Pompom Hills!
-Watch the full episode on our channel!
 #PompomHills #Shorts #KidsAnimation
 
 **Tags:** Pompom Hills, Kiko, home tour, preschool animation, kids animation, shorts
 
----
-
-## Short #2 — The Invitation
-
-**Başlık:** Come On Inside! 🚪
-**Timing:** 00:18 – 00:35
-
-### İçerik
-"Come on! Let me show you inside!"
-Kiko kapıya yürüyor.
-Kapıyı açıyor, içeri giriyor.
-Kamera çocuk göz hizasında takip ediyor.
-
-### YouTube Metadata
-
-**Title:** Come On Inside! 🚪
-
-**Description:**
-🚪 Kiko is inviting you in!
-Step inside her cozy home in Pompom Hills.
-Watch the full story on our channel!
-#PompomHills #Kiko #Shorts
-
-**Tags:** Pompom Hills, Kiko, home, invitation, preschool, kids animation, shorts
+### Video Dosyası
+`03_VIDEO_EXPORTS/kikos-home-tour-short-1-hook.mp4`
 
 ---
 
-## Short #3 — The Tour ✨
+## Short #2 — The Tour + Welcome
 
-**Başlık:** Kiko's Favourite Spots ✨
-**Timing:** 00:30 – 00:48
+**Başlık:** Kiko's Favourite Spots ✨💛
+**Timing:** 00:30 – 01:00 (~30 sn)
 
 ### İçerik
 "This is where I read stories."
-"And these are my favourite toys."
 "I love looking outside from here."
-Bölümün en sıcak, keşif dolu sahnesi.
+Kiko odanın ortasında duruyor, kameraya dönüyor, gülümsüyor.
+"Welcome inside!"
+Bölümün en sıcak, keşif dolu sahnesinden sıcak kapanışa kesintisiz geçiş —
+tur ve karşılama tek klipte, tekrar yok.
 
 ### YouTube Metadata
 
-**Title:** Kiko's Favourite Spots ✨
+**Title:** Kiko's Favourite Spots ✨💛
 
 **Description:**
 ✨ Every cozy home has special spots.
-Come see Kiko's reading corner, toys, and favourite window!
-Watch the full episode on Pompom Hills.
+Come see Kiko's reading corner and favourite window — then step inside for a warm welcome!
 #PompomHills #HomeLife #Shorts
 
-**Tags:** Pompom Hills, Kiko, home tour, reading corner, preschool, kids animation
+**Tags:** Pompom Hills, Kiko, home tour, reading corner, welcome, preschool, kids animation
+
+### Video Dosyası
+`03_VIDEO_EXPORTS/kikos-home-tour-short-2-tour-welcome.mp4`
 
 ---
 
-## Short #4 — Welcome 💛
+## Neden 2 (ve neden bu iki aralık)
 
-**Başlık:** Welcome Inside! 💛
-**Timing:** 00:45 – 01:00
-
-### İçerik
-Kiko odanın ortasında duruyor.
-Kameraya dönüyor, gülümsüyor.
-"Welcome inside!"
-Sıcak kapanış.
-
-### YouTube Metadata
-
-**Title:** Welcome Inside! 💛
-
-**Description:**
-💛 Kiko's home is warm, cozy, and full of love.
-You're always welcome in Pompom Hills.
-Watch the full episode on our channel.
-#PompomHills #Welcome #Shorts
-
-**Tags:** Pompom Hills, Kiko, welcome, home, preschool, kids animation, shorts
+- **Çakışma yok:** Short #1 (00:05–00:20) ve Short #2 (00:30–01:00) arasında 10 saniyelik
+  boşluk var — aynı sahne iki klipte de görünmüyor.
+- **Her Short kendi başına tam bir mini-hikaye:** Short #1 = hook + davet (merak
+  uyandırır, "içeride ne var?"). Short #2 = tur + duygu + kapanış (keşif + sıcak
+  "welcome inside" ile tamamlanır).
+- **Başlangıç etkisi korunur:** Her iki Short da kendi güçlü açılış anıyla başlıyor
+  (Kiko'nun dönüp gülümsemesi / okuma köşesini göstermesi), tekrar eden bir "yeniden
+  ısınma" hook'una ihtiyaç yok.
 
 ---
 
-## Video Files
+## Eski 4'lü Plan (Superseded — artık kullanılmıyor)
 
-| Short | Dosya |
-|---|---|
-| #1 | outputs/shorts/s01e02-short1-shorts.mp4 |
-| #2 | outputs/shorts/s01e02-short2-shorts.mp4 |
-| #3 | outputs/shorts/s01e02-short3-shorts.mp4 |
-| #4 | outputs/shorts/s01e02-short4-shorts.mp4 |
+> Bu bölüm sadece geçmiş referans için tutulur. Aşağıdaki 4 Short ÜRETİLMEDİ ve
+> yukarıdaki 2'li plan tarafından supersede edildi.
+
+| Short | Başlık | Timing |
+|---|---|---|
+| #1 | Oh! I Almost Forgot! 🏠 | 00:05 – 00:20 |
+| #2 | Come On Inside! 🚪 | 00:18 – 00:35 |
+| #3 | Kiko's Favourite Spots ✨ | 00:30 – 00:48 |
+| #4 | Welcome Inside! 💛 | 00:45 – 01:00 |
