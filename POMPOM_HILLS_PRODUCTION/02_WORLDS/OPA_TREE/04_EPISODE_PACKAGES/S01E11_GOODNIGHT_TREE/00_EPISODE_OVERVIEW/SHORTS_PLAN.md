@@ -8,132 +8,116 @@
 |---|---|
 | Episode | S01E11 — Goodnight Tree |
 | Karakterler | Arda, Opa |
-| Shorts Sayısı | 4 |
-| Platform | YouTube Shorts |
+| Lokasyon | Opa's Tree (Night) |
+| Shorts Sayısı | 2 |
+| Platform | YouTube Shorts / Facebook / Instagram |
+
+---
+
+## Revizyon Notu (9 Temmuz 2026)
+
+Önceki plan 4 Short içeriyordu ve 60 saniyelik kaynak video için bu sayı fazlaydı:
+zaman aralıkları birbiriyle çakışıyordu (#1↔#2, #2↔#3, #3↔#4), yani aynı sahneler
+birden fazla Short'ta tekrar ediyordu. 60 sn'lik bir kaynaktan 4 yerine, her biri
+kendi başına tam bir mini-hikaye olan (hook → aksiyon → duygu), çakışmasız ve
+tekrarsız **2 Short**'a düşürüldü.
+
+> Not: Ana video dosyasının adı yanlış ("What Do Stars Say...") olarak kaydedilmişti;
+> içerik doğru (Arda + Opa, "ağaçlar uyur mu"). Dosya
+> `03_VIDEO_EXPORTS/Goodnight, Tree! 🌳 _ Arda & Opa _ Pompom Hills Preschool Animation.mp4`
+> olarak yeniden adlandırıldı.
 
 ---
 
 ## Short Schedule
 
-| Short | Yayın Tarihi | Başlık | Timing |
-|---|---|---|---|
-| #1 | 1 July | Is the Tree Sleepy? 🌳 | 00:03 – 00:18 |
-| #2 | 2 July | Opa Tells a Story 🦉 | 00:12 – 00:30 |
-| #3 | 4 July | Even Trees Need Sleep 🍃 | 00:28 – 00:45 |
-| #4 | 5 July | Goodnight, Little Friend 💛 | 00:45 – 01:00 |
+| Short | Yayın Tarihi | Başlık | Timing | Süre |
+|---|---|---|---|---|
+| #1 — Hook | TBD | Is the Tree Sleepy? 🌳 | 00:02 – 00:16 | 14 sn |
+| #2 — Answer + Goodnight | TBD | Even Trees Need Sleep 🍃💛 | 00:28 – 01:00 | 32 sn |
+
+> Short #1 crop notu: Bu bölümün açılış wide shot'ında Arda ağacın karşı kenarından
+> geliyor ve merkez-crop'ta kadraj dışında kalıyor. Bu yüzden Short #1 merkez değil,
+> **sola kaymış (left-of-center) kenar-crop** ile üretildi (ffmpeg `crop=1080:1920:583:0`,
+> 3413px genişliğe scale sonrası). `make_short_vertical.sh` yalnızca merkez-crop yapar;
+> bu offset manuel uygulandı.
 
 ---
 
-## Short #1 — The Arrival (Hook)
+## Short #1 — The Hook
 
-**Yayın Tarihi:** 1 July
 **Başlık:** Is the Tree Sleepy? 🌳
-**Timing:** 00:03 – 00:18
+**Timing:** 00:03 – 00:18 (15 sn)
 
 ### İçerik
 Arda akşam vakti Opa'nın ağacına geliyor.
-"Opa, I'm sleepy."
+"Opa? I'm sleepy."
 Ağaca bakıyor — acaba ağaç da yorgun mu?
-Hook: soruyu sormadan önce kesiyor, merak bırakıyor.
+Merak uyandırıyor.
 
 ### YouTube Metadata
 
-**Title:** Is the Tree Sleepy? 🌳
+**Title:** Is the Tree Sleepy? 🌳 | Arda & Opa | Pompom Hills Shorts
 
 **Description:**
-🌳 Arda visits Opa's tree at bedtime...
-But he has one quiet question.
-Discover the gentle world of Pompom Hills.
-Watch the full episode on our channel!
+🌳 Arda visits Opa's tree at bedtime and wonders... is the tree sleepy too?
+A gentle Pompom Hills bedtime moment.
 #PompomHills #Shorts #KidsAnimation
 
-**Tags:** Pompom Hills, Arda, tree, bedtime, preschool animation, kids animation, shorts
+**Tags:** Pompom Hills, Arda, Opa, tree, bedtime, wonder, preschool animation, kids animation, shorts
+
+### Video Dosyası
+`03_VIDEO_EXPORTS/shorts/s01e11-short-1-is-the-tree-sleepy.mp4`
 
 ---
 
-## Short #2 — Opa Tells a Story
+## Short #2 — The Answer + Goodnight
 
-**Yayın Tarihi:** 2 July
-**Başlık:** Opa Tells a Story 🦉
-**Timing:** 00:12 – 00:30
-
-### İçerik
-Opa anlatmaya başlıyor.
-"Once upon a time..."
-Arda merakla dinliyor.
-Pompom Hills'in sakin, hikaye dolu ruhunu gösterir.
-
-### YouTube Metadata
-
-**Title:** Opa Tells a Story 🦉
-
-**Description:**
-🦉 Every bedtime needs a gentle story.
-Opa always knows just the right one.
-Watch the full story on Pompom Hills!
-#PompomHills #Opa #Shorts
-
-**Tags:** Pompom Hills, Opa, wise owl, bedtime, story, preschool, kids animation, shorts
-
----
-
-## Short #3 — The Answer ⭐
-
-**Yayın Tarihi:** 4 July
-**Başlık:** Even Trees Need Sleep 🍃
-**Timing:** 00:28 – 00:45
+**Başlık:** Even Trees Need Sleep 🍃💛
+**Timing:** 00:28 – 01:00 (32 sn)
 
 ### İçerik
-"Is the tree sleepy too?"
-"Even trees need sleep."
+"Is the tree sleepy too?" — "Even trees need sleep."
 Yapraklar hafifçe sallanıyor.
-Bölümün en güçlü sahnesi.
+"Goodnight, tree." — "The tree says goodnight too."
+Arda ağacın altında huzurla uykuya dalıyor.
+Bölümün en güçlü sahnesinden huzurlu iyi geceler kapanışına kesintisiz geçiş.
 
 ### YouTube Metadata
 
-**Title:** Even Trees Need Sleep 🍃
+**Title:** Even Trees Need Sleep 🍃💛 | Pompom Hills Shorts
 
 **Description:**
-🍃 Arda asks the most important bedtime question.
-And the tree has a beautiful answer.
-Watch the full episode on Pompom Hills!
+🍃 Arda asks a gentle bedtime question — and the tree has a beautiful goodnight for everyone. 💛
+A warm Pompom Hills bedtime moment.
 #PompomHills #BedtimeStory #Shorts
 
-**Tags:** Pompom Hills, Arda, Opa, tree, bedtime story, preschool, kids animation
+**Tags:** Pompom Hills, Arda, Opa, tree, goodnight, bedtime story, nature, preschool animation, kids animation, shorts
+
+### Video Dosyası
+`03_VIDEO_EXPORTS/shorts/s01e11-short-2-goodnight-tree.mp4`
 
 ---
 
-## Short #4 — Goodnight 🌙
+## Neden 2 (ve neden bu iki aralık)
 
-**Yayın Tarihi:** 5 July
-**Başlık:** Goodnight, Little Friend 💛
-**Timing:** 00:45 – 01:00
-
-### İçerik
-"Goodnight, tree."
-Yapraklar sallanarak karşılık veriyor.
-Arda ağacın altında huzurla uykuya dalıyor.
-Huzurlu kapanış.
-
-### YouTube Metadata
-
-**Title:** Goodnight, Little Friend 💛
-
-**Description:**
-💛 Every peaceful adventure ends with a warm goodnight.
-Sweet dreams from Pompom Hills.
-Watch the full episode on our channel.
-#PompomHills #Goodnight #Shorts
-
-**Tags:** Pompom Hills, goodnight, tree, bedtime, preschool, kids animation, shorts
+- **Çakışma yok:** Short #1 (00:03–00:18) ve Short #2 (00:28–01:00) arasında 10 saniyelik
+  boşluk var — aynı sahne iki klipte de görünmüyor.
+- **Her Short kendi başına tam bir mini-hikaye:** Short #1 = hook + soru (merak
+  uyandırır). Short #2 = cevap + duygu + iyi geceler kapanışı (sıcak, güven veren son).
+- **Başlangıç etkisi korunur:** Her iki Short da kendi güçlü açılış anıyla başlıyor
+  (Arda'nın gelip ağaca bakması / "even trees need sleep" cevabı).
 
 ---
 
-## Video Files
+## Eski 4'lü Plan (Superseded — artık kullanılmıyor)
 
-| Short | Dosya |
-|---|---|
-| #1 | outputs/shorts/s01e11-short1-shorts.mp4 |
-| #2 | outputs/shorts/s01e11-short2-shorts.mp4 |
-| #3 | outputs/shorts/s01e11-short3-shorts.mp4 |
-| #4 | outputs/shorts/s01e11-short4-shorts.mp4 |
+> Bu bölüm sadece geçmiş referans için tutulur. Aşağıdaki 4 Short çakışmalı 4'lü planın
+> parçasıydı ve yukarıdaki 2'li plan tarafından supersede edildi.
+
+| Short | Başlık | Timing |
+|---|---|---|
+| #1 | Is the Tree Sleepy? 🌳 | 00:03 – 00:18 |
+| #2 | Opa Tells a Story 🦉 | 00:12 – 00:30 |
+| #3 | Even Trees Need Sleep 🍃 | 00:28 – 00:45 |
+| #4 | Goodnight, Little Friend 💛 | 00:45 – 01:00 |

@@ -8,129 +8,107 @@
 |---|---|
 | Episode | S01E14 — What Do Stars Say? |
 | Karakterler | Luca, Opa |
-| Shorts Sayısı | 4 |
-| Platform | YouTube Shorts |
+| Lokasyon | Opa's Tree (Night) |
+| Shorts Sayısı | 2 |
+| Platform | YouTube Shorts / Facebook / Instagram |
+
+---
+
+## Revizyon Notu (9 Temmuz 2026)
+
+Önceki plan 4 Short içeriyordu ve 60 saniyelik kaynak video için bu sayı fazlaydı:
+zaman aralıkları birbiriyle çakışıyordu (#1↔#2, #2↔#3, #3↔#4), yani aynı sahneler
+birden fazla Short'ta tekrar ediyordu. 60 sn'lik bir kaynaktan 4 yerine, her biri
+kendi başına tam bir mini-hikaye olan (hook → aksiyon → duygu), çakışmasız ve
+tekrarsız **2 Short**'a düşürüldü.
 
 ---
 
 ## Short Schedule
 
-| Short | Yayın Tarihi | Başlık | Timing |
-|---|---|---|---|
-| #1 | 8 July | What Do Stars Say? ✨ | 00:05 – 00:23 |
-| #2 | 9 July | Opa Knows the Answer 🦉 | 00:18 – 00:36 |
-| #3 | 11 July | The Stars Say Goodnight 🌙 | 00:30 – 00:49 |
-| #4 | 12 July | Goodnight, Little Explorer 💛 | 00:45 – 01:00 |
+| Short | Yayın Tarihi | Başlık | Timing | Süre |
+|---|---|---|---|---|
+| #1 — Hook | TBD | What Do Stars Say? ✨ | 00:05 – 00:23 | 18 sn |
+| #2 — Answer + Goodnight | TBD | The Stars Say Goodnight 🌙💛 | 00:30 – 01:00 | 30 sn |
 
 ---
 
-## Short #1 — The Question (Hook)
+## Short #1 — The Hook
 
-**Yayın Tarihi:** 8 July
 **Başlık:** What Do Stars Say? ✨
-**Timing:** 00:05 – 00:23
+**Timing:** 00:05 – 00:23 (18 sn)
 
 ### İçerik
-Luca gökyüzüne bakıyor.
+Luca gece Opa'nın ağacının altında yıldızlara bakıyor.
+"The stars are pretty."
 "What do stars say?"
-Merak uyandırıyor ve izleyiciyi videoya çekiyor.
+Merak uyandırıyor — yıldızlar ne söyler?
 
 ### YouTube Metadata
 
-**Title:** What Do Stars Say? ✨
+**Title:** What Do Stars Say? ✨ | Pompom Hills Shorts
 
 **Description:**
-✨ Before bedtime, Luca has one simple question...
-What do stars say? 🌙
-Discover the gentle world of Pompom Hills.
-Watch the full episode on our channel!
+✨ Before bedtime, Luca looks up and asks one little question... what do stars say? 🌙
+A gentle bedtime moment from Pompom Hills.
 #PompomHills #Shorts #KidsAnimation
 
-**Tags:** Pompom Hills, Luca, stars, bedtime, preschool animation, kids animation, shorts
+**Tags:** Pompom Hills, Luca, Opa, stars, bedtime, wonder, preschool animation, kids animation, shorts
+
+### Video Dosyası
+`03_VIDEO_EXPORTS/shorts/s01e14-short-1-what-stars-say.mp4`
 
 ---
 
-## Short #2 — Opa Thinks
+## Short #2 — The Answer + Goodnight
 
-**Yayın Tarihi:** 9 July
-**Başlık:** Opa Knows the Answer 🦉
-**Timing:** 00:18 – 00:36
+**Başlık:** The Stars Say Goodnight 🌙💛
+**Timing:** 00:30 – 01:00 (30 sn)
 
 ### İçerik
-Opa düşünüyor.
-Sessizlik.
-Yıldızlar.
-Pompom Hills'in sakin ruhunu gösterir.
+Opa yumuşak cevabını verir: "Stars say goodnight to everyone."
+"Even to me?" — "Especially to you."
+Luca güvende hisseder, "Goodnight, stars."
+Bölümün en sıcak duygusal doruğundan huzurlu iyi geceler kapanışına kesintisiz geçiş.
 
 ### YouTube Metadata
 
-**Title:** Opa Knows the Answer 🦉
+**Title:** The Stars Say Goodnight 🌙💛 | Pompom Hills Shorts
 
 **Description:**
-🦉 Opa always has a gentle answer.
-Can you guess what the stars say?
-Watch the full story on Pompom Hills!
-#PompomHills #Opa #Shorts
-
-**Tags:** Pompom Hills, Opa, wise owl, bedtime, preschool, kids animation, shorts
-
----
-
-## Short #3 — The Answer ⭐
-
-**Yayın Tarihi:** 11 July
-**Başlık:** The Stars Say Goodnight 🌙
-**Timing:** 00:30 – 00:49
-
-### İçerik
-"Stars say goodnight to everyone."
-"Even to me?"
-"Especially to you."
-Bölümün en güçlü sahnesi.
-
-### YouTube Metadata
-
-**Title:** The Stars Say Goodnight 🌙
-
-**Description:**
-✨ The stars have a beautiful message for everyone.
-Watch Luca and Opa's gentle bedtime adventure in the full episode.
+🌙 "Even to me?" — "Especially to you." 💛
+The stars have a gentle goodnight for everyone. A warm bedtime moment from Pompom Hills.
 #PompomHills #BedtimeStory #Shorts
 
-**Tags:** Pompom Hills, stars, bedtime story, preschool, kids animation
+**Tags:** Pompom Hills, Luca, Opa, stars, goodnight, bedtime story, feeling safe, preschool animation, kids animation, shorts
+
+### Video Dosyası
+`03_VIDEO_EXPORTS/shorts/s01e14-short-2-goodnight.mp4`
 
 ---
 
-## Short #4 — Goodnight 🌙
+## Neden 2 (ve neden bu iki aralık)
 
-**Yayın Tarihi:** 12 July
-**Başlık:** Goodnight, Little Explorer 💛
-**Timing:** 00:45 – 01:00
-
-### İçerik
-Luca Opa'ya yaslanıyor.
-"Goodnight, stars."
-Huzurlu kapanış.
-
-### YouTube Metadata
-
-**Title:** Goodnight, Little Explorer 💛
-
-**Description:**
-💛 Every peaceful adventure ends with a warm goodnight.
-Sweet dreams from Pompom Hills.
-Watch the full episode on our channel.
-#PompomHills #Goodnight #Shorts
-
-**Tags:** Pompom Hills, goodnight, bedtime, preschool, kids animation, shorts
+- **Çakışma yok:** Short #1 (00:05–00:23) ve Short #2 (00:30–01:00) arasında 7 saniyelik
+  boşluk var — aynı sahne iki klipte de görünmüyor.
+- **Her Short kendi başına tam bir mini-hikaye:** Short #1 = hook + soru (merak
+  uyandırır). Short #2 = cevap + duygu + iyi geceler kapanışı (sıcak, güven veren son).
+- **Başlangıç etkisi korunur:** Her iki Short da kendi güçlü açılış anıyla başlıyor
+  (Luca'nın yıldızlara bakıp sorması / Opa'nın cevabı), tekrar eden bir "yeniden
+  ısınma" hook'una ihtiyaç yok.
 
 ---
 
-## Video Files
+## Eski 4'lü Plan (Superseded — artık kullanılmıyor)
 
-| Short | Dosya |
-|---|---|
-| #1 | outputs/shorts/s01e14-short1-shorts.mp4 |
-| #2 | outputs/shorts/s01e14-short2-shorts.mp4 |
-| #3 | outputs/shorts/s01e14-short3-shorts.mp4 |
-| #4 | outputs/shorts/s01e14-short4-shorts.mp4 |
+> Bu bölüm sadece geçmiş referans için tutulur. Aşağıdaki 4 Short çakışmalı 4'lü planın
+> parçasıydı ve yukarıdaki 2'li plan tarafından supersede edildi. Eski dikey klipler
+> `03_VIDEO_EXPORTS/shorts/s01e14-short1..4-shorts.mp4` olarak durabilir ama artık
+> yayın planının parçası değildir.
+
+| Short | Başlık | Timing |
+|---|---|---|
+| #1 | What Do Stars Say? ✨ | 00:05 – 00:23 |
+| #2 | Opa Knows the Answer 🦉 | 00:18 – 00:36 |
+| #3 | The Stars Say Goodnight 🌙 | 00:30 – 00:49 |
+| #4 | Goodnight, Little Explorer 💛 | 00:45 – 01:00 |

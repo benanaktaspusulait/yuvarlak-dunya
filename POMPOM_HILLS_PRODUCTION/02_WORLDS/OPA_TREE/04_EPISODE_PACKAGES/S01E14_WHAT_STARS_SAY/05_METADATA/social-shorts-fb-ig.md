@@ -1,5 +1,9 @@
 # S01E14 — What Do Stars Say? | Facebook & Instagram Shorts Metadata
 
+> ⚠️ SUPERSEDED (9 Temmuz 2026): Bu dosya eski 4'lü Shorts planına aittir. Shorts artık
+> 2'ye düşürüldü. Güncel metinler için: `facebook.md`, `instagram.md`, `youtube.md` ve
+> `../00_EPISODE_OVERVIEW/SHORTS_PLAN.md`. Bu dosya yalnızca geçmiş referans için tutulur.
+
 > Bu dosya, S01E14 Shorts'larının **Facebook ve Instagram** sosyal medya metinlerini içerir
 > (title, description/caption, hashtag, tag). YouTube Shorts metadata için bkz.
 > `../00_EPISODE_OVERVIEW/SHORTS_PLAN.md`. Standart: `00-CORE/30_YOUTUBE_METADATA_STANDARD.md`
