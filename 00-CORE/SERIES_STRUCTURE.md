@@ -651,17 +651,60 @@ Visually: yes, starting from episode 8–10. Speaking roles: maximum one side ch
 
 ---
 
+## 16. Recurring Sub-Series
+
+Ana hikaye çizgisinin yanı sıra, tekrarlayan formatlarla epizodlar üretilir. Her sub-series kendi YouTube playlist'ine sahiptir ve sezon numarasından bağımsızdır.
+
+### Mevcut Alt-Seriler
+
+| Sub-Series | Host | Format | Playlist |
+|------------|------|--------|----------|
+| Opa's Storytime | Opa + 2-3 child | Masal anlatımı | Opa's Storytime \| Gentle Preschool Stories |
+| Brave Little Days | Kiko, Mimi | Yaşam becerisi | Brave Little Days \| Preschool Life Skills |
+
+### Yeni Alt-Seriler (2026)
+
+| Sub-Series | Host | Format | Playlist |
+|------------|------|--------|----------|
+| **Pompom Yoga** | Karakter Rotation | Beden farkındalığı | Pompom Yoga \| Beden Farkındalığı |
+| **Guess the Texture** | Karakter Rotation | Duyusal keşif | Guess the Texture \| Duyusal Keşif |
+| **Goodnight Pompom Hills** | Tüm Karakterler | Uyku rutini | Goodnight Pompom Hills \| Uyku Rutini |
+| **Shadow Play** | Karakter Rotation | Gölge bulmaca | Shadow Play \| Gölge Bulmaca |
+| **The Little Helper** | Karakter Rotation | Nezaket hikayeleri | The Little Helper \| Nezaket Hikayeleri |
+| **The Rolling Ball** | Karakter Rotation | Fiziksel keşif | Pompom Objects \| Fiziksel Keşif |
+| **Where is the Blue Ball?** | Karakter Rotation | Nesne bulmaca | Pompom Objects \| Nesne Bulmaca |
+
+### Alt-Seri Kuralları
+
+1. Her sub-series en az 3 bölümle başlar
+2. Her bölüm 15-60 saniye arasıdır
+3. Ana hikaye çizgisinden bağımsızdır
+4. Kendi YouTube playlist'i vardır
+5. Sezon bölüm sayısına dahildir
+6. Yeni karakter/world eklerse onboarding politikası geçerli
+
+### Pompom Objects Serisi Detayları
+
+**The Rolling Ball:** Pofuduk topun hareketi, sıfır diyalog, ASMR sesleri. Global Shorts/Reels formatı.
+
+**Where is the Blue Ball?** Mekan içinde saklı nesneleri bulma. Yüksek etkileşim, ebeveyn-çocuk birlikte izleme.
+
+Detay: `08-PRODUCTION/POMPOM_OBJECTS_STRATEGY.md`
+
+---
+
 ## Document Information
 
 | Field | Detail |
 |-------|--------|
 | **Document** | Series Structure & Character Strategy |
-| **Version** | 2.1 |
+| **Version** | 2.2 |
 | **Project** | Pompom Hills |
 | **Created** | 2026-06-30 |
+| **Updated** | 2026-07-10 |
 | **Purpose** | Define series structure, character hierarchy, and episode strategy |
 | **Target audience** | Show creators, writers, producers, AI video pipeline |
 
 ---
 
-*Series Structure & Character Strategy v2.1 — Pompom Hills — Updated for Series Development*
+*Series Structure & Character Strategy v2.2 — Pompom Hills — Updated for New Sub-Series*

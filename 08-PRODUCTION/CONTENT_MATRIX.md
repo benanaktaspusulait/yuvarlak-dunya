@@ -64,6 +64,27 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | Intro Montage — Mimi + Kiko + Opa (Cozy Friends) | Mimi, Kiko, Opa | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
 | Intro Montage — Luca + Opa + Kiko (Little Questions, Big Wonders) | Luca, Opa, Kiko | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
 | Pompom Hills Family Fun — Event Campaign (5 scene) | Kiko, Mimi, Opa, Noah | Central Square | — | ⚪ | ⚪ | 🔴 | 🔴 | ⚪ | ⚪ |
+| **YENİ SERİLER** | | | | | | | | | |
+| Pompom Yoga EP01 — Kelebek Kanatları | Kiko | Merkez Mekan | Pompom Yoga | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Pompom Yoga EP02 — Bulut Nefesi | Mimi | Merkez Mekan | Pompom Yoga | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Pompom Yoga EP03 — Yıldız Esnemesi | Luca | Merkez Mekan | Pompom Yoga | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Guess the Texture EP01 — Pofuduk Mantar | Kiko | Close-up | Guess the Texture | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Guess the Texture EP02 — Pürüzsüz Taş | Mimi | Close-up | Guess the Texture | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Guess the Texture EP03 — Yaprak Doku | Luca | Close-up | Guess the Texture | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Goodnight EP01 — Kiko'nun Uyku Zamanı | Kiko | Gece Mekanı | Goodnight Pompom Hills | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Goodnight EP02 — Mimi'nin Yastığı | Mimi | Gece Mekanı | Goodnight Pompom Hills | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Goodnight EP03 — Opa'nın Ninnisi | Opa | Gece Mekanı | Goodnight Pompom Hills | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Shadow Play EP01 — Pofuduk Kulaklar | Kiko | Duvar Arkası | Shadow Play | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Shadow Play EP02 — Kuyruk Kimin? | Mimi | Yaprak Arkası | Shadow Play | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Shadow Play EP03 — Kanat Sesleri | Opa | Duvar Arkası | Shadow Play | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| The Little Helper EP01 — Top Paylaşımı | Kiko, Noah | Merkez Mekan | The Little Helper | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| The Little Helper EP02 — Çiçek Hediyesi | Mimi, Luca | Merkez Mekan | The Little Helper | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| The Little Helper EP03 — Sarılalım | Tümü | Merkez Mekan | The Little Helper | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| **POMPOM OBJECTS** | | | | | | | | | |
+| Rolling Ball EP01 — Top Yuvarlanıyor | Kiko | Merkez Mekan | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Rolling Ball EP02 — Puf Puf Zıplama | Luca | Merkez Mekan | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Where is the Blue Ball? EP01 | Kiko | Merkez Mekan | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| Where is the Blue Ball? EP02 | Mimi | Bahçe | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
 > Yeni içerik üretildikçe/yayınlandıkça satır ekleyin ve ilgili durum sütununu güncelleyin.
 > "Series / Playlist" sütunu, bölümün ait olduğu tekrarlayan alt-seri/playlist'i işaretler (bkz. `11-DOCS/02_SEASON_STRATEGY.md` § Recurring Sub-Series). Tek seferlik bölümler için "—" kullanın.

@@ -36,6 +36,76 @@
 | Play | 15% |
 | Special | 5% |
 
+### Uzun Video Birleştirme Stratejisi
+
+YouTube, Shorts ile anlık izlenme getirse de sadık kitleyi, izlenme süresini (Watch Time) ve asıl geliri uzun videolardan sağlar.
+
+**Rutin Döngüleri (Loop Compilation):**
+- Okul öncesi çocukları aynı şeyi defalarca izlemeyi sever
+- 1. sezonun 5-6 bölümünü birleştir "30 Dakikalık Sakinlik Kuşağı" oluştur
+- Ebeveynler iş yaparken veya yemek hazırlarken bu uzun videoları açıp arkaya bırakır
+
+**Örnek Playlist'ler:**
+| Playlist | İçerik | Süre |
+|----------|--------|------|
+| Uyku Öncesi Pofuduk Hikayeler | Goodnight serisi + cozy bölümler | 30-60 dk |
+| Sessiz Keşif Yolculuğu | Guess the Texture + Where is the Blue Ball? | 20-30 dk |
+| Pompom Yoga Rutini | Tüm yoga bölümleri | 15-20 dk |
+| Gölge Oyunları | Shadow Play serisi | 10-15 dk |
+
+**Birleştirme Kuralları:**
+- Her birleştirme en az 10 dakika olmalı
+- Tematik gruplama yapılmalı (uyku, keşif, ritim)
+- Video başında "Özel Bölüm" etiketi olmalı
+- Açıklamada "30 dakikalık sakinlik" gibi ebeveyn odaklı ifadeler kullanılmalı
+
+---
+
+## Ebeveyn Odaklı İçerik Stratejisi
+
+3-4 yaş çocukları YouTube veya Facebook'u kendileri keşfetmez; ekranı onlara ebeveynleri açar.
+
+### Caption Şablonları
+
+Her video paylaşımında şu pedagojik vurguları ekle:
+
+**Örnek 1 (Uyku Odaklı):**
+> "Bu bölümümüz, 3 yaş grubunun uyku öncesi sakinleşme (regülasyon) sürecini desteklemek için yüksek ses ve hızlı kurgudan uzak tasarlanmıştır."
+
+**Örnek 2 (Duyusal Keşif):**
+> "Bu bölümümüz, çocuklarımızın dokunma duyusunu ve odaklanma süresini geliştirmek için Close-up çekimlerle tasarlanmıştır."
+
+**Örnek 3 (Duygu Yönetimi):**
+> "Bu bölümümüz, çocuklarımızın duygularını tanımasına ve adlandırmasına yardımcı olmak için minimal bir dille tasarlanmıştır."
+
+### Etkileşim Çağrıları (CTA)
+
+| Platform | CTA Türü | Örnek |
+|----------|----------|-------|
+| Facebook | Yorum tetikleme | "Sizin miniğinizin en sevdiği pofuduk renk hangisi?" |
+| Instagram | Kaydetme tetikleme | "Çocuğunuz uyurken bunu dinlesin 💛" |
+| YouTube | İzlenme süresi | "30 dakikalık sakinlik kuşağı ile çocuğunuzla vakit geçirin" |
+
+### Meta Algoritması Stratejisi
+
+**Ebeveyn Kaydetmelerini (Saves) Tetikle:**
+- Videoları sadece klip gibi değil, "fayda odaklı" metinlerle paylaş
+- "Çocuğuma akşam uyurken dinleteyim" veya "Ağlama krizlerinde bunu açarım" gibi ifadeler kullan
+- Kaydedilen içerikler, algoritma ne kadar tutarsız olursa olsun hep yukarı taşınır
+
+**Ses (Audio) Gücünü Kullan:**
+- Pofuduk, sakinleştirici müzikleri ve ASMR seslerini platformlara "Resmi Ses" olarak yükle
+- Başka ebeveynler veya bebek hesapları sizin sakin sesinizi kendi videolarında kullanmaya başladıkça, algoritma sayfanızı organik olarak büyütecektir
+
+### Çoklu Dil Potansiyeli
+
+Pompom Hills evreni "evrensel" bir görsel dile sahip:
+
+- Karakterleriniz zaten çok az konuşuyor veya tamamen sevimli sesler/efektler çıkarıyor
+- Konuşmasız (non-verbal) serileri öne çıkar: Rolling Ball, Shadow Play, Guess the Texture
+- İngilizce, İspanyolca, Almanca gibi dillerde dublaj veya sadece evrensel ses efektleriyle kurgulama
+- Simon's Cat veya Minuscule mantığıyla dünya genelinde milyonlara ulaşma potansiyeli
+
 ---
 
 ## Shorts Strategy

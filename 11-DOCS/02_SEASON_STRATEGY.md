@@ -64,6 +64,21 @@ Seasons are designed to be:
 - No more than one new character per 5-episode block
 - New characters appear visually first, then speak
 
+**Yeni Karakter Fikirleri (2. Sezon +4):**
+
+| Karakter | Konsept | Renk | Mekan |
+|----------|---------|------|-------|
+| **The Cozy Delivery** | Yumuşak postacı/gezgin | Pastel turuncu | Dışarıdan gelir, yeni mekanlar tanıtır |
+| **Bahar Esintisi** | Mevsimsel karakter | Pastel yeşil/pembe | Tüm mekanlar |
+| **Pofuduk Kış Bulutu** | Mevsimsel karakter | Beyaz/mavi | Gökyüzü |
+| **Yaz Güneşi** | Mevsimsel karakter | Sarı/turuncu | Tüm mekanlar |
+
+**"Follow the Footsteps" ile Karakter Tanıtımı:**
+1. Mevcut karakter yerde ayak izi bulur (30-45sn)
+2. İzleri takip eder (pofuduk, basit animasyon)
+3. Yeni karakter surprise olarak çıkar (reveal)
+4. Böylece yeni karakter organik olarak evrene sokulur
+
 ### Season 3+
 
 - Introduce characters only when story demands
@@ -149,6 +164,73 @@ Not every recurring format needs to be a full season arc. A recurring **sub-seri
 | Sub-series | Host | Format doc | Playlist |
 |---|---|---|---|
 | Opa's Storytime | Opa + 2-3 child characters | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` | Opa's Storytime \| Gentle Preschool Stories |
+| **Pompom Yoga** | Karakter Rotation | *Yeni* | Pompom Yoga \| Beden Farkındalığı |
+| **Guess the Texture** | Karakter Rotation | *Yeni* | Guess the Texture \| Duyusal Keşif |
+| **Goodnight Pompom Hills** | Tüm Karakterler | *Yeni* | Goodnight Pompom Hills \| Uyku Rutini |
+| **Shadow Play** | Karakter Rotation | *Yeni* | Shadow Play \| Gölge Bulmaca |
+| **The Little Helper** | Karakter Rotation | *Yeni* | The Little Helper \| Nezaket Hikayeleri |
+| **The Rolling Ball** | Karakter Rotation | `08-PRODUCTION/POMPOM_OBJECTS_STRATEGY.md` | Pompom Objects \| Fiziksel Keşif |
+| **Where is the Blue Ball?** | Karakter Rotation | `08-PRODUCTION/POMPOM_OBJECTS_STRATEGY.md` | Pompom Objects \| Nesne Bulmaca |
+
+### Yeni Seri Detayları
+
+#### Pompom Yoga (Beden Farkındalığı & Regülasyon)
+- **Konsept:** Karakterler çocuklarla birlikte basit yoga hareketleri yapar
+- **Yaş grubu:** 3-4 yaş
+- **Süre:** 30-60 saniye
+- **Mekan:** Mevcut mekanlar (çimenlik, bahçe)
+- **Örnek:** "Kelebek Kanatları", "Bulut Nefesi", "Yıldız Esnemesi"
+- **Neden iş yapar:** Ebeveynler sakinleştirme/uyandırma için playlist'e ekler
+
+#### Guess the Texture (Dokunma & Duyusal Keşif)
+- **Konsept:** Karakterler pofuduk nesnelerin dokusunu keşfeder
+- **Yaş grubu:** 2-4 yaş
+- **Süre:** 15-30 saniye
+- **Mekan:** Close-up çekimler (makro)
+- **Örnek:** "Pofuduk Mantar", "Pürüzsüz Taş", "Yaprak Doku"
+- **Neden iş yapar:** Odaklanma süresini uzatır, merak tetikler
+
+#### Goodnight Pompom Hills (Uykuya Geçiş Rutini)
+- **Konsept:** Mekanların gece versiyonunda uyku rutini
+- **Yaş grubu:** 0-4 yaş
+- **Süre:** 30-60 saniye
+- **Mekan:** Gece rengi paletiyle mekanlar
+- **Örnek:** Her bölüm bir karakterin uyku serüveni
+- **Neden iş yapar:** Anneler/babalar her gece açar, yüksek tekrar izlenme
+
+#### Shadow Play (Gölge & Şekil Bulmaca)
+- **Konsept:** Karakterlerin gölgeleriyle tahmin oyunu
+- **Yaş grubu:** 3-5 yaş
+- **Süre:** 15-20 saniye
+- **Mekan:** Duvar/yaprak arkası
+- **Örnek:** "Pofuduk Kulaklar", "Kuyruk Kimin?", "Kanat Sesleri"
+- **Neden iş yapar:** Shorts/Reels için ideal, etkileşim yüksek
+
+#### The Little Helper (Yardımlaşma & Nezaket)
+- **Konsept:** Karakterlerin birbirine yardım ettiği minimal hikayeler
+- **Yaş grubu:** 2-4 yaş
+- **Süre:** 15-30 saniye
+- **Mekan:** Mevcut mekanlar
+- **Örnek:** "Top Paylaşımı", "Çiçek Hediyesi", "Sarılalım"
+- **Neden iş yapar:** Ebeveynlerin güvenli içerik aradığı alan
+
+#### The Rolling Ball (Yuvarlanan Pofuduk Top)
+- **Konsept:** Pofuduk topun hareketi ve ASMR sesleri
+- **Yaş grubu:** 3-4 yaş
+- **Süre:** 15-20 saniye
+- **Mekan:** Mevcut mekanlar
+- **Örnek:** "Top Yuvarlanıyor", "Puf Puf Zıplama"
+- **Neden iş yapar:** Sıfır diyalog, global format, merchandise potansiyeli
+- **Detay:** `08-PRODUCTION/POMPOM_OBJECTS_STRATEGY.md`
+
+#### Where is the Blue Ball? (Nesne Bulmaca)
+- **Konsept:** Mekan içinde saklı nesneleri bulma
+- **Yaş grubu:** 3-5 yaş
+- **Süre:** 15-20 saniye
+- **Mekan:** 34 mekan
+- **Örnek:** "Mavi Top Nerede?", "Yeşil Yaprak Nerede?"
+- **Neden iş yapar:** Yüksek etkileşim, ebeveyn-çocuk birlikte izleme
+- **Detay:** `08-PRODUCTION/POMPOM_OBJECTS_STRATEGY.md`
 
 Sub-series episodes still count toward season episode totals and still follow the season's onboarding policy (below) for any new character or world they introduce. They are tracked separately in `08-PRODUCTION/CONTENT_MATRIX.md` and the relevant playlist in `11-DOCS/09_YOUTUBE_STRATEGY.md` §Playlist Strategy.
 
