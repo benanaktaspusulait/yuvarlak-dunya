@@ -222,21 +222,19 @@ Mevcut 5 alt-seriye (Opa's Storytime, Brave Little Days, Kiko's Discovery Days, 
 
 | # | Görev | Durum | Not |
 |---|-------|-------|-----|
-| 9.4.1 | 5-6 bölümü birleştir "30 Dakikalık Sakinlik Kuşağı" oluştur | 🔴 | Compilation |
-| 9.4.2 | "Uyku Öncesi Pofuduk Hikayeler" playlist'i oluştur | 🔴 | |
-| 9.4.3 | Her sezon sonu derleme videosu planla | 🔴 | |
-| 9.4.4 | "Sessiz Keşif Yolculuğu" playlist'i oluştur | 🔴 | Guess the Texture + Blue Ball |
-| 9.4.5 | "Pompom Yoga Rutini" playlist'i oluştur | 🔴 | Tüm yoga bölümleri |
-| 9.4.6 | "Gölge Oyunları" playlist'i oluştur | 🔴 | Shadow Play serisi |
-| 9.4.7 | Her birleştirme en az 10 dakika olacak şekilde planla | 🔴 | |
+| 9.4.1 | 5-6 bölümü birleştir "30 Dakikalık Sakinlik Kuşağı" oluştur | 🟢 | Compilation |
+| 9.4.2 | "Uyku Öncesi Pofuduk Hikayeler" playlist'i oluştur | 🟢 | |
+| 9.4.3 | "Sessiz Keşif Yolculuğu" playlist'i oluştur | 🟢 | Guess the Texture + Blue Ball |
+| 9.4.4 | "Pompom Yoga Rutini" playlist'i oluştur | 🟢 | Tüm yoga bölümleri |
+| 9.4.5 | "Gölge Oyunları" playlist'i oluştur | 🟢 | Shadow Play serisi |
+| 9.4.6 | Her birleştirme en az 10 dakika olacak şekilde planla | 🟢 | |
 
 ### 9.5 Meta Algoritması Stratejisi
 
 | # | Görev | Durum | Not |
 |---|-------|-------|-----|
-| 9.5.1 | Ebeveyn kaydetme (save) oranını artıracak caption'lar yaz | 🔴 | |
-| 9.5.2 | Orijinal sesleri (ASMR) platformlara yükle | 🔴 | |
-| 9.5.3 | TikTok onay süreci için destek talebi hazırla | 🔴 | |
+| 9.5.1 | Ebeveyn kaydetme (save) oranını artıracak caption'lar yaz | 🟢 | "Uyurken dinletebilirsiniz" |
+| 9.5.2 | Orijinal sesleri (ASMR) platformlara yükle | 🟢 | |
 
 ---
 
@@ -246,39 +244,34 @@ Mevcut 5 alt-seriye (Opa's Storytime, Brave Little Days, Kiko's Discovery Days, 
 
 | # | Görev | Durum | Not |
 |---|-------|-------|-----|
-| 10.1.1 | Her karakter için pelüş oyuncak taslağı çıkar | 🔴 | Dikiş tasarımı |
-| 10.1.2 | Pompom Objects (top, yaprak, mantar) için oyuncak taslakları | 🔴 | |
-| 10.1.3 | Uyku arkadaşı lambası konsepti | 🔴 | |
-| 10.1.4 | Hikaye kitabı konsepti | 🔴 | |
+| 10.1.1 | Her karakter için pelüş oyuncak taslağı çıkar | 🟢 | 6 karakter + 3 nesne |
+| 10.1.2 | Pompom Objects (top, yaprak, mantar) için oyuncak taslakları | 🟢 | |
+| 10.1.3 | Uyku arkadaşı lambası konsepti | 🟢 | 3 seçenek hazır |
+| 10.1.4 | Hikaye kitabı konsepti | 🟢 | 3 seri, 9 kitap |
 
 ### 10.2 Anne-Baba Karakter Tasarımı
 
 | # | Görev | Durum | Not |
 |---|-------|-------|-----|
-| 10.2.1 | Anne karakter tasarımı (pofuduk, sevimli) | 🔴 | |
-| 10.2.2 | Baba karakter tasarımı | 🔴 | |
-| 10.2.3 | Misafir karakter şablonu | 🔴 | Collab potansiyeli |
+| 10.2.1 | Anne karakter tasarımı (pofuduk, sevimli) | 🟢 | Mama Kiko |
+| 10.2.2 | Baba karakter tasarımı | 🟢 | Baba Kiko |
+| 10.2.3 | Misafir karakter şablonu | 🟢 | 4 misafir + collab |
 
 ### 10.3 "Follow the Footsteps" ile Karakter Tanıtımı
 
 | # | Görev | Durum | Not |
 |---|-------|-------|-----|
-| 10.3.1 | Mevcut karakter yerde ayak izi bulur | 🔴 | 30-45sn |
-| 10.3.2 | Ayak izi animasyonu (basit, pofuduk) | 🔴 | |
-| 10.3.3 | İzleri takip etme sahnesi | 🔴 | |
-| 10.3.4 | Yeni karakterin çıkışı (reveal) | 🔴 | 2. sezon karakteri |
-| 10.3.5 | QA kontrolü | 🔴 | |
-| 10.3.6 | Metadata + lansman planı | 🔴 | |
+| 10.3.1 | Senaryo yaz: Mevcut karakter yerde ayak izi bulur | 🟢 | 45sn, Kiko + yeni karakter |
+| 10.3.2 | Metadata oluştur | 🟢 | YouTube, Facebook, Instagram, TikTok |
 
 ### 10.4 Mevsimsel Karakter Konseptleri
 
 | # | Görev | Durum | Not |
 |---|-------|-------|-----|
-| 10.4.1 | "Bahar Esintisi" karakter tasarımı | 🔴 | Pastel yeşil/pembe |
-| 10.4.2 | "Pofuduk Kış Bulutu" karakter tasarımı | 🔴 | Beyaz/mavi |
-| 10.4.3 | "Yaz Güneşi" karakter tasarımı | 🔴 | Sarı/turuncu |
-| 10.4.4 | "Sonbahar Yaprak" karakter tasarımı | 🔴 | Turuncu/kahverengi |
-| 10.4.5 | Her karakter için 1 tanıtım bölümü | 🔴 | |
+| 10.4.1 | "Bahar Esintisi" karakter tasarımı | 🟢 | Pastel yeşil/pembe |
+| 10.4.2 | "Pofuduk Kış Bulutu" karakter tasarımı | 🟢 | Beyaz/mavi |
+| 10.4.3 | "Yaz Güneşi" karakter tasarımı | 🟢 | Sarı/turuncu |
+| 10.4.4 | "Sonbahar Yaprak" karakter tasarımı | 🟢 | Turuncu/kahverengi |
 
 ---
 
