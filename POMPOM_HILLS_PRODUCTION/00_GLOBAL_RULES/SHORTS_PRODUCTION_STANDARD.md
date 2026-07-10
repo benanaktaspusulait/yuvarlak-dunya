@@ -426,7 +426,72 @@ Her üretilen Shorts'u izle ve kontrol et:
 
 ---
 
-## 14. İlgili Dosyalar
+## 14. YouTube Thumbnail (Önizleme Resmi)
+
+Her Shorts ve ana video için YouTube thumbnail/resim çıkarılmalıdır.
+
+### 14.1 Thumbnail Formatı
+
+| Alan | Değer |
+|------|-------|
+| Çözünürlük | 1280×720 (16:9 yatay) |
+| Format | JPG |
+| Kalite | q=2 (yüksek kalite) |
+| Minimum dosya boyutu | 100 KB |
+| Maksimum dosya boyutu | 2 MB |
+
+### 14.2 Thumbnail Çıkarma Akışı
+
+```
+1. Ana videoyu bul
+        ↓
+2. Farklı anlardan 6 frame çıkar (2sn, 8sn, 15sn, 45sn, 90sn, 110sn)
+        ↓
+3. Her frame'i 1280×720 JPG olarak kaydet
+        ↓
+4. Kullanıcıya sun, en iyisini seç
+        ↓
+5. Seçileni "thumbnail.jpg" olarak kaydet
+```
+
+### 14.3 ffmpeg Komutu
+
+```bash
+# Tek frame çıkarma
+ffmpeg -ss [SN] -i [ANA_VIDEO] -vframes 1 -q:v 2 [ÇIKIŞ_DOSYASI].jpg
+
+# 6 frame çıkarma (farklı anlar)
+for t in 2 8 15 45 90 110; do
+  ffmpeg -y -ss $t -i [ANA_VIDEO] -vframes 1 -q:v 2 "thumb_${t}s.jpg"
+done
+```
+
+### 14.4 Thumbnail Seçim Kriterleri
+
+| Kriter | Açıklama |
+|--------|----------|
+| Karakter görünür mü? | En az 1 karakter net görünmeli |
+| Renkler canlı mı? | Sıcak, çocuk dostu renkler |
+| Duygu var mı? | Heyecan, merak, mutluluk |
+| Arka plan temiz mi? | Karakter arka plandan ayrışmalı |
+| Metin okunabilir mi? | Varsa overlay text net olmalı |
+
+### 14.5 Thumbnail Dosya Yapısı
+
+```
+03_VIDEO_EXPORTS/shorts/
+├── thumb_02s.jpg
+├── thumb_08s.jpg
+├── thumb_15s.jpg
+├── thumb_45s.jpg
+├── thumb_90s.jpg
+├── thumb_110s.jpg
+└── thumbnail.jpg  (seçilen)
+```
+
+---
+
+## 15. İlgili Dosyalar
 
 | Dosya | Amaç |
 |-------|------|
@@ -441,4 +506,4 @@ Her üretilen Shorts'u izle ve kontrol et:
 ---
 
 *Oluşturulma: 7 Temmuz 2026*
-*Son güncelleme: 7 Temmuz 2026*
+*Son güncelleme: 10 Temmuz 2026*
