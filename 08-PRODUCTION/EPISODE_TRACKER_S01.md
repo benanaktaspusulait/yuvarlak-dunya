@@ -38,7 +38,7 @@
 | S01E06 | The Soft Wind | 🌿 Nature | Kiko, Mimi | Little Forest | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E07 | The Round Stone | 🎓 Learning, 🌿 Nature | Luca, Kiko | Stone Hill | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E08 | Building Together | 🙌 Helper, 🤝 Social | Noah, Arda | Central Square | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E09 | The Quiet Place | 💛 Feelings | Kiko, Opa | Opa's Tree | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E09 | **Kiko'nun Uyku Zamanı** | 🌙 Bedtime | Kiko | Gece Mekanı | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E10 | My Turn, Your Turn | 🤝 Social | Luca, Noah | Central Square | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E11 | Goodnight Tree | 🌙 Bedtime | Arda, Opa | Opa's Tree | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E12 | Why Do Leaves Fall | 🎓 Learning, 🌿 Nature | Kiko, Opa | Little Forest | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
@@ -47,8 +47,8 @@
 | S01E15 | Butterfly Journey | 🌿 Nature | Luca, Kiko | Butterfly Meadow | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E21 | The Crystal Cave | 🌿 Nature, 🎓 Learning | Luca, Kiko | Stone Hill | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E22 | Rainbow Wishes | 🌿 Nature, 💛 Feelings | Kiko, Mimi | Rainbow Bridge | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E23 | Starlight Night | 🌙 Bedtime, 🌿 Nature | Kiko, Opa | Central Square (Night) | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E24 | Music Trees | 🎨 Creativity, 🌿 Nature | Noah, Arda | Music Hill | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E23 | **Mimi'nin Yastığı** | 🌙 Bedtime | Mimi | Gece Mekanı | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E24 | **Kelebek Kanatları** | 🧘 Yoga | Kiko | Merkez Mekan | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E26 | Goodbye, See You Soon | 🤝 Social | Kiko, Mimi, Opa + tümü | Central Square | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 
 ---

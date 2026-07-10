@@ -26,6 +26,27 @@
 
 ---
 
+## Yeni Seriler (Sezon 3)
+
+### Guess the Texture (Duyusal Keşif)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S03-GTT-01 | Pofuduk Mantar | Kiko | Close-up (makro) | 🟡 Yazıldı | 20 sn |
+
+### Pompom Objects (Nesne Keşfi)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S03-OBJ-02 | Mavi Top Nerede? | Kiko | Merkez Mekan | 🟡 Yazıldı | 20 sn |
+
+### The Little Helper (Nezaket Hikayeleri - Devam)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S03-LH-04 | Top Paylaşımı | Kiko, Noah | Merkez Mekan | 🟡 Yazıldı | 20 sn |
+| S03-LH-05 | Çiçek Hediyesi | Mimi, Luca | Merkez Mekan | 🟡 Yazıldı | 20 sn |
+| S03-LH-06 | Sarılalım | Tümü | Merkez Mekan | 🟡 Yazıldı | 20 sn |
+
+---
+
 ## Durum Kodları
 
 | Kod | Anlam |
@@ -44,8 +65,11 @@
 |--------|-------|
 | Ana sezon | 1 bölüm |
 | BLD | 5 bölüm |
-| Toplam | 6 bölüm |
-| Yazılan | 6 (%100) |
+| Guess Texture | 1 bölüm |
+| Pompom Objects | 1 bölüm |
+| Little Helper (devam) | 3 bölüm |
+| **Toplam** | **11 bölüm** |
+| Yazılan | 11 (%100) |
 | Üretilen | 0 (%0) |
 
 ---

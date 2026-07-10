@@ -27,6 +27,45 @@
 
 ---
 
+## Yeni Seriler (Sezon 2)
+
+### Shadow Play (Gölge Bulmaca)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S02-SP-01 | Pofuduk Kulaklar | Mimi (gölge), Kiko (tahmin) | Duvar Arkası | 🟡 Yazıldı | 15 sn |
+| S02-SP-02 | Kuyruk Kimin? | Kiko (gölge), Mimi (tahmin) | Yaprak Arkası | 🟡 Yazıldı | 15 sn |
+| S02-SP-03 | Kanat Sesleri | Opa (gölge), Luca (tahmin) | Ağaç Arkası | 🟡 Yazıldı | 15 sn |
+
+### Follow the Footsteps (Yeni Karakter Tanıtımı)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S02-FTF-01 | Ayak İzlerini Takip Et | Kiko + yeni karakter | Merkez Mekan | 🟡 Yazıldı | 45 sn |
+
+### Pompom Yoga (Beden Farkındalığı)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S02-YOGA-02 | Bulut Nefesi | Mimi | Gökyüzü Manzarası | 🟡 Yazıldı | 30 sn |
+| S02-YOGA-03 | Yıldız Esnemesi | Luca | Gece Gökyüzü | 🟡 Yazıldı | 30 sn |
+
+### Goodnight Pompom Hills (Uyku Rutini)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S02-GN-03 | Opa'nın Ninnisi | Opa | Gece Mekanı | 🟡 Yazıldı | 45 sn |
+
+### Pompom Objects (Nesne Keşfi)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S02-OBJ-01 | Top Yuvarlanıyor | Kiko, Luca | Merkez Mekan | 🟡 Yazıldı | 15 sn |
+
+### The Little Helper (Nezaket Hikayeleri)
+| Bölüm | Başlık | Karakter | Mekan | Durum | Süre |
+|-------|--------|----------|-------|-------|------|
+| S02-LH-01 | Top Paylaşımı | Kiko, Noah | Merkez Mekan | 🟡 Yazıldı | 20 sn |
+| S02-LH-02 | Çiçek Hediyesi | Mimi, Luca | Merkez Mekan | 🟡 Yazıldı | 20 sn |
+| S02-LH-03 | Sarılalım | Tümü | Merkez Mekan | 🟡 Yazıldı | 20 sn |
+
+---
+
 ## Durum Kodları
 
 | Kod | Anlam |
@@ -45,8 +84,14 @@
 |--------|-------|
 | Ana sezon | 6 bölüm |
 | BLD | 1 bölüm |
-| Toplam | 7 bölüm |
-| Yazılan | 7 (%100) |
+| Shadow Play | 3 bölüm |
+| Follow Footsteps | 1 bölüm |
+| Pompom Yoga | 2 bölüm |
+| Goodnight | 1 bölüm |
+| Pompom Objects | 1 bölüm |
+| Little Helper | 3 bölüm |
+| **Toplam** | **17 bölüm** |
+| Yazılan | 17 (%100) |
 | Üretilen | 0 (%0) |
 
 ---
