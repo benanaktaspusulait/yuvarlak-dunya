@@ -1,6 +1,20 @@
 # TikTok Caption
 
 ## Caption
-The Round Stone — a gentle story for little ones 🌈
+Luca finds a smooth round stone on Stone Hill and shares it with Kiko! 🪨✨
 
-#PompomHills #Shorts #PreschoolAnimation
+A gentle story about curiosity, shapes, and friendship.
+
+#PompomHills #Shorts #PreschoolAnimation #ShapesForKids #KidsAnimation #ToddlerCartoon #GentleKids #StoneHill #LucaAndKiko
+
+## Shorts Captions
+
+### Short 1 — What's This?
+Luca discovers a round stone on Stone Hill! 🪨 What could it be?
+
+#PompomHills #Shorts #CuriosityForKids #ShapesForKids
+
+### Short 2 — Together
+They share their discovery so everyone can see it. 💛
+
+#PompomHills #Shorts #SharingForKids #TogetherForKids
