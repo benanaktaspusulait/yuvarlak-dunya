@@ -491,7 +491,84 @@ done
 
 ---
 
-## 15. İlgili Dosyalar
+## 15. Dikey Video Üretim Akışı
+
+### 15.1 Short Sayısı — Bölüm Süresine Göre
+
+| Bölüm Süresi | Short Sayısı | Gerekçe |
+|--------------|:------------:|---------|
+| 90s (1:30) | 2 | Az malzeme, sadece en güçlü anlar |
+| 120s (2:00) | 2 | Orta malzeme, hook + kapanış |
+| 180s (3:00) | 5 | Zengin malzeme, çoklu keşif anı |
+
+### 15.2 Segment Bazlı Crop Workflow
+
+Karakterler kadrajda farklı yatay konumlardaysa, tek statik crop yeterli değildir.
+
+```text
+1. Kaynak videoyu shot'lardan birleştir (title overlay olmadan)
+2. Zaman dilimlerine böl
+3. Her dilim için farklı crop X değeri uygula
+4. ffmpeg -f concat ile birleştir
+5. Kullanıcı her dilimi doğrulayana kadar bekle
+```
+
+### 15.3 Crop X Değerleri
+
+1280×720 kaynaktan `scale=-2:1920` → genişlik ~3413px.
+
+| Konum | Crop X | Açıklama |
+|-------|:------:|----------|
+| Sol kenar | 0 | En sol |
+| Sol orta | 366 | 800px sola kaydırılmış |
+| Sol | 666 | 500px sola kaydırılmış |
+| Sol-orta | 866 | 300px sola kaydırılmış |
+| Orta | 1166 | Standart merkez crop |
+| Sağ-orta | 1566 | 400px sağa kaydırılmış |
+| Sağ | 1766 | 600px sağa kaydırılmış |
+| Sağ kenar | 2333 | Maksimum (3413-1080) |
+
+### 15.4 Standart Kaydırma — İlk 5 Saniye
+
+```text
+İlk 5sn: crop X=866 (300px sola)
+Kalan:   crop X=1166 (orta)
+```
+
+Kullanıcı onayıyla özelleştirilebilir. S01E05'te farklı değerler kullanıldı (800px, 500px, 400px sağa).
+
+### 15.5 Tam Dikey Video
+
+- Tüm shot'ları birleştir (title overlay olmadan)
+- Kısa videoyla aynı crop mantığını uygula
+- Shot'lardan oluştur (birleşik video değil) → title eklenirse temiz kaynaktan yeniden oluşturulabilir
+
+### 15.6 Title Overlay Kuralı
+
+```text
+- add_title.sh videonun üzerine kalıcı olarak biner
+- Title eklenirse, daha sonra kaldırılamaz
+- Dikey videoyu OLAĞAN shot'lardan oluştur (başlıksız)
+- Title gerekirse, dikey çevrimden SONRA ayrı adım olarak ekle
+- Hiçbir zaman birleşik videoyu başlık ile kaydetme
+```
+
+### 15.7 YouTube Full Vertical Short Metni
+
+Her bölüm için tam dikey videoya özel YouTube Short metadata'sı oluşturulmalı:
+
+```text
+**Title:** [Bölüm Adı] | Full Episode | [Karakterler] | Pompom Hills Shorts
+**Description:** [1-2 cümlelik hikaye özeti] 🌈
+[Bölüm, karakter, mekan, tema bilgisi]
+Watch more Pompom Hills: https://www.youtube.com/@PompomHills
+#PompomHills #Shorts #PreschoolAnimation #[tema]
+**Tags:** Pompom Hills, Shorts, preschool animation, kids animation, ...
+```
+
+---
+
+## 16. İlgili Dosyalar
 
 | Dosya | Amaç |
 |-------|------|
@@ -506,4 +583,4 @@ done
 ---
 
 *Oluşturulma: 7 Temmuz 2026*
-*Son güncelleme: 10 Temmuz 2026*
+*Son güncelleme: 11 Temmuz 2026*
