@@ -21,30 +21,41 @@ Kiko sees the ground covered in colorful leaves. Opa watches from nearby.
 
 ## Continuity
 
-Direct continuation from Shot 08. Background locked.
+Direct continuation from Shot 08. Shot 08 final frame shows Kiko holding the same red and golden plush Pompom Leaves. Opa remains already visible and stable nearby in the background. Background locked.
 
 ## Frame-to-Video Continuity
 
-@image1 = approved final frame of previous shot.
+@image1 = approved final frame of Shot 08.
+Episode Colour Master = 01_SHOTS/png/openart-shot.png.
+If OpenArt supports multiple image references, use @image2 = shot-1-final-frame.png (the approved Shot 01 video frame showing Kiko in Little Forest autumn golden palette). @image2 is the colour, brightness, and contrast reference for the entire episode. Use @image2 ONLY for colour, brightness, contrast, saturation, shadow softness, and matte material feel. Do not use @image2 for composition, layout, character position, or camera angle.
+Use @image1 for first-frame composition, character positions, action continuity, and object layout.
+Use @image2 only for colour, brightness, contrast, saturation, shadow softness, and matte material feel.
+Do not let @image1's accumulated video contrast override @image2. @image2 (Shot 01 frame) is the correct colour baseline. If @image1 has drifted darker or more contrasty, @image2 should win.
 Use @image1 as the only visual continuity source.
-First visible frame must match @image1.
+First visible frame must match @image1 exactly.
 Do not create a new establishing shot.
 Do not create a separate first frame.
 Do not use failed frames or videos as references.
 Do not redesign, recompose, widen, zoom, or reset the Little Forest.
-Keep all trees, paths, leaves, ground, lighting, and character positions consistent with @image1.
+No camera reset.
+Keep all trees, paths, mushrooms, leaves, ground, lighting, and character positions consistent with @image1.
+No new character pop-in. No extra characters.
 Locked camera only.
-No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or angle change.
+No zoom, pan, tilt, push-in, pull-back, tracking, reframe, reveal, widen, camera reveal, or angle change.
 
 ## Visual Prompt
 
 ```text
-Little Forest, warm autumn sunlight. First visible frame matches Shot 08 final frame — Kiko holding two Pompom Leaves, same composition. Kiko kneels to look at the colorful carpet of fluffy plush Pompom Leaves — soft round cotton-like leaves in autumn gold, autumn red, and autumn cream, no veins, soft edges. If Opa is not visible in @image1 (Shot 08 final frame), introduce wise owl Opa (round warm green feathers #A5D6A7, golden glasses #FFD54F, orange beak, soft brown shawl #A1887F) gently after 2 seconds at the edge of the existing locked scene, already seated under the same tree, small and non-dominant. No sudden pop-in. No camera reframe. No new establishing shot. Kiko looks around in wonder at the golden landscape. The Little Forest background matches @image1 exactly; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
+Little Forest, warm autumn sunlight. First visible frame matches Shot 08 final frame exactly — Kiko holds the same red and golden plush Pompom Leaves in the same composition. Opa is already visible and stable nearby in the background from @image1. No sudden pop-in. No new establishing shot.
+
+Kiko kneels gently in place to look at the colorful carpet of fluffy plush Pompom Leaves already covering the ground — soft round cotton-like leaves in autumn gold #FFCC80, autumn red #F8BBD0, and autumn cream #FFF8E1, no veins, soft edges. Kiko keeps the red and golden leaves with her while she looks around in wonder at the golden landscape. Opa remains standing nearby under the same big autumn tree, small and non-dominant, watching warmly. When Opa speaks, his orange beak opens and closes naturally in sync with his dialogue — small, gentle, owl-like movement, not a wide human-like mouth.
+
+The Little Forest background matches @image1 exactly; keep all trees, paths, mushrooms, leaves, ground, lighting, character positions, and environment stable. Preserve warm golden autumn sunlight and matte handcrafted preschool style. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. No tree hollow. No cropped giant mushroom. No blue bird. No animals. No extra characters. {style} {camera} {lighting}
 ```
 
 ## Camera Direction
 
-Continue from @image1 with the same camera angle, same framing, same lens feeling, and same composition. Locked camera. No zoom, no reframe, no widen, no close-up reset, no angle change.
+Continue from @image1 with the same camera angle, same framing, same lens feeling, and same composition. Locked camera. No camera reset, no zoom, no pan, no tilt, no push-in, no pull-back, no tracking, no reframe, no reveal, no widen, no close-up reset, no angle change.
 
 ## Dialogue
 
@@ -54,30 +65,44 @@ Kiko: It's like a rainbow carpet!
 Opa: The forest isn't losing its leaves. It's showing us all its colors.
 ```
 
+## Voice Rule
+
+Use the exact same approved saved Kiko voice asset / voice preset / voice ID.
+Do not generate a new Kiko voice.
+Kiko must sound curious, playful, warm, and preschool-safe — same as the approved Kiko voice.
+
+Use the exact same approved saved Opa voice asset / voice preset / voice ID.
+Do not generate a new Opa voice.
+Do not use narrator voice.
+Do not change pitch, age, accent, speed, stability, similarity, or style.
+Opa must sound warm, gentle, wise, grandfatherly, and soft — same as the approved Opa voice.
+
 ## Shot Breakdown
 
 | Time | Action | Camera |
 |------|--------|--------|
-| 0-3 sec | Kiko kneels among the colorful leaf carpet | Locked @image1 hold |
+| 0-3 sec | First frame matches @image1: Kiko holds red and golden Pompom Leaves, Opa already visible nearby | Locked @image1 hold |
 | 3-6 sec | She looks around in wonder at the golden landscape | Locked @image1 hold |
-| 7-10 sec | Opa watches from nearby with a gentle smile | Locked @image1 hold |
-| 11-15 sec | "It's like a rainbow carpet!" — wonder expression | Locked @image1 hold |
+| 7-10 sec | Kiko kneels gently among the existing colorful leaf carpet | Locked @image1 hold |
+| 11-15 sec | Opa explains gently, beak synced: "It's showing us all its colors." | Locked @image1 hold |
 
 ## Natural Character Motion Rule
 
-The shot begins alive immediately. Kiko kneels gently to look at the carpet of leaves. She looks around with wonder at the golden landscape. Opa watches from nearby. Motion is small, gentle, and preschool-safe. No running. No chase. No jumping. No spinning. No large travel. No side switching. No exaggerated gesture. No delayed dialogue. No empty opening seconds. No dead air. No silent idle opening.
+The shot begins alive immediately from @image1. Kiko keeps the same red and golden Pompom Leaves from Shot 08 and kneels gently in place to look at the existing carpet of leaves. She looks around with wonder at the golden landscape. Opa remains already visible and stable nearby; he does not pop in, enter from off-frame, or suddenly sit. When Opa speaks, his beak opens and closes in sync with the dialogue. Motion is small, gentle, and preschool-safe. No running. No chase. No jumping. No spinning. No large travel. No side switching. No exaggerated gesture. No delayed dialogue. No empty opening seconds. No dead air. No silent idle opening.
 
 ## Sound
 
-Soft wind, leaves rustling gently.
+Soft natural Little Forest ambience: gentle leaf rustle, light breeze, calm outdoor warmth. Keep ambience very soft under dialogue. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
 
 ## Lighting
 
 Warm autumn sunlight. Soft golden colour palette. Medium-low contrast. Gentle golden warmth. Soft shadows. No colour drift. No exposure drift. No saturation drift. No sudden lighting change. No night. No sunset. No evening. No moonlight. No stars.
+Do not make the frame darker than @image1. Preserve warm golden autumn sunlight and matte handcrafted preschool style. No HDR. No glossy look. No oversharpened look.
 
 ## Colour / Contrast Stability
 
 This shot continues from @image1, the approved final frame of the previous shot.
+Colour master: use 01_SHOTS/png/openart-shot.png as the Episode Colour Master. Do not use a screenshot. Do not allow contrast, saturation, brightness, shadow depth, sharpness, gloss, or HDR look to drift from the Episode Colour Master.
 
 Match @image1 for lighting, colour temperature, softness, exposure, shadow level, material feel, and overall atmosphere.
 
@@ -91,8 +116,10 @@ Preserve matte handcrafted toy-set materials.
 Do not intensify the previous frame.
 Do not increase contrast.
 Do not increase saturation.
+Do not make the frame darker than @image1.
 Do not add HDR effect.
 Do not add extra sharpening.
+Do not create an oversharpened look.
 Do not add glossy plastic highlights.
 Do not create harsher shadows.
 Do not brighten highlights into a blown-out look.
@@ -101,6 +128,7 @@ Do not make the autumn colours more orange, red, neon, or intense than @image1.
 Do not make the scene look more cinematic, dramatic, glossy, or high-energy than @image1.
 
 If any visual adjustment happens, it must move slightly softer, calmer, warmer, and more matte — never stronger, sharper, glossier, darker, more saturated, or more contrasty.
+CRITICAL: Use @image2 (Shot 01 frame) as the colour brightness and contrast reference. If the frame becomes darker than @image2, correct it back to @image2's level.
 
 ### Colour Retention Rule (Video Generation)
 
@@ -112,7 +140,7 @@ The video must feel like a continuous warm golden autumn scene, not a desaturate
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, night sky, stars, moonlight, background music, music, melody, song, soundtrack, rain, snow, storm, wind gust, strong wind, night, evening, sunset, moonlight, artificial light, indoor, building, house, road, car, modern elements, urban, city, people, adults, animals, insects, water, river, stream, pond, bridge, waterfall, sign, signs, readable text, label, symbol, letter, letters, arrow, direction mark, carved mark, painted mark, sign-like shape, marking on tree trunk, tree trunk symbol, yellow Y shape, carved letter, glyph, rune, logo, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, new character pop-in, Opa pop-in, Opa appearing after frame 1, Opa disappearing, sudden sitting, seated at frame 1, bird, blue bird, animal, animals, insects, night sky, stars, moonlight, background music, music, melody, song, soundtrack, narrator voice, rain, snow, storm, wind gust, strong wind, night, evening, sunset, moonlight, artificial light, indoor, building, house, road, car, modern elements, urban, city, people, adults, water, river, stream, pond, bridge, waterfall, sign, signs, readable text, label, labels, symbol, letter, letters, arrow, direction mark, carved mark, painted mark, sign-like shape, marking on tree trunk, tree trunk symbol, tree hollow, yellow Y shape, carved letter, glyph, rune, logo, cropped mushroom, cropped giant mushroom, giant mushroom, foreground mushroom, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges, new object appearing suddenly, sudden new leaf, leaf appearing from nowhere, HDR, HDR look, glossy, glossy plastic, oversharpened, extra sharp, contrast increase, saturation increase, frame darker than @image1
 
 ---
 
@@ -120,6 +148,10 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 - [ ] Kiko and Opa present, no extra characters
 - [ ] Little Forest reads well; autumn golden palette
+- [ ] Opa already visible from first frame; no pop-in
+- [ ] Kiko keeps the same red and golden Pompom Leaves from Shot 08
+- [ ] Same approved saved Kiko and Opa voice assets / voice presets / voice IDs
+- [ ] Opa's beak moves when speaking
 - [ ] Colorful leaf carpet visible on ground
 - [ ] Full forest scene visible
 - [ ] Warm autumn sunlight, not night
@@ -132,9 +164,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - [ ] No cropped mushroom / tree hollow
 - [ ] No text / signs / labels
 - [ ] Leaves are fluffy Pompom Leaves (round, cotton-like, no veins)
-- [ ] If Opa is visible in @image1, he remains stable from first frame
-- [ ] If Opa is not visible in @image1, he is introduced gently after 2 seconds with no sudden pop-in
-- [ ] Opa introduced gently if not in @image1 (no sudden pop-in)
+- [ ] Opa remains stable from first frame
 - [ ] Camera framing matches @image1; no new close-up/wide reset
 - [ ] First visible frame matches @image1
 - [ ] No sudden new character pop-in

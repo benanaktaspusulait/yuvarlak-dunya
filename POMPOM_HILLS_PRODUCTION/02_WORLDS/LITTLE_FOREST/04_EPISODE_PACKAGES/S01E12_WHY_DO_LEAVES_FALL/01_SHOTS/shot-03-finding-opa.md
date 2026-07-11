@@ -56,8 +56,8 @@ Continue from @image1 with the same camera angle, same framing, same lens feelin
 
 ```text
 Kiko: Opa?
-Opa: Ah, a good question, little one.
 Kiko: Why do leaves fall?
+Opa: Ah, a good question, little one.
 ```
 
 ## Voice Rule
@@ -76,7 +76,7 @@ Opa must sound warm, gentle, wise, grandfatherly, and soft — same as the appro
 | 3-6 sec | She hears Opa's voice, lifts her head, turns toward sound | Locked @image1 hold |
 | 6-10 sec | Takes one or two small steps toward big tree area | Locked @image1 hold |
 | 10-13 sec | "Why do leaves fall?" — curious expression | Locked @image1 hold |
-| 13-15 sec | Settles, waits for Opa's response | Locked @image1 hold |
+| 13-15 sec | Opa answers gently from off-screen or nearby: "Ah, a good question, little one." | Locked @image1 hold |
 
 ## Natural Character Motion Rule
 

@@ -493,6 +493,22 @@ done
 
 ## 15. Dikey Video Üretim Akışı
 
+### 15.0 Brightness Normalizasyonu (Her Shot Üretimi Sonrası Zorunlu)
+
+> Video üretim modelleri her shot'ta parlaklığı düşürme eğilimindedir (S01E12: 109→97→93).
+> Her shot üretilip onaylandıktan HEMEN SONRA bu script çalıştırılmalıdır:
+
+```bash
+python3 POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/TOOLS/normalize-brightness.py <video_dizini> 109
+```
+
+Script ne yapar:
+- Her shot mp4'ünden orta frame'den parlaklık ölçer
+- Hedef parlaklık (varsayılan 109) ile karşılaştırır
+- Fark > 2.0 ise otomatik düzeltme uygular
+- Orijinali `-original.mp4` olarak yedekler
+- Düzeltilmiş halini orijinalin yerine koyar
+
 ### 15.1 Short Sayısı — Bölüm Süresine Göre
 
 | Bölüm Süresi | Short Sayısı | Gerekçe |
@@ -583,4 +599,4 @@ Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 ---
 
 *Oluşturulma: 7 Temmuz 2026*
-*Son güncelleme: 11 Temmuz 2026*
+*Son güncelleme: 11 Temmuz 2026 — Brightness normalizasyon script'i eklendi*

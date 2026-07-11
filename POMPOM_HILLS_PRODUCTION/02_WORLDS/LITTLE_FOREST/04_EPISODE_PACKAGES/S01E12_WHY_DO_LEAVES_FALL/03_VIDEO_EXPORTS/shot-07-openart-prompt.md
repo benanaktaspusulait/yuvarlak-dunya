@@ -4,59 +4,85 @@
 
 Duration: 15 seconds.
 
-Use @image1 as the exact locked first frame and only visual continuity source.
+@image1 = approved final frame of Shot 06.
+@image2 = Episode Colour Master: 01_SHOTS/png/openart-shot.png.
 
+Use @image1 as the exact locked first frame and only visual continuity source.
+Use @image2 only as the fixed colour, brightness, contrast, saturation, shadow softness, and matte material reference.
+@image1 controls first-frame composition, character positions, action continuity, and object layout.
+@image2 controls colour grade only. Do not copy @image2 camera, framing, character position, background layout, or action.
+If @image1 has become darker, harsher, more saturated, sharper, glossier, or more contrasty than @image2, correct back toward @image2 while keeping @image1 composition unchanged.
+First visible frame must match @image1 exactly.
+No new establishing shot.
+No separate first frame.
+No camera reset.
+No zoom, pan, tilt, push-in, pull-back, tracking, reframe, reveal, widen, or angle change.
 Do not reinterpret @image1.
 
 0-1 second:
 Hold @image1 almost exactly.
-Kiko is visible holding a leaf.
+Kiko watches the existing falling leaves while holding the golden plush Pompom Leaf in one hand.
+Opa remains already visible and stable nearby in the background if present in @image1.
 No camera movement.
 No lighting change.
 No colour grading change.
 
 After 1 second:
-Kiko looks down at the ground — camera follows her gaze.
-The colorful carpet of golden and orange leaves fills the frame.
-Kiko kneels down, reaching toward the leaves gently.
-She touches the leaves, spreading them slightly.
-She speaks her line, looking up at the trees.
-She smiles warmly — the forest is changing, not losing.
+A bright red fluffy plush Pompom Leaf separates from the existing falling leaves and spirals down slightly faster than the others, still gentle and preschool-safe.
+Kiko looks up, tracks it with her eyes, and reaches up excitedly with her free hand while keeping the golden plush Pompom Leaf in her other hand.
+Opa remains small, quiet, and non-dominant in the background.
+No dialogue from Opa.
 
 Preserve exactly from @image1:
-Little Forest round soft trees, warm pastel colors, night sky with stars, moonlight, forest clearing, fallen leaves on ground.
+All trees, paths, mushrooms, leaves, ground, lighting, character positions, warm golden autumn sunlight, and matte handcrafted preschool style.
 
-Kiko: small, round, toddler-like, soft toy-like character in warm pastel colors.
-
-No other characters. No Opa. No text. No captions.
+Preserve colour/contrast from @image2:
+original Shot 01 colour temperature, original brightness, original medium-low contrast, original saturation, soft lifted shadows, gentle highlights, matte handcrafted preschool finish. Never use @image1's accumulated video contrast as the colour master.
 
 Dialogue:
-Kiko: It's so beautiful.
+Kiko: That one's red!
+Kiko: It's falling so fast!
+Kiko: Is that one in a hurry?
 
-## Voice Lock
+## Voice Rule
 
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
+Use the exact same approved saved Kiko voice asset / voice preset / voice ID.
+Do not generate a new Kiko voice.
+Do not use narrator voice.
+Do not change pitch, age, accent, speed, stability, similarity, or style.
+Kiko must sound curious, playful, warm, and preschool-safe — same as the approved Kiko voice.
+
+## Sound
+
+Soft natural Little Forest ambience: gentle leaf rustle, light breeze, calm outdoor warmth. Keep ambience very soft under dialogue. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
 
 ## Negative Prompt
 
-camera pull-back, wider first frame, recomposed scene, new establishing shot, camera reset, changed camera angle, changed lighting, changed colour grading, no lighting changes, no colour grading changes, no camera reset, no new environment, no establishing shot, no character entrance, extra characters, Opa, text, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, dark areas growing darker, highlights growing brighter, lighting becoming harsher
-
+camera pull-back, wider first frame, recomposed scene, new establishing shot, separate first frame, camera reset, changed camera angle, changed lighting, changed colour grading, no new environment, character entrance, new character pop-in, extra characters, Opa disappearing, text, signs, labels, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, narrator voice, blue bird, bird, animal, animals, insects, water, river, stream, pond, bridge, tree hollow, cropped mushroom, cropped giant mushroom, giant mushroom, foreground mushroom, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges, new object appearing suddenly, sudden new leaf, leaf appearing from nowhere, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, frame darker than @image1, dark areas growing darker, highlights growing brighter, lighting becoming harsher
 
 ## OpenArt Ayarları
 
 - Duration: 15 seconds
 - @image1: Shot 06 exported continuity frame
+- @image2: Episode Colour Master = 01_SHOTS/png/openart-shot.png
+- Use @image1 for composition/action continuity only
+- Use @image2 for colour/brightness/contrast/saturation only
+- Auto enhance / auto contrast / cinematic grading: Kapalı
 - Prompt enhancer: Kapalı
 - Cinematic/auto camera: Kapalı
-
 
 ## Approval Checklist
 
 - [ ] First frame matches @image1
+- [ ] Colour, brightness, saturation and contrast match @image2 Episode Colour Master
+- [ ] @image1 is not allowed to intensify contrast over @image2
+- [ ] Kiko keeps the golden plush Pompom Leaf in one hand
+- [ ] Red Pompom Leaf comes from existing falling leaves, not a sudden new object
+- [ ] Opa remains visible and stable if present in @image1
+- [ ] Same approved saved Kiko voice asset / voice preset / voice ID
 - [ ] No camera movement
-- [ ] Character voices match registered Voice IDs — no drift
+- [ ] No blue bird / animal / extra character
+- [ ] No text / signs / labels
+- [ ] No tree hollow / cropped giant mushroom
 - [ ] No contrast / saturation / HDR / glossy drift from @image1
 - [ ] Dialogue begins early — no dead air

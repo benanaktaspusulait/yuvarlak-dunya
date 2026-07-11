@@ -140,7 +140,17 @@ For every frame-to-video continuity prompt, include a Colour / Contrast Stabilit
 
 ```
 Colour / Contrast Stability:
-Match @image1 for continuity, but do not intensify it.
+Use @image1 for continuity, first-frame composition, character positions, object layout and
+action placement.
+Use the Episode Colour Master for colour, brightness, contrast, saturation, shadow softness
+and matte material feel.
+If the production tool supports multiple image references, upload the Episode Colour Master
+as @image2.
+@image2 = Episode Colour Master only. Do not copy @image2 camera, framing, character
+position, background layout, or action.
+If @image1 has accumulated video-generation drift and is darker, harsher, sharper, glossier,
+more saturated, or more contrasty than @image2, keep @image1 composition but correct colour
+back toward @image2.
 Preserve the soft pastel preschool look.
 Preserve medium-low contrast.
 Preserve warm morning dappled sunlight.
@@ -160,6 +170,24 @@ If any adjustment happens, it should be slightly softer and calmer, never strong
 sharper, glossier, darker, or more contrasty.
 ```
 
+OpenArt-facing prompt wording:
+
+```
+@image1 = approved final frame of previous shot.
+@image2 = Episode Colour Master: [approved original Shot 01 still].
+
+Use @image1 as the exact locked first frame and only composition/action continuity source.
+Use @image2 only as the fixed colour, brightness, contrast, saturation, shadow softness,
+and matte material reference.
+@image1 controls first-frame composition, character positions, action continuity, and
+object layout.
+@image2 controls colour grade only. Do not copy @image2 camera, framing, character
+position, background layout, or action.
+If @image1 has become darker, harsher, more saturated, sharper, glossier, or more
+contrasty than @image2, correct back toward @image2 while keeping @image1 composition
+unchanged.
+```
+
 Add these terms to the global negative prompt for all OpenArt video prompts:
 
 ```
@@ -174,6 +202,8 @@ Add this checklist item to every frame-to-video approval checklist:
 
 ```
 - [ ] No contrast / saturation / HDR / glossy / oversharpened drift from @image1
+- [ ] Colour, brightness, saturation and contrast match the Episode Colour Master
+- [ ] @image1 is not allowed to intensify contrast over the Episode Colour Master
 ```
 
 ### Character Voice Lock Rule

@@ -52,18 +52,62 @@ Maintain:
 
 ## Voice Continuity
 
+> OpenArt her shot'ta yeni ses üretme eğilimindedir. Bu kural bunu engeller.
+
 The speaking voices MUST remain identical across the whole episode.
 
-Maintain:
-- same voice identity per character
-- same pitch
-- same timbre
-- same speaking speed
-- same warmth
-- same preschool naturalness
+### Zorunlu Ses Kuralı (Her Shot İçin)
 
-Do not generate a narrator.
-Do not generate alternate voices.
+Her shot'ta açıkça belirtilmeli:
+
+```text
+Use the exact same approved saved [CHARACTER] voice asset / voice preset / voice ID.
+Do not generate a new [CHARACTER] voice.
+Do not use a narrator voice.
+Do not change pitch, age, accent, speed, stability, similarity, or voice style.
+[CHARACTER] must sound [description] — same as the approved [CHARACTER] voice.
+```
+
+### Voice Asset Kullanım Kuralı
+
+- Her karakter için onaylanmış bir ses kaydı (voice asset / preset / ID) vardır
+- Bu ses kaydı tüm shot'larda AYNI olmalıdır
+- Yeni ses ÜRETİLMEMELİDIR
+- Narrator voice KULLANILMAMALIDIR
+- Pitch, age, accent, speed, stability, similarity, style DEĞİŞTİRİLMEMELİDİR
+- OpenArt'ta elle kontrol edilmeli: aynı kayıtlı ses seçili olmalı
+
+### Character-Specific Voice Rules
+
+**Kiko:**
+```text
+Use the exact same approved saved Kiko voice asset / voice preset / voice ID.
+Do not generate a new Kiko voice.
+Kiko must sound curious, playful, then warm — same as the approved Kiko voice.
+```
+
+**Opa:**
+```text
+Use the exact same approved saved Opa voice asset / voice preset / voice ID.
+Do not generate a new Opa voice.
+Do not use a narrator voice.
+Opa must sound warm, gentle, wise, grandfatherly, and soft — same as the approved Opa voice.
+```
+
+**Mimi:**
+```text
+Use the exact same approved saved Mimi voice asset / voice preset / voice ID.
+Do not generate a new Mimi voice.
+Mimi must sound curious, cozy, gentle — same as the approved Mimi voice.
+```
+
+### Voice QA Kontrolü
+
+Her speaking shot için QA checklist'e eklenmeli:
+```text
+- [ ] Same voice identity as previous shot (no new voice generation)
+- [ ] Voice matches approved saved voice asset / preset / ID
+```
 
 ---
 
@@ -947,7 +991,8 @@ Her shot markdown dosyası şu bölümleri içermelidir:
 10. **Shot Breakdown** — Zaman dilimleri (0-3, 3-6, 7-10, 11-15)
 11. **Natural Character Motion Rule** — Hareket kuralları
 12. **Sound** — Ses tasarımı
-13. **Lighting** — Aydınlatma
+13. **Voice Rule** — Ses kuralı (her speaking shot için zorunlu)
+14. **Lighting** — Aydınlatma
 14. **Colour / Contrast Stability** — Renk/kontrast sabitliği
 15. **Negative Prompt** — Yasak listesi
 16. **QA Checklist** — Kalite kontrol listesi
@@ -1035,6 +1080,8 @@ Preserve matte handcrafted toy-set materials.
 Do not intensify the previous frame.
 Do not increase contrast.
 Do not increase saturation.
+Do not decrease brightness.
+Do not make the scene darker than @image1.
 Do not add HDR effect.
 Do not add extra sharpening.
 Do not add glossy plastic highlights.
@@ -1044,21 +1091,42 @@ Do not make dark areas deeper, heavier, or more cave-like.
 Do not make the colours more orange, red, neon, or intense than @image1.
 Do not make the scene look more cinematic, dramatic, glossy, or high-energy than @image1.
 
+CRITICAL: Video generation models tend to darken frames and increase contrast with each shot. This MUST NOT happen. Match @image1 EXACTLY for brightness, colour temperature, and saturation. The previous shots (S01E12) showed brightness dropping from 109 to 97 to 93 — this pattern must be prevented.
+
 If any visual adjustment happens, it must move slightly softer, calmer, warmer, and more matte — never stronger, sharper, glossier, darker, more saturated, or more contrasty.
 ```
 
 ### Colour Retention Rule (Video Generation)
 
-> Video üretim modelleri frame-to-frame geçişte renk doygunluğunu düşürme eğilimindedir.
-> Bu kural bunu engeller.
+> Video üretim modelleri frame-to-frame geçişte renk doygunluğunu düşürme ve karanlaştırma eğilimindedir.
+> S01E12'de her shot'ta parlaklık düştü (109 → 97 → 93). Bu kural bunu engeller.
+
+### @image2 Shot 1 Colour Reference (Kalıcı Çözüm)
+
+> @image1 (önceki shot final frame) zamanla karanlaşır. @image2 olarak Shot 1 frame'i kullanılır — bu tüm bölümün renk bazıdır.
+
+```text
+Use @image2 = shot-1-final-frame.png (the approved Shot 01 video frame).
+@image2 is the colour, brightness, and contrast reference for the entire episode.
+Use @image2 ONLY for colour, brightness, contrast, saturation, shadow softness, and matte material feel.
+Do not use @image2 for composition, layout, character position, or camera angle.
+If @image1 has drifted darker or more contrasty, @image2 should win.
+```
+
+### Colour Retention Rules
 
 ```text
 The first frame sets the warm colour baseline. During video generation:
 - Preserve the exact same warm tones from first frame to last frame
+- Preserve the exact same brightness level from first frame to last frame
 - Do not let colours drift toward gray, brown, cool, or desaturated
 - Do not let warm sunlight fade or become neutral
+- Do not decrease brightness — the frame must NOT become darker than the first frame
+- Do not increase contrast — the frame must NOT become more contrasty than the first frame
 - If colours begin to drift, correct them back to the warm baseline
-- The video must feel like a continuous warm scene, not a desaturated version
+- If brightness begins to drop, correct it back to the baseline level
+- CRITICAL: Use @image2 (Shot 01 frame) as the colour brightness and contrast reference. If the frame becomes darker than @image2, correct it back to @image2's level.
+- The video must feel like a continuous warm scene, not a desaturated or darkened version
 ```
 
 ### QA Checklist Standart Maddeleri
@@ -1198,4 +1266,4 @@ QA: '- [ ] Leaves are fluffy Pompom Leaves (round, cotton-like, no veins)'
 ---
 
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 5.1 — Opa Görünürlük Kuralı (Voice-First Approach) eklendi*
+*Versiyon: 5.4 — @image2 Shot 1 Colour Reference eklendi (kalıcı contrast çözümü)*

@@ -1,10 +1,10 @@
-# Shot 08 — OpenArt Prompt
+# Shot 11 — OpenArt Prompt
 
 ## Visual Prompt
 
 Duration: 15 seconds.
 
-@image1 = approved final frame of Shot 07.
+@image1 = approved final frame of Shot 10.
 @image2 = Episode Colour Master: 01_SHOTS/png/openart-shot.png.
 
 Use @image1 as the exact locked first frame and only visual continuity source.
@@ -21,17 +21,17 @@ Do not reinterpret @image1.
 
 0-1 second:
 Hold @image1 almost exactly.
-Kiko reaches upward with her free hand while holding the golden plush Pompom Leaf in her other hand.
-Opa remains already visible and stable nearby in the background if present in @image1.
+Kiko is kneeling beside the existing leaf carpet and Opa is already nearby in the same composition.
 No camera movement.
 No lighting change.
 No colour grading change.
 
 After 1 second:
-Kiko catches the red fluffy plush Pompom Leaf gently with her free hand.
-She holds it up with delight, then brings it together with the golden plush Pompom Leaf she has already been holding from the previous shots.
-She holds both Pompom Leaves up — autumn red #F8BBD0 and autumn gold #FFCC80 — laughing with joy.
-Nearby existing falling Pompom Leaves in autumn cream #FFF8E1 drift softly in the background, but no new leaf suddenly appears.
+Kiko stands up gently in place.
+Opa extends his wing, keeping it clearly owl-like and feathered.
+Kiko holds the edge of his wing gently.
+They look at each other warmly.
+When Opa speaks, his orange beak opens and closes naturally in sync with his dialogue.
 
 Preserve exactly from @image1:
 All trees, paths, mushrooms, leaves, ground, lighting, character positions, warm golden autumn sunlight, and matte handcrafted preschool style.
@@ -40,30 +40,34 @@ Preserve colour/contrast from @image2:
 original Shot 01 colour temperature, original brightness, original medium-low contrast, original saturation, soft lifted shadows, gentle highlights, matte handcrafted preschool finish. Never use @image1's accumulated video contrast as the colour master.
 
 Dialogue:
-Kiko: Got it! Hello, little leaf!
-Kiko: Oh! And a golden one too!
-Kiko: One red, one golden!
+Kiko: Opa, can we come back tomorrow?
+Opa: We will, little one.
+Kiko: Thank you, Opa.
 
 ## Voice Rule
 
 Use the exact same approved saved Kiko voice asset / voice preset / voice ID.
 Do not generate a new Kiko voice.
+Kiko must sound curious, playful, warm, and preschool-safe — same as the approved Kiko voice.
+
+Use the exact same approved saved Opa voice asset / voice preset / voice ID.
+Do not generate a new Opa voice.
 Do not use narrator voice.
 Do not change pitch, age, accent, speed, stability, similarity, or style.
-Kiko must sound curious, playful, warm, and preschool-safe — same as the approved Kiko voice.
+Opa must sound warm, gentle, wise, grandfatherly, and soft — same as the approved Opa voice.
 
 ## Sound
 
-Soft natural Little Forest ambience: gentle leaf rustle, light breeze, calm outdoor warmth, Kiko's happy gasp. Keep ambience very soft under dialogue. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
+Soft natural Little Forest ambience: gentle leaf rustle, light breeze, calm outdoor warmth, soft rustle as Kiko stands. Keep ambience very soft under dialogue. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
 
 ## Negative Prompt
 
-camera pull-back, wider first frame, recomposed scene, new establishing shot, separate first frame, camera reset, changed camera angle, changed lighting, changed colour grading, no new environment, character entrance, new character pop-in, extra characters, Opa disappearing, text, signs, labels, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, narrator voice, blue bird, bird, animal, animals, insects, water, river, stream, pond, bridge, tree hollow, cropped mushroom, cropped giant mushroom, giant mushroom, foreground mushroom, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges, new object appearing suddenly, sudden new leaf, leaf appearing from nowhere, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, frame darker than @image1, dark areas growing darker, highlights growing brighter, lighting becoming harsher
+camera pull-back, wider first frame, recomposed scene, new establishing shot, separate first frame, camera reset, changed camera angle, changed lighting, changed colour grading, no new environment, character entrance, new character pop-in, extra characters, Opa disappearing, Opa hand gesture, Opa hand, hand instead of wing, human hand on Opa, arm-like deformation, Opa with human arms, text, signs, labels, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, narrator voice, blue bird, bird, animal, animals, insects, water, river, stream, pond, bridge, tree hollow, cropped mushroom, cropped giant mushroom, giant mushroom, foreground mushroom, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges, new object appearing suddenly, sudden new leaf, leaf appearing from nowhere, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, frame darker than @image1, dark areas growing darker, highlights growing brighter, lighting becoming harsher
 
 ## OpenArt Ayarları
 
 - Duration: 15 seconds
-- @image1: Shot 07 exported continuity frame
+- @image1: Shot 10 exported continuity frame
 - @image2: Episode Colour Master = 01_SHOTS/png/openart-shot.png
 - Use @image1 for composition/action continuity only
 - Use @image2 for colour/brightness/contrast/saturation only
@@ -76,10 +80,9 @@ camera pull-back, wider first frame, recomposed scene, new establishing shot, se
 - [ ] First frame matches @image1
 - [ ] Colour, brightness, saturation and contrast match @image2 Episode Colour Master
 - [ ] @image1 is not allowed to intensify contrast over @image2
-- [ ] Golden leaf is the same one Kiko has been holding from previous shots
-- [ ] Red leaf is caught gently; no sudden new leaf spawn
-- [ ] Opa remains visible and stable if present in @image1
-- [ ] Same approved saved Kiko voice asset / voice preset / voice ID
+- [ ] Kiko holds edge/tip of Opa feathered wing — not hand, not arm, not extra limb
+- [ ] Same approved saved Kiko and Opa voice assets / voice presets / voice IDs
+- [ ] Opa's beak moves when speaking
 - [ ] No camera movement
 - [ ] No blue bird / animal / extra character
 - [ ] No text / signs / labels
