@@ -85,6 +85,7 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | Rolling Ball EP02 — Puf Puf Zıplama | Luca | Merkez Mekan | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Where is the Blue Ball? EP01 | Kiko | Merkez Mekan | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Where is the Blue Ball? EP02 | Mimi | Bahçe | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP01 — The Runaway Pompom Ball | Arda, Luca, Noah | Arda's Home → Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
 > Yeni içerik üretildikçe/yayınlandıkça satır ekleyin ve ilgili durum sütununu güncelleyin.
 > "Series / Playlist" sütunu, bölümün ait olduğu tekrarlayan alt-seri/playlist'i işaretler (bkz. `11-DOCS/02_SEASON_STRATEGY.md` § Recurring Sub-Series). Tek seferlik bölümler için "—" kullanın.

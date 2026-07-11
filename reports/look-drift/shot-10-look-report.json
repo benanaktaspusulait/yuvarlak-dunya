@@ -1,0 +1,105 @@
+{
+  "shot_name": "shot-10.mp4",
+  "status": "FAIL_REGENERATION_RECOMMENDED",
+  "corrections": {
+    "brightness": {
+      "direction": "increase",
+      "amount": 10.31351374022531,
+      "reason": "below target (-10.3%)"
+    },
+    "saturation": {
+      "direction": "increase",
+      "amount": 9.251580176747554,
+      "reason": "below target (-9.3%)"
+    },
+    "contrast": {
+      "direction": "increase",
+      "amount": 11.28626013479609,
+      "reason": "below target (-11.3%)"
+    },
+    "sharpness": {
+      "direction": "increase",
+      "amount": 21.205204177631543,
+      "reason": "below target (-21.2%)"
+    },
+    "warmth": {
+      "direction": "none",
+      "amount": 0.0,
+      "reason": "within tolerance (-2.0%)"
+    },
+    "local_contrast": {
+      "direction": "decrease",
+      "amount": 18.939752634296482,
+      "reason": "above target (+18.9%)"
+    }
+  },
+  "warmth_gains": [
+    1.0,
+    1.0,
+    1.0
+  ],
+  "chroma_gains": [
+    1.1
+  ],
+  "detail_gains": {
+    "skin": 0.829985700479798,
+    "coral_shirt": 0.829985700479798,
+    "green": 0.829985700479798,
+    "sky": 0.829985700479798,
+    "dark": 0.829985700479798,
+    "bright": 0.829985700479798,
+    "ground": 0.829985700479798
+  },
+  "tone_curve": [
+    [
+      0.0,
+      8.0
+    ],
+    [
+      36.0,
+      8.0
+    ],
+    [
+      102.0,
+      9.0
+    ],
+    [
+      161.0,
+      3.0
+    ],
+    [
+      255.0,
+      3.0
+    ]
+  ],
+  "raw_metrics": {
+    "brightness": 86.53063621238427,
+    "saturation": 125.09813042534722,
+    "contrast": 43.844855549180544,
+    "local_contrast_mean": 36.29788080998259,
+    "local_contrast_std": 10.52776032579522,
+    "sharpness": 7.637006231223994,
+    "warmth_rb": 1.7877414169494816,
+    "shadow_p10": 36.0,
+    "highlight_p90": 161.0,
+    "r_mean": 107.8100390625,
+    "g_mean": 91.47670572916667,
+    "b_mean": 60.30516384548611,
+    "regions": {}
+  },
+  "corrected_metrics": {
+    "brightness": 81.88220992476852,
+    "saturation": 141.5135427517361,
+    "contrast": 37.12654753343495,
+    "local_contrast_mean": 30.0516810799042,
+    "local_contrast_std": 8.30455450786965,
+    "sharpness": 6.003168737405013,
+    "warmth_rb": 2.046497514882695,
+    "shadow_p10": 45.0,
+    "highlight_p90": 150.0,
+    "r_mean": 105.68356987847223,
+    "g_mean": 88.32186848958334,
+    "b_mean": 51.64119140625,
+    "regions": {}
+  }
+}

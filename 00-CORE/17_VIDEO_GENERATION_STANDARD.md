@@ -20,12 +20,47 @@
 ## Colour Drift Gate and Anchor Pipeline
 
 > OpenArt video modelleri her shot'ta karanleştirme ve contrast artırma eğilimindedir.
-> Prompt talimatları yeterli değildir. Tek çözüm: zorunlu normalizasyon + Drift Gate.
+> Prompt talimatları yeterli değildir. Tek çözüm: sabit anchor + ölçülü normalizasyon + Drift Gate.
+>
+> **Kanıt (S01E12):** Shot 1→8 arası %15.7 progressive darkening, %12.7 contrast artışı.
+> Ham frame'ler asla @image1 olarak kullanılmamalıdır.
+
+### Shot Düzeltme Kuralları (Post-Production)
+
+Her shot üretildikten sonra:
+
+1. **Final frame çıkar** (`ffmpeg -sseof -0.1`)
+2. **Parlaklık ölç** (PIL ImageStat)
+3. **Shot 1 referansına ±5% içinde mi?** kontrol et
+4. **Eğer dışındaysa:** `eq=brightness=X` ile düzelt (sadece parlaklık, kontrast/değil)
+5. **Eğer ±5% içindeyse:** dokunma, olduğu gibi bırak
+
+**Düzeltme Formülleri (S01E12'den çıkarılan):**
+
+| Fark | Brightness | Saturation |
+|------|:----------:|:----------:|
+| -8% | +0.04 | +1.03 |
+| -5% | +0.03 | +1.03 |
+| -3% | +0.02 | +1.02 |
+| ±2% | +0.005 | +1.01 |
+| 0% | 0 | 1.00 |
+| +3% | -0.02 | +1.02 |
+| +5% | -0.03 | +1.02 |
+| +8% | -0.04 | +1.02 |
+
+**Önemli:**
+- Sadece parlaklık ve doygunluk düzelt (kontrast/değil)
+- Düzeltme sonrası final frame çıkar
+- shot-XX-final-frame.png olarak kaydet
+- Bu final frame bir sonraki shot'ın @image1'i olur
 
 ### Temel Kural
 
 ```
-Generate → Normalize full clip → Run Drift Gate → Export normalized final frame → Use normalized final frame as next @image1
+Generate shot → Calibrate against @image1 → Fixed whole-clip correction → Drift Gate → Export normalized final frame → Use as next @image1
+
+ASLA: Ham üretilmiş final frame'i @image1 olarak kullanma.
+SADECE: shot-XX-final-frame-normalized.png
 ```
 
 ### EPISODE_COLOR_MASTER.png

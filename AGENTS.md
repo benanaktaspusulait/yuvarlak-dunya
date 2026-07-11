@@ -21,7 +21,7 @@ Varsayılan olarak DEĞİŞTİRME (aksi açıkça istenmedikçe):
 - Character canon (`00-CORE/CHARACTER_GUIDE.md`, `01-CHARACTERS/*`)
 - World canon (`00-CORE/WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/*`)
 - Episode script'leri (`POMPOM_HILLS_PRODUCTION/02_WORLDS/*/04_EPISODE_PACKAGES/*`, `02_SEASON_2/*`, `03_SEASON_3/*`)
-- Sub-series script'leri (`04_KIKOS_DISCOVERY_DAYS/*`, `05_MIMIS_FEELINGS_CORNER/*`, `06_MUSIC_RHYTHM_TIME/*`)
+- Sub-series script'leri (`04_KIKOS_DISCOVERY_DAYS/*`, `05_MIMIS_FEELINGS_CORNER/*`, `06_MUSIC_RHYTHM_TIME/*`, `07_ARDAS_STORIES/*`)
 - Production/teknik standartlar (`00-CORE/TECH_SPECS.md`, `00-CORE/17_VIDEO_GENERATION_STANDARD.md`,
   `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/CONTINUITY_RULES.md`)
 
@@ -46,6 +46,7 @@ bu dosyalara dokunmaz.
 | **Kiko's Discovery Days** (keşif/merak sub-series) | `POMPOM_HILLS_PRODUCTION/04_KIKOS_DISCOVERY_DAYS/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
 | **Mimi's Feelings Corner** (duygu okuryazarlığı sub-series) | `POMPOM_HILLS_PRODUCTION/05_MIMIS_FEELINGS_CORNER/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
 | **Music & Rhythm Time** (müzik/ritim sub-series) | `POMPOM_HILLS_PRODUCTION/06_MUSIC_RHYTHM_TIME/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
+| **Arda's Stories** (hareket, oyun ve küçük günlük maceralar sub-series) | `POMPOM_HILLS_PRODUCTION/07_ARDAS_STORIES/FORMAT_STANDARD.md`, `04_EPISODE_PACKAGES/` |
 | Shot/video üretimi (kamera, renk, süreklilik, teknik) | `00-CORE/17_VIDEO_GENERATION_STANDARD.md`, `00-CORE/VISUAL_STYLE_GUIDE.md`, `00-CORE/VISUAL_CONTINUITY_RULES.md` |
 | **Pompom Items (dünya imza nesneleri)** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/POMPOM_ITEMS/00-POMPOM_ITEMS_BIBLE.md`, `01-pompom-ball.md` ... `07-pompom-raindrop.md` |
 | **Hero View OpenArt Prompt Standardı** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` § Hero View OpenArt Prompt Standard (Image Generation + World Builder) |
