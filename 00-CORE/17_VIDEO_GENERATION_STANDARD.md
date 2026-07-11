@@ -1130,6 +1130,38 @@ First visible frame matches Shot 01 final frame — Kiko reaching for leaf.
 She catches it gently in both hands. She holds it, looking at it...
 ```
 
+#### Karakter Ön Hazırlık (Pre-Staging) Kuralı
+
+> S01E12 lesson: Bir sonraki shot'ta görünecek olan karakter, bir önceki shot'un son 2-3 saniyesinde arka planda küçük ve sessiz olarak görünmeli. Böylece pop-in engellenir ve doğrudan frame-to-video güvenli hale gelir.
+
+Eğer bir sonraki shot'ta yeni bir karakter görünecekse:
+
+1. Yeni karakter SEPARATE first frame ile değil, DOĞRUDAN frame-to-video ile girilmeli
+2. Karakter, bir önceki shot'un son 2-3 saniyesinde arka planda küçük ve non-dominant olarak görünmeli
+3. "small and non-dominant in the background" / "already seated nearby" gibi ifadeler kullanılmalı
+4. Karakter konuşma yapmamalı, sadece orada durmalı (pre-staging)
+5. Sonraki shot'ta @image1 bu final frame'i kullanmalı ve karakter zaten seenede olmalı
+6. "SEPARATE APPROVED FIRST FRAME" KULLANILMAZ — bu sadece pop-in'i shot boundary'ye taşır
+
+Örnek akış:
+```
+Shot 02 son 2sn: Kiko bir ağaca bakıyor, Opa arka planda küçük görünüyor
+Shot 03 ilk frame: @image1 = Shot 02 final frame (Opa zaten arka planda)
+Shot 03 video: Kiko Opa'ya doğru yürüyor, Opa zaten sahede
+```
+
+#### Opa Görünürlük Kuralı (Voice-First Approach)
+
+> S01E12 final lesson: @image1'de Opa görünmüyorsa, Opa ilk karede GÖRÜNMEMELİ.
+
+Eğer @image1'de Opa görünmüyorsa:
+1. Opa ilk karede aniden belirmemeli
+2. Opa sadece ses olarak duyulmalı (voice-only)
+3. Kiko sesin geldiği yöne dönmeli
+4. Opa sadece sonraki karelerde, mevcut saheden doğal şekilde görünmeli
+5. Eğer kamera hareketi olmadan Opa gösterilemiyorsa, bu shot'ta Opa sadece ses olmalı
+6. Opa asla "suddenly appearing" / "already seated" olarak ilk karede olmamalı
+
 #### Arka Plan Karakter Kullanımı
 
 Bir karakter arka planda小small ve sessiz kalıyorsa:
@@ -1166,4 +1198,4 @@ QA: '- [ ] Leaves are fluffy Pompom Leaves (round, cotton-like, no veins)'
 ---
 
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 4.8 — Prop/Nesne Süreklilik Kuralı eklendi (S01E05 lesson)*
+*Versiyon: 5.1 — Opa Görünürlük Kuralı (Voice-First Approach) eklendi*

@@ -10,14 +10,14 @@
 | Shot | 02 / 12 |
 | Duration | 15 seconds |
 | Location | Little Forest (autumn golden palette) |
-| Characters | Kiko |
+| Characters | Kiko, Opa (background-only, last 2 seconds) |
 | Time of Day | Warm Autumn Sunlight |
 
 ---
 
 ## Purpose
 
-Kiko holds a golden leaf, looks at it sadly.
+Kiko watches a leaf drift down, catches it, and looks at it sadly. In the final 2 seconds, she looks toward a nearby tree where Opa is visible small in the background.
 
 ## Continuity
 
@@ -39,7 +39,13 @@ No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or ang
 ## Visual Prompt
 
 ```text
-Little Forest, warm autumn sunlight. Kiko watches a fluffy plush Pompom Leaf drift down toward her. She reaches out and catches it gently in both hands. She holds it, looking at it with a sad expression. Her shoulders drop slightly, she sighs softly, then looks up toward the autumn canopy and falling plush Pompom Leaves. The Little Forest background matches @image1 exactly; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
+Little Forest, warm autumn sunlight. First visible frame matches @image1 — Kiko reaching toward falling leaves, same composition, same framing.
+
+During the first 2-3 seconds, a golden plush Pompom Leaf (soft round cotton-like leaf, autumn gold #FFCC80, no veins, soft edges) drifts close to Kiko's hand. She gently catches it with both hands. She holds the leaf, looking at it with a sad expression. Her shoulders drop slightly, she sighs softly.
+
+In the final 2 seconds, Kiko looks toward a nearby big autumn tree. Wise owl Opa (round warm green feathers #A5D6A7, golden glasses #FFD54F, orange beak, soft brown shawl #A1887F) is visible very small and non-dominant in the background, already seated under that tree. Opa does not move or speak — he is simply present in the background, pre-staging for Shot 03.
+
+The Little Forest background matches @image1 exactly; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
 ```
 
 ## Camera Direction
@@ -58,14 +64,15 @@ Kiko: They were so pretty...
 
 | Time | Action | Camera |
 |------|--------|--------|
-| 0-3 sec | Kiko watches a Pompom Leaf drift down, reaches out and catches it | Locked @image1 hold |
+| 0-3 sec | Kiko watches a golden Pompom Leaf drift toward her, reaches out and catches it | Locked @image1 hold |
 | 3-6 sec | She holds the leaf, looks at it with sadness, shoulders drop | Locked @image1 hold |
 | 7-10 sec | Looks up toward the autumn canopy with longing | Locked @image1 hold |
-| 11-15 sec | "They were so pretty..." — soft sad expression | Locked @image1 hold |
+| 11-13 sec | "They were so pretty..." — soft sad expression | Locked @image1 hold |
+| 13-15 sec | Kiko looks toward a nearby big tree; Opa visible small in background | Locked @image1 hold |
 
 ## Natural Character Motion Rule
 
-The shot begins alive immediately. Kiko watches a Pompom Leaf drift toward her and catches it gently. She holds the leaf, looks at it with curiosity and sadness. She looks up toward the autumn canopy with natural wonder. Motion is small, gentle, and preschool-safe. No walking. No running. No chase. No jumping. No spinning. No large travel. No side switching. No exaggerated gesture. No delayed dialogue. No empty opening seconds. No dead air. No silent idle opening.
+The shot begins alive immediately. Kiko watches a Pompom Leaf drift toward her and catches it gently. She holds the leaf, looks at it with curiosity and sadness. She looks up toward the autumn canopy with natural wonder. In the final 2 seconds, she turns her gaze toward a nearby tree where Opa is already seated in the background. Motion is small, gentle, and preschool-safe. No walking. No running. No chase. No jumping. No spinning. No large travel. No side switching. No exaggerated gesture. No delayed dialogue. No empty opening seconds. No dead air. No silent idle opening.
 
 ## Sound
 
@@ -120,7 +127,8 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 - [ ] Kiko present, no extra characters
 - [ ] Little Forest reads well; autumn golden palette
-- [ ] Leaf visible in hand
+- [ ] Leaf NOT in Kiko's hands at first frame — catches it during 0-3 sec
+- [ ] Leaf catches naturally from falling drift, not magic pop-in
 - [ ] Warm autumn sunlight, not night
 - [ ] No sky with stars
 - [ ] Dialogue begins early — no dead air
@@ -135,6 +143,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - [ ] First visible frame matches @image1
 - [ ] No sudden new character pop-in
 - [ ] No character disappears suddenly from previous final frame
+- [ ] Opa visible small/background-only in final 2 seconds (pre-staging for Shot 03)
 - [ ] Colour and lighting match @image1
 - [ ] No contrast increase from previous shot
 - [ ] No saturation increase from previous shot
