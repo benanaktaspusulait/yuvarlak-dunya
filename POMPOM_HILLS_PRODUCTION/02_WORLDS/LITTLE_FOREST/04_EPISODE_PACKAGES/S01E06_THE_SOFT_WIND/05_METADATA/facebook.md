@@ -5,8 +5,6 @@ A new Pompom Hills adventure is here! Join Kiko and Mimi in "The Soft Wind" — 
 
 Kiko feels a soft breeze on her cheek and begins to follow it through Little Forest. Mimi joins her, and together they chase the wind, laugh, rest by a stream, and finally realize: the wind isn't going somewhere — it's already everywhere.
 
-Watch more Pompom Hills: https://www.youtube.com/@PompomHills
-
 #PompomHills #PreschoolAnimation #KidsAnimation #NatureForKids #FriendshipForKids
 
 ## Shorts Captions

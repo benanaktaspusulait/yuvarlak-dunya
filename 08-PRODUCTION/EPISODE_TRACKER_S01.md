@@ -31,19 +31,19 @@
 | Bölüm | Başlık | Tip | Karakter | Mekan | Durum | YouTube (120-180 sn) | TikTok (15-30 sn) | Instagram (15-30 sn) | Facebook (60-90 sn) |
 |-------|--------|-----|----------|-------|-------|---------------------|-------------------|---------------------|---------------------|
 | S01E01 | Hello Pompom Hills | 🤝 Social, 🌿 Nature | Kiko, Mimi, Opa + 10 | Central Square | 🟡 Yazıldı | 15 sahne; hedef 180 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E02-A | Kiko's Home Tour | 🌿 Nature | Kiko | Kiko's Home | 🟢 Üretildi | 24 sn (micro) | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E02-A | Kiko's Home Tour | 🌿 Nature | Kiko | Kiko's Home | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
 | S01E02-B | Bounce, Bounce, Kiko! | 🤝 Social, 💛 Feelings | Kiko, Arda, Opa | Flower Hill | 🟡 Yazıldı | 180 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E04 | Mimi's Big Yawn | 💛 Feelings, 🌙 Bedtime | Kiko, Mimi | Mimi's Burrow | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E05 | Colours Everywhere | 🎓 Learning | Kiko, Mimi | Central Square | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E06 | The Soft Wind | 🌿 Nature | Kiko, Mimi | Little Forest | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E07 | The Round Stone | 🎓 Learning, 🌿 Nature | Luca, Kiko | Stone Hill | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E04 | Mimi's Big Yawn | 💛 Feelings, 🌙 Bedtime | Kiko, Mimi | Mimi's Burrow | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
+| S01E05 | Colours Everywhere | 🎓 Learning | Kiko, Mimi | Central Square | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
+| S01E06 | The Soft Wind | 🌿 Nature | Kiko, Mimi | Little Forest | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
+| S01E07 | The Round Stone | 🎓 Learning, 🌿 Nature | Luca, Kiko | Stone Hill | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
 | S01E08 | Building Together | 🙌 Helper, 🤝 Social | Noah, Arda | Central Square | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E09 | **Kiko'nun Uyku Zamanı** | 🌙 Bedtime | Kiko | Gece Mekanı | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E10 | My Turn, Your Turn | 🤝 Social | Luca, Noah | Central Square | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E11 | Goodnight Tree | 🌙 Bedtime | Arda, Opa | Opa's Tree | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E12 | Why Do Leaves Fall | 🎓 Learning, 🌿 Nature | Kiko, Opa | Little Forest | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E10 | My Turn, Your Turn | 🤝 Social | Luca, Noah | Central Square | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
+| S01E11 | Goodnight Tree | 🌙 Bedtime | Arda, Opa | Opa's Tree | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
+| S01E12 | Why Do Leaves Fall | 🎓 Learning, 🌿 Nature | Kiko, Opa | Little Forest | 🟠 Üretimde | 180 sn (12 shot) | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E13 | Where Does Rain Come From | 🎓 Learning, 🌿 Nature | Luca, Mimi | Cloud Hill | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
-| S01E14 | What Stars Say | 🌙 Bedtime, 🌿 Nature | Luca, Opa | Opa's Tree (Night) | 🟢 Üretildi | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E14 | What Stars Say | 🌙 Bedtime, 🌿 Nature | Luca, Opa | Opa's Tree (Night) | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
 | S01E15 | Butterfly Journey | 🌿 Nature | Luca, Kiko | Butterfly Meadow | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E21 | The Crystal Cave | 🌿 Nature, 🎓 Learning | Luca, Kiko | Stone Hill | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E22 | Rainbow Wishes | 🌿 Nature, 💛 Feelings | Kiko, Mimi | Rainbow Bridge | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
@@ -61,6 +61,7 @@
 | 🟡 Yazıldı | Senaryo hazır, üretilmedi |
 | 🟠 Üretimde | Video üretiliyor |
 | 🟢 Üretildi | Video tamamlandı |
+| ✅ Tamamlandı | Video + Short + Sosyal Medya tamam |
 | 🔵 Yayınlandı | YouTube'da yayınlandı |
 
 ---
@@ -72,11 +73,12 @@
 | Toplam bölüm | 19 |
 | Yazılan | 19 (%100) |
 | Üretilen | 8 (%42.1) |
+| Short + Sosyal Medya Tamam | 8 (%42.1) |
 | Yayınlanan | 0 (%0) |
 
 ---
 
-## Üretilen Bölümler
+## Üretilen Bölümler (Video + Short + Sosyal Medya Tamam)
 
 S01E02-A, S01E04, S01E05, S01E06, S01E07, S01E10, S01E11, S01E14
 
@@ -134,4 +136,4 @@ S01E02-A, S01E04, S01E05, S01E06, S01E07, S01E10, S01E11, S01E14
 
 ---
 
-*Son güncelleme: 7 Temmuz 2026*
+*Son güncelleme: 11 Temmuz 2026*

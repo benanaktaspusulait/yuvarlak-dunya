@@ -1,79 +1,40 @@
-# Why Do Leaves Fall v3.0
+# S01E12 — Why Do Leaves Fall
 
----
-
-## Episode Lock
+## Overview
 
 | Alan | Değer |
-| --- | --- |
-| Süre | 120 saniye (8 sahne × 15 sn) |
+|------|-------|
+| Süre | 180 sn (12 shot × 15 sn) |
 | Hedef yaş | 3-4 |
-| Series | Season 1 |
-| Playlist | Little Forest |
 | Ana duygu | Hüzünlü merak → kabul ve huzur |
 | Ana tema | Değişimi kabul etmek; doğa nazikçe değişir |
-| Mekan | Little Forest — Opa's Tree |
+| Mekan | Little Forest |
 | Karakterler | Kiko, Opa |
-
----
-
-## Duration
-
-2:00 (8 shots × 15 seconds)
-
----
-
-## Theme
-
-Accepting change, nature's gentle cycles
-
----
-
-## Learning
-
-Change is natural and leaves room for new beginnings
-
----
-
-## Characters
-
-| Character | Role |
-|---|---|
-| Kiko | Curious explorer, feels sad about change |
-| Opa | Wise guide, gentle teacher |
-
----
-
-## World
-
-Little Forest
 
 ---
 
 ## Story Summary
 
-Kiko walks through Little Forest and notices golden leaves drifting down from the trees. She catches one and holds it, feeling sad — she remembers how green and alive the forest looked just days ago. She asks Opa why the leaves are leaving. Opa sits beside her and explains that leaves fall so the tree can rest and grow new ones when spring comes. Kiko listens quietly, then watches more leaves fall. She reaches out and catches one mid-air, watching it spin gently into her hand. She looks at the colorful carpet of leaves on the ground and smiles — the forest isn't losing, it's changing. She places the leaf gently on the ground with the others and takes Opa's hand, walking through the golden forest together.
+Kiko walks through Little Forest and notices golden leaves drifting down. She feels sad — she remembers how green and alive the forest looked. She finds Opa and asks why the leaves are falling. Opa sits beside her and explains that leaves fall so the tree can rest and grow new ones when spring comes. Kiko watches the leaves dance in the wind and begins to understand. She catches a red leaf mid-air and finds a golden one too. She sees the beautiful carpet of leaves on the ground and realizes the forest isn't losing — it's changing. She places her leaf gently with the others, takes Opa's wing, and walks through the golden forest together.
 
 ---
 
-## Micro-Moment (Key Discovery)
+## Shot Order
 
-Kiko catching a falling leaf mid-air and watching it spin — realizing that what felt like loss is actually nature's gentle way of making room for something new.
-
----
-
-## Scene Order
-
-| Sıra | Dosya | Süre | Karakter | Amaç |
-| --- | --- | ---: | --- | --- |
-| 01 | `shot-01-autumn-walk.md` | 15 sn | Kiko | Hook — Kiko walks through golden forest, notices leaves falling |
-| 02 | `shot-02-missing-summer.md` | 15 sn | Kiko | Feeling — Kiko holds a leaf, looks sad, remembers green summer |
-| 03 | `shot-03-asking-opa.md` | 15 sn | Kiko, Opa | Question — Kiko asks Opa "Why do leaves fall?" |
-| 04 | `shot-04-opa-explains.md` | 15 sn | Kiko, Opa | Explanation — Opa explains leaves fall so trees can rest and grow new ones |
-| 05 | `shot-05-watching-fall.md` | 15 sn | Kiko | Wonder — Kiko watches leaves drift down, starting to understand |
-| 06 | `shot-06-catching-leaf.md` | 15 sn | Kiko | WOW MOMENT — Kiko reaches out and catches a leaf mid-air, watches it spin |
-| 07 | `shot-07-colorful-carpet.md` | 15 sn | Kiko | Acceptance — Kiko sees the beautiful carpet of leaves, smiles |
-| 08 | `shot-08-walking-together.md` | 15 sn | Kiko, Opa | Resolution — Kiko places leaf down, takes Opa's hand, walks through golden forest |
+| # | Shot | Süre | Karakter | Amaç | Dialog |
+|---|------|:----:|----------|------|--------|
+| 01 | Golden Forest | 15s | Kiko | Hook — Kiko walks through autumn forest | "Are the leaves tired? Are they sleeping?" |
+| 02 | A Leaf in Her Hand | 15s | Kiko | Sadness — Kiko holds a leaf, feels sad about change | "I miss the green..." |
+| 03 | Finding Opa | 15s | Kiko, Opa | Connection — Kiko finds Opa under a tree | "Opa! Why do leaves fall?" |
+| 04 | Opa's Gentle Answer | 15s | Kiko, Opa | Explanation — Opa explains with wing gesture | "So the tree is saying goodbye to its leaves?" |
+| 05 | Changing Clothes | 15s | Kiko, Opa | Metaphor — Opa compares it to changing clothes | "Like changing clothes?" / "Exactly." |
+| 06 | Dancing Leaves | 15s | Kiko | Wonder — Kiko watches leaves dance, bounces on toes | "Round and round they go!" |
+| 07 | A Leaf Falls Fast | 15s | Kiko | Excitement — Red leaf spirals down, Kiko reaches | "Is that one in a hurry?" |
+| 08 | Caught! | 15s | Kiko | WOW MOMENT — Catches red leaf + finds golden one | "Biri kırmızı, biri altın!" |
+| 09 | The Colorful Carpet | 15s | Kiko, Opa | Acceptance — Sees beautiful carpet of leaves | "The forest isn't losing its leaves. It's showing us all its colors." |
+| 10 | Letting Go | 15s | Kiko, Opa | Resolution — Kiko places leaf, Opa touches with wing | "Thank you for being beautiful." |
+| 11 | Standing Up | 15s | Kiko, Opa | Connection — They stand, Kiko holds Opa's wing | "Can we come back tomorrow?" |
+| 12 | Walking Together | 15s | Kiko, Opa | Warm ending — Walk through golden forest | "The leaves are still dancing." |
 
 ---
 
@@ -83,7 +44,7 @@ Kiko catching a falling leaf mid-air and watching it spin — realizing that wha
 Everything changes gently.
 ```
 
-(Opa says it in Shot 04, Kiko repeats it softly in Shot 08.)
+(Opa says it in Shot 10, Kiko's actions embody it throughout.)
 
 ---
 
@@ -127,7 +88,7 @@ Warm golden tones without becoming orange or oversaturated.
 
 low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
 dark lighting, violence, bare dead trees, winter snow, bare branches without any color,
-dead forest,枯叶 pile too high, cinematic LUT, blue tint, green tint, orange shift, HDR look,
+dead forest, cinematic LUT, blue tint, green tint, orange shift, HDR look,
 fast movement, sudden camera motion, tight framing, push-in, static talking pose,
 characters frozen, long empty pause, silent staring, background music, music, melody, song, soundtrack
 
@@ -145,3 +106,7 @@ characters frozen, long empty pause, silent staring, background music, music, me
 | 06 | /10 | ⬜ |
 | 07 | /10 | ⬜ |
 | 08 | /10 | ⬜ |
+| 09 | /10 | ⬜ |
+| 10 | /10 | ⬜ |
+| 11 | /10 | ⬜ |
+| 12 | /10 | ⬜ |

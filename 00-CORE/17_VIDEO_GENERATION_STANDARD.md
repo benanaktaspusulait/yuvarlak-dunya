@@ -925,5 +925,144 @@ This rule was added after discovering intra-shot background drift in generated v
 
 ---
 
+## Shot Dosyası Format Standardı (v1.0)
+
+> S01E12 üretiminden çıkarılan kalıcı standart. Tüm yeni shot dosyaları bu formata uymalıdır.
+
+### Zorunlu Bölümler
+
+Her shot markdown dosyası şu bölümleri içermelidir:
+
+1. **Scene Context** — Episode, Shot numarası/süresi, Location, Characters, Time of Day
+2. **Purpose** — Shot'ın kısa amacı (1 cümle)
+3. **Continuity** — Önceki shot'tan devam edip etmediği
+4. **Frame-to-Video Continuity** (Shot 02-12 için zorunlu) — @image1 kuralları
+5. **World Reference** (Shot 01 için) — İlk shot world reference kullanımı
+6. **Background Object Lock** — Arka plan sabitliği
+7. **Visual Prompt** — OpenArt prompt'u ({style} {camera} {lighting} ile biter)
+8. **Camera Direction** — Kamera yönü
+9. **Dialogue** — 3 satır dialog (her shot'ta)
+10. **Shot Breakdown** — Zaman dilimleri (0-3, 3-6, 7-10, 11-15)
+11. **Natural Character Motion Rule** — Hareket kuralları
+12. **Sound** — Ses tasarımı
+13. **Lighting** — Aydınlatma
+14. **Colour / Contrast Stability** — Renk/kontrast sabitliği
+15. **Negative Prompt** — Yasak listesi
+16. **QA Checklist** — Kalite kontrol listesi
+
+### Frame-to-Video Continuity Bölümü (Shot 02-12 Zorunlu)
+
+```text
+## Frame-to-Video Continuity
+
+@image1 = approved final frame of previous shot.
+Use @image1 as the only visual continuity source.
+First visible frame must match @image1.
+Do not create a new establishing shot.
+Do not create a separate first frame.
+Do not use failed frames or videos as references.
+Do not redesign, recompose, widen, zoom, or reset the environment.
+Keep all trees, paths, leaves, ground, lighting, and character positions consistent with @image1.
+Locked camera only.
+No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or angle change.
+```
+
+### Camera Direction Kuralı
+
+- **Shot 01**: Kendi camera direction'ı serbest (medium shot, static, vb.)
+- **Shot 02-12**: Her zaman @image1'e kilitli:
+
+```text
+Continue from @image1 with the same camera angle, same framing, same lens feeling, and same composition. Locked camera. No zoom, no reframe, no widen, no close-up reset, no angle change.
+```
+
+Kullanılamaz (Shot 02-12):
+- Close-up
+- Medium wide
+- Medium close-up
+- Wide shot (yeni kompozisyon olarak)
+- Yüzde bazlı boyut hedefleri (25-30% of frame vb.)
+
+### Colour / Contrast Stability Bölümü (Tüm Shot'lar Zorunlu)
+
+```text
+## Colour / Contrast Stability
+
+Match the previous approved frame for continuity, but do not intensify it.
+Preserve soft pastel preschool look.
+Preserve medium-low contrast.
+Preserve warm sunlight / golden light.
+Preserve gentle warmth.
+Preserve soft shadows.
+Preserve matte handcrafted toy-set materials.
+Do not increase contrast.
+Do not increase saturation.
+Do not add HDR effect.
+Do not add extra sharpening.
+Do not add glossy plastic highlights.
+Do not create harsher shadows.
+Do not brighten highlights into blown-out look.
+Do not make dark areas deeper or more cave-like.
+If any adjustment happens, it should be slightly softer and calmer, never stronger, sharper, glossier, darker, or more contrasty.
+```
+
+### QA Checklist Standart Maddeleri (Shot 02-12 Zorunlu)
+
+Her shot 02-12 QA checklist'ine şu 4 madde eklenmelidir:
+
+```text
+- [ ] Camera framing matches @image1; no new close-up/wide reset
+- [ ] First visible frame matches @image1
+- [ ] No sudden new character pop-in
+- [ ] No character disappears suddenly from previous final frame
+```
+
+### Karakter Süreklilik Kuralları
+
+#### Yeni Karakter Tanıtımı (Shot 02+)
+
+Eğer bir shot'ta @image1'de olmayan bir karakter ilk kez görünüyorsa:
+
+1. İlk frame @image1 ile aynı olmalı (mevcut karakter yalnız)
+2. 1-2 saniye sonra yeni karakter mevcut sahede doğal şekilde görünmeli
+3. "Already seated nearby" / "already visible in background" gibi ifadeler kullanılmalı
+4. "Not a sudden pop-in" / "not appearing from nowhere" ifadeleri negatif prompt'a eklenmeli
+5. Kamera reframe yapmamalı, yeni establishing shot olmamalı
+
+#### Arka Plan Karakter Kullanımı
+
+Bir karakter arka planda小small ve sessiz kalıyorsa:
+- "background-only" / "small and non-dominant" olarak tanımlanmalı
+- Dialog almamalı
+- Saheden küçük olmalı
+- @image1'de görünüyorsa first frame'de kalmalı
+
+#### Kanat/Kol Tutma Kuralı (Kuş Karakterler İçin)
+
+Kiko gibi insan karakterler kuş karakterlerin kanadını tutarsa:
+- Kanat her zaman "owl-like and feathered" / "feathered wing" olarak tanımlanmalı
+- "Like an arm" / "curved like an arm" KULLANILMAZ
+- Negative prompt'a eklenmeli: "human hand on [character], arm-like deformation, [character] with human arms, extra limb"
+- QA checklist: "Kiko holds only the soft edge/tip of [character] feathered wing — not hand, not arm, not extra limb"
+
+### Pompom Items Görsel Prompt Kuralı
+
+Bir shot'ta Pompom Item (Ball, Flower, Cloud, Leaf, Stone, Star, Raindrop) kullanılıyorsa:
+
+1. Visual Prompt'ta item'ın kayıtlı specs'i kullanılmalı (bkz. `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/POMPOM_ITEMS/`)
+2. Item'ın OpenArt keyword'leri Visual Prompt'a eklenmeli
+3. Renk kodları kayıtlı spec'e uygun olmalı
+4. Negative prompt'a item'ın yasak özellikleri eklenmeli (örn. Leaf için: "realistic leaf, pointed leaf, leaf veins, wilting leaf")
+5. QA checklist'e item kontrolü eklenmeli (örn. "Leaves are fluffy Pompom Leaves")
+
+Örnek — Pompom Leaf kullanımı:
+```text
+Visual Prompt: '...fluffy plush Pompom Leaf (soft round cotton-like leaf, autumn gold #FFCC80, no veins, soft edges)...'
+Negative Prompt: '...realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges...'
+QA: '- [ ] Leaves are fluffy Pompom Leaves (round, cotton-like, no veins)'
+```
+
+---
+
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 4.2 — Global Camera Stability Rule cross-reference eklendi (bkz. 18_OPENART_CONTINUITY_AND_MOTION_RULES.md §18)*
+*Versiyon: 4.4 — Pompom Items görsel prompt kuralı eklendi*
