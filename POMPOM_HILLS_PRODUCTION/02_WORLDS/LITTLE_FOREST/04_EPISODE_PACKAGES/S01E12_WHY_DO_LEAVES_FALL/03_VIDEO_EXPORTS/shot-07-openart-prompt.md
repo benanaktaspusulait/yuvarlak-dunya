@@ -1,88 +1,51 @@
 # Shot 07 — OpenArt Prompt
 
-## Visual Prompt
+## OpenArt Paste Prompt
 
-Duration: 15 seconds.
+15 seconds. `@image1`=approved Shot 06 final frame/only visual source; first frame=`@image1` exactly. Camera locked: no reset/reframe/movement.
 
-@image1 = approved final frame of Shot 06.
-@image2 = Episode Colour Master: 01_SHOTS/png/openart-shot.png.
+Kiko holds golden leaf throughout in one hand; only free hand reaches. Existing red plush leaf never spawns/pops in. Kiko tracks its faster spiral, reaches. Opa stable if present; if absent, no Opa.
 
-Use @image1 as the exact locked first frame and only visual continuity source.
-Use @image2 only as the fixed colour, brightness, contrast, saturation, shadow softness, and matte material reference.
-@image1 controls first-frame composition, character positions, action continuity, and object layout.
-@image2 controls colour grade only. Do not copy @image2 camera, framing, character position, background layout, or action.
-If @image1 has become darker, harsher, more saturated, sharper, glossier, or more contrasty than @image2, correct back toward @image2 while keeping @image1 composition unchanged.
-First visible frame must match @image1 exactly.
-No new establishing shot.
-No separate first frame.
-No camera reset.
-No zoom, pan, tilt, push-in, pull-back, tracking, reframe, reveal, widen, or angle change.
-Do not reinterpret @image1.
-
-0-1 second:
-Hold @image1 almost exactly.
-Kiko watches the existing falling leaves while holding the golden plush Pompom Leaf in one hand.
-Opa remains already visible and stable nearby in the background if present in @image1.
-No camera movement.
-No lighting change.
-No colour grading change.
-
-After 1 second:
-A bright red fluffy plush Pompom Leaf separates from the existing falling leaves and spirals down slightly faster than the others, still gentle and preschool-safe.
-Kiko looks up, tracks it with her eyes, and reaches up excitedly with her free hand while keeping the golden plush Pompom Leaf in her other hand.
-Opa remains small, quiet, and non-dominant in the background.
-No dialogue from Opa.
-
-Preserve exactly from @image1:
-All trees, paths, mushrooms, leaves, ground, lighting, character positions, warm golden autumn sunlight, and matte handcrafted preschool style.
-
-Preserve colour/contrast from @image2:
-original Shot 01 colour temperature, original brightness, original medium-low contrast, original saturation, soft lifted shadows, gentle highlights, matte handcrafted preschool finish. Never use @image1's accumulated video contrast as the colour master.
+Lock positions/layout/lighting/scale; no disappearance/duplication/jump. Bright/warm/soft/matte; no darkening, contrast/saturation gain, HDR/gloss/colour drift.
 
 Dialogue:
 Kiko: That one's red!
 Kiko: It's falling so fast!
 Kiko: Is that one in a hurry?
 
-## Voice Rule
-
-Use the exact same approved saved Kiko voice asset / voice preset / voice ID.
-Do not generate a new Kiko voice.
-Do not use narrator voice.
-Do not change pitch, age, accent, speed, stability, similarity, or style.
-Kiko must sound curious, playful, warm, and preschool-safe — same as the approved Kiko voice.
-
-## Sound
-
-Soft natural Little Forest ambience: gentle leaf rustle, light breeze, calm outdoor warmth. Keep ambience very soft under dialogue. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
+Same approved Kiko voice. Natural leaf-rustle/light-breeze only; no music.
 
 ## Negative Prompt
 
-camera pull-back, wider first frame, recomposed scene, new establishing shot, separate first frame, camera reset, changed camera angle, changed lighting, changed colour grading, no new environment, character entrance, new character pop-in, extra characters, Opa disappearing, text, signs, labels, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, narrator voice, blue bird, bird, animal, animals, insects, water, river, stream, pond, bridge, tree hollow, cropped mushroom, cropped giant mushroom, giant mushroom, foreground mushroom, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges, new object appearing suddenly, sudden new leaf, leaf appearing from nowhere, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, extra sharp, over-polished CGI, colour drift, exposure drift, saturation drift, contrast drift, frame darker than @image1, dark areas growing darker, highlights growing brighter, lighting becoming harsher
+object pop-in, red-leaf spawn, extra-character/blue-bird/text, realistic/sharp leaf, tree-hollow/giant-mushroom, music
 
-## OpenArt Ayarları
+## Internal QA Checklist
+
+OpenArt pasted character count: 796 / 800
+
+- [ ] Paste only the OpenArt Paste Prompt and Negative Prompt into OpenArt
+- [ ] Duration is 15 seconds
+- [ ] `@image1` is the approved Shot 06 final frame and only visual source
+- [ ] First visible frame matches `@image1` exactly
+- [ ] No camera reset, reframe, zoom, pan, tilt, tracking, widen, or angle change
+- [ ] Kiko holds the golden plush leaf throughout and reaches only with her free hand
+- [ ] Golden leaf never disappears or drops
+- [ ] Red leaf already exists among the falling leaves; no spawn or pop-in
+- [ ] Red leaf stays soft, round, plush, vein-free, and without sharp edges
+- [ ] Opa stays small, stable, non-dominant, and in place when present
+- [ ] Opa is not introduced when absent from `@image1`
+- [ ] Character positions, objects, trees, paths, mushrooms, leaves, ground, layout, lighting, and scale persist
+- [ ] No object disappears, duplicates, transforms, or jumps position
+- [ ] No extra character, blue bird, animal, forbidden text, tree hollow, or giant/cropped foreground mushroom
+- [ ] Exposure stays bright, warm, and soft with medium-low contrast
+- [ ] No darkening, saturation/contrast increase, HDR, gloss, harsh shadows, blown highlights, oversharpening, or colour drift
+- [ ] Dialogue matches exactly and begins without dead air
+- [ ] Same approved saved Kiko voice asset/preset/ID; no voice drift or narrator
+- [ ] Natural leaf rustle and light breeze only; no music or added effects
+
+## OpenArt Settings
 
 - Duration: 15 seconds
-- @image1: Shot 06 exported continuity frame
-- @image2: Episode Colour Master = 01_SHOTS/png/openart-shot.png
-- Use @image1 for composition/action continuity only
-- Use @image2 for colour/brightness/contrast/saturation only
-- Auto enhance / auto contrast / cinematic grading: Kapalı
-- Prompt enhancer: Kapalı
-- Cinematic/auto camera: Kapalı
-
-## Approval Checklist
-
-- [ ] First frame matches @image1
-- [ ] Colour, brightness, saturation and contrast match @image2 Episode Colour Master
-- [ ] @image1 is not allowed to intensify contrast over @image2
-- [ ] Kiko keeps the golden plush Pompom Leaf in one hand
-- [ ] Red Pompom Leaf comes from existing falling leaves, not a sudden new object
-- [ ] Opa remains visible and stable if present in @image1
-- [ ] Same approved saved Kiko voice asset / voice preset / voice ID
-- [ ] No camera movement
-- [ ] No blue bird / animal / extra character
-- [ ] No text / signs / labels
-- [ ] No tree hollow / cropped giant mushroom
-- [ ] No contrast / saturation / HDR / glossy drift from @image1
-- [ ] Dialogue begins early — no dead air
+- `@image1`: Shot 06 exported continuity frame
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off

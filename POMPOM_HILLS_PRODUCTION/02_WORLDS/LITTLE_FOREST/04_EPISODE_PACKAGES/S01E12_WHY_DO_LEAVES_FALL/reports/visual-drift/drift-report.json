@@ -1,0 +1,203 @@
+{
+  "master": {
+    "mean": 125.2,
+    "median": 123,
+    "p10": 59,
+    "p90": 194,
+    "shadow": 46,
+    "contrast": 50.5,
+    "black_clip": 0.021,
+    "white_clip": 0.0
+  },
+  "results": [
+    {
+      "name": "shot-1-frame.png",
+      "metrics": {
+        "mean": 125.2,
+        "median": 123,
+        "p10": 59,
+        "p90": 194,
+        "shadow": 46,
+        "contrast": 50.5,
+        "black_clip": 0.021,
+        "white_clip": 0.0
+      },
+      "drift": {
+        "mean": 0.0,
+        "median": 0.0,
+        "p10": 0.0,
+        "p90": 0.0,
+        "contrast": 0.0
+      },
+      "pass": true
+    },
+    {
+      "name": "shot-2-frame.png",
+      "metrics": {
+        "mean": 121.0,
+        "median": 116,
+        "p10": 56,
+        "p90": 194,
+        "shadow": 45,
+        "contrast": 50.6,
+        "black_clip": 0.0,
+        "white_clip": 0.035
+      },
+      "drift": {
+        "mean": -3.4,
+        "median": -5.7,
+        "p10": -5.1,
+        "p90": 0.0,
+        "contrast": 0.2
+      },
+      "pass": true
+    },
+    {
+      "name": "shot-3-frame.png",
+      "metrics": {
+        "mean": 119.1,
+        "median": 113,
+        "p10": 52,
+        "p90": 197,
+        "shadow": 39,
+        "contrast": 53.8,
+        "black_clip": 0.0,
+        "white_clip": 0.069
+      },
+      "drift": {
+        "mean": -4.9,
+        "median": -8.1,
+        "p10": -11.9,
+        "p90": 1.5,
+        "contrast": 6.5
+      },
+      "pass": true
+    },
+    {
+      "name": "shot-4-frame.png",
+      "metrics": {
+        "mean": 118.7,
+        "median": 113,
+        "p10": 55,
+        "p90": 193,
+        "shadow": 40,
+        "contrast": 51.2,
+        "black_clip": 0.0,
+        "white_clip": 0.028
+      },
+      "drift": {
+        "mean": -5.2,
+        "median": -8.1,
+        "p10": -6.8,
+        "p90": -0.5,
+        "contrast": 1.4
+      },
+      "pass": false
+    },
+    {
+      "name": "shot-5-frame.png",
+      "metrics": {
+        "mean": 120.3,
+        "median": 115,
+        "p10": 61,
+        "p90": 188,
+        "shadow": 48,
+        "contrast": 47.8,
+        "black_clip": 0.0,
+        "white_clip": 0.049
+      },
+      "drift": {
+        "mean": -3.9,
+        "median": -6.5,
+        "p10": 3.4,
+        "p90": -3.1,
+        "contrast": -5.3
+      },
+      "pass": true
+    },
+    {
+      "name": "shot-6-final-frame-normalized.png",
+      "metrics": {
+        "mean": 115.0,
+        "median": 111,
+        "p10": 54,
+        "p90": 181,
+        "shadow": 40,
+        "contrast": 48.3,
+        "black_clip": 0.0,
+        "white_clip": 0.014
+      },
+      "drift": {
+        "mean": -8.1,
+        "median": -9.8,
+        "p10": -8.5,
+        "p90": -6.7,
+        "contrast": -4.4
+      },
+      "pass": false
+    },
+    {
+      "name": "shot-6-frame.png",
+      "metrics": {
+        "mean": 117.1,
+        "median": 113,
+        "p10": 57,
+        "p90": 183,
+        "shadow": 44,
+        "contrast": 47.5,
+        "black_clip": 0.0,
+        "white_clip": 0.014
+      },
+      "drift": {
+        "mean": -6.5,
+        "median": -8.1,
+        "p10": -3.4,
+        "p90": -5.7,
+        "contrast": -5.9
+      },
+      "pass": false
+    },
+    {
+      "name": "shot-7-frame.png",
+      "metrics": {
+        "mean": 110.3,
+        "median": 105,
+        "p10": 53,
+        "p90": 173,
+        "shadow": 41,
+        "contrast": 45.9,
+        "black_clip": 0.0,
+        "white_clip": 0.0
+      },
+      "drift": {
+        "mean": -11.9,
+        "median": -14.6,
+        "p10": -10.2,
+        "p90": -10.8,
+        "contrast": -9.1
+      },
+      "pass": false
+    },
+    {
+      "name": "shot-8-frame.png",
+      "metrics": {
+        "mean": 105.6,
+        "median": 100,
+        "p10": 52,
+        "p90": 169,
+        "shadow": 40,
+        "contrast": 44.1,
+        "black_clip": 0.0,
+        "white_clip": 0.0
+      },
+      "drift": {
+        "mean": -15.7,
+        "median": -18.7,
+        "p10": -11.9,
+        "p90": -12.9,
+        "contrast": -12.7
+      },
+      "pass": false
+    }
+  ]
+}

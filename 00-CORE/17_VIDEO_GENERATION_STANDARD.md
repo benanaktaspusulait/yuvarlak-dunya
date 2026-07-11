@@ -8,6 +8,84 @@
 
 ---
 
+## Üretim Kuralı: Sadece OpenArt Prompt
+
+> Bir bölüm için SADECE OpenArt prompt dosyaları (03_VIDEO_EXPORTS/shot-XX-openart-prompt.md) oluşturulur.
+> Başka production dosyası oluşturmaya gerek yoktur.
+> Shot markdown dosyaları (01_SHOTS/) zaten mevcuttur ve içeriği bellidir.
+> Yeni bir bölüm için yapılması gereken tek şey: her shot için openart prompt oluşturmaktır.
+
+---
+
+## Colour Drift Gate and Anchor Pipeline
+
+> OpenArt video modelleri her shot'ta karanleştirme ve contrast artırma eğilimindedir.
+> Prompt talimatları yeterli değildir. Tek çözüm: zorunlu normalizasyon + Drift Gate.
+
+### Temel Kural
+
+```
+Generate → Normalize full clip → Run Drift Gate → Export normalized final frame → Use normalized final frame as next @image1
+```
+
+### EPISODE_COLOR_MASTER.png
+
+- Bölümün başından onaylanmış sabit bir görsel
+- Sonradan üretilmiş bir video frame'inden ALINMAZ
+- Tüm bölüm boyunca DEĞİŞTİRİLMEZ
+- Tüm shot'lar bu master'a göre normalize edilir
+
+### normalize_shot.py
+
+Her shot üretildikten sonra çalıştırılır:
+
+```bash
+python3 POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/TOOLS/normalize_shot.py \
+  EPISODE_COLOR_MASTER.png \
+  shot-XX.mp4 \
+  ./output/
+```
+
+Çıktılar:
+- `shot-XX-normalized.mp4` — normalize edilmiş video
+- `shot-XX-final-frame-normalized.png` — normalize edilmiş son frame
+- `shot-XX-drift-report.json` — JSON rapor
+- `shot-XX-qa-report.txt` — İnsan okunabilir rapor
+
+### Drift Gate Eşikleri
+
+| Metrik | Eşik | Açıklama |
+|--------|:----:|----------|
+| Parlaklık | ±5% | Master'dan sapma |
+| Yerel Kontrast | ≤+100% | Encoding farkından dolayı geniş |
+| Sharpness | ≤+100% | Encoding farkından dolayı geniş |
+| Doygunluk | ±7% | Master'dan sapma |
+| Gölge derinliği | ≤±15% | Belirgin derinleşme olamaz |
+| Highlight clipping | ≤+2% | Artamaz |
+
+### Continuity Rule
+
+```
+ASLA ham üretilmiş bir final frame'i bir sonraki @image1 olarak kullanma.
+SADECE kullan: shot-XX-final-frame-normalized.png
+```
+
+### Prompt Kuralı
+
+Her shot prompt'unda COMPACT bir satır olmalı:
+
+```
+Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+```
+
+Bu satır birincil koruma DEĞIL. Birincil koruma normalize_shot.py ve Drift Gate'tir.
+
+### Final-Edit Rule
+
+Ham klipleri normalize edilmiş continuity frame'lerle KARIŞTIRMA. Bu, shot sınırlarında görünür renk sıçraması yaratır. Sadece normalize edilmiş videoları kullan.
+
+---
+
 ## Production Pipeline
 
 Gerçek üretim akışı:
@@ -975,6 +1053,9 @@ This rule was added after discovering intra-shot background drift in generated v
 
 ### Zorunlu Bölümler
 
+> **Üretim Kuralı:** Bir bölüm için SADECE OpenArt prompt dosyaları oluşturulur.
+> Başka production dosyası oluşturmaya gerek yoktur. Shot markdown dosyaları zaten mevcuttur.
+
 Her shot markdown dosyası şu bölümleri içermelidir:
 
 1. **Scene Context** — Episode, Shot numarası/süresi, Location, Characters, Time of Day
@@ -1263,7 +1344,104 @@ Negative Prompt: '...realistic leaf, pointed leaf, leaf veins, leaf texture, wil
 QA: '- [ ] Leaves are fluffy Pompom Leaves (round, cotton-like, no veins)'
 ```
 
+## OPENART PROMPT CHARACTER LIMIT RULE
+
+### Limit
+
+OpenArt'ın birleşik ana prompt + negative prompt alanı için gözlemlenen kabul sınırı yaklaşık
+830 karakterdir; bu resmi belgelenmiş kesin bir platform limiti değildir.
+
+Güvenli üretim sınırı:
+
+```text
+OpenArt Paste Prompt + Negative Prompt <= 800 characters
+Preferred target: 700-780 characters
+```
+
+Sayaç; ana prompt, diyalog, voice instruction, sound instruction, negative prompt,
+boşluklar, noktalama ve satır sonları dahil OpenArt'a gerçekten yapıştırılan tüm karakterleri
+kapsar.
+
+Şunlar OpenArt'a yapıştırılmadığı için sayılmaz:
+
+- markdown başlıkları
+- Internal QA Checklist
+- OpenArt Settings
+- production notes
+- açıklamalar
+- dosya başlığı
+
+800 karakter, kullanıcı açıkça onaylamadıkça aşılamaz.
+
+### Zorunlu Dosya Yapısı ve Workflow
+
+Her mevcut ve gelecekteki `shot-XX-openart-prompt.md` dosyası üretime alınmadan önce:
+
+1. Ayrıntılı internal production document hazırlanır.
+2. OpenArt'a girecek metin ayrı bir `## OpenArt Paste Prompt` bölümüne konur.
+3. Negative alanına girecek metin ayrı bir `## Negative Prompt` bölümüne konur.
+4. Bu iki bölümün içerikleri, başlıklar hariç ve boşluk/noktalama/satır sonları dahil,
+   birlikte sayılır.
+5. Birleşik toplam 800 karakter veya altında tutulur; 700-780 tercih edilir.
+6. Her dosyada, OpenArt'a yapıştırılmayan şu doğrulama satırı bulunur:
+
+```text
+OpenArt pasted character count: XXX / 800
+```
+
+7. Sayaç 800'ü geçiyorsa prompt approved/production-ready işaretlenmez. Tekrarlı ifade
+   sıkıştırılır; kritik continuity korumaları silinmez.
+
+### Compression Priority
+
+Önce korunacak kontroller:
+
+- `@image1` continuity ve exact first-frame match
+- camera lock
+- character ve object persistence
+- no character/object pop-in
+- no disappearance veya position jump
+- shot'ın ana aksiyonu ve exact dialogue
+- same approved saved voice
+- colour/contrast stability
+- gerektiğinde no music
+
+Önce sıkıştırılacak veya pasted prompt dışına taşınacak içerik:
+
+- tekrarlı açıklamalar ve nedenler
+- duplicate negative terms
+- uzun stil tarifleri
+- QA dili
+- OpenArt arayüzünden kontrol edilen ayarlar
+- tekrarlanan kamera, ışık ve voice açıklamaları
+
+Karakter limiti hiçbir zaman kritik continuity kuralı silinerek çözülmez. Tercih edilen
+kompakt kalıplar:
+
+```text
+locked camera; no reset/reframe/movement
+no pop-in, disappearance, duplication, or position jump
+same bright warm soft matte look; no darkening/HDR/colour drift
+same approved saved voice
+natural ambience only; no music
+```
+
+### Negative Prompt
+
+- En fazla 15-20 yüksek riskli failure term kullanılır.
+- Ana promptta yeterince açık olan kural, bilinen tekrarlayan bir üretim hatası değilse
+  negative promptta yinelenmez.
+- Generic quality terimleri yerine gerçek production failure'ları öncelik alır.
+
+### Internal QA Checklist
+
+Tam ayrıntılı kontroller internal dokümanda korunur. Checklist OpenArt'a yapıştırılmaz ve
+800 karakter sınırına dahil edilmez.
+
+Bu kural tüm mevcut ve gelecekteki Pompom Hills OpenArt video promptlarına uygulanır.
+Uygulama sırasında story content, dialogue, character canon veya shot intent değiştirilmez.
+
 ---
 
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 5.4 — @image2 Shot 1 Colour Reference eklendi (kalıcı contrast çözümü)*
+*Versiyon: 5.6 — OpenArt Prompt Character Limit Rule eklendi (800 karakter güvenli sınır)*
