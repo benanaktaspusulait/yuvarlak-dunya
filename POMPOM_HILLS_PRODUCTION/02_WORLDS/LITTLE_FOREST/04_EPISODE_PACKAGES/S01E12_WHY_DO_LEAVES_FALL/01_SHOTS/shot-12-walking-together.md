@@ -39,7 +39,7 @@ No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or ang
 ## Visual Prompt
 
 ```text
-Little Forest, warm autumn sunlight. Kiko (coral pink #F8BBD0 shirt, white shorts, brown pigtails) walks slowly through the golden autumn forest, holding the edge of wise owl Opa's (round warm green feathers #A5D6A7, golden glasses #FFD54F, orange beak, soft brown shawl #A1887F) wing. Opa walks beside her, holding his wing extended and keeping it clearly owl-like and feathered so Kiko can hold the tip comfortably. Fluffy plush Pompom Leaves drift down around them — soft round cotton-like leaves in autumn gold #FFCC80, autumn red #F8BBD0, and autumn cream #FFF8E1, no veins, soft edges. Warm golden light. They walk into the distance. The Little Forest background is locked from Shot 11; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
+Little Forest, warm autumn sunlight. First visible frame matches Shot 11 final frame — Kiko holding Opa's wing, same composition. They begin walking together. Kiko (coral pink #F8BBD0 shirt, white shorts, brown pigtails) walks slowly through the golden autumn forest, holding the edge of wise owl Opa's (round warm green feathers #A5D6A7, golden glasses #FFD54F, orange beak, soft brown shawl #A1887F) wing. Opa walks beside her, holding his wing extended and keeping it clearly owl-like and feathered so Kiko can hold the tip comfortably. Fluffy plush Pompom Leaves drift down around them — soft round cotton-like leaves in autumn gold #FFCC80, autumn red #F8BBD0, and autumn cream #FFF8E1, no veins, soft edges. Warm golden light. They walk into the distance. The Little Forest background matches @image1 exactly; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
 ```
 
 ## Camera Direction
@@ -77,22 +77,38 @@ Warm autumn sunlight. Soft golden colour palette. Medium-low contrast. Gentle go
 
 ## Colour / Contrast Stability
 
-Match the previous approved frame for continuity, but do not intensify it.
-Preserve soft pastel preschool look.
+This shot continues from @image1, the approved final frame of the previous shot.
+
+Match @image1 for lighting, colour temperature, softness, exposure, shadow level, material feel, and overall atmosphere.
+
+Preserve the soft pastel preschool look.
 Preserve medium-low contrast.
 Preserve warm autumn sunlight.
 Preserve gentle golden warmth.
 Preserve soft shadows.
 Preserve matte handcrafted toy-set materials.
+
+Do not intensify the previous frame.
 Do not increase contrast.
 Do not increase saturation.
 Do not add HDR effect.
 Do not add extra sharpening.
 Do not add glossy plastic highlights.
 Do not create harsher shadows.
-Do not brighten highlights into blown-out look.
-Do not make dark areas deeper or more cave-like.
-If any adjustment happens, it should be slightly softer and calmer, never stronger, sharper, glossier, darker, or more contrasty.
+Do not brighten highlights into a blown-out look.
+Do not make dark areas deeper, heavier, or more cave-like.
+Do not make the autumn colours more orange, red, neon, or intense than @image1.
+Do not make the scene look more cinematic, dramatic, glossy, or high-energy than @image1.
+
+If any visual adjustment happens, it must move slightly softer, calmer, warmer, and more matte — never stronger, sharper, glossier, darker, more saturated, or more contrasty.
+
+### Colour Retention Rule (Video Generation)
+
+Preserve the warm golden autumn colour baseline from @image1 throughout the entire video.
+Do not let colours drift toward gray, brown, cool, or desaturated.
+Do not let the warm golden sunlight fade or become neutral.
+If colours begin to drift, correct them back to the warm baseline.
+The video must feel like a continuous warm golden autumn scene, not a desaturated version.
 
 ## Negative Prompt
 
@@ -122,3 +138,10 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - [ ] First visible frame matches @image1
 - [ ] No sudden new character pop-in
 - [ ] No character disappears suddenly from previous final frame
+- [ ] Colour and lighting match @image1
+- [ ] No contrast increase from previous shot
+- [ ] No saturation increase from previous shot
+- [ ] No HDR / glossy / oversharpened look
+- [ ] No harsher shadows or blown highlights
+- [ ] Autumn colours remain soft pastel, not intense orange/red/neon
+- [ ] Overall look stays matte, warm, calm, and preschool-safe

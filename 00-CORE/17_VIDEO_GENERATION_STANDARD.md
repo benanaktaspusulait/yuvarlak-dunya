@@ -940,6 +940,8 @@ Her shot markdown dosyası şu bölümleri içermelidir:
 5. **World Reference** (Shot 01 için) — İlk shot world reference kullanımı
 6. **Background Object Lock** — Arka plan sabitliği
 7. **Visual Prompt** — OpenArt prompt'u ({style} {camera} {lighting} ile biter)
+   - Shot 01: "CRITICAL: Maintain warm golden autumn colour saturation throughout the entire video" içermeli
+   - Shot 02-12: "The Little Forest background matches @image1 exactly" içermeli
 8. **Camera Direction** — Kamera yönü
 9. **Dialogue** — 3 satır dialog (her shot'ta)
 10. **Shot Breakdown** — Zaman dilimleri (0-3, 3-6, 7-10, 11-15)
@@ -985,36 +987,112 @@ Kullanılamaz (Shot 02-12):
 
 ### Colour / Contrast Stability Bölümü (Tüm Shot'lar Zorunlu)
 
+#### Shot 01 — Baseline Version (İlk shot, önceki frame yok)
+
 ```text
 ## Colour / Contrast Stability
 
-Match the previous approved frame for continuity, but do not intensify it.
-Preserve soft pastel preschool look.
+Establish the episode baseline look.
+
+Use a soft pastel preschool look.
+Use medium-low contrast.
+Use warm sunlight / golden light.
+Use gentle warmth.
+Use soft shadows.
+Use matte handcrafted toy-set materials.
+
+Do not make the first shot overly saturated.
+Do not make the colours too intense, neon, or heavy.
+Do not add HDR effect.
+Do not add extra sharpening.
+Do not add glossy plastic highlights.
+Do not create harsh shadows.
+Do not brighten highlights into a blown-out look.
+Do not make dark areas deep, cave-like, or high-contrast.
+
+The first shot should feel soft, calm, warm, matte, and preschool-safe.
+It must establish a gentle visual baseline for the whole episode.
+
+Never make the first shot stronger, sharper, glossier, darker, more saturated, or more contrasty than the soft Pompom Hills preschool style.
+```
+
+#### Shot 02-12 — @image1 Continuity Version (Önceki frame'den devam)
+
+```text
+## Colour / Contrast Stability
+
+This shot continues from @image1, the approved final frame of the previous shot.
+
+Match @image1 for lighting, colour temperature, softness, exposure, shadow level, material feel, and overall atmosphere.
+
+Preserve the soft pastel preschool look.
 Preserve medium-low contrast.
 Preserve warm sunlight / golden light.
 Preserve gentle warmth.
 Preserve soft shadows.
 Preserve matte handcrafted toy-set materials.
+
+Do not intensify the previous frame.
 Do not increase contrast.
 Do not increase saturation.
 Do not add HDR effect.
 Do not add extra sharpening.
 Do not add glossy plastic highlights.
 Do not create harsher shadows.
-Do not brighten highlights into blown-out look.
-Do not make dark areas deeper or more cave-like.
-If any adjustment happens, it should be slightly softer and calmer, never stronger, sharper, glossier, darker, or more contrasty.
+Do not brighten highlights into a blown-out look.
+Do not make dark areas deeper, heavier, or more cave-like.
+Do not make the colours more orange, red, neon, or intense than @image1.
+Do not make the scene look more cinematic, dramatic, glossy, or high-energy than @image1.
+
+If any visual adjustment happens, it must move slightly softer, calmer, warmer, and more matte — never stronger, sharper, glossier, darker, more saturated, or more contrasty.
 ```
 
-### QA Checklist Standart Maddeleri (Shot 02-12 Zorunlu)
+### Colour Retention Rule (Video Generation)
 
-Her shot 02-12 QA checklist'ine şu 4 madde eklenmelidir:
+> Video üretim modelleri frame-to-frame geçişte renk doygunluğunu düşürme eğilimindedir.
+> Bu kural bunu engeller.
+
+```text
+The first frame sets the warm colour baseline. During video generation:
+- Preserve the exact same warm tones from first frame to last frame
+- Do not let colours drift toward gray, brown, cool, or desaturated
+- Do not let warm sunlight fade or become neutral
+- If colours begin to drift, correct them back to the warm baseline
+- The video must feel like a continuous warm scene, not a desaturated version
+```
+
+### QA Checklist Standart Maddeleri
+
+#### Shot 01 — Baseline QA (İlk shot)
+
+```text
+- [ ] Establishes soft pastel autumn baseline
+- [ ] Medium-low contrast
+- [ ] No oversaturation
+- [ ] No HDR / glossy / oversharpened look
+- [ ] No harsh shadows or blown highlights
+- [ ] Autumn colours are warm and gentle, not intense orange/red/neon
+- [ ] Overall look is matte, calm, and preschool-safe
+- [ ] Warm golden colour baseline established for video generation
+```
+
+#### Shot 02-12 — Continuity QA (Önceki frame'den devam)
+
+Her shot 02-12 QA checklist'ine şu 11 madde eklenmelidir:
 
 ```text
 - [ ] Camera framing matches @image1; no new close-up/wide reset
 - [ ] First visible frame matches @image1
 - [ ] No sudden new character pop-in
 - [ ] No character disappears suddenly from previous final frame
+- [ ] Colour and lighting match @image1
+- [ ] No contrast increase from previous shot
+- [ ] No saturation increase from previous shot
+- [ ] No HDR / glossy / oversharpened look
+- [ ] No harsher shadows or blown highlights
+- [ ] Autumn colours remain soft pastel, not intense orange/red/neon
+- [ ] Overall look stays matte, warm, calm, and preschool-safe
+- [ ] Warm golden colour baseline retained from @image1 throughout video
 ```
 
 ### Karakter Süreklilik Kuralları
@@ -1028,6 +1106,29 @@ Eğer bir shot'ta @image1'de olmayan bir karakter ilk kez görünüyorsa:
 3. "Already seated nearby" / "already visible in background" gibi ifadeler kullanılmalı
 4. "Not a sudden pop-in" / "not appearing from nowhere" ifadeleri negatif prompt'a eklenmeli
 5. Kamera reframe yapmamalı, yeni establishing shot olmamalı
+
+#### Prop / Nesne Süreklilik Kuralı
+
+> Bu kural S01E05'ten çıkarıldı: Yaprak (prop) Shot 01 final frame'de Kiko'nun elinde değildi, ama Shot 02 ilk karesinde aniden belirdi.
+
+Bir shot'ta @image1'de görünmeyen bir prop/nesne (yaprak, taş, çiçek, oyuncak vb.) ilk karede aniden beliremez:
+
+1. İlk frame @image1 ile aynı olmalı (prop henüz elde değilse, elde değildir)
+2. Prop'u kazanma/kavrama eylemi ilk 1-3 saniyede olmalı
+3. "Reaches for and catches" / "picks up" / "finds" gibi eylem fiilleri kullanılmalı
+4. "Holds [object]" / "carrying [object]" gibi pasif ifadeler KULLANILMAZ (eğer @image1'de zaten elde değilse)
+5. Visual Prompt'ta "First visible frame matches @image1" denilmeli, sonra prop kazanma eylemi gelmeli
+
+Örnek — Yanlış:
+```
+Kiko holds a golden leaf in her hands...  (ama @image1'de elinde yok!)
+```
+
+Örnek — Doğru:
+```
+First visible frame matches Shot 01 final frame — Kiko reaching for leaf.
+She catches it gently in both hands. She holds it, looking at it...
+```
 
 #### Arka Plan Karakter Kullanımı
 
@@ -1065,4 +1166,4 @@ QA: '- [ ] Leaves are fluffy Pompom Leaves (round, cotton-like, no veins)'
 ---
 
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 4.4 — Pompom Items görsel prompt kuralı eklendi*
+*Versiyon: 4.8 — Prop/Nesne Süreklilik Kuralı eklendi (S01E05 lesson)*

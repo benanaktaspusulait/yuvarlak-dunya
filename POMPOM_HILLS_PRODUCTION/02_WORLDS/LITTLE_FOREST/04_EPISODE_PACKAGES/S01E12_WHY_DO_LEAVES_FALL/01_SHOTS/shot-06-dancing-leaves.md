@@ -39,7 +39,7 @@ No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or ang
 ## Visual Prompt
 
 ```text
-Little Forest, warm autumn sunlight. Kiko (coral pink #F8BBD0 shirt, white shorts, brown pigtails) stands alone, watching fluffy plush Pompom Leaves dance in the wind — soft round cotton-like leaves in autumn gold #FFCC80, autumn red #F8BBD0, and autumn cream #FFF8E1, no veins, soft edges. Wise owl Opa remains seated quietly nearby under the tree, small and non-dominant in the background. No dialogue from Opa. She tilts her head back, opens arms wide, gentle bounce on toes. She turns her head slowly left to right following the leaves. Her pigtails sway in the breeze. The Little Forest background is locked from Shot 05; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
+Little Forest, warm autumn sunlight. First visible frame matches Shot 05 final frame. Kiko begins to stand up from her seated position. Opa remains seated in the background. Kiko (coral pink #F8BBD0 shirt, white shorts, brown pigtails) stands alone, watching fluffy plush Pompom Leaves dance in the wind — soft round cotton-like leaves in autumn gold #FFCC80, autumn red #F8BBD0, and autumn cream #FFF8E1, no veins, soft edges. Wise owl Opa remains seated quietly nearby under the tree, small and non-dominant in the background. No dialogue from Opa. She tilts her head back, opens arms wide, gentle bounce on toes. She turns her head slowly left to right following the leaves. Her pigtails sway in the breeze. The Little Forest background matches @image1 exactly; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
 ```
 
 ## Camera Direction
@@ -58,10 +58,10 @@ Kiko: Round and round they go!
 
 | Time | Action | Camera |
 |------|--------|--------|
-| 0-3 sec | Kiko watches leaves dance in the wind, head tilted back | Medium hold |
-| 3-6 sec | Opens arms wide, gentle bounce on toes, pigtails sway | Medium hold |
-| 7-10 sec | Turns head slowly left to right following the leaves | Medium hold |
-| 11-15 sec | "Round and round they go!" — joyful, excited expression | Medium hold |
+| 0-3 sec | Kiko watches leaves dance in the wind, head tilted back | Locked @image1 hold |
+| 3-6 sec | Opens arms wide, gentle bounce on toes, pigtails sway | Locked @image1 hold |
+| 7-10 sec | Turns head slowly left to right following the leaves | Locked @image1 hold |
+| 11-15 sec | "Round and round they go!" — joyful, excited expression | Locked @image1 hold |
 
 ## Natural Character Motion Rule
 
@@ -77,22 +77,38 @@ Warm autumn sunlight. Soft golden colour palette. Medium-low contrast. Gentle go
 
 ## Colour / Contrast Stability
 
-Match the previous approved frame for continuity, but do not intensify it.
-Preserve soft pastel preschool look.
+This shot continues from @image1, the approved final frame of the previous shot.
+
+Match @image1 for lighting, colour temperature, softness, exposure, shadow level, material feel, and overall atmosphere.
+
+Preserve the soft pastel preschool look.
 Preserve medium-low contrast.
 Preserve warm autumn sunlight.
 Preserve gentle golden warmth.
 Preserve soft shadows.
 Preserve matte handcrafted toy-set materials.
+
+Do not intensify the previous frame.
 Do not increase contrast.
 Do not increase saturation.
 Do not add HDR effect.
 Do not add extra sharpening.
 Do not add glossy plastic highlights.
 Do not create harsher shadows.
-Do not brighten highlights into blown-out look.
-Do not make dark areas deeper or more cave-like.
-If any adjustment happens, it should be slightly softer and calmer, never stronger, sharper, glossier, darker, or more contrasty.
+Do not brighten highlights into a blown-out look.
+Do not make dark areas deeper, heavier, or more cave-like.
+Do not make the autumn colours more orange, red, neon, or intense than @image1.
+Do not make the scene look more cinematic, dramatic, glossy, or high-energy than @image1.
+
+If any visual adjustment happens, it must move slightly softer, calmer, warmer, and more matte — never stronger, sharper, glossier, darker, more saturated, or more contrasty.
+
+### Colour Retention Rule (Video Generation)
+
+Preserve the warm golden autumn colour baseline from @image1 throughout the entire video.
+Do not let colours drift toward gray, brown, cool, or desaturated.
+Do not let the warm golden sunlight fade or become neutral.
+If colours begin to drift, correct them back to the warm baseline.
+The video must feel like a continuous warm golden autumn scene, not a desaturated version.
 
 ## Negative Prompt
 
@@ -122,3 +138,10 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - [ ] First visible frame matches @image1
 - [ ] No sudden new character pop-in
 - [ ] No character disappears suddenly from previous final frame
+- [ ] Colour and lighting match @image1
+- [ ] No contrast increase from previous shot
+- [ ] No saturation increase from previous shot
+- [ ] No HDR / glossy / oversharpened look
+- [ ] No harsher shadows or blown highlights
+- [ ] Autumn colours remain soft pastel, not intense orange/red/neon
+- [ ] Overall look stays matte, warm, calm, and preschool-safe

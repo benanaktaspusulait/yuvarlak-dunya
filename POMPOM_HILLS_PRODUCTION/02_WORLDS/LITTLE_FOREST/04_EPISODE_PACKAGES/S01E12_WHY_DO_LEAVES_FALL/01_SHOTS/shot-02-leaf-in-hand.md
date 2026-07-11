@@ -21,7 +21,7 @@ Kiko holds a golden leaf, looks at it sadly.
 
 ## Continuity
 
-Direct continuation from Shot 01. Kiko is in the same position. Background locked.
+Direct continuation from Shot 01 via @image1. Kiko is in the same position as @image1. Background locked.
 
 ## Frame-to-Video Continuity
 
@@ -39,7 +39,7 @@ No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or ang
 ## Visual Prompt
 
 ```text
-Little Forest, warm autumn sunlight. Kiko (coral pink #F8BBD0 shirt, white shorts, brown pigtails) holds a fluffy plush Pompom Leaf (soft round cotton-like leaf, autumn gold #FFCC80, no veins, soft edges) in her hands, looking at it with a sad expression. Her shoulders drop slightly, she sighs softly, then looks up at bare branches. The Little Forest background is locked from Shot 01; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
+Little Forest, warm autumn sunlight. Kiko watches a fluffy plush Pompom Leaf drift down toward her. She reaches out and catches it gently in both hands. She holds it, looking at it with a sad expression. Her shoulders drop slightly, she sighs softly, then looks up toward the autumn canopy and falling plush Pompom Leaves. The Little Forest background matches @image1 exactly; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
 ```
 
 ## Camera Direction
@@ -58,14 +58,14 @@ Kiko: They were so pretty...
 
 | Time | Action | Camera |
 |------|--------|--------|
-| 0-3 sec | Kiko holds leaf gently, looks at it with sadness | Locked @image1 hold |
-| 3-6 sec | Shoulders drop slightly, she sighs softly | Locked @image1 hold |
-| 7-10 sec | Looks up at bare branches with longing | Locked @image1 hold |
+| 0-3 sec | Kiko watches a Pompom Leaf drift down, reaches out and catches it | Locked @image1 hold |
+| 3-6 sec | She holds the leaf, looks at it with sadness, shoulders drop | Locked @image1 hold |
+| 7-10 sec | Looks up toward the autumn canopy with longing | Locked @image1 hold |
 | 11-15 sec | "They were so pretty..." — soft sad expression | Locked @image1 hold |
 
 ## Natural Character Motion Rule
 
-The shot begins alive immediately. Kiko holds the leaf gently, looks at it with curiosity and sadness. She looks up at the bare branches with natural wonder. Motion is small, gentle, and preschool-safe. No walking. No running. No chase. No jumping. No spinning. No large travel. No side switching. No exaggerated gesture. No delayed dialogue. No empty opening seconds. No dead air. No silent idle opening.
+The shot begins alive immediately. Kiko watches a Pompom Leaf drift toward her and catches it gently. She holds the leaf, looks at it with curiosity and sadness. She looks up toward the autumn canopy with natural wonder. Motion is small, gentle, and preschool-safe. No walking. No running. No chase. No jumping. No spinning. No large travel. No side switching. No exaggerated gesture. No delayed dialogue. No empty opening seconds. No dead air. No silent idle opening.
 
 ## Sound
 
@@ -77,22 +77,38 @@ Warm autumn sunlight. Soft golden colour palette. Medium-low contrast. Gentle go
 
 ## Colour / Contrast Stability
 
-Match the previous approved frame for continuity, but do not intensify it.
-Preserve soft pastel preschool look.
+This shot continues from @image1, the approved final frame of the previous shot.
+
+Match @image1 for lighting, colour temperature, softness, exposure, shadow level, material feel, and overall atmosphere.
+
+Preserve the soft pastel preschool look.
 Preserve medium-low contrast.
 Preserve warm autumn sunlight.
 Preserve gentle golden warmth.
 Preserve soft shadows.
 Preserve matte handcrafted toy-set materials.
+
+Do not intensify the previous frame.
 Do not increase contrast.
 Do not increase saturation.
 Do not add HDR effect.
 Do not add extra sharpening.
 Do not add glossy plastic highlights.
 Do not create harsher shadows.
-Do not brighten highlights into blown-out look.
-Do not make dark areas deeper or more cave-like.
-If any adjustment happens, it should be slightly softer and calmer, never stronger, sharper, glossier, darker, or more contrasty.
+Do not brighten highlights into a blown-out look.
+Do not make dark areas deeper, heavier, or more cave-like.
+Do not make the autumn colours more orange, red, neon, or intense than @image1.
+Do not make the scene look more cinematic, dramatic, glossy, or high-energy than @image1.
+
+If any visual adjustment happens, it must move slightly softer, calmer, warmer, and more matte — never stronger, sharper, glossier, darker, more saturated, or more contrasty.
+
+### Colour Retention Rule (Video Generation)
+
+Preserve the warm golden autumn colour baseline from @image1 throughout the entire video.
+Do not let colours drift toward gray, brown, cool, or desaturated.
+Do not let the warm golden sunlight fade or become neutral.
+If colours begin to drift, correct them back to the warm baseline.
+The video must feel like a continuous warm golden autumn scene, not a desaturated version.
 
 ## Negative Prompt
 
@@ -119,3 +135,10 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - [ ] First visible frame matches @image1
 - [ ] No sudden new character pop-in
 - [ ] No character disappears suddenly from previous final frame
+- [ ] Colour and lighting match @image1
+- [ ] No contrast increase from previous shot
+- [ ] No saturation increase from previous shot
+- [ ] No HDR / glossy / oversharpened look
+- [ ] No harsher shadows or blown highlights
+- [ ] Autumn colours remain soft pastel, not intense orange/red/neon
+- [ ] Overall look stays matte, warm, calm, and preschool-safe

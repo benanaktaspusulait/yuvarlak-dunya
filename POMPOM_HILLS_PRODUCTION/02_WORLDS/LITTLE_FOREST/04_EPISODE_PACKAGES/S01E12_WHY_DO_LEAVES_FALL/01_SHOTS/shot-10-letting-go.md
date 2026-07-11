@@ -39,7 +39,7 @@ No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or ang
 ## Visual Prompt
 
 ```text
-Little Forest, warm autumn sunlight. Kiko (coral pink #F8BBD0 shirt, white shorts, brown pigtails) kneels and places her fluffy plush Pompom Leaf (soft round cotton-like leaf, autumn gold #FFCC80, no veins, soft edges) carefully on the colorful carpet of Pompom Leaves (autumn gold #FFCC80, autumn red #F8BBD0, autumn cream #FFF8E1) on the ground. Wise owl Opa (round warm green feathers #A5D6A7, golden glasses #FFD54F, orange beak, soft brown shawl #A1887F) extends his wing and gently touches the Pompom Leaf in a blessing farewell gesture. Kiko looks up at Opa and nods. The Little Forest background is locked from Shot 09; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
+Little Forest, warm autumn sunlight. First visible frame matches Shot 09 final frame — Kiko and Opa looking at the leaf carpet, same composition. Kiko kneels and places the golden leaf on the ground. Kiko (coral pink #F8BBD0 shirt, white shorts, brown pigtails) kneels and places her fluffy plush Pompom Leaf (soft round cotton-like leaf, autumn gold #FFCC80, no veins, soft edges) carefully on the colorful carpet of Pompom Leaves (autumn gold #FFCC80, autumn red #F8BBD0, autumn cream #FFF8E1) on the ground. Wise owl Opa (round warm green feathers #A5D6A7, golden glasses #FFD54F, orange beak, soft brown shawl #A1887F) extends his wing and gently touches the Pompom Leaf in a blessing farewell gesture. Kiko looks up at Opa and nods. The Little Forest background matches @image1 exactly; keep all trees, paths and environment stable. Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text. {style} {camera} {lighting}
 ```
 
 ## Camera Direction
@@ -58,10 +58,10 @@ Kiko: Thank you for being beautiful.
 
 | Time | Action | Camera |
 |------|--------|--------|
-| 0-3 sec | Kiko kneels, places leaf carefully on the ground | Medium hold |
-| 3-6 sec | Opa extends wing, gently touches the leaf (farewell gesture) | Medium hold |
-| 7-10 sec | Kiko looks up at Opa and nods | Medium hold |
-| 11-15 sec | "Thank you for being beautiful." — warm moment | Medium hold |
+| 0-3 sec | Kiko kneels, places leaf carefully on the ground | Locked @image1 hold |
+| 3-6 sec | Opa extends wing, gently touches the leaf (farewell gesture) | Locked @image1 hold |
+| 7-10 sec | Kiko looks up at Opa and nods | Locked @image1 hold |
+| 11-15 sec | "Thank you for being beautiful." — warm moment | Locked @image1 hold |
 
 ## Natural Character Motion Rule
 
@@ -77,22 +77,38 @@ Warm autumn sunlight. Soft golden colour palette. Medium-low contrast. Gentle go
 
 ## Colour / Contrast Stability
 
-Match the previous approved frame for continuity, but do not intensify it.
-Preserve soft pastel preschool look.
+This shot continues from @image1, the approved final frame of the previous shot.
+
+Match @image1 for lighting, colour temperature, softness, exposure, shadow level, material feel, and overall atmosphere.
+
+Preserve the soft pastel preschool look.
 Preserve medium-low contrast.
 Preserve warm autumn sunlight.
 Preserve gentle golden warmth.
 Preserve soft shadows.
 Preserve matte handcrafted toy-set materials.
+
+Do not intensify the previous frame.
 Do not increase contrast.
 Do not increase saturation.
 Do not add HDR effect.
 Do not add extra sharpening.
 Do not add glossy plastic highlights.
 Do not create harsher shadows.
-Do not brighten highlights into blown-out look.
-Do not make dark areas deeper or more cave-like.
-If any adjustment happens, it should be slightly softer and calmer, never stronger, sharper, glossier, darker, or more contrasty.
+Do not brighten highlights into a blown-out look.
+Do not make dark areas deeper, heavier, or more cave-like.
+Do not make the autumn colours more orange, red, neon, or intense than @image1.
+Do not make the scene look more cinematic, dramatic, glossy, or high-energy than @image1.
+
+If any visual adjustment happens, it must move slightly softer, calmer, warmer, and more matte — never stronger, sharper, glossier, darker, more saturated, or more contrasty.
+
+### Colour Retention Rule (Video Generation)
+
+Preserve the warm golden autumn colour baseline from @image1 throughout the entire video.
+Do not let colours drift toward gray, brown, cool, or desaturated.
+Do not let the warm golden sunlight fade or become neutral.
+If colours begin to drift, correct them back to the warm baseline.
+The video must feel like a continuous warm golden autumn scene, not a desaturated version.
 
 ## Negative Prompt
 
@@ -120,3 +136,10 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 - [ ] First visible frame matches @image1
 - [ ] No sudden new character pop-in
 - [ ] No character disappears suddenly from previous final frame
+- [ ] Colour and lighting match @image1
+- [ ] No contrast increase from previous shot
+- [ ] No saturation increase from previous shot
+- [ ] No HDR / glossy / oversharpened look
+- [ ] No harsher shadows or blown highlights
+- [ ] Autumn colours remain soft pastel, not intense orange/red/neon
+- [ ] Overall look stays matte, warm, calm, and preschool-safe
