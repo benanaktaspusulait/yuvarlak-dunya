@@ -40,20 +40,19 @@ the path surface and pushes it gently with one finger. The acorn starts to move.
 ### Shot 04 — Fast on the Path (0:45–1:00)
 
 The acorn rolls quickly along the smooth path, picking up speed. Arda follows with quick but
-safe small steps, his eyes wide with excitement. The acorn rolls in a gentle straight line.
+safe small steps, his eyes wide with excitement. His face lights up with pure joy as he watches it speed away. The acorn rolls in a gentle straight line.
 
 **SFX:** `vrr-vrr-vrr`
 
 **Arda:** "It's fast! So fast!"
 
-### Shot 05 — One More Time! (1:00–1:15)
+### Shot 05 — Funny Shoe Roll! (1:00–1:15)
 
-Arda catches the acorn, walks back to the start of the path, and pushes it again. The acorn
-rolls fast once more. Arda giggles and claps softly.
+Arda pushes the acorn, but it rolls quickly and plops right into his shoe. He hops around on one foot, laughing and trying to shake it out. After a funny moment, he retrieves the acorn, giggles, and pushes it again.
 
-**Arda:** "One more time! Fast on the path!"
+**SFX:** `vrr-vrr-vrr` (rolling) then `plop` (into shoe) and `hop-hop-hop` (hopping)
 
-**SFX:** `vrr-vrr-vrr`
+**Arda:** "Oh! It went in my shoe! Hehe!"
 
 ### Shot 06 — Off the Path (1:15–1:30)
 
@@ -147,11 +146,11 @@ carefully. His expression is focused and scientific.
 ### Shot 16 — Rhyme Again (3:45–4:00)
 
 Arda stands up, holds the acorn proudly in both hands, and repeats the rhyme with a bigger
-smile. He turns toward the meadow path in the background.
+smile. He turns toward the meadow path in the background, his eyes shining with excitement to share.
 
 **Arda:** "Smooth? Fast! Bumpy? Slow! Different surface, different roll!"
 
-He begins walking toward Friendship Meadow, the acorn cupped safely in his hands.
+He calls out toward the meadow, "Come see!" even though no one is there yet, then begins walking toward Friendship Meadow, the acorn cupped safely in his hands, building anticipation for his friends.
 
 ---
 
@@ -234,14 +233,10 @@ fast on the smooth path. All three friends look at each other with recognition.
 
 They clap together, delighted by the shared discovery.
 
-### Shot 24 — One More Roll (5:45–6:00)
+### Shot 24 — Warm Ending (5:45–6:00)
 
-Arda kneels and rolls the acorn gently toward the camera. It rolls smoothly along the path,
-getting closer until its warm brown round shape fills the frame — a gentle loop back to the
-discovery. Luca and Noah are visible behind him, smiling.
+After the rolling race, Arda, Luca, and Noah sit together on the soft grass, each holding their object — Arda with his acorn, Luca with his stone, Noah with his leaf. They smile at each other, feeling happy and connected.
 
-**Arda:** "One more time?"
+**Arda:** "Same acorn, different roll!"
 
-**Luca and Noah:** "One more time!"
-
-The acorn's round shape fills the frame softly.
+They all smile warmly, and the camera zooms in on their happy faces, ending the episode on a note of friendship and shared discovery.

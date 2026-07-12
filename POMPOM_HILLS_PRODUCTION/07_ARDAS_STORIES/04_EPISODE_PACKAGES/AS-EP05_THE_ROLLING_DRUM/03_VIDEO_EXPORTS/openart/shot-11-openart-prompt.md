@@ -32,6 +32,14 @@ background music, music, melody, song, soundtrack, indoor elements, other rooms,
 characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
 cinematic LUT, blue tint, green tint, orange shift, HDR look, damage, break, hurt, pain
 
+## Voice Lock
+
+Each character must use their registered locked voice from VOICE_TRACKER.md.
+Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
+Do not let OpenArt choose or generate voices.
+Do not change voice between shots.
+Same pitch, same timbre, same age, same speed, same warmth.
+
 ## OpenArt Settings
 
 - Duration: 15 seconds

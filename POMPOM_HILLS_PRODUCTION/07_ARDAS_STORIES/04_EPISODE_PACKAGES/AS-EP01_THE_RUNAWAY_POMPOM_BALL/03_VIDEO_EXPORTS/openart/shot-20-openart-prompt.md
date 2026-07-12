@@ -37,6 +37,14 @@ harsh shadows, blown highlights, extra characters, aggressive play, modern techn
 screens, cinematic LUT, blue tint, green tint, orange shift, vehicles, cars, traffic,
 cliff, deep tunnel, scary forest
 
+## Voice Lock
+
+Each character must use their registered locked voice from VOICE_TRACKER.md.
+Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
+Do not let OpenArt choose or generate voices.
+Do not change voice between shots.
+Same pitch, same timbre, same age, same speed, same warmth.
+
 ## OpenArt Settings
 
 - Duration: 15 seconds

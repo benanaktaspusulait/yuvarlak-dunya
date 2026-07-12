@@ -45,6 +45,8 @@ it with both hands.
 
 **Arda:** "Two! It went right."
 
+He does a little victory wiggle, proud of his catch.
+
 ### Shot 05 — A Stronger Push (1:00–1:15)
 
 Arda lifts the ball with excited but controlled body language.
@@ -59,8 +61,14 @@ He pushes a little more strongly. The ball compresses softly and rises higher th
 
 ### Shot 06 — Over the Hands (1:15–1:30)
 
-Arda reaches up, but the floaty ball passes just over his hands. It lands on the grass, returns to
-shape, and begins rolling toward the open garden play gate.
+Arda reaches up, but the floaty ball passes just over his hands. On its way down, it gently
+`boops` his nose with a soft bounce. Arda crosses his eyes trying to look at it, then giggles.
+
+**SFX:** `boop`
+
+**Arda:** "Hey! You booped me!"
+
+The ball lands on the grass, returns to shape, and begins rolling toward the open garden play gate.
 
 **Arda:** "Oh!"
 
@@ -107,8 +115,16 @@ walking rhythm becomes quicker without becoming a chase.
 
 ### Shot 11 — Around to the Right (2:30–2:45)
 
-The ball curves around a rounded patch of flowers. Arda leans his body gently in the same direction
-and points.
+The ball curves around a rounded patch of flowers. It disappears behind a tall bloom for a moment.
+Arda's eyes go wide — he thinks it's gone!
+
+**Arda:** "Where did it—"
+
+But then the ball bounces back out from the other side of the flowers, rolling right toward him.
+
+**Arda:** "There it is!"
+
+He leans his body gently in the same direction and points.
 
 **Arda:** "Right!"
 
@@ -237,10 +253,15 @@ the open centre back to Arda.
 
 ### Shot 24 — One More Time? (5:45–6:00)
 
-Arda makes three gentle, controlled bounces while Luca and Noah count with him. He catches the ball
-after the third bounce.
+Arda holds the ball with both hands. He takes a deep breath, then does a special trick bounce — he
+bounces the ball once, claps his hands, and catches it on the way back down. Luca and Noah's eyes
+go wide, then they clap excitedly.
 
-**All:** "One! Two! Three!"
+**SFX:** `poof` `clap-clap`
+
+**Luca:** "Wow!"
+
+**Noah:** "Do it again!"
 
 **Arda:** "One more time?"
 
