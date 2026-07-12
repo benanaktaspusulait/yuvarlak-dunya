@@ -40,3 +40,18 @@ anger, modern technology, screens, cinematic LUT, blue tint, green tint, orange 
 - Prompt enhancer: Off
 - Cinematic/auto camera: Off
 - Locked camera only
+
+## Shot Approval Checklist
+
+- [ ] First frame matches scene description
+- [ ] Character identity preserved (Arda / Luca / Noah)
+- [ ] No camera movement (locked camera)
+- [ ] No dialogue as on-screen text
+- [ ] No music, no background music
+- [ ] No new characters or objects appearing
+- [] Soft pastel preschool look maintained
+- [ ] No contrast increase, no saturation drift
+- [ ] No HDR, no glossy look, no oversharpening
+- [ ] Warm natural lighting preserved
+- [ ] First 0.5s is stable and edit-safe
+- [ ] Final 0.5s is calm and transition-safe
