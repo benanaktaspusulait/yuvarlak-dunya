@@ -1,0 +1,44 @@
+# Shot 23 — OpenArt Prompt — shot-23-sitting-together
+
+## Visual Prompt
+
+Friendship Meadow, warm golden afternoon light, soft green grass, rounded shrubs. Three friends
+sit together, each holding a soft toy drum in their lap. Arda (energetic boy, brown curly hair,
+orange t-shirt, blue shorts) holds his rainbow drum. Luca (friendly boy, blonde hair, green
+t-shirt, beige shorts) holds his green drum. Noah (curious boy, dark hair, red t-shirt, dark
+shorts) holds his blue drum. They tap their drums softly in a gentle, shared rhythm. They look
+at each other and smile — warm, settled, happy. Soft pastel colours, warm golden light, rounded
+safe shapes, {style} {camera} {lighting}
+
+The Friendship Meadow background is locked from the first frame; keep shrubs, grass, sky
+stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+
+## Camera Direction
+
+32mm at child eye level, wide enough to frame all three friends seated together with drums in
+their laps. The camera holds steady — the gentle tapping is the only movement. Warm, centered
+group framing.
+
+## Sound
+
+Soft outdoor meadow ambience. Three drums make a gentle 'poof… poof… poof' — soft and shared.
+Friends' voices are warm and quiet. No music, no background music, no melody, no song, no
+soundtrack, no chimes, no whooshes.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
+background music, music, melody, song, soundtrack, indoor elements, other rooms, extra
+characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
+cinematic LUT, blue tint, green tint, orange shift, HDR look, cold light, harsh shadows
+
+## OpenArt Settings
+
+- Duration: 15 seconds
+- Mode: Text-to-video
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
+- Locked camera only

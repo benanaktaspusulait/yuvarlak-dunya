@@ -1,0 +1,43 @@
+# Shot 08 — OpenArt Prompt — shot-08-growing-tall
+
+## Visual Prompt
+
+Sunny home garden with soft green grass, rounded shrubs, warm wooden fence, bright blue sky.
+Strong golden sunlight. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts)
+stands up very slowly from the grass. As he rises, his shadow stretches and grows on the ground
+beneath him — from a small seated shape to a full standing shape. Arda's eyes follow the
+shadow's growth upward with a look of quiet wonder. The shadow grows tall as he grows tall.
+Soft pastel colours, bright sunlight, rounded safe shapes, no other characters, {style} {camera}
+{lighting}
+
+The garden background is locked from the first frame; keep shrubs, fence, sky stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+
+## Camera Direction
+
+32mm at child eye level, starting low at Arda's seated level and rising with him as he stands.
+The camera movement is slow and smooth, matching his rise. The shadow's growth is visible
+throughout. Gentle, steady framing.
+
+## Sound
+
+Soft outdoor garden ambience. The moment is quiet and wondrous. Arda's voice is soft and filled
+with wonder — a gentle exclamation of discovery. No music, no background music, no melody, no
+song, no soundtrack, no chimes, no whooshes.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
+background music, music, melody, song, soundtrack, indoor elements, other rooms, extra
+characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
+cinematic LUT, blue tint, green tint, orange shift, HDR look, no shadow, sudden movement
+
+## OpenArt Settings
+
+- Duration: 15 seconds
+- Mode: Text-to-video
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
+- Locked camera only

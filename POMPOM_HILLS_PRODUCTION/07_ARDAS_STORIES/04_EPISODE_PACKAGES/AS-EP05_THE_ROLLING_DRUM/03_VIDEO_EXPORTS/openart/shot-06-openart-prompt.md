@@ -1,0 +1,43 @@
+# Shot 06 — OpenArt Prompt — shot-06-under-the-sofa
+
+## Visual Prompt
+
+Warm indoor play area with soft colourful mats, rounded shelves filled with soft toys, warm
+afternoon light from a round window, a soft rounded sofa along the wall. A round, colourful
+soft toy drum — rainbow stripes, squishy — rolls across the mat and disappears under the sofa
+with a gentle sound. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) laughs
+and crawls after it on his hands and knees. He peeks under the sofa, reaching in to pull the
+drum out. Bright, cozy atmosphere, soft pastel colours, rounded safe shapes, no other
+characters, {style} {camera} {lighting}
+
+The indoor play area background is locked from the first frame; keep shelves, window, sofa,
+toys stable.
+
+Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+
+## Camera Direction
+
+32mm at child eye level, following the drum as it rolls under the sofa. The camera then follows
+Arda as he crawls after it and peeks underneath. Warm, playful framing.
+
+## Sound
+
+Soft indoor ambience. The drum makes a muffled 'poof' as it rolls under the sofa. Arda's laugh
+is bright and genuine. No music, no background music, no melody, no song, no soundtrack, no
+chimes, no whooshes.
+
+## Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
+dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
+background music, music, melody, song, soundtrack, outdoor elements, garden, grass, extra
+characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
+cinematic LUT, blue tint, green tint, orange shift, HDR look, hard fall, painful
+
+## OpenArt Settings
+
+- Duration: 15 seconds
+- Mode: Text-to-video
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
+- Locked camera only
