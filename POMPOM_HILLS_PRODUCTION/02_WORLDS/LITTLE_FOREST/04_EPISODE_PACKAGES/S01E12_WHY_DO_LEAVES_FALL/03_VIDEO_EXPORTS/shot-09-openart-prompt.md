@@ -1,70 +1,53 @@
 # Shot 09 — OpenArt Prompt
 
-## Visual Prompt
+## OpenArt Paste Prompt
 
-Duration: 15 seconds.
-
-@image1 = approved final frame of Shot 08.
-
-Use @image1 as the exact locked first frame and only visual continuity source.
-First visible frame must match @image1 exactly.
-No new establishing shot.
-No separate first frame.
-No camera reset.
-No zoom, pan, tilt, push-in, pull-back, tracking, reframe, reveal, widen, or angle change.
-
-Little Forest, warm autumn sunlight. First visible frame matches Shot 08 final frame exactly — Kiko holds the same red and golden plush Pompom Leaves. Opa is already visible and stable nearby in the background from @image1.
-
-Kiko kneels gently in place to look at the colorful carpet of fluffy plush Pompom Leaves already covering the ground — soft round cotton-like leaves in autumn gold, autumn red, and autumn cream, no veins, soft edges. Kiko keeps the red and golden leaves with her while she looks around in wonder at the golden landscape. Opa remains standing nearby under the same big autumn tree, small and non-dominant, watching warmly. When Opa speaks, his orange beak opens and closes naturally in sync with his dialogue — small, gentle, owl-like movement, not a wide human-like mouth.
-
-Preserve from @image1: all trees, paths, mushrooms, leaves, ground, lighting, character positions, warm golden autumn sunlight, and matte handcrafted preschool style.
-
-CRITICAL BRIGHTNESS AND CONTRAST RULE:
-The video must be bright, sunny, and warm throughout.
-Do not darken the frame at any point.
-Do not increase contrast at any point.
-The brightness must stay at the same level as @image1 from first frame to last frame.
-If the frame begins to darken, brighten it back immediately.
-If contrast increases, reduce it back immediately.
-The scene must feel warm, bright, sunny, and soft — never dark, contrasty, moody, or dramatic.
-
-Dialogue:
+@image1=sole source; exact first frame/1s hold. Locked camera; no reset/reframe/move. Both leaves stay visible, same hands/colors/positions; Opa fixed. Kiko slowly kneels in place viewing existing ground leaves; no new carpet/objects.
 Kiko: The forest is so beautiful...
-Kiko: It's like a rainbow carpet!
-Opa: The forest isn't losing its leaves. It's showing us all its colors.
-
-## Voice Rule
-
-Use the exact same approved saved Kiko voice asset / voice preset / voice ID.
-Do not generate a new Kiko voice.
-Do not use narrator voice.
-Kiko must sound curious, playful, warm, and preschool-safe — same as the approved Kiko voice.
-
-Use the exact same approved saved Opa voice asset / voice preset / voice ID.
-Do not generate a new Opa voice.
-Do not change pitch, age, accent, speed, stability, similarity, or style.
-Opa must sound warm, gentle, wise, grandfatherly, and soft — same as the approved Opa voice.
-
-## Sound
-
-Soft natural Little Forest ambience: gentle leaf rustle, light breeze, calm outdoor warmth. Keep ambience very soft under dialogue. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
+Kiko: It's like an autumn carpet!
+Opa: The forest isn't losing its leaves. It's showing us its autumn colors.
+Same Kiko/Opa voice IDs; no new/narrator. Lock @image1 warmth, brightness, saturation, contrast, sharpness. Leaf rustle/breeze; no music.
 
 ## Negative Prompt
 
-camera pull-back, wider first frame, recomposed scene, new establishing shot, separate first frame, camera reset, changed camera angle, changed lighting, changed colour grading, no new environment, character entrance, new character pop-in, extra characters, text, signs, labels, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, narrator voice, blue bird, bird, animal, animals, insects, water, river, stream, pond, bridge, tree hollow, cropped mushroom, cropped giant mushroom, giant mushroom, foreground mushroom, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, dark frame, darkened frame, frame getting darker, increasing contrast, contrast building, accumulating contrast, dark shadows, deep shadows, heavy shadows, moody lighting, dramatic lighting, cinematic contrast, film look, dark atmosphere, desaturated, desaturation, cool tones, blue tint, cold look
+leaf recolour/copy/loss/swap;leaf carpet/object pop-in;position jump;Opa loss;extra character/blue bird/text;tree hollow/cropped giant mushroom;cooling/desaturation;brightness/contrast/sharpness drift;shadow crush/highlight clip;softening/oversharpening;HDR/gloss/music
 
-## OpenArt Ayarları
+## Internal QA Checklist
+
+OpenArt pasted character count: 787 / 800
+
+### Verified Shot 08 Source
+
+- [x] `@image1` is `01_SHOTS/normalized/shot-8-final-frame-normalized.png`, the approved normalized Shot 08 final frame and only visual source.
+- [x] The normalized frame is byte-identical to `01_SHOTS/video/shot-8-final-frame.png` (SHA-256: `e03869a20d74b8a14568d03db686f1c1c2a7b69073b5984767419b7b491f728c`).
+- [x] Kiko visibly holds exactly two leaves: one light golden leaf in her left hand and one brown-golden leaf in her right hand. No red leaf is visible.
+- [x] Opa is visible at the lower right and must remain stable in that position.
+- [x] The ground does not contain a dense leaf carpet; only the scattered ground elements already visible in `@image1` may remain.
+
+### Continuity
+
+- [ ] First visible frame matches `@image1` exactly and holds for the first second.
+- [ ] Exact leaf count, colours, hands, orientations and positions persist from `@image1`.
+- [ ] Neither leaf changes colour, duplicates, disappears, swaps hands or appears from nowhere.
+- [ ] Kiko remains in the same ground location and kneels only gradually after the first second; no sudden kneeling reset or position jump.
+- [ ] Both existing leaves remain visible in Kiko's hands throughout the kneeling action.
+- [ ] Opa remains visible, stable and in the same lower-right position; no disappearance, pop-in or relocation.
+- [ ] All visible trees, paths, stones, flowers, mushrooms, leaves and other environment objects remain exactly as shown in `@image1`.
+- [ ] No dense leaf carpet, mass of leaves, flower, mushroom or other ground object is added.
+- [ ] No extra character, blue bird, animal, text, sign, tree hollow or giant/cropped mushroom appears.
+
+### Look, Camera, Voice and Sound
+
+- [ ] Warmth, brightness, saturation, contrast and sharpness remain locked to `@image1` from first frame to last.
+- [ ] No upward or downward brightness, contrast or sharpness drift; no cooling, desaturation, shadow crush, highlight clipping, softening, oversharpening, HDR or gloss.
+- [ ] Camera remains locked; no establishing shot, separate first frame, reset, reframe, zoom, pan, tilt, tracking, widen or angle change.
+- [ ] Dialogue is exact, starts early and refers only to the visible autumn scene.
+- [ ] Exact same approved saved Kiko and Opa voice assets/presets/IDs are selected; no new or narrator voice.
+- [ ] Only natural leaf rustle and a light breeze are generated; no music.
+
+## OpenArt Settings
 
 - Duration: 15 seconds
-- @image1: Shot 08 exported continuity frame
-- Prompt enhancer: Kapalı
-- Cinematic/auto camera: Kapalı
-
-## Approval Checklist
-
-- [ ] First frame matches @image1
-- [ ] No camera movement
-- [ ] No blue bird / animal / extra character
-- [ ] No text / signs / labels
-- [ ] No tree hollow / cropped giant mushroom
-- [ ] Dialogue begins early — no dead air
+- `@image1`: `01_SHOTS/normalized/shot-8-final-frame-normalized.png`
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off

@@ -1,70 +1,85 @@
 # Shot 11 — OpenArt Prompt
 
-## Visual Prompt
+## OpenArt Paste Prompt
 
-Duration: 15 seconds.
-
-@image1 = approved final frame of Shot 10.
-
-Use @image1 as the exact locked first frame and only visual continuity source.
-First visible frame must match @image1 exactly.
-No new establishing shot.
-No separate first frame.
-No camera reset.
-No zoom, pan, tilt, push-in, pull-back, tracking, reframe, reveal, widen, or angle change.
-
-Little Forest, warm autumn sunlight. First visible frame matches Shot 10 final frame exactly — Kiko is kneeling beside the existing leaf carpet and Opa is already nearby.
-
-Kiko stands up gently in place. Wise owl Opa extends his wing, keeping it clearly owl-like and feathered. Kiko holds the edge of his wing gently. They look at each other warmly. When Opa speaks, his orange beak opens and closes naturally in sync with his dialogue — small, gentle, owl-like movement, not a wide human-like mouth.
-
-Preserve from @image1: all trees, paths, mushrooms, leaves, ground, lighting, character positions, warm golden autumn sunlight, and matte handcrafted preschool style.
-
-CRITICAL BRIGHTNESS AND CONTRAST RULE:
-The video must be bright, sunny, and warm throughout.
-Do not darken the frame at any point.
-Do not increase contrast at any point.
-The brightness must stay at the same level as @image1 from first frame to last frame.
-If the frame begins to darken, brighten it back immediately.
-If contrast increases, reduce it back immediately.
-The scene must feel warm, bright, sunny, and soft — never dark, contrasty, moody, or dramatic.
-
-Dialogue:
+@image1=corrected Shot10 anchor only; exact first frame/1s hold; camera locked. Kiko stays kneeling, gently straightens; light-golden leaf stays visible in left hand. Brown-golden leaf stays fixed on ground. Opa stays fixed; one small feathered-wing gesture, no contact.
 Kiko: Opa, can we come back tomorrow?
 Opa: We will, little one.
 Kiko: Thank you, Opa.
-
-## Voice Rule
-
-Use the exact same approved saved Kiko voice asset / voice preset / voice ID.
-Do not generate a new Kiko voice.
-Do not use narrator voice.
-Kiko must sound curious, playful, warm, and preschool-safe — same as the approved Kiko voice.
-
-Use the exact same approved saved Opa voice asset / voice preset / voice ID.
-Do not generate a new Opa voice.
-Do not change pitch, age, accent, speed, stability, similarity, or style.
-Opa must sound warm, gentle, wise, grandfatherly, and soft — same as the approved Opa voice.
-
-## Sound
-
-Soft natural Little Forest ambience: gentle leaf rustle, light breeze, calm outdoor warmth, soft rustle as Kiko stands. Keep ambience very soft under dialogue. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
+Same voice IDs. Lock @image1 warmth, brightness, saturation, contrast, sharpness. Breeze; no music.
 
 ## Negative Prompt
 
-camera pull-back, wider first frame, recomposed scene, new establishing shot, separate first frame, camera reset, changed camera angle, changed lighting, changed colour grading, no new environment, character entrance, new character pop-in, extra characters, text, signs, labels, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, narrator voice, blue bird, bird, animal, animals, insects, water, river, stream, pond, bridge, tree hollow, cropped mushroom, cropped giant mushroom, giant mushroom, foreground mushroom, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, dark frame, darkened frame, frame getting darker, increasing contrast, contrast building, accumulating contrast, dark shadows, deep shadows, heavy shadows, moody lighting, dramatic lighting, cinematic contrast, film look, dark atmosphere, desaturated, desaturation, cool tones, blue tint, cold look
+raw dark Shot10 frame;leaf recolour/copy/loss/swap;ground leaf move;pose/position jump;full stand;Opa move/scale/contact/human hand;camera move/reset;extra character/blue bird/text;brightness/contrast/sharpness drift;cooling/desaturation;shadow crush/highlight clip;softening/oversharpening;HDR/gloss/music
 
 ## OpenArt Ayarları
 
 - Duration: 15 seconds
-- @image1: Shot 10 exported continuity frame
-- Prompt enhancer: Kapalı
-- Cinematic/auto camera: Kapalı
+- @image1: approved corrected Shot 10 continuity anchor
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
 
-## Approval Checklist
+## Internal QA
 
-- [ ] First frame matches @image1
-- [ ] No camera movement
-- [ ] No blue bird / animal / extra character
-- [ ] No text / signs / labels
-- [ ] No tree hollow / cropped giant mushroom
-- [ ] Dialogue begins early — no dead air
+OpenArt pasted character count: 762 / 800
+
+### Corrected Anchor Requirement
+
+- [ ] The raw dark Shot 10 final frame is not used
+- [ ] @image1 is an approved corrected Shot 10 continuity anchor
+- [ ] Corrected anchor preserves the exact Shot 10 composition
+- [ ] Corrected anchor preserves Kiko and Opa positions and scale
+- [ ] Corrected anchor preserves the exact leaf states
+- [ ] Corrected anchor restores warm, bright, soft preschool lighting
+- [ ] No new object, character, camera angle or pose is introduced during correction
+
+### Continuity Checks
+
+- [ ] First visible frame matches @image1 exactly
+- [ ] First frame holds for approximately one second
+- [ ] Camera remains completely locked
+- [ ] Kiko begins kneeling
+- [ ] Kiko does not stand fully
+- [ ] Kiko only straightens her upper body gently
+- [ ] No pose reset, body jump, crop or automatic reframing
+- [ ] Light-golden leaf remains visible in Kiko's left hand throughout
+- [ ] Brown-golden leaf remains fixed on the ground throughout
+- [ ] Neither leaf changes colour
+- [ ] Neither leaf duplicates, disappears or swaps position
+- [ ] No third leaf appears
+- [ ] Opa remains in the exact same position, scale and orientation
+- [ ] Opa performs only one small feathered-wing gesture
+- [ ] No physical contact between Kiko and Opa
+- [ ] Opa does not relocate, enlarge or move toward Kiko
+- [ ] Opa's wing does not stretch unnaturally
+- [ ] Opa never develops a human hand or arm
+- [ ] Opa's beak moves gently in sync with his dialogue
+- [ ] No new leaf carpet or object pop-in
+- [ ] No extra character, bird, animal, text, sign or label
+- [ ] Exact approved Kiko and Opa voice IDs are selected manually
+- [ ] Natural breeze and leaf rustle only
+- [ ] No music
+
+### Look-Stability QA
+
+- [ ] Warmth remains locked to @image1
+- [ ] Brightness remains locked to @image1
+- [ ] Saturation remains locked to @image1
+- [ ] Contrast remains locked to @image1
+- [ ] Sharpness remains locked to @image1
+- [ ] No upward or downward brightness drift
+- [ ] No upward or downward contrast drift
+- [ ] No upward or downward sharpness drift
+- [ ] No cooling or blue tint
+- [ ] No desaturation
+- [ ] No progressive darkening
+- [ ] No shadow crush
+- [ ] No highlight clipping
+- [ ] No texture flattening
+- [ ] No softening
+- [ ] No oversharpening
+- [ ] No HDR, gloss or cinematic grading
+
+## Approval Status
+
+NOT READY — CORRECTED ANCHOR REQUIRED

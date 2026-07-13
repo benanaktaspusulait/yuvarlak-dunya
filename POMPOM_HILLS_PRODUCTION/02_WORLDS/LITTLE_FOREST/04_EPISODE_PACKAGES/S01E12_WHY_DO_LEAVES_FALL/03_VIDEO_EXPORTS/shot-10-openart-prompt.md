@@ -1,70 +1,45 @@
 # Shot 10 — OpenArt Prompt
 
-## Visual Prompt
+## OpenArt Paste Prompt
 
-Duration: 15 seconds.
-
-@image1 = approved final frame of Shot 09.
-
-Use @image1 as the exact locked first frame and only visual continuity source.
-First visible frame must match @image1 exactly.
-No new establishing shot.
-No separate first frame.
-No camera reset.
-No zoom, pan, tilt, push-in, pull-back, tracking, reframe, reveal, widen, or angle change.
-
-Little Forest, warm autumn sunlight. First visible frame matches Shot 09 final frame exactly — Kiko and Opa are looking at the existing leaf carpet. Kiko has the same golden plush Pompom Leaf. Opa is already visible beside her.
-
-Kiko kneels and places her fluffy plush Pompom Leaf — soft round cotton-like leaf, autumn gold, no veins, soft edges — carefully on the colorful carpet of existing Pompom Leaves on the ground. Wise owl Opa extends his feathered wing, not a hand, and gently touches the Pompom Leaf in a farewell gesture. When Opa speaks, his orange beak opens and closes naturally in sync with his dialogue. Kiko looks up at Opa and nods.
-
-Preserve from @image1: all trees, paths, mushrooms, leaves, ground, lighting, character positions, warm golden autumn sunlight, and matte handcrafted preschool style.
-
-CRITICAL BRIGHTNESS AND CONTRAST RULE:
-The video must be bright, sunny, and warm throughout.
-Do not darken the frame at any point.
-Do not increase contrast at any point.
-The brightness must stay at the same level as @image1 from first frame to last frame.
-If the frame begins to darken, brighten it back immediately.
-If contrast increases, reduce it back immediately.
-The scene must feel warm, bright, sunny, and soft — never dark, contrasty, moody, or dramatic.
-
-Dialogue:
+@image1=sole source; first frame/1s hold; camera locked. Kiko stays kneeling with light-golden leaf in left hand, brown-golden in right. She puts only brown-golden leaf on ground; light-golden stays visible in left hand. Opa stays fixed; one wing gestures toward placed leaf.
+Kiko: Goodbye, little leaf. Thank you for being beautiful.
 Opa: Everything changes gently.
-Kiko: Goodbye, little leaf.
-Kiko: Thank you for being beautiful.
-
-## Voice Rule
-
-Use the exact same approved saved Kiko voice asset / voice preset / voice ID.
-Do not generate a new Kiko voice.
-Do not use narrator voice.
-Kiko must sound curious, playful, warm, and preschool-safe — same as the approved Kiko voice.
-
-Use the exact same approved saved Opa voice asset / voice preset / voice ID.
-Do not generate a new Opa voice.
-Do not change pitch, age, accent, speed, stability, similarity, or style.
-Opa must sound warm, gentle, wise, grandfatherly, and soft — same as the approved Opa voice.
-
-## Sound
-
-Soft natural Little Forest ambience: gentle leaf rustle, light breeze, calm outdoor warmth, very soft leaf placement. Keep ambience very soft under dialogue. Natural ambience only. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
+Same Kiko/Opa voice IDs. Lock @image1 warmth, brightness, saturation, contrast, sharpness. Leaf rustle/breeze; no music.
 
 ## Negative Prompt
 
-camera pull-back, wider first frame, recomposed scene, new establishing shot, separate first frame, camera reset, changed camera angle, changed lighting, changed colour grading, no new environment, character entrance, new character pop-in, extra characters, text, signs, labels, captions, subtitles, speech bubbles, background music, music, melody, song, soundtrack, narrator voice, blue bird, bird, animal, animals, insects, water, river, stream, pond, bridge, tree hollow, cropped mushroom, cropped giant mushroom, giant mushroom, foreground mushroom, realistic leaf, pointed leaf, leaf veins, leaf texture, wilting leaf, dry leaf, dead leaf, sharp leaf edges, high contrast, contrast increase, overly saturated, saturation increase, HDR, HDR look, glossy plastic, glossy CGI, harsh highlights, harsh shadows, blown highlights, oversharpened, dark frame, darkened frame, frame getting darker, increasing contrast, contrast building, accumulating contrast, dark shadows, deep shadows, heavy shadows, moody lighting, dramatic lighting, cinematic contrast, film look, dark atmosphere, desaturated, desaturation, cool tones, blue tint, cold look
+leaf recolour/copy/loss/swap;third leaf;new carpet/object pop-in;pose/position jump;Opa move/scale/human hand;camera move/reset;extra character/blue bird/text;brightness/contrast/sharpness drift;cooling/desaturation;shadow crush/highlight clip;softening/oversharpening;HDR/gloss/music
 
 ## OpenArt Ayarları
 
 - Duration: 15 seconds
-- @image1: Shot 09 exported continuity frame
-- Prompt enhancer: Kapalı
-- Cinematic/auto camera: Kapalı
+- @image1: approved Shot 09 exported continuity frame
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
 
-## Approval Checklist
+## Internal QA
 
-- [ ] First frame matches @image1
-- [ ] No camera movement
-- [ ] No blue bird / animal / extra character
-- [ ] No text / signs / labels
-- [ ] No tree hollow / cropped giant mushroom
-- [ ] Dialogue begins early — no dead air
+OpenArt pasted character count: 771 / 800
+
+Continuity checks against actual Shot 09 final frame:
+- [ ] actual Shot 09 final frame is used as @image1
+- [ ] first frame matches @image1
+- [ ] Kiko begins already kneeling
+- [ ] light-golden leaf remains in Kiko's left hand
+- [ ] brown-golden leaf begins in Kiko's right hand
+- [ ] only the brown-golden leaf is placed on the ground
+- [ ] light-golden leaf remains visible in the left hand throughout
+- [ ] no leaf swaps hands
+- [ ] no recolour, duplication, disappearance or third leaf
+- [ ] Opa remains in the exact same position, scale and orientation
+- [ ] Opa only gestures toward the placed leaf with one wing
+- [ ] Opa does not touch the leaf
+- [ ] Opa does not move his body, relocate, enlarge or stretch his wing unnaturally
+- [ ] camera remains locked
+- [ ] no new leaf carpet or object pop-in
+- [ ] warmth, brightness, saturation, contrast and sharpness remain locked to @image1
+- [ ] no upward or downward visual drift
+- [ ] no cooling, desaturation, darkening, contrast change, sharpness change, softening, oversharpening, shadow crush, highlight clipping, HDR or gloss
+- [ ] exact approved Kiko and Opa voice IDs are selected manually
+- [ ] natural ambience only; no music
