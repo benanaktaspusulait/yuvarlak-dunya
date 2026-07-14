@@ -595,6 +595,7 @@ Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 | `00-CORE/NEGATIVE_PROMPTS.md` | Negatif prompt listeleri |
 | `00-CORE/VARIABLES.md` | Prompt değişkenleri |
 | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` | Shot süreklilik akışı |
+| `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_SEGMENT_CROP_WORKFLOW.md` | Shot → short segment bazlı crop workflow'u |
 
 ---
 
