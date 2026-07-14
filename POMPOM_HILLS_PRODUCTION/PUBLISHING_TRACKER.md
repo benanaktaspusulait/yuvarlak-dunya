@@ -24,6 +24,7 @@ Her icerik yayinlandiginda ilgili kutucagi isaretleyin. Tarih ve link ekleyin.
 | Icerik | YouTube | YouTube Shorts | Instagram | TikTok | Facebook |
 |--------|---------|----------------|-----------|--------|----------|
 | Ana Video | ☐ | — | ☐ | ☐ | ☐ |
+| Short 1 | ☐ | ☐ | ☑ Meta | ☐ | ☐ |
 
 ---
 
