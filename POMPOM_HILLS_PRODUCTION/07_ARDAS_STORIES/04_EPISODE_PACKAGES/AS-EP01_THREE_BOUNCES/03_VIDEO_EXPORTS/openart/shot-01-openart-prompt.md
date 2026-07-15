@@ -12,31 +12,44 @@
 
 ## Visual Prompt
 
-Arda's Home garden, warm morning sunlight, soft green grass, rounded garden fence, sky-blue
-house with round orange roof and round yellow windows in the background. Extreme close-up of
-the canonical Pompom Ball — soft, fluffy, pastel-coloured, round — rising gently in the frame
-with a soft bounce motion. As it rises, Arda's (energetic boy, brown curly hair, orange
-t-shirt, blue shorts) delighted face is revealed behind it. He catches the ball securely in
-both hands and smiles broadly. Warm morning dappled sunlight, soft shadows, rounded safe
-shapes, pastel colours, no other characters, {style} {camera} {lighting}
+Extreme close-up of the canonical Pompom Ball — soft, fluffy, pastel pink, blue, and yellow
+blend, round — filling the frame, rising gently with a soft bounce motion. As it rises, Arda's
+(energetic boy, brown curly hair, orange t-shirt, blue shorts) delighted face is revealed behind
+it. He catches the ball securely in both hands and smiles broadly. Arda's Home garden: soft green
+grass, rounded garden fence, sky-blue house with round orange roof and round yellow windows in
+the background. Warm soft natural afternoon light, soft shadows, rounded safe shapes, pastel
+colours, no other characters. One brief controlled pull-back reveals Arda and the garden, then
+the camera locks completely. Do not generate spoken dialogue, voices, lip-synchronised speech,
+subtitles, captions, speech bubbles or on-screen text. Soft rounded 3D preschool animation,
+matte handcrafted toy-set materials, warm pastel palette, medium-low contrast, gentle
+low-stimulation Pompom Hills visual language, warm soft natural afternoon light, soft highlights,
+gentle shadows, stable warm white balance, no HDR, no glossy shine.
 
-The Arda's Home garden background is locked from the first frame; keep house, fence, grass,
-warm interior stable.
+The Arda's Home garden background is locked from the first frame; keep the visible house
+exterior, fence, grass, shrubs, play gate, lighting and environment layout stable.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Treat the OpenArt result as video-only. Do not generate spoken dialogue, voices, subtitles,
+captions, speech bubbles or on-screen text. Dialogue and all audio are added separately in
+post-production.
 
 ## Camera Direction
 
-50mm close-up at child eye level, starting tight on the Pompom Ball filling the frame, then
-pulling back slightly as Arda catches it and his smile is revealed. Stable, warm framing. No
-fast zooms, no dramatic angles.
+Extreme close-up on the Pompom Ball filling the frame. Use exactly one slow controlled
+pull-back as Arda catches it to reveal his delighted face and the garden. After that single
+pull-back, the child-eye-level camera locks completely through the final stable anchor. No
+additional camera movement, zoom, reframe, or scale change. No fast zooms or dramatic angles.
 
-## Sound
+## POST-PRODUCTION VOICE LOCK — DO NOT PASTE INTO OPENART
 
-Soft outdoor garden ambience: gentle birds chirping, light morning breeze, calm warm
-atmosphere. The Pompom Ball makes a soft "poof" as it bounces. Arda's "Got it!" is bright
-and excited — not loud, not shouting. Natural ambience only. No music, no background music,
-no melody, no song, no soundtrack, no chimes, no whooshes.
+Arda uses the existing approved locked Arda voice in post-production. Do not create or
+substitute a new voice.
+
+## POST-PRODUCTION SOUND — DO NOT PASTE INTO OPENART
+
+Soft outdoor garden ambience: gentle birds chirping, warm afternoon atmosphere. The Pompom Ball
+makes a soft "poof" as it bounces. Arda's "Got it!" is bright and excited — not loud, not
+shouting. Natural ambience only. No music, no background music, no melody, no song, no
+soundtrack, no chimes, no whooshes.
 
 ## Negative Prompt
 
@@ -47,35 +60,47 @@ skin texture, realistic pores, high contrast, neon colors, HDR look, glossy plas
 harsh shadows, blown highlights, extra characters, aggressive play, modern technology,
 screens, cinematic LUT, blue tint, green tint, orange shift
 
-## Voice Lock
-
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
-
 ## OpenArt Settings
 
 - Duration: 15 seconds
-- Mode: Text-to-video
+- Mode: fresh standalone OpenArt video generation using the approved canonical visual
+  references in the exact reference-supported mode available in the production interface.
 - Prompt enhancer: Off
 - Cinematic/auto camera: Off
-- Camera follows only the documented Camera Direction; settle before the final anchor
+- Generated dialogue: Off
+- Generated audio: Off
+- Treat the OpenArt output as video-only
+- Mute and discard every audio track generated or attached by OpenArt
+- Confirm all canonical references are attached before generation.
+- Use the same model, model version, mode and quality tier for all eight shots.
+- Aspect ratio: horizontal 16:9
+- Resolution: highest reliable native resolution available in the selected reference-supported mode
+- Quality tier: highest tested production-quality tier
+- Frame rate: use the same tested frame-rate setting for all eight shots
+- Export/download the original highest-quality OpenArt output; do not use a preview, compressed screen recording or messaging-app copy
+- Do not change aspect ratio, resolution, frame rate, model, model version, reference-supported mode or quality tier between shots.
+
+Before production begins, the operator must record the actual tested OpenArt model name, model version, mode, quality tier, resolution, aspect ratio, and frame-rate setting in the episode production log.
 
 ## Shot Approval Checklist
 
 - [ ] First frame matches scene description
-- [ ] Character identity preserved (Arda / Luca / Noah)
+- [ ] Arda's approved canonical identity is preserved.
 - [ ] No unplanned camera movement; documented movement settles before final anchor
 - [ ] No dialogue as on-screen text
 - [ ] No music, no background music
 - [ ] No new characters or objects appearing
-- [] Soft pastel preschool look maintained
+- [ ] Soft pastel preschool look maintained
 - [ ] No contrast increase, no saturation drift
 - [ ] No HDR, no glossy look, no oversharpening
-- [ ] Warm natural lighting preserved
+- [ ] Correct Warm Afternoon lighting is preserved.
+- [ ] The approved canonical references were attached.
+- [ ] No previous AI-generated video frame was used.
+- [ ] Generated dialogue and audio were disabled.
+- [ ] OpenArt-generated audio was discarded.
+- [ ] No unresolved template placeholder remains.
+- [ ] Complete Main Action finishes inside this shot.
+- [ ] Camera is stable before the final anchor.
 - [ ] First 0.5s is stable and edit-safe
-- [ ] Complete Main Action finishes inside this shot; no action crosses the cut
 - [ ] Final 1–2 seconds hold the documented stable grounded anchor
-- [ ] Camera movement settles before the final anchor
+- [ ] Exactly one controlled pull-back occurs, followed by a completely locked camera.

@@ -22,7 +22,7 @@
 |---|---|
 | Production Mode | FRESH QUALITY-RESET SHOT |
 | Clean Start State | The ball is stationary just inside the gate; Arda is safely behind it. |
-| Complete Main Action | The gentle slope starts the roll; the ball crosses the gate and stops on the path while Arda reaches the gate and stops. |
+| Complete Main Action | One brief gentle breeze softly nudges the lightweight fluffy Pompom Ball and starts exactly one slow roll through the gate; the ball crosses the gate and stops on the path while Arda reaches the gate and stops. |
 | Completed End State | The ball is stationary on the path; Arda is stationary at the gate pointing. |
 | Stable Final Anchor | Final tableau holds for the final 2 seconds with breathing, blinking, breeze, and ball-fibre micro-motion. |
 | Next-Shot Dependency | NONE — next shot starts fresh |
@@ -34,8 +34,7 @@ Arda's Home, and Episode Colour Master references. Do not use the previous gener
 
 ## Purpose
 
-The Pompom Ball begins at rest just inside the rounded garden play gate. The gentle slope starts
-it rolling through the gate onto a connected, vehicle-free path, where it slows and stops. Arda
+The Pompom Ball begins fully at rest just inside the rounded garden play gate. One brief gentle breeze softly nudges the lightweight fluffy Pompom Ball and starts exactly one slow roll through the gate onto a connected, vehicle-free path, where it slows and stops. Arda
 reaches the gate, stops, points, and says "Wait for me, ball!" The episode ends on a stable,
 complete tableau.
 
@@ -44,7 +43,7 @@ complete tableau.
 ## Opening Hook
 
 First 3–5 seconds: The Pompom Ball is visibly at rest just inside the rounded garden play gate.
-The gentle slope starts it rolling as Arda approaches safely behind it.
+One brief gentle breeze softly nudges the lightweight fluffy ball and starts exactly one slow roll as Arda approaches safely behind it.
 
 ---
 
@@ -74,25 +73,32 @@ Background locked from first frame. The garden and play gate remain stable. The 
 ```text
 Medium-wide shot with a soft fluffy Pompom Ball (pastel pink, blue, and yellow blend) fully at rest
 just inside the rounded garden play gate and Arda (energetic boy, brown curly hair, orange t-shirt,
-blue shorts) safely behind it. The gentle slope starts the ball rolling through the gate onto a
+blue shorts) safely behind it. One brief gentle breeze softly nudges the lightweight fluffy Pompom Ball and starts exactly one slow roll through the gate onto a
 safe, vehicle-free connecting path. It slows and comes fully to rest on the visible path. Arda
-reaches the gate, stops, points after the ball, and says "Wait for me, ball!" The garden remains
+reaches the gate, stops, and points after the ball. The garden remains
 warm: soft grass, rounded shrubs, rounded play gate,
 warm afternoon light. Beyond the gate: a soft, safe connecting path. No vehicles, no road
-traffic, no cliffs, no hard obstacles. Soft pastel colours, warm light, rounded safe shapes,
+traffic, no cliffs, no hard obstacles. One brief gentle breeze softly nudges the lightweight fluffy ball. Do not show strong wind, flying leaves, flying petals, dust, weather effects or environmental movement beyond subtle existing garden micro-motion. Soft pastel colours, warm light, rounded safe shapes,
 no other characters, {style} {camera} {lighting}
 
 The garden and play gate background is locked from the first frame; keep grass, shrubs, gate
 stable. The connecting path beyond is visible but not yet the focus.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Treat the OpenArt result as video-only. Do not generate spoken dialogue, voices, subtitles,
+captions, speech bubbles or on-screen text. Dialogue and all audio are added separately in
+post-production.
 ```
 
 ---
 
 ## Camera Direction
 
-Child-eye-level medium-wide shot following the ball through the gate and Arda's approach. Gentle pan as Arda reaches the gate and points. Stable, warm framing. No fast zooms, no dramatic angles.
+Completely locked child-eye-level medium-wide camera. Frame the stationary ball, the complete path
+through the gate, its stopping position on the connecting path, Arda's approach, and the gate
+before the action begins. Do not pan, tilt, track, follow the ball, follow Arda, zoom, push in, pull
+back, reframe, or change character scale. The ball roll, Arda's approach, and both stops occur
+inside the existing fixed frame. The camera remains locked from frame 1 through the final stable
+anchor.
 
 ---
 
@@ -111,8 +117,8 @@ Arda: *calling, playful* Wait for me, ball!
 | Time | Action | Camera |
 |---|---|---|
 | 0-3 sec | Ball is visibly at rest just inside gate | Stable medium-wide |
-| 3-8 sec | Gentle slope starts ball rolling through gate; Arda approaches | Gentle follow |
-| 8-11 sec | Ball slows and stops on path; Arda reaches gate and stops | Camera settles |
+| 3-8 sec | One brief gentle breeze nudges ball; it rolls slowly through gate; Arda approaches | Locked camera |
+| 8-11 sec | Ball slows and stops on path; Arda reaches gate and stops | Locked camera |
 | 11-13 sec | Arda points and says "Wait for me, ball!" | Stable framing |
 | 13-15 sec | Arda and ball hold the final tableau | Stable final anchor |
 
@@ -120,7 +126,7 @@ Arda: *calling, playful* Wait for me, ball!
 
 ## Sound
 
-Soft garden ambience transitioning to soft path ambience: gentle breeze, faint birdsong, warm
+Soft garden ambience transitioning to soft path ambience: one brief gentle breeze, faint birdsong, warm
 atmosphere. The ball makes a quiet `frrr-frrr` that fades as it comes to rest on the path. Arda's
 "Wait for me, ball!" is playful and calling — clear, not shouting. No music, no dramatic sting.
 
@@ -128,13 +134,13 @@ atmosphere. The ball makes a quiet `frrr-frrr` that fades as it comes to rest on
 
 ## Emotion
 
-Transition and anticipation: The ball leaving the garden creates a gentle sense of adventure. Arda's call is playful and inviting — the viewer wants to follow. The moment completes the episode and prepares for the connecting path.
+Transition and anticipation: One brief gentle breeze nudges the ball, sending it rolling through the garden gate — creating a gentle sense of adventure. Arda's call is playful and inviting — the viewer wants to follow. The moment completes the episode and prepares for the connecting path.
 
 ---
 
 ## Safe-Exposure Notes
 
-No falls, no rough play, no aggressive movements. The ball rolls gently through the gate. Arda approaches at a safe pace. The connecting path is safe and vehicle-free.
+No falls, no rough play, no aggressive movements. One brief gentle breeze softly nudges the ball; it rolls gently through the gate. Arda approaches at a safe pace. The connecting path is safe and vehicle-free.
 
 ---
 
@@ -162,13 +168,16 @@ blue tint, green tint, orange shift, HDR look
 - [ ] Garden identity preserved: soft grass, rounded shrubs, play gate, warm light.
 - [ ] Connecting path visible beyond gate: safe, vehicle-free, soft edges.
 - [ ] Arda's dialogue reads playful and calling; not distressed or aggressive.
-- [ ] Ball starts at rest, rolls through gate, and stops completely on the visible path.
+- [ ] Ball starts at rest, rolls through gate after one gentle breeze nudge, and stops completely on the visible path.
+- [ ] The stationary ball has one clear natural cause for beginning to roll.
+- [ ] Exactly one gentle breeze nudge occurs.
+- [ ] The ball does not restart, rebound or receive a second push.
 - [ ] Arda reaches the gate and stops; both hold a stable final 2-second tableau.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.
 - [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
 - [ ] Final 1–2 seconds hold the documented stable grounded anchor.
-- [ ] Camera movement settles before the final anchor.
+- [ ] Camera remains completely locked from frame 1 through the final anchor.
 - [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
@@ -199,6 +208,71 @@ Do not include transition wording inside the OpenArt Visual Prompt.
 
 ---
 
+## OpenArt Global Quality Profile
+
+Use the same tested OpenArt model, model version and generation mode for all eight shots.
+
+Do not change model, mode or quality tier between shots.
+
+Production settings:
+
+- Generation type: fresh standalone video generation
+- Format: horizontal 16:9
+- Duration: exactly 15 seconds
+- Resolution: highest reliable native resolution available in the selected mode
+- Quality tier: highest reliable production-quality tier
+- Prompt Enhancer: Off
+- Cinematic / Automatic Camera: Off
+- Generated dialogue: Off
+- Generated audio: Off
+- Treat output as video-only
+- Mute and discard any audio generated by OpenArt
+
+Visual sources:
+
+- canonical approved Arda reference
+- canonical approved Pompom Ball reference
+- canonical approved Arda's Home — Garden reference
+- approved Episode Colour Master
+
+Do not use:
+
+- the previous generated video's final frame,
+- a frame extracted from another AI-generated shot,
+- a failed image,
+- a failed video frame,
+- an unrelated environment reference,
+- an alternate Arda design,
+- an alternate ball design,
+- or an automatically selected substitute reference.
+
+Each shot must begin from a newly composed clean shot-specific state using the canonical references.
+
+Preserve the same:
+
+- Arda identity,
+- clothing,
+- character proportions,
+- Pompom Ball identity,
+- garden identity,
+- warm afternoon lighting,
+- pastel colour balance,
+- medium-low contrast,
+- matte handcrafted materials,
+- and native sharpness level
+
+across all eight independently generated shots.
+
+Do not apply per-shot beauty enhancement, HDR, sharpening, contrast boost, saturation boost or automatic colour grading.
+
+## Template Placeholder Resolution
+
+The tokens `{style}`, `{camera}` and `{lighting}` are internal template placeholders.
+
+Before copying the Visual Prompt into OpenArt, replace them with the approved episode-specific text.
+
+Never paste unresolved `{style}`, `{camera}` or `{lighting}` tokens into OpenArt.
+
 ## Final Production Reminder
 
 This shot is generated as a clean standalone OpenArt video.
@@ -206,3 +280,15 @@ Do not generate transitions inside OpenArt.
 Do not combine this world with the previous or next world.
 Do not paste editing notes into OpenArt.
 World changes are handled later in editing using the Post-Production Transition Note.
+
+Production settings:
+- Generated dialogue: Off
+- Generated audio: Off
+- Prompt Enhancer: Off
+- Cinematic / Automatic Camera: Off
+- Mute and discard any audio generated by OpenArt
+
+Complete-action confirmation: this fresh shot begins from a clean independently composed state,
+completes its full physical action inside the same 15-second shot, stops all major movement before
+the final anchor, carries no unfinished movement across the cut, and holds its documented natural
+stable final state for approximately 2 seconds.
