@@ -207,7 +207,7 @@ Temporary ground compression must be slight and brief.
 It must immediately return to the exact approved round fluffy shape after ground contact.
 
 After the initial 0.4-second edit-safe hold matching @image1 exactly, Arda keeps the Pompom Ball
-securely held with both hands and visibly mouths "Watch this!" He does not lower, release or move
+securely held with both hands and visibly mouths "Watch this!" with clear natural mouth movement synchronized to the future post-production dialogue. He does not lower, release or move
 the ball during this phrase. He finishes the phrase at approximately 1.7 seconds.
 
 Only after "Watch this!" is fully finished, Arda gently lowers and releases the ball once. The
@@ -221,7 +221,8 @@ strike either leg or shoe, does not pass behind a leg and does not move toward s
 screen-right. Arda's feet remain planted.
 
 Arda catches the ball securely with both hands. Immediately after the catch is secure, he visibly
-mouths "One!" While bringing the ball into one small happy hug, he visibly mouths "So soft and
+mouths "One!" with clear natural mouth movement synchronized to the future post-production
+dialogue. While bringing the ball into one small happy hug, he visibly mouths "So soft and
 bouncy!" He then returns the ball to a secure ready position and visibly mouths "Ready for two?"
 
 Only very short natural breath spacing is allowed between phrases. Arda's mouth closes naturally
@@ -234,10 +235,18 @@ like smearing, no loss of native sharpness, no contrast drift, no saturation dri
 shift, no HDR, no beautify, no cinematic grade, no sharpening pass, no auto enhancement, no
 detail loss over time.
 
-Treat the OpenArt result as video-only. Do not generate spoken dialogue, voices, subtitles,
-captions, speech bubbles or on-screen text. Dialogue and all audio are added separately in
-post-production. Do not generate audible dialogue. Do not generate a new voice. Final voice is
-added later using the approved Arda voice.
+Treat the OpenArt result as video-only. Generate the documented visual mouth movements but do not
+generate or rely on spoken dialogue, voices, ambience, sound effects or music. Mute and discard
+any audio produced by OpenArt. All final dialogue, natural garden ambience and physical sound
+effects are added separately in post-production using the approved Arda voice and the approved
+episode audio identity.
+
+OpenArt generates visible mouth movement only. No audible dialogue is required from OpenArt.
+No silent frozen smile. No absent mouth movement. No improvised additional phrase. Mouth
+movements must remain distinct and readable. Arda's mouth closes naturally before the final
+stable anchor.
+
+Do not generate subtitles, captions, speech bubbles or on-screen text.
 
 Ball identity lock: exactly one Pompom Ball, the approved OpenArt asset named exactly
 "Pompom Ball", one soft round fuzzy pompom sphere made from continuous fluffy pastel fur, no
@@ -303,7 +312,7 @@ Arda: *warm, inviting* Ready for two?
 
 > **Hook Purpose:** "Watch this!" invites the viewer into the action. "One!" celebrates the first bounce. "So soft and bouncy!" adds warmth and tactile connection. "Ready for two?" bridges to the next shot.
 
-> **POST-PRODUCTION ONLY:** Dialogue is added separately in post using the approved existing Arda voice. Do not generate new voices in OpenArt. The visual mouth movements are synchronized to these four short phrases.
+> **POST-PRODUCTION ONLY:** Dialogue is added separately in post using the approved existing Arda voice. OpenArt generates visible mouth movement only. No audible dialogue is required from OpenArt.
 
 ---
 
@@ -323,25 +332,65 @@ Arda: *warm, inviting* Ready for two?
 
 ## Sound — POST-PRODUCTION ONLY
 
-Continuous natural garden ambience from the first frame to the final frame:
+Discard and mute the complete OpenArt-generated audio track, including any automatically generated music.
+
+Build the final Shot 03 audio in editing.
+
+Continuous natural garden ambience from 0.0 to 15.0 seconds:
 
 - gentle warm breeze,
 - very soft grass and leaf rustling,
 - sparse distant birdsong,
+- two or three short distant bird chirps across the full shot,
 - subtle peaceful outdoor atmosphere.
 
-No music.
-No melody.
-No dramatic sound design.
-No visible birds or animals are introduced.
-No sudden ambience changes between shots.
-Keep the same ambience identity and volume across all garden shots.
+The ambience remains continuous beneath dialogue and physical sounds.
 
-Layered over this continuous ambience in post-production:
+Approved Arda dialogue timing:
 
-- one soft `poof` or gentle `boing` at the single ground contact,
-- Arda's dialogue — "Watch this!" / "One!" / "So soft and bouncy!" / "Ready for two?" — happy, clear, not shouting,
-- any gentle catch or ball-fibre sound at the moment of catch.
+- 0.4–1.7 sec: "Watch this!"
+- 5.0–6.3 sec: "One!"
+- 6.3–10.0 sec: "So soft and bouncy!"
+- 10.0–13.6 sec: "Ready for two?"
+
+Physical sound effects:
+
+- one soft fluffy `poof` or gentle non-musical `boing` at the single ground contact,
+- one subtle soft catch sound at the two-handed catch,
+- one very soft fluffy fibre movement during the small hug.
+
+Audio balance:
+
+- approved Arda voice clear in the foreground,
+- garden ambience soft underneath,
+- bird chirps distant and sparse,
+- bird sounds never cover dialogue,
+- bounce and catch effects soft and child-friendly,
+- no sudden volume changes,
+- no hard audio cuts.
+
+Absolutely no music.
+
+Do not use:
+
+- OpenArt-generated music,
+- instrumental music,
+- melody,
+- song,
+- singing,
+- humming,
+- orchestral score,
+- cinematic score,
+- musical pad,
+- jingle,
+- chime,
+- rhythmic beat,
+- percussion,
+- dramatic sting,
+- intro music,
+- outro music.
+
+No visible bird or animal is introduced because of the post-production birdsong.
 
 ---
 
@@ -389,7 +438,10 @@ house moved to screen-right, gate moved to screen-left, changed crop, automatic 
 stabilisation crop, face-tracking crop, vertical camera adjustment, camera response to ball
 movement, digital zoom during dialogue, ball passing behind leg, ball hitting shoe, ball hitting
 leg, obstructed ground contact, character stepping, character crouching, character kneeling,
-character walking
+character walking, background music, instrumental music, melody, song, singing, humming,
+orchestral score, cinematic score, musical pad, jingle, chime, rhythmic beat, percussion,
+dramatic sting, intro music, outro music, absent mouth movement, frozen smile, empty staring,
+unsynchronized visible mouth movement
 
 ---
 
@@ -416,10 +468,10 @@ character walking
 - [ ] Exactly one two-handed catch occurs.
 - [ ] Camera framing remains completely identical to @image1.
 - [ ] No automatic reframing, stabilisation crop or face tracking occurs.
-- [ ] Arda visibly mouths "Watch this!" before releasing the ball.
+- [ ] Arda visibly mouths "Watch this!" before releasing the ball; audible dialogue is added in post-production.
 - [ ] "Watch this!" finishes before the ground-contact moment.
 - [ ] One soft `poof` or `boing` fills the bounce contact moment.
-- [ ] Arda visibly mouths "One! So soft and bouncy! Ready for two?"
+- [ ] Arda visibly mouths "One! So soft and bouncy! Ready for two?"; audible dialogue is added in post-production.
 - [ ] "One!" begins immediately after the two-handed catch.
 - [ ] "So soft and bouncy!" occurs during the small happy hug.
 - [ ] "Ready for two?" occurs after Arda returns to the ready position.
@@ -429,9 +481,53 @@ character walking
 - [ ] Arda's mouth closes naturally before the final stable anchor.
 - [ ] No long silent pause or empty staring occurs.
 - [ ] No quality drop, no softness drift, no blur increase, no contrast drift, no saturation drift.
-- [ ] Do not generate new voices. Dialogue is post-production only.
+- [ ] OpenArt Generated dialogue is Off.
+- [ ] OpenArt Generated audio is Off.
+- [ ] The result is evaluated as video-only.
+- [ ] Any OpenArt-generated audio or music is fully muted and discarded.
+- [ ] Arda completes visible natural mouth movements for all four documented lines.
+- [ ] Final dialogue uses the approved Arda voice in post-production.
+- [ ] "Watch this!" is placed at 0.4–1.7 seconds.
+- [ ] "One!" is placed immediately after the catch at 5.0–6.3 seconds.
+- [ ] "So soft and bouncy!" is placed during the hug at 6.3–10.0 seconds.
+- [ ] "Ready for two?" is placed at 10.0–13.6 seconds.
+- [ ] Continuous garden ambience runs from frame 1 to frame 15.
+- [ ] Gentle breeze and very soft grass/leaf rustling remain audible throughout.
+- [ ] Two or three distant bird chirps are added without covering dialogue.
+- [ ] One soft poof or non-musical boing is added at ground contact.
+- [ ] One subtle catch sound is added at the two-handed catch.
+- [ ] No music remains in the final edit.
+- [ ] The video is not regenerated solely for an audio problem.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
+
+---
+
+## Final Shot 03 Audio Decision
+
+The existing Shot 03 visual render must not be regenerated solely because its generated audio is incorrect.
+
+Production procedure:
+
+1. Review the existing video for visual QA only.
+2. If camera, Arda, Pompom Ball and bounce action pass visual QA, keep the video.
+3. Completely mute and discard the OpenArt-generated audio and music.
+4. Add the approved Arda dialogue in editing at the documented times.
+5. Add the continuous approved garden ambience.
+6. Add the single bounce, catch and fluffy fibre effects.
+7. Export the final shot with no music.
+
+A new OpenArt video generation is permitted only if the existing visual render has a genuine visual blocker, such as:
+
+- incorrect camera movement,
+- broken Arda anatomy,
+- incorrect Pompom Ball identity,
+- missing or duplicate ball,
+- failed bounce action,
+- incorrect house or background geometry,
+- or unusable visual quality.
+
+Missing dialogue, missing birdsong, missing ambience or unwanted generated music are not reasons to regenerate the visual video.
 
 ---
 
@@ -481,9 +577,12 @@ Production settings:
 - Cinematic / Automatic Camera: Off
 - Generated dialogue: Off
 - Generated audio: Off
-- Treat output as video-only
-- Mute and discard any audio generated by OpenArt
-- Do not generate new voices. Do not improvise speech. Any final spoken lines will be added separately in post using the approved existing character voice.
+- Treat the OpenArt result as video-only
+- Mute and discard all audio generated by OpenArt
+- Do not rely on OpenArt-generated dialogue, ambience, music or sound effects
+- All final audio is added separately in post-production
+- Do not regenerate the Shot 03 video solely to correct dialogue, ambience, birdsong, music or sound effects.
+- If the existing visual render passes camera, character, ball and action QA, preserve it and replace its complete audio track in editing.
 
 Visual sources:
 
@@ -546,7 +645,16 @@ Before copying the Visual Prompt into OpenArt, ensure no unresolved tokens remai
 7. **Visual Prompt start lock strengthened:** "Use the approved Shot 03 Take Shot as @image1. Frame 1 must match @image1 exactly." Added: do not regenerate starting frame, do not alter Arda's face/hair/outfit/proportions/position, do not alter Pompom Ball position/size/colour/fluffiness, do not alter house/gate/fence/lawn/hills/shrubs/sky/lighting, do not introduce background parallax, do not create artificial depth movement, only Arda and ball perform scripted action, world remains visually frozen.
 8. **Camera completely frozen:** "The approved @image1 composition is final and immutable. The virtual camera remains completely frozen from the first frame through the final frame." Added: no stabilisation crop, no automatic reframing, no face-tracking crop, no vertical camera adjustment when ball reaches ground, no camera response to bounce, no digital zoom during speaking. Ball must move inside existing frame; camera must never move to accommodate ball.
 9. **Bounce corridor locked:** Ball travels vertically downward through clear open corridor between Arda's naturally separated feet. Ball does not strike either leg or shoe. Ball does not pass behind a leg. Ball does not move toward screen-left or screen-right. Ground-contact point remains visible. Ball rises along same readable vertical path. Arda catches without stepping. Arda's feet remain planted. Arda may bend arms and knees only slightly and naturally. No crouching, no kneeling, no walking, no body turn.
-10. **Dialogue timing preserved:** Three short phrases "One! Soft and bouncy! Ready for two?" kept as POST-PRODUCTION ONLY. Visible synchronized mouth movements after catch and small hug. Dialogue not moved to beginning. Arda does not speak during ground-contact moment. No long silent pause, no empty staring, no frozen smile, no additional improvised phrase, no audible generated voice, no new voice, no subtitles, no on-screen text.
+10. **Dialogue timing preserved:** The four documented lines use visible mouth movement only in OpenArt. All audible dialogue is added in post-production using the approved Arda voice. Synchronized mouth movements after catch and small hug. Dialogue not moved to beginning. Arda does not speak during ground-contact moment. No long silent pause, no empty staring, no frozen smile, no additional improvised phrase, no subtitles, no on-screen text.
 11. **Negative Prompt expanded:** Added football, soccer ball, patchwork plush ball, panelled ball, segmented ball, stitched ball, fabric-panel ball, geometric colour blocks, hexagon pattern, pentagon pattern, visible seams, sewn sections, hard toy ball, plastic ball, smooth ball surface, missing fluffy fibres, ball fur disappearing, ball size increase/decrease, ball growing/shrinking during bounce, ball changing identity, altered Pompom Ball, wrong OpenArt ball asset, mirrored composition, horizontally flipped frame, house moved to screen-right, gate moved to screen-left, changed crop, automatic reframing, stabilisation crop, face-tracking crop, vertical camera adjustment, camera response to ball movement, digital zoom during dialogue, ball passing behind leg, ball hitting shoe, ball hitting leg, obstructed ground contact, character stepping, character crouching, character kneeling, character walking.
 12. **QA checklist updated:** 28 checks including approved Take Shot as @image1, no substitute image, frame 1 match, composition not mirrored, Arda centred and fully visible, single house on screen-left, blue gate on screen-right, pastel multicolour fence unchanged, foreground grass unchanged, ball matches exact OpenArt "Pompom Ball" asset, ball remains continuous fluffy pompom sphere, no stitched panels/patchwork/hexagons/pentagons/seams, ball size/colour/fluffiness consistent with @image1, ball travels through unobstructed vertical corridor, ball does not strike/pass behind legs or shoes, feet planted, one ground contact, one upward return, one two-handed catch, camera framing identical to @image1, no automatic reframing/stabilisation/face tracking, Arda mouths three phrases, mouth closes naturally before final anchor, no long silent pause or empty staring.
 13. **Global Quality Profile updated:** Visual sources now explicitly include "separately approved Shot 03 Take Shot still used as @image1". Added "The approved Shot 03 Take Shot already contains the final garden composition. Do not reconstruct or reinterpret the world during frame-to-video generation."
+14. **Generated dialogue restored to Off:** OpenArt no longer generates audible dialogue. Video-only output.
+15. **Generated audio restored to Off:** OpenArt no longer generates any audio. Video-only output.
+16. **Complete audiovisual OpenArt policy removed:** "Treat output as a complete audiovisual shot" replaced with "Treat the OpenArt result as video-only". All OpenArt-generated audio and music discarded.
+17. **Audible Arda dialogue moved to post-production:** Dialogue is added separately in editing using the approved existing Arda voice. OpenArt generates visible mouth movement only.
+18. **Natural garden ambience moved to post-production:** Continuous ambience from 0.0 to 15.0 seconds added in editing.
+19. **Birdsong, bounce and catch effects moved to post-production:** All physical sound effects added in editing.
+20. **Visible mouth movements preserved:** "Visibly mouths" language restored. Mouth movements remain distinct and readable. Arda's mouth closes naturally before final anchor.
+21. **Existing visual render protected from unnecessary regeneration:** New Final Shot 03 Audio Decision section added — video is kept if visual QA passes, only audio is replaced in editing.
+22. **Audio QA changed from generation QA to post-production QA:** Removed generated dialogue/audio On checks. Added post-production timing, ambience, birdsong, bounce/catch effects, music ban, and regeneration-protection checks.
