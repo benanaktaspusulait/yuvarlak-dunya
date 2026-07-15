@@ -30,7 +30,7 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | S01E01 | Kiko, Mimi, Opa + 10 komşu | Central Square | — | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | S01E02-A | Kiko | Kiko's Home | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | S01E04 | Kiko, Mimi | Mimi's Burrow | — | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
-| S01E05 | Kiko, Mimi | Friendship Meadow | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| S01E05 | Kiko, Mimi | Friendship Meadow | — | 🟠 | 🟢 | 🔴 | 🔴 | 🔴 | 🔴 |
 | S01E07 | Luca, Kiko | Stone Hill | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | S01E10 | Luca, Noah | Central Square | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | S01E11 | Arda, Opa | Opa's Tree | — | 🟠 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -113,6 +113,7 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | Tarih | Content ID | Dosya | Platform | Durum |
 |-------|-----------|-------|----------|-------|
 | 2026-07-14 | S01E04 | `03_VIDEO_EXPORTS/shorts/s01e04-short-1-mimi-yawns.mp4` | YouTube Shorts | 🟢 Yayınlandı |
+| 2026-07-14 | S01E05 | `04_SHORTS/short-02-yellow-flowers.mp4` | YouTube Shorts | 🟢 Yayınlandı |
 
 ---
 
