@@ -171,6 +171,10 @@ Reference: `00-CORE/CONTINUITY_RULES.md`
 ✓ No character walks through bushes, planters, flowerbeds, benches, tree trunks, walls or houses?
 ✓ No full-body occlusion is used as a transition?
 ✓ Camera movement never hides a character and reveals them elsewhere?
+✓ Every major physical action begins and finishes inside its own shot?
+✓ No walk, entrance, turn, point, reach, jump, landing, gesture or position change is split across shots?
+✓ Camera movement finishes and settles before the final anchor?
+✓ Final 1–2 seconds are stable, grounded and natural rather than frozen or padded?
 ```
 
 Reference: world's Video Generation Rules section
@@ -206,11 +210,15 @@ If any answer is no, regenerate before approval.
 ✓ No object appearing or disappearing between shots without story reason?
 ✓ World layout identical in all shots set in the same location?
 ✓ Lighting direction identical across shots in the same scene?
-✓ No "reset" — world never returns to a differently composed version of itself?
-✓ Previous shot final frame and next shot first frame match for all continuity-linked shots?
+✓ Every shot's Production Mode matches the approved pre-production reset schedule?
+✓ Fresh reset shots return to canonical World/character quality without breaking story logic?
+✓ Previous final frame and next first frame match only for explicitly linked shots?
 ✓ First 1 second of each continuity-linked shot holds extremely close to @image1?
 ✓ No visible object changes position, scale, identity or side of frame between linked shots?
 ✓ Bench/planter/bush/tree/path/house/landmark identities remain stable?
+✓ Linked chain is no longer than 2 normally or 3 exceptionally?
+✓ A mandatory fresh quality reset follows Linked Continuity Shot 3?
+✓ Exact continuity was abandoned if identity, anatomy, sharpness, colour or composition degraded?
 ```
 
 Reference: `00-CORE/CONTINUITY_RULES.md`

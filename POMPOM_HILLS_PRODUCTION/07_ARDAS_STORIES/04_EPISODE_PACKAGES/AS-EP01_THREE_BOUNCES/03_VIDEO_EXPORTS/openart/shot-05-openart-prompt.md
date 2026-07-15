@@ -1,13 +1,25 @@
 # Shot 05 — OpenArt Prompt — shot-05-a-stronger-push
 
+## Shot Completion Contract
+
+- Production Mode: FRESH QUALITY-RESET SHOT
+- Start Source: new clean shot-specific composition from canonical Arda, Pompom Ball, Arda's
+  Home, and Episode Colour Master references; do not use the previous generated final frame.
+- Complete Main Action: The stronger third bounce rises, passes Arda's hands, softly boops his nose, lands, and comes fully to rest.
+- Stable Final Anchor: Arda and the resting ball remain grounded for the final 2 seconds.
+- Next-Shot Dependency: LIMITED VISUAL CONTINUITY ONLY
+- Camera Settle: finish all planned camera movement before the stable final anchor.
+
 ## Visual Prompt
 
 Arda's Home garden, warm morning sunlight, soft green grass, rounded garden fence, sky-blue
 house with round orange roof and round yellow windows in the background. Medium-wide view at
 child eye level. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) lifts the
 Pompom Ball — soft, fluffy, pastel-coloured, round — with excited but controlled body
-language. He pushes a little more strongly. The ball compresses softly and rises higher than
-before. Arda's face shows eager concentration. Warm morning dappled sunlight, soft shadows,
+language. He pushes a little more strongly. The ball compresses softly, rises higher than before,
+passes just over his waiting hands, gently boops his nose, lands softly on the grass, returns to
+shape, and comes fully to rest. Arda giggles, remains balanced, and looks at the resting ball.
+Warm morning dappled sunlight, soft shadows,
 rounded safe shapes, pastel colours, no other characters, {style} {camera} {lighting}
 
 The Arda's Home garden background is locked from the first frame; keep house, fence, grass,
@@ -18,14 +30,15 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Camera Direction
 
 32mm wide at child eye level, framing Arda and the stronger bounce. The camera follows the
-ball as it rises higher than before. Warm, steady framing. No fast zooms, no dramatic
-angles.
+complete ball arc up and down, then settles before the final 2-second hold. Warm, steady framing.
+No fast zooms, no dramatic angles.
 
 ## Sound
 
 Soft outdoor garden ambience: gentle birds chirping, light morning breeze, calm warm
-atmosphere. The Pompom Ball makes a softer "boing" as it bounces higher. Arda's voice is
-excited: "Now three! Three!" Natural ambience only. No music, no background music, no
+atmosphere. The Pompom Ball makes a softer "boing" as it bounces higher and a soft "boop" at his
+nose. Arda's voice is excited and playful: "Now three! Three! Hey! You booped me!" Natural
+ambience only. No music, no background music, no
 melody, no song, no soundtrack, no chimes, no whooshes.
 
 ## Negative Prompt
@@ -51,13 +64,13 @@ Same pitch, same timbre, same age, same speed, same warmth.
 - Mode: Text-to-video
 - Prompt enhancer: Off
 - Cinematic/auto camera: Off
-- Locked camera only
+- Camera follows only the documented Camera Direction; settle before the final anchor
 
 ## Shot Approval Checklist
 
 - [ ] First frame matches scene description
 - [ ] Character identity preserved (Arda / Luca / Noah)
-- [ ] No camera movement (locked camera)
+- [ ] No unplanned camera movement; documented movement settles before final anchor
 - [ ] No dialogue as on-screen text
 - [ ] No music, no background music
 - [ ] No new characters or objects appearing
@@ -66,4 +79,6 @@ Same pitch, same timbre, same age, same speed, same warmth.
 - [ ] No HDR, no glossy look, no oversharpening
 - [ ] Warm natural lighting preserved
 - [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor
+- [ ] Camera movement settles before the final anchor

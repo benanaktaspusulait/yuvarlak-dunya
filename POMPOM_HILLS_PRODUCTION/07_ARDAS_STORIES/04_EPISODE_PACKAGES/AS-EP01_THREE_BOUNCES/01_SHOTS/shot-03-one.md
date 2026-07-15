@@ -16,6 +16,22 @@
 
 ---
 
+## Shot Completion Contract
+
+| Field | Value |
+|---|---|
+| Production Mode | FRESH QUALITY-RESET SHOT |
+| Clean Start State | Arda stands balanced with the ball at waist level. |
+| Complete Main Action | The first bounce travels down, compresses, rises, and completes in Arda's hands. |
+| Completed End State | The ball is securely hugged; Arda is stable. |
+| Stable Final Anchor | Calm ball hug holds for the final 2 seconds; only blinking, breathing, and fibre motion. |
+| Next-Shot Dependency | LIMITED VISUAL CONTINUITY ONLY |
+
+Start source: build a new clean shot-specific composition from the canonical Arda, Pompom Ball,
+Arda's Home, and Episode Colour Master references. Do not use the previous generated final frame.
+
+---
+
 ## Purpose
 
 Arda gently pushes the Pompom Ball down. It compresses very slightly, rises slowly, and returns to his hands. He hugs the ball for a tiny celebratory beat. This establishes the first bounce and the counting pattern.
@@ -135,8 +151,10 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] Ball bounce is gentle and controlled.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.
-- [ ] Final 0.5s is calm and transition-safe.
-- [ ] No new action begins in the final 0.5s.
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor.
+- [ ] Camera movement settles before the final anchor.
+- [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
 

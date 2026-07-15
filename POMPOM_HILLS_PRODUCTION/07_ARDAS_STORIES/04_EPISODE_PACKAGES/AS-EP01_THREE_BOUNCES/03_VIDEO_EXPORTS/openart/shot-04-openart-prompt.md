@@ -1,5 +1,15 @@
 # Shot 04 — OpenArt Prompt — shot-04-two-to-the-right
 
+## Shot Completion Contract
+
+- Production Mode: FRESH QUALITY-RESET SHOT
+- Start Source: new clean shot-specific composition from canonical Arda, Pompom Ball, Arda's
+  Home, and Episode Colour Master references; do not use the previous generated final frame.
+- Complete Main Action: The second bounce drifts right; Arda completes one side-step and catch.
+- Stable Final Anchor: Arda holds the secured catch pose for the final 2 seconds.
+- Next-Shot Dependency: LIMITED VISUAL CONTINUITY ONLY
+- Camera Settle: finish all planned camera movement before the stable final anchor.
+
 ## Visual Prompt
 
 Arda's Home garden, warm morning sunlight, soft green grass, rounded garden fence, sky-blue
@@ -51,13 +61,13 @@ Same pitch, same timbre, same age, same speed, same warmth.
 - Mode: Text-to-video
 - Prompt enhancer: Off
 - Cinematic/auto camera: Off
-- Locked camera only
+- Camera follows only the documented Camera Direction; settle before the final anchor
 
 ## Shot Approval Checklist
 
 - [ ] First frame matches scene description
 - [ ] Character identity preserved (Arda / Luca / Noah)
-- [ ] No camera movement (locked camera)
+- [ ] No unplanned camera movement; documented movement settles before final anchor
 - [ ] No dialogue as on-screen text
 - [ ] No music, no background music
 - [ ] No new characters or objects appearing
@@ -66,4 +76,6 @@ Same pitch, same timbre, same age, same speed, same warmth.
 - [ ] No HDR, no glossy look, no oversharpening
 - [ ] Warm natural lighting preserved
 - [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor
+- [ ] Camera movement settles before the final anchor

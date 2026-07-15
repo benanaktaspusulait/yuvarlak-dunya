@@ -10,99 +10,94 @@
 
 ## SHOT COMPLETION AND QUALITY RESET RULE — HIGHEST CONTINUITY PRIORITY
 
-This section overrides every older instruction in this repository that says to use a
-generated video, a raw video frame, a corrected video frame, a normalized video frame,
-or the previous shot's exported final frame as the next shot's production anchor.
-
-### Clean Anchor Definitions
-
-- **Clean start-frame still:** a separately generated, visually reviewed and approved
-  production still created from the canonical approved World, approved character identity
-  references and a shot-specific composition. It is not extracted from video.
-- **Clean end-frame still:** a separately generated, visually reviewed and approved
-  production still defining the intended completed state of a shot. It is not extracted
-  from video.
-- **Linked shots:** shots whose approved clean end/start still is intentionally shared.
-  The approved clean end still of Shot N becomes the exact same approved clean start still
-  of Shot N+1. This does not permit extracting that still from generated video.
-
-RAW GENERATED FINAL-FRAME CHAINING IS FORBIDDEN.
-
-Never use a frame extracted directly from an AI-generated video as the next shot's
-production anchor. Normalizing, correcting, grading, upscaling or exporting a generated
-video frame does not turn it into a clean production still.
-
-Every shot must use a separately approved clean start-frame still. Whenever the tool and
-shot design support it, every shot must also use a separately approved clean end-frame
-still through Start Frame + End Frame mode. Video generation creates motion only between
-these approved still anchors. It must not redefine camera, world quality, character scale,
-colour, lighting, sharpness or final-frame composition.
+This section overrides every older instruction that makes exact final-frame continuity the
+default or permits an unlimited recursive frame chain.
 
 ### Complete Action Inside Each Shot
 
-Every shot must contain a complete visual action. Do not end a shot while a character is
-walking, entering, turning, pointing, jumping, landing, reaching, gesturing, visibly
-breathing or changing position. Every scripted action must begin, develop and finish
-inside the same shot.
+Every shot must begin, perform and complete one manageable main visual action. Do not end
+while a character is walking, entering, approaching, leaving, turning, pointing, reaching,
+jumping, landing, bouncing, gesturing, sitting, standing or otherwise changing position.
+Camera movement must also complete and settle inside the shot.
 
-The final 1–2 seconds must show a stable, natural and fully grounded ending pose. Camera
-movement must also finish and settle before the shot ends. The next shot must not require
-instructions such as “continue walking,” “resume the previous movement,” “complete the
-previous gesture,” or “continue exactly where the character stopped mid-motion.”
+The final approximately 1–2 seconds must show a stable, natural and grounded ending state.
+Subtle breathing, blinking, a tiny eye-focus change, a small expression settle and gentle
+environmental motion may continue. The ending must not feel frozen, empty or padded.
 
-### Fresh Shot Default
+If an action does not fit, simplify it, begin it earlier, shorten dialogue, merge the action
+or redesign the shot division. Never plan the next shot to resume unfinished movement.
 
-Start each new shot as a fresh highest-quality generation using:
+### Fresh-Generation Default
 
-- the canonical approved World,
-- approved character identity references,
-- a clean shot-specific starting composition,
-- and the highest approved quality settings.
+Start each new shot as a fresh highest-quality generation using the canonical approved
+World, approved character identity references, a clean shot-specific starting composition,
+approved visual style and the highest reliable quality mode. Preserve continuity through
+identity, costume, world, screen direction, approximate placement, lighting, colour,
+dialogue and editing. A clean editorial cut is preferred over progressive degradation.
 
-Preserve story continuity through character placement, screen direction, world identity,
-dialogue, sound and editing. Pixel-exact video continuation is not the default. A clean
-editorial cut between two high-quality independent shots is preferred over a seamless
-transition between progressively degraded shots.
+### Exact Generated-Frame Chaining Limit
 
-### Exact Clean-Anchor Continuity Limit
+Exact final-frame continuity is allowed only when genuinely necessary for a continuous
+physical action or camera event and only when the generated frame passes visual QA.
 
-Use exact linked clean anchors only when the story or edit genuinely requires them.
+- Normal maximum: 2 consecutively linked shots.
+- Exceptional maximum: 3 consecutively linked shots.
+- A shot after Linked Continuity Shot 2 should normally reset.
+- A shot after Linked Continuity Shot 3 must always reset.
+- Never create a chain of 4 or more shots.
 
-- Normal maximum: 2 consecutive linked shots.
-- Exceptional maximum: 3 consecutive linked shots.
-- After 2–3 linked shots: mandatory visual quality reset from canonical clean references.
-- Never create a 4-shot, 5-shot or 6-shot recursive frame chain.
+Reject the linked frame if character identity, anatomy, world layout, camera distance,
+colour, contrast, sharpness, scale or prop identity has drifted. Quality takes priority over
+pixel-perfect matching. Do not preserve a degraded frame merely because it matches the cut.
 
-At a reset:
+### Mandatory Quality Reset
 
-```text
-Canonical approved World
-+ approved character references
-+ clean shot-specific composition
-→ fresh highest-quality shot
-```
+A reset uses the canonical approved World, approved character references, a newly composed
+clean start frame, approved camera/colour/lighting and the highest reliable production mode.
+The previous generated final frame is not the reset shot's primary visual source.
 
-When exact frame continuity conflicts with visual quality, character identity,
-environment fidelity, correct scale or clean composition, visual quality wins.
+### Mandatory Pre-Production Schedule and Fields
 
-### Post-Production Timing
+Decide the reset schedule before video generation. Label every shot with exactly one mode:
 
-Keep production-generation anchors clean and ungraded. Perform video upscaling and final
-episode-wide colour matching only once, after all shots are completed and approved. Do not
-upscale or repeatedly colour-normalize intermediate frames for reuse as generation inputs.
+- `FRESH QUALITY-RESET SHOT`
+- `LINKED CONTINUITY SHOT 1`
+- `LINKED CONTINUITY SHOT 2`
+- `LINKED CONTINUITY SHOT 3 — EXCEPTIONAL MAXIMUM`
+
+Every future shot document must contain:
+
+- `Production Mode`
+- `Clean Start State`
+- `Complete Main Action`
+- `Completed End State`
+- `Stable Final Anchor`
+- `Next-Shot Dependency`
+
+`Next-Shot Dependency` is one of:
+
+- `NONE — next shot starts fresh`
+- `LIMITED VISUAL CONTINUITY ONLY`
+- `EXACT FRAME CONTINUITY REQUIRED`
+
+Exact dependency is rare and requires written justification.
+
+### Generated-Frame QA Gate
+
+A generated frame may become the next linked shot's input only when the chain is within the
+2–3 shot limit and the frame passes checks for identity, world layout, camera distance,
+colour, contrast, sharpness, scale and object persistence. If any check fails, break the
+chain and use a fresh quality reset.
 
 ### Legacy Wording Interpretation
 
-Until all historical shot packages are migrated, any older reference to `@image1`,
-“previous final frame,” “exported continuity frame,” “normalized final frame” or “previous
-shot video reference” must not be followed literally. Replace it with one of these:
+Interpret older `@image1`, “previous final frame” and “continue from previous shot” wording
+through the pre-planned Production Mode. Fresh shots use clean canonical references. Linked
+shots may use a QA-approved generated final frame only within the chain limit.
 
-1. the separately approved clean start-frame still for the current shot; or
-2. when exact linkage is justified and within the 2–3 shot limit, the separately approved
-   clean end still of Shot N, reused unchanged as Shot N+1's clean start still.
+### Authoritative Summary
 
-Generated video media remains review evidence and edit material only; it is never a
-production-anchor source.
+`Every shot completes its own main action. Exact AI-generated final-frame continuity is limited to normally two and exceptionally three consecutive shots. After that, production must restart from clean canonical World and character references at the highest reliable quality. A clean cut between high-quality shots is always preferred over seamless continuity with progressive visual degradation.`
 
 ---
 
@@ -121,7 +116,8 @@ production-anchor source.
 > Prompt talimatları yeterli değildir. Tek çözüm: sabit anchor + ölçülü normalizasyon + Drift Gate.
 >
 > **Kanıt (S01E12):** Shot 1→8 arası %15.7 progressive darkening, %12.7 contrast artışı.
-> Ham frame'ler asla @image1 olarak kullanılmamalıdır.
+> Bu nedenle generated final frame zincirleri varsayılan değildir; yalnızca önceden planlanmış
+> linked shot'larda, QA onayıyla ve 2–3 shot sınırı içinde kullanılabilir.
 
 ### Shot Düzeltme Kuralları (Final Post-Production Pass)
 
@@ -151,15 +147,18 @@ episode-wide final colour-matching pass içinde uygulanır:
 - Sadece parlaklık ve doygunluk düzelt (kontrast/değil)
 - Düzeltme sonrası final frame yalnızca QA kanıtı olarak çıkarılabilir
 - shot-XX-final-frame.png yalnızca QA/raporlama çıktısıdır
-- Bu frame hiçbir sonraki shot'ın `@image1`'i veya production anchor'ı olamaz
+- Post-production'da düzeltilmiş/normalize edilmiş bu türev frame, sonraki shot'ın `@image1`'i
+  veya production anchor'ı olamaz. Linked kullanım gerekiyorsa yalnızca düzeltme öncesi özgün
+  generated final frame QA'dan geçirilir ve zincir sınırı içinde kullanılır.
 
 ### Temel Kural
 
 ```
 Approve clean start/end stills → Generate motion → Complete and approve all shots → One final episode-wide upscale and colour-match pass
 
-ASLA: Ham, düzeltilmiş veya normalize edilmiş video final frame'ini @image1 olarak kullanma.
-SADECE: Ayrı üretilmiş ve onaylanmış clean start-frame still kullan.
+VARSAYILAN: Ayrı üretilmiş ve onaylanmış fresh clean start-frame still kullan.
+İSTİSNA: Önceden planlanmış linked shot'ta özgün generated final frame'i QA onayıyla kullan;
+normalize/grade/upscale edilmiş türev frame'i production anchor yapma.
 ```
 
 ### EPISODE_COLOR_MASTER.png
@@ -201,8 +200,10 @@ python3 POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/TOOLS/normalize_shot.py \
 ### Continuity Rule
 
 ```
-ASLA ham, düzeltilmiş veya normalize edilmiş bir video final frame'ini bir sonraki @image1
-olarak kullanma. SADECE ayrı onaylanmış clean start-frame still kullan.
+Fresh shot'ta ayrı onaylanmış clean start-frame still kullan. Linked shot'ta yalnızca özgün,
+QA-onaylı generated final frame bir sonraki `@image1` olabilir. Normalde iki, istisnai olarak
+üç linked shot'tan sonra canonical kaynaklardan zorunlu fresh quality reset yap. Düzeltilmiş,
+normalize edilmiş, graded veya upscaled türev frame'i production anchor yapma.
 ```
 
 ### Prompt Kuralı
@@ -247,12 +248,13 @@ Complete all shots → one final upscale and colour-matching pass
 
 ## First Frame Continuity
 
-Every shot uses its own separately approved clean start-frame still. The default is a fresh
-shot-specific composition from canonical references, not the previous shot video.
+Every shot uses a pre-approved start source. The default is a fresh shot-specific composition
+from canonical references, not the previous shot video.
 
-When exact linkage is necessary, reuse only the separately approved clean end still of the
-previous shot as the exact clean start still of the next shot, within the 2–3 shot limit.
-Never use a frame extracted from generated video. A clean editorial cut is acceptable.
+When exact linkage is genuinely necessary, the original generated final frame of the previous
+shot may be reused as the next exact start still after QA approval, within the 2–3 shot limit.
+Reject soft, distorted, colour-drifted or artifacted frames and reset fresh instead. A clean
+editorial cut is acceptable.
 
 Maintain:
 - character position
@@ -327,9 +329,8 @@ Her speaking shot için QA checklist'e eklenmeli:
 
 ## Colour Continuity
 
-Match the colour grading of the previous shot exactly.
-
-The previous shot is the colour master reference. Never rebalance colours between shots.
+Match the approved Episode Colour Master and episode lighting identity. A linked previous frame
+may guide placement and action continuity, but it never replaces the Episode Colour Master.
 
 CRITICAL: Do NOT desaturate between shots. Do NOT make colours softer or paler.
 Each shot must maintain the SAME saturation level as the first shot.
@@ -373,6 +374,8 @@ Use only:
 - original downloaded PNG/JPG from the generation tool
 - separately approved clean production stills created from canonical references
 - approved production stills from the asset folder
+- for a pre-planned linked shot only: the original, QA-approved generated final frame, within
+  the 2–3 shot chain limit
 
 Exported video frames may be used for QA inspection only, never as generation references.
 
@@ -441,7 +444,8 @@ Generative video can lose saturation or shift colour across multiple shot genera
 To prevent this:
 
 - Use the Episode Colour Master in every shot.
-- Use the previous shot only for continuity of action and placement.
+- Use a linked previous frame only when the reset schedule requires exact action/placement
+  continuity; otherwise start fresh from canonical references.
 - Do not use a screenshot as colour reference.
 - Do not allow the model to "improve" or "rebalance" the image.
 - Do not allow automatic exposure correction.
@@ -473,7 +477,8 @@ Reject if:
 
 ## Lighting Continuity
 
-Preserve the lighting from the previous shot exactly.
+Preserve the approved episode lighting identity. In a linked shot, also preserve the previous
+frame's light direction and exposure unless doing so would carry visible degradation.
 
 Maintain:
 - identical light direction
@@ -1203,9 +1208,15 @@ Her shot markdown dosyası şu bölümleri içermelidir:
 
 1. **Scene Context** — Episode, Shot numarası/süresi, Location, Characters, Time of Day
 2. **Purpose** — Shot'ın kısa amacı (1 cümle)
-3. **Continuity** — Önceki shot'tan devam edip etmediği
-4. **Clean Start-Frame Continuity** (tüm shot'lar için zorunlu) — @image1 kuralları
-5. **World Reference** (Shot 01 için) — İlk shot world reference kullanımı
+3. **Production Mode** — Fresh reset veya linked continuity chain sırası
+4. **Clean Start State** — Pozisyon, yön, scale, kamera, anchor ve duygu
+5. **Complete Main Action** — Aynı shot içinde başlayıp biten tek ana aksiyon
+6. **Completed End State** — Tüm büyük hareket bittikten sonraki kesin görsel durum
+7. **Stable Final Anchor** — Son 1–2 saniyelik doğal, grounded hold
+8. **Next-Shot Dependency** — NONE / LIMITED / EXACT (exact ise gerekçeli)
+9. **Continuity** — Yalnız gerekli görsel/hikâye sürekliliği
+10. **Clean Start-Frame Continuity** — Production Mode'a göre fresh veya linked @image1
+11. **World Reference** (Shot 01 ve quality-reset shot'ları için)
 6. **Background Object Lock** — Arka plan sabitliği
 7. **Visual Prompt** — OpenArt prompt'u ({style} {camera} {lighting} ile biter)
    - Shot 01: "CRITICAL: Maintain warm golden autumn colour saturation throughout the entire video" içermeli
@@ -1226,14 +1237,17 @@ Her shot markdown dosyası şu bölümleri içermelidir:
 ```text
 ## Frame-to-Video Continuity
 
-@image1 = separately approved clean start-frame still for this shot.
-Use @image1 as the only visual continuity source.
+Production Mode: [FRESH QUALITY-RESET SHOT / LINKED CONTINUITY SHOT 1 / LINKED CONTINUITY SHOT 2 / LINKED CONTINUITY SHOT 3 — EXCEPTIONAL MAXIMUM]
+@image1 = [fresh canonical shot-specific start / approved linked generated final frame].
+For a fresh reset, rebuild from canonical World and character references at the highest reliable quality.
+For a linked shot, verify the source frame and chain count before use.
 First visible frame must match @image1.
-Do not use failed frames, generated videos or video-extracted frames as references.
+Do not use failed or visibly degraded frames.
 Do not redesign, recompose, widen, zoom, or reset the environment.
 Keep all trees, paths, leaves, ground, lighting, and character positions consistent with @image1.
 Locked camera only.
 No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or angle change.
+Complete the main action inside this shot. Settle the camera and all major movement before the final 1–2 seconds.
 ```
 
 ### Camera Direction Kuralı

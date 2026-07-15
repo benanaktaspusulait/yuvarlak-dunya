@@ -571,8 +571,8 @@ Sound:
 Natural ambience only. No music. No chime.
 
 Final frame requirement:
-Usable as @image1 for next shot. No crop, no close-up, 
-no lighting change, no new object.
+Complete the shot action and hold a stable grounded anchor for the final 1–2 seconds.
+Next-shot dependency: LIMITED VISUAL CONTINUITY ONLY; next shot starts fresh.
 
 Risk verdict:
 Safe only if yellow flowers are visible enough in @image1.
@@ -671,9 +671,10 @@ No chime.
 
 ---
 
-## 12. Final Frame as Next @image1
+## 12. Final Frame Chaining Is Limited and Pre-Planned
 
-Her shot'ın final frame'i bir sonraki shot'ın `@image1`'i olabilir.
+Bir final frame yalnızca shot önceden linked-continuity olarak etiketlendiyse sonraki
+`@image1` olabilir. Fresh quality-reset shot canonical clean kaynaklardan başlar.
 
 Bu yüzden final frame onaylanmadan önce kontrol edilmelidir.
 
@@ -700,6 +701,10 @@ Final frame şunları korumalıdır:
 - Aynı scale
 - Sürpriz prop'lar yok
 
+Normal chain maksimum 2, exceptional maksimum 3 linked shot'tır. Linked Shot 3'ten sonra
+fresh quality-reset zorunludur. Frame bu QA maddelerinden birini geçemezse chain derhal
+kesilir; degraded frame düzeltilerek zincire devam edilmez.
+
 ---
 
 ## Global Preflight Checklist
@@ -722,6 +727,13 @@ Final frame şunları korumalıdır:
 
 **Standart kontroller:**
 
+0i. Shot Production Mode önceden etiketlenmiş mi?
+0j. Clean Start State, Complete Main Action, Completed End State ve Stable Final Anchor yazılmış mı?
+0k. Ana fiziksel aksiyon ve kamera hareketi aynı shot içinde tamamlanıyor mu?
+0l. Son 1–2 saniye stable ve grounded mı?
+0m. Bu shot'tan önce kaç linked shot var; reset gerekiyor mu?
+0n. Next-Shot Dependency NONE / LIMITED / EXACT seçeneklerinden biri mi; EXACT gerekçeli mi?
+
 1. `@image1` seçilmiş ve onaylanmış mı?
 2. `@image1` görsel olarak bu shot'ı destekliyor mu?
 3. Gerekli tüm karakterler `@image1`'de görünür mü?
@@ -738,11 +750,13 @@ Final frame şunları korumalıdır:
 13. Sound doğal ambience only mi?
 14. Music, melody, soundtrack ve chime kasıtlı olmadıkça yasak mı?
 15. Ghosting ve duplicate characters yasak mı?
-16. Final frame bir sonraki `@image1` olarak güvenli mi?
+16. Linked planlandıysa final frame bir sonraki `@image1` olarak güvenli mi; fresh ise canonical reset kaynağı hazır mı?
 17. Sadece dialogue ihtiyaç duyduğunda görünen bir nesne var mı?
 18. Kamera reset, widen, pan, zoom, search veya reframe'e neden olabilecek prompt wording var mı?
 19. Orange/golden lighting drift'e neden olabilecek "warm morning" wording var mı?
 20. Shot SAFE / RISKY / NOT READY mu?
+21. Basit bir aksiyon iki shot'a gereksiz bölünmüş mü? Evetse NOT READY.
+22. Kamera final 1–2 saniyeden önce tamamen settle oluyor mu?
 
 Herhangi bir cevap güvensizse, henüz shot'ı üretme.
 
@@ -796,8 +810,10 @@ Bu sırayı kullan:
 1. Episode beat list
 2. Object / colour / prop map
 3. Shot 01 master setup requirements
-4. Shot 01 üret ve onayla
-5. Her shot için:
+4. Episode continuity/reset schedule (tüm Production Mode'lar üretimden önce sabitlenir)
+5. Her shot için complete-action/end-state contract
+6. Shot 01 üret ve onayla
+7. Her shot için:
    a. `@image1` frame'ini incele
    b. Shot Contract yaz
    c. Object visibility ve localisation kontrol et

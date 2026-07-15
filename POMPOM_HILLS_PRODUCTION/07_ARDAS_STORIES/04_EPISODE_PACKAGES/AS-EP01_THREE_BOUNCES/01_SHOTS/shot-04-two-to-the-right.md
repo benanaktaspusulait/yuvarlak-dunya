@@ -16,6 +16,22 @@
 
 ---
 
+## Shot Completion Contract
+
+| Field | Value |
+|---|---|
+| Production Mode | FRESH QUALITY-RESET SHOT |
+| Clean Start State | Arda holds the ball with clear safe space on screen-right. |
+| Complete Main Action | The second bounce drifts right; Arda completes one safe side-step and catches it. |
+| Completed End State | Arda is balanced after the catch with the ball secured. |
+| Stable Final Anchor | Catch pose and smile hold for the final 2 seconds; no new bounce begins. |
+| Next-Shot Dependency | LIMITED VISUAL CONTINUITY ONLY |
+
+Start source: build a new clean shot-specific composition from the canonical Arda, Pompom Ball,
+Arda's Home, and Episode Colour Master references. Do not use the previous generated final frame.
+
+---
+
 ## Purpose
 
 Arda bounces the ball again. The ball drifts slightly to his right. He takes one safe side-step and catches it with both hands. This establishes the second bounce, introduces direction (right), and shows Arda's ability to adapt his movement.
@@ -135,8 +151,10 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] Ball drifts right naturally; Arda's side-step is safe and controlled.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.
-- [ ] Final 0.5s is calm and transition-safe.
-- [ ] No new action begins in the final 0.5s.
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor.
+- [ ] Camera movement settles before the final anchor.
+- [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
 

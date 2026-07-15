@@ -15,8 +15,9 @@ generated Shot 01 final frame → Shot 02 @image1 → Shot 03 @image1 → ...
 ```
 
 That pipeline accumulated degradation and is superseded. The default is now independent,
-highest-quality shot generation from canonical clean references. Exact continuity may use
-only separately approved clean still anchors, never frames extracted from generated video.
+highest-quality shot generation from canonical clean references. Exact generated-frame
+continuity is allowed only for a pre-planned two-shot normal chain or three-shot exceptional
+chain, and only while every linked frame passes visual QA.
 
 ---
 
@@ -25,18 +26,18 @@ only separately approved clean still anchors, never frames extracted from genera
 For every episode:
 
 - World opening is optional pre-roll, not a story shot.
-- Create and approve a separate clean start-frame still for every shot from the canonical
-  World, approved character references and a shot-specific composition.
+- Label every shot's Production Mode before generation and record the episode reset schedule.
+- For fresh shots, create and approve a clean start-frame still from the canonical World,
+  approved character references and a shot-specific composition.
 - Whenever possible, create and approve a separate clean end-frame still and use Start
   Frame + End Frame mode.
 - Complete every action inside its shot and reserve the final 1–2 seconds for a stable,
   grounded ending pose.
 - Default to a clean editorial cut and a fresh highest-quality generation for the next shot.
-- If exact linkage is necessary, reuse Shot N's approved clean end still unchanged as Shot
-  N+1's clean start still. Never extract this anchor from generated video.
-- Limit exact clean-anchor linkage to 2 shots normally and 3 only exceptionally; then reset
-  from canonical clean references.
-- Export first/final video frames for QA evidence only, never for production anchoring.
+- If exact linkage is necessary, use Shot N's generated final frame only after it passes
+  identity, world, camera, colour, contrast, sharpness, scale and prop QA.
+- Limit exact generated-frame linkage to 2 shots normally and 3 only exceptionally; then
+  reset from canonical clean references.
 - Create or update the per-episode Object Continuity Map before generating shot video.
 - Check every first-frame still / cheap take against the Object Continuity Map before
   spending video credits.
@@ -81,13 +82,13 @@ all — it is a fresh take shot per `00-CORE/CONTINUITY_RULES.md` §9.
 
 ## 4. Shot N → Shot N+1 (the core rule)
 
-For every shot after Shot 01, `@image1` must be that shot's separately approved clean
-start-frame still. By default it is a fresh shot-specific composition generated from the
-canonical World and approved character identity references.
+For every shot after Shot 01, `@image1` follows the pre-planned Production Mode. By default
+it is a fresh shot-specific composition generated from the canonical World and approved
+character identity references.
 
-Only when exact linkage is genuinely necessary may Shot N's separately approved clean end
-still become the exact clean start still of Shot N+1. This is limited to 2 linked shots
-normally and 3 exceptionally. It never permits a video-extracted frame.
+Only when exact linkage is genuinely necessary may a QA-approved generated final frame of
+Shot N become Shot N+1's start. This is limited to 2 linked shots normally and 3
+exceptionally. The next shot then resets fresh even in the same location.
 
 The first frame of the new shot should match `@image1` as closely as possible in:
 
@@ -105,7 +106,7 @@ The first frame of the new shot should match `@image1` as closely as possible in
 - exposure
 - contrast
 
-The new shot begins a new completed action. Preserve screen direction, character placement,
+The new shot begins and completes its own main action. Preserve screen direction, character placement,
 world identity, scale family and editorial logic, but do not continue unfinished movement.
 A clean cut is acceptable and preferred when exact matching would reduce quality.
 
@@ -494,8 +495,9 @@ For edit QA only, compare:
 - previous shot final video frame
 - next shot first video frame
 
-These exported video frames are review evidence only. Neither may be reused as a
-production anchor.
+These exported frames are review evidence by default. A final frame may be promoted to a
+linked-shot production input only when the pre-production plan calls for exact continuity,
+the chain limit permits it and the frame passes every linked-frame QA check.
 
 Then watch the full video twice:
 
@@ -519,7 +521,7 @@ Approve the transition only if:
 **If a transition has a small jump:**
 
 1. Keep the previous shot. Do not regenerate it.
-2. Do not use the previous video or its extracted final frame as a repair input.
+2. Break the linked chain; do not preserve a degraded frame.
 3. Regenerate or adjust the next shot's clean start still from canonical World and
    character references.
 4. Preserve story placement and screen direction, then regenerate only the next video.
@@ -544,8 +546,8 @@ continuity:
 ```text
 TRANSITION REPAIR PROMPT ADD-ON:
 
-Use the separately approved clean @image1 as the exact start-frame reference.
-@image1 must not be extracted from generated video.
+Use the Production Mode approved @image1 as the exact start-frame reference.
+For a fresh repair, rebuild @image1 from canonical World and character references.
 
 The first second must match @image1 very closely: same camera angle, same lens feel,
 same character scale, same character positions, same locked background/world layout,
@@ -570,12 +572,15 @@ canon bible §Visual Richness & World Charm / §World Identity Lock for its lock
 
 Every new episode's shot files and episode overview must apply this workflow:
 
-- Every shot gets a `## Clean Start-Frame Still` section naming the canonical World,
-  approved character references and shot-specific composition used to create `@image1`.
+- Every shot records Production Mode, Clean Start State, Complete Main Action, Completed End
+  State, Stable Final Anchor and Next-Shot Dependency.
+- Every fresh/reset shot gets a `## Clean Start-Frame Still` section naming the canonical
+  World, approved character references and shot-specific composition used to create `@image1`.
 - Whenever possible, every shot also gets a separately approved clean end still and uses
   Start Frame + End Frame mode.
-- Any intentionally linked pair/trio records the shared clean still and the current chain
-  count. A mandatory quality reset follows no later than the third linked shot.
+- Any intentionally linked pair/trio records the generated source frame, its QA approval and
+  the current chain count. A mandatory quality reset follows the third linked shot and
+  normally follows the second.
 - The episode overview gets one `## Transition QA` section (export rule, approval
   criteria, repair procedure) that every shot file's Transition Continuity Rule section
   points back to, instead of repeating the full repair prompt in every shot file.

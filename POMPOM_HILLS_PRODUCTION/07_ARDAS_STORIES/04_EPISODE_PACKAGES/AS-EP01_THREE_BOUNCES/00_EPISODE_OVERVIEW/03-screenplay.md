@@ -50,42 +50,49 @@ Arda lifts the ball with excited but controlled body language.
 
 **Arda:** "Now three!"
 
-He pushes a little more strongly. The ball compresses softly and rises higher than before.
+He pushes a little more strongly. The ball compresses softly, rises higher than before, passes
+just over his waiting hands, and gently `boops` his nose. Arda crosses his eyes trying to look at
+it, then giggles.
 
 **SFX:** `boing`
 
 **Arda:** "Three!"
 
-### Shot 06 — Over the Hands (1:15–1:30)
-
-Arda reaches up, but the floaty ball passes just over his hands. On its way down, it gently
-`boops` his nose with a soft bounce. Arda crosses his eyes trying to look at it, then giggles.
-
 **SFX:** `boop`
 
 **Arda:** "Hey! You booped me!"
 
-The ball lands on the grass, returns to shape, and begins rolling toward the open garden play gate.
+The ball lands softly on the grass and comes to rest.
+
+### Shot 06 — The Ball Rolls Away (1:15–1:30)
+
+The ball begins at rest on the grass. The garden's gentle slope starts it rolling toward the open
+play gate. Arda takes one safe step and reaches once, but the ball stays just beyond his hands.
 
 **Arda:** "Oh!"
 
-A brief visual replay is not used; the cause and effect remains clear in one continuous action.
+The ball slows and comes to a complete stop just inside the gate. Arda also stops, balanced and
+safe.
 
 ### Shot 07 — Let's Go (1:30–1:45)
 
-Arda watches the ball roll, looks at his empty hands, then smiles with determined curiosity.
+Arda looks from the stationary ball near the gate to his empty hands, then smiles with determined
+curiosity.
 
 **Arda:** "The ball got away. Let's go!"
 
-He follows at a safe walking pace.
+He follows at a safe walking pace and comes to a complete stop at a clear garden marker behind the
+ball.
 
 ### Shot 08 — Through the Play Gate (1:45–2:00)
 
-The ball rolls through the rounded garden play gate onto a connected, vehicle-free path. Arda
-reaches the gate and points after it.
+The ball begins at rest just inside the rounded garden play gate. The gentle slope starts it
+rolling through the gate onto a connected, vehicle-free path. Arda reaches the gate, stops, and
+points after it.
 
 **Arda:** "Wait for me, ball!"
 
-The ball continues with a quiet `frrr-frrr`.
+The ball slows and comes to rest on the visible path with a quiet `frrr-frrr`. Arda and the ball
+hold a calm final tableau.
 
 ---

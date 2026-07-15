@@ -268,7 +268,9 @@ characters by default, the main QA focus is object stability.
 Reject a micro-opening if camera movement causes tree position shift, bench position
 shift, planter position shift, bush position shift, path redesign, stepping-stone ring
 redesign, background morphing, new objects appearing, established objects disappearing,
-lighting/colour drift, or a final frame that cannot safely become Shot 01 `@image1`.
+lighting/colour drift, or an unstable final 1–2-second anchor. If Shot 01 is explicitly planned
+as linked continuity, also reject an opening whose original final frame cannot safely become
+Shot 01 `@image1`; otherwise Shot 01 starts fresh from canonical references.
 
 If characters are explicitly approved for a special bumper or opening, the same
 Intra-Shot Character Continuity Lock, Single Visible Path Rule, Occlusion Is Not A

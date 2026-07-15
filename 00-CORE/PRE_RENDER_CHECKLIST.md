@@ -8,10 +8,12 @@
 
 ## 1. Reference Image Check
 
-- [ ] Is the correct continuity frame uploaded?
+- [ ] Is the shot's Production Mode recorded before generation?
+- [ ] Is the correct mode-approved start source uploaded (fresh canonical still or linked frame)?
 - [ ] Is the correct image tag used in the prompt? Example: @image1 or @image2
 - [ ] Does the prompt match the actual image tag shown in OpenArt?
-- [ ] Is the continuity frame the best transition frame, not just the final frame?
+- [ ] If linked, is the source the exact original generated final frame and has it passed QA?
+- [ ] If fresh, was the source built from canonical World and character references?
 - [ ] Does the frame show the correct characters?
 - [ ] Does the frame show enough of the world for continuity?
 
@@ -19,12 +21,12 @@
 
 ## 2. Frame Lock Check
 
-Every continuation shot must include:
+Every explicitly linked shot must include:
 
 ```text
 Treat @image1 as the complete visual master reference.
 Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
-The viewer must not perceive a shot boundary.
+For this linked shot, the viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 Not similar. Not close. Identical.
@@ -39,6 +41,8 @@ The animation begins only after the first frame has matched @image1 perfectly.
 - [ ] Does the prompt treat @image1 as the complete visual master reference?
 - [ ] Does the prompt require the first visible frame to be visually indistinguishable from @image1?
 - [ ] Does the prompt prevent camera repositioning before motion starts?
+- [ ] Is the linked chain count within normal maximum 2 / exceptional maximum 3?
+- [ ] If the previous linked frame degraded, was linkage rejected and a fresh reset scheduled?
 
 ---
 
@@ -184,8 +188,14 @@ Before pressing Generate Video, confirm:
 - [ ] Correct world
 - [ ] Correct characters
 - [ ] Correct @image tag
-- [ ] Frame Lock included
-- [ ] First visible frame must be visually indistinguishable from @image1
+- [ ] Production Mode matches the approved reset schedule
+- [ ] Fresh shot uses canonical clean references; linked shot uses a QA-approved frame within chain limit
+- [ ] Clean Start State documented
+- [ ] Complete Main Action begins and finishes in this shot
+- [ ] Completed End State documented
+- [ ] Stable Final Anchor reserves the final 1–2 seconds
+- [ ] Next-Shot Dependency documented and exact dependency justified
+- [ ] Linked chain count checked; reset inserted when required
 - [ ] Lighting Lock included
 - [ ] Colour Identity Lock included
 - [ ] Camera Lock included

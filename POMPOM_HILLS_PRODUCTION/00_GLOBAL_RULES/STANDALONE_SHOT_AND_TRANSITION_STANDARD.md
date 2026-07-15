@@ -116,15 +116,16 @@ Every shot in a multi-shot video must include:
 
 This shot will be edited together with other separately generated shots.
 
-The first 0.5 seconds must be visually stable:
-- no sudden character movement
-- no new gesture starting immediately
+The first frame must have a stable, readable composition while the shot's own approved
+action may begin immediately:
+- no sudden or uncontrolled character movement
+- first gesture follows the shot's planned timing
 - no camera movement
 - no character entering
 - no object appearing
 - location already clear from the first frame
 
-The final 0.5 seconds must be a calm edit-safe hold:
+The final approximately 1–2 seconds must be a calm edit-safe stable anchor after the main action is complete:
 - no new gesture starts
 - no character changes position
 - no object appears
@@ -132,7 +133,7 @@ The final 0.5 seconds must be a calm edit-safe hold:
 - no abrupt expression change
 - no sudden lighting change
 
-This allows a soft 0.4–0.6 second transition in editing.
+This allows a clean cut or a soft 0.4–0.6 second transition in editing.
 ```
 
 For a final shot, replace the final 0.5 seconds hold with an end-screen-safe hold:
@@ -302,9 +303,10 @@ These are production/editing instructions only.
 Every multi-shot shot file must add these QA checklist items:
 
 ```markdown
-- [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
-- [ ] No new action begins in the final 0.5s
+- [ ] First frame is compositionally stable and the approved action begins on schedule
+- [ ] Main action and any camera move complete inside this shot
+- [ ] Final 1–2s is calm, grounded and transition-safe
+- [ ] No new action begins in the final 1–2s
 - [ ] Post-production transition note is present
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt
 ```
@@ -372,6 +374,8 @@ Instead:
 For all future Pompom Hills multi-shot productions:
 
 - Every shot is generated standalone.
+- Every shot completes its main action and settles for the final 1–2 seconds.
+- Every shot follows its pre-planned fresh/reset or limited linked-continuity mode.
 - Every world transition is edited later.
 - Every shot file contains its own post-production transition note.
 - No separate transition plan is required unless specifically requested.

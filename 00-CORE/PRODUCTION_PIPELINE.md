@@ -228,7 +228,9 @@ Maintain identical layout, architecture, trees, flowers, paths, benches, lamp po
 - If **random unreadable text or signs** appear → reject (accept only if tiny and unreadable
   in video).
 - If the **lighting** differs from the locked warm daylight → reject.
-- If the **first visible frame** is not visually indistinguishable from `@image1` → reject.
+- For an explicitly linked shot, if the **first visible frame** is not visually
+  indistinguishable from `@image1` → reject. For a fresh shot, judge the approved canonical
+  start composition instead.
 - If the **character voice** changes between speaking shots → reject.
 - If the **colour grade** shifts warmer, cooler, brighter, darker or more cinematic between shots → reject.
 - If the **lighting direction, intensity, shadow softness or ambient light** changes between shots → reject.
@@ -305,33 +307,32 @@ Bu bölümler, "Goodnight, Tree" (E11) bölümünün üretim sürecinde edinilen
 
 ## Shot Workflow
 
-Shot 01 is the only shot that starts from a newly created Take Shot.
-
-Every following shot continues from the previous shot.
-
-Never create a new Take Shot for Shot 02, Shot 03 or Shot 04.
+Pre-plan every shot as `FRESH QUALITY-RESET SHOT` or an explicitly numbered
+`LINKED CONTINUITY SHOT`. Fresh highest-quality generation from canonical references is the
+default for every shot, not only Shot 01. Use exact linkage only when genuinely necessary,
+normally for at most two and exceptionally three consecutive shots; then reset fresh.
 
 ---
 
 ## Reference Frame Rule
 
-Do not automatically use the final frame of the previous video.
-
-Instead, choose the frame that creates the smoothest visual continuity for the next shot.
-
-The best continuity frame may occur before the last frame.
-
-Always prioritize continuity over choosing the most beautiful frame.
+Do not automatically use any frame from the previous video. A linked shot may use only the
+previous shot's exact original generated final frame after QA approval; never choose an earlier
+mid-action frame to hide an unfinished action. Prefer a fresh clean cut when linkage would carry
+softness, distortion, colour drift or other degradation.
 
 ---
 
 ## Reference Images
 
-Each new shot uses:
+Each fresh shot uses:
 
-- Previous shot continuity frame
-- Required character references
-- Existing world
+- Required canonical character references
+- Existing canonical World reference
+- A clean shot-specific start composition
+
+Each explicitly linked shot additionally uses the QA-approved original final frame from the
+previous shot, within the chain limit.
 
 Never recreate the world from scratch.
 
@@ -794,34 +795,26 @@ Bu kural, shot'ların gerçekçi olmasını sağlar.
 
 ---
 
-## Reference Frame Selection
+## Reference Frame Selection and Reset
 
-Bir shot'ın son karesi otomatik olarak bir sonraki shot için en iyi referans karesi **değildir**.
+Bir shot'ın generated final frame'i otomatik olarak bir sonraki shot için referans **değildir**.
 
 ### Core Rule
 
 ```
-The final frame of a rendered shot is NOT automatically the best reference frame for the next shot.
-
-The production workflow should always choose the frame that best supports:
-- character continuity
-- pose continuity
-- eye direction continuity
-- camera continuity
-- composition continuity
-- emotional continuity
-
-The selected frame may occur before the final frame.
+Fresh generation is the default. If exact linkage is genuinely necessary, only the original
+generated final frame may become the next start source, and only after identity, world, camera,
+colour, contrast, sharpness, scale and prop QA. Never select an earlier mid-action frame.
 ```
 
 ### Production Workflow
 
 ```
-1. Shot'ı render et
-2. Tüm kareleri incele
-3. En iyi continuity referans karesini seç (son kare OLMAYABİLİR)
-4. Seçilen kareyi bir sonraki shot'ın başlangıç karesi olarak kullan
-5. Sürekliliği doğrula
+1. Shot'ın ana aksiyonunu tamamlayıp final 1–2 saniyeyi stabil anchor ile render et
+2. Tüm videoyu ve original final frame'i QA'dan geçir
+3. Sonraki shot fresh ise canonical clean start composition üret
+4. Sonraki shot linked ise yalnızca onaylı original final frame'i başlangıç kaynağı yap
+5. Normalde iki, istisnai olarak üç linked shot'tan sonra fresh quality reset uygula
 ```
 
 ### Selection Criteria
@@ -837,9 +830,10 @@ The selected frame may occur before the final frame.
 
 ### Production Lesson (Episode 1)
 
-Episode 1, son kareyi otomatik kullanmanın zaman zaman görsel sıçramalara yol açtığını göstermiştir.
+Episode 1, recursive frame kullanımının zamanla kalite ve renk kaybı yaratabildiğini göstermiştir.
 
-**Ders:** Kasıtlı continuity frame seçimi, otomatik son kare kullanımından çok daha akıcı geçişler üretir.
+**Ders:** Her shot'ın aksiyonunu tamamlaması, fresh üretimin varsayılan olması ve linked zincirin
+2–3 shot ile sınırlandırılması süreklilik ile görsel kaliteyi birlikte korur.
 
 Bu artık tüm gelecek bölümler için üretim standardıdır.
 

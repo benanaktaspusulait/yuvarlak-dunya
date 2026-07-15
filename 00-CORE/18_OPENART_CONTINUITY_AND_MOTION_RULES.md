@@ -5,12 +5,16 @@
 
 ---
 
-## 1. @image1 Is The Only Visual Continuity Source
+## 1. @image1 Follows the Pre-Planned Production Mode
 
 OpenArt sadece ekteki referans görselleri bilir (örn. `@image1`). Önceki videoyu, önceki shot'ı veya final frame geçmişini bilmez.
 
 Kurallar:
-- `@image1` tam görsel kaynak olarak kullanılmalıdır.
+- Her shot önce `FRESH QUALITY-RESET SHOT` veya izin verilen linked-continuity modu olarak etiketlenir.
+- Fresh shot'ta `@image1`, canonical World ve character referanslarından üretilen clean shot-specific başlangıçtır.
+- Linked shot'ta `@image1`, QA'dan geçmiş önceki generated final frame olabilir; chain normalde 2, istisnai olarak 3 shot ile sınırlıdır.
+- Linked Shot 3'ten sonra fresh reset zorunludur.
+- `@image1` seçilen Production Mode içindeki tam görsel kaynak olarak kullanılmalıdır.
 - OpenArt-facing prompt'lar önceki video hafızasına güvenmemelidir.
 - İnsan dokümantasyonu önceki shot'lardan bahsedebilir, ama OpenArt'a verilen Visual Prompt `@image1` dili kullanmalıdır.
 
@@ -376,9 +380,10 @@ at the moment of discovery.
 
 ---
 
-## 12. Final Frame Continuity Rule
+## 12. Final Frame Continuity and Reset Rule
 
-Bir shot'ın final frame'i, bir sonraki continuity-linked shot için `@image1` olarak kullanılabilir olmalıdır.
+Bir shot'ın final frame'i yalnızca pre-production planında sonraki shot linked olarak
+etiketlendiyse `@image1` adayıdır. Fresh reset shot için önceki final frame kullanılmaz.
 
 Final frame kazara şunları yapmamalıdır:
 - İstenmeyen close-up'a dönüşmek
@@ -390,8 +395,9 @@ Final frame kazara şunları yapmamalıdır:
 - Farklı bir kompozisyona kaymak
 - İstenmeyen yeni nesneler eklemek
 
-Ama:
-Eğer hikaye kasıtlı olarak medium-close bitiyorsa, sonraki shot o medium-close `@image1`'den devam etmelidir, zorla wide'e dönmemelidir.
+Final frame görsel QA'dan geçmiyorsa chain derhal kesilir ve canonical clean referanslardan
+fresh quality-reset yapılır. Quality, pixel-perfect eşleşmeden önceliklidir. Normal linked
+chain 2, exceptional chain 3 shot'ta sona erer.
 
 ---
 
@@ -717,9 +723,11 @@ QA kuralı:
 - [ ] Sound shot talimatlarıyla uyumlu.
 
 ### Final Frame:
-- [ ] Final frame bir sonraki shot için `@image1` olarak kullanılabilir.
-- [ ] Final frame kazara scale, lighting, composition veya character identity değiştirmiyor.
-- [ ] Final frame medium-close ise, sonraki shot medium-close'dan devam etmeli, wide reset zorlamamalı.
+- [ ] Shot'ın ana aksiyonu tamamlanmış.
+- [ ] Son 1–2 saniye stable, grounded ve edit-safe.
+- [ ] Production Mode ve chain count pre-production planıyla eşleşiyor.
+- [ ] Linked ise final frame scale, lighting, composition, sharpness ve identity QA'dan geçiyor.
+- [ ] Reset gerekiyorsa sonraki shot canonical clean kaynaklardan başlıyor.
 
 ---
 
@@ -758,6 +766,17 @@ QA kuralı:
 ## Shot Template Requirements
 
 Her gelecek shot dosyası OpenArt üretiminden önce şu bölümleri içermelidir:
+
+### Shot Completion Contract
+```text
+Production Mode:
+Clean Start State:
+Complete Main Action:
+Completed End State:
+Stable Final Anchor:
+Next-Shot Dependency:
+Linked-chain count before this shot:
+```
 
 ### OpenArt Reference Setup
 ```
@@ -900,7 +919,8 @@ Preflight Checklist'in 20 maddesi:
 13. Sound doğal ambience only mi?
 14. Music, melody, soundtrack ve chime kasıtlı olmadıkça yasak mı?
 15. Ghosting ve duplicate characters yasak mı?
-16. Final frame bir sonraki `@image1` olarak güvenli mi?
+16. Linked planlandıysa final frame bir sonraki `@image1` olarak güvenli mi; fresh planlandıysa
+    canonical reset kaynağı hazır mı?
 17. Sadece dialogue ihtiyaç duyduğunda görünen bir nesne var mı?
 18. Kamera reset, widen, pan, zoom, search veya reframe'e neden olabilecek prompt wording var mı?
 19. Orange/golden lighting drift'e neden olabilecek "warm morning" wording var mı?

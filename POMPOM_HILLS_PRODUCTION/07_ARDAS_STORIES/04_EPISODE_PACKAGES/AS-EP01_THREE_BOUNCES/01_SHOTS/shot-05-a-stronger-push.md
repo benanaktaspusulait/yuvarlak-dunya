@@ -16,9 +16,29 @@
 
 ---
 
+## Shot Completion Contract
+
+| Field | Value |
+|---|---|
+| Production Mode | FRESH QUALITY-RESET SHOT |
+| Clean Start State | Arda holds the ball at waist level; landing grass and the gate are visible. |
+| Complete Main Action | The stronger third bounce rises, passes Arda's hands, softly boops his nose, lands, and completes. |
+| Completed End State | The ball is fully at rest on the grass; Arda is grounded and looking at it. |
+| Stable Final Anchor | Arda and the resting ball hold for the final 2 seconds; only natural micro-motion. |
+| Next-Shot Dependency | LIMITED VISUAL CONTINUITY ONLY |
+
+Start source: build a new clean shot-specific composition from the canonical Arda, Pompom Ball,
+Arda's Home, and Episode Colour Master references. Do not use the previous generated final frame.
+
+---
+
 ## Purpose
 
-Arda lifts the Pompom Ball with excited but controlled body language. He pushes a little more strongly. The ball compresses softly and rises higher than before. This establishes the third bounce, introduces cause and effect (stronger push = higher bounce), and creates the conditions for the ball to roll away.
+Arda lifts the Pompom Ball with excited but controlled body language and pushes a little more
+strongly. The ball compresses softly, rises higher, passes just over his waiting hands, gently
+boops his nose, lands on the grass, and comes to rest. This completes the third bounce and its
+playful cause-and-effect payoff
+inside one shot.
 
 ---
 
@@ -52,9 +72,10 @@ Background locked from first frame. The garden — soft grass, rounded shrubs, s
 
 ```text
 Medium shot of Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) in his garden,
-holding a soft fluffy Pompom Ball (pastel pink, blue, and yellow blend) at waist level, lifting it
-slightly higher. He pushes the ball down more strongly; it compresses softly and rises higher than
-before. Arda's expression is excited and determined. Arda's Home garden: soft grass, rounded
+holding a soft fluffy Pompom Ball (pastel pink, blue, and yellow blend) at waist level. He pushes
+the ball down more strongly; it compresses softly, rises higher than before, passes just over his
+waiting hands, gently boops his nose, then lands softly and comes fully to rest on the grass. Arda
+giggles, remains balanced, and looks at the resting ball. Arda's Home garden: soft grass, rounded
 shrubs, safe play gate in background, warm afternoon light. Soft pastel colours, warm light,
 rounded safe shapes, no other characters, {style} {camera} {lighting}
 
@@ -67,7 +88,9 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Child-eye-level medium shot focusing on Arda's stronger push. Gentle follow as the ball rises higher. Stable, warm framing. No fast zooms, no dramatic angles.
+Child-eye-level medium-wide shot containing the complete bounce arc, landing area, and Arda.
+One gentle tilt may follow the ball up and down, then the camera settles before the final 2-second
+hold. No fast zooms or dramatic angles.
 
 ---
 
@@ -76,6 +99,7 @@ Child-eye-level medium shot focusing on Arda's stronger push. Gentle follow as t
 ```text
 Arda: *excited, determined* Now three!
 Arda: *delighted* Three!
+Arda: *giggling, playful* Hey! You booped me!
 ```
 
 > **Hook Purpose:** The stronger push and higher bounce create cause-and-effect learning. Arda's excitement builds anticipation for what happens next.
@@ -88,14 +112,17 @@ Arda: *delighted* Three!
 |---|---|---|
 | 0-4 sec | Arda holds ball at waist level, lifts it higher | Medium shot |
 | 4-8 sec | Arda pushes ball down more strongly; it rises higher | Gentle follow |
-| 8-12 sec | Ball reaches its peak height; Arda reaches up | Follow continues |
-| 12-15 sec | Arda says "Three!" with delight; ball begins to float | Stable hold |
+| 7-10 sec | Ball passes his hands, softly boops his nose; Arda giggles | Gentle follow |
+| 10-13 sec | Ball lands, returns to shape, and comes fully to rest | Camera settles |
+| 13-15 sec | Arda looks at the resting ball; both remain grounded | Stable final anchor |
 
 ---
 
 ## Sound
 
-Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball makes a soft `boing` as it bounces higher. Arda's "Now three!" and "Three!" are excited and delighted — clear, not shouting. No music, no dramatic sting.
+Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball makes a
+soft `boing` as it rises and a soft `boop` at Arda's nose. Arda's lines and giggle are playful and
+clear — not shouting. No music, no dramatic sting.
 
 ---
 
@@ -133,11 +160,14 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] Pompom Ball reads as soft, fluffy, pastel, child-safe.
 - [ ] Garden identity preserved: soft grass, rounded shrubs, play gate, warm light.
 - [ ] Arda's dialogue reads excited and delighted; not loud or aggressive.
-- [ ] Ball rises higher due to stronger push; cause and effect clear.
+- [ ] Stronger third bounce completes fully: rise, miss, soft nose boop, landing, and rest.
+- [ ] Ball is stationary and Arda is grounded for the final 2 seconds.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.
-- [ ] Final 0.5s is calm and transition-safe.
-- [ ] No new action begins in the final 0.5s.
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor.
+- [ ] Camera movement settles before the final anchor.
+- [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
 

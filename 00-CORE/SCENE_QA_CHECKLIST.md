@@ -52,9 +52,9 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 
 ### 3. Shot-02+ Kontrolü
 
-- [ ] Frame Lock var mı? (frame zero, @image1)
-- [ ] First visible frame visually indistinguishable from @image1 olarak yazılmış mı?
-- [ ] @image1 complete visual master reference olarak tanımlanmış mı?
+- [ ] Production Mode pre-production schedule ile eşleşiyor mu?
+- [ ] Fresh shot ise canonical clean @image1 kullanılıyor mu?
+- [ ] Linked shot ise first frame QA-approved linked @image1 ile eşleşiyor mu?
 - [ ] Camera Lock var mı? (identical camera position)
 - [ ] Lighting Lock var mı? (first frame must preserve exact lighting)
 - [ ] Colour Identity Lock var mı? (white balance, exposure, saturation, contrast)
@@ -64,6 +64,18 @@ Video üretiminden ÖNCE tamamlanmalıdır.
 - [ ] Negative Prompt var mı?
 - [ ] Micro Actions bölümü var mı?
 - [ ] Reference Usage bölümü var mı?
+
+### 3B. Shot Completion and Quality Reset Gate
+
+- [ ] Clean Start State yazılmış mı?
+- [ ] Complete Main Action tek, yönetilebilir ve aynı shot içinde tamamlanıyor mu?
+- [ ] Completed End State tüm büyük hareket bittikten sonraki durumu tanımlıyor mu?
+- [ ] Stable Final Anchor son 1–2 saniyeyi grounded ve doğal tanımlıyor mu?
+- [ ] Next-Shot Dependency NONE / LIMITED / EXACT seçeneklerinden biri mi?
+- [ ] EXACT FRAME CONTINUITY REQUIRED nadir ve gerekçeli mi?
+- [ ] Linked chain normalde 2, exceptional olarak en fazla 3 shot mı?
+- [ ] Linked Shot 3'ten sonra fresh reset planlanmış mı?
+- [ ] Basit bir yürüyüş, giriş, dönüş, işaret, uzanma, zıplama veya kamera hareketi shot'lar arasında bölünmemiş mi?
 
 ### 4. Shot-03 Kontrolü
 

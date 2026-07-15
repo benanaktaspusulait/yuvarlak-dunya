@@ -16,15 +16,34 @@
 
 ---
 
+## Shot Completion Contract
+
+| Field | Value |
+|---|---|
+| Production Mode | FRESH QUALITY-RESET SHOT |
+| Clean Start State | The ball is stationary near the gate; Arda is stationary farther back. |
+| Complete Main Action | Arda reacts, delivers his line, walks safely to a marked garden spot, and stops. |
+| Completed End State | Arda is balanced at the marker behind the still ball. |
+| Stable Final Anchor | Arda and ball remain stationary for the final 2 seconds; only natural micro-motion. |
+| Next-Shot Dependency | LIMITED VISUAL CONTINUITY ONLY |
+
+Start source: build a new clean shot-specific composition from the canonical Arda, Pompom Ball,
+Arda's Home, and Episode Colour Master references. Do not use the previous generated final frame.
+
+---
+
 ## Purpose
 
-Arda watches the ball roll, looks at his empty hands, then smiles with determined curiosity. He says "The ball got away. Let's go!" and follows at a safe walking pace. This establishes Arda's decision to pursue the ball and introduces the catchphrase "Let's go!"
+Arda looks from the stationary ball near the gate to his empty hands, then smiles with determined
+curiosity. He says "The ball got away. Let's go!", walks at a safe pace to a clear garden marker,
+and stops. This completes his decision-and-walk action inside the shot.
 
 ---
 
 ## Opening Hook
 
-First 3–5 seconds: Arda stands in the garden, watching the Pompom Ball roll away toward the play gate. His expression shifts from surprise to curiosity. The garden remains warm and inviting.
+First 3–5 seconds: Arda and the Pompom Ball are both stationary. Arda looks from the ball near the
+gate to his empty hands; his expression shifts from surprise to curiosity.
 
 ---
 
@@ -52,9 +71,10 @@ Background locked from first frame. The garden — soft grass, rounded shrubs, s
 
 ```text
 Medium-wide shot of Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) standing
-in his garden, watching the Pompom Ball roll toward the open play gate. He looks at his empty
-hands, then smiles with determined curiosity. He says "The ball got away. Let's go!" and follows
-at a safe walking pace toward the gate. Arda's Home garden: soft grass, rounded shrubs, safe
+in his garden with the Pompom Ball stationary near the open play gate. He looks at his empty
+hands, then smiles with determined curiosity. He says "The ball got away. Let's go!", walks at a
+safe pace to a clear spot behind the ball, and comes to a complete balanced stop. The ball does
+not move in this shot. Arda's Home garden: soft grass, rounded shrubs, safe
 play gate in background, warm afternoon light. Soft pastel colours, warm light, rounded safe
 shapes, no other characters, {style} {camera} {lighting}
 
@@ -85,16 +105,19 @@ Arda: *determined, curious* The ball got away. Let's go!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-4 sec | Arda watches ball roll toward gate; expression shifts to curiosity | Medium-wide shot |
+| 0-4 sec | Arda looks from stationary ball to empty hands | Medium-wide shot |
 | 4-8 sec | Arda looks at empty hands, then smiles with determination | Stable framing |
 | 8-12 sec | Arda says "The ball got away. Let's go!" | Gentle focus on expression |
-| 12-15 sec | Arda walks toward gate at safe pace | Follow as he walks |
+| 11-13 sec | Arda walks toward a clear garden marker at safe pace | Gentle follow |
+| 13-15 sec | Arda stops, balanced; ball remains stationary | Stable final anchor |
 
 ---
 
 ## Sound
 
-Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball makes a faint `frrr-frrr` as it rolls. Arda's dialogue is determined and curious — clear, not shouting. No music, no dramatic sting.
+Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball remains
+silent and stationary. Arda's dialogue is determined and curious — clear, not shouting. No music,
+no dramatic sting.
 
 ---
 
@@ -131,12 +154,15 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] Arda identity preserved; playful, energetic, age-appropriate.
 - [ ] Garden identity preserved: soft grass, rounded shrubs, play gate, warm light.
 - [ ] Arda's dialogue reads determined and curious; not distressed or aggressive.
-- [ ] Arda follows at safe walking pace; not running or chasing dangerously.
+- [ ] Arda completes the short walk and stops safely before the cut.
+- [ ] Ball remains stationary for the entire shot.
 - [ ] Play gate visible as the ball's escape route.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.
-- [ ] Final 0.5s is calm and transition-safe.
-- [ ] No new action begins in the final 0.5s.
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor.
+- [ ] Camera movement settles before the final anchor.
+- [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
 

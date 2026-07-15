@@ -16,6 +16,22 @@
 
 ---
 
+## Shot Completion Contract
+
+| Field | Value |
+|---|---|
+| Production Mode | FRESH QUALITY-RESET SHOT |
+| Clean Start State | Ball fills the foreground; Arda is balanced behind it with both hands ready. |
+| Complete Main Action | The ball rises and Arda completes one secure two-handed catch. |
+| Completed End State | The ball is secured in both hands; Arda is upright and smiling. |
+| Stable Final Anchor | Arda holds the ball and smiles for the final 2 seconds; only breathing, blinking, and ball-fibre micro-motion. |
+| Next-Shot Dependency | LIMITED VISUAL CONTINUITY ONLY |
+
+Start source: build a new clean shot-specific composition from the canonical Arda, Pompom Ball,
+Arda's Home, and Episode Colour Master references. Do not use the previous generated final frame.
+
+---
+
 ## Purpose
 
 Open the episode with an extreme close-up of the canonical Pompom Ball filling the frame. It rises with a soft `poof`, revealing Arda's delighted face behind it. He catches it securely in both hands and smiles. This establishes the playful world and introduces the central prop — the Pompom Ball — before the game begins.
@@ -135,8 +151,10 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] Ball is caught gently; not thrown or kicked.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.
-- [ ] Final 0.5s is calm and transition-safe.
-- [ ] No new action begins in the final 0.5s.
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor.
+- [ ] Camera movement settles before the final anchor.
+- [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
 

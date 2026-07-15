@@ -1,4 +1,4 @@
-# Three Bounces — Shot 06 — Over the Hands
+# Three Bounces — Shot 06 — The Ball Rolls Away
 
 ---
 
@@ -16,21 +16,43 @@
 
 ---
 
+## Shot Completion Contract
+
+| Field | Value |
+|---|---|
+| Production Mode | FRESH QUALITY-RESET SHOT |
+| Clean Start State | The ball is fully at rest on grass between Arda and the open gate. |
+| Complete Main Action | The gentle slope starts the roll; Arda reaches once; the ball slows and stops before the gate. |
+| Completed End State | The ball is stationary near the gate; Arda has stopped safely behind it. |
+| Stable Final Anchor | Arda and ball remain grounded and still for the final 2 seconds. |
+| Next-Shot Dependency | LIMITED VISUAL CONTINUITY ONLY |
+
+Start source: build a new clean shot-specific composition from the canonical Arda, Pompom Ball,
+Arda's Home, and Episode Colour Master references. Do not use the previous generated final frame.
+
+---
+
 ## Purpose
 
-Arda reaches up, but the floaty Pompom Ball passes just over his hands. It lands on the grass, returns to shape, and begins rolling toward the open garden play gate. This introduces the central problem — the ball rolls away — and sets up the chase.
+The Pompom Ball begins fully at rest on the grass. The garden's gentle slope starts it rolling
+toward the open play gate. Arda takes one safe step and reaches once, but the ball remains just
+beyond his hands, slows, and comes to rest before the gate. This completes one roll-and-stop action
+and introduces the central problem without splitting movement across the next cut.
 
 ---
 
 ## Opening Hook
 
-First 3–5 seconds: The Pompom Ball is at its peak height, floating above Arda's head. Arda reaches up with both hands, eyes wide with anticipation. The garden remains warm and inviting.
+First 3–5 seconds: The Pompom Ball is clearly at rest on the grass between Arda and the open play
+gate. A gentle slope starts it moving as Arda notices.
 
 ---
 
 ## Continuity
 
-This shot continues the three-bounce game in Arda's Home garden. Maintain Arda's identity, the warm garden identity, and warm afternoon light. The Pompom Ball remains the central prop. The ball now passes over Arda's hands and rolls away.
+This fresh shot begins from the completed state of Shot 05: the same Pompom Ball is at rest on the
+garden grass and Arda is grounded behind it. Preserve story state editorially without using Shot
+05's generated final frame.
 
 ---
 
@@ -51,11 +73,12 @@ Background locked from first frame. The garden — soft grass, rounded shrubs, s
 ## Visual Prompt
 
 ```text
-Medium shot of Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) in his garden,
-reaching up with both hands as a soft fluffy Pompom Ball (pastel pink, blue, and yellow blend)
-floats just above his fingertips. The ball passes over his hands, lands on the soft grass,
-returns to shape, and begins rolling toward the open garden play gate. Arda's expression shifts
-from anticipation to surprise. Arda's Home garden: soft grass, rounded shrubs, safe play gate in
+Medium-wide shot of Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) in his
+garden with a soft fluffy Pompom Ball (pastel pink, blue, and yellow blend) fully at rest on the
+grass between him and the open play gate. The garden's gentle slope starts the ball rolling. Arda
+takes one safe step and reaches once, but the ball remains just beyond his hands, slows, and comes
+fully to rest before the gate. Arda stops safely behind it. Arda's Home garden: soft grass,
+rounded shrubs, safe play gate in
 background, warm afternoon light. Soft pastel colours, warm light, rounded safe shapes, no other
 characters, {style} {camera} {lighting}
 
@@ -68,7 +91,9 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera Direction
 
-Child-eye-level medium shot following the ball's arc over Arda's hands and its landing on the grass. Gentle pan as the ball begins rolling toward the play gate. Stable, warm framing. No fast zooms, no dramatic angles.
+Child-eye-level medium-wide shot containing Arda, the ball, and the gate. One gentle pan follows
+the completed roll, then settles before the final 2-second anchor. No fast zooms or dramatic
+angles.
 
 ---
 
@@ -86,16 +111,19 @@ Arda: *surprised, soft* Oh!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-4 sec | Ball at peak height; Arda reaches up with both hands | Medium shot, upward follow |
-| 4-8 sec | Ball passes over Arda's hands, lands on grass | Gentle pan down |
-| 8-12 sec | Ball returns to shape, begins rolling toward play gate | Pan follows ball |
-| 12-15 sec | Arda watches the ball roll; expression shifts to surprise | Stable hold |
+| 0-3 sec | Ball is visibly at rest; Arda notices it | Stable medium-wide |
+| 3-8 sec | Gentle slope starts the ball rolling toward the gate | Gentle pan |
+| 8-11 sec | Arda takes one safe step and reaches once; says "Oh!" | Both remain visible |
+| 11-13 sec | Ball slows and comes fully to rest before gate; Arda stops | Camera settles |
+| 13-15 sec | Arda and ball remain stationary | Stable final anchor |
 
 ---
 
 ## Sound
 
-Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball makes a soft `poof` as it lands on grass, then a gentle `frrr-frrr` as it begins rolling. Arda's "Oh!" is surprised and soft — not distressed, not shouting. No music, no dramatic sting.
+Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball makes a
+gentle `frrr-frrr` while rolling, fading naturally as it stops. Arda's "Oh!" is surprised and soft
+— not distressed, not shouting. No music, no dramatic sting.
 
 ---
 
@@ -133,12 +161,15 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] Pompom Ball reads as soft, fluffy, pastel, child-safe.
 - [ ] Garden identity preserved: soft grass, rounded shrubs, play gate, warm light.
 - [ ] Arda's "Oh!" reads surprised and soft; not distressed or aggressive.
-- [ ] Ball passes over hands gently; rolls away on soft grass.
+- [ ] Ball starts at rest, rolls once, and comes fully to rest before the cut.
+- [ ] Arda completes one reach and stops safely; no chase continues across the cut.
 - [ ] Play gate visible in background as ball's escape route.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.
-- [ ] Final 0.5s is calm and transition-safe.
-- [ ] No new action begins in the final 0.5s.
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor.
+- [ ] Camera movement settles before the final anchor.
+- [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
 

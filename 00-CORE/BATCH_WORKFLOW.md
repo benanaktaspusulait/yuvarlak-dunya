@@ -93,14 +93,17 @@ Walking shot batch:
 □ Text/watermark var mı?
 ```
 
-### Adım 4: Devam Sahneleri (3-5 dakika/sahne)
+### Adım 4: Shot Başlangıç Modu (3-5 dakika/sahne)
 
 ```
-□ Önceki sahnenin son karesini seç
-□ Continuity frame olarak yükle
+□ Production Mode'u reset planından doğrula
+□ Fresh ise canonical World + karakter referanslarından temiz start still yükle
+□ Linked ise yalnızca QA-onaylı original generated final frame'i yükle
+□ Linked zincir sayısını doğrula: normal maksimum 2, istisnai maksimum 3
 □ Devam prompt'unu yaz
 □ Üret
-□ Sürekliliği kontrol et
+□ Ana aksiyonun tamamlandığını ve final 1–2 sn stabil anchor'ı kontrol et
+□ Süreklilik ile görsel kaliteyi kontrol et; degradation varsa fresh reset yap
 ```
 
 ### Adım 5: Birleştirme (5 dakika/bölüm)

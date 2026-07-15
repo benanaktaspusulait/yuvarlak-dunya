@@ -16,7 +16,8 @@ Every episode should feel like one continuous animated film, not a collection of
 
 ## Core Rule
 
-The audience should never notice where one shot ends and the next begins.
+The audience should experience clear story continuity, but a clean editorial cut between
+independently generated high-quality shots is acceptable and preferred over visual degradation.
 
 Every continuation shot must preserve:
 
@@ -29,7 +30,24 @@ Every continuation shot must preserve:
 - atmosphere
 - character performance
 
-Nothing should reset between shots.
+Fresh quality-reset shots intentionally restore canonical image quality while preserving
+story logic, screen direction, identity, approximate placement, colour and lighting.
+
+## Shot Completion and Reset Contract
+
+Before generation, every shot must declare:
+
+- Production Mode
+- Clean Start State
+- Complete Main Action
+- Completed End State
+- Stable Final Anchor
+- Next-Shot Dependency
+
+Every major physical action and camera move begins and finishes inside the shot. The final
+1–2 seconds are stable, grounded and natural. Exact final-frame chaining is limited to two
+linked shots normally and three exceptionally; the next shot then resets from canonical
+World and character references.
 
 ---
 
@@ -57,7 +75,9 @@ layout morphing, or object identity change is a rejection issue.
 
 ## First Frame Lock
 
-For every continuation shot, the first visible frame must be visually indistinguishable from `@image1`.
+For every shot, the first visible frame must follow its pre-planned Production Mode. Fresh
+shots use a clean canonical shot-specific `@image1`. Only linked shots must match a
+QA-approved previous generated final frame exactly.
 
 Not similar.
 Not close.
@@ -70,7 +90,8 @@ Required wording:
 ```text
 Treat @image1 as the complete visual master reference.
 Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
-The viewer must not perceive a shot boundary.
+For an explicitly linked shot, the viewer must not perceive a shot boundary. Fresh quality-reset
+shots may use a clean editorial cut.
 
 The first visible frame must be visually indistinguishable from @image1.
 Not similar. Not close. Identical.
@@ -118,7 +139,8 @@ If Voice ID is not available, reuse the approved character voice reference and f
 
 ## Colour Continuity
 
-Every continuation shot must match the previous shot exactly.
+Every shot must match the approved Episode Colour Master. Linked shots additionally preserve
+the prior frame's placement and exposure unless that frame shows degradation.
 
 Maintain:
 
@@ -260,7 +282,8 @@ If any OpenArt Continuity QA item fails, reject the shot.
 
 The entire episode must feel like one continuous animated film.
 
-The viewer should never perceive a shot boundary.
+The viewer should experience a cohesive episode. Exact seamlessness is reserved for approved
+linked shots; a clean cut between stronger fresh shots is preferred to degraded continuity.
 
 ---
 

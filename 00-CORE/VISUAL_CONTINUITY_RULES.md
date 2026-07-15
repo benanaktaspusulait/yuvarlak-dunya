@@ -218,15 +218,17 @@ Mekan shot'lar arasında tutarlı olmalıdır.
 
 ## 7. Clean Anchor and Editorial Continuity Rule
 
-Her shot ayrı onaylanmış clean start-frame still ile başlamalıdır. Video çıktısından
-çıkarılmış hiçbir frame production anchor olarak kullanılamaz. Ayrıntılı ve öncelikli kural
+Her shot önceden planlanmış bir start source ile başlamalıdır. Varsayılan kaynak canonical
+referanslardan üretilmiş fresh clean still'dir. Generated final frame yalnızca önceden planlanmış
+linked shot'ta, QA onayıyla ve 2–3 shot zincir sınırı içinde production anchor olabilir.
+Ayrıntılı ve öncelikli kural
 `00-CORE/17_VIDEO_GENERATION_STANDARD.md` içindeki **SHOT COMPLETION AND QUALITY RESET
 RULE** bölümüdür.
 
 ### Kurallar
 
 ```
-- Use the approved clean start-frame still created from canonical references
+- Use the approved start source required by the shot's Production Mode
 - Treat @image1 as the complete visual master reference
 - The first visible frame must be visually indistinguishable from @image1
 - Not similar. Not close. Identical.
@@ -238,7 +240,8 @@ RULE** bölümüdür.
   continuation is not
 - Exact clean-anchor linkage is normally limited to 2 consecutive shots and exceptionally
   limited to 3; then perform a mandatory quality reset
-- Never use a raw, corrected, normalized, graded or upscaled AI-video frame as @image1
+- Never use a corrected, normalized, graded, upscaled or visibly degraded AI-video frame as
+  `@image1`; an original generated final frame is allowed only for an approved linked shot
 ```
 
 ### Master Reference Paragraph

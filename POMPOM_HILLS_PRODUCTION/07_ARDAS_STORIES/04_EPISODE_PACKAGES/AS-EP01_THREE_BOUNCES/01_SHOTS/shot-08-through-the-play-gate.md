@@ -16,15 +16,35 @@
 
 ---
 
+## Shot Completion Contract
+
+| Field | Value |
+|---|---|
+| Production Mode | FRESH QUALITY-RESET SHOT |
+| Clean Start State | The ball is stationary just inside the gate; Arda is safely behind it. |
+| Complete Main Action | The gentle slope starts the roll; the ball crosses the gate and stops on the path while Arda reaches the gate and stops. |
+| Completed End State | The ball is stationary on the path; Arda is stationary at the gate pointing. |
+| Stable Final Anchor | Final tableau holds for the final 2 seconds with breathing, blinking, breeze, and ball-fibre micro-motion. |
+| Next-Shot Dependency | NONE — next shot starts fresh |
+
+Start source: build a new clean shot-specific composition from the canonical Arda, Pompom Ball,
+Arda's Home, and Episode Colour Master references. Do not use the previous generated final frame.
+
+---
+
 ## Purpose
 
-The Pompom Ball rolls through the rounded garden play gate onto a connected, vehicle-free path. Arda reaches the gate and points after it. He says "Wait for me, ball!" as the ball continues with a quiet `frrr-frrr`. The episode ends on this playful, complete question: where will the ball roll next?
+The Pompom Ball begins at rest just inside the rounded garden play gate. The gentle slope starts
+it rolling through the gate onto a connected, vehicle-free path, where it slows and stops. Arda
+reaches the gate, stops, points, and says "Wait for me, ball!" The episode ends on a stable,
+complete tableau.
 
 ---
 
 ## Opening Hook
 
-First 3–5 seconds: The Pompom Ball rolls through the rounded garden play gate onto the soft, safe connecting path. Arda approaches the gate, watching the ball. The garden remains warm and inviting.
+First 3–5 seconds: The Pompom Ball is visibly at rest just inside the rounded garden play gate.
+The gentle slope starts it rolling as Arda approaches safely behind it.
 
 ---
 
@@ -52,10 +72,12 @@ Background locked from first frame. The garden and play gate remain stable. The 
 ## Visual Prompt
 
 ```text
-Medium-wide shot of Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) reaching
-the rounded garden play gate as a soft fluffy Pompom Ball (pastel pink, blue, and yellow blend)
-rolls through it onto a safe, vehicle-free connecting path. Arda points after the ball and says
-"Wait for me, ball!" The garden remains warm: soft grass, rounded shrubs, rounded play gate,
+Medium-wide shot with a soft fluffy Pompom Ball (pastel pink, blue, and yellow blend) fully at rest
+just inside the rounded garden play gate and Arda (energetic boy, brown curly hair, orange t-shirt,
+blue shorts) safely behind it. The gentle slope starts the ball rolling through the gate onto a
+safe, vehicle-free connecting path. It slows and comes fully to rest on the visible path. Arda
+reaches the gate, stops, points after the ball, and says "Wait for me, ball!" The garden remains
+warm: soft grass, rounded shrubs, rounded play gate,
 warm afternoon light. Beyond the gate: a soft, safe connecting path. No vehicles, no road
 traffic, no cliffs, no hard obstacles. Soft pastel colours, warm light, rounded safe shapes,
 no other characters, {style} {camera} {lighting}
@@ -88,16 +110,19 @@ Arda: *calling, playful* Wait for me, ball!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-4 sec | Ball rolls through rounded play gate onto connecting path | Medium-wide shot |
-| 4-8 sec | Arda approaches the gate, watching the ball | Gentle follow |
-| 8-12 sec | Arda reaches the gate, points after the ball | Follow continues |
-| 12-15 sec | Arda says "Wait for me, ball!" as ball continues with `frrr-frrr` | Stable hold |
+| 0-3 sec | Ball is visibly at rest just inside gate | Stable medium-wide |
+| 3-8 sec | Gentle slope starts ball rolling through gate; Arda approaches | Gentle follow |
+| 8-11 sec | Ball slows and stops on path; Arda reaches gate and stops | Camera settles |
+| 11-13 sec | Arda points and says "Wait for me, ball!" | Stable framing |
+| 13-15 sec | Arda and ball hold the final tableau | Stable final anchor |
 
 ---
 
 ## Sound
 
-Soft garden ambience transitioning to soft path ambience: gentle breeze, faint birdsong, warm atmosphere. The ball makes a quiet `frrr-frrr` as it rolls on the path. Arda's "Wait for me, ball!" is playful and calling — clear, not shouting. No music, no dramatic sting.
+Soft garden ambience transitioning to soft path ambience: gentle breeze, faint birdsong, warm
+atmosphere. The ball makes a quiet `frrr-frrr` that fades as it comes to rest on the path. Arda's
+"Wait for me, ball!" is playful and calling — clear, not shouting. No music, no dramatic sting.
 
 ---
 
@@ -137,11 +162,14 @@ blue tint, green tint, orange shift, HDR look
 - [ ] Garden identity preserved: soft grass, rounded shrubs, play gate, warm light.
 - [ ] Connecting path visible beyond gate: safe, vehicle-free, soft edges.
 - [ ] Arda's dialogue reads playful and calling; not distressed or aggressive.
-- [ ] Ball rolls gently through gate; Arda approaches at safe pace.
+- [ ] Ball starts at rest, rolls through gate, and stops completely on the visible path.
+- [ ] Arda reaches the gate and stops; both hold a stable final 2-second tableau.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.
-- [ ] Final 0.5s is calm and transition-safe.
-- [ ] No new action begins in the final 0.5s.
+- [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
+- [ ] Final 1–2 seconds hold the documented stable grounded anchor.
+- [ ] Camera movement settles before the final anchor.
+- [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
 

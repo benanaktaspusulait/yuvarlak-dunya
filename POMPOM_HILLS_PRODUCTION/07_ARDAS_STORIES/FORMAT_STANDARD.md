@@ -132,17 +132,33 @@ episode and uses this structure:
 
 ```text
 AS-EP##_ENGLISH_TITLE/
+├── 00_PREPRODUCTION/
+│   ├── 01-continuity-quality-reset-plan.md
+│   ├── 02-object-prop-map.md
+│   └── 03-pre-generation-qa.md
 ├── 00_EPISODE_OVERVIEW/
 │   ├── 01-overview.md
 │   ├── 02-beat-sheet.md
 │   └── 03-screenplay.md
 ├── 01_SHOTS/                         # shot-01 through shot-08
 ├── 03_VIDEO_EXPORTS/openart/         # prompt 01 through prompt 08
-└── 04_SHORTS/00-shorts-plan.md
+├── 04_SHORTS/00-shorts-plan.md
+└── 05_QA/01-shot-completion-and-quality-reset-test.md
 ```
 
 All scripts, prompts, dialogue, metadata drafts, and production notes in this sub-series must be
 written in English.
+
+Before any video generation, every shot must be assigned a Production Mode and must document its
+Clean Start State, Complete Main Action, Completed End State, Stable Final Anchor, and Next-Shot
+Dependency. Fresh quality-reset generation is the default. Generated final-frame linkage is used
+only when genuinely necessary, normally for at most two and exceptionally three consecutive
+shots; then the production resets from canonical World and character references.
+
+Every episode package must also include a post-generation QA test under `05_QA/`. The test must
+record evidence and PASS/FAIL results for action completion, completed end state, final 1–2-second
+anchor, camera settle, source-mode compliance, identity/object continuity, colour drift, sound,
+safety, and final assembly. A failed mandatory test blocks shot approval and episode assembly.
 
 ---
 

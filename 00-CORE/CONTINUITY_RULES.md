@@ -48,9 +48,10 @@ Referans: `11-DOCS/05_WORLD_BIBLE.md`, `POMPOM_HILLS_PRODUCTION/02_WORLDS/`
 
 ## 3. Camera Continuity
 
-Shot 01 kamerayı belirler.
+Episode planı onaylı kamera dilini belirler.
 
-Sonraki shot'lar önceki kameradan devam eder.
+Fresh shot'lar temiz edit içinde yeni ve yüksek kaliteli kompozisyon kullanabilir. Linked
+shot'lar yalnızca önceden planlandığında önceki final frame'in kamerasını birebir sürdürür.
 
 Ani kamera değişiklikleri yapılmaz.
 
@@ -143,23 +144,30 @@ Doğal yollarla tanıtılır:
 
 ---
 
-## 9. Reference Frame Workflow
+## 9. Reference Frame and Quality-Reset Workflow
 
-Shot 01: Yeni Take Shot.
+Her shot üretimden önce şu modlardan biriyle etiketlenir:
 
-Shot 02-04: Önceki shot'ın continuity frame'inden devam.
+- `FRESH QUALITY-RESET SHOT`
+- `LINKED CONTINUITY SHOT 1`
+- `LINKED CONTINUITY SHOT 2`
+- `LINKED CONTINUITY SHOT 3 — EXCEPTIONAL MAXIMUM`
 
-Otomatik olarak son kareyi kullanma.
+Fresh shot canonical World ve karakter referanslarından, shot'a özel temiz bir başlangıç
+kompozisyonuyla üretilir. Bu varsayılan moddur.
 
-En iyi sürekliliği sağlayan kareyi seç.
+Exact generated final-frame linkage yalnızca fiziksel/uzamsal devamlılık gerçekten gerekliyse
+planlanır. Linked kaynak, önceki shot'ın özgün generated final frame'i olmalı ve identity,
+world, colour, contrast, sharpness, scale ve prop QA'dan geçmelidir. Normal zincir en fazla iki,
+istisnai zincir en fazla üç shot'tır; ardından canonical referanslardan zorunlu fresh reset gelir.
 
-En iyi kare son kareden önce olabilir.
-
-Süreklilik, güzellikten üstün tutulur.
+Her shot kendi ana aksiyonunu tamamlar ve son 1–2 saniyeyi stabil, grounded bir final anchor ile
+bitirir. Bir clean cut, progressive kalite kaybı taşıyan seamless devamlılıktan üstündür.
 
 ### 9.1 First Frame Master Lock
 
-Continuation shot'larda ilk görünen frame, continuity reference frame'den ayırt edilemez olmalıdır.
+Yalnızca linked shot'larda ilk görünen frame, onaylı continuity reference frame'den ayırt
+edilemez olmalıdır.
 
 Benzer değil.
 Yakın değil.
@@ -170,7 +178,7 @@ Required wording:
 ```text
 Treat @image1 as the complete visual master reference.
 Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
-The viewer must not perceive a shot boundary.
+For this explicitly linked shot, the viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 Not similar. Not close. Identical.

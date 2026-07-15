@@ -104,6 +104,25 @@ Closing Bumper: Warm final hold only.
 
 ---
 
+## Continuity and Quality-Reset Schedule
+
+Decide this table before any video generation:
+
+| Shot | Production Mode | Linked chain count | Main action complete? | Stable final 1–2s | Next-shot dependency |
+|---:|---|---:|---|---|---|
+| 01 | FRESH QUALITY-RESET SHOT | 0 | [Yes/No] | [State] | [NONE/LIMITED/EXACT] |
+| 02 | [Mode] | [0–3] | [Yes/No] | [State] | [NONE/LIMITED/EXACT] |
+| 03 | [Mode] | [0–3] | [Yes/No] | [State] | [NONE/LIMITED/EXACT] |
+| 04 | [Mode] | [0–3] | [Yes/No] | [State] | [NONE/LIMITED/EXACT] |
+| 05 | [Mode] | [0–3] | [Yes/No] | [State] | [NONE/LIMITED/EXACT] |
+| 06 | [Mode] | [0–3] | [Yes/No] | [State] | [NONE/LIMITED/EXACT] |
+
+`EXACT FRAME CONTINUITY REQUIRED` is rare and must be justified. A shot after Linked
+Continuity Shot 3 is always fresh. A shot after Linked Continuity Shot 2 should normally be
+fresh. Reject the plan if a simple physical action or camera move is split across shots.
+
+---
+
 ## Repeated Phrase
 
 ```text
@@ -144,7 +163,8 @@ Never replace the voice with a narrator or alternate performer.
 The full episode must appear colour graded as one continuous film.
 Maintain identical white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette across all shots.
 No cool shift. No warm shift. No green tint. No magenta tint. No orange grading. No HDR look. No cinematic LUT.
-The viewer must not perceive a shot boundary.
+Clean shot boundaries must remain visually cohesive; exact seamlessness is required only for
+pre-planned linked shots.
 ```
 
 ---
@@ -181,6 +201,7 @@ Her bölüm klasörü (`04-SCENES/season-NN/sNNeNN-slug/`) şu dosyaları içerm
 | `07-sfx.md` | ✅ | Ses efektleri |
 | `08-animation-notes.md` | ✅ | Animasyon notları |
 | `09-render-prompts.md` | ✅ | OpenArt render promptları |
+| `10-continuity-reset-plan.md` | ✅ | Pre-planned Production Mode, chain count ve reset schedule |
 | `COORDINATE_MAP.md` | ✅ | Koordinat haritası (Kiko=100 birim) |
 | `EPISODE_SUMMARY.md` | ✅ | İngilizce bölüm özeti |
 | `EPISODE_SUMMARY_TR.md` | ✅ | Türkçe bölüm özeti |
@@ -231,8 +252,12 @@ Required episode-level checks:
 - [ ] Full video watched once for character continuity and once for background/object stability.
 - [ ] No character disappears, teleports, regenerates after occlusion or becomes fully hidden inside any shot.
 - [ ] No background object moves, morphs, duplicates, disappears or changes identity.
-- [ ] Episode feels like one uninterrupted animated film.
-- [ ] The viewer cannot perceive where one shot ends and the next begins.
+- [ ] Episode feels visually cohesive even when clean editorial cuts are used.
+- [ ] Every shot completes its own main action and camera move.
+- [ ] Every shot has a stable, grounded final 1–2 seconds.
+- [ ] Production Mode and linked-chain count are approved before generation.
+- [ ] No linked chain exceeds two normally or three exceptionally.
+- [ ] Mandatory quality resets return to canonical World and character references.
 - [ ] If an opening bumper is used, it is 3–5 seconds maximum and does not delay the story (`00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §4a).
 - [ ] If a closing bumper is used, it is 3–6 seconds maximum and gives a warm resolution (`00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` §9a).
 

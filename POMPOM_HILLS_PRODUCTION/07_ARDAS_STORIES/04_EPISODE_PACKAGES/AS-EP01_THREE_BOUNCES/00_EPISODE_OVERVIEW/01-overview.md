@@ -17,6 +17,7 @@
 | Learning areas | Counting, cause and effect, fast/slow, left/right, persistence, turn-taking |
 | Opening | Direct in-story hook; no dependency on another episode |
 | Closing | Complete 120-second ending; no transition into another episode |
+| Production strategy | 8 fresh quality-reset shots; no generated final-frame chaining |
 
 ---
 
@@ -30,6 +31,17 @@ Establish the counting game and end when the Pompom Ball rolls through the play 
 
 This is a complete, independently publishable Arda's Stories episode. Its hook, action, learning
 payoff, and closing are contained within eight 15-second shots.
+
+## Pre-Production Sources
+
+- `../00_PREPRODUCTION/01-continuity-quality-reset-plan.md`
+- `../00_PREPRODUCTION/02-object-prop-map.md`
+- `../00_PREPRODUCTION/03-pre-generation-qa.md`
+- `../05_QA/01-shot-completion-and-quality-reset-test.md`
+- `../05_QA/02-qa-run-2026-07-15.md`
+
+Every shot completes its own main action and holds a stable grounded final anchor for the last
+1–2 seconds. Clean cuts carry the story between fresh highest-quality generations.
 
 ---
 

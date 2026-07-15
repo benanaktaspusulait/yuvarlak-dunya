@@ -24,6 +24,27 @@ Bu şablonu kullanarak yeni sahne dosyası oluşturun.
 | Hava | [Gündüz/Gece/Gün batımı] |
 | En-boy | 16:9 |
 | Süre | 15 saniye |
+| Production Mode | [FRESH QUALITY-RESET SHOT / LINKED CONTINUITY SHOT 1 / LINKED CONTINUITY SHOT 2 / LINKED CONTINUITY SHOT 3 — EXCEPTIONAL MAXIMUM] |
+
+## Clean Start State
+
+[Character positions, facing directions, scales, camera distance/angle, visible environment anchors and emotional start state.]
+
+## Complete Main Action
+
+[One primary action that begins and finishes inside this shot.]
+
+## Completed End State
+
+[Exact visual state after all major character/object/camera movement has finished.]
+
+## Stable Final Anchor
+
+[Final 1–2 seconds: grounded pose, settled camera, stable scale, only natural micro-motion.]
+
+## Next-Shot Dependency
+
+[NONE — next shot starts fresh / LIMITED VISUAL CONTINUITY ONLY / EXACT FRAME CONTINUITY REQUIRED + justification]
 
 ### Mekan Zone Kuralı
 
@@ -96,14 +117,22 @@ Never make the character sound older or younger.
 
 If multiple shots belong to the same episode, their voices must sound as if they were recorded during the same recording session.
 
-## First Frame Lock
+## First Frame Source
 
-For Shot 02+ continuation shots:
+For fresh quality-reset shots:
+
+```text
+Build @image1 fresh from the canonical approved World, character references and a clean
+shot-specific composition at the highest reliable quality. Do not use the previous final
+frame as the primary visual source.
+```
+
+For explicitly linked shots only:
 
 ```text
 Treat @image1 as the complete visual master reference.
 Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
-The viewer must not perceive a shot boundary.
+For this explicitly linked mode, the viewer must not perceive a shot boundary.
 
 The first visible frame must be visually indistinguishable from @image1.
 Not similar. Not close. Identical.
@@ -159,14 +188,16 @@ LIGHTING
 
 ----------------------------------------
 COLOUR CONTINUITY
-Match the previous shot exactly.
+Match the approved Episode Colour Master. In linked mode, also preserve the prior frame's
+placement and exposure unless it carries visible degradation.
 Maintain identical white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette.
 Never introduce cool shift, warm shift, green tint, magenta tint, orange grading, HDR look or cinematic LUT.
 The entire episode must appear colour graded as one continuous film.
 
 ----------------------------------------
 LIGHTING CONTINUITY
-Preserve the lighting from the previous shot exactly.
+Preserve the approved episode lighting identity. In linked mode, also preserve the prior
+frame's light direction and shadow softness unless a quality reset is required.
 Maintain identical light direction, light intensity, shadow softness, ambient lighting, highlight behaviour, cloud brightness and grass brightness.
 Do not reinterpret the lighting. Continue it.
 
@@ -202,12 +233,13 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Continuity
 
 - Önceki sahne: [Önceki sahne referansı]
-- Continuity frame: [Kare referansı]
+- Production Mode: [Mode + linked chain count]
+- Start reference: [fresh canonical clean reference / QA-approved linked frame]
 - Devam kuralları: `CONTINUITY_RULES.md`
 - Voice continuity: same Voice ID or approved voice reference for each speaking character
 - Shot production standard: `00-CORE/SHOT_PRODUCTION_STANDARD.md`
-- Colour continuity: match previous shot white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette
-- Lighting continuity: match previous shot light direction, intensity, shadow softness, ambient lighting and highlight behaviour
+- Colour continuity: match the Episode Colour Master across white balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette
+- Lighting continuity: match the approved episode lighting identity; preserve exact prior-frame lighting only in linked mode
 
 ## Required Global QA Locks
 
@@ -234,6 +266,14 @@ Standards: `00-CORE/17_VIDEO_GENERATION_STANDARD.md`,
 - [ ] If this world has sub-zones, the correct zone is specified in Mekan (not just the world name)
 - [ ] Zone-specific Spatial Anchor and Reference Use are filled in (if zone applies)
 - [ ] Required Global QA Locks section included
+- [ ] Production Mode matches the episode reset schedule
+- [ ] Clean Start State documented
+- [ ] Complete Main Action begins and finishes inside this shot
+- [ ] Completed End State documented
+- [ ] Stable Final Anchor reserves the final 1–2 seconds
+- [ ] Next-Shot Dependency documented; EXACT is rare and justified
+- [ ] Camera movement finishes and settles inside this shot
+- [ ] Linked chain count does not exceed 2 normally / 3 exceptionally
 - [ ] Character integrity verified
 - [ ] Character consistency verified
 - [ ] Intra-shot character continuity verified
@@ -247,10 +287,10 @@ Standards: `00-CORE/17_VIDEO_GENERATION_STANDARD.md`,
 - [ ] Camera consistency verified
 - [ ] Camera does not create hiding, reset, layout morphing or a new location reveal
 - [ ] Lighting consistency verified
-- [ ] Light direction, intensity, shadow softness, ambient lighting and highlight behaviour match previous shot
+- [ ] Light direction, intensity, shadow softness, ambient lighting and highlight behaviour match the approved episode lighting identity
 - [ ] Colour identity verified
-- [ ] White balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette match previous shot
-- [ ] The viewer cannot perceive a shot boundary
+- [ ] White balance, exposure, colour temperature, saturation, contrast, brightness and pastel palette match the Episode Colour Master
+- [ ] The edit is visually cohesive; exact seamlessness is required only for an approved linked shot
 - [ ] Canonical rules followed
 ```
 
