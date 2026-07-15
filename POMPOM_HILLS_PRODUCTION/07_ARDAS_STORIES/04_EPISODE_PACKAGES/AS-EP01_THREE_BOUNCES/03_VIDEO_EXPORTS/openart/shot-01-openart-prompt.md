@@ -28,6 +28,11 @@ gentle shadows, stable warm white balance, no HDR, no glossy shine.
 The Arda's Home garden background is locked from the first frame; keep the visible house
 exterior, fence, grass, shrubs, play gate, lighting and environment layout stable.
 
+CRITICAL: Use only the small complete sky-blue house with orange roof in the rear-left background.
+Keep the large partial house at the far-left completely outside the camera frame for the entire shot.
+Do not pan, rotate, orbit or drift toward screen-left. If a second house, partial roof, close wall,
+giant doorway or duplicate architecture enters the frame at any moment, reject the result.
+
 Treat the OpenArt result as video-only. Do not generate spoken dialogue, voices, subtitles,
 captions, speech bubbles or on-screen text. Dialogue and all audio are added separately in
 post-production.
@@ -38,6 +43,35 @@ Extreme close-up on the Pompom Ball filling the frame. Use exactly one slow cont
 pull-back as Arda catches it to reveal his delighted face and the garden. After that single
 pull-back, the child-eye-level camera locks completely through the final stable anchor. No
 additional camera movement, zoom, reframe, or scale change. No fast zooms or dramatic angles.
+
+## CRITICAL WORLD CAMERA LOCK
+
+Use the small complete sky-blue house with the orange roof in the rear-left background as the only visible house.
+
+Keep the large partial house located close to the far-left side of the world completely outside the camera frame for the entire shot.
+
+The large partial house must not appear:
+
+- at the beginning,
+- during the pull-back,
+- or in the final frame.
+
+Start tightly on the Pompom Ball.
+
+Use exactly one straight, slow controlled pull-back.
+
+Do not pan, rotate, orbit or drift toward screen-left.
+
+The final composition must reveal:
+
+- Arda,
+- the open central play lawn,
+- the small complete rear-left house,
+- and the screen-right garden gate.
+
+Do not reveal a second house, partial roof, close wall, giant doorway or duplicate architecture.
+
+If the large foreground house enters the frame at any moment, reject the result.
 
 ## POST-PRODUCTION VOICE LOCK — DO NOT PASTE INTO OPENART
 

@@ -62,6 +62,46 @@ First story shot of AS-EP01 — Three Bounces. Establish the characters, locatio
 
 Background locked from first frame. The garden — soft grass, rounded shrubs, safe play gate, warm afternoon light — remains stable. Only Arda and the Pompom Ball move. The ball fills the frame initially, then reveals the garden.
 
+## Current World Camera Safety Lock
+
+The current Arda's Home world contains:
+
+- one small complete house in the rear-left background,
+- and one large partial duplicate house close to the far-left side of the world.
+
+For this shot, use the small complete rear-left house as the only visible house.
+
+Keep the large partial duplicate house completely outside the camera frame for the entire shot.
+
+The duplicate house must not appear:
+
+- in the first frame,
+- during the controlled pull-back,
+- in the final composition,
+- or at any point between them.
+
+Do not pan, orbit, rotate or drift toward screen-left.
+
+The controlled pull-back must travel straight backward only.
+
+The final wide composition must reveal:
+
+- Arda,
+- the open central play lawn,
+- the small complete rear-left house,
+- and the screen-right play gate.
+
+Do not reveal:
+
+- a second house,
+- a partial roof,
+- a close blue wall,
+- a giant doorway,
+- duplicate windows,
+- or any foreground architecture.
+
+If any part of the large duplicate house enters the frame, reject the shot.
+
 ---
 
 ## Visual Prompt
@@ -71,9 +111,9 @@ Extreme close-up of a soft fluffy Pompom Ball (pastel pink, blue, and yellow ble
 frame, rising gently with a soft poof, revealing Arda's (energetic boy, brown curly hair, orange
 t-shirt, blue shorts) delighted face behind it. He catches the ball securely in both hands and
 smiles. Use exactly one slow controlled pull-back for the ball-to-Arda reveal, then lock the
-camera for the remainder of the shot. Arda's Home garden: soft grass, rounded shrubs, safe play gate in background, warm
+camera for the remainder of the shot. Use the small complete sky-blue house in the rear-left background as the only visible house. Keep the large partial duplicate house on the far-left side of the world completely outside the frame. Pull back in one straight line only. Do not pan, rotate, orbit or drift toward screen-left. Arda's Home garden: soft grass, rounded shrubs, safe play gate in background, warm
 afternoon light. Soft pastel colours, warm light, rounded safe shapes, no other characters,
-{style} {camera} {lighting}
+soft rounded 3D preschool animation, matte handcrafted toy-set materials, warm pastel palette, medium-low contrast, gentle low-stimulation Pompom Hills visual language, warm soft natural afternoon light, soft highlights, gentle shadows, stable warm white balance, no HDR, no glossy shine
 
 The garden background is locked from the first frame; keep grass, shrubs, play gate stable.
 
@@ -90,6 +130,8 @@ Extreme close-up on the Pompom Ball filling the frame. Use exactly one slow cont
 as Arda catches it to reveal his delighted face and the garden. After that single pull-back, the
 child-eye-level camera locks completely through the final stable anchor. No additional camera
 movement, zoom, reframe, or scale change. No fast zooms or dramatic angles.
+
+Before generation, position the camera so the large partial duplicate house is already outside the left frame boundary. The pull-back must not widen far enough to reveal it.
 
 ---
 
@@ -114,9 +156,27 @@ Arda: *delighted, soft* Got it!
 
 ---
 
-## Sound
+## Sound — POST-PRODUCTION ONLY
 
-Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball makes a soft `poof` as it rises. Arda's "Got it!" is delighted and soft — not loud, not shouting. No music, no dramatic sting.
+Continuous natural garden ambience from the first frame to the final frame:
+
+- gentle warm breeze,
+- very soft grass and leaf rustling,
+- sparse distant birdsong,
+- subtle peaceful outdoor atmosphere.
+
+No music.
+No melody.
+No dramatic sound design.
+No visible birds or animals are introduced.
+No sudden ambience changes between shots.
+Keep the same ambience identity and volume across all garden shots.
+
+Layered over this continuous ambience in post-production:
+
+- the soft `poof` as the Pompom Ball rises,
+- Arda's "Got it!" — delighted and soft, not loud, not shouting,
+- any gentle catch or ball-fibre sound at the moment of catch.
 
 ---
 
@@ -160,6 +220,10 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] Complete Main Action finishes inside this shot; no action crosses the cut.
 - [ ] Final 1–2 seconds hold the documented stable grounded anchor.
 - [ ] Exactly one slow controlled pull-back is used; camera then remains locked through the final anchor.
+- [ ] Only the small complete rear-left house is visible.
+- [ ] The large partial duplicate house never enters the frame.
+- [ ] No partial roof, close wall, giant doorway or duplicate windows appear.
+- [ ] The pull-back travels straight backward without screen-left rotation or drift.
 - [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
@@ -254,11 +318,13 @@ Do not apply per-shot beauty enhancement, HDR, sharpening, contrast boost, satur
 
 ## Template Placeholder Resolution
 
-The tokens `{style}`, `{camera}` and `{lighting}` are internal template placeholders.
+The tokens `{style}` and `{lighting}` are internal template placeholders.
 
-Before copying the Visual Prompt into OpenArt, replace them with the approved episode-specific text.
+The `{camera}` token has been removed — Camera Direction already controls the camera.
 
-Never paste unresolved `{style}`, `{camera}` or `{lighting}` tokens into OpenArt.
+Before copying the Visual Prompt into OpenArt, replace the remaining placeholders with the approved episode-specific text.
+
+Never paste unresolved tokens into OpenArt.
 
 ## Final Production Reminder
 

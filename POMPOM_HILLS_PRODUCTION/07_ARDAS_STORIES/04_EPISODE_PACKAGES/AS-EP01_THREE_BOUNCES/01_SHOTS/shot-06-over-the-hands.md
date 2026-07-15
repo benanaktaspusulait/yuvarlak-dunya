@@ -104,10 +104,14 @@ final stable anchor.
 ## Dialogue
 
 ```text
-Arda: *surprised, soft* Oh!
+Arda: *mildly surprised* Oh! It's rolling!
+Arda: *playful concern* Wait, Pompom Ball!
+Arda: *relieved* Phew... it stopped near the gate.
 ```
 
-> **Hook Purpose:** The stationary ball beginning to roll unexpectedly creates the episode's central problem. Arda's gentle surprise keeps the moment playful, curious and preschool-safe.
+> **Hook Purpose:** "Oh! It's rolling!" reacts to the unexpected movement. "Wait, Pompom Ball!" shows playful concern during the reach. "Phew... it stopped near the gate." provides relief after the ball stops.
+
+> **POST-PRODUCTION ONLY:** Dialogue is added separately in post using the approved existing Arda voice. Do not generate new voices in OpenArt.
 
 ---
 
@@ -115,19 +119,37 @@ Arda: *surprised, soft* Oh!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Ball is visibly at rest; Arda notices it | Stable medium-wide |
-| 3-8 sec | Gentle slope starts the ball rolling toward the gate | Locked camera |
-| 8-11 sec | Arda takes one safe step and reaches once; says "Oh!" | Both remain visible |
-| 11-13 sec | Ball slows and comes fully to rest before gate; Arda stops | Locked camera |
-| 13-15 sec | Arda and ball remain stationary | Stable final anchor |
+| 0.0–0.4 sec | Stable edit-safe state with ball fully at rest | Preserve documented camera composition |
+| 0.4–2.3 sec | Ball begins rolling; Arda notices and visibly mouths "Oh! It's rolling!" | Preserve documented camera behaviour |
+| 2.3–7.4 sec | Ball continues one gentle roll with soft rolling sound | Preserve documented camera behaviour |
+| 7.4–9.4 sec | Arda takes one safe step, reaches once and visibly mouths "Wait, Pompom Ball!" | Preserve documented camera behaviour |
+| 9.4–11.3 sec | Ball slows and stops before the gate; Arda stops safely | Camera settles |
+| 11.3–13.7 sec | Arda visibly mouths "Phew... it stopped near the gate." | Stable readable framing |
+| 13.7–15.0 sec | Natural closed-mouth final state | Stable final anchor |
 
 ---
 
-## Sound
+## Sound — POST-PRODUCTION ONLY
 
-Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball makes a
-gentle `frrr-frrr` while rolling, fading naturally as it stops. Arda's "Oh!" is surprised and soft
-— not distressed, not shouting. No music, no dramatic sting.
+Continuous natural garden ambience from the first frame to the final frame:
+
+- gentle warm breeze,
+- very soft grass and leaf rustling,
+- sparse distant birdsong,
+- subtle peaceful outdoor atmosphere.
+
+No music.
+No melody.
+No dramatic sound design.
+No visible birds or animals are introduced.
+No sudden ambience changes between shots.
+Keep the same ambience identity and volume across all garden shots.
+
+Layered over this continuous ambience in post-production:
+
+- soft rolling `frrr-frrr` sound while the ball is in motion, fading naturally as it stops,
+- Arda's dialogue — "Oh! It's rolling!" / "Wait, Pompom Ball!" / "Phew... it stopped near the gate." — surprised, playful, relieved, not distressed, not shouting,
+- gentle footsteps during the single safe step and reach.
 
 ---
 
@@ -176,6 +198,19 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
+
+## Dead-Air Audit
+
+- [ ] The first meaningful beat begins after no more than 0.4 seconds.
+- [ ] No inactive silent interval lasts longer than approximately 0.8 seconds.
+- [ ] Dialogue is not delayed until the final seconds.
+- [ ] Every dialogue phrase connects directly to the current story action.
+- [ ] Any dialogue-free interval contains clear physical action or meaningful object movement.
+- [ ] Ball movement has an appropriate soft post-production sound effect.
+- [ ] No empty staring or frozen smiling occurs.
+- [ ] The final stable anchor lasts only approximately 1.2–1.5 seconds.
+- [ ] Arda's mouth closes naturally before the final anchor.
+- [ ] No additional character is introduced.
 
 ---
 

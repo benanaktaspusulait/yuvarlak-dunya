@@ -105,10 +105,14 @@ anchor.
 ## Dialogue
 
 ```text
-Arda: *calling, playful* Wait for me, ball!
+Arda: *surprised, playful* Oh! It's moving again!
+Arda: *amazed* Through the gate!
+Arda: *calling, playful* Wait for me, Pompom Ball!
 ```
 
-> **Hook Purpose:** The ball leaving the garden creates a gentle cliffhanger. Arda's call "Wait for me, ball!" is playful and inviting — not distressed.
+> **Hook Purpose:** "Oh! It's moving again!" reacts to the breeze-nudged movement. "Through the gate!" marks the transition moment. "Wait for me, Pompom Ball!" provides the playful cliffhanger.
+
+> **POST-PRODUCTION ONLY:** Dialogue is added separately in post using the approved existing Arda voice. Do not generate new voices in OpenArt.
 
 ---
 
@@ -116,19 +120,39 @@ Arda: *calling, playful* Wait for me, ball!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-3 sec | Ball is visibly at rest just inside gate | Stable medium-wide |
-| 3-8 sec | One brief gentle breeze nudges ball; it rolls slowly through gate; Arda approaches | Locked camera |
-| 8-11 sec | Ball slows and stops on path; Arda reaches gate and stops | Locked camera |
-| 11-13 sec | Arda points and says "Wait for me, ball!" | Stable framing |
-| 13-15 sec | Arda and ball hold the final tableau | Stable final anchor |
+| 0.0–0.4 sec | Stable edit-safe state; ball fully at rest | Preserve documented camera composition |
+| 0.4–2.3 sec | Ball begins moving; Arda visibly mouths "Oh! It's moving again!" | Preserve documented camera behaviour |
+| 2.3–8.4 sec | Ball rolls completely through gate and stops on safe path; Arda approaches safely | Preserve documented camera behaviour |
+| 8.4–10.4 sec | Arda reaches the gate and stops; ball remains stationary | Camera settles |
+| 10.4–11.8 sec | Arda visibly mouths "Through the gate!" | Stable readable framing |
+| 11.8–13.6 sec | Arda points and visibly mouths "Wait for me, Pompom Ball!" | Stable readable framing |
+| 13.6–15.0 sec | Natural closed-mouth final tableau | Stable final anchor |
 
 ---
 
-## Sound
+## Sound — POST-PRODUCTION ONLY
 
-Soft garden ambience transitioning to soft path ambience: one brief gentle breeze, faint birdsong, warm
-atmosphere. The ball makes a quiet `frrr-frrr` that fades as it comes to rest on the path. Arda's
-"Wait for me, ball!" is playful and calling — clear, not shouting. No music, no dramatic sting.
+Continuous natural garden ambience transitioning to soft path ambience from the first frame to the
+final frame:
+
+- gentle warm breeze,
+- very soft grass and leaf rustling,
+- sparse distant birdsong,
+- subtle peaceful outdoor atmosphere,
+- soft path surface ambience visible beyond the gate.
+
+No music.
+No melody.
+No dramatic sound design.
+No visible birds or animals are introduced.
+No sudden ambience changes between shots.
+Keep the same ambience identity and volume across all garden shots.
+
+Layered over this continuous ambience in post-production:
+
+- soft rolling `frrr-frrr` sound while the ball is in motion, fading as it comes to rest on the path,
+- Arda's dialogue — "Oh! It's moving again!" / "Through the gate!" / "Wait for me, Pompom Ball!" — surprised, amazed, playful and calling, clear, not shouting,
+- gentle footsteps during Arda's approach to the gate.
 
 ---
 
@@ -181,6 +205,19 @@ blue tint, green tint, orange shift, HDR look
 - [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
+
+## Dead-Air Audit
+
+- [ ] The first meaningful beat begins after no more than 0.4 seconds.
+- [ ] No inactive silent interval lasts longer than approximately 0.8 seconds.
+- [ ] Dialogue is not delayed until the final seconds.
+- [ ] Every dialogue phrase connects directly to the current story action.
+- [ ] Any dialogue-free interval contains clear physical action or meaningful object movement.
+- [ ] Ball movement has an appropriate soft post-production sound effect.
+- [ ] No empty staring or frozen smiling occurs.
+- [ ] The final stable anchor lasts only approximately 1.2–1.5 seconds.
+- [ ] Arda's mouth closes naturally before the final anchor.
+- [ ] No additional character is introduced.
 
 ---
 

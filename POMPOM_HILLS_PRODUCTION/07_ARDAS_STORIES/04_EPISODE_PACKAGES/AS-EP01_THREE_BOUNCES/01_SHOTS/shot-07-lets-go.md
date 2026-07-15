@@ -35,7 +35,7 @@ Arda's Home, and Episode Colour Master references. Do not use the previous gener
 ## Purpose
 
 Arda looks from the stationary ball near the gate to his empty hands, then smiles with determined
-curiosity. He says "The ball got away. Let's go!", walks at a safe pace to a clear garden marker,
+curiosity. He says "It's near the gate. Let's go!", walks at a safe pace to a clear garden marker,
 and stops. This completes his decision-and-walk action inside the shot.
 
 ---
@@ -100,10 +100,13 @@ complete walk and stop occur inside the existing fixed frame. The camera remains
 ## Dialogue
 
 ```text
-Arda: *determined, curious* The ball got away. Let's go!
+Arda: *curious, determined* It's near the gate. Let's go!
+Arda: *pleased* There you are, Pompom Ball!
 ```
 
-> **Hook Purpose:** Arda's decision to follow the ball establishes his proactive character. The catchphrase "Let's go!" is inviting and action-oriented.
+> **Hook Purpose:** "It's near the gate. Let's go!" establishes Arda's proactive decision. "There you are, Pompom Ball!" provides a pleased arrival beat.
+
+> **POST-PRODUCTION ONLY:** Dialogue is added separately in post using the approved existing Arda voice. Do not generate new voices in OpenArt.
 
 ---
 
@@ -111,19 +114,35 @@ Arda: *determined, curious* The ball got away. Let's go!
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-4 sec | Arda looks from stationary ball to empty hands | Medium-wide shot |
-| 4-8 sec | Arda looks at empty hands, then smiles with determination | Stable framing |
-| 8-12 sec | Arda says "The ball got away. Let's go!" | Locked camera; no reframe |
-| 11-13 sec | Arda walks toward a clear garden marker at safe pace | Locked camera |
-| 13-15 sec | Arda stops, balanced; ball remains stationary | Stable final anchor |
+| 0.0–0.4 sec | Stable edit-safe starting state | Preserve documented camera composition |
+| 0.4–2.8 sec | Arda visibly mouths "It's near the gate. Let's go!" | Preserve documented camera behaviour |
+| 2.8–10.7 sec | Arda walks safely to the documented marker; ball remains fully stationary | Preserve documented camera behaviour |
+| 10.7–13.6 sec | Arda stops and visibly mouths "There you are, Pompom Ball!" | Stable readable framing |
+| 13.6–15.0 sec | Natural closed-mouth final state | Stable final anchor |
 
 ---
 
-## Sound
+## Sound — POST-PRODUCTION ONLY
 
-Soft garden ambience: gentle breeze, faint birdsong, warm afternoon atmosphere. The ball remains
-silent and stationary. Arda's dialogue is determined and curious — clear, not shouting. No music,
-no dramatic sting.
+Continuous natural garden ambience from the first frame to the final frame:
+
+- gentle warm breeze,
+- very soft grass and leaf rustling,
+- sparse distant birdsong,
+- subtle peaceful outdoor atmosphere.
+
+No music.
+No melody.
+No dramatic sound design.
+No visible birds or animals are introduced.
+No sudden ambience changes between shots.
+Keep the same ambience identity and volume across all garden shots.
+
+Layered over this continuous ambience in post-production:
+
+- gentle footsteps during the walk to the marker,
+- Arda's dialogue — "It's near the gate. Let's go!" / "There you are, Pompom Ball!" — curious, determined, pleased, clear, not shouting,
+- the ball remains silent and stationary.
 
 ---
 
@@ -171,6 +190,19 @@ realistic proportions, cinematic LUT, blue tint, green tint, orange shift, HDR l
 - [ ] No new action begins during the stable final 2-second anchor.
 - [ ] Post-production transition note is present.
 - [ ] Transition instructions are not inside the OpenArt Visual Prompt.
+
+## Dead-Air Audit
+
+- [ ] The first meaningful beat begins after no more than 0.4 seconds.
+- [ ] No inactive silent interval lasts longer than approximately 0.8 seconds.
+- [ ] Dialogue is not delayed until the final seconds.
+- [ ] Every dialogue phrase connects directly to the current story action.
+- [ ] Any dialogue-free interval contains clear physical action or meaningful object movement.
+- [ ] Ball movement has an appropriate soft post-production sound effect.
+- [ ] No empty staring or frozen smiling occurs.
+- [ ] The final stable anchor lasts only approximately 1.2–1.5 seconds.
+- [ ] Arda's mouth closes naturally before the final anchor.
+- [ ] No additional character is introduced.
 
 ---
 
