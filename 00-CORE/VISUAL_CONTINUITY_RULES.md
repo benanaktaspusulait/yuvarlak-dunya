@@ -70,13 +70,14 @@ Her shot korumalıdır:
 ### Production Rules
 
 ```
-Match the colour grading of the previous shot.
+Match the episode's approved clean colour master and canonical World references.
 
 Avoid any colour shift: no cool shift, warm shift, green tint, magenta tint, orange grading, HDR look or cinematic LUT.
 
 Do not introduce cinematic grading.
 
-The continuity reference image is also the colour reference.
+The approved clean colour master is the colour reference. A generated video frame is not
+a colour or production-anchor reference.
 
 The entire episode must appear colour graded as one continuous film.
 ```
@@ -215,14 +216,17 @@ Mekan shot'lar arasında tutarlı olmalıdır.
 
 ---
 
-## 7. Frame Continuity Rule
+## 7. Clean Anchor and Editorial Continuity Rule
 
-Her continuation shot, bir önceki shot'ın reference frame'inden devam etmelidir.
+Her shot ayrı onaylanmış clean start-frame still ile başlamalıdır. Video çıktısından
+çıkarılmış hiçbir frame production anchor olarak kullanılamaz. Ayrıntılı ve öncelikli kural
+`00-CORE/17_VIDEO_GENERATION_STANDARD.md` içindeki **SHOT COMPLETION AND QUALITY RESET
+RULE** bölümüdür.
 
 ### Kurallar
 
 ```
-- Use the approved continuity reference frame
+- Use the approved clean start-frame still created from canonical references
 - Treat @image1 as the complete visual master reference
 - The first visible frame must be visually indistinguishable from @image1
 - Not similar. Not close. Identical.
@@ -230,17 +234,22 @@ Her continuation shot, bir önceki shot'ın reference frame'inden devam etmelidi
 - Only after the first frame matches perfectly may animation begin
 - Do not reinterpret the starting frame
 - Match: framing, camera distance, character positions, colour identity, lighting identity, exposure, white balance, atmosphere, world proportions, character proportions and character performance
-- The viewer must not perceive a shot boundary
+- The viewer may perceive a clean editorial cut; story continuity is mandatory, pixel-level
+  continuation is not
+- Exact clean-anchor linkage is normally limited to 2 consecutive shots and exceptionally
+  limited to 3; then perform a mandatory quality reset
+- Never use a raw, corrected, normalized, graded or upscaled AI-video frame as @image1
 ```
 
 ### Master Reference Paragraph
 
-Every continuation shot prompt should include:
+Every shot prompt should include:
 
 ```text
 Treat @image1 as the complete visual master reference.
+@image1 is a separately approved clean production still, not a frame extracted from video.
 Preserve not only framing, but also colour identity, lighting identity, exposure, white balance, atmosphere, environment identity, character proportions, and character performance.
-The viewer must not perceive a shot boundary.
+Preserve story continuity through placement, screen direction, world identity and editing.
 
 The first visible frame must be visually indistinguishable from @image1.
 Not similar. Not close. Identical.

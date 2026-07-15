@@ -85,7 +85,36 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | Rolling Ball EP02 — Puf Puf Zıplama | Luca | Merkez Mekan | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Where is the Blue Ball? EP01 | Kiko | Merkez Mekan | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Where is the Blue Ball? EP02 | Mimi | Bahçe | Pompom Objects | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| AS-EP01 — The Runaway Pompom Ball | Arda, Luca, Noah | Arda's Home → Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP01 — Three Bounces | Arda | Arda's Home | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP02 — Roll, Roll, Roll | Arda | Safe connecting play path | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP03 — Your Turn | Arda, Luca, Noah | Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP04 — The Gap | Arda, Luca, Noah | Arda's Home | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP05 — Too Narrow | Arda, Luca, Noah | Building Corner | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP06 — Let's Cross! | Arda, Luca, Noah | Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP07 — The Fall | Arda | Arda's Home — Indoor Play Area | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP08 — Wider Base | Arda | Arda's Home — Indoor Play Area → Garden | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP09 — Let's Build Together | Arda, Luca, Noah | Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP10 — First Shadow | Arda | Arda's Home Garden | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP11 — Shadow Dance | Arda | Arda's Home Garden → Path | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP12 — Our Shadows | Arda, Luca, Noah | Path → Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP13 — First Tap | Arda | Arda's Home Indoor Play Area | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP14 — The Beat | Arda | Arda's Home Garden → Path | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP15 — Drum Circle | Arda, Luca, Noah | Path → Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP16 — First Splash | Arda | Arda's Home Garden after rain | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP17 — Reflection Game | Arda | Arda's Home Garden → Path | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP18 — Splash Friends | Arda, Luca, Noah | Path → Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP19 — No Wind | Arda | Arda's Home Garden → Small Hill | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP20 — Waiting for Wind | Arda | Hilltop → Open Sky | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP21 — Flying Together | Arda, Luca, Noah | Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP22 — The Leaf Appears | Arda | Arda's Home Garden | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP23 — Where Did It Go? | Arda | Flower Corner → Garden | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP24 — Found Together | Arda, Luca, Noah | Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP25 — First Float | Arda | Arda's Home Garden — shallow stream | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP26 — Gentle Push | Arda | Arda's Home Garden → Bridge Spot | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP27 — Boat Parade | Arda, Luca, Noah | Bridge Spot → Friendship Meadow | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP28 — First Roll | Arda | Arda's Home garden → Tree area | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP29 — Surface Discovery | Arda | Tree area → Meadow path edges | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| AS-EP30 — Rolling Race | Arda, Luca, Noah | Friendship Meadow path | Arda's Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 
 > Yeni içerik üretildikçe/yayınlandıkça satır ekleyin ve ilgili durum sütununu güncelleyin.
 > "Series / Playlist" sütunu, bölümün ait olduğu tekrarlayan alt-seri/playlist'i işaretler (bkz. `11-DOCS/02_SEASON_STRATEGY.md` § Recurring Sub-Series). Tek seferlik bölümler için "—" kullanın.

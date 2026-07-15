@@ -1,6 +1,34 @@
 # Shot 05 — Kiko Names the Feeling
 
-STATUS: READY ONLY AFTER THE CORRECTED APPROVED PREVIOUS SHOT FINAL FRAME HAS BEEN VISUALLY CHECKED.
+STATUS: READY ONLY AFTER THE CLEAN SHOT 05 START-FRAME STILL HAS BEEN VISUALLY APPROVED.
+
+## SHOT 05 CLEAN START-FRAME CREATION — COMPLETE BEFORE VIDEO
+
+Create a fresh highest-quality horizontal 16:9 opening composition using the approved
+Flower Hill World and the approved Mimi and Kiko character identity references.
+
+This must be a separately generated clean production still. Do not extract, correct,
+normalize, grade, upscale, screenshot or reuse any frame from Shot 04 video.
+
+Compose a calm wide two-character view with Kiko on the open grass to the left of the
+stepping-stone path and Mimi on the right. Show both characters fully from head/ears to
+feet, correctly scaled, separate and grounded, with the central path, flower beds, rolling
+hills and sufficient environment visible around them. Preserve story screen direction and
+placement logic from Shot 04 without copying its pixels or accumulated defects.
+
+Approve character identity, world fidelity, camera, scale, colour, lighting, sharpness,
+ground contact and clean composition before video generation.
+
+## SHOT 05 CLEAN END-FRAME CREATION — USE WHEN SUPPORTED
+
+Create and approve a separate clean end-frame still from the same canonical Flower Hill
+World, approved Mimi and Kiko identities and locked Shot 05 composition. Show the completed
+learning recap: both characters fully grounded, all gestures finished, Mimi calm and
+smiling, Kiko's hand settled close to her own torso, and the camera completely stable.
+
+Use Start Frame + End Frame mode whenever available. This clean end still is not derived
+from video and is not the start anchor for Shot 06, which is a mandatory fresh quality
+reset.
 
 ## COPY TO OPENART
 
@@ -10,15 +38,16 @@ Kiko names Mimi’s feeling as excitement and explains that Mimi’s body gave h
 
 This is the only intentional body-clue recap in the episode. It must feel like learning consolidation, not repeated confusion.
 
-## @image1 Source
+## Clean @image1 Source
 
-@image1 = corrected approved Shot 04 final frame. The ONLY visual continuity source.
+@image1 = separately approved clean Shot 05 start-frame still.
 
-Both characters must begin in the exact positions, poses, facing directions, and scales from @image1. Preserve the actual corrected approved final frame even if any visible state is imperfect. Do not clean, restage, separate further, or redesign it.
+Both characters must begin in the exact positions, poses, facing directions and scales from
+this clean still. Reject the still before video generation if any state is imperfect.
 
-## Sole Environment Source Lock
+## Canonical Source and Clean-Composition Lock
 
-The approved Shot 04 final frame used as `@image1` is the sole source for:
+The approved clean Shot 05 start still controls:
 
 - environment,
 - world layout,
@@ -32,21 +61,11 @@ The approved Shot 04 final frame used as `@image1` is the sole source for:
 - character scales,
 - and composition.
 
-Do not attach:
+Use the approved Flower Hill World for world identity and the approved Mimi and Kiko
+references for character identity. They must not override the approved clean start still's
+camera, crop, pose, placement, scale or composition.
 
-- Mimi character reference,
-- Kiko character reference,
-- a group character image,
-- the Flower Hill World,
-- or any other visual reference.
-
-The complete Flower Hill environment is already contained in `@image1`.
-
-The approved Shot 04 final frame is the sole visual source for the environment, characters, camera, crop, scale, lighting and composition.
-
-Do not rebuild, clean, improve, widen, beautify, rearrange or reinterpret the world.
-
-## Exact Shot 04 Final-Frame Anchor Lock
+## Clean Shot 05 Start-Frame Anchor Lock
 
 Preserve exactly as shown in `@image1`:
 
@@ -73,7 +92,7 @@ Do not enlarge or shrink either character.
 
 Do not place either character on a different depth plane.
 
-The world and characters remain in their actual approved Shot 04 final-frame arrangement.
+The world and characters remain in the approved clean Shot 05 arrangement.
 
 ## Absolute Wide-Composition and Character-Scale Lock
 
@@ -125,7 +144,8 @@ Reject any result in which:
 
 ## Character References
 
-No character references are used. Both approved character identities are already fully visible and established inside `@image1`.
+Use the approved Mimi and Kiko references for identity only. They must not override the
+clean anchor's pose, placement, scale, camera or composition.
 
 ## Visual Continuity Lock
 
@@ -135,7 +155,9 @@ Preserve the exact exposure, brightness, highlight level, shadow level, white ba
 
 No beautify, enhance, re-grade, relight, recolour, brighten, darken, contrast increase, saturation increase, local colour pop, clarity increase, sharpening, softening, new blur, background blur increase, depth-of-field change, HDR, glossy highlights, plastic shine, harsh shadows, or highlight bloom.
 
-Frame 1 exactly matches @image1 in pose, position, scale, camera, lighting and environment, but natural micro-motion begins immediately from the first visible frames. There is no frozen opening pause. Allowed immediate micro-motion is limited to soft breathing, a subtle eye-focus change, tiny natural body settling, slight character-appropriate cloth or fur response, and gentle flower movement already present in the environment. Mimi alone may make one tiny natural rabbit-ear movement. Kiko’s human ears remain anatomically unchanged. Frame 1 must still match the previous approved final frame.
+Frame 1 exactly matches the approved clean @image1 in pose, position, scale, camera,
+lighting and environment. Natural micro-motion begins immediately. No video-derived frame
+may replace or redefine this clean start anchor.
 
 Do not create a pose jump, position jump, camera jump, scale jump, expression reset, sudden new action already halfway completed, or a new character appearing in frame 1. The first meaningful action must begin no later than approximately 0.20 seconds. Character motion must remain slow, small, grounded, readable, and preschool-safe. No character or object may duplicate, merge, disappear, teleport, stretch, change scale, slide, float, or regenerate.
 
@@ -192,7 +214,7 @@ Do not interpret the timestamps as permission to rush, overlap, duplicate, or om
 
 ## Time-Coded Action
 
-- 0.0–0.20s: Frame 1 exactly matches the approved Shot 04 final frame. Both characters immediately continue natural micro-motion and eye contact.
+- 0.0–0.20s: Frame 1 exactly matches the approved clean Shot 05 start still. Both characters immediately begin natural micro-motion and eye contact.
 - 0.20–1.20s: Kiko makes one small reassuring hand gesture close to her own torso. Her hand remains anatomically correct and does not cross toward Mimi.
 - 1.20–4.30s: Kiko names the happy, bouncy feeling as excitement.
 - 4.30–5.40s: Mimi’s eyes widen slightly and her smile grows.
@@ -383,24 +405,26 @@ Do not generate spoken dialogue, on-screen dialogue, subtitles, captions, or spe
 
 ## OpenArt Settings
 
-* Optional Seed: only if this exact OpenArt mode exposes reliable manual seed control, the same tested seed may be used across all six shots as a secondary consistency aid. The seed never replaces `@image1`. Do not change models, modes or continuity inputs merely to gain seed access.
+* Optional Seed: only if this exact OpenArt mode exposes reliable manual seed control, the same tested seed may be used across all six shots as a secondary consistency aid. The seed never replaces the clean `@image1`.
 
-- Mode: Frame-to-Video / Video
-- Format: Horizontal 16:9 — exactly match the approved Shot 04 final-frame aspect ratio.
+- Mode: Start Frame + End Frame / Video when available; otherwise Frame-to-Video from the
+  approved clean start still
+- Format: Horizontal 16:9 — exactly match the approved clean Shot 05 start still.
 - Do not request vertical generation from this horizontal `@image1`.
 - Preserve the complete left, centre and right composition.
 - Do not crop, outpaint, extend or vertically reinterpret the environment inside OpenArt.
 - Final 9:16 conversion occurs only after all six approved native 16:9 shots are complete.
 - Duration: 15 seconds
-- @image1: corrected approved Shot 04 final frame
-- World/environment slot: leave empty for Shot 05.
-- Character references: none. Both approved character identities are already fully visible and established inside @image1.
+- @image1: separately approved clean Shot 05 start-frame still
+- End frame: separately approved clean Shot 05 end-frame still when supported
+- World/environment: approved Flower Hill World
+- Character references: approved Mimi and Kiko, identity-only
 - Prompt Enhancer: Off
 - Cinematic / Automatic Camera: Off
 - Confirm the output is native horizontal 16:9 before generation.
 - Confirm automatic camera and cinematic camera are disabled in the actual interface, not only in the written prompt.
-- Confirm no character references and no world reference are attached.
-- Use only the approved Shot 04 final frame as `@image1`.
+- Confirm that no generated-video frame is attached anywhere.
+- Use only the separately approved clean Shot 05 still as `@image1`.
 - If the interface automatically adds any additional reference, remove it before generating.
 - Generated dialogue: Off — dialogue is added in post-production
 - Treat the OpenArt output as video-only.
@@ -428,9 +452,10 @@ Do not remove opening or ending frames. Do not trim, shorten, or choose an earli
 - Use clean hard cuts between shots.
 - Do not remove opening or ending frames from any shot.
 - Do not use dissolves or long transitions.
-- Preserve exact first-frame continuity at every cut.
+- Preserve story continuity and use a clean editorial cut.
 - Preserve continuous Flower Hill ambience across all cuts.
-- Shot 05 begins from the exact approved Shot 04 final frame. Neither character walks in Shot 05, and no footsteps are used.
+- Shot 05 begins from its separately approved clean start still. Neither character walks
+  in Shot 05, and no footsteps are used.
 - Do not cut dialogue.
 - Do not cut the slow breath.
 - Do not cut the viewer-response pause.
@@ -474,7 +499,7 @@ Reject Shot 05 if:
 
 Reject Shot 05 immediately if:
 
-- the opening frame differs from the approved Shot 04 final frame,
+- the opening frame differs from the approved clean Shot 05 start still,
 - the camera moves closer,
 - the image becomes a medium shot or close-up,
 - either character becomes larger,
@@ -484,7 +509,7 @@ Reject Shot 05 immediately if:
 - the visible environment area decreases,
 - the stepping-stone path becomes less visible because of reframing,
 - a speaking or reacting character is automatically enlarged,
-- or the final frame cannot support a fully visible synchronized bounce in Shot 06.
+- the final 1–2 seconds do not show a stable, natural and fully grounded completed pose.
 
 Reject the documents if:
 - any Recommended Final Edit Range ends before 15.0 seconds,

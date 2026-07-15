@@ -1,14 +1,21 @@
 # Shot 06 — Small Celebration and Viewer Repeat
 
-STATUS: READY ONLY AFTER THE CORRECTED APPROVED PREVIOUS SHOT FINAL FRAME HAS BEEN VISUALLY CHECKED.
+STATUS: READY ONLY AFTER THE CLEAN SHOT 06 START-FRAME STILL HAS BEEN VISUALLY APPROVED.
 
-## Approved Start-Frame Eligibility Lock
+## SHOT 06 CLEAN START-FRAME CREATION — MANDATORY QUALITY RESET
 
-Do not use the rejected close-up Shot 05 result.
+Shot 06 begins a new story beat and must be generated fresh at the highest approved quality.
+Do not use the Shot 05 video, its final frame, any corrected/normalized export, or any
+screenshot as a production reference.
 
-Shot 06 remains NOT READY until the corrected approved Shot 05 final frame has been visually checked.
+Create a separately approved clean horizontal 16:9 start-frame still using:
 
-The approved Shot 05 final frame must show:
+- the canonical approved Flower Hill World,
+- the approved Mimi character identity reference,
+- the approved Kiko character identity reference,
+- and a fresh shot-specific wide composition.
+
+The clean Shot 06 start still must show:
 
 - Mimi fully visible from ears to feet,
 - Kiko fully visible from head to feet,
@@ -17,7 +24,11 @@ The approved Shot 05 final frame must show:
 - both characters at the approved smaller wide-shot scales,
 - and sufficient vertical space above and below both characters for one tiny synchronized bounce.
 
-Reject the start frame if:
+Preserve story continuity through the same Flower Hill identity, compatible screen
+direction, character relationship, scale family, warm morning palette and editorial logic.
+Pixel-exact Shot 05 continuity is neither required nor allowed.
+
+Reject the clean start still before video generation if:
 
 - either character is cropped,
 - either character is foreground-sized,
@@ -25,21 +36,32 @@ Reject the start frame if:
 - the camera is closer,
 - or the environment area has visibly decreased.
 
+## SHOT 06 CLEAN END-FRAME CREATION — USE WHEN SUPPORTED
+
+Create and approve a separate clean end-frame still from the same canonical Flower Hill
+World, approved Mimi and Kiko identities and locked Shot 06 composition. Show both
+characters after all dialogue, the single bounce, landing and slow breath are complete:
+fully grounded, separate, correctly scaled, warmly smiling and naturally settled.
+
+Use Start Frame + End Frame mode whenever available. This still defines the final stable
+pose; it must not be extracted from generated video.
+
 ## COPY TO OPENART
 
 ## Shot Purpose
 
 Mimi confidently uses the word excitement, shares one tiny bounce with Kiko, learns that she can take one slow breath while excited, and invites the viewer to repeat the word.
 
-## @image1 Source
+## Clean @image1 Source
 
-@image1 = corrected approved Shot 05 final frame. The ONLY visual continuity source.
+@image1 = separately approved clean Shot 06 start-frame still.
 
-Both characters must begin in the exact visible state, positions, poses, facing directions, and scales from @image1. Preserve the actual corrected approved final frame even if any visible state is imperfect. Do not clean, restage, rebuild, or redesign it.
+Both characters must begin in the exact visible state, positions, poses, facing directions
+and scales from this clean still. Reject and regenerate the still if any state is imperfect.
 
-## Sole Visual Source Lock
+## Canonical Source and Clean-Composition Lock
 
-The corrected approved Shot 05 final frame used as `@image1` is the sole visual source for:
+The approved clean Shot 06 start still controls:
 
 - both character identities,
 - character positions,
@@ -55,25 +77,14 @@ The corrected approved Shot 05 final frame used as `@image1` is the sole visual 
 - visible objects,
 - and composition.
 
-Do not attach:
-
-- the Flower Hill World,
-- a Flower Hill Hero View,
-- Mimi’s character reference,
-- Kiko’s character reference,
-- a group character image,
-- any environment reference,
-- or any additional visual reference.
-
-Both character identities and the complete Flower Hill environment are already established inside `@image1`.
+Use the canonical approved Flower Hill World and the approved Mimi and Kiko references for
+identity validation. They must not override the clean still's camera, crop, pose, placement,
+scale or composition.
 
 ## Character References
 
-Attach no character references for Shot 06.
-
-Do not attach Mimi, Kiko or any group character reference.
-
-The corrected approved Shot 05 final frame is the sole character-identity and visual-continuity source.
+Attach the approved Mimi and Kiko references for identity only. Do not attach a group image
+or any generated-video frame.
 
 ## Absolute Wide Full-Body Composition Lock
 
@@ -122,7 +133,9 @@ Preserve the exact exposure, brightness, highlight level, shadow level, white ba
 
 No beautify, enhance, re-grade, relight, recolour, brighten, darken, contrast increase, saturation increase, local colour pop, clarity increase, sharpening, softening, new blur, background blur increase, depth-of-field change, HDR, glossy highlights, plastic shine, harsh shadows, or highlight bloom.
 
-Frame 1 exactly matches @image1 in pose, position, scale, camera, lighting and environment, but natural micro-motion begins immediately from the first visible frames. There is no frozen opening pause. Allowed immediate micro-motion is limited to soft breathing, a subtle eye-focus change, tiny natural body settling, character-appropriate cloth or fur response, and gentle flower movement already present in the environment. Mimi alone may make one tiny natural rabbit-ear movement. Kiko’s human ears remain anatomically unchanged. Frame 1 must still match the previous approved final frame.
+Frame 1 exactly matches the approved clean @image1 in pose, position, scale, camera,
+lighting and environment. Natural micro-motion begins immediately. No video-derived frame
+may replace or redefine this clean start anchor.
 
 Do not create a pose jump, position jump, camera jump, scale jump, expression reset, sudden new action already halfway completed, or a new character appearing in frame 1. The first meaningful action must begin no later than approximately 0.20 seconds. Character motion must remain slow, small, grounded, readable, and preschool-safe. No character or object may duplicate, merge, disappear, teleport, stretch, change scale, slide, float, or regenerate.
 
@@ -227,7 +240,7 @@ Do not interpret the timestamps as permission to rush, overlap, duplicate, or om
 
 ## Time-Coded Action
 
-- 0.0–0.20s: Frame 1 exactly matches the approved Shot 05 final frame. Both characters immediately continue subtle natural movement.
+- 0.0–0.20s: Frame 1 exactly matches the approved clean Shot 06 start still. Both characters immediately begin subtle natural movement.
 - 0.20–1.50s: Mimi gives one confident nod while saying that she feels excited.
 - 1.50–2.20s: Mimi and Kiko prepare for one tiny synchronized in-place bounce.
 - 2.20–3.20s: They perform exactly one tiny synchronized bounce.
@@ -417,21 +430,23 @@ Do not generate spoken dialogue, on-screen dialogue, subtitles, captions, or spe
 
 ## OpenArt Settings
 
-* Optional Seed: only if this exact OpenArt mode exposes reliable manual seed control, the same tested seed may be used across all six shots as a secondary consistency aid. The seed never replaces `@image1`. Do not change models, modes or continuity inputs merely to gain seed access.
+* Optional Seed: only if this exact OpenArt mode exposes reliable manual seed control, the same tested seed may be used across all six shots as a secondary consistency aid. The seed never replaces the clean `@image1`.
 
-- Mode: Frame-to-Video / Video
-- Format: Horizontal 16:9 — exactly match the corrected approved Shot 05 final-frame aspect ratio.
+- Mode: Start Frame + End Frame / Video when available; otherwise Frame-to-Video from the
+  approved clean start still
+- Format: Horizontal 16:9 — exactly match the approved clean Shot 06 start still.
 - Do not request vertical generation from the horizontal `@image1`.
 - Preserve the complete left, centre and right composition.
 - Do not crop, outpaint, extend or vertically reinterpret the world.
 - Confirm native horizontal 16:9 in the actual interface before generation.
-- Confirm that no world or character reference is attached.
+- Confirm that no generated-video frame is attached anywhere.
 - Confirm that automatic camera and cinematic camera are disabled in the actual interface.
-- Use only the corrected approved Shot 05 final frame as `@image1`.
+- Use only the separately approved clean Shot 06 still as `@image1`.
 - Duration: 15 seconds
-- @image1: corrected approved Shot 05 final frame
-- World/environment slot: leave empty for Shot 06.
-- Character references: none.
+- @image1: separately approved clean Shot 06 start-frame still
+- End frame: separately approved clean Shot 06 end-frame still when supported
+- World/environment: canonical approved Flower Hill World
+- Character references: approved Mimi and Kiko, identity-only
 - Prompt Enhancer: Off
 - Cinematic / Automatic Camera: Off
 - Generated dialogue: Off — dialogue is added in post-production
@@ -460,9 +475,9 @@ Do not remove opening or ending frames. Do not trim, shorten, or choose an earli
 - Use clean hard cuts between shots.
 - Do not remove opening or ending frames from any shot.
 - Do not use dissolves or long transitions.
-- Preserve exact first-frame continuity at every cut.
+- Preserve story continuity and use a clean editorial cut.
 - Preserve continuous Flower Hill ambience across all cuts.
-- Shot 06 begins from the exact corrected approved Shot 05 final frame. No footsteps are used in Shot 06.
+- Shot 06 begins from its separately approved clean start still, not Shot 05 video. No footsteps are used in Shot 06.
 - Do not cut dialogue.
 - Do not cut the slow breath.
 - Do not cut the viewer-response pause.
@@ -485,7 +500,7 @@ Mentioning one individual clue during its original discovery is not a repeated r
 
 Reject Shot 06 if:
 
-- the rejected close-up Shot 05 frame is used,
+- any Shot 05 video frame is used as a production anchor,
 - either character is cropped at frame 1,
 - either character’s feet are not visible,
 - the camera moves closer,

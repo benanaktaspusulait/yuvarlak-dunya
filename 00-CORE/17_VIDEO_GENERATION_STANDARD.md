@@ -8,6 +8,104 @@
 
 ---
 
+## SHOT COMPLETION AND QUALITY RESET RULE — HIGHEST CONTINUITY PRIORITY
+
+This section overrides every older instruction in this repository that says to use a
+generated video, a raw video frame, a corrected video frame, a normalized video frame,
+or the previous shot's exported final frame as the next shot's production anchor.
+
+### Clean Anchor Definitions
+
+- **Clean start-frame still:** a separately generated, visually reviewed and approved
+  production still created from the canonical approved World, approved character identity
+  references and a shot-specific composition. It is not extracted from video.
+- **Clean end-frame still:** a separately generated, visually reviewed and approved
+  production still defining the intended completed state of a shot. It is not extracted
+  from video.
+- **Linked shots:** shots whose approved clean end/start still is intentionally shared.
+  The approved clean end still of Shot N becomes the exact same approved clean start still
+  of Shot N+1. This does not permit extracting that still from generated video.
+
+RAW GENERATED FINAL-FRAME CHAINING IS FORBIDDEN.
+
+Never use a frame extracted directly from an AI-generated video as the next shot's
+production anchor. Normalizing, correcting, grading, upscaling or exporting a generated
+video frame does not turn it into a clean production still.
+
+Every shot must use a separately approved clean start-frame still. Whenever the tool and
+shot design support it, every shot must also use a separately approved clean end-frame
+still through Start Frame + End Frame mode. Video generation creates motion only between
+these approved still anchors. It must not redefine camera, world quality, character scale,
+colour, lighting, sharpness or final-frame composition.
+
+### Complete Action Inside Each Shot
+
+Every shot must contain a complete visual action. Do not end a shot while a character is
+walking, entering, turning, pointing, jumping, landing, reaching, gesturing, visibly
+breathing or changing position. Every scripted action must begin, develop and finish
+inside the same shot.
+
+The final 1–2 seconds must show a stable, natural and fully grounded ending pose. Camera
+movement must also finish and settle before the shot ends. The next shot must not require
+instructions such as “continue walking,” “resume the previous movement,” “complete the
+previous gesture,” or “continue exactly where the character stopped mid-motion.”
+
+### Fresh Shot Default
+
+Start each new shot as a fresh highest-quality generation using:
+
+- the canonical approved World,
+- approved character identity references,
+- a clean shot-specific starting composition,
+- and the highest approved quality settings.
+
+Preserve story continuity through character placement, screen direction, world identity,
+dialogue, sound and editing. Pixel-exact video continuation is not the default. A clean
+editorial cut between two high-quality independent shots is preferred over a seamless
+transition between progressively degraded shots.
+
+### Exact Clean-Anchor Continuity Limit
+
+Use exact linked clean anchors only when the story or edit genuinely requires them.
+
+- Normal maximum: 2 consecutive linked shots.
+- Exceptional maximum: 3 consecutive linked shots.
+- After 2–3 linked shots: mandatory visual quality reset from canonical clean references.
+- Never create a 4-shot, 5-shot or 6-shot recursive frame chain.
+
+At a reset:
+
+```text
+Canonical approved World
++ approved character references
++ clean shot-specific composition
+→ fresh highest-quality shot
+```
+
+When exact frame continuity conflicts with visual quality, character identity,
+environment fidelity, correct scale or clean composition, visual quality wins.
+
+### Post-Production Timing
+
+Keep production-generation anchors clean and ungraded. Perform video upscaling and final
+episode-wide colour matching only once, after all shots are completed and approved. Do not
+upscale or repeatedly colour-normalize intermediate frames for reuse as generation inputs.
+
+### Legacy Wording Interpretation
+
+Until all historical shot packages are migrated, any older reference to `@image1`,
+“previous final frame,” “exported continuity frame,” “normalized final frame” or “previous
+shot video reference” must not be followed literally. Replace it with one of these:
+
+1. the separately approved clean start-frame still for the current shot; or
+2. when exact linkage is justified and within the 2–3 shot limit, the separately approved
+   clean end still of Shot N, reused unchanged as Shot N+1's clean start still.
+
+Generated video media remains review evidence and edit material only; it is never a
+production-anchor source.
+
+---
+
 ## Üretim Kuralı: Sadece OpenArt Prompt
 
 > Bir bölüm için SADECE OpenArt prompt dosyaları (03_VIDEO_EXPORTS/shot-XX-openart-prompt.md) oluşturulur.
@@ -25,9 +123,10 @@
 > **Kanıt (S01E12):** Shot 1→8 arası %15.7 progressive darkening, %12.7 contrast artışı.
 > Ham frame'ler asla @image1 olarak kullanılmamalıdır.
 
-### Shot Düzeltme Kuralları (Post-Production)
+### Shot Düzeltme Kuralları (Final Post-Production Pass)
 
-Her shot üretildikten sonra:
+Bu ölçüm ve düzeltme adımları yalnızca tüm shot'lar tamamlanıp onaylandıktan sonra, tek
+episode-wide final colour-matching pass içinde uygulanır:
 
 1. **Final frame çıkar** (`ffmpeg -sseof -0.1`)
 2. **Parlaklık ölç** (PIL ImageStat)
@@ -50,17 +149,17 @@ Her shot üretildikten sonra:
 
 **Önemli:**
 - Sadece parlaklık ve doygunluk düzelt (kontrast/değil)
-- Düzeltme sonrası final frame çıkar
-- shot-XX-final-frame.png olarak kaydet
-- Bu final frame bir sonraki shot'ın @image1'i olur
+- Düzeltme sonrası final frame yalnızca QA kanıtı olarak çıkarılabilir
+- shot-XX-final-frame.png yalnızca QA/raporlama çıktısıdır
+- Bu frame hiçbir sonraki shot'ın `@image1`'i veya production anchor'ı olamaz
 
 ### Temel Kural
 
 ```
-Generate shot → Calibrate against @image1 → Fixed whole-clip correction → Drift Gate → Export normalized final frame → Use as next @image1
+Approve clean start/end stills → Generate motion → Complete and approve all shots → One final episode-wide upscale and colour-match pass
 
-ASLA: Ham üretilmiş final frame'i @image1 olarak kullanma.
-SADECE: shot-XX-final-frame-normalized.png
+ASLA: Ham, düzeltilmiş veya normalize edilmiş video final frame'ini @image1 olarak kullanma.
+SADECE: Ayrı üretilmiş ve onaylanmış clean start-frame still kullan.
 ```
 
 ### EPISODE_COLOR_MASTER.png
@@ -68,11 +167,12 @@ SADECE: shot-XX-final-frame-normalized.png
 - Bölümün başından onaylanmış sabit bir görsel
 - Sonradan üretilmiş bir video frame'inden ALINMAZ
 - Tüm bölüm boyunca DEĞİŞTİRİLMEZ
-- Tüm shot'lar bu master'a göre normalize edilir
+- Tüm tamamlanmış shot'lar final episode-wide pass içinde bu master'a göre eşleştirilir
 
 ### normalize_shot.py
 
-Her shot üretildikten sonra çalıştırılır:
+Gerekirse yalnızca tüm shot'lar tamamlandıktan sonra final assembly aşamasında batch olarak
+çalıştırılır. Ürettiği frame'ler sonraki generasyonlara girdi olamaz:
 
 ```bash
 python3 POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/TOOLS/normalize_shot.py \
@@ -101,8 +201,8 @@ python3 POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/TOOLS/normalize_shot.py \
 ### Continuity Rule
 
 ```
-ASLA ham üretilmiş bir final frame'i bir sonraki @image1 olarak kullanma.
-SADECE kullan: shot-XX-final-frame-normalized.png
+ASLA ham, düzeltilmiş veya normalize edilmiş bir video final frame'ini bir sonraki @image1
+olarak kullanma. SADECE ayrı onaylanmış clean start-frame still kullan.
 ```
 
 ### Prompt Kuralı
@@ -113,11 +213,13 @@ Her shot prompt'unda COMPACT bir satır olmalı:
 Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
 ```
 
-Bu satır birincil koruma DEĞIL. Birincil koruma normalize_shot.py ve Drift Gate'tir.
+Birincil koruma clean still anchor'lar, bağımsız kalite resetleri ve final episode-wide
+Drift Gate'tir.
 
 ### Final-Edit Rule
 
-Ham klipleri normalize edilmiş continuity frame'lerle KARIŞTIRMA. Bu, shot sınırlarında görünür renk sıçraması yaratır. Sadece normalize edilmiş videoları kullan.
+Upscale ve final colour matching'i yalnızca bir kez, bütün shot'lar tamamlandıktan sonra
+uygula. Intermediate graded/normalized frame'leri generation input olarak kullanma.
 
 ---
 
@@ -126,32 +228,31 @@ Ham klipleri normalize edilmiş continuity frame'lerle KARIŞTIRMA. Bu, shot sı
 Gerçek üretim akışı:
 
 ```
-Shot 01 Image
+Canonical World + approved character references
     ↓
-Frame to Video
+Clean Shot 01 start still (+ clean end still whenever possible)
     ↓
-Shot 01 Video
+Generate Shot 01 motion and complete the action
     ↓
-Shot 02 (Video Reference: Shot 01 Video)
+Fresh clean Shot 02 start still from canonical references
     ↓
-Shot 02 Video
+Generate Shot 02 motion and complete the action
     ↓
-Shot 03 (Video Reference: Shot 02 Video)
+Quality reset at least after 2–3 exactly linked clean-anchor shots
     ↓
-...devam eder
+Complete all shots → one final upscale and colour-matching pass
 ```
 
 ---
 
 ## First Frame Continuity
 
-Shot 01 uses the approved original first-frame still.
-Shot 02 and onward use the previous shot as the Video Reference.
-If a still continuity frame is used, it must be the exported/downloaded original frame, not a screenshot.
+Every shot uses its own separately approved clean start-frame still. The default is a fresh
+shot-specific composition from canonical references, not the previous shot video.
 
-The opening frame of each continuation shot should continue seamlessly from the previous shot reference.
-
-The opening frame must continue seamlessly from the previous shot video reference or exported continuity frame. The viewer should not perceive a shot boundary.
+When exact linkage is necessary, reuse only the separately approved clean end still of the
+previous shot as the exact clean start still of the next shot, within the 2–3 shot limit.
+Never use a frame extracted from generated video. A clean editorial cut is acceptable.
 
 Maintain:
 - character position
@@ -270,9 +371,10 @@ Do not use:
 
 Use only:
 - original downloaded PNG/JPG from the generation tool
-- exported original video frame
-- exported final frame from the previous shot
+- separately approved clean production stills created from canonical references
 - approved production stills from the asset folder
+
+Exported video frames may be used for QA inspection only, never as generation references.
 
 Reason:
 
@@ -305,14 +407,14 @@ The Episode Colour Master defines:
 - shadow softness
 - highlight behaviour
 
-Continuation shots must use two forms of reference:
+Every shot must use two forms of clean reference:
 
-1. Previous Shot Reference
+1. Clean Shot-Specific Start Still
    Purpose:
-   - action continuity
+   - shot composition
    - character position
-   - camera continuity
-   - motion continuity
+   - camera and scale lock
+   - initial pose
 
 2. Episode Colour Master
    Purpose:
@@ -322,7 +424,7 @@ Continuation shots must use two forms of reference:
    - saturation stability
    - preventing generational colour drift
 
-Do not let each shot rebalance colour from the previous generated shot alone.
+Do not derive colour from a previous generated shot.
 
 Every shot must remain visually matched to the Episode Colour Master.
 
@@ -473,11 +575,12 @@ Use wide framing for environment identity and medium framing for emotional beats
 
 ## Spatial Continuity
 
-The previous video reference alone is not enough to guarantee exact location continuity.
+Canonical World and shot-specific clean still references must jointly guarantee location
+continuity. A previous generated video is not a permitted reference.
 
 The AI may understand the general environment but place the characters in a similar, incorrect area.
 
-Therefore every continuation shot must explicitly restate the physical location using environment anchors.
+Therefore every shot must explicitly restate the physical location using environment anchors.
 
 Spatial continuity means:
 
@@ -506,7 +609,8 @@ For example:
 
 Add this rule:
 
-Do not let the AI infer the location from the previous video reference alone. Always describe the local physical environment in the shot prompt.
+Do not let the AI infer location from any previous generated video. Use the canonical World,
+the approved clean shot-specific still and an explicit local environment description.
 
 ---
 
@@ -741,7 +845,8 @@ Before generating any shot, answer these questions:
    distance?
 4. Would the character need camera movement to reach or use it?
 5. Would the model be forced to enlarge, move, multiply, reshape, or spawn the object?
-6. Does the final frame support the next shot?
+6. Does the action finish and settle into the approved clean end still, or into a stable
+   final 1–2 second pose when End Frame mode is unavailable?
 
 If any answer fails, do not spend video credits. Simplify the action, change the staging,
 or regenerate the prerequisite still before generating video.
@@ -907,7 +1012,7 @@ The entering character must adapt to the locked frame.
 If the full entrance path cannot be shown safely inside the locked composition, the character may begin already partially visible at the edge of the existing frame. This is preferred over changing the camera, changing the layout, or causing pop-in.
 
 Continuity priority order:
-1. Previous final frame match
+1. Approved clean start-still match
 2. Existing character position and scale
 3. Background object lock
 4. Entering character visibility
@@ -917,7 +1022,8 @@ The entering character's movement is secondary to continuity.
 
 ### No Pull-Back Continuity Rule
 
-When a shot continues from a locked previous final frame, the new shot must not begin wider than the previous frame.
+When a shot begins from a locked clean start still, the generated video must not begin
+wider than that clean still.
 
 Never pull back at the beginning of a continuation shot in order to introduce a character.
 
@@ -926,20 +1032,21 @@ Do not reveal more environment, more sky, more side objects, or additional props
 If the entering character cannot be shown without widening or recomposing the frame, the entering character should begin already partially visible at the frame edge.
 
 Priority:
-1. Previous final frame match
+1. Approved clean start-still match
 2. No wider reset
 3. No new object reveal
 4. Entering character visibility
 
 Global QA for continuation shots:
-- [ ] Continuation shot does not begin wider than previous final frame.
+- [ ] Shot does not begin wider than its approved clean start still.
 - [ ] No pull-back occurs at shot start.
 - [ ] No new side objects are revealed at first frame.
 - [ ] Entering character adapts to the locked frame instead of forcing recomposition.
 
 ### No New Character In First Frames Rule
 
-When a shot continues from a locked previous final frame using `@image1`, no new character may appear, enter, or begin entering during the first 2 seconds of the shot.
+When a shot begins from a locked clean `@image1`, no character absent from that approved
+clean still may pop in during the first 2 seconds.
 
 The first 2 seconds are reserved for strict continuity matching.
 
@@ -994,10 +1101,11 @@ Use original downloaded/exported production media only. Never use screenshots.
 Episode Colour Master:
 Approved original Shot 01 still.
 
-Continuity Reference:
-Previous shot video reference or exported final frame.
+Clean Start Anchor:
+Separately approved clean shot-specific start-frame still; never a generated-video frame.
 
-Previous Shot: Use the previous shot as Video Reference.
+Clean End Anchor:
+Separately approved clean end-frame still whenever Start Frame + End Frame mode is supported.
 Location: Central Square.
 Lighting: Warm morning light.
 Ball: Same round yellow ball.
@@ -1096,12 +1204,12 @@ Her shot markdown dosyası şu bölümleri içermelidir:
 1. **Scene Context** — Episode, Shot numarası/süresi, Location, Characters, Time of Day
 2. **Purpose** — Shot'ın kısa amacı (1 cümle)
 3. **Continuity** — Önceki shot'tan devam edip etmediği
-4. **Frame-to-Video Continuity** (Shot 02-12 için zorunlu) — @image1 kuralları
+4. **Clean Start-Frame Continuity** (tüm shot'lar için zorunlu) — @image1 kuralları
 5. **World Reference** (Shot 01 için) — İlk shot world reference kullanımı
 6. **Background Object Lock** — Arka plan sabitliği
 7. **Visual Prompt** — OpenArt prompt'u ({style} {camera} {lighting} ile biter)
    - Shot 01: "CRITICAL: Maintain warm golden autumn colour saturation throughout the entire video" içermeli
-   - Shot 02-12: "The Little Forest background matches @image1 exactly" içermeli
+   - Tüm shot'lar: clean `@image1` kompozisyonunu ve canonical World identity'yi korumalı
 8. **Camera Direction** — Kamera yönü
 9. **Dialogue** — 3 satır dialog (her shot'ta)
 10. **Shot Breakdown** — Zaman dilimleri (0-3, 3-6, 7-10, 11-15)
@@ -1113,17 +1221,15 @@ Her shot markdown dosyası şu bölümleri içermelidir:
 15. **Negative Prompt** — Yasak listesi
 16. **QA Checklist** — Kalite kontrol listesi
 
-### Frame-to-Video Continuity Bölümü (Shot 02-12 Zorunlu)
+### Clean Start-Frame Continuity Bölümü (Tüm Shot'lar İçin Zorunlu)
 
 ```text
 ## Frame-to-Video Continuity
 
-@image1 = approved final frame of previous shot.
+@image1 = separately approved clean start-frame still for this shot.
 Use @image1 as the only visual continuity source.
 First visible frame must match @image1.
-Do not create a new establishing shot.
-Do not create a separate first frame.
-Do not use failed frames or videos as references.
+Do not use failed frames, generated videos or video-extracted frames as references.
 Do not redesign, recompose, widen, zoom, or reset the environment.
 Keep all trees, paths, leaves, ground, lighting, and character positions consistent with @image1.
 Locked camera only.
@@ -1133,13 +1239,13 @@ No pan, tilt, zoom, push-in, pull-back, tracking, reframe, camera reveal, or ang
 ### Camera Direction Kuralı
 
 - **Shot 01**: Kendi camera direction'ı serbest (medium shot, static, vb.)
-- **Shot 02-12**: Her zaman @image1'e kilitli:
+- **Tüm shot'lar**: kendi onaylı clean @image1 kompozisyonuna kilitli:
 
 ```text
-Continue from @image1 with the same camera angle, same framing, same lens feeling, and same composition. Locked camera. No zoom, no reframe, no widen, no close-up reset, no angle change.
+Begin from the approved clean @image1 with the same camera angle, framing, lens feeling and composition. Locked camera. No zoom, reframe, widen, close-up reset or angle change.
 ```
 
-Kullanılamaz (Shot 02-12):
+Clean anchor onayından sonra kullanılamaz:
 - Close-up
 - Medium wide
 - Medium close-up
@@ -1177,12 +1283,12 @@ It must establish a gentle visual baseline for the whole episode.
 Never make the first shot stronger, sharper, glossier, darker, more saturated, or more contrasty than the soft Pompom Hills preschool style.
 ```
 
-#### Shot 02-12 — @image1 Continuity Version (Önceki frame'den devam)
+#### Tüm Shot'lar — Clean @image1 Colour Stability
 
 ```text
 ## Colour / Contrast Stability
 
-This shot continues from @image1, the approved final frame of the previous shot.
+This shot begins from @image1, its separately approved clean start-frame still.
 
 Match @image1 for lighting, colour temperature, softness, exposure, shadow level, material feel, and overall atmosphere.
 
@@ -1219,14 +1325,16 @@ If any visual adjustment happens, it must move slightly softer, calmer, warmer, 
 
 ### @image2 Shot 1 Colour Reference (Kalıcı Çözüm)
 
-> @image1 (önceki shot final frame) zamanla karanlaşır. @image2 olarak Shot 1 frame'i kullanılır — bu tüm bölümün renk bazıdır.
+> `@image1` her shot'ın ayrı onaylanmış clean start still'idir. `@image2` bölümün ayrı
+> onaylanmış clean Episode Colour Master'ıdır; ikisi de video frame'i değildir.
 
 ```text
-Use @image2 = shot-1-final-frame.png (the approved Shot 01 video frame).
+Use @image2 = EPISODE_COLOR_MASTER.png (the approved clean episode colour still).
 @image2 is the colour, brightness, and contrast reference for the entire episode.
 Use @image2 ONLY for colour, brightness, contrast, saturation, shadow softness, and matte material feel.
 Do not use @image2 for composition, layout, character position, or camera angle.
-If @image1 has drifted darker or more contrasty, @image2 should win.
+If @image1 does not match the approved colour baseline, reject/regenerate the still or let
+@image2 control colour while @image1 controls composition.
 ```
 
 ### Colour Retention Rules
@@ -1260,7 +1368,7 @@ The first frame sets the warm colour baseline. During video generation:
 - [ ] Warm golden colour baseline established for video generation
 ```
 
-#### Shot 02-12 — Continuity QA (Önceki frame'den devam)
+#### Tüm Shot'lar — Clean Anchor Continuity QA
 
 Her shot 02-12 QA checklist'ine şu 11 madde eklenmelidir:
 
@@ -1268,7 +1376,7 @@ Her shot 02-12 QA checklist'ine şu 11 madde eklenmelidir:
 - [ ] Camera framing matches @image1; no new close-up/wide reset
 - [ ] First visible frame matches @image1
 - [ ] No sudden new character pop-in
-- [ ] No character disappears suddenly from previous final frame
+- [ ] No character disappears suddenly from the approved clean start still
 - [ ] Colour and lighting match @image1
 - [ ] No contrast increase from previous shot
 - [ ] No saturation increase from previous shot
@@ -1283,9 +1391,11 @@ Her shot 02-12 QA checklist'ine şu 11 madde eklenmelidir:
 
 #### Yeni Karakter Tanıtımı (Shot 02+)
 
-Eğer bir shot'ta @image1'de olmayan bir karakter ilk kez görünüyorsa:
+Eğer bir karakter shot'ın başında görünmeliyse, clean `@image1` oluşturulurken canonical
+reference ile doğru konum, ölçek ve kimlikte yerleştirilmelidir. Video içinde sonradan
+girecekse:
 
-1. İlk frame @image1 ile aynı olmalı (mevcut karakter yalnız)
+1. İlk frame clean @image1 ile aynı olmalı
 2. 1-2 saniye sonra yeni karakter mevcut sahede doğal şekilde görünmeli
 3. "Already seated nearby" / "already visible in background" gibi ifadeler kullanılmalı
 4. "Not a sudden pop-in" / "not appearing from nowhere" ifadeleri negatif prompt'a eklenmeli
@@ -1293,7 +1403,7 @@ Eğer bir shot'ta @image1'de olmayan bir karakter ilk kez görünüyorsa:
 
 #### Prop / Nesne Süreklilik Kuralı
 
-> Bu kural S01E05'ten çıkarıldı: Yaprak (prop) Shot 01 final frame'de Kiko'nun elinde değildi, ama Shot 02 ilk karesinde aniden belirdi.
+> Prop durumu her shot'ın ayrı onaylanmış clean start still'inde doğru kurulmalıdır.
 
 Bir shot'ta @image1'de görünmeyen bir prop/nesne (yaprak, taş, çiçek, oyuncak vb.) ilk karede aniden beliremez:
 
@@ -1310,29 +1420,16 @@ Kiko holds a golden leaf in her hands...  (ama @image1'de elinde yok!)
 
 Örnek — Doğru:
 ```
-First visible frame matches Shot 01 final frame — Kiko reaching for leaf.
+First visible frame matches the approved clean shot-specific start still — Kiko reaching for leaf.
 She catches it gently in both hands. She holds it, looking at it...
 ```
 
-#### Karakter Ön Hazırlık (Pre-Staging) Kuralı
+#### Karakter Ön Hazırlık (Clean Still Staging) Kuralı
 
-> S01E12 lesson: Bir sonraki shot'ta görünecek olan karakter, bir önceki shot'un son 2-3 saniyesinde arka planda küçük ve sessiz olarak görünmeli. Böylece pop-in engellenir ve doğrudan frame-to-video güvenli hale gelir.
-
-Eğer bir sonraki shot'ta yeni bir karakter görünecekse:
-
-1. Yeni karakter SEPARATE first frame ile değil, DOĞRUDAN frame-to-video ile girilmeli
-2. Karakter, bir önceki shot'un son 2-3 saniyesinde arka planda küçük ve non-dominant olarak görünmeli
-3. "small and non-dominant in the background" / "already seated nearby" gibi ifadeler kullanılmalı
-4. Karakter konuşma yapmamalı, sadece orada durmalı (pre-staging)
-5. Sonraki shot'ta @image1 bu final frame'i kullanmalı ve karakter zaten seenede olmalı
-6. "SEPARATE APPROVED FIRST FRAME" KULLANILMAZ — bu sadece pop-in'i shot boundary'ye taşır
-
-Örnek akış:
-```
-Shot 02 son 2sn: Kiko bir ağaca bakıyor, Opa arka planda küçük görünüyor
-Shot 03 ilk frame: @image1 = Shot 02 final frame (Opa zaten arka planda)
-Shot 03 video: Kiko Opa'ya doğru yürüyor, Opa zaten sahede
-```
+Bir sonraki shot'ta yeni bir karakter görünecekse onu önceki videoya zorla ekleme. Yeni
+shot'ın clean start still'ini canonical World ve approved character references ile ayrı
+üret; karakteri hikâyeye uygun, doğru ölçekli ve grounded biçimde bu temiz kompozisyonda
+kur. Böylece pop-in önlenirken önceki videonun bozulması yeni shot'a taşınmaz.
 
 #### Opa Görünürlük Kuralı (Voice-First Approach)
 

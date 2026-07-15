@@ -1,32 +1,22 @@
 # Shot Continuity Workflow
 
-> This is a global production standard. It captures the working pipeline validated on
-> S01E07 — The Round Stone (Stone Hill) and makes it the default workflow for every future
-> episode, in every world. It does not redesign any character or world, and it does not
-> replace the underlying continuity rules in `00-CORE/CONTINUITY_RULES.md` — it packages
-> those rules into one practical per-episode checklist so the same problems (colour drift,
-> camera jumps, object drift between shots) are not re-solved from scratch every episode.
+> This is the practical per-episode application of the **SHOT COMPLETION AND QUALITY RESET
+> RULE** in `00-CORE/17_VIDEO_GENERATION_STANDARD.md`. That section has priority over all
+> historical final-frame and video-reference wording in this file.
 
 ---
 
 ## 1. Why This Exists
 
-S01E07 initially had good colour continuity but small visual jumps between 1-2
-transitions (camera reset feel, slight object drift, character position mismatch at shot
-boundaries). The fix was not a one-off patch — it was a repeatable pattern:
+Earlier production used recursive final-frame chaining:
 
 ```
-opening final frame → Shot 01
-Shot 01 final frame → Shot 02 @image1
-Shot 02 final frame → Shot 03 @image1
-... and so on
+generated Shot 01 final frame → Shot 02 @image1 → Shot 03 @image1 → ...
 ```
 
-Once every shot after Shot 01 used the previous shot's approved final frame as a strict
-`@image1` reference (not just "the previous shot exists", but the literal exported final
-frame), colour stayed locked, the world stayed consistent, and the character chain held
-together. This document makes that the standard starting point for every episode instead
-of something rediscovered per world.
+That pipeline accumulated degradation and is superseded. The default is now independent,
+highest-quality shot generation from canonical clean references. Exact continuity may use
+only separately approved clean still anchors, never frames extracted from generated video.
 
 ---
 
@@ -35,12 +25,18 @@ of something rediscovered per world.
 For every episode:
 
 - World opening is optional pre-roll, not a story shot.
-- Shot 01 uses the approved opening final frame as `@image1` environment reference.
-- Shot 01's approved still becomes the Episode Colour Master.
-- Every next shot uses the previous shot's final frame as `@image1`.
-- The first 1 second of each shot must stay very close to `@image1` before the action
-  continues.
-- Export the first frame and final frame for every shot.
+- Create and approve a separate clean start-frame still for every shot from the canonical
+  World, approved character references and a shot-specific composition.
+- Whenever possible, create and approve a separate clean end-frame still and use Start
+  Frame + End Frame mode.
+- Complete every action inside its shot and reserve the final 1–2 seconds for a stable,
+  grounded ending pose.
+- Default to a clean editorial cut and a fresh highest-quality generation for the next shot.
+- If exact linkage is necessary, reuse Shot N's approved clean end still unchanged as Shot
+  N+1's clean start still. Never extract this anchor from generated video.
+- Limit exact clean-anchor linkage to 2 shots normally and 3 only exceptionally; then reset
+  from canonical clean references.
+- Export first/final video frames for QA evidence only, never for production anchoring.
 - Create or update the per-episode Object Continuity Map before generating shot video.
 - Check every first-frame still / cheap take against the Object Continuity Map before
   spending video credits.
@@ -85,8 +81,13 @@ all — it is a fresh take shot per `00-CORE/CONTINUITY_RULES.md` §9.
 
 ## 4. Shot N → Shot N+1 (the core rule)
 
-For every shot after Shot 01, `@image1` must be the approved final continuity frame of
-the previous shot.
+For every shot after Shot 01, `@image1` must be that shot's separately approved clean
+start-frame still. By default it is a fresh shot-specific composition generated from the
+canonical World and approved character identity references.
+
+Only when exact linkage is genuinely necessary may Shot N's separately approved clean end
+still become the exact clean start still of Shot N+1. This is limited to 2 linked shots
+normally and 3 exceptionally. It never permits a video-extracted frame.
 
 The first frame of the new shot should match `@image1` as closely as possible in:
 
@@ -104,9 +105,9 @@ The first frame of the new shot should match `@image1` as closely as possible in
 - exposure
 - contrast
 
-The new shot may continue the action naturally, but it must not begin with a noticeable
-camera reset, jump cut, environment shift, character scale change, or background layout
-change.
+The new shot begins a new completed action. Preserve screen direction, character placement,
+world identity, scale family and editorial logic, but do not continue unfinished movement.
+A clean cut is acceptable and preferred when exact matching would reduce quality.
 
 Practical rule of thumb: the first 1 second of a shot should visually hold close to
 `@image1` before the shot's own action becomes noticeable. See
@@ -119,9 +120,9 @@ background object may move, disappear, duplicate, or change identity.
 
 ### Colour / Contrast Drift Control Rule
 
-When a shot continues from a previous shot final frame using `@image1`, the visual style
-must not become progressively more contrasty, saturated, sharp, glossy, HDR-looking, or
-harsh.
+When a shot begins from its separately approved clean `@image1`, the visual style must not
+become progressively more contrasty, saturated, sharp, glossy, HDR-looking or harsh during
+the generated motion.
 
 OpenArt sometimes increases:
 - contrast
@@ -173,7 +174,7 @@ sharper, glossier, darker, or more contrasty.
 OpenArt-facing prompt wording:
 
 ```
-@image1 = approved final frame of previous shot.
+@image1 = separately approved clean start-frame still for the current shot.
 @image2 = Episode Colour Master: [approved original Shot 01 still].
 
 Use @image1 as the exact locked first frame and only composition/action continuity source.
@@ -183,9 +184,8 @@ and matte material reference.
 object layout.
 @image2 controls colour grade only. Do not copy @image2 camera, framing, character
 position, background layout, or action.
-If @image1 has become darker, harsher, more saturated, sharper, glossier, or more
-contrasty than @image2, correct back toward @image2 while keeping @image1 composition
-unchanged.
+If the clean @image1 differs from @image2, keep @image1 composition while matching the
+approved episode colour baseline. Reject and regenerate a materially degraded clean still.
 ```
 
 Add these terms to the global negative prompt for all OpenArt video prompts:
@@ -430,7 +430,8 @@ The map lists, shot by shot:
 - current action object
 - usability checks
 - forbidden object changes
-- final-frame requirements for the next shot
+- clean end-frame requirements for the current shot and, only when exact linkage is
+  justified, the next shot's identical clean start still
 
 A shot is not approved only because an object is mentioned in the prompt. A shot is
 approved only if the required object is visible in `@image1` and usable for the planned
@@ -462,8 +463,8 @@ Before generation, label the shot:
 - **RISKY:** usable but with quality risk; simplify action or add stricter locks before
   generating.
 - **NOT READY:** required object is missing or unusable; do not spend video credits.
-- **SALVAGE:** use only if continuing from an already damaged frame; freeze the actual
-  layout and reduce action to small character gestures.
+- **RESET REQUIRED:** the current visual source is degraded; reject it and regenerate a
+  clean shot-specific still from canonical references.
 
 Before generating any shot, answer:
 
@@ -473,7 +474,7 @@ Before generating any shot, answer:
    distance?
 4. Would the character need camera movement to reach or use it?
 5. Would the model need to enlarge, move, multiply, reshape, or spawn the object?
-6. Does the final frame support the next shot?
+6. Does the action finish and settle into the separately approved clean end still?
 
 If any answer fails, do not generate video. Simplify the action, regenerate the
 prerequisite still, or mark the shot as salvage with frozen-layout rules.
@@ -488,10 +489,13 @@ After each shot is generated, export:
 - final frame
 - final video
 
-Before approving the next shot, compare:
+For edit QA only, compare:
 
-- previous shot final frame
-- next shot first frame
+- previous shot final video frame
+- next shot first video frame
+
+These exported video frames are review evidence only. Neither may be reused as a
+production anchor.
 
 Then watch the full video twice:
 
@@ -501,11 +505,11 @@ Then watch the full video twice:
 Approve the transition only if:
 
 - colour does not fade or shift
-- camera does not visibly reset
+- any editorial camera change is intentional and clean
 - character scale stays consistent
 - background/world-locked elements stay in the same layout
 - persistent props (e.g. a discovered object being carried between shots) stay consistent
-- the new shot feels like a continuation, not a new setup
+- story continuity remains clear even when the new shot is a fresh setup
 - no character disappears, reappears, teleports, regenerates after occlusion, switches
   sides without visible motion, or has an unreadable path inside the shot
 - no foreground object fully hides a character
@@ -515,9 +519,11 @@ Approve the transition only if:
 **If a transition has a small jump:**
 
 1. Keep the previous shot. Do not regenerate it.
-2. Regenerate only the next shot.
-3. Use the previous shot's final frame as `@image1`.
-4. Add the Transition Repair Prompt (§6) to the regeneration.
+2. Do not use the previous video or its extracted final frame as a repair input.
+3. Regenerate or adjust the next shot's clean start still from canonical World and
+   character references.
+4. Preserve story placement and screen direction, then regenerate only the next video.
+5. Prefer a clean editorial cut over forcing pixel-exact continuity.
 
 This export-and-compare step, plus the repair procedure, is what turns "hope the model
 gets it right" into a repeatable QA gate. See
@@ -532,19 +538,21 @@ and character regeneration can happen inside the shot.
 
 ## 6. Transition Repair Prompt (reusable add-on)
 
-Use this add-on whenever a regenerated shot needs a stricter first-frame match to fix a
-visible jump:
+Use this add-on whenever a regenerated shot needs a cleaner start while preserving story
+continuity:
 
 ```text
 TRANSITION REPAIR PROMPT ADD-ON:
 
-Use @image1 as the exact first-frame continuity reference.
+Use the separately approved clean @image1 as the exact start-frame reference.
+@image1 must not be extracted from generated video.
 
 The first second must match @image1 very closely: same camera angle, same lens feel,
 same character scale, same character positions, same locked background/world layout,
 same lighting and same colour grading.
 
-After the first second, continue the planned action slowly and naturally.
+After the first second, begin and complete the planned action slowly and naturally inside
+this shot. Finish in a stable, grounded pose for the final 1–2 seconds.
 
 Do not reset the camera. Do not recompose the shot. Do not move the characters to a new
 location. Do not redesign the world. Do not change the background layout. Do not change
@@ -560,19 +568,20 @@ canon bible §Visual Richness & World Charm / §World Identity Lock for its lock
 
 ## 7. Per-Episode Application
 
-Every new episode's shot files and episode overview should apply this workflow the same
-way S01E07 does:
+Every new episode's shot files and episode overview must apply this workflow:
 
-- Each shot file (from Shot 02 onward) gets its own `## Transition Continuity Rule`
-  section naming the specific previous shot as the `@image1` source, plus a one-line
-  "first 1 second should preserve [previous shot]'s final composition/frame before
-  [this shot's specific action] begins" note under Camera Direction.
+- Every shot gets a `## Clean Start-Frame Still` section naming the canonical World,
+  approved character references and shot-specific composition used to create `@image1`.
+- Whenever possible, every shot also gets a separately approved clean end still and uses
+  Start Frame + End Frame mode.
+- Any intentionally linked pair/trio records the shared clean still and the current chain
+  count. A mandatory quality reset follows no later than the third linked shot.
 - The episode overview gets one `## Transition QA` section (export rule, approval
   criteria, repair procedure) that every shot file's Transition Continuity Rule section
   points back to, instead of repeating the full repair prompt in every shot file.
 
-This keeps the repair prompt and QA criteria in one place per episode, while keeping the
-shot-specific hand-off instruction local to each shot file where it's actually used.
+This keeps the repair prompt and QA criteria in one place per episode while keeping the
+shot-specific clean-anchor instruction local to each shot file.
 
 ---
 
@@ -585,7 +594,7 @@ shot-specific hand-off instruction local to each shot file where it's actually u
 - This does not replace `00-CORE/CONTINUITY_RULES.md` — it is the per-episode checklist
   built on top of it, specifically adding the world-opening → Shot 01 step and the
   standard Transition QA / repair procedure.
-- This document governs the `@image1` continuity chain between shots inside the same
+- This document governs clean-anchor and editorial continuity between shots inside the same
   world/episode. For multi-shot videos that are generated as separate standalone shots and
   combined later in editing (especially videos that move between different worlds), the
   standalone-shot generation rule and the in-file post-production transition note are defined
@@ -598,4 +607,4 @@ shot-specific hand-off instruction local to each shot file where it's actually u
 *This document is the single source of truth for the shot-to-shot continuity workflow
 across episodes and worlds.*
 *Validated on: S01E07 — The Round Stone (Stone Hill).*
-*Version: 1.1 — 5 Temmuz 2026*
+*Version: 2.0 — 15 July 2026 — Clean anchors, completed actions and mandatory quality resets*
