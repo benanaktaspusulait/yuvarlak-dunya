@@ -6,17 +6,99 @@ STATUS: READY ONLY AFTER THE CORRECTED APPROVED PREVIOUS SHOT FINAL FRAME HAS BE
 
 ## Shot Purpose
 
-Continue directly from the approved Shot 03 final frame. Kiko is already visible at a distance on the left entrance route and continues walking naturally toward Mimi. Kiko reaches Mimi, stops beside her at a comfortable distance, and helps Mimi identify the happy event that caused her excitement.
+Continue directly from the approved Shot 03 final frame. Kiko is already fully visible on the left side of the frame, separated from Mimi mainly by horizontal open-grass space on the existing left-side open-grass band already visible in @image1 and continues walking naturally toward Mimi. Kiko stops on the existing open grass immediately to the left of the central stepping-stone path, facing Mimi across the path at a readable conversational distance, and helps Mimi identify the happy event that caused her excitement.
 
 ## @image1 Source
 
 @image1 = corrected approved Shot 03 final frame. The ONLY visual continuity source.
 
-Frame 1 must exactly match the approved Shot 03 final frame and must already contain both Mimi and the distant approaching Kiko. Do not remove, hide, reposition, enlarge, shrink or regenerate either character.
+Frame 1 must exactly match the approved Shot 03 final frame and must already contain both Mimi and the left-side approaching Kiko. At frame 1 only, do not remove, hide, reposition, enlarge, shrink or regenerate either character. After the 0.20-second exact continuity hold, Mimi remains fixed while Kiko is allowed to continue the explicitly scripted approach.
+
+## Sole Environment Source Lock
+
+The approved Shot 03 final frame used as `@image1` is the sole source for:
+
+- the environment,
+- world layout,
+- camera,
+- crop,
+- lighting,
+- colour,
+- depth,
+- visible objects,
+- and composition.
+
+Do not attach:
+
+- the Flower Hill World,
+- a Flower Hill Hero View,
+- any world image,
+- any additional environment reference,
+- or any clean environment render.
+
+The Flower Hill identity is already fully contained in `@image1`.
+
+Character references control identity only.
+
+The world must not be regenerated, rebuilt, cleaned, widened, beautified or rearranged for Kiko’s approach.
+
+## Exact World Anchor Lock
+
+Preserve exactly as shown in `@image1`:
+
+- the large tree touching the left frame edge,
+- the smaller distant trees,
+- the distant flower arch,
+- the rolling hill silhouettes,
+- the central stepping-stone path,
+- all flower beds around the path,
+- the foreground flower strip,
+- the right-side tree group,
+- the clouds,
+- the sky balance,
+- and all existing open-grass shapes.
+
+No environmental anchor may move, resize, rotate, disappear, duplicate, change colour, change focus or regenerate.
+
+Do not create:
+
+- a new path,
+- a new clearing,
+- a new flower gap,
+- a new tree opening,
+- or extra room for either character.
+
+Kiko adapts to the existing environment. The environment never adapts to Kiko.
 
 ## Character References
 
 Use the approved Mimi and approved Kiko character references for identity only. Mimi's reference must not override any visible state from @image1. Kiko's reference controls Kiko's identity and canonical appearance only; it must not override pose, position, scale, camera, crop, lighting, world layout, visible flowers, background focus, or colour balance. Do not attach any extra character reference.
+
+## Actual Ground-Depth and Scale Lock
+
+Do not interpret Kiko’s smaller canonical body size as evidence that she is far behind Mimi.
+
+In the approved `@image1`:
+
+- Kiko and Mimi already occupy approximately the same visible ground-depth band,
+- Kiko is mainly separated from Mimi by horizontal screen space,
+- and Kiko is canonically smaller than Mimi.
+
+Kiko’s movement is predominantly toward screen-right.
+
+A very small terrain-following depth adjustment is permitted only where required by the existing open-grass geometry.
+
+Kiko must not:
+
+- move substantially toward the camera,
+- move substantially deeper into the background,
+- grow toward Mimi’s height,
+- become foreground-sized,
+- or change canonical body proportions.
+
+Her canonical scale remains essentially stable.
+
+Do not intentionally enlarge or shrink Kiko during the approach.
 
 ## Visual Continuity Lock
 
@@ -26,11 +108,11 @@ Preserve the exact exposure, brightness, highlight level, shadow level, white ba
 
 No beautify, enhance, re-grade, relight, recolour, brighten, darken, contrast increase, saturation increase, local colour pop, clarity increase, sharpening, softening, new blur, background blur increase, depth-of-field change, HDR, glossy highlights, plastic shine, harsh shadows, or highlight bloom.
 
-Frame 1 exactly matches @image1 in pose, position, scale, camera, lighting and environment, but both characters’ natural micro-motion begins immediately after the short continuity hold. Allowed micro-motion is limited to soft breathing, one tiny ear movement, a subtle eye-focus change, tiny natural body settling, slight cloth or fur response, and gentle flower movement already present in the environment. Frame 1 must still match the previous approved final frame with Mimi and distant Kiko both visible.
+Frame 1 exactly matches @image1 in pose, position, scale, camera, lighting and environment, but both characters’ natural micro-motion begins immediately after the short continuity hold. Allowed micro-motion is limited to soft breathing, one tiny ear movement, a subtle eye-focus change, tiny natural body settling, slight cloth or fur response, and gentle flower movement already present in the environment. Frame 1 must still match the previous approved final frame with Mimi and left-side Kiko both visible.
 
-Do not create a pose jump, position jump, camera jump, scale jump, expression reset, sudden new action already halfway completed, or a new character appearing in frame 1. The first meaningful action must begin no later than approximately 0.20 seconds. Character motion must remain slow, small, grounded, readable, and preschool-safe. No character or object may duplicate, merge, disappear, teleport, stretch, change scale, slide, float, or regenerate.
+Do not create a pose jump, position jump, camera jump, scale jump, expression reset, sudden new action already halfway completed, or a new character appearing in frame 1. The first meaningful action must begin no later than approximately 0.20 seconds. Character motion must remain slow, small, grounded, readable, and preschool-safe. No character or object may duplicate, merge, disappear, teleport, stretch, slide, float or regenerate. Mimi’s position and scale remain completely fixed. Kiko’s movement is predominantly toward screen-right, with only a very small terrain-following depth adjustment permitted where required by the existing open-grass geometry. Her canonical scale remains essentially stable. Do not intentionally enlarge or shrink Kiko during the approach. Kiko must never jump in scale, grow unnaturally or become foreground-sized.
 
-No static or meaningless waiting period may last longer than approximately 0.5 seconds. During dialogue, use only small readable performance such as eye contact, gentle ear movement, one small head movement, subtle breathing, a small expression change, or one controlled paw gesture. Do not create constant random movement; every movement must support the current line or emotion. The final 2.5 seconds may remain a stable continuity anchor, but both characters must still have subtle natural breathing or tiny ear movement.
+No static or meaningless waiting period may last longer than approximately 0.5 seconds. During dialogue, use only small readable performance such as eye contact, gentle ear movement, one small head movement, subtle breathing, a small expression change, or one controlled paw gesture. Do not create constant random movement; every movement must support the current line or emotion. The final 0.9 seconds form the stable continuity anchor. Before that point, the scripted dialogue-supporting performance continues normally.
 
 ## Continuous Walk Lock
 
@@ -47,13 +129,42 @@ Do not:
 - teleport Kiko closer,
 - or make Kiko begin from a different position.
 
-The first frame preserves Kiko’s exact distant position from the Shot 03 final frame.
+The first frame preserves Kiko’s exact left-side position, ground contact, canonical scale and ground-depth plane from the approved Shot 03 final frame.
 
-After the short continuity hold, Kiko continues walking toward Mimi using the same open route and the same step rhythm.
+The central stepping-stone path and its surrounding flower beds remain between their initial positions.
+
+After the short continuity hold, Kiko continues walking toward the left side of the central stepping-stone path using the existing left-side open-grass band already visible in @image1.
+
+Kiko’s movement is predominantly toward screen-right.
+
+A very small terrain-following depth adjustment is permitted only where required by the existing open-grass geometry.
+
+Kiko must not move substantially toward the camera or substantially deeper into the background.
+
+Her canonical scale remains essentially stable.
+
+Do not intentionally enlarge or shrink Kiko during the approach.
+
+Kiko must follow the actual visible open-grass band in front of the flower beds.
+
+Kiko must not:
+
+- create a new route,
+- walk through a flower bed,
+- pass through a tree,
+- cross the stepping-stone path,
+- step onto any stone,
+- walk behind Mimi,
+- force Mimi to move,
+- or cause any environmental element to move.
+
+Kiko stops on the existing open grass immediately to the left of the central stepping-stone path, facing Mimi across the path at a readable conversational distance.
+
+Kiko must remain separate from Mimi and must not block the stepping-stone path.
 
 ## Camera Lock
 
-Camera remains fully locked from 0.0s to 15.0s. No zoom, push-in, pull-back, pan, tilt, tracking, orbit, reframe, crop change, camera-height change, lens change, cinematic camera, automatic camera movement, close-up reset, widening, or camera follow. The exact camera angle, height, lens feeling, crop, framing, composition, and character scale from @image1 remain unchanged for the full shot.
+Camera remains fully locked from 0.0s to 15.0s. No zoom, push-in, pull-back, pan, tilt, tracking, orbit, reframe, crop change, camera-height change, lens change, cinematic camera, automatic camera movement, close-up reset, widening, or camera follow. The exact camera angle, height, lens feeling, crop, framing, and environment composition from @image1 remain unchanged for the full shot. Mimi’s on-screen position and scale remain unchanged. Kiko may change position only through the scripted grounded walk predominantly toward screen-right, with only a very small terrain-following depth adjustment where required by the existing open-grass geometry. Her canonical scale remains essentially stable, with no deliberate enlargement, shrinkage or substantial movement toward the camera or deeper into the background.
 
 ## Timing Interpretation Rule
 
@@ -82,20 +193,39 @@ Do not interpret the timestamps as permission to rush, overlap, duplicate, or om
 
 ## Time-Coded Action
 
-- 0.0–0.35s: Exact continuity hold of the approved Shot 03 final frame. Mimi and distant Kiko are both already visible.
-- 0.35–2.40s: Kiko continues the same grounded walk toward Mimi from her established distant position.
-- 2.40–3.60s: Kiko completes the approach and stops beside Mimi at a comfortable distance.
-- 3.60–4.00s: Mimi turns her attention fully toward Kiko; both settle into the conversational pose.
-- 4.00–6.20s: Kiko warmly asks what happened today.
-- 6.20–8.30s: Mimi explains that she gets to play with Kiko today.
-- 8.30–10.60s: Kiko responds that this sounds happy and special.
-- 10.60–13.10s: Mimi asks whether that is why she feels so bouncy.
-- 13.10–14.10s: Kiko warmly says that she thinks so.
-- 14.10–15.00s: Both share one pleased final look with subtle natural movement.
+- 0.00–0.20s: Exact continuity hold of the approved Shot 03 final frame. Mimi and Kiko remain grounded. No dialogue and no footstep.
+- 0.20–1.10s: Kiko resumes her calm grounded walk through the existing open grass, predominantly toward screen-right.
+- 1.10–2.10s: While continuing the same walk, Kiko warmly says, “Hi, Mimi.”
+- 2.10–4.00s: Kiko continues approaching the left side of the central stepping-stone path with small natural steps.
+- 4.00–5.20s: While still walking and gradually slowing, Kiko asks, “What happened today?”
+- 5.20–5.40s: Kiko completes the approach and stops securely on the open grass immediately left of the central stepping-stone path.
+- 5.40–5.50s: Kiko and Mimi establish gentle eye contact across the path.
+- 5.50–7.50s: Mimi says, “I get to play with you today!”
+- 7.60–9.80s: Kiko says, “That sounds happy and special.”
+- 9.90–12.30s: Mimi asks, “Is that why I feel so bouncy?”
+- 12.40–13.30s: Kiko says, “I think so.”
+- 13.30–14.10s: Both show one pleased reaction.
+- 14.10–15.00s: Stable final continuity anchor.
 
 ## Final-State Requirement
 
-Mimi and Kiko end fully visible, separate, grounded, and at a comfortable distance with no physical contact. Kiko has completed the entrance and is no longer cropped by the frame edge. Their exact final positions and scales create the next-shot anchor. The Flower Hill layout, visible flowers, camera, crop, lighting, colour, focus, and depth of field remain unchanged. The final 0.9 seconds hold one pleased look with subtle natural movement.
+Mimi and Kiko end fully visible, separate, grounded, and at a comfortable distance with no physical contact. Kiko has completed the approach and is no longer cropped by the frame edge. Their exact final positions and scales create the next-shot anchor. The Flower Hill layout, visible flowers, camera, crop, lighting, colour, focus, and depth of field remain unchanged. The final 0.9 seconds hold one pleased look with subtle natural movement.
+
+Kiko retains her approved canonical relative size.
+
+Kiko may remain visibly smaller than Mimi.
+
+Do not enlarge Kiko merely because she has reached conversational distance.
+
+The two characters may converse while remaining slightly offset horizontally and without standing on the exact same depth coordinate.
+
+The central stepping-stone path remains completely visible and unobstructed between the characters.
+
+Kiko ends on the left side of the path.
+
+Mimi remains on the right side of the path in her established position.
+
+They face each other comfortably without touching, overlapping or standing directly beside one another.
 
 The Negative Prompt below must remain inline in the OpenArt-facing prompt. It may be maintained internally from a shared master negative-prompt source for document consistency, but OpenArt cannot be expected to read or inherit an external negative-prompt file. Never replace the inline Negative Prompt with a filename, link, shorthand reference, or instruction such as “use the master negative prompt.”
 
@@ -103,11 +233,21 @@ Do not shorten, remove or externalise the existing inline Negative Prompt sectio
 
 ## Negative Prompt
 
-2D animation;cel shading;clean outlines;high contrast;highly saturated;super vibrant;ultra-vibrant;dramatic glow;glowing pastel tones;HDR;cinematic grading;glossy plastic materials;beauty pass;clarity pass;sharpening pass;re-grade;relight;recolour;brightening;darkening;contrast increase;saturation increase;local colour pop;new blur;background blur increase;depth-of-field change;harsh shadows;highlight bloom;camera movement;zoom;push-in;pull-back;pan;tilt;tracking;orbit;reframe;crop change;camera-height change;lens change;cinematic camera;automatic camera movement;character duplication;character merging;fused heads;extra arms;extra paws;extra feet;extra ears;extra tails;missing limbs;disappearing character;teleporting character;body stretching;sudden scale change;floating feet;sliding feet;foot deformation;new flowers;new animals;birds;butterflies;rainbow;lightbulb;symbols;motion trails;ghost copies;energy lines;dizziness lines;sparkle burst;flying petals;decorative pop-ins;text;subtitles;captions;speech bubbles;logos;dialogue rendered as text;object pop-in;object disappearance;object duplication;flower redesign;hill redesign;path redesign;background morphing;world layout change;Kiko materialising;Kiko popping in;Kiko fading in;Kiko spawning inside frame;hidden entrance;entrance behind flowers;Mimi moved to create space;camera widening;touching;paw on shoulder;hug;physical contact;leaning toward camera;giant flower;sitting on flower;camera-facing gesture;Kiko cropped after entrance;characters too close;characters overlapping;walking through flowers
+2D animation;cel shading;clean outlines;high contrast;highly saturated;super vibrant;ultra-vibrant;dramatic glow;glowing pastel tones;HDR;cinematic grading;glossy plastic materials;beauty pass;clarity pass;sharpening pass;re-grade;relight;recolour;brightening;darkening;contrast increase;saturation increase;local colour pop;new blur;background blur increase;depth-of-field change;harsh shadows;highlight bloom;camera movement;zoom;push-in;pull-back;pan;tilt;tracking;orbit;reframe;crop change;camera-height change;lens change;cinematic camera;automatic camera movement;character duplication;character merging;fused heads;extra arms;extra paws;extra feet;extra ears;extra tails;missing limbs;disappearing character;teleporting character;body stretching;sudden scale change;floating feet;sliding feet;foot deformation;new flowers;new animals;birds;butterflies;rainbow;lightbulb;symbols;motion trails;ghost copies;energy lines;dizziness lines;sparkle burst;flying petals;decorative pop-ins;text;subtitles;captions;speech bubbles;logos;dialogue rendered as text;object pop-in;object disappearance;object duplication;flower redesign;hill redesign;path redesign;background morphing;world layout change;Kiko materialising;Kiko popping in;Kiko fading in;Kiko spawning inside frame;hidden entrance;entrance behind flowers;Mimi moved to create space;camera widening;touching;paw on shoulder;hug;physical contact;leaning toward camera;giant flower;sitting on flower;camera-facing gesture;Kiko cropped after entrance;characters too close;characters overlapping;walking through flowers;Kiko crossing the stepping-stone path;Kiko walking on stepping stones;Kiko stepping into flower beds;Kiko teleporting across the path;Kiko sliding rapidly toward Mimi;Kiko standing directly beside Mimi;Mimi moving to meet Kiko;central path blocked by character
 
 ## POST-PRODUCTION ONLY — DO NOT PASTE INTO OPENART
 
 Do not paste the Recommended Final Edit Range, High-Retention Final Edit Plan, dialogue timing, caption instructions, sound-design instructions or digital-crop instructions into OpenArt.
+
+## Final 9:16 Conversion Lock
+
+All OpenArt shots remain in the same native 16:9 format.
+
+Do not change aspect ratio between shots.
+
+Convert the full approved episode to 9:16 only after all six shots are complete, using one consistent reframing method across the episode.
+
+Do not independently auto-reframe individual shots.
 
 ## Post-Production Nature Ambience
 
@@ -123,7 +263,17 @@ Mixing priority: dialogue first, action sound effects second, nature ambience th
 
 Continue the uninterrupted Flower Hill ambience. Add small, grounded footsteps synchronized with Kiko's steps, and stop the footsteps when Kiko stops. Use no whoosh, arrival sting, magical effect or character theme. A distant bird chirp may occur before speech only. Kiko's arrival must sound natural.
 
-Kiko’s footsteps must synchronize with her visible walking steps. Do not add invisible or unmatched footsteps. Shot 03 footsteps flow continuously into Shot 04’s approach. The footstep rhythm must not restart at the cut.
+Kiko completed her final Shot 03 step before the cut and was grounded in the approved final frame.
+
+No footstep plays during the exact 0.00–0.20-second continuity hold.
+
+Kiko resumes walking after approximately 0.20 seconds.
+
+Every Shot 04 footstep must synchronize with one visible Kiko step landing.
+
+Footsteps stop completely when Kiko stops at approximately 5.40 seconds.
+
+Do not place an unmatched footstep directly over the Shot 03–04 cut.
 
 ## Post-Production Audio Continuity
 
@@ -154,11 +304,7 @@ All dialogue is added in post-production using only:
 - the existing approved Mimi Voice ID/profile,
 - the existing approved Kiko Voice ID/profile.
 
-For Kiko’s line:
-
-“Of course! I’m coming!”
-
-use the existing approved Kiko voice only.
+Every Shot 04 Kiko line must use the existing approved Kiko Voice ID/profile. Every Shot 04 Mimi line must use the existing approved Mimi Voice ID/profile.
 
 Do not create or select:
 
@@ -169,7 +315,7 @@ Do not create or select:
 - an automatic voice,
 - or a temporary voice.
 
-If the line needs to be regenerated for timing, regenerate the dialogue line using the same existing approved Kiko Voice ID/profile.
+If a Shot 04 Kiko line needs to be regenerated for timing, regenerate the dialogue line using the same existing approved Kiko Voice ID/profile.
 
 Kiko being visually present does not authorise OpenArt to create spoken dialogue.
 
@@ -211,7 +357,7 @@ Do not use heavy pitch shifting, formant shifting, robotic time-stretching or ar
 
 Preserve clear, warm, natural preschool delivery.
 
-Mimi and Kiko must sound identical in voice identity across all six shots.
+Mimi must retain the same approved Mimi voice identity across all six shots. Kiko must retain the same approved Kiko voice identity across all six shots. Mimi and Kiko must remain clearly distinct from each other, and their voice profiles must never be swapped.
 
 ## Character Voice Assignment
 
@@ -232,43 +378,51 @@ Do not let one character’s voice profile generate the other character’s line
 
 Kiko:
 
-“Hi, Mimi. What happened today?”
+“Hi, Mimi.”
+
+Post-production dialogue timing:
+- Begin at approximately 1.1 seconds.
+- Finish by approximately 2.1 seconds.
+
+Kiko:
+
+“What happened today?”
 
 Post-production dialogue timing:
 - Begin at approximately 4.0 seconds.
-- Finish by approximately 6.1 seconds.
+- Finish by approximately 5.4 seconds.
 
 Mimi:
 
 “I get to play with you today!”
 
 Post-production dialogue timing:
-- Begin at approximately 6.2 seconds.
-- Finish by approximately 8.2 seconds.
+- Begin at approximately 5.5 seconds.
+- Finish by approximately 7.5 seconds.
 
 Kiko:
 
 “That sounds happy and special.”
 
 Post-production dialogue timing:
-- Begin at approximately 8.3 seconds.
-- Finish by approximately 10.5 seconds.
+- Begin at approximately 7.6 seconds.
+- Finish by approximately 9.8 seconds.
 
 Mimi:
 
 “Is that why I feel so bouncy?”
 
 Post-production dialogue timing:
-- Begin at approximately 10.6 seconds.
-- Finish by approximately 13.0 seconds.
+- Begin at approximately 9.9 seconds.
+- Finish by approximately 12.3 seconds.
 
 Kiko:
 
 “I think so.”
 
 Post-production dialogue timing:
-- Begin at approximately 13.1 seconds.
-- Finish by approximately 14.0 seconds.
+- Begin at approximately 12.4 seconds.
+- Finish by approximately 13.3 seconds.
 
 Do not overlap the dialogue lines.
 
@@ -280,18 +434,28 @@ Do not generate spoken dialogue, on-screen dialogue, subtitles, captions, or spe
 
 ## OpenArt Settings
 
-* Optional Seed: only if this exact OpenArt mode exposes reliable manual seed control, the same tested seed may be used across all six shots as a secondary consistency aid. The seed never replaces `@image1`, the approved Flower Hill World, or identity-only character references. Do not change models, modes or continuity inputs merely to gain seed access.
+* Optional Seed: only if this exact OpenArt mode exposes reliable manual seed control, the same tested seed may be used across all six shots as a secondary consistency aid. The seed never replaces `@image1` or identity-only character references. Do not change models, modes or continuity inputs merely to gain seed access.
 
 - Mode: Frame-to-Video / Video
-- Format: Vertical 9:16
+- Format: Horizontal 16:9 — exactly match the approved Shot 03 final-frame aspect ratio.
+- Do not request vertical generation from this horizontal `@image1`.
+- Preserve the complete left, centre and right composition.
+- Do not crop, outpaint, extend or vertically reinterpret the environment inside OpenArt.
+- Final 9:16 conversion is performed only after all six approved 16:9 shots are complete.
 - Duration: 15 seconds
 - @image1: corrected approved Shot 03 final frame
-- World: approved Flower Hill
+- World/environment slot: leave empty for Shot 04.
 - Character references: approved Mimi + approved Kiko
 - Character references are identity-only and must not override @image1 continuity
 - Prompt Enhancer: Off
 - Cinematic / Automatic Camera: Off
 - Generated dialogue: Off — dialogue is added in post-production
+- Treat the OpenArt result as video-only.
+- Mute and discard every audio track generated or attached by OpenArt.
+- Do not use OpenArt-generated dialogue, voices, ambience, footsteps or effects.
+- Add all dialogue, ambience and footsteps separately in post-production.
+- Before rendering dialogue, manually verify the exact registered approved Mimi and Kiko voice profiles.
+- If the exact approved profile cannot be selected, do not generate or substitute the line.
 - Do not attach failed images
 - Do not attach failed video frames
 - Do not attach unrelated references
@@ -313,7 +477,7 @@ Do not remove opening or ending frames. Do not trim, shorten, or choose an earli
 - Do not use dissolves or long transitions.
 - Preserve exact first-frame continuity at every cut.
 - Preserve continuous Flower Hill ambience across all cuts.
-- Shot 03’s visible walking footsteps must flow naturally into Shot 04’s continuing approach footsteps.
+- Shot 03 ends with Kiko grounded. Shot 04 begins from that exact grounded frame, holds briefly without a footstep, and then resumes the visible approach with newly synchronized steps.
 - Do not cut dialogue.
 - Do not cut the slow breath.
 - Do not cut the viewer-response pause.
@@ -341,7 +505,38 @@ Reject Shot 04 if:
 - Kiko teleports closer,
 - Kiko’s scale jumps,
 - Kiko changes direction,
-- or the walk does not continue smoothly from Shot 03.
+- the walk does not continue smoothly from Shot 03,
+- Kiko walks toward the camera,
+- Kiko grows noticeably during the approach,
+- Kiko becomes similar to Mimi’s height merely because she moves right,
+- Kiko changes canonical proportions,
+- Kiko moves onto a different ground-depth plane,
+- the approach is interpreted as major forward-depth travel instead of primarily lateral movement,
+- Kiko crosses or steps onto the central stepping-stone path,
+- Kiko walks through any flower bed,
+- Kiko reaches Mimi by sliding, teleporting or unnaturally fast movement,
+- Kiko stops directly beside or too close to Mimi,
+- the central path becomes blocked,
+- Mimi moves from her approved position,
+- or the environment changes to create a new route.
+
+Reject Shot 04 immediately if:
+
+- the Flower Hill environment differs from `@image1`,
+- any tree, hill, cloud, flower bed or stepping stone changes,
+- a new path or clearing appears,
+- the camera reframes to fit the characters,
+- Kiko teleports or jumps in scale,
+- Kiko walks through flowers,
+- Kiko walks onto the stepping-stone path,
+- Kiko slides, teleports or moves unnaturally fast during the approach,
+- Kiko stops too close to Mimi,
+- Mimi moves to create room,
+- either character overlaps the other,
+- a footstep plays during the initial continuity hold,
+- a footstep does not match a visible landing,
+- OpenArt audio is retained,
+- or the environment becomes brighter, sharper, more saturated or more contrasty.
 
 Reject the documents if:
 - any Recommended Final Edit Range ends before 15.0 seconds,
@@ -352,6 +547,6 @@ Reject the documents if:
 - any shot uses filler to occupy its full 15 seconds,
 - dialogue becomes rushed to fit,
 - characters perform constant random movement,
-- a new object, character, animal or event is added,
+- an unscripted object, an additional character other than Mimi and Kiko, an animal, or an unscripted event is added,
 - the camera moves,
 - or the environment changes.
