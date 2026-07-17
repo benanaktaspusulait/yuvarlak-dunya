@@ -10,7 +10,7 @@
 Look at These Blocks! | Noah and Arda | Pompom Hills Shorts
 
 ### Description
-Noah discovers eight colourful blocks and Arda joins the fun! A gentle preschool moment about curiosity and friendship.
+Noah discovers colourful blocks and Arda joins the fun! A gentle preschool moment about curiosity and friendship.
 
 #PompomHills #Shorts #PreschoolAnimation #KidsAnimation #BuildingTogether
 

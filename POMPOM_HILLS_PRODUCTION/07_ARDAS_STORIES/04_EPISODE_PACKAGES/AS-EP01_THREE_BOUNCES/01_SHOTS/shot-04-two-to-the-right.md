@@ -191,7 +191,13 @@ one small safe side-step toward screen-right and catches the ball securely with 
 
 Arda does not speak during the downward path, ground contact or upward return. The ball does not
 strike either leg or shoe, does not pass behind a leg and does not move toward screen-left.
-Arda's feet remain planted. Ball and Arda move in the same screen-right direction.
+Arda's feet remain planted only during the opening phrase, ball release and downward path. As the
+ball rises and begins its slight screen-right drift, Arda takes exactly one small controlled
+side-step toward screen-right. He plants both feet securely again before completing the two-handed
+catch. No additional step occurs. Ball and Arda move in the same screen-right direction.
+
+The side-step begins only after the ball has completed its single ground contact and started its
+upward return. Arda does not step during the downward path or ground-contact moment.
 
 Immediately after the catch is secure, Arda visibly mouths "Two!" While securely holding the
 ball, he visibly mouths "It went right!" With one small pleased facial reaction, he visibly
@@ -405,6 +411,10 @@ follow camera, ball-follow camera, character-follow camera, background parallax 
 - [ ] No automatic reframing, tracking, zoom, pan, tilt or parallax drift occurs.
 - [ ] Continuous natural ambience remains present in post-production.
 - [ ] Final stable hold lasts approximately 1.4 seconds.
+- [ ] Arda's feet remain planted before the ball begins its upward return.
+- [ ] Exactly one small screen-right side-step begins during the upward return.
+- [ ] Both feet are securely planted again before or at the completed two-handed catch.
+- [ ] No second corrective step or foot shuffle occurs.
 
 ## Dead-Air Audit
 
@@ -418,6 +428,23 @@ follow camera, ball-follow camera, character-follow camera, background parallax 
 - [ ] The final stable anchor lasts only approximately 1.4 seconds.
 - [ ] Arda's mouth closes naturally before the final anchor.
 - [ ] No additional character is introduced.
+
+---
+
+## Final Shot 04 Audio Decision
+
+Do not regenerate the Shot 04 video solely because OpenArt generates music, missing dialogue,
+missing birdsong, missing ambience or incorrect sound effects.
+
+If camera, Arda, Pompom Ball, screen-right movement, side-step, catch and background pass visual
+QA, preserve the existing video.
+
+Completely mute and discard the OpenArt-generated audio track.
+
+Add all final dialogue, continuous garden ambience, distant bird chirps, ground-contact poof and
+catch sound separately in post-production.
+
+A new video generation is allowed only for a genuine visual blocker.
 
 ---
 
@@ -538,3 +565,5 @@ Before copying the Visual Prompt into OpenArt, ensure no unresolved tokens remai
 13. **Negative Prompt corrected:** Removed "no extra house, no disappearing house" and added direct unwanted outcomes — extra house, duplicate house, second house, football, soccer ball, patchwork, panelled, stitched, geometric, hexagon, pentagon, seams, hard/plastic ball, smooth surface, missing fibres, fur disappearing, size change, altered Pompom Ball, wrong asset, duplicate/disappearing/teleporting ball, ball leaving frame, second bounce, extra rebound, screen-left movement, anatomical-right, extra/large step, running, jumping, body turn, missed/one-handed catch, hand merging, deformed hands, extra fingers, frozen smile, empty staring, absent mouth movement, long silent pause, mirrored composition, automatic reframing, stabilisation crop, face-tracking crop, camera drift, zoom, pan, tilt, follow/ball-follow/character-follow camera, background parallax drift.
 14. **QA checklist expanded:** 27 checks including @image1 source, frame 1 match, Arda position, head-to-shoes visibility, screen-right space, bounce/step/catch fit, Pompom Ball identity, all four dialogue timing checks, ground contact, upward return, screen-right drift, screen-right step, same direction, no anatomical-right, no screen-left, two-handed catch, house count, duplicate house, background match, camera lock, no reframing/tracking, continuous ambience, 1.4-second final hold.
 15. **Global Quality Profile updated:** Generation type changed to "frame-to-video from approved Shot 04 Take Shot @image1". Visual sources now include separately approved Shot 04 Take Shot. Added "The approved Shot 04 Take Shot already contains the final garden composition. Do not reconstruct or reinterpret the world during frame-to-video generation."
+16. **Planted-feet contradiction corrected:** Visual Prompt updated to clarify Arda's feet remain planted only during opening phrase, ball release and downward path. Side-step begins only after ball completes ground contact and starts upward return. Both feet plant again before or at completed catch. No second corrective step or foot shuffle. Four new QA checks added.
+17. **Final Shot 04 Audio Decision added:** New section protecting visual render from unnecessary regeneration due to audio problems. Visual QA preserves video; all audio rebuilt in post-production.
