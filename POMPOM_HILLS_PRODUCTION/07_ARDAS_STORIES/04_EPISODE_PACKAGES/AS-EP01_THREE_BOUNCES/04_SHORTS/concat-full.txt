@@ -1,0 +1,8 @@
+file 'AS-EP01-shot-1-short.mp4'
+file 'AS-EP01-shot-2-short.mp4'
+file 'AS-EP01-shot-3-short.mp4'
+file 'AS-EP01-shot-4-short.mp4'
+file 'AS-EP01-shot-5-short.mp4'
+file 'AS-EP01-shot-6-short.mp4'
+file 'AS-EP01-shot-7-short.mp4'
+file 'AS-EP01-shot-8-short.mp4'
