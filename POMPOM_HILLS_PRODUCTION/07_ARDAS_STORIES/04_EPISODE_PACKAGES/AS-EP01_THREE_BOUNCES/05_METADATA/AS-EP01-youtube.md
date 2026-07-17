@@ -1,5 +1,14 @@
 # AS-EP01 — Three Bounces | YouTube Metadata
 
+## Video
+**Dosya:** AS-EP01-THREE_BOUNCES-full.mp4
+**Çözünürlük:** 1280×720 (16:9)
+**Süre:** 120sn (2dk)
+**Boyut:** 32MB
+**Format:** H.264, CRF 18
+
+---
+
 ## YouTube Title
 Three Bounces! | Arda | Pompom Hills Preschool Animation
 
@@ -20,6 +29,27 @@ Pompom Hills, preschool animation, kids animation, toddler cartoon, preschool ca
 
 ## Hashtags
 #PompomHills #PreschoolAnimation #KidsAnimation #ArdaStories
+
+---
+
+## YouTube Full Vertical Short (Tek Parça Short)
+
+**Title:** Three Bounces! | Full Episode | Arda | Pompom Hills Shorts
+
+**Description:** Arda bounces a fluffy Pompom Ball three times — one, two, three! The third bounce boops his nose. 🌈
+
+Episode: AS-EP01 — Three Bounces
+Character: Arda
+Location: Arda's Home
+Theme: Counting, cause and effect, patience
+
+#PompomHills #Shorts #PreschoolAnimation #CountingForKids #ArdaStories
+
+**Tags:** Pompom Hills, Shorts, preschool animation, kids animation, toddler cartoon, kids cartoon, gentle kids video, calm kids cartoon, Arda, Arda's Stories, Pompom Ball, counting for kids, bouncing ball, nose boop
+
+**Dosya:** AS-EP01-THREE_BOUNCES-full-vertical.mp4
+**Çözünürlük:** 1080×1920 (9:16 dikey)
+**Format:** H.264, high profile, CRF 18
 
 ---
 
