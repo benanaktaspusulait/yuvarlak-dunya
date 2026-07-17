@@ -1,55 +1,77 @@
-# The Little Cloud That Waited — Shot 17 — Gentle Pull Back
+# The Little Cloud That Waited — Shot 17 — Gentle Pull Back / Listening Payoff
 
 ---
 
 ## Scene Context
 
-| Alan | Değer |
+| Field | Value |
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
 | Shot | 17 / 20 |
-| Duration | 15 seconds |
+| Duration | 15.0 seconds (0.0–15.0) |
 | Location | Learning Room — Reading Corner (indoor) |
-| Characters | Opa, Luca, Mimi |
+| Characters Present | Opa, Luca, Mimi |
+| Primary Focus | Group (listening payoff) |
+| Book State | Closed — on rug |
 
 ---
 
-## Frame Lock
+## Continuity Lock
 
 ```text
-Treat @image1 (Shot 16 final frame) as the complete visual master reference.
-Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
-The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
-The animation begins only after the first frame has matched @image1 perfectly.
-The viewer must not perceive a shot boundary.
+Environment, lighting, colour carry over from Shot 16.
+Opa centre-left, Luca right, Mimi left — same staging map.
+Book closed on rug beside Opa. All three seated.
 ```
 
-## Background Object Lock
+---
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters may move.
+## Transition In
+
+```text
+Cut from Shot 16: Opa preparing to ask what they noticed leads to the payoff question.
+```
+
+---
 
 ## Visual Prompt
 
 ```text
-Use Shot 16 video as Video Reference. Gentle slow pull-back revealing more of the Reading Corner, Luca and Mimi sitting peacefully, Opa holding the closed book, warm morning light, {style} {camera} {lighting}
+@image1 Learning Room Hero View environment reference.
+@image2 Opa character reference.
+@image3 Luca character reference.
+@image4 Mimi character reference.
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Gentle physical pull-back from medium to wider framing. Fixed 35mm lens, camera dollies back slowly. Opa asks what the children heard. Luca and Mimi share their observations. Opa gives a short connecting response. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible throughout. Do not remove any character.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+Do not display dialogue as on-screen text. Use Shot 16 video as Video Reference.
 ```
 
 ---
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 16 reference. Very gentle slow pull-back. Lens 28mm, height 0.75m, slow pull-back (stays inside the existing scene — no new establishing shot).
+```text
+Lens: 35mm fixed. Height: 0.75m. Gentle physical dolly-back (not zoom). Camera begins medium on the group and slowly pulls back to a wider framing. Settles near the end. No focal length change during movement.
+```
+
+---
+
+## Transition Out
+
+```text
+Cut to Shot 18 — reframed to medium for the everyday examples conversation.
+```
 
 ---
 
 ## Dialogue
 
 ```
-(Quiet warm hold — no dialogue)
+Opa: What did you hear?                       (1.0–3.0)   [4 words, 2.0s, 2.00 wps]
+Luca: I heard a bird.                         (4.0–6.0)   [4 words, 2.0s, 2.00 wps]
+Mimi: I heard the leaves.                     (7.0–9.0)   [4 words, 2.0s, 2.00 wps]
+Opa: Waiting helped us notice.                (10.5–12.5) [4 words, 2.0s, 2.00 wps]
 ```
 
 ---
@@ -58,92 +80,87 @@ Begin from the identical camera position of the Shot 16 reference. Very gentle s
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: wide view of the Reading Corner. | Pull-back, 28mm |
-| 1-3 sn | Gentle pull-back begins, revealing more of the room. | Pull-back, 28mm |
-| 3-5 sn | Luca blinks, sitting peacefully on the rug. | Pull-back, 28mm |
-| 5-7 sn | Mimi breathes softly, leaning slightly toward Opa. | Pull-back, 28mm |
-| 7-10 sn | Opa holds the closed book, hands resting. | Pull-back, 28mm |
-| 10-12 sn | Luca glances at Mimi; shared quiet moment. | Wide, 28mm, static |
-| 12-13 sn | Mimi blinks, looking at the window light. | Wide, 28mm, static |
-| 13-15 sn | All three settle; pull-back settles into wide hold. | Wide, 28mm, static |
+| 0.0–1.0 | Continuity from Shot 16. Opa looks at both children, about to ask. | 35mm, dolly-back begins |
+| 1.0–3.0 | Opa: "What did you hear?" — warm, inviting. | 35mm, dolly-back continues |
+| 3.0–4.0 | Luca looks up from the window, ready to answer. | 35mm, dolly-back continues |
+| 4.0–6.0 | Luca: "I heard a bird." — pointing toward the window. | 35mm, dolly-back continues |
+| 6.0–7.0 | Mimi looks at Luca, then at Opa, ready to share. | 35mm, dolly-back continues |
+| 7.0–9.0 | Mimi: "I heard the leaves." — gesturing softly toward the window. | 35mm, dolly-back continues |
+| 9.0–10.5 | Opa nods, connecting the two observations. | 35mm, dolly-back settles |
+| 10.5–12.5 | Opa: "Waiting helped us notice." — gentle, warm. | 35mm, static |
+| 12.5–14.0 | Luca and Mimi absorb the connection. Small nods. | 35mm, static |
+| 14.0–15.0 | The listening payoff lands. Opa prepares to extend the conversation. | 35mm, static |
 
 ---
 
-## Natural Character Motion Rule
+## Natural Character Motion
 
-This shot should feel calm but alive.
-
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-- leaning slightly
-- whispered reaction
-- shared glance
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
+- **Opa:** Asks question (1.0–2.5), nods (7.5–8.5), speaks (9.0–11.0), prepares next question (14.0–15.0).
+- **Luca:** Looks up from window (2.5–3.5), speaks and points (3.5–5.0), nods (11.0–12.0).
+- **Mimi:** Looks at Luca then Opa (5.0–5.5), speaks and gestures (6.0–7.5), nods (11.5–12.5).
 
 ---
 
 ## Sound
 
-- Soft indoor room tone
-- Warm ambience
-- Natural ambience only. No music. No background music.
+- Soft cushion settle (2.5–3.0) — Luca shifts to answer
+- Fabric gesture (4.0–4.5) — Luca points
+- Fabric gesture (6.5–7.0) — Mimi gestures
+- Distant bird, very faint echo (11.0–11.5) — reinforcing the memory
 
 ---
 
 ## Lighting
 
-Continue Shot 16 lighting exactly. Warm window light, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 16 lighting exactly. Warm window light from left arched window, soft ambient glow. Soft contact shadows. No hard shadows.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 16 video (or exported final frame)
-- Voice: no dialogue in this shot
+- @image1 Environment Reference: Learning Room Hero View
+- @image2 Character Reference: Opa sheet
+- @image3 Character Reference: Luca sheet
+- @image4 Character Reference: Mimi sheet
+- Video Reference: Shot 16 (cut from Opa's preparation)
+- Previous Final Frame: Shot 16
 
-## Character Presence
+---
 
-Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+## Book State
+
+Shot 17: Book is CLOSED. On rug beside Opa. No readable text.
+
+---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, story chair, character disappearance, character pop-in, full fantasy cutaway, moving background objects
+
+---
 
 ## QA Checklist
 
-Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
+- [ ] Shot 17/20, exactly 15.0 seconds
+- [ ] Transition: cut from Shot 16 (Opa's preparation)
+- [ ] All 3 characters present throughout
+- [ ] Book state: CLOSED on rug
+- [ ] Dialogue: 4 lines, word counts match (4w, 4w, 4w, 4w), all four lines are exactly 2.00 wps and remain within the ≤ 2.5 wps preschool dialogue limit
+- [ ] Camera: genuine fixed-lens physical dolly-back (not zoom, not static)
+- [ ] Camera settles near end of shot
+- [ ] Engagement: 5+ beats, no passive interval >3s
+- [ ] Foreground sounds: cushion settle, fabric gestures, distant bird echo
+- [ ] No character disappearance
+- [ ] No generic blink-breathe-smile as primary motion
+- [ ] Shot ends: Opa preparing to extend the conversation
+- [ ] Shot distinct from Shot 16
+- [ ] Handoff to Shot 18 (everyday examples)
+- [ ] No background music
+- [ ] No on-screen text
+- [ ] Listening exercise completed — this is the payoff, not a repeat
 
-- [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Colour / lighting continuity verified
-- [ ] Pull-back stays inside the scene (no new establishing shot)
-- [ ] Silent shot confirmed silent (no accidental line)
-- [ ] No on-screen text / subtitles
-- [ ] Environment not reinterpreted
-- [ ] No abrupt cut to black.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
+---
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.
+Opa=120, Mimi=80, Luca=100.

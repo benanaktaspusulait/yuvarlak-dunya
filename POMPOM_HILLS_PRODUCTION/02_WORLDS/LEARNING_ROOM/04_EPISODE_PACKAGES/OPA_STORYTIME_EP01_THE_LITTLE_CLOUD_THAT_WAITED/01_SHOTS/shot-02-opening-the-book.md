@@ -8,32 +8,43 @@
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
 | Shot | 02 / 20 |
-| Duration | 15 seconds |
+| Duration | 15.0 seconds (0.0–15.0) |
 | Location | Learning Room — Reading Corner (indoor) |
-| Characters | Opa, Luca, Mimi |
+| Characters Present | Opa, Luca, Mimi |
+| Primary Focus | Opa and the book |
+| Book State | Opening — cover lifts, pages visible |
 
 ---
 
-## Frame Lock
+## Continuity Lock
 
 ```text
-Treat @image1 (Shot 01 final frame) as the complete visual master reference.
-Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
-The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
-The animation begins only after the first frame has matched @image1 perfectly.
-The viewer must not perceive a shot boundary.
+Environment, lighting, colour, character positions and book state carry over from Shot 01.
+Opa centre-left on cushion, Luca right, Mimi left — same staging map.
+Camera reframes from wide to medium; this is an intentional editorial cut, not a pixel-identical match.
+The room, props, window light and character costumes remain identical.
 ```
 
-## Background Object Lock
+---
 
-Background locked from the first frame. Rug, story chair, bookshelf, lantern, cushions and window remain identical. Do not repaint or reinterpret the Reading Corner. Only characters and the book may move.
+## Transition In
+
+```text
+Match on action from Shot 01 final frame: Opa begins lifting the book cover.
+Shot 01 ends with Opa holding the book ready; Shot 02 begins with the cover in motion.
+Camera pushes in from wide (28mm) to medium (35mm) — intentional reframing.
+```
+
+---
 
 ## Visual Prompt
 
 ```text
-Use Shot 01 video as Video Reference. Opa opens the picture book, Luca and Mimi lean in with curiosity, warm Reading Corner light unchanged, medium framing, {style} {camera} {lighting}
+Use Shot 01 video as Video Reference. Medium shot, Opa opens the rounded picture book slowly, Luca and Mimi lean in with curiosity. The book cover lifts to reveal soft illustration pages (no readable text). Warm Reading Corner light unchanged, medium framing, {style} {camera} {lighting}
 
 Match the lighting and colour grading exactly from the supplied continuity reference image. Do not change the established exposure, brightness or window-light intensity.
+
+All three characters visible: Opa centre-left, Luca right, Mimi left. Do not remove any character.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
 ```
@@ -42,7 +53,16 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 01 reference. Only after the first frame matches, hold a static medium. Lens 35mm, height 0.75m, static.
+Intentional reframe from Shot 01 wide to medium. Lens 35mm, height 0.75m, static after initial settle. This is a conscious editorial cut — not a continuous camera move. The viewer perceives a closer, more intimate framing of the same scene.
+
+---
+
+## Transition Out
+
+```text
+Cut to Shot 03 — eyeline match: Luca looks at the cloud shape on the page.
+Shot 03 reframes slightly tighter on Opa and Luca; Mimi remains present but softer in frame.
+```
 
 ---
 
@@ -58,90 +78,86 @@ Begin from the identical camera position of the Shot 01 reference. Only after th
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: Opa's hands on the closed book, children watching. | Medium, 35mm, static |
-| 1-3 sn | Opa lifts the book cover slowly, page turning sound. | Medium, 35mm, static |
-| 3-5 sn | Luca blinks, leans slightly forward. | Medium, 35mm, static |
-| 5-7 sn | Mimi tilts her head, eyes following the page turn. | Medium, 35mm, static |
-| 7-10 sn | The book page glows softly; both children's eyes widen. | Medium, 35mm, static |
-| 10-12 sn | Luca points gently at the glowing page. | Medium, 35mm, static |
-| 12-13 sn | Mimi leans closer, breathing softly. | Medium, 35mm, static |
-| 13-15 sn | Opa looks down at the book; children settle in anticipation. | Medium, 35mm, static |
+| 0.0–1.5 | Opa's hands on the closed book. He begins to lift the cover. Luca and Mimi watch. | Medium, 35mm, static |
+| 1.5–3.5 | The cover lifts slowly. Page-turn sound. Children lean forward slightly. | Medium, 35mm, static |
+| 3.5–5.0 | Luca blinks, eyes following the page. Mimi tilts her head. | Medium, 35mm, static |
+| 5.0–7.0 | The open page is visible — soft cloud illustration, no text. Both children's eyes widen gently. | Medium, 35mm, static |
+| 7.0–9.0 | Luca leans closer, breathing softly. Mimi shifts slightly on the rug. | Medium, 35mm, static |
+| 9.0–11.0 | Opa looks down at the page, then glances at the children. | Medium, 35mm, static |
+| 11.0–13.0 | Luca glances at Mimi — shared quiet excitement. | Medium, 35mm, static |
+| 13.0–15.0 | All three settle. Opa holds the book open. Anticipation. | Medium, 35mm, static |
 
 ---
 
-## Natural Character Motion Rule
+## Natural Character Motion
 
-This shot should feel calm but alive.
+- **Opa:** Lifts book cover (0.0–3.5), glances at children (9.0–10.0), holds book steady (13.0–15.0).
+- **Luca:** Leans forward (1.5–5.0), eyes widen at page (5.0–7.0), leans closer (7.0–9.0), glances at Mimi (11.0–12.0).
+- **Mimi:** Tilts head (3.5–5.0), eyes widen (5.0–7.0), shifts on rug (7.0–9.0), settles (13.0–15.0).
 
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-- leaning slightly
-- whispered reaction
-- shared glance
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
+No steps/hops. All seated. Background objects (plush toy, wooden bird) remain completely static.
 
 ---
 
 ## Sound
 
 - Soft indoor room tone
-- Gentle page turn
+- Gentle page-turn sound (1.5–3.5)
 - Warm ambience
-- Natural ambience only. No music. No background music.
+- Natural ambience only. No music.
 
 ---
 
 ## Lighting
 
-Continue Shot 01 lighting exactly. Warm window light, soft ambient glow. Do not reinterpret — continue it.
+Continue Shot 01 lighting exactly. Warm window light from left, soft ambient glow. Continue, do not reinterpret.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 01 video (or exported final frame)
-- Voice: same approved references for Opa, Luca and Mimi
+- Environment Image Reference: Learning Room Hero View
+- Character References: Opa, Luca, Mimi sheets
+- Video Reference: Shot 01 (match on action)
+- Previous Final Frame: Shot 01 (editorial reframe, not pixel-identical)
+
+---
+
+## Book State
+
+Shot 02: Book OPENS. Cover lifts (0.0–3.5), pages revealed (5.0+). Soft cloud illustration visible on the open page. No readable text. Book held by Opa.
+
+---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, story chair, character disappearance, character pop-in
+
+---
 
 ## QA Checklist
 
-Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
-
-- [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Luca, Mimi)
-- [ ] Colour / lighting continuity verified
-- [ ] Characters already present (no re-entry)
-- [ ] No readable text on book pages
+- [ ] Shot 02/20, exactly 15.0 seconds
+- [ ] Transition: match on action from Shot 01 (book opening)
+- [ ] Camera: intentional reframe to 35mm medium (not pixel-identical)
+- [ ] All 3 characters present: Opa, Luca, Mimi
+- [ ] Book state: OPENING → OPEN with cloud illustration
+- [ ] No readable text on pages
+- [ ] Lighting continuity from Shot 01
+- [ ] Colour continuity from Shot 01
+- [ ] No character disappearance or pop-in
+- [ ] Background objects static
+- [ ] No "story chair" reference
 - [ ] No on-screen text / subtitles
-- [ ] Environment not reinterpreted
-- [ ] No perceivable shot boundary.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
+- [ ] Shot feels calm but alive
+- [ ] No long empty pause
+- [ ] No random filler motion
+- [ ] No background music
+- [ ] OpenArt: environment @image1, characters @image2/@image3/@image4, video ref Shot 01
+- [ ] Next shot handoff: Cut to Shot 03, eyeline match (Luca looks at page)
+
+---
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Children readable for expression.
+Opa=120, Mimi=80, Luca=100 reference scale. Children readable for expression in medium framing.

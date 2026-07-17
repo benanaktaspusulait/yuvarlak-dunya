@@ -4,52 +4,71 @@
 
 ## Scene Context
 
-| Alan | Değer |
+| Field | Value |
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
 | Shot | 14 / 20 |
-| Duration | 15 seconds |
+| Duration | 15.0 seconds (0.0–15.0) |
 | Location | Learning Room — Reading Corner (indoor) |
-| Characters | Opa, Luca, Mimi |
+| Characters Present | Opa, Luca, Mimi |
+| Primary Focus | Opa (physical closure) |
+| Book State | OPEN at start → CLOSED during shot — Opa closes the book and places it on the rug |
 
 ---
 
-## Frame Lock
+## Continuity Lock
 
 ```text
-Treat @image1 (Shot 13 final frame) as the complete visual master reference.
-Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
-The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
-The animation begins only after the first frame has matched @image1 perfectly.
-The viewer must not perceive a shot boundary.
+Environment, lighting, colour carry over from Shot 13.
+Opa centre-left, Luca right, Mimi left — same staging map.
+Intentional editorial cut to 28mm wide (not focal-length change during pull-back).
 ```
 
-## Background Object Lock
+---
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the book may move.
+## Transition In
+
+```text
+Intentional editorial cut from Shot 13 to 28mm wide. Book has just been prepared for closing.
+```
+
+---
 
 ## Visual Prompt
 
 ```text
-Use Shot 13 video as Video Reference. Slow pull-back to a wide warm hold, Opa gently closes the picture book, Luca and Mimi smile, the Reading Corner holds quietly, {style} {camera} {lighting}
+@image1 Learning Room Hero View environment reference.
+@image2 Opa character reference.
+@image3 Luca character reference.
+@image4 Mimi character reference.
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Wide shot. Opa closes the book gently and places it on the rug beside him. Luca watches. Mimi follows the movement. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+Do not display dialogue as on-screen text. Use Shot 13 video as Video Reference.
 ```
 
 ---
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 13 reference. Slow pull-back to a wide hold. Lens 28mm, height 0.75m, slow pull-back (stays inside the existing scene — no new establishing shot).
+```text
+Lens: 28mm. Height: 0.75m. Static wide. Intentional editorial cut from Shot 13's 50mm dolly-in.
+```
+
+---
+
+## Transition Out
+
+```text
+Cut to Shot 15 — reframed to balance all three children for the reflection beat.
+```
 
 ---
 
 ## Dialogue
 
 ```
-(Quiet warm hold — no dialogue)
+(No dialogue — physical closure beat)
 ```
 
 ---
@@ -58,94 +77,83 @@ Begin from the identical camera position of the Shot 13 reference. Slow pull-bac
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: Opa's hands on the open book. | Pull-back, 28mm |
-| 1-3 sn | Opa gently closes the book, cover settling softly. | Pull-back, 28mm |
-| 3-5 sn | Luca blinks, looks at the closed book. | Wide, 28mm, settle |
-| 5-7 sn | Mimi tilts her head, smiling softly. | Wide, 28mm, settle |
-| 7-10 sn | Luca and Mimi exchange a warm glance. | Wide, 28mm, settle |
-| 10-12 sn | Opa breathes softly, hands resting on the closed book. | Wide, 28mm, static |
-| 12-13 sn | Mimi blinks, leaning slightly toward Luca. | Wide, 28mm, static |
-| 13-15 sn | All three characters settle peacefully; quiet warmth. | Wide, 28mm, static |
+| 0.0–2.0 | Opa holds the book. His hands begin closing it gently. Luca watches. | 28mm, static wide |
+| 2.0–4.0 | Opa closes the book fully. Soft cover settling sound. | 28mm, static wide |
+| 4.0–6.0 | Opa places the closed book gently on the rug beside him. | 28mm, static wide |
+| 6.0–8.0 | Luca watches the book being set down. Mimi follows the movement. | 28mm, static wide |
+| 8.0–10.0 | Opa rests his hands in his lap. The book sits closed on the rug. | 28mm, static wide |
+| 10.0–12.0 | Luca exhales softly, settling back on the rug. | 28mm, static wide |
+| 12.0–13.5 | Mimi shifts, getting comfortable. She glances at the window light. | 28mm, static wide |
+| 13.5–15.0 | Opa looks to both children. The story is physically over. | 28mm, static wide |
 
 ---
 
-## Natural Character Motion Rule
+## Natural Character Motion
 
-This shot should feel calm but alive.
-
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-- leaning slightly
-- whispered reaction
-- shared glance
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
+- **Opa:** Closes book (0.0–4.0), places it on rug (4.0–6.0), rests hands in lap (8.0–9.0), looks to both children (13.5–15.0).
+- **Luca:** Watches book (0.0–6.0), exhales and settles back (10.0–11.5).
+- **Mimi:** Follows movement (0.0–6.0), shifts and gets comfortable (12.0–13.0), glances at window light (12.5–13.5).
 
 ---
 
 ## Sound
 
-- Soft indoor room tone
-- Gentle book-close sound
-- Warm ambience
-- Natural ambience only. No music. No background music.
+- Book closing (2.0–4.0) — soft cover settling
+- Book placed on rug (4.0–5.5) — soft thud on carpet
+- Cushion settle (10.0–10.5) — Luca exhales and settles
+- Fabric shift (12.0–12.5) — Mimi adjusts
 
 ---
 
 ## Lighting
 
-Continue Shot 13 lighting exactly. Warm window light, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 13 lighting exactly. Warm window light from left arched window, soft ambient glow. Soft contact shadows. No hard shadows.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 13 video (or exported final frame)
-- Voice: no dialogue in this shot
+- @image1 Environment Reference: Learning Room Hero View
+- @image2 Character Reference: Opa sheet
+- @image3 Character Reference: Luca sheet
+- @image4 Character Reference: Mimi sheet
+- Video Reference: Shot 13 (editorial cut to 28mm)
+- Previous Final Frame: Shot 13
 
-## Character Presence
+---
 
-Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+## Book State
+
+Shot 14: Book is CLOSED. Opa closes it (2.0–4.0) and places it on the rug (4.0–5.5). This is the ACTUAL book close.
+
+---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, abrupt cut to black
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, story chair, character disappearance, character pop-in, full fantasy cutaway, moving background objects
+
+---
 
 ## QA Checklist
 
-Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
+- [ ] Shot 14/20, exactly 15.0 seconds
+- [ ] Transition: intentional editorial cut from Shot 13 to 28mm wide
+- [ ] All 3 characters present throughout
+- [ ] Book state: CLOSED — Opa closes book and places it on rug (ACTUAL book close)
+- [ ] No dialogue (physical closure beat)
+- [ ] Engagement: 5+ beats, no passive interval >3s
+- [ ] Foreground sounds: book closing, book placed on rug, cushion settle, fabric shift
+- [ ] No character disappearance
+- [ ] No generic blink-breathe-smile as primary motion
+- [ ] Camera: 28mm fixed (not pull-back from 50mm — editorial cut)
+- [ ] Shot ends: Opa looking to both children
+- [ ] Shot distinct from Shot 13
+- [ ] Handoff to Shot 15 (reflection beat)
+- [ ] No background music
+- [ ] No on-screen text
 
-- [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Colour / lighting continuity verified
-- [ ] Pull-back stays inside the scene (no new establishing shot)
-- [ ] Warm hold confirmed
-- [ ] Silent shot confirmed silent (no accidental line)
-- [ ] No on-screen text / subtitles
-- [ ] Environment not reinterpreted
-- [ ] No abrupt cut to black.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
+---
 
 ## Scale
 
-Opa=120, Mimi=80, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Wide warm group framing.
+Opa=120, Mimi=80, Luca=100.

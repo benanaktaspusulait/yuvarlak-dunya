@@ -8,30 +8,40 @@
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
 | Shot | 04 / 20 |
-| Duration | 15 seconds |
+| Duration | 15.0 seconds (0.0–15.0) |
 | Location | Learning Room — Reading Corner (indoor) |
-| Characters | Opa, Mimi |
+| Characters Present | Opa, Luca, Mimi |
+| Primary Focus | Opa and Mimi (story beat) |
+| Book State | Open — flower illustrations visible |
 
 ---
 
-## Frame Lock
+## Continuity Lock
 
 ```text
-Treat @image1 (Shot 03 final frame) as the complete visual master reference.
-Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
-The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
-The animation begins only after the first frame has matched @image1 perfectly.
-The viewer must not perceive a shot boundary.
+Environment, lighting, colour carry over from Shot 03.
+Opa centre-left, Luca right, Mimi left — same staging map.
+Camera reframes to include Mimi more prominently; intentional editorial cut.
+Book open. All three characters seated.
 ```
 
-## Background Object Lock
+---
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the book may move.
+## Transition In
+
+```text
+Reaction cut from Shot 03: Mimi's curiosity directs us to the next story beat.
+Shot 03 ends with the cloud shimmer; Shot 04 begins with Opa continuing the story.
+```
+
+---
 
 ## Visual Prompt
 
 ```text
-Use Shot 03 video as Video Reference. Static medium on book page with soft flower illustration (no readable text), Mimi leaning closer with a curious expression, {style} {camera} {lighting}
+Use Shot 03 video as Video Reference. Medium shot, Opa continues the story. The book page shows soft flower illustrations below the cloud (no readable text). Mimi reacts with curiosity, Luca present right. Warm Reading Corner light unchanged, {style} {camera} {lighting}
+
+All three characters visible: Opa centre-left, Luca right, Mimi left. Do not remove Luca.
 
 Match the lighting and colour grading exactly from the supplied continuity reference image.
 
@@ -42,16 +52,24 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No su
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 03 reference. Static medium on the book detail. Lens 50mm, height 0.60m, static.
+Lens 35mm, height 0.75m, static. Reframe to balance Mimi more prominently than Shot 03. Intentional editorial choice.
+
+---
+
+## Transition Out
+
+```text
+Cut to Shot 05 — match on action: Luca asks a question.
+```
 
 ---
 
 ## Dialogue
 
 ```
-Opa: The cloud looked down and saw flowers waiting below.
-Mimi: Were they thirsty?
-Opa: A little. The cloud wanted to help them right away.
+Opa: The cloud saw flowers waiting below.   (1.5–4.5)  7 words / 3.0s = 2.33 wps
+Mimi: Were they thirsty?                    (5.5–7.0)  3 words / 1.5s = 2.00 wps
+Opa: The cloud wanted to help them.         (8.5–11.0) 6 words / 2.5s = 2.40 wps
 ```
 
 ---
@@ -60,93 +78,89 @@ Opa: A little. The cloud wanted to help them right away.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: book page shows soft flowers waiting below. | Static medium, 50mm, static |
-| 1-3 sn | Opa: "The cloud looked down and saw flowers waiting below." | Static medium, 50mm, static |
-| 3-5 sn | Mimi blinks, eyes moving across the flower illustration. | Static medium, 50mm, static |
-| 5-7 sn | Mimi leans closer: "Were they thirsty?" | Static medium, 50mm, static |
-| 7-10 sn | Opa nods gently, hand resting near the page. | Static medium, 50mm, static |
-| 10-12 sn | Opa: "A little. The cloud wanted to help them right away." | Static medium, 50mm, static |
-| 12-13 sn | Mimi tilts her head, thinking. | Static medium, 50mm, static |
-| 13-15 sn | Mimi glances up at Opa; shared warm look. | Static medium, 50mm, static |
+| 0.0–1.5 | Opa turns the page gently. A soft flower illustration is revealed. | Medium, 35mm, static |
+| 1.5–4.5 | Opa: "The cloud saw flowers waiting below." — points to the flowers on the page. | Medium, 35mm, static |
+| 4.5–5.5 | Mimi leans forward, eyes on the flower illustration. | Medium, 35mm, static |
+| 5.5–7.0 | Mimi: "Were they thirsty?" — looks up at Opa. | Medium, 35mm, static |
+| 7.0–8.5 | Opa nods gently. Luca glances at the flowers on the page. | Medium, 35mm, static |
+| 8.5–11.0 | Opa: "The cloud wanted to help them." — finger moves from cloud to flowers. | Medium, 35mm, static |
+| 11.0–12.0 | Mimi's eyes widen. Luca shifts slightly, leaning in. | Medium, 35mm, static |
+| 12.0–13.5 | Opa holds the page steady. A soft page-light shift suggests the story deepening. | Medium, 35mm, static |
+| 13.5–15.0 | Mimi prepares to ask about the cloud's feelings. Luca watches. | Medium, 35mm, static |
 
 ---
 
-## Natural Character Motion Rule
+## Natural Character Motion
 
-This shot should feel calm but alive.
-
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-- leaning slightly
-- whispered reaction
-- shared glance
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
+- **Opa:** Turns page (0.0–1.5), points to flowers (2.0–3.5), nods (6.0–7.0), finger moves cloud-to-flowers (8.0–9.0), holds page steady (11.0–12.0).
+- **Mimi:** Leans forward (4.0–5.0), looks up at Opa (5.0–5.5), eyes widen (9.5–10.5).
+- **Luca:** Eyes on flowers (6.0–7.5), shifts/leans in (10.0–11.0).
 
 ---
 
 ## Sound
 
 - Soft indoor room tone
-- Gentle warm ambience
-- Natural ambience only. No music. No background music.
+- Page turn (0.0–1.5) — Opa turns to flower page
+- Finger brushing page (2.5–3.5) — Opa points to flowers
+- Soft cushion shift (10.0–10.5) — Luca leans in
+- Natural ambience only. No music.
 
 ---
 
 ## Lighting
 
-Continue Shot 03 lighting exactly. Warm window light, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 03 lighting exactly. Warm window light, soft ambient glow.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 03 video (or exported final frame)
-- Voice: same approved references for Opa and Mimi
+- Environment Image Reference: Learning Room Hero View
+- Character References: Opa, Luca, Mimi sheets
+- Video Reference: Shot 03 (reaction cut)
+- Previous Final Frame: Shot 03 (editorial reframe)
 
-## Character Presence
+---
 
-Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+## Book State
+
+Shot 04: Book is OPEN. Page turned to show flower illustrations below the cloud. No readable text. Opa's finger traces from cloud to flowers.
+
+---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, story chair, character disappearance, character pop-in, full fantasy cutaway
+
+---
 
 ## QA Checklist
 
-Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
-
-- [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Mimi)
-- [ ] Colour / lighting continuity verified
-- [ ] Static medium does not cut off world identity entirely
-- [ ] No readable text on book pages
+- [ ] Shot 04/20, exactly 15.0 seconds
+- [ ] Transition: reaction cut from Shot 03
+- [ ] Camera: 35mm medium, static
+- [ ] All 3 characters present: Opa, Luca, Mimi
+- [ ] Book state: OPEN, flower illustrations visible
+- [ ] Engagement: 5+ meaningful beats
+- [ ] No passive interval >3 seconds
+- [ ] Foreground sound: page turn (0.0s), page brush (2.5s), cushion shift (10.0s)
+- [ ] Dialogue: 3 lines (7w/3.0s=2.33, 3w/1.5s=2.00, 6w/2.5s=2.40), all ≤ 2.5 wps
+- [ ] Lighting/colour continuity
+- [ ] No character disappearance
+- [ ] Background objects static
+- [ ] No "story chair" reference
 - [ ] No on-screen text / subtitles
-- [ ] Environment not reinterpreted
-- [ ] No perceivable shot boundary.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
+- [ ] No generic blink-breathe-smile as primary action
+- [ ] Motion motivated by story (page turn, pointing, leaning)
+- [ ] Shot does not repeat Shot 03's pattern
+- [ ] Final frame handoff to Shot 05
+- [ ] No background music
+- [ ] OpenArt: environment @image1, characters @image2/@image3/@image4, video ref Shot 03
+- [ ] Next shot handoff: Cut to Shot 05
+
+---
 
 ## Scale
 
-Opa=120, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Book detail readable, expression clear.
+Opa=120, Mimi=80, Luca=100 reference scale.

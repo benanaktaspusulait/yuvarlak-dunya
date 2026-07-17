@@ -4,54 +4,73 @@
 
 ## Scene Context
 
-| Alan | Değer |
+| Field | Value |
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
 | Shot | 09 / 20 |
-| Duration | 15 seconds |
+| Duration | 15.0 seconds (0.0–15.0) |
 | Location | Learning Room — Reading Corner (indoor) |
-| Characters | Opa, Luca |
+| Characters Present | Opa, Luca, Mimi |
+| Primary Focus | Opa and Luca (story beat) |
+| Book State | Open — quiet-sky spread, raindrop appears |
 
 ---
 
-## Frame Lock
+## Continuity Lock
 
 ```text
-Treat @image1 (Shot 08 final frame) as the complete visual master reference.
-Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
-The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
-The animation begins only after the first frame has matched @image1 perfectly.
-The viewer must not perceive a shot boundary.
+Environment, lighting, colour carry over from Shot 08.
+Opa centre-left, Luca right, Mimi left — same staging map.
+Book open on Opa's lap. All three seated.
 ```
 
-## Background Object Lock
+---
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters, the book and the soft imagination glow may move.
+## Transition In
+
+```text
+Match on action from Shot 08: Opa's finger is on the raindrop spot on the page.
+```
+
+---
 
 ## Visual Prompt
 
 ```text
-Use Shot 08 video as Video Reference. Static medium on book page, gentle raindrop sparkle (soft imagination visual, no readable text), Luca watching with wonder, {style} {camera} {lighting}
+@image1 Learning Room Hero View environment reference.
+@image2 Opa character reference.
+@image3 Luca character reference.
+@image4 Mimi character reference.
 
-Match the lighting and colour grading exactly from the supplied continuity reference image. The imagination glow stays soft and small — no full fantasy cutaway, no loud effect.
+Medium shot. Opa describes the raindrop falling from the cloud. Luca reacts with surprise. Mimi present left, watching intently. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+Do not display dialogue as on-screen text. Use Shot 08 video as Video Reference.
 ```
 
 ---
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 08 reference. Very slow push-in on the book detail. Lens 50mm, height 0.60m, slow push-in (gentle, emotionally justified).
+```text
+Lens: 35mm. Height: 0.75m. Static. Continuation from Shot 08's reframe.
+```
+
+---
+
+## Transition Out
+
+```text
+Cut to Shot 10 — reframed to balance Mimi's question about the flowers opening.
+```
 
 ---
 
 ## Dialogue
 
 ```
-Opa: And then... one gentle drop fell.
-Luca: Just one?
-Opa: Just one. And then another.
+Opa: And then... one gentle drop fell.      (1.5–4.5)    [6 words, 3.0s]
+Luca: Just one?                             (5.5–6.5)    [2 words, 1.0s]
+Opa: Just one. Then another.                (8.0–10.0)   [4 words, 2.0s]
 ```
 
 ---
@@ -60,95 +79,83 @@ Opa: Just one. And then another.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: book page with soft glow, Luca watching. | Static medium, 50mm, slow push-in |
-| 1-3 sn | Opa: "And then... one gentle drop fell." | Static medium, 50mm, slow push-in |
-| 3-5 sn | Luca blinks, eyes wide at the page. | Static medium, 50mm, slow push-in |
-| 5-7 sn | Luca: "Just one?" | Static medium, 50mm, slow push-in |
-| 7-10 sn | Opa nods gently. | Static medium, 50mm, slow push-in |
-| 10-12 sn | Opa: "Just one. And then another." | Static medium, 50mm, settle |
-| 12-13 sn | Luca leans closer, breathing softly. | Static medium, 50mm, settle |
-| 13-15 sn | Luca looks up at Opa; shared warm glance. | Static medium, 50mm, settle |
+| 0.0–1.5 | Opa's finger traces from the cloud down to the raindrop on the page. Luca watches closely. | Medium, 35mm, static |
+| 1.5–4.5 | Opa: "And then... one gentle drop fell." — finger moves slowly down the page. | Medium, 35mm, static |
+| 4.5–5.5 | Luca's eyes widen slightly, mouth opening in surprise. | Medium, 35mm, static |
+| 5.5–6.5 | Luca: "Just one?" — looks up at Opa. | Medium, 35mm, static |
+| 6.5–8.0 | Opa pauses, looks at Luca warmly. Mimi watches, head tilted slightly. | Medium, 35mm, static |
+| 8.0–10.0 | Opa: "Just one. Then another." — finger traces a second raindrop. | Medium, 35mm, static |
+| 10.0–12.0 | Mimi's eyes follow the second raindrop. She prepares her flower question. | Medium, 35mm, static |
+| 12.0–15.0 | Mimi leans forward slightly, mouth forming her next question about the flowers. | Medium, 35mm, static |
 
 ---
 
-## Natural Character Motion Rule
+## Natural Character Motion
 
-This shot should feel calm but alive.
-
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-- leaning slightly
-- whispered reaction
-- shared glance
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
+- **Opa:** Finger traces cloud to raindrop (0.0–1.5), speaks (1.5–4.5), pauses and looks at Luca (6.5–7.5), speaks and traces second raindrop (8.0–10.0).
+- **Luca:** Eyes widen (4.5–5.0), speaks (5.5–6.5), looks at second raindrop (8.0–10.0).
+- **Mimi:** Watches intently (0.0–6.5), head tilted (6.5–8.0), eyes follow second raindrop (10.0–12.0), prepares question (12.0–15.0).
 
 ---
 
 ## Sound
 
-- Soft indoor room tone
-- One tiny soft drop cue
-- Warm ambience
-- Natural ambience only. No music. No background music.
+- Finger brushing page (10.0–10.5) — Opa traces second raindrop
+- Soft fabric shift (12.0–12.5) — Mimi leans forward
 
 ---
 
 ## Lighting
 
-Continue Shot 08 lighting exactly. Warm window light, soft ambient glow, plus a small soft glow from the book imagination visual. Continue, do not reinterpret.
+Continue Shot 08 lighting exactly. Warm window light from left arched window, soft ambient glow. Soft contact shadows. No hard shadows.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 08 video (or exported final frame)
-- Voice: same approved references for Opa and Luca
+- @image1 Environment Reference: Learning Room Hero View
+- @image2 Character Reference: Opa sheet
+- @image3 Character Reference: Luca sheet
+- @image4 Character Reference: Mimi sheet
+- Video Reference: Shot 08 (match on action)
+- Previous Final Frame: Shot 08
 
-## Character Presence
+---
 
-Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+## Book State
+
+Shot 09: Book is OPEN. Quiet-sky spread. Raindrop appears on page. No readable text.
+
+---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, full fantasy cutaway, loud magical effect
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, story chair, character disappearance, character pop-in, full fantasy cutaway, moving background objects
+
+---
 
 ## QA Checklist
 
-Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
+- [ ] Shot 09/20, exactly 15.0 seconds
+- [ ] Transition: match on action from Shot 08
+- [ ] All 3 characters present throughout
+- [ ] Book state: OPEN, quiet-sky spread, raindrop appears
+- [ ] Dialogue: 3 lines, word counts match (6w, 2w, 4w), wps ≤ 2.0
+- [ ] Dialogue timing gaps: 0.4–0.8s between speakers
+- [ ] Mimi does NOT have dialogue in this shot (nonverbal only)
+- [ ] Engagement: 5+ beats, no passive interval >3s
+- [ ] Foreground sounds: finger brushing page, fabric shift
+- [ ] No character disappearance
+- [ ] No generic blink-breathe-smile as primary motion
+- [ ] Shot ends: Mimi preparing her flower question
+- [ ] Shot distinct from Shot 08
+- [ ] Handoff to Shot 10 (Mimi's flower question)
+- [ ] No background music
+- [ ] No on-screen text
+- [ ] Cloud referred to as "the cloud" (no he/she)
 
-- [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Luca)
-- [ ] Colour / lighting continuity verified
-- [ ] Push-in slow and gentle (no fast zoom)
-- [ ] Imagination glow soft, no full fantasy cutaway
-- [ ] No readable text on book pages
-- [ ] No on-screen text / subtitles
-- [ ] Environment not reinterpreted
-- [ ] No perceivable shot boundary.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
+---
 
 ## Scale
 
-Opa=120, Luca=100 reference scale (`00-CORE/VARIABLES.md`). Book detail and expression readable.
+Opa=120, Mimi=80, Luca=100.

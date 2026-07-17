@@ -67,6 +67,7 @@ Connected to:
 - Cloud Hill
 - Tree Hill
 - Stone Hill
+- Learning Room
 
 Walking time:
 
@@ -324,6 +325,37 @@ Connected to:
 
 ---
 
+# Interior Spaces
+
+---
+
+## Learning Room
+
+Cozy wooden preschool learning cottage interior.
+
+The permanent canonical learning space for story time, drawing, arts and crafts,
+colour/number/shape learning, nature lessons, music time, quiet reading, and
+friendship moments.
+
+Large round wooden activity table at the centre. Small rounded preschool chairs.
+Large rounded chalkboard on back wall with simple hand-drawn chalk illustrations.
+Low wooden bookshelves with books facing outward. Reading corner with soft rug,
+cushions, lantern, and stuffed animals. Creative corner with paper, crayons,
+blocks, clay, and nature collection. Nature shelf with globe, wooden bird,
+magnifying glass, and toy microscope.
+
+Arched windows with warm morning sunlight. Indoor plants everywhere.
+Children's artwork, paper stars, leaf garlands, cloud mobiles, butterflies.
+
+Rounded shapes only. Soft clay and plush materials. Warm pastel palette.
+Natural wood tones with cream walls. No sharp edges. No modern technology.
+
+Connected to:
+
+- Central Square (walking distance)
+
+---
+
 # Nature Areas
 
 ---
@@ -498,6 +530,7 @@ Leads to:
 | Little Forest | Wish Pond | 2 min |
 | Cloud Hill | Rainbow Bridge | 2 min |
 | Rainbow Bridge | Rainbow Creek | 3 min |
+| Central Square | Learning Room | 1 min |
 
 ---
 

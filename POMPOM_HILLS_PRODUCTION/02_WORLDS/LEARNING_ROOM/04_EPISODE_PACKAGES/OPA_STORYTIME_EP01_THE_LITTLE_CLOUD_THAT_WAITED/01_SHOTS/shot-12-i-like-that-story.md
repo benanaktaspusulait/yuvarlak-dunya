@@ -4,53 +4,72 @@
 
 ## Scene Context
 
-| Alan | Değer |
+| Field | Value |
 | --- | --- |
 | Episode | The Little Cloud That Waited (Opa's Storytime) |
 | Shot | 12 / 20 |
-| Duration | 15 seconds |
+| Duration | 15.0 seconds (0.0–15.0) |
 | Location | Learning Room — Reading Corner (indoor) |
-| Characters | Opa, Mimi |
+| Characters Present | Opa, Luca, Mimi |
+| Primary Focus | Mimi and Opa (personal response) |
+| Book State | Open — flowers illustration |
 
 ---
 
-## Frame Lock
+## Continuity Lock
 
 ```text
-Treat @image1 (Shot 11 final frame) as the complete visual master reference.
-Preserve framing, colour identity, lighting, exposure, white balance, environment identity, character proportions and performance.
-The first visible frame must be visually indistinguishable from @image1. Treat @image1 as frame zero.
-The animation begins only after the first frame has matched @image1 perfectly.
-The viewer must not perceive a shot boundary.
+Environment, lighting, colour carry over from Shot 11.
+Opa centre-left, Luca right, Mimi left — same staging map.
+Book open on Opa's lap. All three seated.
 ```
 
-## Background Object Lock
+---
 
-Background locked from the first frame. Reading Corner elements remain identical. Do not repaint or reinterpret. Only characters and the book may move.
+## Transition In
+
+```text
+Cut from Shot 11: Mimi's forming expression leads to her personal response.
+```
+
+---
 
 ## Visual Prompt
 
 ```text
-Use Shot 11 video as Video Reference. Medium shot, Mimi says she likes the story with a small smile, Opa smiles warmly back, warm Reading Corner light unchanged, {style} {camera} {lighting}
+@image1 Learning Room Hero View environment reference.
+@image2 Opa character reference.
+@image3 Luca character reference.
+@image4 Mimi character reference.
 
-Match the lighting and colour grading exactly from the supplied continuity reference image.
+Medium shot. Mimi shares that she liked the story. Opa responds warmly. Luca present right, quietly thinking. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+Do not display dialogue as on-screen text. Use Shot 11 video as Video Reference.
 ```
 
 ---
 
 ## Camera Direction
 
-Begin from the identical camera position of the Shot 11 reference. Static medium. Lens 35mm, height 0.75m, static.
+```text
+Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 11 to reframe Mimi.
+```
+
+---
+
+## Transition Out
+
+```text
+Cut to Shot 13 — reframed to balance Luca's "I can wait too" moment.
+```
 
 ---
 
 ## Dialogue
 
 ```
-Mimi: I like that story.
-Opa: I'm glad, little one.
+Mimi: I like that story.                    (2.0–4.0)    [4 words, 2.0s]
+Opa: I am glad.                             (5.5–7.0)    [3 words, 1.5s]
 ```
 
 ---
@@ -59,92 +78,85 @@ Opa: I'm glad, little one.
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-1 sn | Continuity hold: Opa and Mimi on the rug. | Medium, 35mm, static |
-| 1-3 sn | Mimi blinks, looks at the book page. | Medium, 35mm, static |
-| 3-5 sn | Mimi: "I like that story." | Medium, 35mm, static |
-| 5-7 sn | Opa smiles warmly. | Medium, 35mm, static |
-| 7-10 sn | Opa: "I'm glad, little one." | Medium, 35mm, static |
-| 10-12 sn | Mimi nods slowly, feeling safe. | Medium, 35mm, static |
-| 12-13 sn | Mimi glances up at Opa with a small smile. | Medium, 35mm, static |
-| 13-15 sn | Opa and Mimi share a warm look. | Medium, 35mm, static |
+| 0.0–2.0 | Mimi looks at Opa, expression softening as she prepares to share her feeling. | Medium, 35mm, static |
+| 2.0–4.0 | Mimi: "I like that story." — sincere, quiet tone. | Medium, 35mm, static |
+| 4.0–5.5 | Opa looks at Mimi warmly. Luca glances at Mimi. | Medium, 35mm, static |
+| 5.5–7.0 | Opa: "I am glad." — gentle nod. | Medium, 35mm, static |
+| 7.0–8.5 | Luca looks at the open flower illustration on the page, studying it. | Medium, 35mm, static |
+| 8.5–10.0 | Luca's fingers move briefly as he thinks — a small restless motion. | Medium, 35mm, static |
+| 10.0–11.0 | His hands become still. He has found his thought. | Medium, 35mm, static |
+| 11.0–12.5 | Luca lifts his eyes from the page toward Opa. His expression shifts from uncertainty to quiet decision. | Medium, 35mm, static |
+| 12.5–14.0 | Luca's mouth opens slightly — he is ready to speak. Mimi notices. | Medium, 35mm, static |
+| 14.0–15.0 | Luca visibly prepared to share his personal response. | Medium, 35mm, static |
 
 ---
 
-## Natural Character Motion Rule
+## Natural Character Motion
 
-This shot should feel calm but alive.
-
-Characters may use:
-- blinking
-- breathing
-- small smiles
-- gentle head turns
-- small hand gestures
-- one or two soft steps/hops
-- looking at an object
-- looking at another character
-- pointing gently
-- shared reaction
-- leaning slightly
-- whispered reaction
-- shared glance
-
-Do not freeze the characters.
-Do not make the shot only a static talking pose.
-Do not leave long empty pauses.
-Do not make characters stare silently for several seconds.
+- **Mimi:** Prepares to share (0.0–1.5), speaks (2.0–4.0), notices Luca (12.5–13.5).
+- **Opa:** Looks at Mimi warmly (4.0–5.0), speaks and nods (5.5–7.0).
+- **Luca:** Glances at Mimi (4.5–5.5), studies flower illustration (7.0–8.5), fingers move briefly (8.5–10.0), hands still (10.0–11.0), lifts eyes to Opa (11.0–12.5), expression shifts to decision (12.5–14.0), mouth opens slightly (14.0–15.0).
 
 ---
 
 ## Sound
 
-- Soft indoor room tone
-- Gentle warm ambience
-- Natural ambience only. No music. No background music.
+- Soft finger/fabric rustle (8.5–9.5) — Luca's fingers move briefly while thinking
+- Very soft clothing movement (11.0–12.0) — Luca lifts his head toward Opa
 
 ---
 
 ## Lighting
 
-Continue Shot 11 lighting exactly. Warm window light, soft ambient glow. Continue, do not reinterpret.
+Continue Shot 11 lighting exactly. Warm window light from left arched window, soft ambient glow. Soft contact shadows. No hard shadows.
 
 ---
 
 ## Reference Usage
 
-- Continuity Reference: Shot 11 video (or exported final frame)
-- Voice: same approved references for Opa and Mimi
+- @image1 Environment Reference: Learning Room Hero View
+- @image2 Character Reference: Opa sheet
+- @image3 Character Reference: Luca sheet
+- @image4 Character Reference: Mimi sheet
+- Video Reference: Shot 11 (cut from Mimi's forming expression)
+- Previous Final Frame: Shot 11
 
-## Character Presence
+---
 
-Opa is already present at the beginning of the shot. Do not introduce any character after the shot has started.
+## Book State
+
+Shot 12: Book is OPEN. Flowers illustration on page. NO closing. No readable text.
+
+---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, static waiting, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed
+low quality, blurry, deformed, extra limbs, text, watermark, readable text on book pages, photorealistic, horror, scary, dark lighting, violence, weapons, sharp objects, extra characters, redesigned environment, cluttered classroom, modern screens, harsh fluorescent lighting, dark library look, scary shadows, adult lecture feeling, different world, static talking pose, characters frozen, frozen character, no movement, long empty pause, silent staring, awkward pause, dead air, characters staring silently, frozen dialogue, inactive characters, random filler motion, meaningless movement, background music, music, melody, song, soundtrack, musical bed, story chair, character disappearance, character pop-in, full fantasy cutaway, moving background objects
+
+---
 
 ## QA Checklist
 
-Reference: `16_VIDEO_QA_SPEC.md`, `00-CORE/SCENE_QA_CHECKLIST.md`
+- [ ] Shot 12/20, exactly 15.0 seconds
+- [ ] Transition: cut from Shot 11 (Mimi's forming expression)
+- [ ] All 3 characters present throughout
+- [ ] Book state: OPEN, flowers illustration, NO closing
+- [ ] Dialogue: 2 lines, word counts match (4w, 3w), wps ≤ 2.0
+- [ ] Dialogue timing gaps: 0.4–0.8s between speakers
+- [ ] Engagement: 5+ beats, no passive interval >3s
+- [ ] Foreground sounds: finger/fabric rustle, soft clothing movement
+- [ ] No character disappearance
+- [ ] No generic blink-breathe-smile as primary motion
+- [ ] Shot ends: Luca quietly thinking
+- [ ] Shot distinct from Shot 11
+- [ ] Handoff to Shot 13 (Luca's "I can wait too" moment)
+- [ ] No background music
+- [ ] No on-screen text
+- [ ] Cloud referred to as "the cloud" (no he/she)
+- [ ] No moral-lecture language
 
-- [ ] Frame Lock present; first frame indistinguishable from @image1
-- [ ] Voice continuity verified (Opa, Mimi)
-- [ ] Colour / lighting continuity verified
-- [ ] No readable text on book pages
-- [ ] No on-screen text / subtitles
-- [ ] Environment not reinterpreted
-- [ ] No perceivable shot boundary.
-- [ ] Shot feels calm but alive.
-- [ ] Shot is not a static talking pose.
-- [ ] No long empty pause occurs.
-- [ ] No characters stare silently for several seconds.
-- [ ] Every 2-3 seconds has a clear action, reaction, or dialogue beat.
-- [ ] Dialogue is supported by physical action.
-- [ ] Characters blink, breathe, gesture, turn, step, point, or react naturally.
-- [ ] Existing continuity hold does not freeze the character unnaturally.
-- [ ] Camera stability does not kill character motion.
-- [ ] No random filler motion appears.
+---
 
 ## Scale
 
-Opa=120, Mimi=80 reference scale (`00-CORE/VARIABLES.md`). Expression readable.
+Opa=120, Mimi=80, Luca=100.

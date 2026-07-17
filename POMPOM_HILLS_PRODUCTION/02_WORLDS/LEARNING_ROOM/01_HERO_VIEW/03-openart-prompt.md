@@ -2,28 +2,151 @@ Create the single canonical Hero View for Learning Room in the Pompom Hills pres
 
 This must be a premium master world image, not a generic classroom, not a poster, and not a concept board. It should look like a real reusable location from a high-quality preschool animated series: instantly recognisable, memorable, warm, magical, calm, soft, handcrafted, and spatially clear.
 
+---
+
+CORE IDENTITY TO PRESERVE:
+- Large round wooden activity table as the primary visual anchor.
+- 5–6 small rounded preschool chairs.
+- Large circular warm-charcoal chalkboard on the rear wall.
+- Tall arched windows on the left.
+- Reading corner on the left.
+- Creative and nature-learning areas on the right.
+- Curved wooden ceiling beams.
+- Pastel bunting and cloud mobile.
+- Cream walls, warm natural wood, and living green plants.
+- Safe, peaceful, handcrafted PomPom Hills atmosphere.
+
+---
+
 FORMAT AND COMPOSITION:
-Ultra-wide establishing shot, 16:9.
-Child-eye camera height, around 0.80 m.
-35 mm lens feeling.
-Wide, open, breathable interior composition with clear spatial depth.
-The room is a warm wooden cabin interior with arched windows. The image should guide the eye naturally from foreground to middle ground to horizon:
-soft warm wooden floor with a round pastel rug → a large round wooden activity table with small chairs → a round chalkboard on the back wall with simple drawings → low shelves with books, plants, and art supplies → arched windows showing soft daylight and green trees outside.
+1920×1080, 16:9.
+Wide interior establishing shot.
+Natural 30–32mm wide-angle lens.
+Camera at approximately 0.75 metre child eye-level.
 
-PRIMARY WORLD IDENTITY:
-Learning Room must be instantly recognisable from this image alone.
-It is a warm wooden cabin interior with a round activity table, a chalkboard, and cozy learning corners.
-At the centre, a large round wooden table with 4-6 small round chairs in pastel colours invites group activities. Behind it, a round chalkboard shows simple chalk drawings — a smiling sun, a mountain, a butterfly. Low wooden shelves line the walls with books facing outward, small potted plants, wooden toys, and art supplies. A soft reading corner with cushions sits at one end.
+Refine the scene into a carefully art-directed wide establishing shot.
+Use a balanced triangular composition connecting:
+1. The central activity table.
+2. The circular chalkboard.
+3. The cosy reading corner.
 
-ENVIRONMENT:
-Warm natural wood covers the walls, floor, and ceiling with rounded beams and gentle grain. Arched windows let in soft golden daylight and show green trees and soft sky outside. The round activity table is warm honey wood. Small round chairs in pastel pink, blue, yellow, and green surround it. Low shelves hold books facing outward, small potted plants, wooden blocks, and art supplies. A round chalkboard on the back wall shows simple hand-drawn chalk illustrations. A soft reading corner has a round rug, floor cushions in warm tones, and a small bookshelf. Everything is warm, natural, and child-scaled.
+Keep the table prominent but do not let it block the functional areas behind it.
+Create clean visual separation between the reading, creative and nature zones.
+Avoid awkward overlaps, object tangencies, and crowded shelves.
+Frame the room gently with foreground plants to create depth, without blocking important props.
 
-COLOUR DIRECTION:
-Use warm natural wood tones — honey, amber, soft brown — as the dominant base. Pastel accents come from the chairs, cushions, and book covers — soft pink, gentle blue, warm yellow, fresh green. The chalkboard is soft grey-green with white chalk drawings. Daylight through the windows is warm gold. Plants add natural green accents. Avoid cold, clinical, or fluorescent colours. The overall feeling is warm, natural, cozy, and inviting.
+---
+
+LIGHTING:
+Create beautiful warm morning sunlight entering from the left arched windows.
+Use soft global illumination, subtle volumetric sun rays, and delicate floating dust particles visible only inside the light beams.
+Maintain controlled window exposure so the windows are luminous but not pure white.
+Add soft contact shadows beneath furniture and props.
+Use subtle ambient occlusion where objects meet the floor and shelves.
+No harsh shadows and no dramatic contrast.
+The room must feel bright, calm, safe, and naturally illuminated.
+
+---
+
+VISUAL HIERARCHY:
+The viewer's eye should first notice the round activity table, then the chalkboard, then discover the reading and creative corners.
+Use slightly stronger warmth and illumination around the table.
+Keep background details softer and quieter.
+Use gentle depth-of-field only in the extreme foreground; all major landmarks must remain clear and usable as production reference.
+
+---
+
+MATERIAL QUALITY:
+Upgrade every material with refined handcrafted detail:
+- Natural honey-coloured wood with subtle grain variation.
+- Matte cream plaster walls.
+- Soft wool texture on the reading rug.
+- Woven fabric texture on the pastel cushions.
+- Matte painted wooden toys.
+- Soft clay surfaces on creative materials.
+- Realistic but stylised leaves with gentle translucency.
+- Warm charcoal slate texture on the circular chalkboard.
+
+Avoid excessive gloss and plastic-looking surfaces.
+The result must combine handcrafted storybook warmth with clean, premium stylised 3D animation quality.
+
+---
+
+COLOUR ART DIRECTION:
+Reduce the excessive orange colour cast.
+Balance the wood with warm cream, sage green, dusty pink, muted sky blue, and soft butter yellow.
+Use the pastel colours as controlled accents rather than covering every object.
+Maintain medium saturation, low contrast, and warm neutral highlights.
+The dark chalkboard should provide a gentle focal contrast without becoming black or visually heavy.
+
+---
+
+LEFT READING CORNER:
+Retain the rounded cream rug, pastel cushions, and warm lantern.
+Add a low rounded wooden front-facing bookshelf.
+Include 4–6 pastel picture books with illustration-only covers — absolutely no readable words or letters on any book.
+Add one small generic plush woodland animal (bunny or bear) sitting beside the cushions.
+Make the corner feel cosy, inviting, and suitable for quiet reading.
+
+---
+
+RIGHT CREATIVE CORNER:
+Add an organised wooden art caddy.
+Include pastel crayons and coloured pencils.
+Add a few blank drawing sheets.
+Include three small modelling-clay pots (closed, in pastel tones).
+Add a small arrangement of rounded wooden building blocks.
+Keep generous empty space and avoid clutter.
+The creative corner should feel like a place where a child would sit down and make something.
+
+---
+
+NATURE OBSERVATION AREA:
+Retain the globe, wooden bird, leaves, pinecones, and toy microscope.
+Add one child-safe wooden magnifying glass.
+Arrange the collection like a carefully curated preschool discovery shelf.
+Make every object clearly visible and naturally placed.
+
+---
+
+CHARM DETAILS:
+Add one subtle pastel butterfly wall ornament in a quiet empty wall area. It must not compete with the table or chalkboard.
+Add restrained handcrafted imperfections so the room does not feel computer-perfect.
+Include only a few charming micro-details:
+- A slightly tilted cushion.
+- One picture book resting beside the rug.
+- A small leaf specimen near the magnifying glass.
+Every detail must support learning, calmness, or curiosity.
+
+---
+
+CHALKBOARD:
+Remove all readable alphabet letters, words, and numbers.
+Use only sparse, childlike, non-readable chalk illustrations:
+- A smiling sun.
+- A soft cloud.
+- A leaf.
+- A flower.
+- Rounded shapes.
+- Gentle curved lines.
+Keep large areas of the board empty. Do not overcrowd.
+
+---
+
+CLEAN HERO VIEW:
+No characters, no children, no animals.
+No title bar or footer.
+No asset IDs or annotation labels.
+No readable text, logos, or watermarks.
+No black header or footer bars, no overlay labels, no version numbers.
+A clean production Hero View only.
+
+---
 
 STYLE:
 Pompom Hills visual language.
-High-quality preschool animation environment.
+Feature-quality stylised 3D environment render.
+Polished enough for a professional animated preschool series.
 Soft pastel palette with warm wood tones.
 Matte handcrafted toy-set materials.
 Rounded safe shapes.
@@ -43,10 +166,14 @@ No neon colours.
 No extreme saturation.
 No overly polished Pixar-like hyper-gloss look.
 
+---
+
 MOOD:
-Warm, curious, cozy, inviting, safe, and emotionally nurturing.
-It should feel like a place where children would settle in, pick up a book, and discover something wonderful.
-The scene should feel like a warm embrace that encourages learning through wonder and gentle exploration.
+Warm, magical, calm, educational, and emotionally inviting.
+The finished image should make a child think:
+"I feel safe here, and I want to sit at that table and discover something."
+
+---
 
 IMPORTANT DIFFERENTIATION:
 Do not make it look like Art Corner (outdoor open-air studio with easels, not indoor room).
@@ -55,12 +182,18 @@ Do not make it look like Poppy's Bakery (food-focused with oven, not learning-fo
 Do not make it look like Kiko's Home (a home living room, not a dedicated learning space).
 Do not make it look like a library (too quiet, too many books on tall shelves — this is active learning).
 
+---
+
 FORBIDDEN:
-No text, no labels, no signs, no logo, no map marker, no title, no caption.
+No text, no labels, no signs, no logo, no map marker, no title, no caption, no readable letters or numbers anywhere.
 No characters, no children, no rabbits, no animals, no birds.
 No fluorescent lights, no whiteboards, no computers, no screens, no projectors.
 No desks in rows, no teacher's desk, no classroom rules posters, no clock on wall.
 No sharp corners, no metal fixtures, no glass display cases, no filing cabinets.
 No harsh shadows, no high contrast, no HDR, no glossy plastic, no glossy CGI, no photorealism, no oversharpened details.
+No excessive orange colour cast.
+No computer-perfect surfaces — restrained handcrafted imperfections only.
 
-The final image must feel like the definitive Learning Room Hero View: iconic, readable, reusable, warm, curious, cozy, and unmistakably Pompom Hills.
+---
+
+The final image must be the definitive Learning Room Hero View: iconic, readable, reusable, warm, curious, cozy, and unmistakably Pompom Hills. All objects must match the exact scale, lighting, material quality, depth, and polished 3D animated style. The result should feel like the same room after its missing production assets were installed — feature-quality, professional, and ready for a preschool animated series.
