@@ -13,6 +13,11 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Group (reflection beat) |
 | Book State | Closed — on rug |
+| Production Block | Block D |
+| Block World Anchor | Shot 13 |
+| Generation Mode | BLOCK CONTINUATION |
+| Camera Rig ID | RIG-D |
+| Previous Video Usage | Shot 14 |
 
 ---
 
@@ -21,6 +26,7 @@
 ```text
 Environment, lighting, colour carry over from Shot 14.
 Opa centre-left, Luca right, Mimi left — same staging map.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 Book closed on rug beside Opa. All three seated.
 ```
 
@@ -30,6 +36,7 @@ Book closed on rug beside Opa. All three seated.
 
 ```text
 Cut from Shot 14: Opa's look to both children leads naturally to his question.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -37,14 +44,15 @@ Cut from Shot 14: Opa's look to both children leads naturally to his question.
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Block D World Anchor (Shot 13) — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: Shot 14 — motion, pose, prop-state continuity only.
 
 Medium shot. Opa asks if they liked the story. Luca responds enthusiastically. Mimi adds her observation. All three present. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. Use Shot 14 video as Video Reference.
+Do not display dialogue as on-screen text.
 ```
 
 ---
@@ -52,7 +60,7 @@ Do not display dialogue as on-screen text. Use Shot 14 video as Video Reference.
 ## Camera Direction
 
 ```text
-Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 14's 28mm wide.
+Lens: 35mm. Height: 0.75m. Static. Fixed 35mm, static at Shot 13's final position.
 ```
 
 ---
@@ -60,7 +68,7 @@ Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 14's 28mm
 ## Transition Out
 
 ```text
-Cut to Shot 16 — reframed to emphasise Opa's introduction of the listening activity.
+Cut to Shot 16 — continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -79,14 +87,14 @@ Mimi: And the flowers were pretty.          (9.0–11.5)   [5 words, 2.5s]
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–2.0 | Opa looks at both children, hands resting in his lap. Book closed on rug. | Medium, 35mm, static |
-| 2.0–4.5 | Opa: "Did you like the story?" — warm, inviting tone. | Medium, 35mm, static |
-| 4.5–6.0 | Luca's face lights up. Mimi looks at Opa. | Medium, 35mm, static |
-| 6.0–7.5 | Luca: "Yes! The cloud waited." — enthusiastic. | Medium, 35mm, static |
-| 7.5–9.0 | Mimi nods, preparing to add her observation. | Medium, 35mm, static |
-| 9.0–11.5 | Mimi: "And the flowers were pretty." — gentle smile. | Medium, 35mm, static |
-| 11.5–13.0 | Opa nods, looking at both children. | Medium, 35mm, static |
-| 13.0–15.0 | Attention shifts toward participation — Opa's posture changes slightly. | Medium, 35mm, static |
+| 0.0–2.0 | Opa looks at both children, hands resting in his lap. Book closed on rug. | 35mm, static |
+| 2.0–4.5 | Opa: "Did you like the story?" — warm, inviting tone. | 35mm, static |
+| 4.5–6.0 | Luca's face lights up. Mimi looks at Opa. | 35mm, static |
+| 6.0–7.5 | Luca: "Yes! The cloud waited." — enthusiastic. | 35mm, static |
+| 7.5–9.0 | Mimi nods, preparing to add her observation. | 35mm, static |
+| 9.0–11.5 | Mimi: "And the flowers were pretty." — gentle smile. | 35mm, static |
+| 11.5–13.0 | Opa nods, looking at both children. | 35mm, static |
+| 13.0–15.0 | Attention shifts toward participation — Opa's posture changes slightly. | 35mm, static |
 
 ---
 
@@ -113,18 +121,20 @@ Continue Shot 14 lighting exactly. Warm window light from left arched window, so
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 14 (cut from Opa's look to children)
-- Previous Final Frame: Shot 14
+- @image1: Block D World Anchor (Shot 13)
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: Shot 14 — motion/pose/prop continuity only
+- Block: D
+- Mode: BLOCK CONTINUATION
+- Previous block final frame: NOT used for generation (manual QA only)
 
 ---
 
 ## Book State
 
-Shot 15: Book is CLOSED. On rug beside Opa. No readable text.
+Shot 15: Book is CLOSED. On rug beside Opa. The same closed book with matte warm-toned cover and embossed cloud motif rests on the rug. No readable text. No cover redesign, colour shift or motif disappearance.
 
 ---
 
@@ -152,8 +162,22 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] No background music
 - [ ] No on-screen text
 - [ ] Cloud referred to as "the cloud" (no he/she)
-
----
+- [ ] Production block correctly identified: Block D
+- [ ] Block World Anchor: Shot 13
+- [ ] Generation mode matches: BLOCK CONTINUATION
+- [ ] Camera Rig ID: RIG-D
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ## Scale
 

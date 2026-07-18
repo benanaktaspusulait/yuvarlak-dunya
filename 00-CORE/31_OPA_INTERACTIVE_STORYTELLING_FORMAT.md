@@ -269,6 +269,15 @@ Because most episodes are reading/storytelling episodes, the masal may be visual
 
 **Not allowed:** full cutaway to another world (unless a specific episode explicitly requests it), sudden fantasy environment, loud effects, scary imagery, fast montage, complicated magical effects, readable text in the book or anywhere on screen.
 
+### Permanent Seating and Screen-Direction Lock
+
+All Opa's Storytime shots use one canonical Reading Corner seating arrangement. See `MEMORY-production-rules-stable.md` for the full PERMANENT SEATING AND SCREEN-DIRECTION LOCK rule. Key points:
+
+- **World-space:** Opa at rear edge of round cream rug (rear apex of shallow triangle). Mimi on front-left. Luca on front-right. Camera never changes their world-space placement.
+- **Screen positions:** Opa centre-left or central. Mimi always screen-left. Luca always screen-right. Never interpret from character's perspective. Never mirror, reverse or swap.
+- **Body orientation:** Mimi turns screen-right toward Opa/book. Luca turns screen-left toward Opa/book. Opa faces forward between children. All three in readable three-quarter view.
+- **World Anchor shots (01, 05, 09, 13, 17):** Must reconstruct exact floor positions. Only facial expression, gaze, hands, upper-body lean and book state may change.
+
 Camera, colour, lighting and negative-prompt rules follow `00-CORE/17_VIDEO_GENERATION_STANDARD.md`, `00-CORE/CONTINUITY_RULES.md`, and `00-CORE/NEGATIVE_PROMPTS.md` — this document does not duplicate them.
 
 ---

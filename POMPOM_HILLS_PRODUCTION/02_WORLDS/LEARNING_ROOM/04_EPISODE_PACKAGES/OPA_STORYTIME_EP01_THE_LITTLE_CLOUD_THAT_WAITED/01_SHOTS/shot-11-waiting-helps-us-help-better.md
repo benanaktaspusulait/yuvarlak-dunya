@@ -13,6 +13,11 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Opa and Luca (story lesson) |
 | Book State | Open — flower illustration |
+| Production Block | Block C |
+| Block World Anchor | Shot 09 |
+| Generation Mode | BLOCK CONTINUATION |
+| Camera Rig ID | RIG-C |
+| Previous Video Usage | Shot 10 |
 
 ---
 
@@ -21,6 +26,7 @@
 ```text
 Environment, lighting, colour carry over from Shot 10.
 Opa centre-left, Luca right, Mimi left — same staging map.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 Book open on Opa's lap. All three seated.
 ```
 
@@ -30,6 +36,7 @@ Book open on Opa's lap. All three seated.
 
 ```text
 Cut from Shot 10: Opa's shifted attention to both children leads to his reflective line.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -37,14 +44,15 @@ Cut from Shot 10: Opa's shifted attention to both children leads to his reflecti
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Block C World Anchor (Shot 09) — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: Shot 10 — motion, pose, prop-state continuity only.
 
 Medium shot. Opa shares the story's lesson about waiting. Luca asks a clarifying question. Opa confirms. Mimi present left, forming her personal response. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. Use Shot 10 video as Video Reference.
+Do not display dialogue as on-screen text.
 ```
 
 ---
@@ -52,7 +60,7 @@ Do not display dialogue as on-screen text. Use Shot 10 video as Video Reference.
 ## Camera Direction
 
 ```text
-Lens: 35mm. Height: 0.75m. Static. Continuation from Shot 10's reframe.
+Lens: 35mm. Height: 0.75m. Static. Inherited from Shot 09 — no independent reframe.
 ```
 
 ---
@@ -60,7 +68,7 @@ Lens: 35mm. Height: 0.75m. Static. Continuation from Shot 10's reframe.
 ## Transition Out
 
 ```text
-Cut to Shot 12 — reframed to balance Mimi's personal response.
+Cut to Shot 12 — continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -79,14 +87,14 @@ Opa: Yes. The flowers were ready.           (9.0–11.5)   [5 words, 2.5s]
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–2.0 | Opa looks at both children, finger resting on the flower illustration. | Medium, 35mm, static |
-| 2.0–4.5 | Opa: "Waiting helps us help better." — gentle, reflective tone. | Medium, 35mm, static |
-| 4.5–6.0 | Luca tilts his head, thinking about the idea. | Medium, 35mm, static |
-| 6.0–7.5 | Luca: "Better than rushing?" — looks up at Opa. | Medium, 35mm, static |
-| 7.5–9.0 | Opa nods. Mimi listens, hand moving to her chin. | Medium, 35mm, static |
-| 9.0–11.5 | Opa: "Yes. The flowers were ready." — gestures toward the illustration. | Medium, 35mm, static |
-| 11.5–13.0 | Mimi forms her personal response, mouth slightly open. | Medium, 35mm, static |
-| 13.0–15.0 | Mimi's expression shows she is processing the lesson. | Medium, 35mm, static |
+| 0.0–2.0 | Opa looks at both children, finger resting on the flower illustration. | 35mm, static |
+| 2.0–4.5 | Opa: "Waiting helps us help better." — gentle, reflective tone. | 35mm, static |
+| 4.5–6.0 | Luca tilts his head, thinking about the idea. | 35mm, static |
+| 6.0–7.5 | Luca: "Better than rushing?" — looks up at Opa. | 35mm, static |
+| 7.5–9.0 | Opa nods. Mimi listens, hand moving to her chin. | 35mm, static |
+| 9.0–11.5 | Opa: "Yes. The flowers were ready." — gestures toward the illustration. | 35mm, static |
+| 11.5–13.0 | Mimi forms her personal response, mouth slightly open. | 35mm, static |
+| 13.0–15.0 | Mimi's expression shows she is processing the lesson. | 35mm, static |
 
 ---
 
@@ -113,12 +121,14 @@ Continue Shot 10 lighting exactly. Warm window light from left arched window, so
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 10 (cut from Opa's shifted attention)
-- Previous Final Frame: Shot 10
+- @image1: Block C World Anchor (Shot 09)
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: Shot 10 — motion/pose/prop continuity only
+- Block: C
+- Mode: BLOCK CONTINUATION
+- Previous block final frame: NOT used for generation (manual QA only)
 
 ---
 
@@ -153,6 +163,22 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] No on-screen text
 - [ ] Cloud referred to as "the cloud" (no he/she)
 - [ ] Lesson is about patient, considerate timing — not delaying urgent help
+- [ ] Production block correctly identified: Block C
+- [ ] Block World Anchor: Shot 09
+- [ ] Generation mode matches: BLOCK CONTINUATION
+- [ ] Camera Rig ID: RIG-C
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ---
 

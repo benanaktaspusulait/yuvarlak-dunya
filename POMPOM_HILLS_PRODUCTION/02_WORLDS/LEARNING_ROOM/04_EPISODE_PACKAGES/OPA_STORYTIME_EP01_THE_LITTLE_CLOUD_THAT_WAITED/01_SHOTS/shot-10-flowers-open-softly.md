@@ -13,6 +13,11 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Mimi, Opa, and Luca (story climax) |
 | Book State | Open — transition to fully opened flowers |
+| Production Block | Block C |
+| Block World Anchor | Shot 09 |
+| Generation Mode | BLOCK CONTINUATION |
+| Camera Rig ID | RIG-C |
+| Previous Video Usage | Shot 09 |
 
 ---
 
@@ -21,6 +26,7 @@
 ```text
 Environment, lighting, colour carry over from Shot 09.
 Opa centre-left, Luca right, Mimi left — same staging map.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 Book open on Opa's lap. All three seated.
 ```
 
@@ -30,6 +36,7 @@ Book open on Opa's lap. All three seated.
 
 ```text
 Cut from Shot 09: Mimi's prepared posture leads to her question.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -37,14 +44,15 @@ Cut from Shot 09: Mimi's prepared posture leads to her question.
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Block C World Anchor (Shot 09) — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: Shot 09 — motion, pose, prop-state continuity only.
 
 Medium shot. Mimi asks if the flowers opened. Opa confirms, turning to the fully opened flower spread. Luca reacts with delight. Mimi celebrates. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. Use Shot 09 video as Video Reference.
+Do not display dialogue as on-screen text.
 ```
 
 ---
@@ -52,7 +60,7 @@ Do not display dialogue as on-screen text. Use Shot 09 video as Video Reference.
 ## Camera Direction
 
 ```text
-Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 09.
+Lens: 35mm. Height: 0.75m. Static. Inherited from Shot 09 — no independent reframe.
 ```
 
 ---
@@ -60,7 +68,7 @@ Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 09.
 ## Transition Out
 
 ```text
-Cut to Shot 11 — reframed to emphasise Opa's lesson about waiting.
+Cut to Shot 11 — continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -80,15 +88,15 @@ Mimi: The cloud did it!                     (10.5–12.0)  [3 words, 1.5s]
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–1.5 | Mimi leans forward, mouth slightly open, ready to ask. Luca watches. | Medium, 35mm, static |
-| 1.5–3.5 | Mimi: "Did the flowers open?" — looks at Opa. | Medium, 35mm, static |
-| 3.5–4.5 | Opa smiles, hand moving to the page edge. | Medium, 35mm, static |
-| 4.5–6.5 | Opa: "Yes. One by one." — turns the page to fully opened flowers. | Medium, 35mm, static |
-| 6.5–8.0 | Luca's face lights up. Mimi gasps softly. Both look at the illustration. | Medium, 35mm, static |
-| 8.0–9.0 | Luca: "So pretty!" — eyes wide, leaning forward. | Medium, 35mm, static |
-| 9.0–10.5 | Mimi claps her hands softly once, delighted. | Medium, 35mm, static |
-| 10.5–12.0 | Mimi: "The cloud did it!" — looks at Opa proudly. | Medium, 35mm, static |
-| 12.0–15.0 | Opa shifts attention from the page to both children, warm smile. | Medium, 35mm, static |
+| 0.0–1.5 | Mimi leans forward, mouth slightly open, ready to ask. Luca watches. | 35mm, static |
+| 1.5–3.5 | Mimi: "Did the flowers open?" — looks at Opa. | 35mm, static |
+| 3.5–4.5 | Opa smiles, hand moving to the page edge. | 35mm, static |
+| 4.5–6.5 | Opa: "Yes. One by one." — turns the page to fully opened flowers. | 35mm, static |
+| 6.5–8.0 | Luca's face lights up. Mimi gasps softly. Both look at the illustration. | 35mm, static |
+| 8.0–9.0 | Luca: "So pretty!" — eyes wide, leaning forward. | 35mm, static |
+| 9.0–10.5 | Mimi claps her hands softly once, delighted. | 35mm, static |
+| 10.5–12.0 | Mimi: "The cloud did it!" — looks at Opa proudly. | 35mm, static |
+| 12.0–15.0 | Opa shifts attention from the page to both children, warm smile. | 35mm, static |
 
 ---
 
@@ -115,12 +123,14 @@ Continue Shot 09 lighting exactly. Warm window light from left arched window, so
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 09 (cut from Mimi's prepared posture)
-- Previous Final Frame: Shot 09
+- @image1: Block C World Anchor (Shot 09)
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: Shot 09 — motion/pose/prop continuity only
+- Block: C
+- Mode: BLOCK CONTINUATION
+- Previous block final frame: NOT used for generation (manual QA only)
 
 ---
 
@@ -155,8 +165,22 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] No on-screen text
 - [ ] Cloud referred to as "the cloud" (no he/she)
 - [ ] Luca's "So pretty!" excitement handled at 2.0 wps (within limits)
-
----
+- [ ] Production block correctly identified: Block C
+- [ ] Block World Anchor: Shot 09
+- [ ] Generation mode matches: BLOCK CONTINUATION
+- [ ] Camera Rig ID: RIG-C
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ## Scale
 

@@ -13,6 +13,11 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Mimi and Opa (personal response) |
 | Book State | Open — flowers illustration |
+| Production Block | Block C |
+| Block World Anchor | Shot 09 |
+| Generation Mode | BLOCK CONTINUATION |
+| Camera Rig ID | RIG-C |
+| Previous Video Usage | Shot 11 |
 
 ---
 
@@ -21,6 +26,7 @@
 ```text
 Environment, lighting, colour carry over from Shot 11.
 Opa centre-left, Luca right, Mimi left — same staging map.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 Book open on Opa's lap. All three seated.
 ```
 
@@ -30,6 +36,7 @@ Book open on Opa's lap. All three seated.
 
 ```text
 Cut from Shot 11: Mimi's forming expression leads to her personal response.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -37,14 +44,15 @@ Cut from Shot 11: Mimi's forming expression leads to her personal response.
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Block C World Anchor (Shot 09) — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: Shot 11 — motion, pose, prop-state continuity only.
 
 Medium shot. Mimi shares that she liked the story. Opa responds warmly. Luca present right, quietly thinking. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. Use Shot 11 video as Video Reference.
+Do not display dialogue as on-screen text.
 ```
 
 ---
@@ -52,7 +60,7 @@ Do not display dialogue as on-screen text. Use Shot 11 video as Video Reference.
 ## Camera Direction
 
 ```text
-Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 11 to reframe Mimi.
+Lens: 35mm. Height: 0.75m. Static. Inherited from Shot 09 — no independent reframe.
 ```
 
 ---
@@ -60,7 +68,8 @@ Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 11 to ref
 ## Transition Out
 
 ```text
-Cut to Shot 13 — reframed to balance Luca's "I can wait too" moment.
+Deliberate editorial World Reset cut to Shot 13. Group settled; no action crosses boundary.
+Uninterrupted Learning Room room tone bridges the editorial cut.
 ```
 
 ---
@@ -78,16 +87,16 @@ Opa: I am glad.                             (5.5–7.0)    [3 words, 1.5s]
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–2.0 | Mimi looks at Opa, expression softening as she prepares to share her feeling. | Medium, 35mm, static |
-| 2.0–4.0 | Mimi: "I like that story." — sincere, quiet tone. | Medium, 35mm, static |
-| 4.0–5.5 | Opa looks at Mimi warmly. Luca glances at Mimi. | Medium, 35mm, static |
-| 5.5–7.0 | Opa: "I am glad." — gentle nod. | Medium, 35mm, static |
-| 7.0–8.5 | Luca looks at the open flower illustration on the page, studying it. | Medium, 35mm, static |
-| 8.5–10.0 | Luca's fingers move briefly as he thinks — a small restless motion. | Medium, 35mm, static |
-| 10.0–11.0 | His hands become still. He has found his thought. | Medium, 35mm, static |
-| 11.0–12.5 | Luca lifts his eyes from the page toward Opa. His expression shifts from uncertainty to quiet decision. | Medium, 35mm, static |
-| 12.5–14.0 | Luca's mouth opens slightly — he is ready to speak. Mimi notices. | Medium, 35mm, static |
-| 14.0–15.0 | Luca visibly prepared to share his personal response. | Medium, 35mm, static |
+| 0.0–2.0 | Mimi looks at Opa, expression softening as she prepares to share her feeling. | 35mm, static |
+| 2.0–4.0 | Mimi: "I like that story." — sincere, quiet tone. | 35mm, static |
+| 4.0–5.5 | Opa looks at Mimi warmly. Luca glances at Mimi. | 35mm, static |
+| 5.5–7.0 | Opa: "I am glad." — gentle nod. | 35mm, static |
+| 7.0–8.5 | Luca looks at the open flower illustration on the page, studying it. | 35mm, static |
+| 8.5–10.0 | Luca's fingers move briefly as he thinks — a small restless motion. | 35mm, static |
+| 10.0–11.0 | His hands become still. He has found his thought. | 35mm, static |
+| 11.0–12.5 | Luca lifts his eyes from the page toward Opa. His expression shifts from uncertainty to quiet decision. | 35mm, static |
+| 12.5–14.0 | Luca's hands still, thought resolved, gaze near book/Opa. Mouth CLOSED. | 35mm, static |
+| 14.0–15.0 | Luca settles, quietly ready. Mimi notices. | 35mm, static |
 
 ---
 
@@ -95,7 +104,7 @@ Opa: I am glad.                             (5.5–7.0)    [3 words, 1.5s]
 
 - **Mimi:** Prepares to share (0.0–1.5), speaks (2.0–4.0), notices Luca (12.5–13.5).
 - **Opa:** Looks at Mimi warmly (4.0–5.0), speaks and nods (5.5–7.0).
-- **Luca:** Glances at Mimi (4.5–5.5), studies flower illustration (7.0–8.5), fingers move briefly (8.5–10.0), hands still (10.0–11.0), lifts eyes to Opa (11.0–12.5), expression shifts to decision (12.5–14.0), mouth opens slightly (14.0–15.0).
+- **Luca:** Glances at Mimi (4.5–5.5), studies flower illustration (7.0–8.5), fingers move briefly (8.5–10.0), hands still (10.0–11.0), lifts eyes to Opa (11.0–12.5), expression shifts to decision (12.5–14.0), hands still, mouth closed (14.0–15.0).
 
 ---
 
@@ -114,12 +123,14 @@ Continue Shot 11 lighting exactly. Warm window light from left arched window, so
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 11 (cut from Mimi's forming expression)
-- Previous Final Frame: Shot 11
+- @image1: Block C World Anchor (Shot 09)
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: Shot 11 — motion/pose/prop continuity only
+- Block: C
+- Mode: BLOCK CONTINUATION
+- Previous block final frame: NOT used for generation (manual QA only)
 
 ---
 
@@ -147,13 +158,30 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] Foreground sounds: finger/fabric rustle, soft clothing movement
 - [ ] No character disappearance
 - [ ] No generic blink-breathe-smile as primary motion
-- [ ] Shot ends: Luca quietly thinking
+- [ ] Final beat: Luca's hands still, thought resolved, gaze near book/Opa. Mouth CLOSED. NO speaking animation begun.
+- [ ] No "mouth opens", "ready to speak", or half-started speech at final beat
 - [ ] Shot distinct from Shot 11
-- [ ] Handoff to Shot 13 (Luca's "I can wait too" moment)
+- [ ] Handoff to Shot 13: Deliberate editorial World Reset cut
 - [ ] No background music
 - [ ] No on-screen text
 - [ ] Cloud referred to as "the cloud" (no he/she)
 - [ ] No moral-lecture language
+- [ ] Production block correctly identified: Block C
+- [ ] Block World Anchor: Shot 09
+- [ ] Generation mode matches: BLOCK CONTINUATION
+- [ ] Camera Rig ID: RIG-C
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ---
 

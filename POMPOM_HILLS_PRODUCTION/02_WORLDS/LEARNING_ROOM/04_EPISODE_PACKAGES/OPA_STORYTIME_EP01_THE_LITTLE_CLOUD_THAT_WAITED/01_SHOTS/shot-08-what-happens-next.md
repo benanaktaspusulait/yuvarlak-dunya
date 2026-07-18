@@ -13,6 +13,11 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Mimi and Opa (question and answer) |
 | Book State | Open — starts on flower spread, turns to quiet-sky spread |
+| Production Block | Block B |
+| Block World Anchor | Shot 05 |
+| Generation Mode | BLOCK CONTINUATION |
+| Camera Rig ID | RIG-B |
+| Previous Video Usage | Shot 07 |
 
 ---
 
@@ -21,7 +26,7 @@
 ```text
 Environment, lighting, colour carry over from Shot 07.
 Opa centre-left, Luca right, Mimi left — same staging map.
-Camera reframes to balance Mimi; intentional editorial cut.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 Book open on Opa's lap. All three seated.
 ```
 
@@ -31,6 +36,7 @@ Book open on Opa's lap. All three seated.
 
 ```text
 Cut from Shot 07: Mimi's leaning-in posture leads naturally to her question.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -38,14 +44,15 @@ Cut from Shot 07: Mimi's leaning-in posture leads naturally to her question.
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Block B World Anchor (Shot 05) — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: Shot 07 — motion, pose, prop-state continuity only.
 
 Medium shot. Mimi asks a question with gentle curiosity. Opa responds, turning the page to a quiet-sky spread. Luca present right, watching. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. Use Shot 07 video as Video Reference.
+Do not display dialogue as on-screen text.
 ```
 
 ---
@@ -53,7 +60,7 @@ Do not display dialogue as on-screen text. Use Shot 07 video as Video Reference.
 ## Camera Direction
 
 ```text
-Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 07 to reframe Mimi.
+Lens: 35mm. Height: 0.75m. Static. Inherited from Shot 05 — no independent reframe.
 ```
 
 ---
@@ -61,7 +68,8 @@ Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 07 to ref
 ## Transition Out
 
 ```text
-Cut to Shot 09 — reframed to emphasise Opa's description of the raindrop.
+Deliberate editorial World Reset cut to Shot 09. Group settled; no action crosses boundary.
+Uninterrupted Learning Room room tone bridges the editorial cut.
 ```
 
 ---
@@ -79,21 +87,21 @@ Opa: The sky became very quiet.             (5.5–8.0)    [5 words, 2.5s]
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–2.0 | Mimi straightens up from her lean-in, mouth slightly open, ready to ask. Luca watches. | Medium, 35mm, static |
-| 2.0–3.5 | Mimi: "What happened next?" — looks at Opa with gentle curiosity. | Medium, 35mm, static |
-| 3.5–5.5 | Opa pauses, looks at the page. His hand moves to the page edge. | Medium, 35mm, static |
-| 5.5–8.0 | Opa: "The sky became very quiet." — turns the page to a quiet-sky spread. | Medium, 35mm, static |
-| 8.0–10.0 | Luca leans in to see the new illustration. Mimi watches the page turn. | Medium, 35mm, static |
-| 10.0–12.0 | Opa's finger finds the first raindrop spot on the new spread. | Medium, 35mm, static |
-| 12.0–15.0 | Opa's finger rests on the raindrop illustration. Luca and Mimi look at it. | Medium, 35mm, static |
+| 0.0–2.0 | Mimi straightens up from her lean-in, mouth slightly open, ready to ask. Luca watches. | 35mm, static |
+| 2.0–3.5 | Mimi: "What happened next?" — looks at Opa with gentle curiosity. | 35mm, static |
+| 3.5–5.5 | Opa pauses, looks at the page. His hand moves to the page edge. | 35mm, static |
+| 5.5–8.0 | Opa: "The sky became very quiet." — turns the page to a quiet-sky spread. | 35mm, static |
+| 8.0–10.0 | Luca leans in to see the new illustration. Mimi watches the page turn. | 35mm, static |
+| 10.0–12.0 | Opa's finger finds the first raindrop spot on the new spread. | 35mm, static |
+| 12.0–15.0 | Opa's finger rests completely still beside raindrop. Both children watching. | 35mm, static |
 
 ---
 
 ## Natural Character Motion
 
 - **Mimi:** Straightens up (0.0–1.5), speaks with curiosity (2.0–3.5), watches page turn (8.0–10.0).
-- **Opa:** Pauses and looks at page (3.5–5.0), speaks (5.5–8.0), turns page (7.5–9.0), finger finds raindrop spot (10.0–12.0).
-- **Luca:** Watches Mimi's question (0.0–3.5), leans in to see new illustration (8.0–10.0).
+- **Opa:** Pauses and looks at page (3.5–5.0), speaks (5.5–8.0), turns page (7.5–9.0), finger finds raindrop spot (10.0–12.0), finger rests completely still (12.0–15.0).
+- **Luca:** Watches Mimi's question (0.0–3.5), leans in to see new illustration (8.0–10.0), watches raindrop (12.0–15.0).
 
 ---
 
@@ -112,12 +120,14 @@ Continue Shot 07 lighting exactly. Warm window light from left arched window, so
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 07 (cut from leaning-in posture)
-- Previous Final Frame: Shot 07
+- @image1: Block B World Anchor (Shot 05)
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: Shot 07 — motion/pose/prop continuity only
+- Block: B
+- Mode: BLOCK CONTINUATION
+- Previous block final frame: NOT used for generation (manual QA only)
 
 ---
 
@@ -145,14 +155,29 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] Foreground sounds: page turn, cushion settle
 - [ ] No character disappearance
 - [ ] No generic blink-breathe-smile as primary motion
-- [ ] Shot ends: Opa's finger finding the first raindrop spot
+- [ ] Shot ends: Opa's finger resting completely still beside raindrop, both children watching
+- [ ] No page turn or tracing in progress at final beat
 - [ ] Shot distinct from Shot 07
-- [ ] Handoff to Shot 09 (raindrop description)
+- [ ] Handoff to Shot 09: Deliberate editorial World Reset cut
 - [ ] No background music
 - [ ] No on-screen text
 - [ ] Cloud referred to as "the cloud" (no he/she)
-
----
+- [ ] Production block correctly identified: Block B
+- [ ] Block World Anchor: Shot 05
+- [ ] Generation mode matches: BLOCK CONTINUATION
+- [ ] Camera Rig ID: RIG-B
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ## Scale
 

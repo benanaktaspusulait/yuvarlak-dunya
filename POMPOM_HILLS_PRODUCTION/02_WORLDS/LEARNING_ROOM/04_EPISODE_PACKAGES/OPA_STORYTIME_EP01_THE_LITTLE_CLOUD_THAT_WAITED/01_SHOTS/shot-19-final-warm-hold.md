@@ -13,6 +13,11 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Opa (final reflection line) |
 | Book State | Closed on rug → lifted into Opa's hands by end |
+| Production Block | Block E |
+| Block World Anchor | Shot 17 |
+| Generation Mode | BLOCK CONTINUATION |
+| Camera Rig ID | RIG-E |
+| Previous Video Usage | Shot 18 |
 
 ---
 
@@ -21,6 +26,7 @@
 ```text
 Environment, lighting, colour carry over from Shot 18.
 Opa centre-left, Luca right, Mimi left — same staging map.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 Book closed on rug beside Opa. All three seated.
 ```
 
@@ -30,6 +36,7 @@ Book closed on rug beside Opa. All three seated.
 
 ```text
 Cut from Shot 18: The everyday waiting examples lead naturally to Opa's final reflection.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -37,14 +44,15 @@ Cut from Shot 18: The everyday waiting examples lead naturally to Opa's final re
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Block E World Anchor (Shot 17) — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: Shot 18 — motion, pose, prop-state continuity only.
 
 Medium shot. Opa shares the final reflection about helping when a friend is ready. All three present. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. Use Shot 18 video as Video Reference.
+Do not display dialogue as on-screen text.
 ```
 
 ---
@@ -52,7 +60,7 @@ Do not display dialogue as on-screen text. Use Shot 18 video as Video Reference.
 ## Camera Direction
 
 ```text
-Lens: 35mm. Height: 0.75m. Static. Continuation from Shot 18's reframe.
+Lens: 35mm. Height: 0.75m. Static. Fixed 35mm, static at Shot 17's final position.
 ```
 
 ---
@@ -60,7 +68,7 @@ Lens: 35mm. Height: 0.75m. Static. Continuation from Shot 18's reframe.
 ## Transition Out
 
 ```text
-Cut to Shot 20 — intentional editorial cut to 28mm wide for the final hold.
+Cut to Shot 20 — continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -77,13 +85,13 @@ Opa: We can help when our friend is ready.  (3.0–6.5)    [8 words, 3.5s]
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–3.0 | Opa looks at both children, expression warm and reflective. | Medium, 35mm, static |
-| 3.0–6.5 | Opa: "We can help when our friend is ready." — gentle, final tone. | Medium, 35mm, static |
-| 6.5–8.0 | Luca nods slowly, understanding deeply. His expression shows he has connected the lesson to himself. | Medium, 35mm, static |
-| 8.0–9.5 | Mimi places her hand briefly on the rug beside her — a small gesture of grounding. She looks at Opa with warmth. | Medium, 35mm, static |
-| 9.5–11.5 | Opa's hand reaches naturally toward the closed book on the rug. He begins to pick it up. | Medium, 35mm, static |
-| 11.5–13.0 | Opa holds the book, preparing to place it on the shelf. Luca and Mimi watch the movement. | Medium, 35mm, static |
-| 13.0–15.0 | Opa begins the physical closing action — lifting the book toward the shelf. This continues directly into Shot 20. | Medium, 35mm, static |
+| 0.0–3.0 | Opa looks at both children, expression warm and reflective. | 35mm, static |
+| 3.0–6.5 | Opa: "We can help when our friend is ready." — gentle, final tone. | 35mm, static |
+| 6.5–8.0 | Luca nods slowly, understanding deeply. His expression shows he has connected the lesson to himself. | 35mm, static |
+| 8.0–9.5 | Mimi places her hand briefly on the rug beside her — a small gesture of grounding. She looks at Opa with warmth. | 35mm, static |
+| 9.5–11.5 | Opa's hand reaches naturally toward the closed book on the rug. He begins to pick it up. | 35mm, static |
+| 11.5–13.0 | Opa holds the book, preparing to place it on the shelf. Luca and Mimi watch the movement. | 35mm, static |
+| 13.0–15.0 | Opa begins the physical closing action — lifting the book toward the shelf. This continues directly into Shot 20. | 35mm, static |
 
 ---
 
@@ -110,18 +118,20 @@ Continue Shot 18 lighting exactly. Warm window light from left arched window, so
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 18 (cut from everyday examples)
-- Previous Final Frame: Shot 18
+- @image1: Block E World Anchor (Shot 17)
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: Shot 18 — motion/pose/prop continuity only
+- Block: E
+- Mode: BLOCK CONTINUATION
+- Previous block final frame: NOT used for generation (manual QA only)
 
 ---
 
 ## Book State
 
-Shot 19: Book is CLOSED on rug at start → lifted into Opa's hands by the end. No readable text. Hands directly into Shot 20.
+Shot 19: Book is CLOSED on rug at start → lifted into Opa's hands by the end. The same canonical book with matte warm-toned cover and embossed cloud motif. No readable text. No cover redesign, colour shift or motif disappearance. Hands directly into Shot 20.
 
 ---
 
@@ -149,8 +159,22 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] No on-screen text
 - [ ] Lesson is about patient, considerate timing — not delaying urgent help
 - [ ] No moral-lecture language
-
----
+- [ ] Production block correctly identified: Block E
+- [ ] Block World Anchor: Shot 17
+- [ ] Generation mode matches: BLOCK CONTINUATION
+- [ ] Camera Rig ID: RIG-E
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ## Scale
 

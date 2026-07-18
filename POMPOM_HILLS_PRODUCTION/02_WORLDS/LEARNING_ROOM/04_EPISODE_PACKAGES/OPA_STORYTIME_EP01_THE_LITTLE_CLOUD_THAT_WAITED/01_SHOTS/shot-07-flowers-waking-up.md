@@ -13,6 +13,11 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Opa and Luca (story beat) |
 | Book State | Open — flowers half-open |
+| Production Block | Block B |
+| Block World Anchor | Shot 05 |
+| Generation Mode | BLOCK CONTINUATION |
+| Camera Rig ID | RIG-B |
+| Previous Video Usage | Shot 06 |
 
 ---
 
@@ -21,7 +26,7 @@
 ```text
 Environment, lighting, colour carry over from Shot 06.
 Opa centre-left, Luca right, Mimi left — same staging map.
-Camera reframes to balance Luca; intentional editorial cut.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 Book open on Opa's lap. All three seated.
 ```
 
@@ -31,6 +36,7 @@ Book open on Opa's lap. All three seated.
 
 ```text
 Match on action from Shot 06: Opa continues describing the flowers on the page.
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -38,14 +44,15 @@ Match on action from Shot 06: Opa continues describing the flowers on the page.
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Block B World Anchor (Shot 05) — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: Shot 06 — motion, pose, prop-state continuity only.
 
 Medium shot. Opa's finger traces the flower illustrations on the open book page. Luca leans in, pointing at a half-open flower. Mimi present left, hand on chin, watching. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. Use Shot 06 video as Video Reference.
+Do not display dialogue as on-screen text.
 ```
 
 ---
@@ -53,7 +60,7 @@ Do not display dialogue as on-screen text. Use Shot 06 video as Video Reference.
 ## Camera Direction
 
 ```text
-Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 06 to reframe Luca.
+Lens: 35mm. Height: 0.75m. Static. Inherited from Shot 05 — no independent reframe.
 ```
 
 ---
@@ -61,7 +68,7 @@ Lens: 35mm. Height: 0.75m. Static. Intentional editorial cut from Shot 06 to ref
 ## Transition Out
 
 ```text
-Cut to Shot 08 — reframed to emphasise Mimi's question about what happens next.
+Cut to Shot 08 — continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -80,14 +87,14 @@ Opa: Right. So the cloud waited.            (9.0–11.5)   [5 words, 2.5s]
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–1.5 | Opa's finger traces the flower illustrations on the open page. Luca watches closely. Mimi present left. | Medium, 35mm, static |
-| 1.5–4.5 | Opa: "The flowers were slowly waking up." — finger moves slowly across the half-open flowers. | Medium, 35mm, static |
-| 4.5–5.5 | Luca leans forward, finger pointing at a half-open flower on the page. | Medium, 35mm, static |
-| 5.5–7.5 | Luca: "They were not ready." — looks up at Opa. | Medium, 35mm, static |
-| 7.5–9.0 | Opa nods. Mimi watches, hand on her chin. | Medium, 35mm, static |
-| 9.0–11.5 | Opa: "Right. So the cloud waited." — gentle hand gesture toward the page. | Medium, 35mm, static |
-| 11.5–13.0 | Luca pulls his hand back, nodding slowly. | Medium, 35mm, static |
-| 13.0–15.0 | Mimi leans in to ask what happens next — body language shows anticipation. | Medium, 35mm, static |
+| 0.0–1.5 | Opa's finger traces the flower illustrations on the open page. Luca watches closely. Mimi present left. | 35mm, static |
+| 1.5–4.5 | Opa: "The flowers were slowly waking up." — finger moves slowly across the half-open flowers. | 35mm, static |
+| 4.5–5.5 | Luca leans forward, finger pointing at a half-open flower on the page. | 35mm, static |
+| 5.5–7.5 | Luca: "They were not ready." — looks up at Opa. | 35mm, static |
+| 7.5–9.0 | Opa nods. Mimi watches, hand on her chin. | 35mm, static |
+| 9.0–11.5 | Opa: "Right. So the cloud waited." — gentle hand gesture toward the page. | 35mm, static |
+| 11.5–13.0 | Luca pulls his hand back, nodding slowly. | 35mm, static |
+| 13.0–15.0 | Mimi leans in to ask what happens next — body language shows anticipation. | 35mm, static |
 
 ---
 
@@ -114,12 +121,14 @@ Continue Shot 06 lighting exactly. Warm window light from left arched window, so
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 06 (match on action)
-- Previous Final Frame: Shot 06
+- @image1: Block B World Anchor (Shot 05)
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: Shot 06 — motion/pose/prop continuity only
+- Block: B
+- Mode: BLOCK CONTINUATION
+- Previous block final frame: NOT used for generation (manual QA only)
 
 ---
 
@@ -153,8 +162,22 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] No background music
 - [ ] No on-screen text
 - [ ] Cloud referred to as "the cloud" (no he/she)
-
----
+- [ ] Production block correctly identified: Block B
+- [ ] Block World Anchor: Shot 05
+- [ ] Generation mode matches: BLOCK CONTINUATION
+- [ ] Camera Rig ID: RIG-B
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ## Scale
 

@@ -13,13 +13,19 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Opa and Luca (story beat) |
 | Book State | Open — quiet-sky spread, raindrop appears |
+| Production Block | Block C |
+| Block World Anchor | Shot 09 |
+| Generation Mode | FRESH WORLD ANCHOR |
+| Camera Rig ID | RIG-C |
+| Previous Video Usage | NONE |
 
 ---
 
 ## Continuity Lock
 
 ```text
-Environment, lighting, colour carry over from Shot 08.
+Fresh World Anchor from master assets. Characters settled. Speaking begins only after cut.
+Environment, lighting, colour reconstructed from canonical Hero View and written spec.
 Opa centre-left, Luca right, Mimi left — same staging map.
 Book open on Opa's lap. All three seated.
 ```
@@ -29,7 +35,9 @@ Book open on Opa's lap. All three seated.
 ## Transition In
 
 ```text
-Match on action from Shot 08: Opa's finger is on the raindrop spot on the page.
+Fresh World Anchor. Finger reconstructed in resting position. Tracing begins only after new video starts.
+Uninterrupted Learning Room room tone bridges the editorial cut from Shot 08.
+No speech, page turn, gesture or camera movement crosses the 08→09 world reset boundary.
 ```
 
 ---
@@ -37,30 +45,44 @@ Match on action from Shot 08: Opa's finger is on the raindrop spot on the page.
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Canonical Learning Room Hero View — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: NONE. Fresh World Anchor.
 
-Medium shot. Opa describes the raindrop falling from the cloud. Luca reacts with surprise. Mimi present left, watching intently. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
+Medium shot. Opa describes the raindrop falling from the cloud. Luca reacts with surprise. Mimi present left, watching intently. Warm Reading Corner light from left arched windows, identical exposure, soft ambient fill, soft contact shadows, unchanged time of day. Previous block final frame is QA-only, not generation source. Page-oriented medium framing, {style} {camera} {lighting}
 
-Do not display dialogue as on-screen text. Use Shot 08 video as Video Reference.
+All three characters visible. Do not remove any character.
+Do not display dialogue as on-screen text.
 ```
 
 ---
 
-## Camera Direction
+## Canonical Book Identity Lock
 
-```text
-Lens: 35mm. Height: 0.75m. Static. Continuation from Shot 08's reframe.
-```
+CANONICAL BOOK IDENTITY: The same rounded handcrafted picture book is used throughout the episode. Matte warm-toned cover, softly rounded corners, child-safe proportions and one small physical embossed cloud motif. No title, letters, words or logo. The motif never glows magically. Book size, thickness, cover colour, page shape and embossed motif never change. Preserve the same book body and cover even if most of the cover is not visible. Do not generate a different book.
+
+---
+
+## Permanent Seating and Screen-Direction Lock
+
+- Opa at the rear edge of the rug on the large back cushion.
+- Mimi front-left/screen-left.
+- Luca front-right/screen-right.
+- Shallow triangular formation.
+- Same world-space floor coordinates across all 20 shots.
+- No mirroring, side swapping or reseating.
+- Low shelf behind and slightly screen-left of Opa.
+- All characters remain in readable three-quarter view.
+- Camera movement changes framing only; it never moves or reseats the characters.
 
 ---
 
 ## Transition Out
 
 ```text
-Cut to Shot 10 — reframed to balance Mimi's question about the flowers opening.
+Cut to Shot 10 — continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -79,14 +101,14 @@ Opa: Just one. Then another.                (8.0–10.0)   [4 words, 2.0s]
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–1.5 | Opa's finger traces from the cloud down to the raindrop on the page. Luca watches closely. | Medium, 35mm, static |
-| 1.5–4.5 | Opa: "And then... one gentle drop fell." — finger moves slowly down the page. | Medium, 35mm, static |
-| 4.5–5.5 | Luca's eyes widen slightly, mouth opening in surprise. | Medium, 35mm, static |
-| 5.5–6.5 | Luca: "Just one?" — looks up at Opa. | Medium, 35mm, static |
-| 6.5–8.0 | Opa pauses, looks at Luca warmly. Mimi watches, head tilted slightly. | Medium, 35mm, static |
-| 8.0–10.0 | Opa: "Just one. Then another." — finger traces a second raindrop. | Medium, 35mm, static |
-| 10.0–12.0 | Mimi's eyes follow the second raindrop. She prepares her flower question. | Medium, 35mm, static |
-| 12.0–15.0 | Mimi leans forward slightly, mouth forming her next question about the flowers. | Medium, 35mm, static |
+| 0.0–1.5 | Opa's finger traces from the cloud down to the raindrop on the page. Luca watches closely. | 35mm, static |
+| 1.5–4.5 | Opa: "And then... one gentle drop fell." — finger moves slowly down the page. | 35mm, static |
+| 4.5–5.5 | Luca's eyes widen slightly, mouth opening in surprise. | 35mm, static |
+| 5.5–6.5 | Luca: "Just one?" — looks up at Opa. | 35mm, static |
+| 6.5–8.0 | Opa pauses, looks at Luca warmly. Mimi watches, head tilted slightly. | 35mm, static |
+| 8.0–10.0 | Opa: "Just one. Then another." — finger traces a second raindrop. | 35mm, static |
+| 10.0–12.0 | Mimi's eyes follow the second raindrop. She prepares her flower question. | 35mm, static |
+| 12.0–15.0 | Mimi leans forward slightly, mouth forming her next question about the flowers. | 35mm, static |
 
 ---
 
@@ -107,18 +129,20 @@ Opa: Just one. Then another.                (8.0–10.0)   [4 words, 2.0s]
 
 ## Lighting
 
-Continue Shot 08 lighting exactly. Warm window light from left arched window, soft ambient glow. Soft contact shadows. No hard shadows.
+Reconstruct locked Learning Room morning-light from canonical Hero View and written spec: warm sunlight from screen-left arched windows, identical exposure, soft ambient fill, soft contact shadows, unchanged time of day. Previous block final frame is QA-only, not generation source.
 
 ---
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 08 (match on action)
-- Previous Final Frame: Shot 08
+- @image1: Canonical Learning Room Hero View
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: NONE (Fresh World Anchor — generated from master assets)
+- Previous block final frame: manual QA only
+- Block: C
+- Mode: FRESH WORLD ANCHOR
 
 ---
 
@@ -137,7 +161,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 ## QA Checklist
 
 - [ ] Shot 09/20, exactly 15.0 seconds
-- [ ] Transition: match on action from Shot 08
+- [ ] Transition: Fresh World Anchor from master assets. No match-on-action from Shot 08.
 - [ ] All 3 characters present throughout
 - [ ] Book state: OPEN, quiet-sky spread, raindrop appears
 - [ ] Dialogue: 3 lines, word counts match (6w, 2w, 4w), wps ≤ 2.0
@@ -153,8 +177,22 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] No background music
 - [ ] No on-screen text
 - [ ] Cloud referred to as "the cloud" (no he/she)
-
----
+- [ ] Production block correctly identified: Block C
+- [ ] Block World Anchor: Shot 09
+- [ ] Generation mode matches: FRESH WORLD ANCHOR
+- [ ] Camera Rig ID: RIG-C
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ## Scale
 

@@ -13,6 +13,11 @@
 | Characters Present | Opa, Luca, Mimi |
 | Primary Focus | Opa (physical closure) |
 | Book State | OPEN at start → CLOSED during shot — Opa closes the book and places it on the rug |
+| Production Block | Block D |
+| Block World Anchor | Shot 13 |
+| Generation Mode | BLOCK CONTINUATION |
+| Camera Rig ID | RIG-D |
+| Previous Video Usage | Shot 13 |
 
 ---
 
@@ -21,7 +26,7 @@
 ```text
 Environment, lighting, colour carry over from Shot 13.
 Opa centre-left, Luca right, Mimi left — same staging map.
-Intentional editorial cut to 28mm wide (not focal-length change during pull-back).
+Continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -29,7 +34,8 @@ Intentional editorial cut to 28mm wide (not focal-length change during pull-back
 ## Transition In
 
 ```text
-Intentional editorial cut from Shot 13 to 28mm wide. Book has just been prepared for closing.
+Continuous in-block handoff from Shot 13. Book has just been prepared for closing.
+Same locked camera rig (35mm). No editorial cut.
 ```
 
 ---
@@ -37,14 +43,15 @@ Intentional editorial cut from Shot 13 to 28mm wide. Book has just been prepared
 ## Visual Prompt
 
 ```text
-@image1 Learning Room Hero View environment reference.
-@image2 Opa character reference.
-@image3 Luca character reference.
-@image4 Mimi character reference.
+@image1 Block D World Anchor (Shot 13) — environment, lighting, geometry authority.
+@image2 Approved Opa character sheet — character identity authority.
+@image3 Approved Luca character sheet — character identity authority.
+@image4 Approved Mimi character sheet — character identity authority.
+Video Reference: Shot 13 — motion, pose, prop-state continuity only.
 
-Wide shot. Opa closes the book gently and places it on the rug beside him. Luca watches. Mimi follows the movement. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
+Medium-wide shot. Opa closes the book gently and places it on the rug beside him. Luca watches. Mimi follows the movement. Warm Reading Corner light from left arched window, soft ambient glow. All three characters visible. Do not remove any character.
 
-Do not display dialogue as on-screen text. Use Shot 13 video as Video Reference.
+Do not display dialogue as on-screen text.
 ```
 
 ---
@@ -52,7 +59,7 @@ Do not display dialogue as on-screen text. Use Shot 13 video as Video Reference.
 ## Camera Direction
 
 ```text
-Lens: 28mm. Height: 0.75m. Static wide. Intentional editorial cut from Shot 13's 50mm dolly-in.
+Lens: 35mm. Height: 0.75m. Static. Fixed 35mm, static at Shot 13's final position.
 ```
 
 ---
@@ -60,7 +67,7 @@ Lens: 28mm. Height: 0.75m. Static wide. Intentional editorial cut from Shot 13's
 ## Transition Out
 
 ```text
-Cut to Shot 15 — reframed to balance all three children for the reflection beat.
+Cut to Shot 15 — continuous in-block handoff using previous video and same locked camera rig (35mm).
 ```
 
 ---
@@ -77,14 +84,14 @@ Cut to Shot 15 — reframed to balance all three children for the reflection bea
 
 | Time | Action | Camera |
 |---|---|---|
-| 0.0–2.0 | Opa holds the book. His hands begin closing it gently. Luca watches. | 28mm, static wide |
-| 2.0–4.0 | Opa closes the book fully. Soft cover settling sound. | 28mm, static wide |
-| 4.0–6.0 | Opa places the closed book gently on the rug beside him. | 28mm, static wide |
-| 6.0–8.0 | Luca watches the book being set down. Mimi follows the movement. | 28mm, static wide |
-| 8.0–10.0 | Opa rests his hands in his lap. The book sits closed on the rug. | 28mm, static wide |
-| 10.0–12.0 | Luca exhales softly, settling back on the rug. | 28mm, static wide |
-| 12.0–13.5 | Mimi shifts, getting comfortable. She glances at the window light. | 28mm, static wide |
-| 13.5–15.0 | Opa looks to both children. The story is physically over. | 28mm, static wide |
+| 0.0–2.0 | Opa holds the book. His hands begin closing it gently. Luca watches. | 35mm, static |
+| 2.0–4.0 | Opa closes the book fully. Soft cover settling sound. | 35mm, static |
+| 4.0–6.0 | Opa places the closed book gently on the rug beside him. | 35mm, static |
+| 6.0–8.0 | Luca watches the book being set down. Mimi follows the movement. | 35mm, static |
+| 8.0–10.0 | Opa rests his hands in his lap. The book sits closed on the rug. | 35mm, static |
+| 10.0–12.0 | Luca exhales softly, settling back on the rug. | 35mm, static |
+| 12.0–13.5 | Mimi shifts, getting comfortable. She glances at the window light. | 35mm, static |
+| 13.5–15.0 | Opa looks to both children. The story is physically over. | 35mm, static |
 
 ---
 
@@ -113,18 +120,20 @@ Continue Shot 13 lighting exactly. Warm window light from left arched window, so
 
 ## Reference Usage
 
-- @image1 Environment Reference: Learning Room Hero View
-- @image2 Character Reference: Opa sheet
-- @image3 Character Reference: Luca sheet
-- @image4 Character Reference: Mimi sheet
-- Video Reference: Shot 13 (editorial cut to 28mm)
-- Previous Final Frame: Shot 13
+- @image1: Block D World Anchor (Shot 13)
+- @image2: Opa character sheet
+- @image3: Luca character sheet
+- @image4: Mimi character sheet
+- Video Reference: Shot 13 — motion/pose/prop continuity only
+- Block: D
+- Mode: BLOCK CONTINUATION
+- Previous block final frame: NOT used for generation (manual QA only)
 
 ---
 
 ## Book State
 
-Shot 14: Book is CLOSED. Opa closes it (2.0–4.0) and places it on the rug (4.0–5.5). This is the ACTUAL book close.
+Shot 14: Book is CLOSED. Opa closes it (2.0–4.0) and places it on the rug (4.0–5.5). This is the ACTUAL book close. When Opa closes the book, the canonical embossed cloud motif becomes visible on the matte warm-toned cover.
 
 ---
 
@@ -137,7 +146,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 ## QA Checklist
 
 - [ ] Shot 14/20, exactly 15.0 seconds
-- [ ] Transition: intentional editorial cut from Shot 13 to 28mm wide
+- [ ] Transition: continuous in-block handoff from Shot 13 (35mm fixed)
 - [ ] All 3 characters present throughout
 - [ ] Book state: CLOSED — Opa closes book and places it on rug (ACTUAL book close)
 - [ ] No dialogue (physical closure beat)
@@ -145,14 +154,28 @@ low quality, blurry, deformed, extra limbs, text, watermark, readable text on bo
 - [ ] Foreground sounds: book closing, book placed on rug, cushion settle, fabric shift
 - [ ] No character disappearance
 - [ ] No generic blink-breathe-smile as primary motion
-- [ ] Camera: 28mm fixed (not pull-back from 50mm — editorial cut)
+- [ ] Camera: 35mm fixed (no 28mm reference)
 - [ ] Shot ends: Opa looking to both children
 - [ ] Shot distinct from Shot 13
 - [ ] Handoff to Shot 15 (reflection beat)
 - [ ] No background music
 - [ ] No on-screen text
-
----
+- [ ] Production block correctly identified: Block D
+- [ ] Block World Anchor: Shot 13
+- [ ] Generation mode matches: BLOCK CONTINUATION
+- [ ] Camera Rig ID: RIG-D
+- [ ] Block World Anchor used as environment/lighting authority
+- [ ] Character sheets used as identity authority
+- [ ] No recursive visual defect inheritance from previous blocks
+- [ ] Within-block focal length consistency maintained
+- [ ] No 28mm reference remains
+- [ ] No 50mm reference remains
+- [ ] Block A uses only 32mm
+- [ ] Blocks B-E use only 35mm
+- [ ] World Anchor generates from master assets, not previous video
+- [ ] No match-on-action at world reset boundaries
+- [ ] Audio bridge at world reset boundaries
+- [ ] Fresh anchor lighting from Hero View, not previous shot
 
 ## Scale
 
