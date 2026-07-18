@@ -62,22 +62,25 @@ Transition: Clean transition to Closing Bumper. No abrupt cut to black. Final 3.
 
 No character speaks. All mouths remain closed except for natural breathing.
 
+Voice lock: No dialogue. No character speaks. All mouths remain closed except for subtle natural breathing. No narrator, no additional voice, no off-screen speech, no improvised vocalisation and no voice generation.
+
 ## Exact Dialogue Script
 
 No dialogue. Preserve the intentionally silent performance described in the source.
 
 ## Audio Direction
 
-Dialogue: No dialogue.
+Voice: NONE.
+Dialogue: NONE.
 Foley: Book placed on shelf (3.5–5.0), rug smoothing (6.5–7.5), cushion adjust (9.0–10.0).
 Room tone: Soft room tone throughout.
 Intentional silence: Final 3.0 seconds — truly static warm hold with only room tone.
-Lip-sync: No character speaks. All mouths remain closed except for natural breathing.
+Lip-sync: Not applicable. All mouths remain closed.
 Music: NONE.
 
 ## OpenArt Negative Prompt
 
-low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, Mimi positioned on screen-right, Luca positioned on screen-left, Opa missing from rear apex, mirrored staging, costume change, facial redesign, book redesign, readable text, subtitles, captions, logos, glowing book, room redesign, furniture relocation, prop duplication, disappearing props, lens drift, camera-axis crossing, jump cuts, camera shake, random motion, excessive motion, frozen posing, dead air, lip-sync errors, dialogue reassignment, overlapping dialogue, background music, photorealism, glossy CGI, harsh contrast, excessive orange cast, flicker, geometry warping, full fantasy cutaway, moving background objects, story chair, character pop-in
+low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, Mimi positioned on screen-right, Luca positioned on screen-left, Opa missing from rear apex, mirrored staging, costume change, facial redesign, book redesign, readable text, subtitles, captions, logos, glowing book, room redesign, furniture relocation, prop duplication, disappearing props, lens drift, camera-axis crossing, jump cuts, camera shake, random motion, excessive motion, frozen posing, dead air, lip-sync errors, dialogue reassignment, overlapping dialogue, background music, photorealism, glossy CGI, harsh contrast, excessive orange cast, flicker, geometry warping, full fantasy cutaway, moving background objects, story chair, character pop-in, unexpected speech, narrator voice, off-screen speech, vocalisation, mouth movement
 
 ## Continuity Acceptance Checklist
 

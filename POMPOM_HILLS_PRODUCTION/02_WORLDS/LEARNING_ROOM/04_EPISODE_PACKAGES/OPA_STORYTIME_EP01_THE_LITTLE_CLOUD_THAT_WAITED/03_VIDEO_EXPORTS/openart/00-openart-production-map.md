@@ -28,6 +28,20 @@
 
 ---
 
+## Canonical Voice Preflight
+
+- Confirm Luca uses Luca's previously approved canonical child voice.
+- Confirm Mimi uses Mimi's previously approved canonical gentle child voice.
+- Confirm Opa uses Opa's previously approved canonical warm storyteller voice.
+- Preserve each voice's identity, apparent age, pitch, accent, timbre, rhythm, emotional character, pronunciation and energy.
+- Verify the locked speaker mapping for every dialogue interval before rendering.
+- Verify only the named speaker moves their mouth; listeners remain closed-mouth and use restrained reactions.
+- Confirm Shots 14 and 20 have no generated voice and no vocalisation.
+- Confirm Shot 16 preserves exact silence from 6.5–9.5 and uses the bird at 9.5–10.5 as environmental SFX only.
+- Exact canonical voice profiles must be selected manually in the OpenArt interface before generation.
+
+**Warning:** Text instructions alone may not bind a saved voice profile. Where the selected OpenArt model provides Voice ID, Voice Reference or Saved Voice controls, the approved canonical voice must also be selected manually before rendering.
+
 ## B. Shot Table
 
 | Shot | Title | Block | Mode | Lens | World Anchor | Previous Video | Book State | Dialogue | Special Warning |

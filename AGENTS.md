@@ -56,6 +56,7 @@ bu dosyalara dokunmaz.
 | **Shorts segment crop workflow (shot → short kaydırma)** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_SEGMENT_CROP_WORKFLOW.md` |
 | Series bumper ile world micro-opening ayrımı | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
 | Shot'lar arası continuity workflow | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
+| **OpenArt video paste-ready payload karakter sınırı ve extraction** | `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § OPENART PROMPT CHARACTER LIMIT RULE |
 | Standalone shot üretimi | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/STANDALONE_SHOT_AND_TRANSITION_STANDARD.md` |
 | Sosyal medya görsel formatı | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SOCIAL_MEDIA_IMAGE_FORMAT_STANDARD.md` |
 | YouTube title / description / tags / Shorts metadata | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |
@@ -162,4 +163,4 @@ Eğer:
 
 *Bu dosya, repodaki tüm agent/tool etkileşimleri için giriş noktasıdır.*
 *Diğer tüm kaynak dosyalar bu dosyadan yönlendirilir, bu dosya onların içeriğini tekrar etmez.*
-*Versiyon: 1.2 — Shorts Production Standard, TODO.md, yeni seriler eklendi*
+*Versiyon: 1.3 — OpenArt paste-ready payload karakter sınırı routing'i eklendi*

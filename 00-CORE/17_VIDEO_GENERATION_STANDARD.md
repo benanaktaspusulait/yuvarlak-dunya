@@ -1494,49 +1494,50 @@ QA: '- [ ] Leaves are fluffy Pompom Leaves (round, cotton-like, no veins)'
 
 ### Limit
 
-OpenArt'ın birleşik ana prompt + negative prompt alanı için gözlemlenen kabul sınırı yaklaşık
-830 karakterdir; bu resmi belgelenmiş kesin bir platform limiti değildir.
+18 Temmuz 2026 tarihli gerçek OpenArt video alanı testi, ana video alanında **5.200 karaktere
+kadar** paste-ready payload kabul edildiğini gösterdi. Bu resmi belgelenmiş platform limiti
+değil, üretimde gözlemlenen proje sınırıdır ve OpenArt arayüzü değişirse yeniden ölçülmelidir.
 
-Güvenli üretim sınırı:
+Zorunlu üretim sınırı:
 
 ```text
-OpenArt Paste Prompt + Negative Prompt <= 800 characters
-Preferred target: 700-780 characters
+Complete OpenArt paste-ready payload <= 5,200 characters
+Preferred target: 4,500-4,900 characters
 ```
 
-Sayaç; ana prompt, diyalog, voice instruction, sound instruction, negative prompt,
-boşluklar, noktalama ve satır sonları dahil OpenArt'a gerçekten yapıştırılan tüm karakterleri
-kapsar.
+Sayaç, OpenArt ana video prompt alanına gerçekten yapıştırılan **tüm metni** kapsar: dosya
+başlığı, production metadata, reference map, start-frame notu, ana prompt, diyalog, voice,
+lip-sync ve sound instruction; boşluklar, noktalama ve satır sonları dahil.
 
-Şunlar OpenArt'a yapıştırılmadığı için sayılmaz:
+Uzun Negative Prompt ayrı OpenArt alanına girilir ve 5.200 karakterlik ana alan sayacına dahil
+edilmez. Bilinen en yüksek-riskli hatalar için kısa bir `AVOID:` satırı ana payload'ın sonunda
+kalabilir. Ayrıntılı liste ayrı `*-negative-prompt.txt` dosyasında tutulur.
 
-- markdown başlıkları
+Şunlar paste-ready payload'a konmaz:
+
 - Internal QA Checklist
-- OpenArt Settings
-- production notes
-- açıklamalar
-- dosya başlığı
+- tekrarlanan `Exact Dialogue Script`
+- tekrarlanan `Audio Direction`
+- OpenArt Settings ve production/editing notes
+- acceptance checklist ve açıklamalar
+- Negative Prompt
 
-800 karakter, kullanıcı açıkça onaylamadıkça aşılamaz.
+5.200 karakter hiçbir paste-ready export dosyasında aşılamaz.
 
 ### Zorunlu Dosya Yapısı ve Workflow
 
-Her mevcut ve gelecekteki `shot-XX-openart-prompt.md` dosyası üretime alınmadan önce:
+Her mevcut ve gelecekteki OpenArt video export dosyası üretime alınmadan önce:
 
 1. Ayrıntılı internal production document hazırlanır.
-2. OpenArt'a girecek metin ayrı bir `## OpenArt Paste Prompt` bölümüne konur.
-3. Negative alanına girecek metin ayrı bir `## Negative Prompt` bölümüne konur.
-4. Bu iki bölümün içerikleri, başlıklar hariç ve boşluk/noktalama/satır sonları dahil,
-   birlikte sayılır.
-5. Birleşik toplam 800 karakter veya altında tutulur; 700-780 tercih edilir.
-6. Her dosyada, OpenArt'a yapıştırılmayan şu doğrulama satırı bulunur:
-
-```text
-OpenArt pasted character count: XXX / 800
-```
-
-7. Sayaç 800'ü geçiyorsa prompt approved/production-ready işaretlenmez. Tekrarlı ifade
-   sıkıştırılır; kritik continuity korumaları silinmez.
+2. OpenArt export dosyası yalnızca tek seferde ana video alanına yapıştırılacak payload'ı
+   içerir; internal QA tekrarları bu export'a kopyalanmaz.
+3. Negative Prompt ayrı `*-negative-prompt.txt` dosyasına yazılır.
+4. Export dosyasının **tamamı**, ilk karakterden son satır sonuna kadar `wc -m` veya eşdeğer
+   Unicode karakter sayacıyla ölçülür.
+5. Tam toplam 5.200 veya altında tutulur; 4.500-4.900 tercih edilir.
+6. Sayaç 5.200'ü geçiyorsa dosya production-ready sayılmaz. Tekrarlı ifade internal belgeye
+   taşınır; kritik continuity, action, exact dialogue, voice/lip-sync, sound veya camera
+   kontrolleri silinmez.
 
 ### Compression Priority
 
@@ -1560,6 +1561,7 @@ OpenArt pasted character count: XXX / 800
 - QA dili
 - OpenArt arayüzünden kontrol edilen ayarlar
 - tekrarlanan kamera, ışık ve voice açıklamaları
+- ana timeline'da zaten bulunan ayrı Exact Dialogue Script / Audio Direction tekrarları
 
 Karakter limiti hiçbir zaman kritik continuity kuralı silinerek çözülmez. Tercih edilen
 kompakt kalıplar:
@@ -1574,7 +1576,10 @@ natural ambience only; no music
 
 ### Negative Prompt
 
-- En fazla 15-20 yüksek riskli failure term kullanılır.
+- Uzun liste ana video payload'ına birleştirilmez; ayrı OpenArt Negative Prompt alanına yapıştırılır.
+- Ana payload'ın sonunda yalnızca kısa, shot-specific yüksek-risk `AVOID:` satırı kalabilir.
+- Ayrı `*-negative-prompt.txt` dosyasında tutulur.
+- Yüksek riskli failure term'ler önceliklendirilir.
 - Ana promptta yeterince açık olan kural, bilinen tekrarlayan bir üretim hatası değilse
   negative promptta yinelenmez.
 - Generic quality terimleri yerine gerçek production failure'ları öncelik alır.
@@ -1582,12 +1587,12 @@ natural ambience only; no music
 ### Internal QA Checklist
 
 Tam ayrıntılı kontroller internal dokümanda korunur. Checklist OpenArt'a yapıştırılmaz ve
-800 karakter sınırına dahil edilmez.
+5.200 karakterlik paste-ready payload sınırına dahil edilmez.
 
-Bu kural tüm mevcut ve gelecekteki Pompom Hills OpenArt video promptlarına uygulanır.
+Bu kural tüm mevcut ve gelecekteki Pompom Hills OpenArt video export payload'larına uygulanır.
 Uygulama sırasında story content, dialogue, character canon veya shot intent değiştirilmez.
 
 ---
 
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 5.6 — OpenArt Prompt Character Limit Rule eklendi (800 karakter güvenli sınır)*
+*Versiyon: 5.8 — 18 Temmuz 2026 OpenArt testiyle paste-ready payload sınırı 5.200 karaktere düzeltildi; kısa AVOID satırı ana payload'da, uzun Negative Prompt ayrı alanda kilitlendi*

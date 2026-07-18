@@ -70,6 +70,20 @@ Transition: Cut to Shot 19 — continuous in-block handoff.
 
 Lip-sync: Only the named speaker moves their mouth during each dialogue line, using accurate, natural phoneme-matched lip-sync. Listening characters keep their mouths closed and respond only with restrained eye, head, breathing, hand or posture reactions. During dialogue gaps, all mouths remain closed.
 
+Canonical voice lock: Use only the previously approved canonical voice assigned to each character. Luca uses Luca’s canonical child voice. Mimi uses Mimi’s canonical gentle child voice. Opa uses Opa’s canonical warm storyteller voice. Preserve each voice’s exact identity, apparent age, pitch, accent, timbre, speaking rhythm and emotional character. Never invent, replace, blend, redesign or swap voices.
+
+Preserve each approved voice’s pronunciation and energy.
+
+Only the character named in the locked speaker mapping may speak during each dialogue interval. Only that speaker moves their mouth, using accurate natural phoneme-matched lip-sync. Listening characters keep their mouths closed and respond only with restrained eye, head, breathing, hand or posture reactions. All mouths remain closed during dialogue gaps.
+
+No narrator, no additional voices, no off-screen speech, no overlapping dialogue, no voice reassignment and no characters speaking each other’s lines.
+
+Speaker mapping is locked:
+1.5–3.5 — Opa only — "When else can we wait?"
+4.5–6.5 — Luca only — "While a friend is playing."
+7.5–9.5 — Mimi only — "While someone is talking."
+11.0–13.0 — Opa only — "That is kind waiting."
+
 ## Exact Dialogue Script
 
 Time: 1.5–3.5
@@ -102,16 +116,25 @@ Listener response: Children absorb validation
 
 ## Audio Direction
 
+Voice:
+Luca uses Luca's canonical child voice. Mimi uses Mimi's canonical gentle child voice. Opa uses Opa's canonical warm storyteller voice. Preserve all approved voice identities. Never invent, replace, blend or swap voices. Preserve approved pronunciation and energy.
+
+Speaker mapping:
+1.5–3.5 — Opa only — "When else can we wait?"
+4.5–6.5 — Luca only — "While a friend is playing."
+7.5–9.5 — Mimi only — "While someone is talking."
+11.0–13.0 — Opa only — "That is kind waiting."
 Dialogue: Four lines as specified above. Preschool pace 2.0 wps. Natural breathing gaps.
 Foley: Cushion shift (3.5–4.0), sleeve rustle (7.0–7.5).
 Room tone: Soft indoor room tone.
 Intentional silence: None.
-Lip-sync: Only the named speaker moves their mouth. Listeners' mouths remain closed. No dialogue reassignment or overlapping speech.
+Lip-sync:
+Only the named speaker moves their mouth during each dialogue line, using accurate natural phoneme-matched lip-sync. Listening characters keep their mouths closed and respond only with restrained eye, head, breathing, hand or posture reactions. All mouths remain closed during dialogue gaps.
 Music: NONE.
 
 ## OpenArt Negative Prompt
 
-low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, Mimi positioned on screen-right, Luca positioned on screen-left, Opa missing from rear apex, mirrored staging, costume change, facial redesign, book redesign, readable text, subtitles, captions, logos, glowing book, room redesign, furniture relocation, prop duplication, disappearing props, lens drift, camera-axis crossing, jump cuts, camera shake, random motion, excessive motion, frozen posing, dead air, lip-sync errors, dialogue reassignment, overlapping dialogue, background music, photorealism, glossy CGI, harsh contrast, excessive orange cast, flicker, geometry warping, full fantasy cutaway, moving background objects, story chair, character pop-in
+low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, Mimi positioned on screen-right, Luca positioned on screen-left, Opa missing from rear apex, mirrored staging, costume change, facial redesign, book redesign, readable text, subtitles, captions, logos, glowing book, room redesign, furniture relocation, prop duplication, disappearing props, lens drift, camera-axis crossing, jump cuts, camera shake, random motion, excessive motion, frozen posing, dead air, lip-sync errors, dialogue reassignment, overlapping dialogue, background music, photorealism, glossy CGI, harsh contrast, excessive orange cast, flicker, geometry warping, full fantasy cutaway, moving background objects, story chair, character pop-in, voice swapping, wrong character voice, invented voice, blended voices, narrator voice, off-screen speech, simultaneous mouth movement, listener lip movement, inaccurate lip-sync, improvised dialogue
 
 ## Continuity Acceptance Checklist
 

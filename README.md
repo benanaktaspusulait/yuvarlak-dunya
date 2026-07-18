@@ -77,6 +77,7 @@ yuvarlak-dunya/
 | Video stili, pacing, hook, retention | `00-CORE/18_VIDEO_STYLE_AND_RETENTION_STANDARD.md` |
 | Series bumper (Opa's Storytime vb.) ile world micro-opening ayrımı, dosya organizasyonu | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
 | Shot'lar arası continuity workflow (@image1 zinciri, transition QA) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
+| OpenArt video paste-ready payload karakter sınırı, extraction ve ayrı Negative Prompt kuralı | `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § OPENART PROMPT CHARACTER LIMIT RULE |
 | Standalone shot + dosya-içi post-production transition notu (çok-shot'lu / world geçişli videolar) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/STANDALONE_SHOT_AND_TRANSITION_STANDARD.md` |
 | OpenArt prompt `## Sound` bölümü + doğal sakinleştirici ambient ses (shot-level, müzik yok) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/NATURAL_CALMING_AMBIENCE_SOUND_STANDARD.md` |
 | Sosyal medya görsel formatı (Story/Feed/YouTube platform seti, safe margin) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SOCIAL_MEDIA_IMAGE_FORMAT_STANDARD.md` |
@@ -140,7 +141,7 @@ Tüm promptlar bu üç değişkenle başlar veya biter:
    └── POMPOM_HILLS_PRODUCTION/02_WORLDS/{MEKAN}/04_EPISODE_PACKAGES/ → Scene MD dosyaları
         ↓
 4. Compact Prompt oluştur
-   └── 600-800 karakter OpenArt optimized
+   └── 4.500-4.900 karakter tercihli, en fazla 5.200 karakter paste-ready payload
         ↓
 5. OpenArt'ta üret
    └── World PNG + Character PNG + Compact Prompt → Video

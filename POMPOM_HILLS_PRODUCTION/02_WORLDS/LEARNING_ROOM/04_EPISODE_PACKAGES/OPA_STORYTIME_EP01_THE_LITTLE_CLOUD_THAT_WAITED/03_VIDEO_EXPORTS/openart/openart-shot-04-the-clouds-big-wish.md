@@ -1,120 +1,97 @@
-# OPENART PRODUCTION PROMPT — SHOT 04
+# OPENART PRODUCTION PROMPT — SHOT 04 — FINAL v2
 
-## Production Metadata
-
-Shot: 04/20
-Title: The Cloud's Big Wish
-Duration: 15.0 seconds
-Continuity Mode: Block Continuation
-Block: A
-Lens: 32mm
-Camera Height: 0.75m
-Aspect Ratio: 16:9
-Target Resolution: 1920x1080
-Previous Video Reference: Shot 03
-Next Continuity Target: Shot 05 (World Reset)
+Document Status: **READY TO PASTE — REQUIRES @image1 ONLY**
 
 ## Reference Upload Map
 
-@image1: Block A World Anchor (Shot 01) — environment, lighting, geometry authority
-@image2: Canonical Opa character reference
-@image3: Canonical Luca character reference
-@image4: Canonical Mimi character reference
-Video Reference: Shot 03 — motion, pose, prop-state continuity only
-Generation Source: Continue from approved preceding video and block World Anchor
-QA-Only Reference: NONE
+@image1: shot-3-last-frame.jpg — exact first frame, staging, character identity and visual authority
 
-## Start-Frame Source
+## OpenArt Paste-Ready Prompt
 
-Continue from the approved preceding video and the approved block World Anchor. Do not create a new room interpretation.
+CONTINUOUS 15-SECOND SINGLE TAKE.
 
-## OpenArt Start-Frame Prompt
+Use @image1 as the exact first frame and only visual reference.
 
-NOT REQUIRED — USE APPROVED BLOCK ANCHOR AND PRECEDING VIDEO.
+VIDEO ONLY.
+Generate no audible dialogue, voices, music, ambience, subtitles or on-screen text.
+Characters still perform the specified visible mouth movements.
 
-## OpenArt Video Prompt
+Preserve @image1 exactly:
+Mimi screen-left, Opa rear-centre, Luca screen-right.
+Keep all three character identities, positions, proportions, costumes, room, lighting,
+book size and framing unchanged.
 
-Premium feature-quality stylised 3D preschool animation. Learning Room Reading Corner, warm morning sunlight from left arched windows.
+CAMERA LOCK:
+Completely static camera.
+No zoom, pan, crop, reframe, mirror reversal, character relocation or scale drift.
 
-Continue from the approved Shot 03 final frame. Camera is static at the 32mm medium position. The 15-second performance unfolds as follows:
+BOOK LOCK:
+Keep the exact book angle, position, size and page geometry.
+Keep exactly four existing pink flowers and one existing yellow sun.
+Both Opa hands remain fixed on the outer book edges.
+No pointing, tracing, reaching, page turn, page change, cloud, glow or animation.
 
-0.0–1.5 seconds: Opa turns the page gently. A soft flower illustration is revealed below the cloud on the new page spread. The page-turn sound is soft and detailed.
+0.0–1.5:
+Match @image1.
+Mimi and Luca naturally close their existing smiling mouths within 0.4 seconds.
+Opa looks toward the flowers.
 
-1.5–4.5 seconds: Opa points to the flowers on the page and says: "The cloud saw flowers waiting below." His finger traces from the cloud down to the flower illustrations.
+1.5–4.5:
+Only Opa mouths:
+"The cloud saw flowers waiting below."
+Opa makes one tiny head inclination.
+His hands remain fixed.
+Mimi and Luca listen with closed mouths.
 
-4.5–5.5 seconds: Mimi leans forward, her eyes fixed on the flower illustration. Her expression shows growing curiosity.
+4.5–5.5:
+Mimi leans forward slightly.
+All mouths closed.
 
-5.5–7.0 seconds: Mimi looks up at Opa and asks: "Were they thirsty?" Her voice is soft and concerned.
+5.5–7.0:
+Only Mimi mouths:
+"Were they thirsty?"
+Opa and Luca listen with closed mouths.
 
-7.0–8.5 seconds: Opa nods gently. Luca glances at the flowers on the page, studying them.
+7.0–8.5:
+Opa gives one gentle nod.
+Luca looks toward Opa.
+All mouths closed.
 
-8.5–11.0 seconds: Opa says: "The cloud wanted to help them." His finger moves from the cloud to the flowers, suggesting the connection between them.
+8.5–11.0:
+Only Opa mouths:
+"The cloud wanted to help them."
+Opa makes one small reassuring expression.
+His hands and the book remain fixed.
 
-11.0–12.0 seconds: Mimi's eyes widen with understanding. Luca shifts slightly, leaning in closer.
+11.0–13.5:
+Mimi's eyes widen slightly.
+Luca leans forward a fraction and settles.
+Opa blinks once.
+All mouths closed.
 
-12.0–13.5 seconds: Opa holds the page steady. A soft page-light shift suggests the story deepening.
+13.5–15.0:
+Everyone settles naturally with closed mouths.
 
-13.5–15.0 seconds: Opa holds page completely still. Luca turns attention toward Opa, settles ready to ask. Mimi remains quietly attentive. No mouth movement. This is the final beat before the World Reset.
+Only the assigned speaker performs speech-like mouth movement.
+Listeners keep their mouths closed.
 
-Camera: Static 32mm at Shot 03's final position. No movement.
+Stay inside the same Learning Room composition.
+No outdoor story world, montage, transition, page portal or new location.
 
-Lighting: Continue Shot 03 lighting exactly. Warm window light, soft ambient glow.
+AVOID:
+audio, voices, music, extra dialogue, listener mouth movement, camera movement,
+character relocation, hand deformation, extra fingers, hand leaving book, pointing,
+book movement, page change, altered flowers, altered sun, cloud, glow, subtitles,
+logos, flicker and warping.
 
-Sound: Soft indoor room tone. Page turn (0.0–1.5). Finger brushing page (2.5–3.5). Soft cushion shift (10.0–10.5). Uninterrupted Learning Room room tone bridges the editorial cut to Shot 05. No music.
+## OpenArt Video Settings
 
-Final frame: Opa holds page still, Luca settled looking toward Opa, Mimi quietly attentive. Book open with flower illustrations visible.
-
-Transition: Deliberate editorial World Reset cut to Shot 05. No action crosses boundary.
-
-Lip-sync: Only the named speaker moves their mouth during each dialogue line, using accurate, natural phoneme-matched lip-sync. Listening characters keep their mouths closed and respond only with restrained eye, head, breathing, hand or posture reactions. During dialogue gaps, all mouths remain closed.
-
-## Exact Dialogue Script
-
-Time: 1.5–4.5
-Speaker: Opa
-Exact line: The cloud saw flowers waiting below.
-Delivery: Gentle, story-telling, descriptive
-Visible action: Opa points to flowers on page
-Listener response: Mimi leans forward
-
-Time: 5.5–7.0
-Speaker: Mimi
-Exact line: Were they thirsty?
-Delivery: Soft, concerned, curious
-Visible action: Mimi looks up at Opa
-Listener response: Opa nods gently
-
-Time: 8.5–11.0
-Speaker: Opa
-Exact line: The cloud wanted to help them.
-Delivery: Warm, connecting cloud to flowers
-Visible action: Opa's finger moves from cloud to flowers
-Listener response: Mimi's eyes widen, Luca leans in
-
-## Audio Direction
-
-Dialogue: Three lines as specified above. Preschool pace 2.0–2.4 wps. Natural breathing gaps.
-Foley: Page turn (0.0–1.5), finger brushing page (2.5–3.5), cushion shift (10.0–10.5).
-Room tone: Soft indoor room tone, uninterrupted through to Shot 05.
-Intentional silence: None.
-Lip-sync: Only the named speaker moves their mouth. Listeners' mouths remain closed. No dialogue reassignment or overlapping speech.
-Music: NONE.
-
-## OpenArt Negative Prompt
-
-low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, Mimi positioned on screen-right, Luca positioned on screen-left, Opa missing from rear apex, mirrored staging, costume change, facial redesign, book redesign, readable text, subtitles, captions, logos, glowing book, room redesign, furniture relocation, prop duplication, disappearing props, lens drift, camera-axis crossing, jump cuts, camera shake, random motion, excessive motion, frozen posing, dead air, lip-sync errors, dialogue reassignment, overlapping dialogue, background music, photorealism, glossy CGI, harsh contrast, excessive orange cast, flicker, geometry warping, full fantasy cutaway, story chair, character pop-in, moving background objects
-
-## Continuity Acceptance Checklist
-
-- [ ] Correct characters present: Opa, Luca, Mimi
-- [ ] Correct seating and screen sides: Opa rear apex, Mimi screen-left, Luca screen-right
-- [ ] Correct book state: OPEN, flower illustrations visible
-- [ ] Correct lens and camera: 32mm, static
-- [ ] Correct room anchor: Block A World Anchor (Shot 01)
-- [ ] Exact dialogue: All 3 lines verbatim
-- [ ] Correct dialogue timing: 1.5–4.5, 5.5–7.0, 8.5–11.0
-- [ ] Purposeful motion throughout — page turn, pointing, leaning
-- [ ] No empty staring — continuous motivated activity
-- [ ] Correct audio: Page turn, room tone, no music
-- [ ] Correct final frame: Opa holds page still, children attentive
-- [ ] Ready for next shot — World Reset to Shot 05
+- Mode: frame-to-video
+- Use only @image1
+- Duration: exactly 15 seconds
+- Generated dialogue: Off
+- Generated audio: Off
+- Voice selection: None
+- Prompt Enhancer: Off
+- Cinematic/auto camera: Off
+- Aspect ratio: horizontal 16:9

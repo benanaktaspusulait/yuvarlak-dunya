@@ -52,6 +52,13 @@ rules already defined in `00-CORE/CONTINUITY_RULES.md` §9 (Reference Frame Work
 override those, it is the per-episode application of them plus the world-opening step
 that `00-CORE/CONTINUITY_RULES.md` does not cover.
 
+### OpenArt Paste-Ready Export Gate
+
+Before generation, the complete OpenArt video export file must pass the character-limit and
+extraction rule in `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § OPENART PROMPT CHARACTER LIMIT
+RULE. Internal QA, duplicated dialogue/audio blocks and the separately supplied Negative
+Prompt must not be appended to the paste-ready video payload.
+
 ---
 
 ## 3. World Opening → Shot 01
