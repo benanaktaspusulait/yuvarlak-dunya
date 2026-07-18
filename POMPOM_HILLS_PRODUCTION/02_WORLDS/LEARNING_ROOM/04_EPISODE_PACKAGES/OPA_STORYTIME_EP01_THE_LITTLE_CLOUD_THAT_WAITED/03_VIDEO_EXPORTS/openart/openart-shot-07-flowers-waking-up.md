@@ -14,70 +14,233 @@ Target Resolution: 1920x1080
 Previous Video Reference: Shot 06
 Next Continuity Target: Shot 08 (what happens next)
 
-## Reference Upload Map
+## Reference Workflow
 
-@image1: Block B World Anchor (Shot 05) — environment, lighting, geometry authority
-@image2: Canonical Opa character reference
-@image3: Canonical Luca character reference
-@image4: Canonical Mimi character reference
-Video Reference: Shot 06 — motion, pose, prop-state continuity only
-Generation Source: Continue from approved preceding video and block World Anchor
-QA-Only Reference: NONE
+Attach only the approved Shot 06 final frame as the real linked @image5.
+
+Do not attach any world, character, previous-video or additional image reference.
+
+@image5 is the only authority for:
+
+- character identities,
+- character positions,
+- costumes,
+- camera,
+- crop,
+- Learning Room geometry,
+- furniture,
+- book position,
+- current page illustration,
+- lighting,
+- brightness,
+- contrast,
+- saturation,
+- softness,
+- and sharpness.
 
 ## Start-Frame Source
 
-Continue from the approved preceding video and the approved block World Anchor. Do not create a new room interpretation.
+Use only the approved Shot 06 final frame as the real linked @image5.
+
+Frame 1 of Shot 07 must match @image5 exactly.
+
+No new Take Shot is required because Shot 07 continues inside Block B.
+
+Do not rebuild or reinterpret the Learning Room.
 
 ## OpenArt Start-Frame Prompt
 
-NOT REQUIRED — USE APPROVED BLOCK ANCHOR AND PRECEDING VIDEO.
+NOT REQUIRED — USE THE APPROVED SHOT 06 FINAL FRAME AS THE ONLY LINKED @image5.
 
 ## OpenArt Video Prompt
 
-Premium feature-quality stylised 3D preschool animation. Learning Room Reading Corner, warm morning sunlight from left arched windows.
+@image5
 
-Continue from the approved Shot 06 final frame. Camera is static at the 35mm medium position. The 15-second performance unfolds as follows:
+CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
 
-0.0–1.5 seconds: Opa's finger traces the flower illustrations on the open page. Luca watches closely. Mimi present left, hand on chin, watching intently.
+Continue directly from @image5.
 
-1.5–4.5 seconds: Opa says: "The flowers were slowly waking up." His finger moves slowly across the half-open flower illustrations, suggesting gradual opening.
+Frame 1 must match @image5 exactly.
 
-4.5–5.5 seconds: Luca leans forward, his finger pointing at a half-open flower on the page. He is engaged and curious.
+Preserve the exact:
 
-5.5–7.5 seconds: Luca looks up at Opa and says: "They were not ready." His observation is thoughtful and precise.
+- Opa at rear centre,
+- Mimi screen-left,
+- Luca screen-right,
+- character identities,
+- costumes,
+- seating positions,
+- camera and crop,
+- Learning Room,
+- furniture,
+- book position and scale,
+- lighting,
+- contrast,
+- colour,
+- softness,
+- and sharpness
 
-7.5–9.0 seconds: Opa nods at Luca's observation. Mimi watches with her hand on her chin, absorbing the idea.
+visible in @image5.
 
-9.0–11.5 seconds: Opa makes a gentle hand gesture toward the page and says: "Right. So the cloud waited." His voice is warm and validating.
+The open book begins with exactly four pink flower buds beginning to open:
+two flowers on the left page and two flowers on the right page.
 
-11.5–13.0 seconds: Luca pulls his hand back from the page and nods slowly, understanding the lesson about patience.
+There is no cloud and no sun on the current page.
 
-13.0–15.0 seconds: Mimi leans in to ask what happens next. Her body language shows anticipation and curiosity.
+Do not add, remove, replace, mirror or relocate any visible character, object or furniture item.
 
-Camera: Static 35mm inherited from Shot 05. No independent reframe.
+The 15-second performance unfolds as follows:
 
-Lighting: Continue Shot 06 lighting exactly. Warm window light, soft ambient glow. Soft contact shadows. No hard shadows.
+0.0–1.5 seconds:
+Opa keeps the book stable with his right hand.
+His left feather-tip gently indicates the first flower without covering or deforming the page.
+Luca watches closely.
+Mimi watches silently with one hand resting near her chin.
+All mouths closed.
 
-Sound: Finger brushing page (0.0–1.5) as Opa traces flowers. Soft fabric shift (11.5–12.0) as Luca pulls hand back. No music.
+1.5–4.5 seconds:
+Only Opa says:
+"The flowers were slowly waking up."
 
-Final frame: Mimi leaning in with anticipation, Luca nodding, Opa holding page with half-open flowers.
+Opa's left feather-tip moves slowly from the first flower toward the next flower.
+His right hand keeps the book stable.
+Mimi and Luca listen with closed mouths.
+
+4.5–5.5 seconds:
+Luca leans forward slightly.
+His right index finger hovers near one flower without touching or altering the page.
+All mouths closed.
+
+5.5–7.5 seconds:
+Only Luca says:
+"They were not ready."
+
+Opa and Mimi listen with closed mouths.
+
+7.5–9.0 seconds:
+Opa gives Luca one small approving nod.
+Mimi remains silent and attentive.
+All mouths closed.
+
+9.0–11.5 seconds:
+Only Opa says:
+"Right. So the cloud waited."
+
+Opa makes one small open-hand gesture above the book.
+Do not add the cloud back to the page.
+Luca and Mimi listen with closed mouths.
+
+11.5–13.0 seconds:
+Luca withdraws his hand and nods slowly.
+Opa returns his hand to the book edge.
+Mimi watches silently.
+All mouths closed.
+
+13.0–15.0 seconds:
+Mimi leans forward silently with anticipation, preparing for Shot 08.
+Her mouth remains fully closed.
+She produces no speech or vocal reaction.
+
+Luca settles with his hands near his lap.
+Opa holds the book securely.
+Hold the composition until exactly 15.0 seconds.
+
+Camera: Static 35mm inherited from Shot 06. No independent reframe.
+
+Lighting: Preserve the exact lighting, exposure, colour temperature, shadow softness and warm morning-light direction already visible in @image5. Do not reconstruct or reinterpret the lighting from any other source.
+
+Sound: Soft indoor room tone. Finger brushing page (0.0–1.5), soft fabric shift (11.5–12.0). No music.
+
+Final frame: Mimi leaning in with anticipation, Luca settled, Opa holding book with four flower buds.
 
 Transition: Cut to Shot 08 — continuous in-block handoff.
 
+BOOK AND PAGE HARD LOCK:
+
+Preserve exactly four pink flower buds throughout the full shot.
+
+Keep:
+
+- two flowers on the left page,
+- two flowers on the right page,
+- the same green stems and leaves,
+- the same plain white pages,
+- and no readable text.
+
+Do not add a cloud, sun, extra flower, missing flower, page text, glow or illustration animation.
+
+The flowers remain beginning-to-open illustrations.
+They do not physically animate or bloom during this shot.
+
+VISUAL QUALITY HARD LOCK:
+
+Use @image5 as the absolute visual-quality master.
+
+Do not increase:
+
+- contrast,
+- local contrast,
+- saturation,
+- clarity,
+- digital sharpness,
+- HDR intensity,
+- black depth,
+- specular highlights,
+- or micro-detail.
+
+Preserve the exact accepted brightness, warm colour balance, matte materials and soft edges
+visible in @image5.
+
+No gradual darkening.
+No contrast drift.
+No sharpening drift.
+No saturation drift.
+No glossy plastic appearance.
+No crushed blacks.
+No edge halos.
+
 Lip-sync: Only the named speaker moves their mouth during each dialogue line, using accurate, natural phoneme-matched lip-sync. Listening characters keep their mouths closed and respond only with restrained eye, head, breathing, hand or posture reactions. During dialogue gaps, all mouths remain closed.
 
-Canonical voice lock: Use only the previously approved canonical voice assigned to each character. Luca uses Luca’s canonical child voice. Mimi uses Mimi’s canonical gentle child voice. Opa uses Opa’s canonical warm storyteller voice. Preserve each voice’s exact identity, apparent age, pitch, accent, timbre, speaking rhythm and emotional character. Never invent, replace, blend, redesign or swap voices.
+CANONICAL CHARACTER VOICE HARD LOCK:
 
-Preserve each approved voice’s pronunciation and energy.
+All three visible characters must remain bound only to their own existing approved saved canonical voices:
 
-Only the character named in the locked speaker mapping may speak during each dialogue interval. Only that speaker moves their mouth, using accurate natural phoneme-matched lip-sync. Listening characters keep their mouths closed and respond only with restrained eye, head, breathing, hand or posture reactions. All mouths remain closed during dialogue gaps.
+- Opa → approved saved Opa voice
+- Luca → approved saved Luca voice
+- Mimi → approved saved Mimi voice
 
-No narrator, no additional voices, no off-screen speech, no overlapping dialogue, no voice reassignment and no characters speaking each other’s lines.
+Do not create, clone, approximate, replace, blend or redesign any voice.
 
-Speaker mapping is locked:
-1.5–4.5 — Opa only — "The flowers were slowly waking up."
-5.5–7.5 — Luca only — "They were not ready."
-9.0–11.5 — Opa only — "Right. So the cloud waited."
+Do not load, select or use Arda's voice.
+
+Do not use Auto Voice.
+
+Voice assignment and speaking permission are separate.
+
+Speaking permission:
+
+1.5–4.5 seconds — Opa only:
+"The flowers were slowly waking up."
+
+5.5–7.5 seconds — Luca only:
+"They were not ready."
+
+9.0–11.5 seconds — Opa only:
+"Right. So the cloud waited."
+
+Mimi has no dialogue and remains completely silent.
+
+The presence of Mimi's assigned canonical voice does not permit Mimi to speak.
+
+Only the named speaker moves their mouth.
+
+All listening characters keep their mouths closed.
+
+No narrator.
+No overlapping speech.
+No improvised words.
+No vocal reactions.
+No voice swapping.
 
 ## Exact Dialogue Script
 
@@ -85,14 +248,14 @@ Time: 1.5–4.5
 Speaker: Opa
 Exact line: The flowers were slowly waking up.
 Delivery: Gentle, descriptive, story-telling
-Visible action: Opa's finger moves slowly across half-open flowers
+Visible action: Opa's feather-tip moves slowly across flowers
 Listener response: Luca leans forward to point
 
 Time: 5.5–7.5
 Speaker: Luca
 Exact line: They were not ready.
 Delivery: Thoughtful, observant, precise
-Visible action: Luca points at half-open flower
+Visible action: Luca points at flower
 Listener response: Opa nods
 
 Time: 9.0–11.5
@@ -105,7 +268,16 @@ Listener response: Luca pulls hand back and nods
 ## Audio Direction
 
 Voice:
-Luca uses Luca's canonical child voice. Mimi uses Mimi's canonical gentle child voice. Opa uses Opa's canonical warm storyteller voice. Preserve all approved voice identities. Never invent, replace, blend or swap voices. Preserve approved pronunciation and energy.
+
+Opa uses only the existing approved saved Opa voice.
+Luca uses only the existing approved saved Luca voice.
+Mimi uses only the existing approved saved Mimi voice.
+
+All three canonical character voices must be manually selected and correctly assigned
+before generation. Do not load or select Arda's voice.
+
+Do not use Auto Voice.
+Do not swap, blend or substitute voices.
 
 Speaker mapping:
 1.5–4.5 — Opa only — "The flowers were slowly waking up."
@@ -114,26 +286,60 @@ Speaker mapping:
 Dialogue: Three lines as specified above. Preschool pace 2.0 wps. Natural breathing gaps.
 Foley: Finger brushing page (0.0–1.5), fabric shift (11.5–12.0).
 Room tone: Soft indoor room tone.
-Intentional silence: None.
+Intentional silence:
+All dialogue gaps remain quiet except for soft room tone and the specified subtle fabric/page sounds.
+No improvised dialogue or vocal reaction.
 Lip-sync:
 Only the named speaker moves their mouth during each dialogue line, using accurate natural phoneme-matched lip-sync. Listening characters keep their mouths closed and respond only with restrained eye, head, breathing, hand or posture reactions. All mouths remain closed during dialogue gaps.
 Music: NONE.
 
 ## OpenArt Negative Prompt
 
-low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, Mimi positioned on screen-right, Luca positioned on screen-left, Opa missing from rear apex, mirrored staging, costume change, facial redesign, book redesign, readable text, subtitles, captions, logos, glowing book, room redesign, furniture relocation, prop duplication, disappearing props, lens drift, camera-axis crossing, jump cuts, camera shake, random motion, excessive motion, frozen posing, dead air, lip-sync errors, dialogue reassignment, overlapping dialogue, background music, photorealism, glossy CGI, harsh contrast, excessive orange cast, flicker, geometry warping, full fantasy cutaway, moving background objects, story chair, character pop-in, voice swapping, wrong character voice, invented voice, blended voices, narrator voice, off-screen speech, simultaneous mouth movement, listener lip movement, inaccurate lip-sync, improvised dialogue
+low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, Mimi positioned on screen-right, Luca positioned on screen-left, Opa missing from rear apex, mirrored staging, costume change, facial redesign, book redesign, readable text, subtitles, captions, logos, glowing book, room redesign, furniture relocation, prop duplication, disappearing props, lens drift, camera-axis crossing, jump cuts, camera shake, random motion, excessive motion, frozen posing, dead air, lip-sync errors, dialogue reassignment, overlapping dialogue, background music, photorealism, glossy CGI, harsh contrast, excessive orange cast, flicker, geometry warping, full fantasy cutaway, moving background objects, story chair, character pop-in, voice swapping, wrong character voice, invented voice, blended voices, narrator voice, off-screen speech, simultaneous mouth movement, listener lip movement, inaccurate lip-sync, improvised dialogue, additional image reference, world anchor regeneration, previous video reference, room reinterpretation, first-frame mismatch, camera change, crop change, missing flower, extra flower, more than four flowers, cloud on page, sun on page, flower animation, blooming flowers, page redesign, readable page text, contrast increase, sharpness increase, saturation increase, HDR, Mimi speaking, Mimi mouth movement, Arda voice, wrong Opa voice, wrong Luca voice, Auto Voice
+
+## OpenArt Audio Settings
+
+- Generated dialogue: On
+- Generated audio: On
+- Spoken language: English
+- Opa voice: manually select the existing approved saved Opa voice
+- Luca voice: manually select the existing approved saved Luca voice
+- Mimi voice: manually select the existing approved saved Mimi voice
+- Arda voice: not loaded / not selected
+- Auto Voice: Off
+- Music: Off
+
+## OpenArt Video Settings
+
+- Model: selected WAN frame-to-video model
+- Mode: frame-to-video
+- Attach only the approved Shot 06 final frame as the real linked @image5
+- Prompt begins with the linked @image5 tag
+- No additional image or video reference
+- Duration: exactly 15 seconds
+- Prompt Enhancer: Off
+- Cinematic/auto camera: Off
+- Aspect ratio: horizontal 16:9
 
 ## Continuity Acceptance Checklist
 
-- [ ] Correct characters present: Opa, Luca, Mimi
-- [ ] Correct seating and screen sides: Opa rear apex, Mimi screen-left, Luca screen-right
-- [ ] Correct book state: OPEN, flowers half-open
-- [ ] Correct lens and camera: 35mm, static
-- [ ] Correct room anchor: Block B World Anchor (Shot 05)
+- [ ] Shot 06 final frame is the only linked @image5.
+- [ ] Frame 1 matches Shot 06 final frame exactly.
+- [ ] No world, character or previous-video reference is attached.
+- [ ] The book begins and ends with exactly four pink flower buds.
+- [ ] No cloud or sun appears on the page.
+- [ ] Opa uses the approved Opa voice.
+- [ ] Luca uses the approved Luca voice.
+- [ ] Mimi is manually bound to the approved Mimi voice.
+- [ ] Arda's voice is not loaded.
+- [ ] Auto Voice is Off.
+- [ ] Only Opa and Luca speak.
+- [ ] Mimi remains completely silent with her mouth closed.
+- [ ] Contrast and sharpness do not increase from @image5.
 - [ ] Exact dialogue: All 3 lines verbatim
 - [ ] Correct dialogue timing: 1.5–4.5, 5.5–7.5, 9.0–11.5
 - [ ] Purposeful motion throughout — tracing, pointing, nodding
 - [ ] No empty staring — continuous motivated activity
 - [ ] Correct audio: Finger brush, fabric shift, no music
-- [ ] Correct final frame: Mimi leaning in, Luca nodding
+- [ ] Correct final frame: Mimi leaning in, Luca settled
 - [ ] Ready for next shot — Shot 08 continues in Block B
