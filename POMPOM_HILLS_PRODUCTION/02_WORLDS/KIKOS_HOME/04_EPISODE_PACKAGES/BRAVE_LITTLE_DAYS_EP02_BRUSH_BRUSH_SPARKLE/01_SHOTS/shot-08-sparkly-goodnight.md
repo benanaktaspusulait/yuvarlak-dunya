@@ -25,7 +25,7 @@ After the Take Shot is approved:
 
 - remove the Sleeping Corner environment image
 - remove both character references
-- attach only the approved Shot 08 anchor as real linked @image1
+- attach only the approved Shot 08 anchor as real linked @image5
 
 Do not generate Shot 08 until the Sleeping Corner environment image is approved.
 
@@ -57,19 +57,21 @@ The Take Shot is a static anchor only. Do not generate dialogue, lip movement, g
 
 Approve this image before video generation.
 
-## OpenArt Video Prompt — STAGE B @image1 ONLY
+## OpenArt Video Prompt — STAGE B @image5 ONLY
 
-@image1
+@image5
 
 CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
 
-Animate directly from the approved clean @image1 anchor.
+Animate directly from the approved clean @image5 anchor.
 
-Frame 1 must match @image1 exactly.
+Frame 1 must match @image5 exactly.
 
-@image1 is the only visual authority.
+@image5 is the only visual authority.
 
-Premium soft stylised 3D preschool animation. Kiko and Mimi cozy near the approved rounded wooden child bed with its coral blanket and soft pillow. Preserve the exact warm soft daylight and balanced brightness of the approved Sleeping Corner image. Cozy and calm, but never dark. Kiko gives a gentle wave with a proud, clean, healthy smile. Rounded shapes, medium-low contrast, gentle sharpness, matte materials.
+Premium soft stylised 3D preschool animation. Kiko and Mimi cozy near the approved rounded wooden child bed with its coral blanket and soft pillow. Preserve the exact warm soft daylight and balanced brightness of the approved Sleeping Corner image. Cozy and calm, but never dark. During the final 0.6 seconds only, Kiko gives one small gentle wave with a proud,
+clean, healthy smile. Before that final moment, Kiko keeps both hands relaxed and
+uses only the small gestures specified in the timeline. Rounded shapes, medium-low contrast, gentle sharpness, matte materials.
 
 No dark bedroom. No scary shadows. No toothbrush in sleeping corner. No sink props.
 
@@ -77,8 +79,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Camera
 
-Preserve the exact camera position, lens, framing, crop and character scale from @image1.
-
+Preserve the exact camera position, lens, framing, crop and character scale from @image5.
 Static child-eye-level camera. No reframe, zoom, pan, tilt or camera movement. No movement.
 
 ## Dialogue
@@ -135,13 +136,13 @@ low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, chara
 ## Checklist
 
 - [ ] Complete paste-ready OpenArt Video Prompt present
-- [ ] Video Prompt begins with real linked @image1 tag
-- [ ] @image1 is only visual source during video generation
+- [ ] Video Prompt begins with real linked @image5 tag
+- [ ] @image5 is only visual source during video generation
 - [ ] Separate static Take Shot prompt present
-- [ ] Separate @image1-only Video Prompt present
+- [ ] Separate @image5-only Video Prompt present
 - [ ] Sleeping Corner environment image and both character references detached before video
 - [ ] Fresh Sleeping Corner Take Shot created and approved
-- [ ] Frame 1 matches real linked @image1 exactly
+- [ ] Frame 1 matches real linked @image5 exactly
 - [ ] No Washing Corner props appear
 - [ ] Canonical voices manually selected, Auto Voice Off
 - [ ] Only named speaker moves mouth; listeners closed
