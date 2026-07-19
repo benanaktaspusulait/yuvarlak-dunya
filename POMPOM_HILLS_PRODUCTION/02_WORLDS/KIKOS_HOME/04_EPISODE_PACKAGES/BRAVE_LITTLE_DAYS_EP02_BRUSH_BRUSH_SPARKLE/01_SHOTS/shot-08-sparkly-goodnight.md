@@ -1,105 +1,155 @@
-# BLD-EP02 — Shot 08 — Sparkly Goodnight (Lesson / Warm Close)
-
----
+# BLD-EP02 — Shot 08 — Sparkly Goodnight
 
 ## Scene Context
 
 | Field | Value |
 |---|---|
-| Episode | Brave Little Days EP02 — Brush, Brush, Sparkle! |
 | Shot | 08 / 08 |
 | Duration | 15 seconds |
-| Location | Kiko's Home — toward the Sleeping Corner |
+| Block | C — Sleeping Corner |
+| Location | Mimi's Home Interior — Sleeping Corner |
 | Characters | Kiko, Mimi |
-| Time of Day | Warm Evening |
-| Spine step | LESSON (warm close) |
-
----
+| Take Shot | FRESH SLEEPING CORNER TAKE SHOT |
 
 ## Purpose
 
-Close the loop warmly with the repeated phrase and the felt lesson (brush every day), heading
-cozily to bed. Then hand off to the shared closing bumper.
+Close warmly with the repeated phrase and felt lesson. Cozy toward bed. Clean editorial cut to closing asset.
 
 ## Continuity
 
-Use Shot 07 approved final frame as `@image1`. Move from the Washing Corner to the rounded
-Sleeping Corner per Kiko's Home canon flow. Warm evening stays golden and cozy (never dark).
-Warm final hold leads into the shared Brave Little Days closing bumper
-(`POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/CLOSING_BUMPER/closing-bumper.md`).
+Fresh Sleeping Corner quality-reset anchor. Do NOT generate from Shot 07 final frame.
 
-## Environment Anchors
+STAGE A — TAKE SHOT: Use the approved Sleeping Corner environment image together with approved Kiko and Mimi character references for Stage A only.
 
-- Kiko's Home rounded sleeping corner (round bed, pillow, soft blanket) per canon.
-- Kiko and Mimi cozy and sleepy-happy.
+After the Take Shot is approved:
 
-## Background Object Lock
+- remove the Sleeping Corner environment image
+- remove both character references
+- attach only the approved Shot 08 anchor as real linked @image1
 
-Keep the sleeping corner on-canon (round bed, soft blanket). Only characters move (small wave, smiles).
+Do not generate Shot 08 until the Sleeping Corner environment image is approved.
 
-## Visual Prompt
+## OpenArt Start-Frame Prompt — STAGE A TAKE SHOT ONLY
 
-```text
-Kiko and Mimi cozy near the rounded sleeping corner of Kiko's Home (round bed, soft blanket), warm
-evening golden light, sleepy-happy. Kiko waves with a big, clean, sparkly smile. Warm and safe, cozy
-not dark, calm uncluttered end-screen-safe composition (clear center and lower corners), rounded soft
-shapes, {style} {camera} {lighting}
+Create one clean, static Shot 08 Sleeping Corner anchor.
+
+Use the approved Sleeping Corner environment image together with approved Kiko and Mimi character references for this Take Shot.
+
+Preserve the approved Sleeping Corner environment image exactly.
+
+Keep its exact bed shape, blanket, pillow, furniture, lighting, layout, camera angle
+and decorative objects.
+
+Do not redesign, relocate, add, remove or reinterpret any environment element.
+
+Composition:
+
+- preserve the exact approved Sleeping Corner camera angle and framing
+- Kiko stands centre-left on the open rug area near the foot of the bed
+- Mimi stands screen-right on the open rug area
+- do not cover the bed, nightstand, window or main room features
+- both characters fully visible at preschool scale
+- both mouths fully closed
+- clean end-screen-safe composition
+- no sharp furniture, no new characters, no toothbrushes, no sink props
+
+The Take Shot is a static anchor only. Do not generate dialogue, lip movement, gestures, camera motion or animated gestures.
+
+Approve this image before video generation.
+
+## OpenArt Video Prompt — STAGE B @image1 ONLY
+
+@image1
+
+CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
+
+Animate directly from the approved clean @image1 anchor.
+
+Frame 1 must match @image1 exactly.
+
+@image1 is the only visual authority.
+
+Premium soft stylised 3D preschool animation. Kiko and Mimi cozy near the approved rounded wooden child bed with its coral blanket and soft pillow. Preserve the exact warm soft daylight and balanced brightness of the approved Sleeping Corner image. Cozy and calm, but never dark. Kiko gives a gentle wave with a proud, clean, healthy smile. Rounded shapes, medium-low contrast, gentle sharpness, matte materials.
+
+No dark bedroom. No scary shadows. No toothbrush in sleeping corner. No sink props.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
 
-## Camera Direction
+## Camera
 
-32mm stable medium at child eye level. End on a calm, end-screen-safe frame; then cut to the
-closing bumper.
+Preserve the exact camera position, lens, framing, crop and character scale from @image1.
+
+Static child-eye-level camera. No reframe, zoom, pan, tilt or camera movement. No movement.
 
 ## Dialogue
 
-```text
-Kiko: Brush, brush, sparkle — every day!
-
-Mimi: Goodnight, happy smile.
-```
+0.6–2.8 — Kiko: "Brush, brush, sparkle—every day!"
+3.4–5.0 — Mimi: "You made it fun."
+5.6–7.4 — Kiko: "And my teeth feel clean."
+8.0–10.0 — Mimi: "That is a brave habit."
+10.6–12.4 — Kiko: "I can do it tomorrow."
+13.0–14.4 — Mimi: "Goodnight, happy smile."
 
 ## Shot Breakdown
 
-| Time | Action | Camera |
-|---|---|---|
-| 0-4 sec | Kiko + Mimi cozy near the bed | Medium |
-| 4-8 sec | Kiko: "Brush, brush, sparkle — every day!" | Medium |
-| 8-12 sec | Mimi: "Goodnight, happy smile." | Medium |
-| 12-15 sec | Kiko waves, big smile — warm final hold | End-screen-safe hold |
+| Time | Action |
+|---|---|
+| 0.0–0.6 | Kiko and Mimi settle near bed |
+| 0.6–2.8 | Kiko: "Brush, brush, sparkle—every day!" + proud gesture |
+| 2.8–3.4 | Kiko closes mouth, Mimi smiles warmly |
+| 3.4–5.0 | Mimi: "You made it fun." |
+| 5.0–5.6 | Mimi closes mouth, Kiko nods |
+| 5.6–7.4 | Kiko: "And my teeth feel clean." |
+| 7.4–8.0 | Kiko closes mouth, Mimi looks proudly |
+| 8.0–10.0 | Mimi: "That is a brave habit." |
+| 10.0–10.6 | Mimi closes mouth, Kiko settles near bed |
+| 10.6–12.4 | Kiko: "I can do it tomorrow." |
+| 12.4–13.0 | Kiko closes mouth, Mimi sleepy-happy smile |
+| 13.0–14.4 | Mimi: "Goodnight, happy smile." |
+| 14.4–15.0 | Mimi closes mouth, Kiko gentle wave, warm end-screen-safe final pose |
 
 ## Sound
 
-Warm cozy room tone, soft goodnight, gentle settle. Natural ambience only. No music (music
-resumes only in the shared closing bumper).
+Warm cozy room tone, soft goodnight, gentle settle. No music.
 
-## Emotion
+## Voice Assignment
 
-Warm, cozy, complete — a happy, sleepy resolution.
+Kiko → approved saved Kiko voice. Mimi → approved saved Mimi voice. Auto Voice: Off.
 
-## Repeated Phrase / Lesson
+## OpenArt Audio Settings
 
-Kiko repeats **"Brush, brush, sparkle — every day!"**, landing the felt lesson (brush daily).
-No preaching.
+- Generated dialogue: On, Generated audio: On, Spoken language: English
+- Kiko voice: manually select approved saved Kiko voice
+- Mimi voice: manually select approved saved Mimi voice
+- All other voices: not loaded, Auto Voice: Off, Music: Off
 
-## Safe-Exposure Notes
+## OpenArt Video Settings
 
-End fully warm and positive; evening stays golden and cozy, never dark. Bedtime feels safe.
+- Model: selected Seedance frame-to-video model, Mode: frame-to-video
+- Duration: exactly 15 seconds, Prompt Enhancer: Off, Cinematic/auto camera: Off, Aspect ratio: horizontal 16:9
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, photorealistic, horror, scary, dark lighting, night,
-scary shadows, extra characters, redesigned Kiko's Home, sharp corners, on-screen end card text,
-cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, static talking pose,
-characters frozen, background music, music, melody, song, soundtrack
+low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, mirrored staging, costume change, facial redesign, on-screen dialogue text, speech bubbles, captions, subtitles, watermark, logos, room redesign, furniture relocation, prop duplication, disappearing props, surprise props, lens drift, camera-axis crossing, jump cuts, camera shake, random camera movement, dolly, push-in, pull-back, zoom, pan, tilt, orbit, crop change, camera-height change, independent reframe, character pop-in, first-frame mismatch, previous full video reference, additional image reference, multiple reference images, background-object movement, frozen talking pose, empty staring, dead air, extended silence, long final hold, simultaneous mouth movement, listener lip movement, inaccurate lip-sync, dialogue reassignment, overlapping dialogue, improvised dialogue, narrator voice, off-screen speech, wrong character voice, invented voice, blended voice, voice swapping, Auto Voice, background music, music, melody, song, soundtrack, photorealism, glossy CGI, harsh contrast, excessive saturation, excessive orange cast, blue tint, green tint, HDR, crushed blacks, harsh highlights, edge halos, sharpness increase, contrast increase, local-contrast increase, brightness drift, gradual darkening, gradual brightening, dark bedroom, scary shadows, toothbrush in sleeping corner, sink prop in sleeping corner, washing-corner furniture, three-second static ending, music resumes in bumper
 
-## QA Checklist
+## Checklist
 
-- [ ] Repeated phrase "Brush, brush, sparkle — every day!" delivered by Kiko.
-- [ ] Warm, complete, cozy resolution; evening golden not dark.
-- [ ] End frame is end-screen-safe (clear center + lower corners; no burned-in text).
-- [ ] Sleeping corner on-canon (round bed/blanket).
-- [ ] Identities/voices consistent; colour/lighting match master.
-- [ ] Warm final hold hands off cleanly to the shared closing bumper.
+- [ ] Complete paste-ready OpenArt Video Prompt present
+- [ ] Video Prompt begins with real linked @image1 tag
+- [ ] @image1 is only visual source during video generation
+- [ ] Separate static Take Shot prompt present
+- [ ] Separate @image1-only Video Prompt present
+- [ ] Sleeping Corner environment image and both character references detached before video
+- [ ] Fresh Sleeping Corner Take Shot created and approved
+- [ ] Frame 1 matches real linked @image1 exactly
+- [ ] No Washing Corner props appear
+- [ ] Canonical voices manually selected, Auto Voice Off
+- [ ] Only named speaker moves mouth; listeners closed
+- [ ] No dialogue gap exceeds 1.0 second
+- [ ] Final hold lasts only 0.6 seconds
+- [ ] Camera completely static
+- [ ] Brightness/contrast/saturation/sharpness stable
+- [ ] Exact warm soft daylight and balanced brightness from the approved Sleeping Corner image preserved; cozy and never dark
+- [ ] No on-screen text, no music
+- [ ] Final frame clean and end-screen-safe
+- [ ] Clean editorial cut to closing asset

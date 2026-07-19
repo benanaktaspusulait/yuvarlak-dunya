@@ -1,96 +1,137 @@
-# BLD-EP02 — Shot 03 — Let's Make It Sparkle (Support)
-
----
+# BLD-EP02 — Shot 03 — Let's Make It Sparkle
 
 ## Scene Context
 
 | Field | Value |
 |---|---|
-| Episode | Brave Little Days EP02 — Brush, Brush, Sparkle! |
 | Shot | 03 / 08 |
 | Duration | 15 seconds |
-| Location | Kiko's Home — living space |
+| Block | A — Main Living Space |
+| Location | Mimi's Home Interior — Main Living Space |
 | Characters | Kiko, Mimi |
-| Time of Day | Warm Evening |
-| Spine step | SUPPORT |
-
----
+| Take Shot | Shot 02 final frame as real linked @image5 |
 
 ## Purpose
 
-Mimi turns brushing into a game and calls back to Nella the Tooth Helper (EP01), sparking
-Kiko's curiosity. This is the emotional pivot.
+Mimi turns brushing into a game and references Nella (EP01). Kiko agrees to try. Emotional pivot.
 
 ## Continuity
 
-Use Shot 02 approved final frame as `@image1`. Same interior, warm evening light, colour
-master. **Series callback:** Mimi cites Nella verbally; Nella does not appear.
+Approved Shot 02 final frame as real linked @image5 only. Nella referenced verbally only — never appears visually.
 
-## Environment Anchors
+## OpenArt Video Prompt
 
-- Same living space; stable background objects.
-- Mimi does a small playful bounce; Kiko's face brightens.
+@image5
 
-## Background Object Lock
+CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
 
-Interior locked; objects identical to Shots 01–02. Only Kiko and Mimi move.
+Continue directly from the approved Shot 02 final frame.
 
-## Visual Prompt
+Frame 1 must match @image5 exactly.
 
-```text
-Same cozy Kiko's Home living space, warm evening golden light. Mimi (soft blue rabbit) does a small
-playful bounce with a cheerful "sparkle" gesture; Kiko's face brightens with new curiosity, her
-sleepiness lifting a little. Warm, playful, inviting, rounded soft shapes, {style} {camera} {lighting}
+@image5 is the only visual authority.
 
-Interior locked; keep the round window, toy box and rug stable.
+FIRST-FRAME AND PROP CONTINUITY LOCK:
+
+Preserve the exact camera angle, crop, character scale, room layout, lighting and
+staging visible in @image5.
+
+Kiko begins seated screen-left, holding the exact same pink toy house from @image5.
+
+Do not remove, replace, recolour, resize, duplicate or transform the toy house.
+
+Kiko continues holding it until 11.6 seconds.
+
+Between 11.6 and 12.2 seconds, Kiko gently places the pink toy house securely on
+the rug beside her.
+
+The toy house remains visible and stationary for the rest of the shot.
+
+Premium soft stylised 3D preschool animation. Preserve the existing wide two-character composition from @image5. Kiko brightens with curiosity while holding the pink toy house. Mimi makes a small playful sparkle gesture. Warm evening golden light. Soft pastel palette, rounded shapes, matte materials, medium-low contrast, gentle sharpness.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
 
-## Camera Direction
+TRANSITION TO WASHING CORNER:
 
-32mm medium at child eye level, slight ease-in on Mimi's playful bounce, then back to a warm
-two-shot as Kiko brightens.
+The washing corner must not appear in this shot.
+
+After Kiko says, "Okay. Let's try," both characters prepare to leave together.
+
+Kiko sits taller and turns toward the same off-screen direction as Mimi.
+Mimi makes a small matching turn toward the off-screen washing-corner direction.
+
+They do not walk out of frame.
+
+The final frame shows both characters motivated and ready to go, while the pink
+toy house remains safely on the rug.
+
+## Camera
+
+Preserve the exact framing and camera position from @image5.
+Static child-eye-level camera. No reframe, crop change, zoom or movement.
 
 ## Dialogue
 
-```text
-Mimi: Let's make it sparkle — like Nella said!
-
-Kiko: Okay... let's try.
-```
+0.6–2.6 — Mimi: "Let's make every brush sparkle."
+3.2–4.8 — Kiko: "Like Nella said?"
+5.4–7.4 — Mimi: "Yes. Gentle, bright, and clean."
+8.0–9.4 — Kiko: "That sounds fun."
+10.0–11.6 — Mimi: "We can count together."
+12.2–13.8 — Kiko: "Okay. Let's try."
 
 ## Shot Breakdown
 
-| Time | Action | Camera |
-|---|---|---|
-| 0-4 sec | Mimi's playful "sparkle" bounce | Medium, ease-in |
-| 4-8 sec | "Let's make it sparkle — like Nella said!" | Medium |
-| 8-12 sec | Kiko brightens, curious | Medium |
-| 12-15 sec | "Okay... let's try." | Medium hold |
+| Time | Action |
+|---|---|
+| 0.0–0.6 | Mimi prepares sparkle gesture |
+| 0.6–2.6 | Mimi: "Let's make every brush sparkle." |
+| 2.6–3.2 | Mimi closes mouth, Kiko brightens |
+| 3.2–4.8 | Kiko: "Like Nella said?" |
+| 4.8–5.4 | Kiko closes mouth, Mimi nods |
+| 5.4–7.4 | Mimi: "Yes. Gentle, bright, and clean." |
+| 7.4–8.0 | Mimi closes mouth, Kiko smiles |
+| 8.0–9.4 | Kiko: "That sounds fun." |
+| 9.4–10.0 | Kiko closes mouth, Mimi counting cue |
+| 10.0–11.6 | Mimi: "We can count together." |
+| 11.6–12.2 | Mimi closes mouth, Kiko places toy house on rug |
+| 12.2–13.8 | Kiko: "Okay. Let's try." |
+| 13.8–14.4 | Kiko closes mouth, both prepare to leave |
+| 14.4–15.0 | Warm motivated final pose, toy house on rug |
 
 ## Sound
 
-Playful little bounce, soft cheerful Mimi tone, cozy room tone. Natural ambience only. No music.
+Playful bounce, soft cheerful tone, cozy room tone. No music.
 
-## Emotion
+## Voice Assignment
 
-Reluctance turning into playful curiosity. Warm, hopeful.
+Kiko → approved saved Kiko voice. Mimi → approved saved Mimi voice. Auto Voice: Off.
 
-## Safe-Exposure Notes
+## OpenArt Audio Settings
 
-Encouragement is gentle and fun — Mimi invites, never pressures. Positive framing of the habit.
+- Generated dialogue: On, Generated audio: On, Spoken language: English
+- Kiko voice: manually select approved saved Kiko voice
+- Mimi voice: manually select approved saved Mimi voice
+- All other voices: not loaded, Auto Voice: Off, Music: Off
+
+## OpenArt Video Settings
+
+- Model: selected Seedance frame-to-video model, Mode: frame-to-video
+- Duration: exactly 15 seconds, Prompt Enhancer: Off, Cinematic/auto camera: Off, Aspect ratio: horizontal 16:9
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, photorealistic, horror, scary, dark lighting, night,
-crying child, force, pressure, extra characters, on-screen Nella, redesigned Kiko's Home, sharp corners,
-cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, static talking pose,
-characters frozen, background music, music, melody, song, soundtrack
+low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, mirrored staging, costume change, facial redesign, on-screen dialogue text, speech bubbles, captions, subtitles, watermark, logos, room redesign, furniture relocation, prop duplication, disappearing props, surprise props, lens drift, camera-axis crossing, jump cuts, camera shake, random camera movement, dolly, push-in, pull-back, zoom, pan, tilt, orbit, crop change, camera-height change, independent reframe, character pop-in, first-frame mismatch, previous full video reference, additional image reference, multiple reference images, background-object movement, frozen talking pose, empty staring, dead air, extended silence, long final hold, simultaneous mouth movement, listener lip movement, inaccurate lip-sync, dialogue reassignment, overlapping dialogue, improvised dialogue, narrator voice, off-screen speech, wrong character voice, invented voice, blended voice, voice swapping, Auto Voice, background music, music, melody, song, soundtrack, photorealism, glossy CGI, harsh contrast, excessive saturation, excessive orange cast, blue tint, green tint, HDR, crushed blacks, harsh highlights, edge halos, sharpness increase, contrast increase, local-contrast increase, brightness drift, gradual darkening, gradual brightening, on-screen Nella, force, pressure
 
-## QA Checklist
+## Checklist
 
-- [ ] Nella referenced verbally only (NOT shown on screen).
-- [ ] Kiko + Mimi identity/voices consistent; colour/lighting match master.
-- [ ] Kiko's shift to curiosity reads clearly (pivot beat).
-- [ ] Interior stable; no on-screen text; calm but alive.
+- [ ] Complete paste-ready OpenArt Video Prompt present
+- [ ] Video Prompt begins with real linked @image5 tag
+- [ ] @image5 is only visual source during video generation
+- [ ] Shot 02 final frame as real linked @image5
+- [ ] Nella referenced verbally only, never shown
+- [ ] Canonical voices manually selected, Auto Voice Off
+- [ ] Only named speaker moves mouth; listeners closed
+- [ ] No dialogue gap exceeds 1.0 second
+- [ ] Camera completely static
+- [ ] Brightness/contrast/saturation/sharpness stable
+- [ ] No on-screen text, no music

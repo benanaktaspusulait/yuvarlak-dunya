@@ -1,96 +1,134 @@
-# BLD-EP02 — Shot 02 — Brushing Is Boring (Feeling)
-
----
+# BLD-EP02 — Shot 02 — Brushing Is Boring
 
 ## Scene Context
 
 | Field | Value |
 |---|---|
-| Episode | Brave Little Days EP02 — Brush, Brush, Sparkle! |
 | Shot | 02 / 08 |
 | Duration | 15 seconds |
-| Location | Kiko's Home — living space |
+| Block | A — Main Living Space |
+| Location | Mimi's Home Interior — Main Living Space |
 | Characters | Kiko, Mimi |
-| Time of Day | Warm Evening |
-| Spine step | FEELING |
-
----
+| Take Shot | Shot 01 final frame as real linked @image5 |
 
 ## Purpose
 
-Kiko names the feeling — brushing feels boring — while Mimi stays gently hopeful. Sets up
-the "make it fun" turn.
+Kiko names the feeling — brushing feels boring. Mimi gently explores why and suggests a game.
 
 ## Continuity
 
-Use Shot 01 approved final frame as `@image1`. Same interior, characters, warm evening light,
-colour master. Do not redesign the home.
+Approved Shot 01 final frame as real linked @image5 only. No Shot 01 video, no World or character reference, no additional image.
 
-## Environment Anchors
+## OpenArt Video Prompt
 
-- Same living space; round window and toy box stable in background.
-- Kiko and Mimi in a warm medium two-shot.
+@image5
 
-## Background Object Lock
+CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
 
-Interior locked; all objects from Shot 01 identical. Only Kiko and Mimi move.
+Continue directly from the approved Shot 01 final frame.
 
-## Visual Prompt
+Frame 1 must match @image5 exactly.
 
-```text
-Continue in the exact same cozy Kiko's Home living space, warm evening golden light. Medium two-shot:
-Kiko slumps a little with a reluctant, unconvinced look; Mimi tilts her head, gently hopeful and
-encouraging. Soft pastel palette, rounded soft shapes, cozy, {style} {camera} {lighting}
+@image5 is the only visual authority.
 
-Interior locked; keep the round window, toy box and rug stable.
+FIRST-FRAME AND PROP CONTINUITY HARD LOCK:
+
+Preserve the exact camera angle, crop, lens, character scale, room layout,
+lighting and staging visible in @image5.
+
+Do not change to a closer medium shot.
+Do not crop either character.
+Do not reframe or reposition the camera.
+
+Kiko remains seated screen-left on the round rug.
+
+Kiko holds the exact same pink toy house from @image5 securely in her lap
+throughout Shot 02.
+
+Do not remove, replace, resize, recolour, duplicate, drop or relocate the toy house.
+
+Mimi remains standing screen-right, facing Kiko.
+
+At the beginning of the shot, Kiko gently closes her mouth before Mimi begins
+speaking.
+
+Only Mimi moves her mouth during Mimi's lines.
+Only Kiko moves her mouth during Kiko's lines.
+The listening character keeps the mouth fully closed.
+
+Premium soft stylised 3D preschool animation. Preserve the existing wide two-character composition from @image5. Kiko gives a small reluctant shoulder slump while continuing to hold the pink toy house in her lap. Mimi makes only a gentle head tilt. Warm evening golden light. Soft pastel palette, rounded shapes, matte handcrafted materials, medium-low contrast, gentle sharpness.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
 
-## Camera Direction
+## Camera
 
-32mm stable medium two-shot at child eye level. Small gentle moves only.
+Preserve the exact framing and camera position from @image5.
+Static child-eye-level camera. No crop change, no reframe, no zoom and no movement.
 
 ## Dialogue
 
-```text
-Kiko: Brushing is boring.
-
-Mimi: It can be fun!
-```
+0.6–2.6 — Mimi: "What makes it feel boring?"
+3.2–4.8 — Kiko: "It takes too long."
+5.4–7.4 — Mimi: "We can make it playful."
+8.0–9.0 — Kiko: "Really?"
+9.6–11.4 — Mimi: "Yes. Let's add a game."
+11.8–13.2 — Kiko: "What kind of game?"
+13.4–14.8 — Mimi: "A sparkle game."
 
 ## Shot Breakdown
 
-| Time | Action | Camera |
-|---|---|---|
-| 0-4 sec | Kiko slumps, reluctant | Medium |
-| 4-8 sec | "Brushing is boring." | Medium |
-| 8-12 sec | Mimi tilts head, hopeful | Medium |
-| 12-15 sec | "It can be fun!" | Medium hold |
+| Time | Action |
+|---|---|
+| 0.0–0.6 | Mimi gives patient look |
+| 0.6–2.6 | Mimi: "What makes it feel boring?" |
+| 2.6–3.2 | Mimi closes mouth, Kiko thinks |
+| 3.2–4.8 | Kiko: "It takes too long." |
+| 4.8–5.4 | Kiko closes mouth, Mimi brightens |
+| 5.4–7.4 | Mimi: "We can make it playful." |
+| 7.4–8.0 | Mimi closes mouth, Kiko curious |
+| 8.0–9.0 | Kiko: "Really?" |
+| 9.0–9.6 | Kiko closes mouth, Mimi nods |
+| 9.6–11.4 | Mimi: "Yes. Let's add a game." |
+| 11.4–11.8 | Mimi closes mouth, Kiko sits taller |
+| 11.8–13.2 | Kiko: "What kind of game?" |
+| 13.2–13.4 | Kiko closes mouth |
+| 13.4–14.8 | Mimi: "A sparkle game." |
+| 14.8–15.0 | Mimi closes mouth, warm curious final |
 
 ## Sound
 
-Soft cozy room tone, gentle Mimi hop. Natural ambience only. No music.
+Soft cozy room tone, gentle Mimi movement. No music.
 
-## Emotion
+## Voice Assignment
 
-Mild reluctance meeting gentle optimism. Warm, safe.
+Kiko → approved saved Kiko voice. Mimi → approved saved Mimi voice. Auto Voice: Off.
 
-## Safe-Exposure Notes
+## OpenArt Audio Settings
 
-"Boring" stays light and relatable; no whining escalation, no conflict.
+- Generated dialogue: On, Generated audio: On, Spoken language: English
+- Kiko voice: manually select approved saved Kiko voice
+- Mimi voice: manually select approved saved Mimi voice
+- All other voices: not loaded, Auto Voice: Off, Music: Off
+
+## OpenArt Video Settings
+
+- Model: selected Seedance frame-to-video model, Mode: frame-to-video
+- Duration: exactly 15 seconds, Prompt Enhancer: Off, Cinematic/auto camera: Off, Aspect ratio: horizontal 16:9
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, photorealistic, horror, scary, dark lighting, night,
-crying child, tantrum, extra characters, redesigned Kiko's Home, sharp corners, cinematic LUT,
-blue tint, green tint, orange shift, HDR look, fast movement, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack
+low quality, blurry, deformed, extra limbs, extra fingers, anatomy errors, character identity drift, missing character, extra character, character swapping, mirrored staging, costume change, facial redesign, on-screen dialogue text, speech bubbles, captions, subtitles, watermark, logos, room redesign, furniture relocation, prop duplication, disappearing props, surprise props, lens drift, camera-axis crossing, jump cuts, camera shake, random camera movement, dolly, push-in, pull-back, zoom, pan, tilt, orbit, crop change, camera-height change, independent reframe, character pop-in, first-frame mismatch, previous full video reference, additional image reference, multiple reference images, background-object movement, frozen talking pose, empty staring, dead air, extended silence, long final hold, simultaneous mouth movement, listener lip movement, inaccurate lip-sync, dialogue reassignment, overlapping dialogue, improvised dialogue, narrator voice, off-screen speech, wrong character voice, invented voice, blended voice, voice swapping, Auto Voice, background music, music, melody, song, soundtrack, photorealism, glossy CGI, harsh contrast, excessive saturation, excessive orange cast, blue tint, green tint, HDR, crushed blacks, harsh highlights, edge halos, sharpness increase, contrast increase, local-contrast increase, brightness drift, gradual darkening, gradual brightening
 
-## QA Checklist
+## Checklist
 
-- [ ] Kiko + Mimi identity/voices consistent with Shot 01.
-- [ ] Colour/lighting match Episode Colour Master (no drift; still golden/warm).
-- [ ] Interior objects stable (no morphing, no new elements).
-- [ ] Feeling reads as mild reluctance, not conflict (safe exposure).
-- [ ] No on-screen text; calm but alive.
+- [ ] Complete paste-ready OpenArt Video Prompt present
+- [ ] Video Prompt begins with real linked @image5 tag
+- [ ] @image5 is only visual source during video generation
+- [ ] Shot 01 final frame as real linked @image5
+- [ ] No previous video or extra reference attached
+- [ ] Canonical voices manually selected, Auto Voice Off
+- [ ] Only named speaker moves mouth; listeners closed
+- [ ] No dialogue gap exceeds 1.0 second
+- [ ] Camera completely static
+- [ ] Brightness/contrast/saturation/sharpness stable
+- [ ] No on-screen text, no music
