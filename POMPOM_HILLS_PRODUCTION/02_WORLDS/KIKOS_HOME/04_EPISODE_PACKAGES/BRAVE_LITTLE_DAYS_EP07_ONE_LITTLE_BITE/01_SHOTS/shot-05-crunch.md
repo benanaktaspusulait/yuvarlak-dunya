@@ -1,20 +1,15 @@
-# BLD-EP07 — Shot 05 — Crunch! (Action)
-
----
+# BLD-EP07 — Shot 05 — Crunch Surprise
 
 ## Scene Context
 
 | Field | Value |
 |---|---|
-| Episode | Brave Little Days EP07 — One Little Bite |
 | Shot | 05 / 08 |
 | Duration | 15 seconds |
-| Location | Kiko's Home — Kitchen Nook |
+| Chain | B (Shots 05–08) |
+| Location | Mimi's Home Interior — Kitchen Nook |
 | Characters | Kiko, Mimi |
-| Time of Day | Warm Daytime |
-| Spine step | ACTION (crunch!) |
-
----
+| Take Shot | FRESH — Quality Reset Anchor |
 
 ## Purpose
 
@@ -22,71 +17,100 @@ The pivotal surprise: the crunch is pleasant! Kiko's expectation flips from wary
 
 ## Continuity
 
-Use Shot 04 approved final frame as `@image1`. Same nook, colour master. Carrot now slightly smaller
-(one bite taken).
+Fresh Take Shot from Kitchen Nook environment image + Kiko and Mimi character references. After approval, use only the approved Take Shot as real linked @image1. Chain B begins here.
 
-## Environment Anchors
+## Character Position Lock
 
-- Same Kitchen Nook. Close on Kiko's surprised, pleasant reaction; Mimi delighted.
+- Kiko: screen-left, holding carrot in left hand
+- Mimi: screen-right
+- stable canonical scale
 
-## Background Object Lock
+## Prop Continuity
 
-Interior locked; identical layout. Only Kiko, Mimi, and the (slightly smaller) carrot move.
+- one carrot in Kiko's left hand
+- exactly one bite mark
+- empty plate on table
+- no second carrot, no loose piece
 
-## Visual Prompt
+## Video Prompt
 
-```text
-Kiko's Home Kitchen Nook, warm daytime. Close on Kiko's face as she crunches the carrot — a big,
-surprised, pleasant reaction, eyes lighting up; Mimi delighted beside her. The carrot is slightly
-smaller now (one bite taken). Warm daytime light, {style} {camera} {lighting}
+@image1
 
-Interior locked; keep the table, plate, basket and window stable.
+CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
+
+Continue directly from the approved Shot 05 Take Shot. Frame 1 must match @image1 exactly. @image1 is the only visual authority.
+
+Kiko screen-left holds carrot in left hand with one bite mark. Mimi screen-right. Empty plate on table. Warm daytime Kitchen Nook. Preserve exact composition from @image1.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
 
-## Camera Direction
+Begin with a short purposeful final chew. Kiko swallows before the first line. Eyes brighten gradually. Positive surprise, never disgust. Carrot in left hand, one bite mark throughout. Mimi gives small delighted reaction. No additional bite.
 
-45mm stable close on Kiko's surprised face. Calm, warm.
+## Camera
+
+Static 40mm medium-close two-shot at child eye level. Kiko visually dominant but Mimi's full face and ears visible. No extreme close-up. No crop of carrot or Mimi.
 
 ## Dialogue
 
-```text
-Kiko: Crunch!
-
-Mimi: Crunchy, right?
-```
+0.4–1.4 — Kiko: "It went crunch!"
+1.6–2.6 — Mimi: "Crunchy, right?"
+2.8–4.2 — Kiko: "Yes... and a little sweet."
+4.4–5.4 — Mimi: "Your eyes got big!"
+5.6–6.6 — Kiko: "I was surprised."
+6.8–7.8 — Mimi: "A happy surprise?"
+8.0–9.0 — Kiko: "A happy surprise!"
 
 ## Shot Breakdown
 
-| Time | Action | Camera |
-|---|---|---|
-| 0-4 sec | Kiko chews, a big crunch | Close |
-| 4-8 sec | "Crunch!" — surprised, pleasant | Close |
-| 8-12 sec | Eyes light up | Close |
-| 12-15 sec | Mimi: "Crunchy, right?" | Close hold |
+| Time | Action |
+|---|---|
+| 0.0–0.4 | Fresh Take Shot anchor carried forward |
+| 0.4–0.8 | Kiko finishes small chew and swallows |
+| 0.8–1.4 | Kiko: "It went crunch!" |
+| 1.4–1.6 | Kiko closes mouth |
+| 1.6–2.6 | Mimi: "Crunchy, right?" |
+| 2.6–2.8 | Mimi closes mouth |
+| 2.8–4.2 | Kiko: "Yes... and a little sweet." |
+| 4.2–4.4 | Kiko closes mouth |
+| 4.4–5.4 | Mimi: "Your eyes got big!" |
+| 5.4–5.6 | Mimi closes mouth |
+| 5.6–6.6 | Kiko: "I was surprised." |
+| 6.6–6.8 | Kiko closes mouth |
+| 6.8–7.8 | Mimi: "A happy surprise?" |
+| 7.8–8.0 | Mimi closes mouth |
+| 8.0–9.0 | Kiko: "A happy surprise!" |
+| 9.0–15.0 | Warm settled pose, carrot in left hand, one bite mark |
 
 ## Sound
 
-A clear, friendly "crunch!" Natural ambience only. No music.
+Warm daytime room tone. No music.
 
 ## Emotion
 
-Pleasant surprise — the turn from wary to interested.
+Pleasant surprise. Delight. The "boring" expectation flips to "yummy."
 
 ## Safe-Exposure Notes
 
-Reaction is positive/surprised (not disgust). No gagging, no spitting. Warm and fun.
+Positive surprise only. No disgust. No gagging. Carrot stays in Kiko's hand.
+
+## Voice Assignment
+
+Kiko → approved saved Kiko voice. Mimi → approved saved Mimi voice. Auto Voice: Off.
+
+## Visual Quality Lock
+
+Preserve exactly the visual quality visible in @image1: medium-low contrast, restrained saturation, gentle sharpness, matte materials, soft shadows, warm balanced brightness, natural edges. No contrast/sharpness/saturation increase.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, photorealistic, horror, scary, dark lighting,
-disgust, gagging, spitting food, crying child, extra characters, redesigned Kiko's Home, cinematic LUT,
-blue tint, green tint, orange shift, HDR look, fast movement, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack
+low quality, blurry, deformed, extra limbs, extra fingers, text, watermark, photorealistic, horror, dark lighting, disgust, gagging, extra characters, redesigned kitchen, sharp corners, HDR, glossy plastic, fast movement, camera movement, characters frozen, background music, contrast increase, sharpness increase, carrot hand switching, bite mark changes, extra bite, food clipping, mouth deformation
 
 ## QA Checklist
 
-- [ ] Surprise reads pleasant/positive (NOT disgust).
-- [ ] Carrot slightly smaller (one bite taken); continuity holds.
-- [ ] Identities/voices consistent; colour/lighting match master; no on-screen text.
+- [ ] Shot 05 Take Shot approved as quality-reset anchor
+- [ ] Kiko holds carrot in left hand with one bite mark
+- [ ] Empty plate on table
+- [ ] Camera completely static
+- [ ] Canonical voices assigned, Auto Voice Off
+- [ ] Visual quality lock present
+- [ ] No on-screen text, no music

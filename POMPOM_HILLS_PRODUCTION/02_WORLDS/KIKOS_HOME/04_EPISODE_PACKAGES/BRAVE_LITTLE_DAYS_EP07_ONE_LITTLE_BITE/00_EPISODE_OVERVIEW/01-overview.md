@@ -12,7 +12,7 @@
 | Playlist | Brave Little Days \| Gentle Everyday Skills |
 | Ana duygu | Yeni tada karşı çekingenlik → cesur küçük ısırık → keyifli sürpriz |
 | Ana tema | Yeni bir sebzeyi denemek; "just one little bite" cesareti |
-| Mekan | Kiko's Home — Kitchen Nook (masa) |
+| Mekan | Mimi's Home Interior — Kitchen Nook (masa) |
 | Karakterler | Kiko, Mimi |
 | Voice Identity | Kiko (approved), Mimi (approved) |
 | Colour Identity | Warm white balance / pastel palette / soft saturation / low contrast |

@@ -1,100 +1,120 @@
-# BLD-EP07 — Shot 08 — Brave Taster (Lesson / Warm Close)
-
----
+# BLD-EP07 — Shot 08 — Brave Taster
 
 ## Scene Context
 
 | Field | Value |
 |---|---|
-| Episode | Brave Little Days EP07 — One Little Bite |
 | Shot | 08 / 08 |
 | Duration | 15 seconds |
-| Location | Kiko's Home — Kitchen Nook |
+| Chain | B (Shots 05–08) |
+| Location | Mimi's Home Interior — Kitchen Nook |
 | Characters | Kiko, Mimi |
-| Time of Day | Warm Daytime |
-| Spine step | LESSON (warm close) |
-
----
+| Take Shot | Approved Shot 07 final frame as @image1 |
 
 ## Purpose
 
-Close warmly with the repeated phrase and the felt lesson (be brave, just one little bite), then hand
-off to the shared closing bumper.
+Warm lesson and close. Kiko reflects on trying something new. Final wave.
 
 ## Continuity
 
-Use Shot 07 approved final frame as `@image1`. Same nook, colour master. Warm final hold leads into
-the shared Brave Little Days closing bumper
-(`POMPOM_HILLS_PRODUCTION/03_EPISODES/BRAVE_LITTLE_DAYS_SERIES/CLOSING_BUMPER/closing-bumper.md`).
+Approved Shot 07 final frame as real linked @image1 only. Chain B final shot.
 
-## Environment Anchors
+## Character Position Lock
 
-- Same Kitchen Nook. Kiko and Mimi at the table, happy, carrot in hand.
+- Kiko: screen-left, holding carrot in left hand
+- Mimi: screen-right
+- stable canonical scale
 
-## Background Object Lock
+## Prop Continuity
 
-Interior locked; identical layout. Only characters move (small wave, smiles).
+- carrot in Kiko's left hand
+- exactly two bite marks
+- carrot does not shrink further
+- no eating during this shot
+- Kiko's final wave uses only free right hand
+- carrot-holding left hand remains steady
 
-## Visual Prompt
+## Video Prompt
 
-```text
-Kiko's Home Kitchen Nook, warm daytime. Kiko and Mimi at the round table, happy, the (small) carrot in
-Kiko's hand; Kiko gives a proud, happy wave. Warm, cozy moment. Calm, uncluttered, end-screen-safe
-composition (clear center and lower corners). Soft pastel colours, {style} {camera} {lighting}
+@image1
+
+CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
+
+Continue directly from the approved Shot 07 final frame. Frame 1 must match @image1 exactly. @image1 is the only visual authority.
+
+Kiko screen-left holds carrot in left hand with two bite marks. Mimi screen-right. Warm daytime Kitchen Nook. Preserve exact composition from @image1.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
 
-## Camera Direction
+No one eats. After final line, Kiko gives one small wave with free right hand during final 0.6 seconds only. No repeated waving. No arm crossing through face. No carrot-hand swap. Both finish with warm closed-mouth smiles.
 
-32mm stable medium at child eye level. End on a calm, end-screen-safe frame; then cut to the closing
-bumper.
+## Camera
+
+Static 32mm medium two-shot at child eye level. Calm end-screen-safe composition. No zoom-out or automatic camera move.
 
 ## Dialogue
 
-```text
-Kiko: Be brave — just one little bite!
-
-Mimi: So good!
-```
+0.4–1.8 — Kiko: "I thought I wouldn't like it."
+2.0–3.0 — Mimi: "Then you tried."
+3.2–4.4 — Kiko: "Just one little bite."
+4.6–5.6 — Mimi: "And what happened?"
+5.8–7.2 — Kiko: "I found a new yummy food!"
+7.4–8.2 — Mimi: "So good!"
+8.4–9.6 — Kiko: "Be brave — just one little bite!"
 
 ## Shot Breakdown
 
-| Time | Action | Camera |
-|---|---|---|
-| 0-4 sec | Kiko + Mimi together, happy | Medium |
-| 4-8 sec | Kiko: "Be brave — just one little bite!" | Medium |
-| 8-12 sec | Mimi: "So good!" | Medium |
-| 12-15 sec | Kiko waves, proud smile — warm final hold | End-screen-safe hold |
+| Time | Action |
+|---|---|
+| 0.0–0.4 | Shot 07 final frame carried forward |
+| 0.4–1.8 | Kiko: "I thought I wouldn't like it." |
+| 1.8–2.0 | Kiko closes mouth |
+| 2.0–3.0 | Mimi: "Then you tried." |
+| 3.0–3.2 | Mimi closes mouth |
+| 3.2–4.4 | Kiko: "Just one little bite." |
+| 4.4–4.6 | Kiko closes mouth |
+| 4.6–5.6 | Mimi: "And what happened?" |
+| 5.6–5.8 | Mimi closes mouth |
+| 5.8–7.2 | Kiko: "I found a new yummy food!" |
+| 7.2–7.4 | Kiko closes mouth |
+| 7.4–8.2 | Mimi: "So good!" |
+| 8.2–8.4 | Mimi closes mouth |
+| 8.4–9.6 | Kiko: "Be brave — just one little bite!" |
+| 9.6–14.4 | Warm settled pose, carrot in left hand, two bite marks |
+| 14.4–15.0 | Kiko gives one small wave with free right hand |
 
 ## Sound
 
-Warm room tone, gentle birdsong, soft wave. Natural ambience only. No music (music resumes only in the
-shared closing bumper).
+Warm daytime room tone. No music.
 
 ## Emotion
 
-Warm, proud, complete — a happy taster's close.
-
-## Repeated Phrase / Lesson
-
-Kiko says the full phrase and lands the felt lesson: **"Be brave — just one little bite!"** No preaching.
+Warm, reflective, proud. The lesson lands gently.
 
 ## Safe-Exposure Notes
 
-End fully warm and positive. Happy, cozy, no disgust.
+No eating during this shot. Carrot stays in hand. Two bite marks. Lesson is warm and non-preachy. Trying the carrot was Kiko's voluntary choice.
+
+## Voice Assignment
+
+Kiko → approved saved Kiko voice. Mimi → approved saved Mimi voice. Auto Voice: Off.
+
+## Visual Quality Lock
+
+Preserve exactly the visual quality visible in @image1: medium-low contrast, restrained saturation, gentle sharpness, matte materials, soft shadows, warm balanced brightness, natural edges. No contrast/sharpness/saturation increase.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, photorealistic, horror, scary, dark lighting,
-disgust, mess, crying child, extra characters, redesigned Kiko's Home, on-screen end card text,
-cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, static talking pose,
-characters frozen, background music, music, melody, song, soundtrack
+low quality, blurry, deformed, extra limbs, extra fingers, text, watermark, photorealistic, horror, dark lighting, disgust, extra characters, redesigned kitchen, sharp corners, HDR, glossy plastic, fast movement, camera movement, characters frozen, background music, contrast increase, sharpness increase, carrot hand switching, bite mark changes, repeated waving, arm crossing face, zoom-out, camera fade
 
 ## QA Checklist
 
-- [ ] Repeated phrase "Just one little bite!" echoed by Kiko.
-- [ ] Warm, complete, proud resolution.
-- [ ] End frame end-screen-safe (clear center + lower corners; no burned-in text).
-- [ ] Identities/voices consistent; colour/lighting match master.
-- [ ] Warm final hold hands off cleanly to the shared closing bumper.
+- [ ] Shot 07 final frame as real linked @image1
+- [ ] Carrot in Kiko's left hand, two bite marks
+- [ ] No eating during this shot
+- [ ] Wave uses only free right hand, final 0.6 seconds only
+- [ ] No repeated waving
+- [ ] Camera completely static
+- [ ] Canonical voices assigned, Auto Voice Off
+- [ ] Visual quality lock present
+- [ ] No on-screen text, no music

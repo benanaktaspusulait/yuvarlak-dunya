@@ -1594,5 +1594,166 @@ Uygulama sırasında story content, dialogue, character canon veya shot intent d
 
 ---
 
+# Mandatory Dialogue Embedding and Audio Failure Prevention Rule
+
+This rule applies to every OpenArt video shot containing spoken dialogue.
+
+## Core Rule
+
+OpenArt may ignore dialogue that exists only in a separate Markdown `Dialogue` section, timing table, production note or screenplay section.
+
+Therefore, for every shot containing speech:
+
+1. Every exact spoken line must appear directly inside the actual OpenArt-facing `Video Prompt`.
+2. Each embedded line must include:
+   - speaker name
+   - exact dialogue wording
+   - approximate timing
+3. A separate `Dialogue` section may still exist for documentation, but it must never be the only location containing the dialogue.
+4. Never approve a video prompt when the dialogue exists only outside the actual `Video Prompt`.
+
+## Mandatory Priority Block
+
+Every OpenArt Video Prompt containing dialogue must begin with a strong audio-priority block similar to:
+
+`SPOKEN DIALOGUE IS MANDATORY. Generate every dialogue line exactly as written below using the manually assigned saved character voices. Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue must begin within approximately the first 0.4–0.6 seconds. If speech generation fails, do not replace speech with music or silent staring.`
+
+Immediately follow it with:
+
+`ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.`
+
+The no-music instruction must appear near the beginning of the Video Prompt, not only in settings or the Negative Prompt.
+
+## Dialogue Embedding Format
+
+Inside the actual Video Prompt, include lines in this form:
+
+`0.4–1.6 Kiko says: "Exact line."`
+`2.1–3.3 Mimi says: "Exact line."`
+
+Do not rely only on Markdown tables that OpenArt may not process.
+
+Every required line must be repeated directly in the prompt field that is pasted into OpenArt.
+
+## Character Voice Rule
+
+For every speaking shot:
+
+- Kiko → manually select the approved saved Kiko voice
+- Mimi → manually select the approved saved Mimi voice
+- other characters → manually select their approved saved canonical voices
+- Auto Voice: Off
+- Generated Dialogue: On
+- Generated Audio: On
+- Spoken Language: correct episode language
+- Music: Off
+
+Written instructions inside a file do not activate OpenArt interface settings automatically.
+
+Before every generation, manually confirm in the OpenArt interface that:
+
+1. every required saved voice is selected
+2. Auto Voice is Off
+3. Generated Dialogue is On
+4. Generated Audio is On
+5. Music is Off
+
+Do not approve production readiness based only on what the Markdown file says.
+
+## Lip-Sync Rule
+
+- Only the assigned speaker moves its mouth.
+- Every listener keeps a relaxed closed mouth.
+- No two characters move their mouths simultaneously unless overlap is intentionally scripted.
+- No wrong-character lip-sync.
+- No voice swapping.
+- No silent mouth movement.
+- No spoken line may be assigned to the wrong character.
+
+## Silence and Timing Rule
+
+For every 15-second preschool shot:
+
+- first spoken line begins within approximately 0.4–0.6 seconds
+- normal gaps between lines should usually be approximately 0.4–0.7 seconds
+- no unmotivated silence may exceed 1.0 second
+- do not compress all dialogue into the first 8–10 seconds and leave a long final hold
+- final seconds must contain a purposeful reaction or motivated micro-action
+- biting, chewing, swallowing, reaching or object handling may create longer non-speaking sections only when the action is visibly motivated
+- no silent staring
+- no frozen listening pose
+- no unexplained dead air
+
+## Music-Failure Prevention
+
+If OpenArt cannot generate the requested dialogue:
+
+- it must not substitute music
+- it must not substitute humming
+- it must not create instrumental background audio
+- it must not fill the shot with silent staring
+- it must not remove the spoken lines
+
+Add these terms near the beginning of every relevant Negative Prompt:
+
+`missing dialogue, omitted line, shortened dialogue, paraphrased dialogue, silent characters, silent staring, no speech, speech replaced by music, background music, instrumental music, melody, song, humming, percussion, soundtrack, wrong voice, voice swapping, wrong-character lip-sync, both mouths moving, overlapping dialogue`
+
+## Mandatory Pre-Production QA Gate
+
+A dialogue shot must be marked `NOT READY` if any of the following is true:
+
+- dialogue appears only in a separate Dialogue section
+- exact lines are absent from the actual Video Prompt
+- "spoken dialogue is mandatory" is missing
+- no-music instruction appears only in settings
+- voice selection is assumed rather than manually confirmed
+- the first line begins too late
+- dialogue ends too early and leaves a long inactive hold
+- there is unmotivated silence longer than 1.0 second
+- speaker and listener mouth rules are missing
+- OpenArt can interpret the shot as silent acting instead of spoken dialogue
+
+Do not give APPROVE merely because:
+
+- the screenplay contains enough lines
+- the dialogue table looks complete
+- the OpenArt Settings section says dialogue is On
+- the file says Music Off
+- the timing mathematically fits 15 seconds
+
+Approval requires that the instructions are executable by OpenArt from the actual pasted Video Prompt.
+
+## Mandatory Post-Generation QA
+
+After generation, reject the result if:
+
+- any required line is missing
+- any line is shortened or paraphrased
+- the wrong voice is used
+- characters only stare at each other
+- music appears
+- the wrong character moves its mouth
+- both mouths move together
+- dialogue starts too late
+- there is unexplained dead air
+- the final section becomes a frozen hold
+
+A failed dialogue generation must never be used as a continuity source for the next shot.
+
+## Approval Language
+
+For every dialogue-video review, explicitly check and report:
+
+- exact number of required lines
+- whether every line is embedded in the Video Prompt
+- first spoken-line time
+- longest non-speaking interval
+- whether that interval contains motivated action
+- whether saved voices must be manually selected
+- whether music is strongly prohibited
+- final verdict: APPROVE or NOT READY
+
+---
+
 *Bu belge tüm shot'lar için tek kaynaktır.*
-*Versiyon: 5.8 — 18 Temmuz 2026 OpenArt testiyle paste-ready payload sınırı 5.200 karaktere düzeltildi; kısa AVOID satırı ana payload'da, uzun Negative Prompt ayrı alanda kilitlendi*
+*Versiyon: 5.9 — Mandatory Dialogue Embedding and Audio Failure Prevention Rule eklendi*

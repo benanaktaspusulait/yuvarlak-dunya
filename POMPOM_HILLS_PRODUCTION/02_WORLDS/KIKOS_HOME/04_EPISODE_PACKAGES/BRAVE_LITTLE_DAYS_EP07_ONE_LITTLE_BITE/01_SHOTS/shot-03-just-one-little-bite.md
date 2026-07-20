@@ -1,97 +1,120 @@
-# BLD-EP07 — Shot 03 — Just One Little Bite (Support)
-
----
+# BLD-EP07 — Shot 03 — Just One Little Bite
 
 ## Scene Context
 
 | Field | Value |
 |---|---|
-| Episode | Brave Little Days EP07 — One Little Bite |
 | Shot | 03 / 08 |
 | Duration | 15 seconds |
-| Location | Kiko's Home — Kitchen Nook |
+| Chain | A (Shots 01–04) |
+| Location | Mimi's Home Interior — Kitchen Nook |
 | Characters | Kiko, Mimi |
-| Time of Day | Warm Daytime |
-| Spine step | SUPPORT |
-
----
+| Take Shot | Approved Shot 02 final frame as @image1 |
 
 ## Purpose
 
-Mimi turns trying into a small, playful, low-pressure invitation. The pivot toward willingness.
+Mimi turns trying into a small, playful, low-pressure invitation. Kiko grows curious.
 
 ## Continuity
 
-Use Shot 02 approved final frame as `@image1`. Same nook, warm daytime light, colour master.
+Approved Shot 02 final frame as real linked @image1 only. No Shot 02 video, no environment or character reference.
 
-## Environment Anchors
+## Character Position Lock
 
-- Same Kitchen Nook. Mimi does an inviting gesture toward the carrot; Kiko grows curious.
+- Kiko seated screen-left, exactly as visible in @image1
+- Mimi standing screen-right beside her chair, exactly as visible in @image1
+- do not change sitting/standing positions
+- Mimi begins the first line
+- Kiko remains a silent listener with a relaxed closed mouth
 
-## Background Object Lock
+## Prop Continuity
 
-Interior locked; identical to Shots 01–02. Only Kiko and Mimi move.
+- one full carrot on plate, unchanged
+- no bite marks
 
-## Visual Prompt
+## Video Prompt
 
-```text
-Same Kiko's Home Kitchen Nook, warm daytime. Mimi (soft blue rabbit) does a playful, inviting gesture
-toward the carrot with a cheerful, encouraging smile; Kiko considers it, growing curious and a little
-braver. Warm, playful, inviting, rounded soft shapes, {style} {camera} {lighting}
+@image1
 
-Interior locked; keep the table, plate, basket and window stable.
+CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
+
+Continue directly from the approved Shot 02 final frame. Frame 1 must match @image1 exactly. @image1 is the only visual authority.
+
+Kiko screen-left, Mimi screen-right. One full carrot on the plate. Warm daytime Kitchen Nook. Preserve exact composition from @image1.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
 
-## Camera Direction
+Preserve the exact staging visible in @image1: Kiko remains seated screen-left on her chair, and Mimi remains standing screen-right beside her chair. Do not make Mimi sit, do not make Kiko stand, and do not change either character's position or scale. Preserve the exact character appearances visible in @image1 with no hairstyle, ear, face, clothing or proportion correction. Mimi begins the first line. Kiko remains a silent listener with a relaxed closed mouth.
 
-32mm medium at child eye level, slight ease-in on Mimi's inviting gesture, then back to a warm two-shot.
+Mimi makes one small open-palm invitation toward the plate. Mimi never touches or pushes the carrot. Kiko's expression changes gradually from unsure to curious. Kiko gives a small willing nod near the end. Carrot remains untouched.
+
+## Camera
+
+Static 32mm medium two-shot at child eye level. No movement.
 
 ## Dialogue
 
-```text
-Mimi: Just one little bite?
-
-Kiko: Only a little?
-```
+0.4–1.8 — Mimi: "We can try together."
+2.0–3.2 — Kiko: "Do I need a big bite?"
+3.4–4.6 — Mimi: "No. Just one little bite."
+4.8–5.8 — Kiko: "Only a little?"
+6.0–7.0 — Mimi: "A tiny bite."
+7.2–8.4 — Kiko: "I can try tiny."
+8.6–9.6 — Mimi: "You choose when."
+9.8–10.4 — Kiko: "Okay."
 
 ## Shot Breakdown
 
-| Time | Action | Camera |
-|---|---|---|
-| 0-4 sec | Mimi's playful inviting gesture | Medium, ease-in |
-| 4-8 sec | "Just one little bite?" | Medium |
-| 8-12 sec | Kiko considers, curious | Medium |
-| 12-15 sec | "Only a little?" | Medium hold |
+| Time | Action |
+|---|---|
+| 0.0–0.4 | Shot 02 final frame carried forward |
+| 0.4–1.8 | Mimi: "We can try together." |
+| 1.8–2.0 | Mimi closes mouth |
+| 2.0–3.2 | Kiko: "Do I need a big bite?" |
+| 3.2–3.4 | Kiko closes mouth |
+| 3.4–4.6 | Mimi: "No. Just one little bite." |
+| 4.6–4.8 | Mimi closes mouth |
+| 4.8–5.8 | Kiko: "Only a little?" |
+| 5.8–6.0 | Kiko closes mouth |
+| 6.0–7.0 | Mimi: "A tiny bite." |
+| 7.0–7.2 | Mimi closes mouth |
+| 7.2–8.4 | Kiko: "I can try tiny." |
+| 8.4–8.6 | Kiko closes mouth |
+| 8.6–9.6 | Mimi: "You choose when." |
+| 9.6–9.8 | Mimi closes mouth |
+| 9.8–10.4 | Kiko: "Okay." |
+| 10.4–15.0 | Warm settled pose, carrot untouched |
 
 ## Sound
 
-Playful gentle Mimi tone, warm room tone. Natural ambience only. No music.
+Warm daytime room tone. No music.
 
 ## Emotion
 
-Reluctance turning into curious willingness. Warm, low-pressure.
-
-## Repeated Phrase
-
-This shot introduces the episode's repeated phrase: **"Just one little bite!"** (repeated in Shot 04;
-Kiko says the full phrase in Shot 08.)
+Reluctance turning into playful curiosity. Warm, hopeful.
 
 ## Safe-Exposure Notes
 
-Invitation is gentle and small ("just one little bite") — never force. Kiko keeps her choice.
+Encouragement is gentle and fun. Mimi invites, never pressures. Kiko's choice is respected.
+
+## Voice Assignment
+
+Kiko → approved saved Kiko voice. Mimi → approved saved Mimi voice. Auto Voice: Off.
+
+## Visual Quality Lock
+
+Preserve exactly the visual quality visible in @image1: medium-low contrast, restrained saturation, gentle sharpness, matte materials, soft shadows, warm balanced brightness, natural edges. No contrast/sharpness/saturation increase.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, photorealistic, horror, scary, dark lighting,
-force feeding, pressure, disgust, crying child, extra characters, redesigned Kiko's Home, sharp corners,
-cinematic LUT, blue tint, green tint, orange shift, HDR look, fast movement, static talking pose,
-characters frozen, background music, music, melody, song, soundtrack
+low quality, blurry, deformed, extra limbs, extra fingers, text, watermark, photorealistic, horror, dark lighting, disgust, gagging, extra characters, redesigned kitchen, sharp corners, HDR, glossy plastic, fast movement, camera movement, characters frozen, background music, contrast increase, sharpness increase, carrot movement, bite mark changes, force, pressure
 
 ## QA Checklist
 
-- [ ] Repeated phrase "Just one little bite?" delivered by Mimi.
-- [ ] Invitation reads gentle/low-pressure (no force).
-- [ ] Kiko's shift to willingness reads clearly (pivot beat).
-- [ ] Identities/voices consistent; interior stable; no on-screen text.
+- [ ] Shot 02 final frame as real linked @image1
+- [ ] Kiko screen-left, Mimi screen-right, stable scale
+- [ ] Carrot on plate, unchanged
+- [ ] Camera completely static
+- [ ] Canonical voices assigned, Auto Voice Off
+- [ ] Visual quality lock present
+- [ ] No on-screen text, no music

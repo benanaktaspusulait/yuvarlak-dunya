@@ -1,97 +1,122 @@
-# BLD-EP07 — Shot 04 — A Brave Bite (Action)
-
----
+# BLD-EP07 — Shot 04 — A Brave Bite
 
 ## Scene Context
 
 | Field | Value |
 |---|---|
-| Episode | Brave Little Days EP07 — One Little Bite |
 | Shot | 04 / 08 |
 | Duration | 15 seconds |
-| Location | Kiko's Home — Kitchen Nook |
+| Chain | A (Shots 01–04) |
+| Location | Mimi's Home Interior — Kitchen Nook |
 | Characters | Kiko, Mimi |
-| Time of Day | Warm Daytime |
-| Spine step | ACTION (brave bite) |
-
----
+| Take Shot | Approved Shot 03 final frame as @image1 |
 
 ## Purpose
 
-Kiko makes the brave choice: she lifts the carrot and takes one tiny bite. The courage beat.
+Kiko makes the brave choice: picks up the carrot and takes one tiny bite. The courage beat.
 
 ## Continuity
 
-Use Shot 03 approved final frame as `@image1`. Same nook, colour master. Carrot is full-size here
-(bites begin now).
+Approved Shot 03 final frame as real linked @image1 only. Chain A final shot.
 
-## Environment Anchors
+## Character Position Lock
 
-- Same Kitchen Nook. Kiko lifts the carrot to take a tiny bite; Mimi encouraging beside her.
+- Kiko: screen-left, stable canonical scale
+- Mimi: screen-right, stable canonical scale
 
-## Background Object Lock
+## Prop Continuity
 
-Interior locked; identical to Shots 01–03. Only Kiko, Mimi, and the carrot move.
+- one full carrot on plate at start
+- Kiko picks it up with left hand
+- empty plate remains on table
+- one tiny bite appears after the bite
+- carrot must not switch hands
 
-## Visual Prompt
+## Eating/Speech Rule
 
-```text
-Kiko's Home Kitchen Nook, warm daytime. Kiko lifts the orange carrot and takes one tiny, brave bite,
-her eyes a little wide with anticipation; Mimi encouraging warmly beside her. Warm, tender, rounded
-soft shapes, {style} {camera} {lighting}
+Kiko does not speak while biting or chewing. Kiko must finish the small chew and swallow before speaking. "You did it!" is spoken by Mimi while Kiko finishes chewing. Kiko responds only with a small nod.
 
-Interior locked; keep the table, plate, basket and window stable.
+## Video Prompt
+
+@image1
+
+CONTINUOUS UNBROKEN 15-SECOND SINGLE TAKE.
+
+Continue directly from the approved Shot 03 final frame. Frame 1 must match @image1 exactly. @image1 is the only visual authority.
+
+Kiko screen-left, Mimi screen-right. Warm daytime Kitchen Nook. Preserve exact composition from @image1.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-```
 
-## Camera Direction
+Kiko reaches with her left hand, picks up the carrot. Empty plate remains visible. Kiko takes one tiny bite, chews with closed mouth, swallows. Mimi speaks while Kiko finishes. Kiko responds with a small nod. Carrot in left hand with one bite mark.
 
-40mm medium at child eye level, a gentle settle to a soft close on the tiny bite.
+## Camera
+
+Static 40mm medium two-shot at child eye level. No movement. Both Kiko and Mimi visible. Carrot, hand and empty plate visible.
 
 ## Dialogue
 
-```text
-Mimi: Just one little bite!
-
-Kiko: Okay... here I go.
-```
+0.4–1.4 — Mimi: "Ready when you are."
+1.6–2.8 — Kiko: "Just one little bite."
+3.0–3.8 — Mimi: "That's it."
+4.0–5.4 — Kiko: "Okay... here I go."
+[5.4–8.5: Kiko bites, chews, swallows — no dialogue]
+8.5–9.5 — Mimi: "You did it!"
+[9.5–10.0: Kiko nods — no dialogue]
 
 ## Shot Breakdown
 
-| Time | Action | Camera |
-|---|---|---|
-| 0-4 sec | Kiko lifts the carrot | Medium |
-| 4-8 sec | Mimi: "Just one little bite!" | Medium |
-| 8-12 sec | Kiko: "Okay... here I go." | Settle |
-| 12-15 sec | A tiny brave bite | Soft close on the bite |
+| Time | Action |
+|---|---|
+| 0.0–0.4 | Shot 03 final frame carried forward |
+| 0.4–1.4 | Mimi: "Ready when you are." |
+| 1.4–1.6 | Mimi closes mouth |
+| 1.6–2.8 | Kiko: "Just one little bite." |
+| 2.8–3.0 | Kiko closes mouth |
+| 3.0–3.8 | Mimi: "That's it." |
+| 3.8–4.0 | Mimi closes mouth |
+| 4.0–5.4 | Kiko: "Okay... here I go." |
+| 5.4–5.6 | Kiko closes mouth |
+| 5.6–6.2 | Kiko picks up carrot, small breath |
+| 6.2–6.8 | Kiko takes one tiny bite (crunch sound) |
+| 6.8–8.0 | Kiko chews with closed mouth |
+| 8.0–8.5 | Kiko swallows |
+| 8.5–9.5 | Mimi: "You did it!" |
+| 9.5–10.0 | Kiko nods, small smile |
+| 10.0–15.0 | Warm settled pose, carrot in left hand with one bite mark |
 
 ## Sound
 
-A tiny anticipatory breath before the bite. Natural ambience only. No music.
+Warm daytime room tone. One soft realistic crunch at 6.2–6.8. No music.
 
 ## Emotion
 
-Brave anticipation. Warm and encouraging.
-
-## Repeated Phrase
-
-Mimi repeats **"Just one little bite!"** here as gentle encouragement.
+Courage beat. Brave, calm, positive.
 
 ## Safe-Exposure Notes
 
-Kiko chooses the bite herself — no force. Small, believable bite. No disgust.
+One tiny bite only. No gagging, no spitting, no disgust. Kiko's choice is voluntary.
+
+## Voice Assignment
+
+Kiko → approved saved Kiko voice. Mimi → approved saved Mimi voice. Auto Voice: Off.
+
+## Visual Quality Lock
+
+Preserve exactly the visual quality visible in @image1: medium-low contrast, restrained saturation, gentle sharpness, matte materials, soft shadows, warm balanced brightness, natural edges. No contrast/sharpness/saturation increase.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, photorealistic, horror, scary, dark lighting,
-force feeding, disgust, gagging, crying child, extra characters, redesigned Kiko's Home, cinematic LUT,
-blue tint, green tint, orange shift, HDR look, fast movement, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack
+low quality, blurry, deformed, extra limbs, extra fingers, text, watermark, photorealistic, horror, dark lighting, disgust, gagging, spitting, crumbs, mess, extra characters, redesigned kitchen, sharp corners, HDR, glossy plastic, fast movement, camera movement, characters frozen, background music, contrast increase, sharpness increase, carrot hand switching, bite mark changes, food clipping, mouth deformation, talking while chewing
 
 ## QA Checklist
 
-- [ ] Repeated phrase "Just one little bite!" delivered by Mimi.
-- [ ] Kiko takes the bite by her own choice (no force).
-- [ ] Identities/voices consistent; carrot full-size (bites begin here).
-- [ ] Colour/lighting match master; interior stable; no on-screen text.
+- [ ] Shot 03 final frame as real linked @image1
+- [ ] Kiko picks up carrot with left hand
+- [ ] Empty plate remains on table
+- [ ] One bite mark appears after the bite
+- [ ] Kiko does not speak while biting or chewing
+- [ ] Camera completely static
+- [ ] Canonical voices assigned, Auto Voice Off
+- [ ] Visual quality lock present
+- [ ] No on-screen text, no music
