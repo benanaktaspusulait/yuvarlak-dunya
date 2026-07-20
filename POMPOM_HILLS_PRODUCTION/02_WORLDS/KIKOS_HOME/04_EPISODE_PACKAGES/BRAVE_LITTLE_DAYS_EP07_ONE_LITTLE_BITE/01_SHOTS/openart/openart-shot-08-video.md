@@ -1,6 +1,6 @@
 # OpenArt Setup
 
-- Linked @image1: approved Shot 07 final frame
+- Linked @image5: approved Shot 07 final frame
 - No other image references
 - Duration: exactly 15 seconds
 - Mode: Seedance frame-to-video with Generated Dialogue support
@@ -27,12 +27,12 @@ Do not generate unless the OpenArt interface visibly confirms:
 - [ ] Generated Audio is On
 - [ ] Auto Voice is Off
 - [ ] Music is Off
-- [ ] Kiko is seated screen-left in @image1
-- [ ] Mimi is standing screen-right in @image1
+- [ ] Kiko is seated screen-left in @image5
+- [ ] Mimi is standing screen-right in @image5
 - [ ] Both characters have both eyes fully open
 - [ ] Both mouths are completely closed
 - [ ] Carrot is in Kiko's left hand
-- [ ] Carrot has exactly two bite marks
+- [ ] Carrot matches the exact bitten shape visible in @image5, representing two bites already taken
 - [ ] Empty plate is centred on the table
 
 If any item fails, stop and do not spend credits.
@@ -41,9 +41,9 @@ If any item fails, stop and do not spend credits.
 
 MANDATORY SPOKEN DIALOGUE. Generate all 7 English lines exactly with the manually selected saved Kiko and Mimi voices. Do not omit, shorten, reorder, replace or paraphrase any line. NO MUSIC, ambience, birds, room tone or sound effects. Never replace speech with silence, staring or music.
 
-@image1 is the only visual authority. One static continuous 15-second shot. Preserve the exact kitchen, camera, lighting, character scale and staging. Kiko remains seated screen-left. Mimi remains standing screen-right beside her chair. The empty plate remains stationary in the centre of the table.
+@image5 is the only visual authority. One static continuous 15-second shot. Preserve the exact kitchen, camera, lighting, character scale and staging. Kiko remains seated screen-left. Mimi remains standing screen-right beside her chair. The empty plate remains stationary in the centre of the table.
 
-Kiko keeps the same carrot naturally in her left hand with exactly two bite marks. No eating, additional bite, carrot-to-mouth movement, hand switching, carrot resizing or loose carrot piece. Only the current speaker moves its mouth; the listener keeps its mouth closed.
+Kiko keeps the exact same bitten carrot naturally in her left hand. Preserve the precise bitten edge and remaining carrot shape visible in @image5; two bites have already occurred in the story, but do not separate, enlarge, reshape or regenerate the existing bitten area. No eating, additional bite, carrot-to-mouth movement, hand switching, carrot resizing or loose carrot piece. Only the current speaker moves its mouth; the listener keeps its mouth closed.
 
 0.4–2.0 Kiko speaks audibly: "I thought I wouldn't like it."
 2.5–3.7 Mimi speaks audibly: "Then you tried."
@@ -53,23 +53,27 @@ Kiko keeps the same carrot naturally in her left hand with exactly two bite mark
 10.0–11.0 Mimi speaks audibly: "So good!"
 11.5–13.3 Kiko speaks audibly: "Be brave — just one little bite!"
 
-13.3–14.3 Mimi gives exactly one small warm closed-mouth nod while Kiko holds the carrot still in her left hand.
-14.3–15.0 Kiko keeps the carrot steady in her left hand and performs exactly one small wave cycle with only her free right hand. Both finish with eyes open and mouths closed.
+13.3–14.1 Mimi gives exactly one small warm closed-mouth nod while Kiko holds the carrot still in her left hand.
+14.1–14.7 Kiko keeps the carrot steady in her left hand and performs exactly one small wave with only her free right hand.
+14.7–15.0 Kiko lowers her right hand to a natural resting position. Both characters hold a stable final pose with eyes open and mouths closed.
 
 Preserve the exact image look, fixed camera, medium-low contrast, balanced brightness and gentle sharpness. No fade or closing bumper inside this generated shot.
 
 # Negative Prompt
 
-missing dialogue, omitted line, shortened line, paraphrased line, no speech, silent characters, silent staring, music, soundtrack, ambience, birds, room tone, environmental sound, sound effects, wrong voice, voice swap, wrong lip-sync, both mouths moving, overlapping speech, open listener mouth, Kiko standing, Mimi sitting, position change, eating, additional bite, third bite, carrot touching mouth, carrot hand switch, carrot resizing, duplicate carrot, loose carrot piece, missing plate, moving plate, two-hand wave, waving with carrot hand, carrot dropped during wave, repeated wave, continuous waving, exaggerated wave, extra fingers, merged hands, clipping, identity drift, closed eyes at frame 1, half-closed eyes at frame 1, blinking final frame, closed eyes in final frame, camera movement, zoom, reframe, contrast increase, saturation increase, sharpness increase, darkening, HDR, fade, text, captions, watermark
+missing dialogue, omitted line, shortened line, paraphrased line, no speech, silent characters, silent staring, music, soundtrack, ambience, birds, room tone, environmental sound, sound effects, wrong voice, voice swap, wrong lip-sync, both mouths moving, overlapping speech, open listener mouth, Kiko standing, Mimi sitting, position change, eating, additional bite, third bite, carrot touching mouth, carrot hand switch, carrot resizing, duplicate carrot, loose carrot piece, missing plate, moving plate, two-hand wave, waving with carrot hand, carrot dropped during wave, repeated wave, continuous waving, exaggerated wave, extra fingers, merged hands, clipping, identity drift, closed eyes at frame 1, half-closed eyes at frame 1, blinking final frame, closed eyes in final frame, camera movement, zoom, reframe, contrast increase, saturation increase, sharpness increase, darkening, HDR, fade, text, captions, watermark, carrot bite-shape change, separated new bite marks, enlarged bitten area, repaired carrot, restored carrot, regenerated carrot edge, changed bitten silhouette, unfinished wave, hand frozen mid-air, raised hand in final frame, motion-blurred final frame
 
 # Final Frame Lock
 
 - Kiko remains seated screen-left
 - Mimi remains standing screen-right
 - Carrot remains in Kiko's left hand
-- Carrot has exactly two bite marks
+- Carrot preserves the exact bitten shape and silhouette visible in @image5
+- No new bite or change to the existing bitten area
 - Empty plate remains centred
 - Kiko completes exactly one small right-hand wave
+- Kiko's free right hand returns to a natural resting position
+- Final frame is stable, not mid-wave or motion-blurred
 - Both mouths are closed
 - Both characters have both eyes fully open
 - Camera and lighting remain unchanged
@@ -96,7 +100,8 @@ Do not paste the complete Markdown document into OpenArt.
 - [ ] Kiko remains seated left
 - [ ] Mimi remains standing right
 - [ ] No eating or additional bite
-- [ ] Carrot remains in Kiko's left hand with exactly two bite marks
+- [ ] Carrot remains in Kiko's left hand with the exact same bitten shape as @image5
+- [ ] No new bite and no carrot-edge redesign
 - [ ] Empty plate remains centred
 - [ ] Mimi performs exactly one closed-mouth nod
 - [ ] Kiko performs exactly one small wave with only her free right hand
@@ -106,3 +111,6 @@ Do not paste the complete Markdown document into OpenArt.
 - [ ] Camera remains static
 - [ ] No fade or generated bumper
 - [ ] No unexplained dead air
+- [ ] Kiko completes the wave by 14.7 seconds
+- [ ] Kiko's right hand returns to rest before the final frame
+- [ ] Final frame is stable and not mid-motion
