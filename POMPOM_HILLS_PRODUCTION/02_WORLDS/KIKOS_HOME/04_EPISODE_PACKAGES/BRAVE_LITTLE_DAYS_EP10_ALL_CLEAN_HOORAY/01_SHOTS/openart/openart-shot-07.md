@@ -1,42 +1,82 @@
-# OpenArt — Shot 07 — All Clean
+# OpenArt Shot 07 — All Clean!
 
 ## Production Metadata
-- Shot: 07/08, Title: All Clean
-- Duration: 15 seconds, Continuity Mode: Block Continuation
-- Block: B, Lens: 40mm, Camera Height: 0.72m
+
+| Field | Value |
+|---|---|
+| Episode | EP10 — All Clean, Hooray! |
+| World | Kiko's Home |
+| Location | Playroom |
+| Shot Number | 07 |
+| Chain | B — BLOCK CONTINUATION |
+| Duration | 15 s |
+| Timecode | 1:30–1:45 |
+| Lens | 28 mm |
+| Camera | Static |
+| Eye Level | Child height |
 
 ## Reference Upload Map
-- @image1: Shot 06 approved final frame
-- @image2: Kiko character reference
-- @image3: Mimi character reference
 
-## Hard Gate Before Generation
-- [ ] @image1 is Shot 06 final frame
-- [ ] Room now tidy: blocks in box, cars on shelf, books in rack
-- [ ] Both characters visible, open eyes, mouths closed
+| Ref | ID | Description | Source |
+|---|---|---|---|
+| REF-01 | Playroom-Env | Clean playroom base environment | `04_ASSETS/WORLDS/PLAYROOM_ENV.png` |
+| REF-02 | Kiko-Stand | Kiko standing, neutral expression | `04_ASSETS/CHARACTERS/IKO_STAND.png` |
+| REF-03 | Mimi-Stand | Mimi standing, neutral expression | `04_ASSETS/CHARACTERS/MIMI_STAND.png` |
 
-## Video Prompt
-MANDATORY SPOKEN DIALOGUE. Continue in same Playroom. Room is now tidy. Kiko and Mimi look around proudly at the clean space. @image1 is only visual authority. 15-second single take.
+## Hard Gate Checklist
 
-## Dialogue Timing
-| Time | Speaker | Line |
-|------|---------|------|
-| 0.5-2.0 | Kiko | "All clean!" |
-| 2.5-4.0 | Mimi | "Look how tidy!" |
-| 4.5-6.5 | Kiko | "Blocks in the box." |
-| 7.0-8.5 | Mimi | "Cars on the shelf." |
-| 9.0-11.0 | Kiko | "Books in the rack!" |
-| 11.5-13.0 | Mimi | "Everything has a place." |
-| 13.5-14.8 | Kiko | "Hooray!" |
+- [ ] Environment matches REF-01 (Playroom)
+- [ ] Kiko matches REF-02 (Coral-pink top, white shorts, pigtails)
+- [ ] Mimi matches REF-03 (Soft-blue rabbit, yellow top)
+- [ ] 28mm lens, child eye level
+- [ ] Static camera
+- [ ] Floor COMPLETELY clear
+- [ ] Blocks in box, cars on shelf, books in rack
+- [ ] No background music
+- [ ] No on-screen text
 
-## Prop Lock
-All toys in their places. Room tidy and organized. Clean floor visible.
+## Video Prompt (MANDATORY SPOKEN DIALOGUE)
+
+Warm playroom, child eye level, 28mm wide shot — matching shot 01 framing. CLEAN TIDY ROOM. Blocks in natural wood toy box (corner), cars on wooden shelf (all tiers), books in low wooden rack (all slots). Floor completely clear — light wood visible. Kiko (coral-pink top, white shorts, brown pigtails) and Mimi (soft-blue rabbit, yellow top) standing together in center, looking around room with big smiles. Warm bright daylight — slightly brighter and airier than before. Cream walls, soft shadows, preschool animation style. Pride and satisfaction radiating from both characters. Dialogue: Kiko says "All clean!" at 1:33. Mimi says "All clean!" at 1:37.
+
+## Dialogue Timing Table
+
+| Timestamp | Speaker | Line |
+|---|---|---|
+| 1:33 | Kiko | "All clean!" |
+| 1:37 | Mimi | "All clean!" |
+
+## Prop / Voice Lock
+
+| Prop / Voice | State |
+|---|---|
+| Building blocks | IN TOY BOX |
+| Toy cars | ON SHELF |
+| Picture books | IN RACK |
+| Toy box | Full |
+| Shelf | Full |
+| Book rack | Full |
+| Floor | CLEAR |
+| Kiko Voice | Proud, bright, genuine joy. |
+| Mimi Voice | Happy, warm, sharing the moment. |
 
 ## Negative Prompt
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, dark lighting, extra characters, redesigned playroom, sharp corners, HDR, fast movement, background music
 
-## Final QA Checklist
-- [ ] @image1 is Shot 06 final frame
-- [ ] Room visibly tidy
-- [ ] All toys in correct places
-- [ ] All 7 lines spoken
+NO background music, NO on-screen text, NO toys on floor, NO harsh lighting, NO dark shadows, NO horror tones, NO distorted anatomy, NO crossed eyes, NO extra fingers, NO adult characters, NO real human faces, NO exaggerated celebration, NO confetti or party effects
+
+## QA Checklist
+
+- [ ] Duration = 15 s
+- [ ] 28mm lens, child eye level
+- [ ] Static camera
+- [ ] Wide shot matching shot 01
+- [ ] Floor COMPLETELY clear
+- [ ] Blocks in box
+- [ ] Cars on shelf
+- [ ] Books in rack
+- [ ] Dialogue at correct timestamps
+- [ ] "All clean!" × 2
+- [ ] No music
+- [ ] Brighter lighting
+- [ ] Continuity from shot 06
+- [ ] Continuity to shot 08

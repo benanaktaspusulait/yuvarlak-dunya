@@ -85,7 +85,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 | 10.5–12.0 | Mimi | "Yay! So fresh!" |
 | 12.5–14.0 | ACTION | Kiko lowers towel |
 
-Total spoken words: ~33
+Total spoken lines: 5
+Total spoken words: ~18
 
 ---
 
@@ -124,7 +125,7 @@ low quality, blurry, deformed, extra limbs, extra arms, extra hands, extra finge
 - [ ] Clear sequence: rinse → turn off water → take towel → dry hands
 - [ ] Hands visibly clean and dry at end
 - [ ] No splashing
-- [ ] All 7 dialogue lines spoken
+- [ ] All 5 spoken dialogue lines delivered correctly
 - [ ] No on-screen text, no music
 - [ ] Stable camera
 - [ ] Eyes open first and final frames

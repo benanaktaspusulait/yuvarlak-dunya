@@ -1,0 +1,84 @@
+{
+  "production": {
+    "episode_code": "EP14",
+    "title": "Tidy Up, Team Up",
+    "series": "Brave Little Days",
+    "status": "in_progress",
+    "created_date": "2026-07-21",
+    "last_updated": "2026-07-21"
+  },
+  "pipeline": {
+    "pre_production": {
+      "script_approval": "pending",
+      "asset_preparation": "pending",
+      "openart_prompts": "complete"
+    },
+    "production": {
+      "chain_a": {
+        "shots": [1, 2, 3, 4],
+        "status": "pending"
+      },
+      "chain_b": {
+        "shots": [5, 6, 7, 8],
+        "status": "pending"
+      }
+    },
+    "post_production": {
+      "assembly": "pending",
+      "review": "pending",
+      "final_export": "pending"
+    }
+  },
+  "quality_checkpoints": [
+    {
+      "checkpoint": "Chain A complete",
+      "after_shot": 4,
+      "status": "pending"
+    },
+    {
+      "checkpoint": "Fresh Quality Reset",
+      "at_shot": 5,
+      "status": "pending"
+    },
+    {
+      "checkpoint": "Chain B complete",
+      "after_shot": 8,
+      "status": "pending"
+    },
+    {
+      "checkpoint": "Final quality check",
+      "after_shot": 8,
+      "status": "pending"
+    }
+  ],
+  "file_structure": {
+    "00_EPISODE_OVERVIEW": {
+      "files": 13,
+      "status": "complete"
+    },
+    "01_SHOTS": {
+      "files": 11,
+      "status": "complete"
+    },
+    "01_SHOTS/openart": {
+      "files": 8,
+      "status": "complete"
+    },
+    "05_METADATA": {
+      "files": 6,
+      "status": "complete"
+    }
+  },
+  "total_files": 38,
+  "delivery_checklist": [
+    {"item": "Episode overview documents", "status": "complete"},
+    {"item": "Shot-by-shot breakdown", "status": "complete"},
+    {"item": "OpenArt prompts", "status": "complete"},
+    {"item": "Metadata files", "status": "complete"},
+    {"item": "Character assets", "status": "pending"},
+    {"item": "Location assets", "status": "pending"},
+    {"item": "Voice recording", "status": "pending"},
+    {"item": "Animation", "status": "pending"},
+    {"item": "Final assembly", "status": "pending"}
+  ]
+}

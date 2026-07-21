@@ -14,11 +14,17 @@
 - Previous Video Reference: NONE (after opening bumper)
 - Next Continuity Target: Shot 02
 
-## Reference Upload Map
+## Take Shot Reference Upload Map
 
 - @image1: Canonical Kiko's Home Interior — Living Space environment
 - @image2: Canonical Kiko character reference (coral-pink shirt, brown pigtails)
 - @image3: Canonical Mimi character reference (soft-blue rabbit, yellow T-shirt)
+
+## Video Reference Upload Map
+
+- @image1: Approved Shot 01 Living Space Take Shot
+- @image2: Canonical Kiko character reference
+- @image3: Canonical Mimi character reference
 
 ---
 

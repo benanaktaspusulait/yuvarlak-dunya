@@ -1,0 +1,135 @@
+{
+  "shots": [
+    {
+      "shot_number": 1,
+      "chain": "A",
+      "title": "Messy Living Area",
+      "purpose": "Establishing shot",
+      "duration_seconds": {"min": 3, "max": 4},
+      "visual": "Wide shot of messy living area",
+      "dialogue": null,
+      "audio": "Ambient room tone, soft music",
+      "camera": "Wide angle, slightly elevated",
+      "movement": "Static or slow pan"
+    },
+    {
+      "shot_number": 2,
+      "chain": "A",
+      "title": "There's too much!",
+      "purpose": "Conflict introduction",
+      "duration_seconds": {"min": 4, "max": 5},
+      "visual": "Medium shot of overwhelmed Kiko",
+      "dialogue": {
+        "speaker": "Kiko",
+        "line": "There's too much! I can't do it all by myself!",
+        "tone": "Frustrated but not whiny"
+      },
+      "audio": "Kiko's voice, soft music",
+      "camera": "Medium shot, eye level",
+      "movement": "Static or subtle push-in"
+    },
+    {
+      "shot_number": 3,
+      "chain": "A",
+      "title": "Opa's Wisdom",
+      "purpose": "Turning point",
+      "duration_seconds": {"min": 4, "max": 5},
+      "visual": "Opa enters, Kiko and Mimi listen",
+      "dialogue": {
+        "speaker": "Opa",
+        "line": "Many hands make light work!",
+        "tone": "Warm, wise, encouraging"
+      },
+      "audio": "Opa's voice, hopeful music",
+      "camera": "Medium-wide shot",
+      "movement": "Slight pan to follow Opa"
+    },
+    {
+      "shot_number": 4,
+      "chain": "A",
+      "title": "Kiko Picks Up Stuffed Animals",
+      "purpose": "First action",
+      "duration_seconds": {"min": 4, "max": 5},
+      "visual": "Kiko picking up stuffed animals",
+      "dialogue": {
+        "speaker": "Kiko",
+        "line": "I'll pick up the stuffed animals!",
+        "tone": "Enthusiastic"
+      },
+      "secondary_dialogue": {
+        "speaker": "Mimi",
+        "line": "And I'll fold the blankets!",
+        "tone": "Supportive"
+      },
+      "audio": "Voices, rustling sounds, upbeat music",
+      "camera": "Medium shot, following action",
+      "movement": "Subtle tracking"
+    },
+    {
+      "shot_number": 5,
+      "chain": "B",
+      "title": "Mimi Folds Blankets",
+      "purpose": "Continue teamwork, quality reset",
+      "duration_seconds": {"min": 4, "max": 5},
+      "visual": "Mimi folding blankets on couch",
+      "dialogue": null,
+      "audio": "Soft fabric sounds, music",
+      "camera": "Medium shot, focused on Mimi",
+      "movement": "Static or subtle follow",
+      "quality_reset": true
+    },
+    {
+      "shot_number": 6,
+      "chain": "B",
+      "title": "Opa Arranges Books",
+      "purpose": "Complete the trio",
+      "duration_seconds": {"min": 4, "max": 5},
+      "visual": "Opa arranging books on shelf",
+      "dialogue": null,
+      "audio": "Gentle book sounds, music",
+      "camera": "Medium shot, focused on Opa",
+      "movement": "Static or subtle follow"
+    },
+    {
+      "shot_number": 7,
+      "chain": "B",
+      "title": "Celebration",
+      "purpose": "Reveal tidy room, celebrate",
+      "duration_seconds": {"min": 4, "max": 5},
+      "visual": "Wide shot of tidy room with all characters",
+      "dialogue": {
+        "speaker": "Kiko",
+        "line": "All done together!",
+        "tone": "Proud, joyful"
+      },
+      "secondary_dialogue": {
+        "speaker": "Mimi",
+        "line": "We did it together!",
+        "tone": "Cheerful, warm"
+      },
+      "audio": "Voices, celebratory music",
+      "camera": "Wide shot",
+      "movement": "Static or slow pull-back"
+    },
+    {
+      "shot_number": 8,
+      "chain": "B",
+      "title": "Final Wave",
+      "purpose": "Finale, connect with audience",
+      "duration_seconds": {"min": 4, "max": 5},
+      "visual": "All three facing camera, waving",
+      "dialogue": {
+        "speaker": "All",
+        "line": "We do it together!",
+        "tone": "Joyful, united"
+      },
+      "audio": "All voices, music peaks then fades",
+      "camera": "Medium-wide, slightly elevated",
+      "movement": "Static or subtle push-in"
+    }
+  ],
+  "total_shots": 8,
+  "chain_a_shots": [1, 2, 3, 4],
+  "chain_b_shots": [5, 6, 7, 8],
+  "quality_reset_shot": 5
+}

@@ -93,7 +93,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 | 13.6–14.3 | ACTION | Kiko waves |
 | 14.3–15.0 | ACTION | Both settle |
 
-Total spoken words: ~36
+Total spoken lines: 6
+Total spoken words: ~16
 
 ---
 

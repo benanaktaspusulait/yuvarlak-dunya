@@ -51,7 +51,7 @@ The same intact red apple is still on the table.
 
 Kiko's hands are now visibly clean and dry.
 
-All mouths closed.
+All mouths closed. Both characters have open eyes.
 
 ---
 
@@ -117,7 +117,7 @@ Total spoken words: ~35
 - Mimi: screen-right, warm smile
 - Apple: same intact red apple, centre of table
 - No new apple, no second apple, no bite mark yet
-- Kiko reaches toward apple but does not bite in this shot
+- Kiko carefully picks up and holds the intact apple but does not bite it in this shot
 
 ---
 

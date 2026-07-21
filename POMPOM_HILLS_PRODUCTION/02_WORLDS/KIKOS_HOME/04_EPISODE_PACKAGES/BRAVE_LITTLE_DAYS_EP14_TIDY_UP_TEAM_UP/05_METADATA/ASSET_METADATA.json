@@ -1,0 +1,93 @@
+{
+  "assets": {
+    "characters": [
+      {
+        "name": "Kiko",
+        "type": "Character model",
+        "appearance": "Coral-pink top, white shorts, brown pigtails",
+        "shots_appearing": [1, 2, 3, 4, 7, 8],
+        "status": "pending"
+      },
+      {
+        "name": "Mimi",
+        "type": "Character model",
+        "appearance": "Soft-blue rabbit, yellow top",
+        "shots_appearing": [3, 4, 5, 7, 8],
+        "status": "pending"
+      },
+      {
+        "name": "Opa",
+        "type": "Character model",
+        "appearance": "Warm brown owl, glasses",
+        "shots_appearing": [3, 6, 7, 8],
+        "status": "pending"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Kiko's Living Area — Messy",
+        "type": "Location art",
+        "shots_appearing": [1, 2, 3, 4],
+        "status": "pending"
+      },
+      {
+        "name": "Kiko's Living Area — Tidy",
+        "type": "Location art",
+        "shots_appearing": [7, 8],
+        "status": "pending"
+      }
+    ],
+    "props": [
+      {
+        "name": "Stuffed Animals",
+        "type": "Prop",
+        "count": "3-5",
+        "shots_appearing": [1, 4],
+        "status": "pending"
+      },
+      {
+        "name": "Blankets",
+        "type": "Prop",
+        "count": "2-3",
+        "shots_appearing": [1, 5],
+        "status": "pending"
+      },
+      {
+        "name": "Books",
+        "type": "Prop",
+        "count": "5-8",
+        "shots_appearing": [1, 6],
+        "status": "pending"
+      },
+      {
+        "name": "Storage Basket",
+        "type": "Prop",
+        "count": 1,
+        "shots_appearing": [4],
+        "status": "pending"
+      }
+    ],
+    "openart_prompts": [
+      {"shot": 1, "file": "SHOT_01_openart.md", "status": "pending"},
+      {"shot": 2, "file": "SHOT_02_openart.md", "status": "pending"},
+      {"shot": 3, "file": "SHOT_03_openart.md", "status": "pending"},
+      {"shot": 4, "file": "SHOT_04_openart.md", "status": "pending"},
+      {"shot": 5, "file": "SHOT_05_openart.md", "status": "pending"},
+      {"shot": 6, "file": "SHOT_06_openart.md", "status": "pending"},
+      {"shot": 7, "file": "SHOT_07_openart.md", "status": "pending"},
+      {"shot": 8, "file": "SHOT_08_openart.md", "status": "pending"}
+    ],
+    "audio": [
+      {"type": "Voice lines", "characters": ["Kiko", "Mimi", "Opa"], "status": "pending"},
+      {"type": "Ambient sounds", "description": "Room tone, movement", "status": "pending"},
+      {"type": "Music", "description": "Light, playful track", "status": "pending"}
+    ]
+  },
+  "asset_count": {
+    "characters": 3,
+    "locations": 2,
+    "props": 4,
+    "openart_prompts": 8,
+    "audio_files": 3
+  }
+}
