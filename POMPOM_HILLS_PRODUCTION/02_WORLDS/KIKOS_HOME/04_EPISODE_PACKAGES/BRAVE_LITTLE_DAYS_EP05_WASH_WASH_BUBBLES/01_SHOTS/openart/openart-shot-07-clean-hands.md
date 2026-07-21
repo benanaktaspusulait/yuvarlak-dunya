@@ -106,7 +106,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 | 12.0–13.2 | Mimi | "Enjoy your snack!" |
 | 13.2–14.0 | Kiko | "Thank you, Mimi!" |
 
-Total spoken words: ~35
+Total spoken lines: 7
+Total spoken words: approximately 27
 
 ---
 
@@ -141,9 +142,9 @@ low quality, blurry, deformed, extra limbs, extra arms, extra hands, extra finge
 
 - [ ] @image1 is fresh Living Space table Take Shot (not Shot 06 final frame)
 - [ ] Hands visibly clean and dry
-- [ ] Apple still on table, intact, no bite
+- [ ] Same intact apple is securely held by Kiko at the end; no bite mark.
 - [ ] Kiko's delight reads genuine but gentle
-- [ ] Kiko reaches for apple but does not bite in this shot
+- [ ] Kiko carefully picks up and holds the intact apple but does not bite it in this shot.
 - [ ] All 7 dialogue lines spoken
 - [ ] No on-screen text, no music
 - [ ] Stable camera

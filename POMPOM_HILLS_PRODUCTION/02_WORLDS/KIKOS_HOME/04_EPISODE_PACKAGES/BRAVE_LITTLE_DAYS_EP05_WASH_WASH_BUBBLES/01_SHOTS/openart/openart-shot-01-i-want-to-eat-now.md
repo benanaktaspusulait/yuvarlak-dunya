@@ -75,7 +75,7 @@ Approve this image before video generation.
 
 MANDATORY SPOKEN DIALOGUE. Generate every line below clearly in English using the manually selected canonical character voices. Every quoted line is compulsory and must be spoken at the specified time. No omitted, shortened, combined, reordered or paraphrased lines. Never replace speech with silence, staring, ambience, sound effects or music.
 
-Dialogue-priority generated audio. No music, birds, outdoor ambience, melody, song or soundtrack. Quiet motivated Foley only. Dialogue must remain clear and dominant.
+Dialogue-priority generated audio. No music, birds, outdoor ambience, melody, song or soundtrack. Very soft hand or clothing movement Foley only. Dialogue must remain clear and dominant.
 
 @image1 is the only visual authority. One continuous unbroken 15-second single take. Frame 1 must match @image1 exactly.
 
@@ -84,7 +84,7 @@ Begin exactly from @image1. Kiko and Mimi are already visible in their locked po
 Premium soft stylised 3D preschool animation. Kiko's rounded pink-and-white toy cottage, warm daytime golden light. Kiko (coral pink shirt, brown pigtails) stands screen-left beside the round table, one hand reaching toward a round red apple. Mimi (soft blue rabbit, yellow T-shirt) watches from screen-right, noticing Kiko's lightly grassy hands. Soft pastel colours, warm light, rounded soft shapes, matte handcrafted materials, medium-low contrast, gentle sharpness, warm balanced brightness. Interior locked from the first frame; keep the table, window and rug stable.
 
 0.5–2.0 Kiko (KIKO voice) says clearly: "I want to eat now!"
-Kiko reaches toward the apple with both hands. Her expression is hungry and eager. Mimi watches from screen-right.
+Kiko continues the small one-hand reaching movement prepared in @image1. Her other lightly grassy hand remains naturally visible beside her body. Her expression is hungry and eager. Mimi watches from screen-right.
 
 2.5–4.5 Mimi (MIMI voice) says clearly: "Wait! Look at your hands!"
 Mimi hops closer, pointing gently at Kiko's lightly grassy hands. Kiko stops reaching and looks down at her hands.
@@ -101,8 +101,11 @@ Kiko turns her palms up, examining the light grass on her fingers. Mild surprise
 11.5–13.5 Mimi (MIMI voice) says clearly: "We need to wash them first."
 Mimi nods gently, warm and supportive. Kiko looks at the apple, then back at her hands.
 
-13.8–14.8 Kiko (KIKO voice) says clearly: "Wash first?"
-Kiko tilts her head slightly, processing the idea. End on Kiko looking at Mimi with mild curiosity.
+13.5–14.2 Kiko (KIKO voice) says clearly:
+"Wash first?"
+
+14.2–15.0 ACTION ONLY:
+Kiko closes her mouth, lowers her reaching hand slightly and looks at Mimi with mild curiosity. Mimi completes one small closed-mouth nod. End with both characters’ eyes open and mouths closed.
 
 Camera: 32mm wide establishing shot settling to medium two-shot at child eye level. Stable settle only. No whip pan, no sudden zoom, no angle jump.
 
@@ -118,7 +121,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 | 7.0–9.0 | Mimi | "Your hands have grass on them!" |
 | 9.5–11.0 | Kiko | "Oh... they are?" |
 | 11.5–13.5 | Mimi | "We need to wash them first." |
-| 13.8–14.8 | Kiko | "Wash first?" |
+| 13.5–14.2 | Kiko | "Wash first?" |
 
 Total spoken words: ~30
 
@@ -144,7 +147,7 @@ Total spoken words: ~30
 - Generated Dialogue: On
 - Generated Audio: On
 - Music: Off
-- Quiet motivated Foley: soft footsteps, gentle hop
+- Quiet motivated Foley: very soft hand or clothing movement only
 - Dialogue-priority audio. No music, birds, outdoor ambience, melody, song or soundtrack.
 
 Voices must be selected manually in the OpenArt interface. Writing a voice name does not automatically select that voice.

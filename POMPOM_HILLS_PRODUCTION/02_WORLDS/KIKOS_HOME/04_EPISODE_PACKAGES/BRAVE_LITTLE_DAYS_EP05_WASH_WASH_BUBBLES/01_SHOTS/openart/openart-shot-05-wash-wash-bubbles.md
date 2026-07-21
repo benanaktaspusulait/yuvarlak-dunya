@@ -81,7 +81,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 | 7.0–9.0 | Mimi | "You're doing it perfectly!" |
 | 9.5–11.0 | Kiko | "Look how bubbly!" |
 | 11.5–13.0 | Mimi | "Keep going, you're doing great!" |
-| 13.5–14.8 | Kiko | "Almost done!" |
+| 13.0–13.8 | Kiko | "Almost done!" |
+| 13.8–15.0 | ACTION | Kiko completes rubbing; Mimi nods; both settle |
 
 Total spoken words: ~34
 

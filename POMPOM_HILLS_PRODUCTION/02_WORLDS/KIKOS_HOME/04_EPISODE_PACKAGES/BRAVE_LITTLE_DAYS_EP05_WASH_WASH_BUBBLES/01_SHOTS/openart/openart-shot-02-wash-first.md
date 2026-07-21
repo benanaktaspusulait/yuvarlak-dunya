@@ -47,11 +47,15 @@ Kiko glances at the apple longingly, body slightly turned toward it. Mimi watche
 2.5–4.0 Mimi (MIMI voice) says clearly: "I know, but look—"
 Mimi hops closer and points gently at Kiko's hands. Kiko follows Mimi's gaze down to her own hands.
 
-4.5–6.5 Kiko (KIKO voice) says clearly: "But I'm hungry!"
-Kiko glances back at the apple, a little reluctant. Her hands are still extended slightly.
+4.5–6.5 Mimi (MIMI voice) says clearly:
+"Your hands have grass on them."
 
-7.0–8.5 Mimi (MIMI voice) says clearly: "Your hands have grass on them."
-Mimi gestures gently toward Kiko's hands. Kiko looks at her hands more carefully.
+Mimi gestures gently toward Kiko’s lightly grassy hands. Kiko examines her palms.
+
+7.0–8.5 Kiko (KIKO voice) says clearly:
+"Oh, really?"
+
+Kiko turns her hands over with mild surprise. She remains calm and does not react with disgust.
 
 9.0–10.5 Mimi (MIMI voice) says clearly: "We should wash them."
 Mimi nods warmly, supportive and gentle.
@@ -59,8 +63,11 @@ Mimi nods warmly, supportive and gentle.
 11.0–12.5 Kiko (KIKO voice) says clearly: "Wash them? Now?"
 Kiko looks between Mimi and the apple. A little reluctant but listening.
 
-13.0–14.5 Mimi (MIMI voice) says clearly: "Yes, it'll be quick!"
-Mimi bounces gently, encouraging. Kiko becomes willing to listen.
+13.0–14.2 Mimi (MIMI voice) says clearly: "Yes, it'll be quick!"
+Mimi gives one small encouraging nod. Kiko looks at her hands, then gives one small willing nod.
+
+14.2–15.0 ACTION ONLY:
+Mimi closes her mouth and settles naturally. Kiko lowers her hands slightly and looks toward the Washing Corner direction with calm willingness. End with both characters stable, eyes open and mouths closed. No hopping, no mid-blink frame.
 
 Camera: 32mm stable medium two-shot at child eye level. Small gentle moves only.
 
@@ -76,7 +83,8 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 | 7.0–8.5 | Kiko | "Oh, really?" |
 | 9.0–10.5 | Mimi | "We should wash them." |
 | 11.0–12.5 | Kiko | "Wash them? Now?" |
-| 13.0–14.5 | Mimi | "Yes, it'll be quick!" |
+| 13.0–14.2 | Mimi | "Yes, it'll be quick!" |
+| 14.2–15.0 | ACTION | Both characters settle; eyes open, mouths closed |
 
 Total spoken words: ~32
 

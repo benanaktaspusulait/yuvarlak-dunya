@@ -103,17 +103,22 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ## Dialogue Timing Reference
 
-| Time | Speaker | Line |
-|------|---------|------|
-| 0.5–1.8 | Mimi | "Let's turn on the water." |
-| 2.2–3.5 | Kiko | "Ooh, warm water!" |
-| 4.0–6.0 | Mimi | "Here's the soap!" |
-| 6.5–8.0 | Kiko | "It smells nice!" |
-| 8.5–10.5 | Mimi | "Let's make it bubbly!" |
-| 11.0–12.5 | Kiko | "Look at the bubbles!" |
-| 13.0–14.5 | Mimi | "Let's rub gently!" |
+| Time      | Speaker | Line                              |
+| --------- | ------- | --------------------------------- |
+| 0.5–1.7   | Mimi    | “Let’s turn on the water.”        |
+| 1.7–2.5   | ACTION  | Kiko briefly wets both hands      |
+| 2.6–3.8   | Kiko    | “Ooh, warm water!”                |
+| 3.8–4.5   | ACTION  | Mimi turns the tap completely off |
+| 4.7–6.0   | Mimi    | “Here’s the soap!”                |
+| 6.4–7.7   | Kiko    | “It smells nice!”                 |
+| 8.1–9.7   | Mimi    | “Rub your hands gently.”          |
+| 10.1–11.5 | Kiko    | “Little bubbles!”                 |
+| 11.9–13.2 | Mimi    | “Palms together.”                 |
+| 13.5–14.2 | Kiko    | “Like this?”                      |
+| 14.2–15.0 | ACTION  | Kiko rubs gently; Mimi nods       |
 
-Total spoken words: ~32
+Total spoken lines: 8
+Total spoken words: approximately 24
 
 ---
 
@@ -159,7 +164,12 @@ low quality, blurry, deformed, extra limbs, extra arms, extra hands, extra finge
 - [ ] Water gentle (no gushing, no splashing chaos)
 - [ ] Soap soft bubbles only
 - [ ] Kiko and Mimi both clearly visible
-- [ ] All 7 dialogue lines spoken
+- [ ] All 8 spoken dialogue lines delivered correctly.
+- [ ] Tap turned completely off at 3.8–4.5
+- [ ] Exactly one soap pump directly onto Kiko’s palm
+- [ ] Tap remains off at final frame
+- [ ] Kiko’s hands lightly soapy at final frame
+- [ ] Towel remains hanging
 - [ ] No on-screen text, no music
 - [ ] Stable camera
 - [ ] Eyes open first and final frames

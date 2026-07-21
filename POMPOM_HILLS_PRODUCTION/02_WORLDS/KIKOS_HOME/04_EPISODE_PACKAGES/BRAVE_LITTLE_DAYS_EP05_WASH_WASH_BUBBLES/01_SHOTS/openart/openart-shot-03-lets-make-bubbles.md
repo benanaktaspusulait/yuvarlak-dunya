@@ -61,7 +61,7 @@ Kiko nods, ready to try. Her body language shows willingness.
 Mimi makes one small gesture toward the Washing Corner direction.
 
 14.0–15.0 ACTION ONLY:
-Kiko turns and begins one controlled step in that direction. Do not make either character run. Do not show the Washing Corner. Do not transform the room. End on a stable frame with both characters in the Living Space.
+Kiko turns and completes one small controlled step in that direction, then settles into a stable standing pose. Do not make either character run. Do not show the Washing Corner. Do not transform the room. End on a stable frame with both characters in the Living Space. The final frame must not show Kiko mid-step, off balance or motion-blurred.
 
 Camera: 32mm medium, slight ease-in on Mimi's excited gesture, then back to two-shot. Gentle moves only.
 
