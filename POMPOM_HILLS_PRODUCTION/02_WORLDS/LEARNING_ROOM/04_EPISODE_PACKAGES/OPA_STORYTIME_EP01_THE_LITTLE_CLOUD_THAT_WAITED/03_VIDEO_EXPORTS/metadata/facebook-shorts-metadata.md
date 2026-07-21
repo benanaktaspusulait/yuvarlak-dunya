@@ -2,244 +2,244 @@
 
 ---
 
-## SHORT 01: Hikaye Başlıyor (15sn)
+## SHORT 01: Story Begins (15s)
 
 ### Facebook
 
 **Post:**
 📖 "Can you read us a story?"
 
-Opa bu gece küçük arkadaşlarına bir hikaye anlatacak. Ama bu sıradan bir hikaye değil — küçük bir bulutun hikayesi! ☁️✨
+Opa is going to tell a special story to his little friends tonight. But this isn't just any story — it's about a little cloud! ☁️✨
 
-Bakalım ne olacak? 🌸
+Let's see what happens! 🌸
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 15 saniye
+👶 Ages 3-5 | 15 seconds
 
-#PompomHills #OpaStorytime #ÇocukHikayesi #BulutHikayesi #GeceleriHikaye #Miniklerİçin
+#PompomHills #OpaStorytime #KidsStory #CloudStory #BedtimeStory #PreschoolAnimation
 
 ### Instagram Reels
 
 **Caption:**
-📖 Opa hikaye anlatmaya başlıyor!
+📖 Opa is starting to tell a story!
 
-"Can you read us a story?" diye soruyorlar. Ama bu hikaye çok özel... ☁️✨
+"Can you read us a story?" they ask. But this story is very special... ☁️✨
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 15 saniye
+👶 Ages 3-5 | 15 seconds
 
-#PompomHills #OpaStorytime #BulutHikayesi #HikayeZamanı #ÇocukÇizgiFilmi #Miniklerİçin
+#PompomHills #OpaStorytime #CloudStory #StoryTime #KidsAnimation #PreschoolCartoon
 
 ### TikTok
 
 **Caption:**
 📖 "Can you read us a story?" 🌙
 
-Opa bu gece küçük bir bulutun hikayesini anlatacak! ☁️
+Opa is going to tell a story about a little cloud tonight! ☁️
 
-Bakalım ne olacak? Merak ediyorsun değil mi? 🌸
+Let's find out what happens! 🌸
 
-#PompomHills #OpaStorytime #HikayeZamanı #BulutHikayesi #ÇocukÇizgiFilmi #GeceRutini
+#PompomHills #OpaStorytime #StoryTime #CloudStory #KidsAnimation #BedtimeRoutine
 
 ---
 
-## SHORT 02: Küçük Bulut (30sn)
+## SHORT 02: The Little Cloud (30s)
 
 ### Facebook
 
 **Post:**
 ☁️ "A tiny cloud with a big wish..."
 
-Küçük bir bulut varmış. Ama bu bulutun büyük bir dileği varmış! 💫
+There was a little cloud. But this cloud had a very big wish! 💫
 
-Ne istediğini biliyor musun? Çiçeklere yardım etmek istemiş! 🌸
+Do you know what it wanted? It wanted to help the flowers! 🌸
 
-Ama önce beklemesi gerekiyormuş...
+But first, it had to wait...
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 30 saniye
+👶 Ages 3-5 | 30 seconds
 
-#PompomHills #OpaStorytime #KüçükBulut #Bekleme #Sabır #Miniklerİçin
+#PompomHills #OpaStorytime #LittleCloud #Patience #Waiting #PreschoolAnimation
 
 ### Instagram Reels
 
 **Caption:**
-☁️ Küçük bir bulut, büyük bir dilek!
+☁️ A little cloud with a big wish!
 
 "Waiting helps us help better" 💫
 
-Bazen en güzel şeyler beklemeyi gerektirir... 🌸
+Sometimes the best things come to those who wait... 🌸
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 30 saniye
+👶 Ages 3-5 | 30 seconds
 
-#PompomHills #OpaStorytime #KüçükBulut #Bekleme #Sabır #HikayeZamanı
+#PompomHills #OpaStorytime #LittleCloud #Patience #Waiting #StoryTime
 
 ### TikTok
 
 **Caption:**
-☁️ Küçük bir bulutun hikayesi!
+☁️ The story of the little cloud!
 
 "A tiny cloud with a big wish" ✨
 
-Ne istediğini biliyor musun? Çiçeklere yardım etmek istemiş! Ama önce beklemesi gerekiyormuş... 🌸
+It wanted to help the flowers! But first, it had to wait... 🌸
 
-#PompomHills #OpaStorytime #BulutHikayesi #Sabır #Bekleme #ÇocukÇizgiFilmi
+#PompomHills #OpaStorytime #CloudStory #Patience #Waiting #KidsAnimation
 
 ---
 
-## SHORT 03: Beklemenin Gücü (15sn)
+## SHORT 03: The Power of Waiting (15s)
 
 ### Facebook
 
 **Post:**
 💫 "Waiting helps us help better."
 
-Bazen beklemek en doğru şeydir. Opa bunu çocuklarla paylaşıyor.
+Sometimes waiting is the right thing to do. Opa shares this with the children.
 
-Sabırlı olmak, başkalarına yardım etmenin bir yoluymuş! 🌸
+Being patient is a way to help others! 🌸
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 15 saniye
+👶 Ages 3-5 | 15 seconds
 
-#PompomHills #OpaStorytime #Sabır #Bekleme #HayatDersi #Miniklerİçin
+#PompomHills #OpaStorytime #Patience #Waiting #LifeLesson #PreschoolAnimation
 
 ### Instagram Reels
 
 **Caption:**
 💫 "Waiting helps us help better."
 
-Beklemek sadece beklemek değilmiş — başkalarına yardım etmenin bir yoluymuş! 🌸
+Waiting isn't just waiting — it's a way to help others! 🌸
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 15 saniye
+👶 Ages 3-5 | 15 seconds
 
-#PompomHills #OpaStorytime #Sabır #Bekleme #HayatDersi #HikayeZamanı
+#PompomHills #OpaStorytime #Patience #Waiting #LifeLesson #StoryTime
 
 ### TikTok
 
 **Caption:**
 💫 "Waiting helps us help better."
 
-Bazen beklemek en doğru şeydir! Sabırlı olmak başkalarına yardım etmenin bir yoluymuş 🌸
+Sometimes waiting is the best thing to do! Being patient is a way to help others 🌸
 
-#PompomHills #OpaStorytime #Sabır #Bekleme #HayatDersi #ÇocukÇizgiFilmi
+#PompomHills #OpaStorytime #Patience #Waiting #LifeLesson #KidsAnimation
 
 ---
 
-## SHORT 04: Çiçekler Açılıyor (15sn)
+## SHORT 04: Flowers Open (15s)
 
 ### Facebook
 
 **Post:**
 🌸 "So pretty!"
 
-Beklemenin karşılığını aldık! Çiçekler nazikçe açılıyor... 💐
+The wait paid off! The flowers are gently opening... 💐
 
-Küçük bulut sabırla bekledi ve sonunda yardım edebildi! ✨
+The little cloud waited patiently and was finally able to help! ✨
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 15 saniye
+👶 Ages 3-5 | 15 seconds
 
-#PompomHills #OpaStorytime #Çiçekler #Keşif #Güzellik #Miniklerİçin
+#PompomHills #OpaStorytime #Flowers #Discovery #Beauty #PreschoolAnimation
 
 ### Instagram Reels
 
 **Caption:**
-🌸 "So pretty!" — Çiçekler açılıyor!
+🌸 "So pretty!" — The flowers are opening!
 
-Küçük bulut sabırla bekledi ve sonunda yardım edebildi! 💐✨
+The little cloud waited patiently and was finally able to help! 💐✨
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 15 saniye
+👶 Ages 3-5 | 15 seconds
 
-#PompomHills #OpaStorytime #Çiçekler #Keşif #Güzellik #HikayeZamanı
+#PompomHills #OpaStorytime #Flowers #Discovery #Beauty #StoryTime
 
 ### TikTok
 
 **Caption:**
-🌸 "So pretty!" 
+🌸 "So pretty!"
 
-Çiçekler açılıyor! Küçük bulut sabırla bekledi ve sonunda yardım edebildi! 💐✨
+The flowers are opening! The little cloud waited patiently and was finally able to help! 💐✨
 
-#PompomHills #OpaStorytime #Çiçekler #Keşif #Güzellik #ÇocukÇizgiFilmi
+#PompomHills #OpaStorytime #Flowers #Discovery #Beauty #KidsAnimation
 
 ---
 
-## SHORT 05: Sessiz Dinleme (15sn)
+## SHORT 05: Quiet Listening (15s)
 
 ### Facebook
 
 **Post:**
 👂 "I heard a bird."
 
-Bazen sessizce dinlemek en güzel şeydir. 🐦
+Sometimes quietly listening is the most beautiful thing. 🐦
 
-Opa çocuklarla birlikte sessizce dinliyor. Ve ne kadar çok şey duyabildiklerini keşfediyorlar! 🌸
+Opa and the children listen together in silence. And they discover how much they can hear! 🌸
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 15 saniye
+👶 Ages 3-5 | 15 seconds
 
-#PompomHills #OpaStorytime #Sessizlik #Dinleme #DoğaSesleri #Miniklerİçin
+#PompomHills #OpaStorytime #Silence #Listening #NatureSounds #PreschoolAnimation
 
 ### Instagram Reels
 
 **Caption:**
 👂 "I heard a bird."
 
-Sessizce dinlemek, ne kadar çok şey duyabileceğimizi gösteriyor! 🐦🌸
+Listening quietly shows us how much we can hear! 🐦🌸
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 15 saniye
+👶 Ages 3-5 | 15 seconds
 
-#PompomHills #OpaStorytime #Sessizlik #Dinleme #DoğaSesleri #HikayeZamanı
+#PompomHills #OpaStorytime #Silence #Listening #NatureSounds #StoryTime
 
 ### TikTok
 
 **Caption:**
 👂 "I heard a bird!"
 
-Sessizce dinledik ve ne kadar çok şey duyabildik! 🐦🌸
+We listened quietly and discovered how much we could hear! 🐦🌸
 
-#PompomHills #OpaStorytime #Sessizlik #Dinleme #DoğaSesleri #ÇocukÇizgiFilmi
+#PompomHills #OpaStorytime #Silence #Listening #NatureSounds #KidsAnimation
 
 ---
 
-## SHORT 06: Hoşçakal (33sn)
+## SHORT 06: Goodbye (33s)
 
 ### Facebook
 
 **Post:**
 👋 "Goodbye, friends."
 
-Opa bu gece küçük arkadaşlarıyla harika bir hikaye paylaştı. 💫
+Opa shared a wonderful story with his little friends tonight. 💫
 
-"Another story soon?" diye soruyorlar. Opa gülümseyerek "Very soon" diyor! 🌸
+"Another story soon?" they ask. Opa smiles and says "Very soon!" 🌸
 
-Bir dahaki sefere kadar hoşçakalın! ✨
+Until next time, goodbye! ✨
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 33 saniye
+👶 Ages 3-5 | 33 seconds
 
-#PompomHills #OpaStorytime #Hoşçakalın #İyiGeceler #Miniklerİçin
+#PompomHills #OpaStorytime #Goodbye #Goodnight #PreschoolAnimation
 
 ### Instagram Reels
 
 **Caption:**
 👋 "Goodbye, friends."
 
-Bu gece harika bir hikaye paylaştık! Bir dahaki sefere kadar hoşçakalın! 🌸✨
+We shared a wonderful story tonight! Until next time, goodbye! 🌸✨
 
 🌸 Opa's Storytime | Pompom Hills
-👶 3-5 yaş | 33 saniye
+👶 Ages 3-5 | 33 seconds
 
-#PompomHills #OpaStorytime #Hoşçakalın #İyiGeceler #HikayeZamanı
+#PompomHills #OpaStorytime #Goodbye #Goodnight #StoryTime
 
 ### TikTok
 
 **Caption:**
 👋 "Goodbye, friends."
 
-Bu gece harika bir hikaye paylaştık! Bir dahaki sefere kadar hoşçakalın! 🌸✨
+We shared a wonderful story tonight! Until next time, goodbye! 🌸✨
 
-#PompomHills #OpaStorytime #Hoşçakalın #İyiGeceler #ÇocukÇizgiFilmi
+#PompomHills #OpaStorytime #Goodbye #Goodnight #KidsAnimation

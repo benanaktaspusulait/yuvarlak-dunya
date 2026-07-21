@@ -1,0 +1,58 @@
+{
+  "location": {
+    "name": "Kiko's Home — Living Area",
+    "world": "Kiko's Home",
+    "type": "Interior",
+    "time_of_day": "Daytime",
+    "lighting": "Warm, natural"
+  },
+  "visual_description": "Warm, cozy living space with comfortable furniture, windows with soft light, and child-friendly decor.",
+  "states": {
+    "messy": {
+      "description": "Colorful disarray after playtime",
+      "props": {
+        "stuffed_animals": {
+          "count": "3-5",
+          "position": "Scattered on floor",
+          "appearance": "Colorful, cute"
+        },
+        "blankets": {
+          "count": "2-3",
+          "position": "Draped over couch",
+          "appearance": "Soft, colorful"
+        },
+        "books": {
+          "count": "5-8",
+          "position": "Piled on table",
+          "appearance": "Various sizes, colorful"
+        }
+      }
+    },
+    "tidy": {
+      "description": "Organized and inviting",
+      "props": {
+        "stuffed_animals": {
+          "position": "In basket/bin",
+          "appearance": "Neatly stored"
+        },
+        "blankets": {
+          "position": "Folded on couch",
+          "appearance": "Neatly folded"
+        },
+        "books": {
+          "position": "Arranged on shelf",
+          "appearance": "Organized"
+        }
+      }
+    }
+  },
+  "furniture": [
+    "Couch",
+    "Small table",
+    "Bookshelf",
+    "Storage basket/bin"
+  ],
+  "lighting_notes": "Warm daytime ambient light, soft shadows, golden tones throughout.",
+  "mood": "Safe, welcoming, playful, homey",
+  "transition": "Messy state (Shots 01-04) → Tidy state (Shots 07-08)"
+}

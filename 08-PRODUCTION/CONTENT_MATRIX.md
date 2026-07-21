@@ -41,8 +41,8 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | BLD-EP04 | Kiko, Mimi | Central Square | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | BLD-EP05 | Kiko, Mimi | Central Square | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | BLD-EP06 | Kiko, Mimi, Sofia | Friendship Meadow | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| BLD-EP07 | Kiko, Mimi | Central Square | Brave Little Days | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
-| Opa's Storytime EP01 — The Little Cloud That Waited | Opa, Luca, Mimi | Learning Room — Reading Corner (indoor) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
+| BLD-EP07 | Kiko, Mimi | Mimi's Home Interior — Kitchen Nook | Brave Little Days | 🟢 | 🟢 | 🟢 | 🟠 | 🟠 | 🟠 |
+| Opa's Storytime EP01 — The Little Cloud That Waited | Opa, Luca, Mimi | Learning Room — Reading Corner (indoor) | Opa's Storytime \| Gentle Preschool Stories | 🟢 | 🟢 | 🟢 | 🟠 | 🟠 | 🟠 |
 | Opa's Storytime EP02 — The Little Seed That Listened | Opa, Kiko, Mimi | Kiko's Home — Reading Corner (indoor) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Opa's Storytime EP03 — The Star That Shared Its Light | Opa, Luca, Noah | Opa's Tree (night) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Opa's Storytime EP04 — The Sleepy Leaf | Opa, Kiko, Noah | Central Square — Outdoor Story Blanket (sunset) | Opa's Storytime \| Gentle Preschool Stories | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
@@ -118,22 +118,11 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 
 > Yeni içerik üretildikçe/yayınlandıkça satır ekleyin ve ilgili durum sütununu güncelleyin.
 > "Series / Playlist" sütunu, bölümün ait olduğu tekrarlayan alt-seri/playlist'i işaretler (bkz. `11-DOCS/02_SEASON_STRATEGY.md` § Recurring Sub-Series). Tek seferlik bölümler için "—" kullanın.
-> Opa's Storytime EP01-EP05 için package/metadata dosyaları mevcut, ancak `03_VIDEO_EXPORTS/`
-> altında render edilmiş video dosyası bulunmadığı için yayın formatları 🔴 bırakıldı.
-> Karakter tanıtım Reel'leri (Reel 1 / Reel 2 çiftleri) artık Global Wave Strategy'yi takip eder
-> (bkz. `11-DOCS/09_YOUTUBE_STRATEGY.md` → Channel Growth Decisions §8b; eski §8a 04:00/12:00 modeli
-> superseded). Reel 1 (ana tanıtım) bir ana dalgada yayınlanır — Avrupa/Afrika 09:00–11:00 UK veya
-> Amerika 14:00–17:00 UK; Reel 2 (kısa kesim / alternatif kapak) destekleyici Short/Reel olarak farklı
-> bir dalgada yayınlanır. Asya/Pasifik dalgası (01:00–03:00 UK) sadece story reshare / kısa repost /
-> karakter kartı gibi hafif içerik içindir. İki post arası 24–48 saat boşluk ve "aynısını tekrar
-> yükleme" kuralı geçerliliğini korur. Yayın saatleri ve kaynak dosya durumu için
-> `08-PRODUCTION/ASSET_TRACKER.md` §2a'ya bakın.
-> Event Campaign satırı için prompt paketi: `07-BRANDING/campaigns/pompom-hills-event/prompts.md`,
-> scene bazlı üretim durumu için `08-PRODUCTION/ASSET_TRACKER.md` §2b'ye bakın.
-> Intro Montage satırları için kaynak plan: `08-PRODUCTION/S01_INTRO_MONTAGE_AND_SEASON_LAUNCH_PLAN.md`.
+> Opa's Storytime EP01 için package/metadata dosyaları mevcut ve render edilmiş video dosyası mevcut (`03_VIDEO_EXPORTS/episode-complete-vertical.mp4`).
+> BLD-EP07 için tam video ve Facebook short'ları hazır (`EXPORTS/` altında).
+> Karakter tanıtım Reel'leri (Reel 1 / Reel 2 çiftleri) artık Global Wave Strategy'yi takip eder.
 > Full-cast rough cut `15-VIDEOS/intros/all-intros-combined.mp4` olarak diskte mevcut olduğu için
-> Long Video durumu 🟠 tutuldu. İkili/üçlü montajların kaynak footage'ı hazır, ancak export/kesim
-> dosyaları henüz üretilmediği için yayın formatları 🔴 bırakıldı.
+> Long Video durumu 🟠 tutuldu.
 
 ---
 
@@ -143,6 +132,44 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 |-------|-----------|-------|----------|-------|
 | 2026-07-14 | S01E04 | `03_VIDEO_EXPORTS/shorts/s01e04-short-1-mimi-yawns.mp4` | YouTube Shorts | 🟢 Yayınlandı |
 | 2026-07-14 | S01E05 | `04_SHORTS/short-02-yellow-flowers.mp4` | YouTube Shorts | 🟢 Yayınlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/shot-1-short/shot-1-final-short.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/shot-2-short/shot-2-final-short.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/shot-3-short/shot-3-final-short.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/shot-4-short/shot-4-final-short.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/shot-5-short/shot-5-final-short.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/shot-6-short/shot-6-final-short.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/shot-7-short/shot-7-final-short.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/shot-8-short/shot-8-final-short.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/facebook-shorts/01-reluctance.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/facebook-shorts/02-sparkle-game.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/facebook-shorts/03-discovery.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-20 | BLD-EP07 | `EXPORTS/facebook-shorts/04-habit.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-1-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-2-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-3-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-4-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-5-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-6-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-7-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-8-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-9-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-10-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-11-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-12-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-13-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-14-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-15-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-16-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-17-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-18-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-19-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/shot-shorts/shot-20-final.mp4` | YouTube Shorts | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/facebook-shorts/01-story-begins.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/facebook-shorts/02-little-cloud.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/facebook-shorts/03-waiting-helps.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/facebook-shorts/04-flowers-open.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/facebook-shorts/05-quiet-listening.mp4` | Facebook | 🟠 Hazırlandı |
+| 2026-07-22 | Opa's Storytime EP01 | `03_VIDEO_EXPORTS/facebook-shorts/06-goodbye.mp4` | Facebook | 🟠 Hazırlandı |
 
 ---
 

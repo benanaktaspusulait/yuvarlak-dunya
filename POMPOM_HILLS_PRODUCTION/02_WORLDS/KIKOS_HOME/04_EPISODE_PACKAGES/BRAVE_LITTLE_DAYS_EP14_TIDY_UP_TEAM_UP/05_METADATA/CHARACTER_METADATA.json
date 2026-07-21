@@ -1,0 +1,72 @@
+{
+  "characters": [
+    {
+      "name": "Kiko",
+      "role": "Main protagonist",
+      "species": "Human girl",
+      "appearance": {
+        "top": "Coral-pink",
+        "bottom": "White shorts",
+        "hair": "Brown pigtails"
+      },
+      "screen_position": "Screen-left",
+      "personality": ["Enthusiastic", "Can feel overwhelmed", "Learns to accept help"],
+      "arc_in_episode": "From overwhelmed to empowered through teamwork",
+      "lines": [
+        "There's too much! I can't do it all by myself!",
+        "I'll pick up the stuffed animals!",
+        "All done together!",
+        "We do it together!"
+      ],
+      "line_count": 4
+    },
+    {
+      "name": "Mimi",
+      "role": "Supportive friend",
+      "species": "Rabbit",
+      "appearance": {
+        "fur": "Soft-blue",
+        "top": "Yellow"
+      },
+      "personality": ["Helpful", "Cheerful", "Reliable"],
+      "arc_in_episode": "Steps in to help without being asked, shows quiet leadership",
+      "lines": [
+        "And I'll fold the blankets!",
+        "We did it together!",
+        "We do it together!"
+      ],
+      "line_count": 3
+    },
+    {
+      "name": "Opa",
+      "role": "Wise mentor",
+      "species": "Owl",
+      "appearance": {
+        "feathers": "Warm brown",
+        "accessories": "Glasses"
+      },
+      "personality": ["Wise", "Gentle", "Encouraging"],
+      "arc_in_episode": "Arrives to offer wisdom, keeps presence minimal",
+      "lines": [
+        "Many hands make light work!",
+        "We do it together!"
+      ],
+      "line_count": 2,
+      "max_lines_allowed": 2
+    }
+  ],
+  "character_interactions": [
+    {
+      "pair": ["Kiko", "Mimi"],
+      "dynamic": "Friends working side by side"
+    },
+    {
+      "pair": ["Kiko", "Opa"],
+      "dynamic": "Student learning from mentor"
+    },
+    {
+      "pair": ["Mimi", "Opa"],
+      "dynamic": "Mutual respect, shared wisdom"
+    }
+  ]
+}

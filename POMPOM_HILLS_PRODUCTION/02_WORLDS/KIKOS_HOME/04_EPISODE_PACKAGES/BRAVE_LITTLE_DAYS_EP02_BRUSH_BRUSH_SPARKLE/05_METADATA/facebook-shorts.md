@@ -7,40 +7,40 @@
 ### Facebook
 
 **Post:**
-🪥 "Fırçalamak istemiyorum..."
+🪥 "I don't want to brush..."
 
-Kiko bu gece çok uykulu. Diş fırçalamak en son istediği şey!
+Kiko is very sleepy tonight. Brushing teeth is the last thing he wants to do!
 
-Ama Mimi sabırlı ve nazik. Bakalım ne olacak? 🌸
+But Mimi is patient and gentle. Let's see what happens! 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 16 saniye
+👶 Ages 3-4 | 16 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #ÇocukÇizgiFilmi #Miniklerİçin #BrushBrushSparkle #GeceRutini
+#PompomHills #KidsAnimation #ToothBrushing #KidsCartoon #ForLittleOnes #BrushBrushSparkle #BedtimeRoutine
 
 ### Instagram Reels
 
 **Caption:**
-🪥 Kiko bu gece çok uykulu...
+🪥 Kiko is very sleepy tonight...
 
-"Diş fırçalamak istemiyorum" dediğinde ne olur? Mimi sabırla bekliyor 🌸
+What happens when he says "I don't want to brush"? Mimi waits patiently 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 16 saniye
+👶 Ages 3-4 | 16 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #ÇocukÇizgiFilmi #KikoAndMimi #PreschoolCartoon #GeceRutini #Miniklerİçin
+#PompomHills #KidsAnimation #ToothBrushing #KidsCartoon #KikoAndMimi #PreschoolCartoon #BedtimeRoutine #ForLittleOnes
 
 ### TikTok
 
 **Caption:**
-🪥 Kiko diş fırçalamak istemiyor! 😴
+🪥 Kiko doesn't want to brush his teeth! 😴
 
-"Çok uykuluyum" dediğinde ne olur dersiniz? Mimi sabırla bekliyor... 🌸
+What do you think happens when he says "I'm so sleepy"? Mimi waits patiently... 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 16 saniye
+👶 Ages 3-4 | 16 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #UykuluKiko #GeceRutini #ÇocukÇizgiFilmi #Miniklerİçin #BrushBrushSparkle
+#PompomHills #KidsAnimation #ToothBrushing #SleepyKiko #BedtimeRoutine #KidsCartoon #ForLittleOnes #BrushBrushSparkle
 
 ---
 
@@ -49,40 +49,40 @@ Ama Mimi sabırlı ve nazik. Bakalım ne olacak? 🌸
 ### Facebook
 
 **Post:**
-✨ "Parıltı oyunu oynayalım!"
+✨ "Let's play the Sparkle Game!"
 
-Kiko fırçalamak istemiyor ama Mimi eğlenceli bir fikirle geliyor: Parıltı Oyunu! ✨
+Kiko doesn't want to brush but Mimi comes up with a fun idea: The Sparkle Game! ✨
 
-Bazen yeni bir şeyi eğlenceli hale getirmek onu denemek için yeterli olur! 🌸
+Sometimes making something new fun is enough to give it a try! 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 15.7 saniye
+👶 Ages 3-4 | 15.7 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #ParıltıOyunu #ÇocukÇizgiFilmi #BrushBrushSparkle
+#PompomHills #KidsAnimation #ToothBrushing #SparkleGame #KidsCartoon #BrushBrushSparkle
 
 ### Instagram Reels
 
 **Caption:**
-✨ Parıltı Oyunu zamanı!
+✨ It's Sparkle Game time!
 
-Kiko fırçalamak istemiyor ama Mimi onu eğlenceli bir oyuna davet ediyor ✨
+Kiko doesn't want to brush but Mimi invites him to a fun game ✨
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 15.7 saniye
+👶 Ages 3-4 | 15.7 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #ParıltıOyunu #ÇocukÇizgiFilmi #KikoAndMimi #BrushBrushSparkle
+#PompomHills #KidsAnimation #ToothBrushing #SparkleGame #KidsCartoon #KikoAndMimi #BrushBrushSparkle
 
 ### TikTok
 
 **Caption:**
-✨ "Parıltı oyunu oynayalım!"
+✨ "Let's play the Sparkle Game!"
 
-Kiko fırçalamak istemiyor ama Mimi'nin eğlenceli fikri her şeyi değiştiriyor! ✨🌸
+Kiko doesn't want to brush but Mimi's fun idea changes everything! ✨🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 15.7 saniye
+👶 Ages 3-4 | 15.7 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #ParıltıOyunu #ÇocukÇizgiFilmi #BrushBrushSparkle #EğlenceliRutin
+#PompomHills #KidsAnimation #ToothBrushing #SparkleGame #KidsCartoon #BrushBrushSparkle #FunRoutine
 
 ---
 
@@ -91,42 +91,42 @@ Kiko fırçalamak istemiyor ama Mimi'nin eğlenceli fikri her şeyi değiştiriy
 ### Facebook
 
 **Post:**
-🪥✨ "Bu eğlenceli oluyor!"
+🪥✨ "This is actually fun!"
 
-Kiko fırçalamayı deniyor ve... şaşırıyor! Gerçekten eğlenceli oluyor! 🪥✨
+Kiko tries brushing and... is surprised! It's actually fun! 🪥✨
 
-Bazen denemeden önce "sevmiyorum" demek yerine küçük bir adım atmak gerekiyor! 🌸
+Sometimes instead of saying "I don't like it" before trying, you just need to take a small step! 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 19.8 saniye
+👶 Ages 3-4 | 19.8 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #Keşif #ÇocukÇizgiFilmi #BrushBrushSparkle #EğlenceliRutin
+#PompomHills #KidsAnimation #ToothBrushing #Discovery #KidsCartoon #BrushBrushSparkle #FunRoutine
 
 ### Instagram Reels
 
 **Caption:**
-🪥✨ Kiko fırçalamayı deniyor ve...
+🪥✨ Kiko tries brushing and...
 
-"Bu eğlenceli oluyor!" diyor! Şaşkın ve mutlu! 🌸
+"This is actually fun!" he says! Surprised and happy! 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 19.8 saniye
+👶 Ages 3-4 | 19.8 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #Keşif #ÇocukÇizgiFilmi #KikoAndMimi #BrushBrushSparkle
+#PompomHills #KidsAnimation #ToothBrushing #Discovery #KidsCartoon #KikoAndMimi #BrushBrushSparkle
 
 ### TikTok
 
 **Caption:**
-🪥✨ Kiko fırçalamayı deniyor!
+🪥✨ Kiko tries brushing!
 
-"Bu eğlenceli oluyor!" 😍 Şaşkın ve mutlu yüz ifadesine bakın!
+"This is actually fun!" 😍 Look at his surprised and happy face!
 
-Bazen küçük bir adım büyük bir keşfe dönüşebilir! 🌸
+Sometimes a small step can turn into a big discovery! 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 19.8 saniye
+👶 Ages 3-4 | 19.8 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #Keşif #ÇocukÇizgiFilmi #BrushBrushSparkle #EğlenceliRutin
+#PompomHills #KidsAnimation #ToothBrushing #Discovery #KidsCartoon #BrushBrushSparkle #FunRoutine
 
 ---
 
@@ -135,42 +135,42 @@ Bazen küçük bir adım büyük bir keşfe dönüşebilir! 🌸
 ### Facebook
 
 **Post:**
-🪥✨ "Her gün yapabilirim!"
+🪥✨ "I can do it every day!"
 
-Kiko diş fırçalamanın aslında eğlenceli olabileceğini keşfetti! Artık her gün yapabileceğine inanıyor! 🪥✨
+Kiko discovered that brushing teeth can actually be fun! Now he believes he can do it every day! 🪥✨
 
-Küçük adımlar büyük alışkanlıklara dönüşebilir! 🌸
+Small steps can turn into big habits! 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 15.7 saniye
+👶 Ages 3-4 | 15.7 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #Alışkanlık #ÇocukÇizgiFilmi #BrushBrushSparkle #GüzelGece
+#PompomHills #KidsAnimation #ToothBrushing #Habit #KidsCartoon #BrushBrushSparkle #GoodNight
 
 ### Instagram Reels
 
 **Caption:**
-🪥✨ "Her gün yapabilirim!"
+🪥✨ "I can do it every day!"
 
-Kiko artık diş fırçalamayı seviyor! Mimi'ye iyi geceler diyor 🌸
+Kiko loves brushing teeth now! He says goodnight to Mimi 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 15.7 saniye
+👶 Ages 3-4 | 15.7 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #Alışkanlık #ÇocukÇizgiFilmi #KikoAndMimi #BrushBrushSparkle
+#PompomHills #KidsAnimation #ToothBrushing #Habit #KidsCartoon #KikoAndMimi #BrushBrushSparkle
 
 ### TikTok
 
 **Caption:**
-🪥✨ "Her gün yapabilirim!"
+🪥✨ "I can do it every day!"
 
-Kiko artık diş fırçalamayı seviyor! 🌸 "Iyi geceler, mutlu gülümseme!"
+Kiko loves brushing teeth now! 🌸 "Goodnight, happy smile!"
 
-Küçük adımlar büyük alışkanlıklara dönüşür! ✨
+Small steps turn into big habits! ✨
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 15.7 saniye
+👶 Ages 3-4 | 15.7 seconds
 
-#PompomHills #KidsAnimation #DişFırçalama #Alışkanlık #ÇocukÇizgiFilmi #BrushBrushSparkle #GüzelGece
+#PompomHills #KidsAnimation #ToothBrushing #Habit #KidsCartoon #BrushBrushSparkle #GoodNight
 
 ---
 
@@ -179,71 +179,71 @@ Küçük adımlar büyük alışkanlıklara dönüşür! ✨
 ### YouTube
 
 **Title:**
-Kiko Diş Fırçalamayı Öğreniyor! 🪥✨ | Brush Brush Sparkle | Pompom Hills
+Kiko Learns to Brush His Teeth! 🪥✨ | Brush Brush Sparkle | Pompom Hills
 
 **Description:**
-🪥 Kiko bu gece çok uykulu ve diş fırçalamak istemiyor...
+🪥 Kiko is very sleepy tonight and doesn't want to brush his teeth...
 
-Ama Mimi sabırla ve nazikçe ona "Parıltı Oyunu" öneriyor! ✨
+But Mimi patiently suggests the "Sparkle Game"! ✨
 
-Kiko fırçalamayı deniyor ve... şaşırıyor! Gerçekten eğlenceli oluyor! 🪥✨
+Kiko tries brushing and... is surprised! It's actually fun! 🪥✨
 
-Bölüm sonunda Kiko "Her gün yapabilirim!" diyor! 🌸
+By the end of the episode, Kiko says "I can do it every day!" 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 2 dakika
+👶 Ages 3-4 | 2 minutes
 
-#PompomHills #KidsAnimation #DişFırçalama #ÇocukÇizgiFilmi #BrushBrushSparkle #GeceRutini #Alışkanlık
+#PompomHills #KidsAnimation #ToothBrushing #KidsCartoon #BrushBrushSparkle #BedtimeRoutine #Habit
 
 **Tags:**
-pompom hills, kids animation, preschool cartoon, diş fırçalama, tooth brushing, kids routine, bedtime routine, preschool learning, gentle learning, kiko and mimi, brush brush sparkle,healthy habits, kids education, toddler cartoon, children cartoon
+pompom hills, kids animation, preschool cartoon, tooth brushing, kids routine, bedtime routine, preschool learning, gentle learning, kiko and mimi, brush brush sparkle, healthy habits, kids education, toddler cartoon, children cartoon
 
 ---
 
 ### Facebook
 
 **Post:**
-🪥✨ Kiko diş fırçalamayı öğreniyor!
+🪥✨ Kiko learns to brush his teeth!
 
-Bu gece Kiko çok uykulu ve diş fırçalamak istemiyor. Ama Mimi sabırla "Parıltı Oyunu" öneriyor! ✨
+Tonight Kiko is very sleepy and doesn't want to brush. But Mimi patiently suggests the "Sparkle Game"! ✨
 
-Kiko fırçalamayı deniyor ve... şaşırıyor! Gerçekten eğlenceli oluyor! 🪥✨
+Kiko tries brushing and... is surprised! It's actually fun! 🪥✨
 
-Bölüm sonunda Kiko "Her gün yapabilirim!" diyor! 🌸
+By the end of the episode, Kiko says "I can do it every day!" 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 2 dakika
+👶 Ages 3-4 | 2 minutes
 
-#PompomHills #KidsAnimation #DişFırçalama #ÇocukÇizgiFilmi #BrushBrushSparkle #GeceRutini
+#PompomHills #KidsAnimation #ToothBrushing #KidsCartoon #BrushBrushSparkle #BedtimeRoutine
 
 ---
 
 ### Instagram
 
 **Caption:**
-🪥✨ Kiko diş fırçalamayı öğreniyor!
+🪥✨ Kiko learns to brush his teeth!
 
-Bu gece çok uykulu ama Mimi onu "Parıltı Oyunu" ile ikna ediyor! ✨
+He's very sleepy tonight but Mimi wins him over with the "Sparkle Game"! ✨
 
-"Her gün yapabilirim!" 🌸
+"I can do it every day!" 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 2 dakika
+👶 Ages 3-4 | 2 minutes
 
-#PompomHills #KidsAnimation #DişFırçalama #ÇocukÇizgiFilmi #KikoAndMimi #BrushBrushSparkle #GeceRutini #Alışkanlık #Miniklerİçin
+#PompomHills #KidsAnimation #ToothBrushing #KidsCartoon #KikoAndMimi #BrushBrushSparkle #BedtimeRoutine #Habit #ForLittleOnes
 
 ---
 
 ### TikTok
 
 **Caption:**
-🪥✨ Kiko diş fırçalamayı öğreniyor!
+🪥✨ Kiko learns to brush his teeth!
 
-Çok uykulu ama Mimi'nin "Parıltı Oyunu" her şeyi değiştiriyor! ✨
+So sleepy but Mimi's "Sparkle Game" changes everything! ✨
 
-"Her gün yapabilirim!" 🌸
+"I can do it every day!" 🌸
 
 🌸 Brush Brush Sparkle | Pompom Hills
-👶 3-4 yaş | 2 dakika
+👶 Ages 3-4 | 2 minutes
 
-#PompomHills #KidsAnimation #DişFırçalama #ÇocukÇizgiFilmi #BrushBrushSparkle #GeceRutini #Alışkanlık #EğlenceliRutin
+#PompomHills #KidsAnimation #ToothBrushing #KidsCartoon #BrushBrushSparkle #BedtimeRoutine #Habit #FunRoutine
