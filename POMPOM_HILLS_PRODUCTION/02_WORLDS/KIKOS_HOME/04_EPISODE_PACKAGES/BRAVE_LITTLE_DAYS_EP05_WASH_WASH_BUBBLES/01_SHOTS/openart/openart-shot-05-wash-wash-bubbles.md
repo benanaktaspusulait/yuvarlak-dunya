@@ -7,7 +7,7 @@
 - Duration: 15 seconds
 - Continuity Mode: Block Continuation
 - Block: B
-- Lens: 40mm
+- Lens: 32mm
 - Camera Height: 0.75m
 - Aspect Ratio: 16:9
 - Target Resolution: 1920x1080
@@ -16,22 +16,21 @@
 
 ## Reference Upload Map
 
-- @image1: Shot 04 approved final frame
-- @image2: Canonical Kiko character reference
-- @image3: Canonical Mimi character reference
+- @image5: Shot 04 approved final frame
 
 ---
 
 ## Hard Gate Before Generation
 
-- [ ] @image1 is the approved Shot 04 final frame
-- [ ] Washing Corner locked (sink, soap, towel, mirror)
+- [ ] @image5 is the approved Shot 04 final frame
+- [ ] Washing Corner locked (sink, soap pump, towel, mirror)
 - [ ] Kiko screen-left, Mimi screen-right
 - [ ] Both characters with open eyes, mouths closed
 - [ ] Tap is off
 - [ ] Kiko's hands are lightly soapy
 - [ ] Towel is still hanging
 - [ ] No rinsing has begun
+- [ ] Kiko's hands remain over the sink throughout
 
 ---
 
@@ -39,106 +38,112 @@
 
 MANDATORY SPOKEN DIALOGUE. Generate every line below clearly in English using the manually selected canonical character voices. Every quoted line is compulsory and must be spoken at the specified time. No omitted, shortened, combined, reordered or paraphrased lines. Never replace speech with silence, staring, ambience, sound effects or music.
 
-Dialogue-priority generated audio. No music, birds, outdoor ambience, melody, song or soundtrack. Quiet motivated Foley only. Dialogue must remain clear and dominant.
+Dialogue-priority generated audio. Very soft indoor room tone only; no water, music or birds. Gentle hand-rubbing Foley only. Dialogue must remain clear and dominant.
 
-Washing Corner in Kiko's Home. Warm daytime. @image1 is the only visual authority. One continuous unbroken 15-second single take.
+Washing Corner in Kiko's Home. Warm daytime. @image5 is the only visual authority. One continuous unbroken 15-second single take.
 
 0.5–2.0 Kiko (KIKO voice) says clearly: "Wash, wash, bubbles!"
-At frame one, the tap is off. Kiko rubs her soapy hands above the sink while the tap remains off. Kiko's two hands are clearly attached to Kiko. Mimi demonstrates beside Kiko, her hands outside the sink basin, never crossing in front of Kiko's arms or touching Kiko's hands.
+Kiko rubs her soapy palms together above the sink. Tap remains off. Kiko's hands are clearly attached to Kiko. Mimi watches beside Kiko, her hands outside the sink basin.
 
-2.5–4.5 Mimi (MIMI voice) says clearly: "Great job, Kiko!"
-Mimi gives one small encouraging nod. Kiko looks at her soapy hands with delight.
+2.5–4.0 Mimi (MIMI voice) says clearly: "Now the backs of your hands."
+Mimi demonstrates by rubbing the back of one paw with the other. Kiko watches.
 
-5.0–6.5 Kiko (KIKO voice) says clearly: "In between too!"
-Kiko carefully rubs between her fingers, palms, and backs of hands. Each pair of hands remains clearly identifiable.
+4.5–6.0 Kiko (KIKO voice) says clearly: "Like this?"
+Kiko turns one hand over and rubs the back with her other palm. Hands stay over the sink.
 
-7.0–9.0 Mimi (MIMI voice) says clearly: "You're doing it perfectly!"
-Mimi nods encouragingly. Kiko continues the rubbing rhythm with focus.
+6.5–8.0 Mimi (MIMI voice) says clearly: "Yes! Now between your fingers."
+Mimi briefly spreads her own fingers at chest height, keeping both paws outside the sink. Kiko watches without moving her hands across Mimi.
 
-9.5–11.0 Kiko (KIKO voice) says clearly: "Look how bubbly!"
-Kiko holds up her soapy hands, showing the soft bubbles. Mimi smiles warmly.
+8.5–10.0 Kiko (KIKO voice) says clearly: "Between my fingers!"
+Kiko interlaces her fingers and rubs gently. Hands remain over the sink.
 
-11.5–13.0 Mimi (MIMI voice) says clearly: "Keep going, you're doing great!"
-Mimi gives one encouraging nod. Kiko rubs with happy determination.
+10.5–12.0 Mimi (MIMI voice) says clearly: "You're doing great!"
+Mimi nods encouragingly. Kiko continues rubbing with happy focus.
 
-13.0–13.8 Kiko (KIKO voice) says clearly: "Almost done!"
-Kiko gives a final few rubs, proud of her effort.
+12.5–14.0 Kiko (KIKO voice) says clearly: "Look at all the bubbles!"
+Kiko holds her soapy hands over the sink, showing the bubbles. She must not lift them away from the sink.
 
-13.8–15.0 ACTION ONLY:
-Kiko completes the final rubbing motion and holds her lightly soapy hands clearly above the sink. Mimi completes one small closed-mouth nod. Tap remains off. Towel remains hanging. End with open eyes and closed mouths.
+14.0–15.0 ACTION ONLY:
+Kiko completes one final gentle rub. Mimi gives one small closed-mouth nod. Tap remains off. Towel remains hanging. End with hands lightly soapy over the sink, eyes open, mouths closed.
 
-Camera: 40mm medium, stable and calm. No fast motion. Medium composition showing clear arm and body ownership.
+Camera: 32mm stable medium two-shot at child eye level. No zoom, pan, angle jump or character side swap.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
 ---
 
-## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~867 chars)
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~779 chars)
 
-867 characters
-
-15s single take. @image1 only: locked Washing Corner, Kiko left, Mimi right, tap OFF, towel hanging, Kiko’s hands lightly soapy. Use manually selected Kiko/Mimi voices. Speak every line exactly; omit or paraphrase none:
-0.5 Kiko: "Wash, wash, bubbles!"
-2.5 Mimi: "Great job, Kiko!"
-5.0 Kiko: "In between too!"
-7.0 Mimi: "You're doing it perfectly!"
-9.5 Kiko: "Look how bubbly!"
-11.5 Mimi: "Keep going, you're doing great!"
-13.0 Kiko: "Almost done!"
-Kiko rubs palms, backs and between fingers above the sink. Her hands remain clearly attached; Mimi’s hands stay outside the basin and never cross Kiko’s arms. 13.8–15.0 action only: Kiko finishes rubbing; Mimi nods once. End hands lightly soapy, tap off, towel hanging, eyes open, mouths closed. Dialogue dominant; no water, music, birds or ambience. Stable 40mm camera. No text, captions, subtitles or speech bubbles.
+15s single take. @image5: locked Washing Corner; Kiko left, Mimi right; tap off, towel hanging; Kiko's hands lightly soapy over sink. Manual voices. Speak every line exactly; omit none:
+0.5 Kiko: "Wash, wash, bubbles!" Rubs palms above sink.
+2.5 Mimi: "Now the backs of your hands." Demonstrates.
+4.5 Kiko: "Like this?" Rubs back of hand over sink.
+6.5 Mimi: "Yes! Now between your fingers." Spreads fingers at chest height.
+8.5 Kiko: "Between my fingers!" Interlaces and rubs gently.
+10.5 Mimi: "You're doing great!" Nods.
+12.5 Kiko: "Look at all the bubbles!" Shows bubbles over sink.
+14.0–15.0: Kiko rubs once; Mimi nods. Tap off, hands soapy over sink, towel hanging, eyes open, mouths closed. Very soft indoor room tone only; no water, music or birds. 32mm camera. No text.
 
 ## Dialogue Timing Reference
 
 | Time | Speaker | Line |
 |------|---------|------|
 | 0.5–2.0 | Kiko | "Wash, wash, bubbles!" |
-| 2.5–4.5 | Mimi | "Great job, Kiko!" |
-| 5.0–6.5 | Kiko | "In between too!" |
-| 7.0–9.0 | Mimi | "You're doing it perfectly!" |
-| 9.5–11.0 | Kiko | "Look how bubbly!" |
-| 11.5–13.0 | Mimi | "Keep going, you're doing great!" |
-| 13.0–13.8 | Kiko | "Almost done!" |
-| 13.8–15.0 | ACTION | Kiko completes rubbing; Mimi nods; both settle |
+| 2.5–4.0 | Mimi | "Now the backs of your hands." |
+| 4.5–6.0 | Kiko | "Like this?" |
+| 6.5–8.0 | Mimi | "Yes! Now between your fingers." |
+| 8.5–10.0 | Kiko | "Between my fingers!" |
+| 10.5–12.0 | Mimi | "You're doing great!" |
+| 12.5–14.0 | Kiko | "Look at all the bubbles!" |
+| 14.0–15.0 | ACTION | Kiko rubs once; Mimi nods; end state |
 
-Total spoken words: ~34
+Total spoken lines: 7
+Total spoken words: approximately 32
 
 ---
 
 ## Prop and Continuity Lock
 
-- @image1: Shot 04 final frame
-- Kiko: screen-left, soapy hands
-- Mimi: screen-right, demonstrating
-- Sink, soap, towel, mirror: locked from Shot 04
+- @image5: Shot 04 final frame
+- Kiko: screen-left, soapy hands over sink throughout
+- Mimi: screen-right, demonstrating, hands outside sink basin
+- Sink, soap pump, towel, mirror: locked from Shot 04
 - Bubbles: soft, gentle, no foam everywhere
+- Tap remains off throughout
+- No rinsing yet
 
 ---
 
 ## Audio and Voice Lock
 
-- Kiko: Canonical saved Kiko voice — playful, rhythmic
-- Mimi: Canonical saved Mimi voice — encouraging, joining in
+- Kiko: Canonical saved Kiko voice — playful, discovering
+- Mimi: Canonical saved Mimi voice — teaching, encouraging
 - Auto Voice: Off, Generated Dialogue: On, Generated Audio: On, Music: Off
-- Quiet motivated Foley: soft hand-rubbing, very gentle bubble sounds
-- Dialogue-priority audio. No music, birds, outdoor ambience.
-- Voices must be selected manually in the OpenArt interface.
+- Very soft indoor room tone only; no water, music or birds
+- Gentle hand-rubbing Foley only
+- Voices must be selected manually in the OpenArt interface
 
 ---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, extra arms, extra hands, extra fingers, fused hands, floating hands, detached hands, character identity drift, character size drift, side swapping, prop duplication, new props, teleportation, camera jump, sudden zoom, fast movement, frozen characters, static talking pose, silent staring, omitted dialogue, paraphrased dialogue, wrong speaker, voice swapping, simultaneous lip movement, music, song, melody, soundtrack, birds, outdoor ambience, captions, subtitles, speech bubbles, on-screen text, watermark, HDR, glossy plastic, excessive contrast, excessive saturation, excessive sharpness, harsh shadows, orange shift, green tint, blue tint, photorealism, horror, foam everywhere, splashing chaos, flooded floor, cold metal sink
+low quality, blurry, deformed, extra limbs, extra arms, extra hands, extra fingers, fused hands, floating hands, detached hands, character identity drift, character size drift, side swapping, prop duplication, new props, teleportation, camera jump, sudden zoom, fast movement, frozen characters, static talking pose, silent staring, omitted dialogue, paraphrased dialogue, wrong speaker, voice swapping, simultaneous lip movement, music, song, melody, soundtrack, birds, outdoor ambience, captions, subtitles, speech bubbles, on-screen text, watermark, HDR, glossy plastic, excessive contrast, excessive saturation, excessive sharpness, harsh shadows, orange shift, green tint, blue tint, photorealism, horror, foam everywhere, splashing chaos, flooded floor, cold metal sink, hands lifted away from sink
 
 ---
 
 ## Final QA Checklist
 
-- [ ] @image1 is Shot 04 final frame
+- [ ] @image5 is Shot 04 final frame
+- [ ] Block B, 32mm lens
+- [ ] Video Reference Upload Map has only @image5
 - [ ] Washing Corner locked
-- [ ] "Wash, wash, bubbles!" phrase correctly delivered
+- [ ] Kiko's hands remain over sink throughout
+- [ ] Three washing steps shown: palms, backs, between fingers (correct order)
 - [ ] Each character's hands visually identifiable (no fused hands)
 - [ ] Bubbles soft and gentle
 - [ ] All 7 dialogue lines spoken
-- [ ] No on-screen text, no music
-- [ ] Stable camera
+- [ ] Very soft indoor room tone, no water, music or birds
+- [ ] No on-screen text
+- [ ] Stable camera, no zoom or pan
 - [ ] Eyes open first and final frames
+- [ ] Tap off throughout

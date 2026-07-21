@@ -7,7 +7,7 @@
 - Duration: 15 seconds
 - Continuity Mode: Block Continuation
 - Block: C
-- Lens: 32mm
+- Lens: 45mm
 - Camera Height: 0.75m
 - Aspect Ratio: 16:9
 - Target Resolution: 1920x1080
@@ -16,15 +16,13 @@
 
 ## Reference Upload Map
 
-- @image1: Shot 07 approved final frame
-- @image2: Canonical Kiko character reference
-- @image3: Canonical Mimi character reference
+- @image5: Shot 07 approved final frame
 
 ---
 
 ## Hard Gate Before Generation
 
-- [ ] @image1 is the approved Shot 07 final frame
+- [ ] @image5 is the approved Shot 07 final frame
 - [ ] Kiko screen-left, Mimi screen-right
 - [ ] Intact apple in Kiko's hands
 - [ ] Both characters with open eyes, mouths closed
@@ -36,12 +34,12 @@
 
 MANDATORY SPOKEN DIALOGUE. Generate every line below clearly in English using the manually selected canonical character voices. Every quoted line is compulsory and must be spoken at the specified time. No omitted, shortened, combined, reordered or paraphrased lines. Never replace speech with silence, staring, ambience, sound effects or music.
 
-Dialogue-priority generated audio. No music, birds, outdoor ambience, melody, song or soundtrack. Quiet motivated Foley only. Dialogue must remain clear and dominant.
+Dialogue-priority generated audio. Very soft indoor room tone throughout; quiet bite and gentle chewing Foley only. No music or birds. Dialogue must remain clear and dominant.
 
-Kiko's Home living space. Warm daytime. @image1 is the only visual authority. One continuous unbroken 15-second single take.
+Kiko's Home living space. Warm daytime. @image5 is the only visual authority. One continuous unbroken 15-second single take.
 
 0.4–1.4 Kiko (KIKO voice) says clearly: "Here I go!"
-Kiko holds the intact apple steadily. Mimi watches with a warm closed-mouth smile.
+Kiko begins screen-left holding the intact red apple securely with both clean, dry hands, exactly as in @image5. Mimi watches with a warm closed-mouth smile.
 
 1.4–2.3 ACTION ONLY — NO SPEECH:
 Kiko raises the apple and takes one small bite. This is the story's first and only apple bite.
@@ -62,38 +60,37 @@ Only Kiko's speaking mouth moves. No second bite.
 Mimi gives one small approving nod.
 
 11.6–12.9 Kiko (KIKO voice) says clearly: "Best apple ever!"
-Kiko holds the apple steadily in one hand. No bite, no chewing and no large movement.
+Kiko holds the bitten apple steadily with both hands. No bite, no chewing and no large movement.
 
-13.0–13.6 ACTION ONLY:
-Mimi completes one small closed-mouth nod.
+13.0–13.7 ACTION ONLY:
+Mimi gives one small completed wave. Kiko holds the bitten apple steadily with both hands.
 
-13.6–14.3 ACTION ONLY:
-Kiko gives one small completed wave using only the empty hand. The apple remains steady in the other hand.
+13.7–14.4 ACTION ONLY:
+Mimi lowers her waving paw completely.
 
-14.3–15.0 ACTION ONLY:
-Kiko lowers the waving hand to a natural resting position. Both characters settle with eyes open and mouths closed.
+14.4–15.0 ACTION ONLY:
+Both settle; Kiko holds the apple with both hands. Eyes open, mouths closed.
 
-Camera: 32mm stable medium, end-screen-safe hold. No fade. No mid-wave final frame.
+Camera: 45mm stable medium, end-screen-safe hold. No fade. No mid-wave final frame.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
 ---
 
-## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~842 chars)
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~777 chars)
 
-842 characters
-
-15s single take. @image1 only: Kiko left holding the intact red apple in one clean hand, Mimi right, background locked. Exactly ONE bite; Mimi never touches the apple. Use manually selected Kiko/Mimi voices. Speak every line exactly:
+15s single take. @image5 only: Kiko left holding intact red apple with both clean dry hands, Mimi right. Exactly ONE bite; Mimi never touches apple. Manual voices. Speak every line exactly:
 0.4 Kiko: "Here I go!"
-1.4–2.3 action only: Kiko takes the only small bite.
-2.3–4.4 action only: mouth closed, chew slowly, swallow; Mimi nods. No speech.
+1.4–2.3 action: Kiko takes the only small bite.
+2.3–4.4 action: mouth closed, chew, swallow; Mimi nods.
 4.6 Kiko: "Mmm, yummy!"
 6.2 Mimi: "Clean hands first!"
 8.0 Kiko: "Wash, wash, bubbles!"
 10.0 Mimi: "That's right!"
 11.6 Kiko: "Best apple ever!"
-13.6–14.3 action only: Kiko waves once with the empty hand.
-14.3–15.0 action only: lower hand and settle. End apple steady, no second bite, eyes open, mouths closed, no fade or mid-wave frame. Dialogue dominant; no music, birds or ambience. Stable 32mm camera. No text, captions, subtitles or speech bubbles.
+13.0–13.7 action: Mimi waves; Kiko holds apple with both hands.
+13.7–14.4 action: Mimi lowers paw.
+14.4–15.0 action: Both settle; Kiko holds apple with both hands. Eyes open, mouths closed. Very soft indoor room tone; quiet bite and chewing Foley only. No music or birds. 45mm camera. No text, captions, subtitles.
 
 ## Dialogue Timing Reference
 
@@ -107,9 +104,9 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 | 8.0–9.6 | Kiko | "Wash, wash, bubbles!" |
 | 10.0–11.2 | Mimi | "That's right!" |
 | 11.6–12.9 | Kiko | "Best apple ever!" |
-| 13.0–13.6 | ACTION | Mimi nods |
-| 13.6–14.3 | ACTION | Kiko waves |
-| 14.3–15.0 | ACTION | Both settle |
+| 13.0–13.7 | ACTION | Mimi waves; Kiko holds apple |
+| 13.7–14.4 | ACTION | Mimi lowers paw |
+| 14.4–15.0 | ACTION | Both settle |
 
 Total spoken lines: 6
 Total spoken words: ~16
@@ -118,15 +115,15 @@ Total spoken words: ~16
 
 ## Prop and Continuity Lock
 
-- @image1: Shot 07 final frame
-- Kiko: screen-left, clean hands, holds intact apple in one hand
+- @image5: Shot 07 final frame
+- Kiko: screen-left with clean, dry hands; holds the intact apple with both hands initially, then holds the once-bitten apple with both hands for the remainder of the shot
 - Mimi: screen-right, warm and proud
 - Apple: intact, receives exactly one small bite in this shot (first and only bite)
 - Kiko chews silently with mouth closed
 - Kiko visibly swallows before speaking again
 - No second bite
 - Mimi never touches or bites the apple
-- For final wave: Kiko uses empty hand only, one small completed wave, lowers hand before final frame
+- For the final wave, Mimi alone gives one small completed wave and lowers her paw fully; Kiko continuously holds the bitten apple with both hands
 - No mid-wave final frame, no fade
 
 ---
@@ -136,8 +133,7 @@ Total spoken words: ~16
 - Kiko: Canonical saved Kiko voice — happy, lesson learned
 - Mimi: Canonical saved Mimi voice — warm, proud
 - Auto Voice: Off, Generated Dialogue: On, Generated Audio: On, Music: Off
-- Quiet motivated Foley: one apple bite, gentle chewing
-- Dialogue-priority audio. No music, birds, outdoor ambience.
+- Very soft indoor room tone throughout; quiet bite and gentle chewing Foley only. No music or birds.
 - Voices must be selected manually in the OpenArt interface.
 
 ---
@@ -150,17 +146,17 @@ low quality, blurry, deformed, extra limbs, extra arms, extra hands, extra finge
 
 ## Final QA Checklist
 
-- [ ] @image1 is Shot 07 final frame
+- [ ] @image5 is Shot 07 final frame
 - [ ] Exactly one bite in the entire shot
 - [ ] Kiko chews silently, swallows before speaking again
 - [ ] No second bite
 - [ ] "Wash, wash, bubbles!" phrase echoed correctly
 - [ ] Kiko's lesson learned through joy (not preaching)
-- [ ] Wave uses empty hand only, one small completed wave
-- [ ] Waving hand lowered before final frame
+- [ ] Mimi waves, not Kiko; Kiko holds apple with both hands
+- [ ] No hand-to-hand apple transfer
 - [ ] No mid-wave final frame
 - [ ] All dialogue lines spoken
 - [ ] No on-screen text, no music, no fade
-- [ ] Stable camera, end-screen-safe hold
+- [ ] Stable 45mm camera, end-screen-safe hold
 - [ ] Eyes open first and final frames
 - [ ] Mimi never touches the apple

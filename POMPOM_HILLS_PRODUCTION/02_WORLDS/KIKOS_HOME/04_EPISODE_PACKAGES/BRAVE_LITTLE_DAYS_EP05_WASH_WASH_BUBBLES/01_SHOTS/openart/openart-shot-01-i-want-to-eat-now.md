@@ -11,20 +11,18 @@
 - Camera Height: 0.75m
 - Aspect Ratio: 16:9
 - Target Resolution: 1920x1080
-- Previous Video Reference: NONE (after opening bumper)
+- Previous Video Reference: NONE — Fresh Episode Opening
 - Next Continuity Target: Shot 02
 
 ## Take Shot Reference Upload Map
 
-- @image1: Canonical Kiko's Home Interior — Living Space environment
-- @image2: Canonical Kiko character reference (coral-pink shirt, brown pigtails)
-- @image3: Canonical Mimi character reference (soft-blue rabbit, yellow T-shirt)
+- @image5: Canonical Kiko's Home Interior — Living Space environment
+- @kiko: Canonical Kiko character reference (coral-pink shirt, brown pigtails, large round eyes, small nose, coral blush cheeks, child proportions)
+- @image4: Canonical Mimi character reference (soft-blue rabbit, yellow T-shirt)
 
 ## Video Reference Upload Map
 
-- @image1: Approved Shot 01 Living Space Take Shot
-- @image2: Canonical Kiko character reference
-- @image3: Canonical Mimi character reference
+- @image5: Approved Shot 01 Take Shot
 
 ---
 
@@ -39,9 +37,9 @@ Do not generate unless the OpenArt interface visibly confirms:
 - [ ] Generated Audio is On
 - [ ] Auto Voice is Off
 - [ ] Music is Off
-- [ ] @image1 shows the canonical Living Space
-- [ ] @image1 shows both characters with open eyes
-- [ ] @image1 shows both mouths closed
+- [ ] @image5 shows the canonical Living Space
+- [ ] @image5 shows both characters with open eyes
+- [ ] @image5 shows both mouths closed
 - [ ] Kiko is screen-left
 - [ ] Mimi is already visible screen-right
 - [ ] Red apple is on the centre area of the table
@@ -77,14 +75,14 @@ MANDATORY SPOKEN DIALOGUE. Generate every line below clearly in English using th
 
 Dialogue-priority generated audio. No music, birds, outdoor ambience, melody, song or soundtrack. Very soft hand or clothing movement Foley only. Dialogue must remain clear and dominant.
 
-@image1 is the only visual authority. One continuous unbroken 15-second single take. Frame 1 must match @image1 exactly.
+@image5 is the only visual authority. One continuous unbroken 15-second single take. Frame 1 must match @image5 exactly.
 
-Begin exactly from @image1. Kiko and Mimi are already visible in their locked positions. Kiko continues the small reaching movement already prepared in the anchor. Do not create an entrance, doorway action, character pop-in or location transition.
+Begin exactly from @image5. Kiko and Mimi are already visible in their locked positions. Kiko continues the small reaching movement already prepared in the anchor. Do not create an entrance, doorway action, character pop-in or location transition.
 
 Premium soft stylised 3D preschool animation. Kiko's rounded pink-and-white toy cottage, warm daytime golden light. Kiko (coral pink shirt, brown pigtails) stands screen-left beside the round table, one hand reaching toward a round red apple. Mimi (soft blue rabbit, yellow T-shirt) watches from screen-right, noticing Kiko's lightly grassy hands. Soft pastel colours, warm light, rounded soft shapes, matte handcrafted materials, medium-low contrast, gentle sharpness, warm balanced brightness. Interior locked from the first frame; keep the table, window and rug stable.
 
 0.5–2.0 Kiko (KIKO voice) says clearly: "I want to eat now!"
-Kiko continues the small one-hand reaching movement prepared in @image1. Her other lightly grassy hand remains naturally visible beside her body. Her expression is hungry and eager. Mimi watches from screen-right.
+Kiko continues the small one-hand reaching movement prepared in @image5. Her other lightly grassy hand remains naturally visible beside her body. Her expression is hungry and eager. Mimi watches from screen-right.
 
 2.5–4.5 Mimi (MIMI voice) says clearly: "Wait! Look at your hands!"
 Mimi hops closer, pointing gently at Kiko's lightly grassy hands. Kiko stops reaching and looks down at her hands.
@@ -101,10 +99,10 @@ Kiko turns her palms up, examining the light grass on her fingers. Mild surprise
 11.5–13.5 Mimi (MIMI voice) says clearly: "We need to wash them first."
 Mimi nods gently, warm and supportive. Kiko looks at the apple, then back at her hands.
 
-13.5–14.2 Kiko (KIKO voice) says clearly:
+13.5–14.5 Kiko (KIKO voice) says clearly:
 "Wash first?"
 
-14.2–15.0 ACTION ONLY:
+14.5–15.0 ACTION ONLY:
 Kiko closes her mouth, lowers her reaching hand slightly and looks at Mimi with mild curiosity. Mimi completes one small closed-mouth nod. End with both characters’ eyes open and mouths closed.
 
 Camera: 32mm wide establishing shot settling to medium two-shot at child eye level. Stable settle only. No whip pan, no sudden zoom, no angle jump.
@@ -113,11 +111,9 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 
 ---
 
-## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~809 chars)
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~697 chars)
 
-809 characters
-
-15s single take. @image1 only: Kiko screen-left, Mimi screen-right, one intact red apple centred on the locked living-space table. Kiko’s hands are lightly grassy; do not show the Washing Corner. Use the manually selected Kiko/Mimi voices. Speak every line exactly; omit or paraphrase none:
+15s single take. @image5 only: Kiko screen-left, Mimi screen-right, red apple on table. Kiko’s hands lightly grassy; no Washing Corner. Manual Kiko/Mimi voices. Speak every line exactly; omit none:
 0.5 Kiko: "I want to eat now!"
 2.5 Mimi: "Wait! Look at your hands!"
 5.0 Kiko: "But I'm hungry!"
@@ -125,7 +121,7 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 9.5 Kiko: "Oh... they are?"
 11.5 Mimi: "We need to wash them first."
 13.5 Kiko: "Wash first?"
-Kiko reaches with one hand only; the other grassy hand stays visible. 14.2–15.0 action only: she lowers the reaching hand; Mimi nods once. End eyes open, mouths closed. Dialogue dominant; no music, birds or ambience. Stable 32mm camera. No text, captions, subtitles or speech bubbles.
+Kiko reaches with one hand only; grassy hand visible. 14.5–15.0 action only: lowers reaching hand; Mimi nods once. End eyes open, mouths closed. Dialogue dominant; very soft indoor room tone only. Stable 32mm camera. No text, captions, subtitles or speech bubbles.
 
 ## Dialogue Timing Reference
 
@@ -137,7 +133,7 @@ Kiko reaches with one hand only; the other grassy hand stays visible. 14.2–15.
 | 7.0–9.0 | Mimi | "Your hands have grass on them!" |
 | 9.5–11.0 | Kiko | "Oh... they are?" |
 | 11.5–13.5 | Mimi | "We need to wash them first." |
-| 13.5–14.2 | Kiko | "Wash first?" |
+| 13.5–14.5 | Kiko | "Wash first?" |
 
 Total spoken words: ~30
 
@@ -145,11 +141,11 @@ Total spoken words: ~30
 
 ## Prop and Continuity Lock
 
-- Kiko: coral-pink shirt, brown pigtails, screen-left, lightly grassy hands (not muddy)
+- Kiko: coral-pink shirt, brown pigtails, large round eyes, small nose, coral blush cheeks, child proportions, screen-left, lightly grassy hands (not muddy)
 - Mimi: soft-blue rabbit, yellow T-shirt, screen-right, gentle hops
 - Apple: one round red apple, centre of table, intact, no bite
 - Table: round table, stable from first frame
-- Window: round window, stable background
+- Window: large central arched window with window seat, no curtains; stable background
 - Rug: stable, not moved
 - No new props, no prop duplication, no apple disappearance
 
