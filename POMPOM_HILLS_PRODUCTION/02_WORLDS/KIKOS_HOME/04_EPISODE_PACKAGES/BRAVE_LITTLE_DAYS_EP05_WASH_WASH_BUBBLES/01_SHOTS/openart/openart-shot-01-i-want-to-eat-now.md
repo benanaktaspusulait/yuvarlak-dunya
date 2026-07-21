@@ -111,6 +111,22 @@ Camera: 32mm wide establishing shot settling to medium two-shot at child eye lev
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
+---
+
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~809 chars)
+
+809 characters
+
+15s single take. @image1 only: Kiko screen-left, Mimi screen-right, one intact red apple centred on the locked living-space table. Kiko’s hands are lightly grassy; do not show the Washing Corner. Use the manually selected Kiko/Mimi voices. Speak every line exactly; omit or paraphrase none:
+0.5 Kiko: "I want to eat now!"
+2.5 Mimi: "Wait! Look at your hands!"
+5.0 Kiko: "But I'm hungry!"
+7.0 Mimi: "Your hands have grass on them!"
+9.5 Kiko: "Oh... they are?"
+11.5 Mimi: "We need to wash them first."
+13.5 Kiko: "Wash first?"
+Kiko reaches with one hand only; the other grassy hand stays visible. 14.2–15.0 action only: she lowers the reaching hand; Mimi nods once. End eyes open, mouths closed. Dialogue dominant; no music, birds or ambience. Stable 32mm camera. No text, captions, subtitles or speech bubbles.
+
 ## Dialogue Timing Reference
 
 | Time | Speaker | Line |

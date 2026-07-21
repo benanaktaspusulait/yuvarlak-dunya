@@ -73,6 +73,21 @@ Camera: 32mm stable medium two-shot at child eye level. Small gentle moves only.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
+---
+
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~760 chars)
+
+15s single continuous take. @image1 is the only visual authority; continue exactly from it: same living space, Kiko screen-left, Mimi screen-right, intact apple untouched centre of table; background locked. Kiko's hands lightly grassy.
+No spoken line may be omitted, shortened or paraphrased. Keep all marked action-only beats silent. Canonical Kiko/Mimi voices:
+0.5 Kiko: "But I'm so hungry!"
+2.5 Mimi: "I know, but look—"
+4.5 Mimi: "Your hands have grass on them."
+7.0 Kiko: "Oh, really?"
+9.0 Mimi: "We should wash them."
+11.0 Kiko: "Wash them? Now?"
+13.0 Mimi: "Yes, it'll be quick!"
+Kiko mildly reluctant, calm (no tantrum); small gestures per line; end settled, eyes open, mouths closed. Dialogue-priority audio; no music/birds/ambience. Camera 32mm stable. No on-screen text, captions, subtitles or speech bubbles.
+
 ## Dialogue Timing Reference
 
 | Time | Speaker | Line |

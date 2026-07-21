@@ -77,6 +77,24 @@ Camera: 32mm stable medium, end-screen-safe hold. No fade. No mid-wave final fra
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
+---
+
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~842 chars)
+
+842 characters
+
+15s single take. @image1 only: Kiko left holding the intact red apple in one clean hand, Mimi right, background locked. Exactly ONE bite; Mimi never touches the apple. Use manually selected Kiko/Mimi voices. Speak every line exactly:
+0.4 Kiko: "Here I go!"
+1.4–2.3 action only: Kiko takes the only small bite.
+2.3–4.4 action only: mouth closed, chew slowly, swallow; Mimi nods. No speech.
+4.6 Kiko: "Mmm, yummy!"
+6.2 Mimi: "Clean hands first!"
+8.0 Kiko: "Wash, wash, bubbles!"
+10.0 Mimi: "That's right!"
+11.6 Kiko: "Best apple ever!"
+13.6–14.3 action only: Kiko waves once with the empty hand.
+14.3–15.0 action only: lower hand and settle. End apple steady, no second bite, eyes open, mouths closed, no fade or mid-wave frame. Dialogue dominant; no music, birds or ambience. Stable 32mm camera. No text, captions, subtitles or speech bubbles.
+
 ## Dialogue Timing Reference
 
 | Time | Speaker | Line |

@@ -101,6 +101,25 @@ Camera: 30mm wide-to-medium settle at child eye level. Stable and calm. No telep
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
+---
+
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~873 chars)
+
+873 characters
+
+15s single take. @image1 only: canonical Washing Corner from frame one; Kiko left, Mimi right; sink, soap, towel and mirror locked; tap off, sink dry. Use manually selected Kiko/Mimi voices. Speak every line exactly:
+0.5 Mimi: "Let's turn on the water." She turns tap on once.
+1.7–2.5 action only: Kiko wets both hands.
+2.6 Kiko: "Ooh, warm water!"
+3.8–4.5 action only: Mimi turns tap fully off.
+4.7 Mimi: "Here's the soap!" Exactly one pump onto Kiko’s open palm.
+6.4 Kiko: "It smells nice!"
+8.1 Mimi: "Rub your hands gently."
+10.1 Kiko: "Little bubbles!"
+11.9 Mimi: "Palms together."
+13.5 Kiko: "Like this?"
+14.2–15.0 action only: Kiko rubs once; Mimi nods. End tap off, hands lightly soapy, no rinsing, towel hanging, eyes open, mouths closed. Gentle water only; no splashing, music, birds or ambience. Stable 30mm camera. No text, captions, subtitles or speech bubbles.
+
 ## Dialogue Timing Reference
 
 | Time      | Speaker | Line                              |

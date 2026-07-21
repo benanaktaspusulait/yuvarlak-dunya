@@ -71,6 +71,22 @@ Camera: 40mm medium, stable and calm. No fast motion. Medium composition showing
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
+---
+
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~867 chars)
+
+867 characters
+
+15s single take. @image1 only: locked Washing Corner, Kiko left, Mimi right, tap OFF, towel hanging, Kiko’s hands lightly soapy. Use manually selected Kiko/Mimi voices. Speak every line exactly; omit or paraphrase none:
+0.5 Kiko: "Wash, wash, bubbles!"
+2.5 Mimi: "Great job, Kiko!"
+5.0 Kiko: "In between too!"
+7.0 Mimi: "You're doing it perfectly!"
+9.5 Kiko: "Look how bubbly!"
+11.5 Mimi: "Keep going, you're doing great!"
+13.0 Kiko: "Almost done!"
+Kiko rubs palms, backs and between fingers above the sink. Her hands remain clearly attached; Mimi’s hands stay outside the basin and never cross Kiko’s arms. 13.8–15.0 action only: Kiko finishes rubbing; Mimi nods once. End hands lightly soapy, tap off, towel hanging, eyes open, mouths closed. Dialogue dominant; no water, music, birds or ambience. Stable 40mm camera. No text, captions, subtitles or speech bubbles.
+
 ## Dialogue Timing Reference
 
 | Time | Speaker | Line |

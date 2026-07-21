@@ -72,6 +72,21 @@ Camera: 40mm medium, stable and calm. Clear sequence of rinse, turn off water, t
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
+---
+
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~825 chars)
+
+15s single continuous take. @image1 is the only visual authority; continue exactly from it: Washing Corner locked, Kiko screen-left (lightly soapy hands), Mimi screen-right, tap off, towel on hook. Gentle water only, no splashing.
+No spoken line may be omitted, shortened or paraphrased. Keep all marked action-only beats silent. Canonical Kiko/Mimi voices:
+0.5 Mimi: "Time to rinse!" (turns tap on)
+2.2 Kiko: "Good idea!" (rinses hands)
+4.0 Mimi: "Rinse all the bubbles away!"
+[6.0 silent] Mimi turns tap fully off
+[7.0 silent] Mimi passes the hanging towel to Kiko
+8.5 Kiko: "Look, all clean!" (pats hands dry)
+10.5 Mimi: "Yay! So fresh!"
+Order: rinse → tap off → take towel → dry. End: hands clean and dry, tap off, towel lowered, eyes open, mouths closed. Dialogue-priority audio; no music/birds/ambience. Camera 40mm. No on-screen text, captions, subtitles or speech bubbles.
+
 ## Dialogue Timing Reference
 
 | Time | Speaker | Line |

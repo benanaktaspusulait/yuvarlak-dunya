@@ -52,7 +52,7 @@ Mimi does a small happy hop. Her hands mime making bubbles. Kiko's expression sh
 Kiko leans forward slightly, eyes brightening. The reluctance is fading.
 
 9.0–11.0 Mimi (MIMI voice) says clearly: "Yes! With soap and water!"
-Mimi mimes turning on a tap and pumping soap. Kiko smiles, genuinely interested now.
+Mimi gently rubs her palms together, pretending to make bubbles. Do not create a real tap or soap bottle in the living space. Kiko smiles, genuinely interested now.
 
 11.5–13.0 Kiko (KIKO voice) says clearly: "That sounds fun!"
 Kiko nods, ready to try. Her body language shows willingness.
@@ -66,6 +66,22 @@ Kiko turns and completes one small controlled step in that direction, then settl
 Camera: 32mm medium, slight ease-in on Mimi's excited gesture, then back to two-shot. Gentle moves only.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+
+---
+
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~826 chars)
+
+826 characters
+
+15s single take. @image1 only: same locked living space, Kiko screen-left, Mimi screen-right, intact apple centred on table. Do not create a tap, soap bottle or Washing Corner. Use the manually selected Kiko/Mimi voices. Speak every line exactly; omit or paraphrase none:
+0.5 Mimi: "I have an idea!"
+2.5 Kiko: "What kind of idea?"
+4.5 Mimi: "Let's make bubbles!"
+7.0 Kiko: "Bubbles? Really?"
+9.0 Mimi: "Yes! With soap and water!"
+11.5 Kiko: "That sounds fun!"
+13.2 Mimi: "Come on, let's go!"
+At 9.0 Mimi only rubs her palms, pretending to make bubbles. 14.0–15.0 action only: Kiko completes one small step toward the Washing Corner direction, then settles; no room change. End stable, eyes open, mouths closed. Dialogue dominant; no music, birds or ambience. Stable 32mm camera. No text, captions, subtitles or speech bubbles.
 
 ## Dialogue Timing Reference
 

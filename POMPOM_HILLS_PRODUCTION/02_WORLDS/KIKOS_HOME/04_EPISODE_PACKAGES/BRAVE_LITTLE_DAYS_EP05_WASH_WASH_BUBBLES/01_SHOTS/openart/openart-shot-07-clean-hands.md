@@ -94,6 +94,21 @@ Camera: 45mm medium, soft close settle. Calm and warm. End-screen-safe preparati
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 
+---
+
+## Compact OpenArt Video Prompt (paste ONLY this into OpenArt — ~760 chars)
+
+15s single continuous take. @image1 is the only visual authority; the Living Space table exists from frame one: Kiko screen-left with clean dry hands, Mimi screen-right, the SAME single intact red apple centre of table (no second apple, no bite mark).
+No spoken line may be omitted, shortened or paraphrased. Keep all marked action-only beats silent. Canonical Kiko/Mimi voices:
+0.5 Kiko: "Look at my clean hands!"
+2.5 Mimi: "They look great!"
+4.5 Kiko: "Now can I eat?"
+7.0 Mimi: "Yes! The apple is waiting!"
+9.5 Kiko: "Yay! Here I go!" (picks up the intact apple)
+12.0 Mimi: "Enjoy your snack!"
+13.2 Kiko: "Thank you, Mimi!"
+Kiko holds the intact apple securely but does NOT bite it; end stable, eyes open, mouths closed. Dialogue-priority audio; no music/birds/ambience. Camera 45mm. No on-screen text, captions, subtitles or speech bubbles.
+
 ## Dialogue Timing Reference
 
 | Time | Speaker | Line |
