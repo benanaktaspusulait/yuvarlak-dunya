@@ -19,7 +19,7 @@
 ## Purpose
 
 The soft toy boat rocks gently on the still water — left, right, slow and rhythmic. Arda
-crouches beside the stream, mesmerised by the motion. He reaches one hand toward the boat,
+crouches beside the basin, mesmerised by the motion. He reaches one hand toward the boat,
 stopping just above the water.
 
 ---
@@ -38,7 +38,7 @@ Direct continuation from Shot 02. The boat is now in the water, rocking gently.
 
 ## Environment Anchors
 
-- Arda's Home Garden: shallow stream with smooth pebbles, calm water, green grass banks,
+- Arda's Home Garden: green lawn, calm water, green lawn,
   rounded shrubs, warm wooden fence, bright blue sky.
 - The boat is the active element on the water.
 
@@ -46,25 +46,32 @@ Direct continuation from Shot 02. The boat is now in the water, rocking gently.
 
 ## Background Object Lock
 
-Background locked from first frame. The garden and stream remain stable. The boat rocks on
+Background locked from first frame. The garden and basin remain stable. The boat rocks on
 the water surface.
+
+## Boat Canon
+
+One small rounded soft toy boat with a coral-red hull, yellow rim and shallow open sky-blue
+cockpit/interior visibly capable of holding a small amount of water; no roof, enclosed top,
+sail, wheels, propeller, motor or text. The shallow open sky-blue cockpit/interior remains
+visible and unchanged. Never close, cover, redesign or recolour it.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm water.
+Arda's Home Garden on a bright sunny morning, green lawn, calm water.
 A soft toy boat — rounded, colourful, safe — rocks gently on the still water, swaying left and
 right in slow rhythm. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts)
-crouches beside the stream, mesmerised by the rocking motion. His face shows pure fascination.
+crouches beside the basin, mesmerised by the rocking motion. His face shows pure fascination.
 He reaches one hand toward the boat, stopping just above the water. Warm morning light, soft
 pastel colours, rounded safe shapes, no other characters, {style} {camera} {lighting}
 
 Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
 oversharpening, HDR, gloss, or harsh shadows.
 
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
+The garden background is locked from the first frame; keep shrubs, fence, sky, basin stable.
 The boat is the main active element — rocking gently on the water.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
@@ -82,11 +89,15 @@ to capture the rocking motion. No movement, no zoom.
 ## Dialogue
 
 ```text
-Arda: It rocks!
+0.4 Arda: "Look... it's rocking!"
+3.1 Arda: "Rock this way..."
+5.7 Arda: "And back that way!"
+8.4 Arda: "Can I make it move?"
+11.2 Arda: "Maybe one little push."
 ```
 
-> **Hook Purpose:** Arda's wonder at the rocking motion invites the viewer to share his
-> fascination with this simple, beautiful movement.
+> **Hook Purpose:** Arda watches the boat with curiosity and wonder. He has not yet learned
+> the correct amount of force — his tone is curious and slightly eager.
 
 ---
 
@@ -103,7 +114,7 @@ Arda: It rocks!
 
 ## Sound
 
-Soft stream ambience. The gentle 'rock-rock' sound of the boat swaying on water. Arda's voice
+Soft garden ambience. The gentle 'rock-rock' sound of the boat swaying on water. Arda's voice
 is quiet and awed — not loud. No music, no dramatic sting.
 
 ---
@@ -117,7 +128,7 @@ is peaceful and full of wonder.
 
 ## Safe-Exposure Notes
 
-Arda crouches safely on the stream bank. The boat rocks gently — no risk. The moment is calm
+Arda crouches safely on the basin edge. The boat rocks gently — no risk. The moment is calm
 and safe.
 
 ---

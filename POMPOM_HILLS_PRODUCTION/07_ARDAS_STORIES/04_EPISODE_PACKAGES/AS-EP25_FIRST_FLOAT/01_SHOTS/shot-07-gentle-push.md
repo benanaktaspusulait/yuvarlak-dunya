@@ -38,7 +38,7 @@ Direct continuation from Shot 06. Arda observed the rocking, now tries a differe
 
 ## Environment Anchors
 
-- Arda's Home Garden: shallow stream with smooth pebbles, calm water, green grass banks,
+- Arda's Home Garden: green lawn, calm water, green lawn,
   rounded shrubs, warm wooden fence, bright blue sky.
 - No indoor elements, no other characters.
 
@@ -46,26 +46,35 @@ Direct continuation from Shot 06. Arda observed the rocking, now tries a differe
 
 ## Background Object Lock
 
-Background locked from first frame. The garden and stream remain stable. The boat glides from
+Background locked from first frame. The garden and basin remain stable. The boat glides from
 the gentle push.
+
+## Boat Canon
+
+One small rounded soft toy boat with a coral-red hull, yellow rim and shallow open sky-blue
+cockpit/interior visibly capable of holding a small amount of water; no roof, enclosed top,
+sail, wheels, propeller, motor or text. The shallow open sky-blue cockpit/interior remains
+visible and unchanged. Never close, cover, redesign or recolour it.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm water.
-Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) reaches out slowly, extending
-one finger toward a soft toy boat — rounded, colourful — on the water. He touches the back of
-the boat with just the tip of his finger — a tiny gentle push. The boat moves forward slowly,
-smoothly, without wobbling. Arda's eyes widen. He pushes again with one finger — another gentle
-push. The boat glides forward. Warm morning light, soft pastel colours, rounded safe shapes, no
-other characters, {style} {camera} {lighting}
+Arda's Home Garden on a bright sunny morning, green lawn, calm water.
+One small rounded soft toy boat — coral-red hull, yellow rim, shallow open sky-blue cockpit —
+floats on the water. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) reaches
+out slowly, extending one index fingertip toward the boat. He touches the stern once with just
+the tip of his finger — a tiny, gentle tap. The boat begins its slow forward glide at the end
+of the single tap, exactly as the fingertip separates; after separation Arda never touches it
+again. The boat moves forward slowly, smoothly, without wobbling. Arda's eyes widen with delight.
+Warm morning light, soft pastel colours, rounded safe shapes, no other characters, {style}
+{camera} {lighting}
 
 Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
 oversharpening, HDR, gloss, or harsh shadows.
 
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
+The garden background is locked from the first frame; keep shrubs, fence, sky, basin stable.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -82,11 +91,16 @@ steady to capture the gentle push and smooth glide. No movement, no zoom.
 ## Dialogue
 
 ```text
-Arda: Soft…
+0.4 Arda: "Now, one tiny tap."
+3.2 Arda: "Just a little touch."
+5.8 Arda: "There you go!"
+8.6 Arda: "That was just right!"
+11.4 Arda: "Keep going, little boat!"
 ```
 
-> **Hook Purpose:** Arda's discovery that a gentle touch works creates the episode's key
-> learning moment.
+> **Hook Purpose:** This shot demonstrates the new method and its successful result.
+> "Gentle works better" is the central learning line. The action contains exactly one
+> fingertip contact at 3.2 seconds.
 
 ---
 
@@ -103,7 +117,7 @@ Arda: Soft…
 
 ## Sound
 
-Soft stream ambience. A very soft 'push' sound. Arda's quiet, amazed whisper. No music, no
+Soft garden ambience. A very soft 'push' sound. Arda's quiet, amazed whisper. No music, no
 dramatic sting.
 
 ---
@@ -117,7 +131,7 @@ the turning point — the moment of understanding.
 
 ## Safe-Exposure Notes
 
-Arda crouches safely on the stream bank. The boat glides gently. No risk. The moment is calm
+Arda crouches safely on the basin edge. The boat glides gently. No risk. The moment is calm
 and safe.
 
 ---
@@ -141,7 +155,10 @@ cinematic LUT, blue tint, green tint, orange shift, HDR look
 ## QA Checklist
 
 - [ ] Arda identity preserved; amazed, gentle, age-appropriate.
-- [ ] One-finger push action reads clearly.
+- [ ] Boat has coral-red hull, yellow rim, open sky-blue cockpit.
+- [ ] Exactly one fingertip tap; no second push.
+- [ ] Boat begins glide at end of tap, exactly as fingertip separates.
+- [ ] After separation, Arda never touches the boat again.
 - [ ] Boat gliding smoothly is visible.
 - [ ] Arda's delight reads clearly.
 - [ ] Stream and garden identity preserved.

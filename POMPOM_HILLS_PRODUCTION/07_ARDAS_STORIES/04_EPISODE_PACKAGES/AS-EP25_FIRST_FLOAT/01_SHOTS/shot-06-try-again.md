@@ -38,7 +38,7 @@ Direct continuation from Shot 05. Arda examined the boat, now tries again with m
 
 ## Environment Anchors
 
-- Arda's Home Garden: shallow stream with smooth pebbles, calm water, green grass banks,
+- Arda's Home Garden: green lawn, calm water, green lawn,
   rounded shrubs, warm wooden fence, bright blue sky.
 - No indoor elements, no other characters.
 
@@ -46,15 +46,22 @@ Direct continuation from Shot 05. Arda examined the boat, now tries again with m
 
 ## Background Object Lock
 
-Background locked from first frame. The garden and stream remain stable. Arda places the boat
+Background locked from first frame. The garden and basin remain stable. Arda places the boat
 back on the water.
+
+## Boat Canon
+
+One small rounded soft toy boat with a coral-red hull, yellow rim and shallow open sky-blue
+cockpit/interior visibly capable of holding a small amount of water; no roof, enclosed top,
+sail, wheels, propeller, motor or text. The shallow open sky-blue cockpit/interior remains
+visible and unchanged. Never close, cover, redesign or recolour it.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm water.
+Arda's Home Garden on a bright sunny morning, green lawn, calm water.
 Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) slowly and carefully lowers
 a soft toy boat — rounded, colourful — back onto the water surface. His movements are deliberate
 and gentle. The boat settles on the water and begins rocking gently. Arda watches it rock, his
@@ -65,7 +72,7 @@ morning light, soft pastel colours, rounded safe shapes, no other characters, {s
 Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
 oversharpening, HDR, gloss, or harsh shadows.
 
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
+The garden background is locked from the first frame; keep shrubs, fence, sky, basin stable.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -81,10 +88,15 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Dialogue
 
 ```text
-Arda: One more time…
+0.5 Arda: "This time, very gently."
+3.2 Arda: "Slowly down..."
+5.9 Arda: "Soft as a feather."
+8.5 Arda: "And now I let go."
+11.2 Arda: "Nice and steady."
 ```
 
-> **Hook Purpose:** Arda's determination to try again models persistence and careful observation.
+> **Hook Purpose:** Unlike Shot 02, this is a conscious, careful retry. Arda is applying
+> what he learned. His voice should be calm and focused.
 
 ---
 
@@ -101,7 +113,7 @@ Arda: One more time…
 
 ## Sound
 
-Soft stream ambience. A gentle 'plop' as the boat touches water. Arda's quiet, determined
+Soft garden ambience. A gentle 'plop' as the boat touches water. Arda's quiet, determined
 voice. No music, no dramatic sting.
 
 ---
@@ -115,7 +127,7 @@ and approaching the problem with patience.
 
 ## Safe-Exposure Notes
 
-Arda crouches safely on the stream bank. The boat rocks gently. No risk. The moment is calm
+Arda crouches safely on the basin edge. The boat rocks gently. No risk. The moment is calm
 and safe.
 
 ---

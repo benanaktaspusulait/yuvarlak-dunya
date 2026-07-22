@@ -18,7 +18,7 @@
 
 ## Purpose
 
-The boat glides smoothly across the shallow stream, rocking just slightly as it moves. Arda's
+The boat glides smoothly across the shallow basin, rocking just slightly as it moves. Arda's
 face lights up with pure joy — a big, bright smile. He stands up, watching the boat travel
 farther than it ever did with the hard push. He claps his hands once with delight.
 
@@ -38,7 +38,7 @@ Direct continuation from Shot 07. The gentle push worked — the boat floats bea
 
 ## Environment Anchors
 
-- Arda's Home Garden: shallow stream with smooth pebbles, calm water, green grass banks,
+- Arda's Home Garden: green lawn, calm water, green lawn,
   rounded shrubs, warm wooden fence, bright blue sky.
 - No indoor elements, no other characters.
 
@@ -46,25 +46,33 @@ Direct continuation from Shot 07. The gentle push worked — the boat floats bea
 
 ## Background Object Lock
 
-Background locked from first frame. The garden and stream remain stable. The boat glides across.
+Background locked from first frame. The garden and basin remain stable. The boat glides across.
+
+## Boat Canon
+
+One small rounded soft toy boat with a coral-red hull, yellow rim and shallow open sky-blue
+cockpit/interior visibly capable of holding a small amount of water; no roof, enclosed top,
+sail, wheels, propeller, motor or text. The shallow open sky-blue cockpit/interior remains
+visible and unchanged. Never close, cover, redesign or recolour it.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm water.
-A soft toy boat — rounded, colourful — glides smoothly across the shallow stream, rocking just
-slightly as it moves. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) watches
-from the stream bank, his face lighting up with pure joy — a big bright smile. He stands up,
-watching the boat travel farther. The boat is stable, balanced, beautiful in motion. Arda claps
-his hands once with delight. Warm morning light, soft pastel colours, rounded safe shapes, no
-other characters, {style} {camera} {lighting}
+Arda's Home Garden on a bright sunny morning, green lawn, calm water.
+One small rounded soft toy boat — coral-red hull, yellow rim, shallow open sky-blue cockpit —
+glides smoothly across the shallow basin, rocking just slightly as it moves. Arda (energetic
+boy, brown curly hair, orange t-shirt, blue shorts) watches from the basin edge, his face
+lighting up with pure joy — a big bright smile. He stands up, watching the boat travel farther.
+The boat is stable, balanced, beautiful in motion. Arda fully lowers the pointing hand before
+beginning the clap. Both hands meet once, separate completely and lower. Warm morning light,
+soft pastel colours, rounded safe shapes, no other characters, {style} {camera} {lighting}
 
 Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
 oversharpening, HDR, gloss, or harsh shadows.
 
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
+The garden background is locked from the first frame; keep shrubs, fence, sky, basin stable.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -81,11 +89,16 @@ holds steady. No fast movement, no zoom.
 ## Dialogue
 
 ```text
-Arda: It floats!
+0.4 Arda: "It's floating!"
+2.8 Arda: "Nice and steady!"
+5.5 Arda: "My little tap worked!"
+8.4 Arda: "Look how far you went!"
+11.2 Arda: "Hooray! Off you go!"
 ```
 
-> **Hook Purpose:** The first success — Arda's gentle push worked. The boat floats beautifully.
-> This is the episode's first triumph.
+> **Hook Purpose:** Finish with earned pride and a clear preschool takeaway. Arda celebrates
+> the successful method, not merely the distance travelled. Warm, delighted and proud, but
+> not shouting.
 
 ---
 
@@ -95,14 +108,14 @@ Arda: It floats!
 |---|---|---|
 | 0-4 sec | Boat glides smoothly, Arda watches | Wide, stable |
 | 4-8 sec | Arda's face lights up, big smile | Hold on Arda |
-| 8-12 sec | He stands up, watching the boat travel farther | Hold steady |
-| 12-15 sec | He claps once, grinning; edit-safe hold | Stable hold |
+| 8-12 sec | He stands up, watching the boat travel farther; points with one hand | Hold steady |
+| 12-15 sec | He fully lowers the pointing hand, then claps once; both hands meet, separate, lower; edit-safe hold | Stable hold |
 
 ---
 
 ## Sound
 
-Soft stream ambience. The gentle sound of the boat gliding — a soft 'swoosh' on water. Arda's
+Soft garden ambience. The gentle sound of the boat gliding — a soft 'swoosh' on water. Arda's
 joyful voice. A soft clap. No music, no dramatic sting.
 
 ---
@@ -116,7 +129,7 @@ triumph — a moment of earned success.
 
 ## Safe-Exposure Notes
 
-Arda stands safely on the stream bank. The boat glides gently. No risk. The moment is calm
+Arda stands safely on the basin edge. The boat glides gently. No risk. The moment is calm
 and safe.
 
 ---
@@ -140,8 +153,12 @@ cinematic LUT, blue tint, green tint, orange shift, HDR look
 ## QA Checklist
 
 - [ ] Arda identity preserved; joyful, triumphant, age-appropriate.
+- [ ] Boat has coral-red hull, yellow rim, open sky-blue cockpit.
 - [ ] Boat gliding smoothly is clearly visible.
-- [ ] Arda's joy and clap read clearly.
+- [ ] Arda fully lowers the pointing hand before beginning the clap.
+- [ ] Both hands meet once, separate completely and lower.
+- [ ] No pointing and clapping simultaneously.
+- [ ] Arda's joy reads clearly.
 - [ ] Stream and garden identity preserved.
 - [ ] No on-screen text; joyful and alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.

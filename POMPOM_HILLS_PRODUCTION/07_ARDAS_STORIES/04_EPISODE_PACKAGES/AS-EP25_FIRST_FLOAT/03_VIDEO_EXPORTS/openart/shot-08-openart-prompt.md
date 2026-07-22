@@ -1,68 +1,24 @@
-# Shot 08 — OpenArt Prompt — shot-08-it-floats
+# Shot 08 — It Floats!
 
-## Visual Prompt
+## Production Lock
+- 15s, final Block B continuation, 32mm wide.
+- Video ref only: approved Shot 07 final frame as `@image1`.
+- Manual canonical Arda voice; no music.
 
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm water.
-A soft toy boat — rounded, colourful — glides smoothly across the shallow stream, rocking just
-slightly as it moves. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) watches
-from the stream bank, his face lighting up with pure joy — a big bright smile. He stands up,
-watching the boat travel farther. The boat is stable, balanced, beautiful in motion. Arda claps
-his hands once with delight. Warm morning light, soft pastel colours, rounded safe shapes, no
-other characters, {style} {camera} {lighting}
+## Compact OpenArt Video Prompt
+15s single take. `@image1` only; same garden, upright boat with coral-red hull, yellow rim, open sky-blue cockpit gliding slowly, Arda partway rising. Boat glides short distance inside same basin; never touches rim or exits. Speak exactly:
+0.4 Arda: "It's floating!" Finishes standing while watching the boat.
+2.8 Arda: "Nice and steady!" Boat continues straight with one tiny natural bob.
+5.5 Arda: "My little tap worked!" Points once toward it with one hand.
+8.4 Arda: "Look how far you went!" Smiles; boat stays fully visible.
+11.2 Arda: "Hooray! Off you go!" Lowers pointing hand before clap. Hands meet once, separate.
+13.8–15 action: Arda settles; boat glides slowly. End eyes open, mouth closed. Soft garden, light birds, one quiet clap; no music. Stable 32mm; no text.
 
-Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
-oversharpening, HDR, gloss, or harsh shadows.
-
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-
-## Camera Direction
-
-32mm wide at child eye level, capturing the boat gliding and Arda's joyful reaction. Camera
-holds steady. No fast movement, no zoom.
-
-## Sound
-
-Soft stream ambience. The gentle sound of the boat gliding — a soft 'swoosh' on water. Arda's
-joyful voice. A soft clap. No music, no background music, no melody, no song, no soundtrack,
-no chimes, no whooshes.
-
-## Negative Prompt
-
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
-dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack, indoor elements, other rooms, extra
-characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
-cinematic LUT, blue tint, green tint, orange shift, HDR look
-
-## Voice Lock
-
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
-
-## OpenArt Settings
-
-- Duration: 15 seconds
-- Mode: Text-to-video
-- Prompt enhancer: Off
-- Cinematic/auto camera: Off
-- Locked camera only
-
-## QA Checklist
-
-- [ ] First frame matches scene description
-- [ ] Character identity preserved (Arda)
-- [ ] No camera movement (locked camera)
-- [ ] No dialogue as on-screen text
-- [ ] No music, no background music
-- [ ] No new characters or objects appearing
-- [ ] Soft pastel preschool look maintained
-- [ ] No contrast increase, no saturation drift
-- [ ] No HDR, no glossy look, no oversharpening
-- [ ] Warm natural lighting preserved
-- [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
+## CHARACTER COUNT: 776
+## Continuity Gate
+- Arda fully lowers the pointing hand before beginning the clap.
+- Both hands meet once, separate completely and lower.
+- No pointing and clapping simultaneously.
+- Boat never exits frame, tips, accelerates, duplicates or changes design.
+- End with continuing boat motion for editability; no title card or fade.
+- Reject extra hands, frozen pose, large wake, colour/contrast/sharpness drift, HDR or gloss.

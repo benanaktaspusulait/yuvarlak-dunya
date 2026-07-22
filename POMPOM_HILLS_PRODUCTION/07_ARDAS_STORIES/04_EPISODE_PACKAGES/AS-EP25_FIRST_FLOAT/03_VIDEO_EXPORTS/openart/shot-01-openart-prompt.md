@@ -1,67 +1,30 @@
-# Shot 01 — OpenArt Prompt — shot-01-the-boat
+# Shot 01 — The Boat
 
-## Visual Prompt
+## Production Lock
+- 15s, 16:9, Block A fresh Take Shot, 32mm child-eye camera.
+- Take Shot refs only: canonical Arda's Home Garden + canonical Arda.
+- Video ref only: approved Shot 01 Take Shot as `@image1`.
+- Manual canonical Arda voice; Generated Dialogue/Audio On; Auto Voice and Music Off.
 
-Arda's Home Garden on a bright sunny morning, green grass, rounded shrubs, warm wooden fence,
-small shallow stream along the garden edge, bright blue sky with soft white clouds. A soft toy
-boat sits on the grass — rounded, colourful, safe for water play. Arda (energetic boy, brown
-curly hair, orange t-shirt, blue shorts) spots the boat, eyes lighting up with excitement.
-He picks it up gently with both hands, holding it close. Warm morning light, soft pastel colours,
-rounded safe shapes, no other characters, {style} {camera} {lighting}
+## Take Shot Prompt
+Create a static fresh anchor in canonical Arda's Home Garden. Arda stands centre-left, eyes open and mouth closed, looking down at one toy boat on the grass within easy reach. Lock the boat design for the whole episode: one small rounded soft toy boat with coral-red hull, yellow rim and shallow open sky-blue cockpit/interior; no roof, enclosed top, sail, wheels, propeller, motor or text. The shallow open sky-blue cockpit/interior remains visible and unchanged. Exactly one low shallow oval water-play basin stands on the open central lawn, safely clear of the doorway and pale path. It has a pale sky-blue matte exterior, soft cream rounded rim and clean still water. The completely dry toy boat rests on the grass beside it within Arda's reach. Soft pastel matte preschool look, warm balanced morning brightness, medium-low contrast, gentle sharpness. No motion, gesture, dialogue or extra character.
 
-Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
-oversharpening, HDR, gloss, or harsh shadows.
+## Compact OpenArt Video Prompt
+15s single take. `@image1` only. Garden, Arda, one coral-red/yellow/blue boat with open sky-blue cockpit. Boat and cockpit begin completely dry; one boat only. Manual Arda voice; speak:
+0.5 Arda: "Oh! A little boat!" He points, then steps closer.
+3.1 Arda: "Were you waiting for me?" He crouches beside it.
+6.0 Arda: "You can float in the water!" He securely grips the boat once with both hands.
+9.1 Arda: "Let's go together." He lifts it to chest height.
+11.8 Arda: "Ready for the water?" He turns toward the basin and takes one small step.
+13.8–15 action only: Already facing the basin, Arda holds the boat securely with both hands and settles after his small step; end still standing clear of the water, eyes open, mouth closed. No music. Stable 32mm; no text.
 
-The garden background is locked from the first frame; keep shrubs, fence, sky stable.
+## CHARACTER COUNT: 763
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-
-## Camera Direction
-
-32mm wide at child eye level, establishing the sunny garden. Arda is in center. Camera holds
-steady. No fast zooms, no dramatic angles.
-
-## Sound
-
-Soft outdoor morning ambience: birds chirping, gentle breeze, quiet stream sounds. Arda's voice
-is bright and excited — not loud. No music, no background music, no melody, no song, no
-soundtrack, no chimes, no whooshes.
-
-## Negative Prompt
-
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
-dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack, indoor elements, other rooms, extra
-characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
-cinematic LUT, blue tint, green tint, orange shift, HDR look
-
-## Voice Lock
-
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
-
-## OpenArt Settings
-
-- Duration: 15 seconds
-- Mode: Text-to-video
-- Prompt enhancer: Off
-- Cinematic/auto camera: Off
-- Locked camera only
-
-## QA Checklist
-
-- [ ] First frame matches scene description
-- [ ] Character identity preserved (Arda)
-- [ ] No camera movement (locked camera)
-- [ ] No dialogue as on-screen text
-- [ ] No music, no background music
-- [ ] No new characters or objects appearing
-- [ ] Soft pastel preschool look maintained
-- [ ] No contrast increase, no saturation drift
-- [ ] No HDR, no glossy look, no oversharpening
-- [ ] Warm natural lighting preserved
-- [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
+## Continuity Gate
+- One boat only; coral-red hull, yellow rim, shallow open sky-blue cockpit/interior visible throughout.
+- The shallow open sky-blue cockpit/interior remains visible and unchanged. Never close, cover, redesign or recolour it.
+- Boat begins completely dry, including open cockpit.
+- Arda securely grips the boat once with both hands.
+- Arda ends facing the basin; do not reach water in this shot.
+- No dead air over 1s; only the named character moves or speaks.
+- Reject identity/size drift, extra fingers, boat redesign, HDR, gloss, orange/green tint, excess saturation/contrast/sharpness.

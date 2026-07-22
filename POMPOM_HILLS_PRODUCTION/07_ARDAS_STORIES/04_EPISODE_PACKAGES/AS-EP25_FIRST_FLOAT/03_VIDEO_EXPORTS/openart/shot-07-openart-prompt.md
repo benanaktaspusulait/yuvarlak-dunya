@@ -1,67 +1,23 @@
-# Shot 07 — OpenArt Prompt — shot-07-gentle-push
+# Shot 07 — Gentle Push
 
-## Visual Prompt
+## Production Lock
+- 15s, Block B continuation, 32mm.
+- Video ref only: approved Shot 06 final frame as `@image1`.
+- Manual canonical Arda voice; no music.
 
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm water.
-Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) reaches out slowly, extending
-one finger toward a soft toy boat — rounded, colourful — on the water. He touches the back of
-the boat with just the tip of his finger — a tiny gentle push. The boat moves forward slowly,
-smoothly, without wobbling. Arda's eyes widen. He pushes again with one finger — another gentle
-push. The boat glides forward. Warm morning light, soft pastel colours, rounded safe shapes, no
-other characters, {style} {camera} {lighting}
+## Compact OpenArt Video Prompt
+15s single take. `@image1` only; upright boat with coral-red hull, yellow rim, open sky-blue cockpit on calm water, Arda crouched, hands away. One fingertip contact moves boat short distance inside same basin; upright, visible, clear of rim. Speak exactly:
+0.4 Arda: "Now, one tiny tap." Extends index finger toward stern.
+3.2 Arda: "Just a little touch." Boat glides at end of single tap as fingertip separates.
+5.8 Arda: "There you go!" Boat glides slowly without wobbling.
+8.6 Arda: "That was just right!" Follows with eyes only; no second touch.
+11.4 Arda: "Keep going, little boat!" Begins rising while boat glides.
+13.8–15 action: Arda rises; boat upright and moving slowly. End eyes open, mouth closed. Soft garden, light birds; no music. Stable 32mm; no text.
 
-Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
-oversharpening, HDR, gloss, or harsh shadows.
-
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-
-## Camera Direction
-
-32mm at child eye level, close enough to see Arda's finger touching the boat. Camera holds
-steady to capture the gentle push and smooth glide. No movement, no zoom.
-
-## Sound
-
-Soft stream ambience. A very soft 'push' sound. Arda's quiet, amazed whisper. No music, no
-background music, no melody, no song, no soundtrack, no chimes, no whooshes.
-
-## Negative Prompt
-
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
-dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack, indoor elements, other rooms, extra
-characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
-cinematic LUT, blue tint, green tint, orange shift, HDR look
-
-## Voice Lock
-
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
-
-## OpenArt Settings
-
-- Duration: 15 seconds
-- Mode: Text-to-video
-- Prompt enhancer: Off
-- Cinematic/auto camera: Off
-- Locked camera only
-
-## QA Checklist
-
-- [ ] First frame matches scene description
-- [ ] Character identity preserved (Arda)
-- [ ] No camera movement (locked camera)
-- [ ] No dialogue as on-screen text
-- [ ] No music, no background music
-- [ ] No new characters or objects appearing
-- [ ] Soft pastel preschool look maintained
-- [ ] No contrast increase, no saturation drift
-- [ ] No HDR, no glossy look, no oversharpening
-- [ ] Warm natural lighting preserved
-- [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
+## CHARACTER COUNT: 767
+## Continuity Gate
+- Exactly one fingertip tap; no second push.
+- The boat begins its slow forward glide at the end of the single tap, exactly as the fingertip separates.
+- After separation Arda never touches it again.
+- Boat travels only a short visible distance and stays in frame.
+- Reject duplicate boat, extra fingers, wake/splash, speed jump, camera tracking or drift.

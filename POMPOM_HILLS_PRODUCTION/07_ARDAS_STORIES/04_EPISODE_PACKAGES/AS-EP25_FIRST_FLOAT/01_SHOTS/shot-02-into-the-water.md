@@ -18,53 +18,62 @@
 
 ## Purpose
 
-Arda crouches at the edge of the shallow stream. He carefully lowers the soft toy boat onto the
-calm water surface. His hands release the boat slowly. The boat settles, bobbing slightly. Arda
-watches with wide, focused eyes.
+Arda crouches beside the water-play basin. He carefully lowers the soft toy boat onto the calm
+water surface inside the basin. His hands release the boat slowly. The boat settles, bobbing
+slightly. Arda watches with wide, focused eyes.
 
 ---
 
 ## Opening Hook
 
-First 3–5 seconds: Arda crouches at the stream edge, boat in hand, lowering it toward the water.
+First 3–5 seconds: Arda crouches beside the basin, boat in hand, lowering it toward the water.
 
 ---
 
 ## Continuity
 
-Direct continuation from Shot 01. Arda found the boat and is now placing it in the stream.
+Direct continuation from Shot 01. Arda found the boat and is now placing it in the basin.
 
 ---
 
 ## Environment Anchors
 
-- Arda's Home Garden: shallow stream with smooth pebbles, calm clear warm water barely an inch
-  deep, green grass banks, rounded shrubs, warm wooden fence, bright blue sky.
+- Arda's Home Garden: green lawn, rounded shrubs, warm wooden fence, cream house, pale path,
+  flower borders, bright blue sky.
+- One small portable oval water-play basin on the central lawn, filled with clean still water.
 - No indoor elements, no other characters.
 
 ---
 
 ## Background Object Lock
 
-Background locked from first frame. The garden and stream remain stable. Arda lowers the boat.
+Background locked from first frame. The garden and basin remain stable. Arda lowers the boat.
+
+## Boat Canon
+
+One small rounded soft toy boat with a coral-red hull, yellow rim and shallow open sky-blue
+cockpit/interior visibly capable of holding a small amount of water; no roof, enclosed top,
+sail, wheels, propeller, motor or text. The shallow open sky-blue cockpit/interior remains
+visible and unchanged. Never close, cover, redesign or recolour it.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm clear
-warm water barely an inch deep, green grass banks, rounded shrubs, warm wooden fence, bright blue
-sky. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) crouches at the stream
-edge, carefully lowering a soft toy boat — rounded, colourful, safe — onto the water surface.
-His hands release the boat slowly. The boat settles on the water, bobbing slightly. Arda watches
-with wide focused eyes. Warm morning light, soft pastel colours, rounded safe shapes, no other
-characters, {style} {camera} {lighting}
+Arda's Home Garden on a bright sunny morning, green lawn, rounded shrubs, warm wooden fence,
+cream house, pale path, flower borders, bright blue sky. One small portable oval water-play
+basin sits on the central lawn, filled with clean still water — pale sky-blue exterior, soft
+cream rim. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) crouches beside
+the basin, carefully lowering a soft toy boat — coral-red hull, yellow rim, shallow open
+sky-blue cockpit — onto the water surface. His hands release the boat slowly. The boat settles
+on the water, bobbing slightly. Arda watches with wide focused eyes. Warm morning light, soft
+pastel colours, rounded safe shapes, no other characters, {style} {camera} {lighting}
 
 Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
 oversharpening, HDR, gloss, or harsh shadows.
 
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
+The garden background is locked from the first frame; keep shrubs, fence, sky, basin stable.
 
 Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
 ```
@@ -74,17 +83,22 @@ Do not display dialogue as on-screen text. No speech bubbles. No captions. No te
 ## Camera Direction
 
 32mm at child eye level, close enough to capture Arda's hands placing the boat. Camera holds
-steady on the stream edge. No fast movement, no zoom.
+steady on the basin edge. No fast movement, no zoom.
 
 ---
 
 ## Dialogue
 
 ```text
-Arda: Go in…
+0.5 Arda: "Here you go, little boat!"
+3.2 Arda: "Down, down, gently."
+6.1 Arda: "Almost there..."
+8.5 Arda: "Now I let go."
+11.0 Arda: "Look—you're floating!"
 ```
 
-> **Hook Purpose:** Arda's careful placement creates anticipation — will the boat float?
+> **Hook Purpose:** Arda carefully places the boat in the water and discovers it can float.
+> This is only the discovery, not the final achievement of the episode.
 
 ---
 
@@ -92,7 +106,7 @@ Arda: Go in…
 
 | Time | Action | Camera |
 |---|---|---|
-| 0-4 sec | Arda crouches at stream edge, boat in hand | Hold on stream edge |
+| 0-4 sec | Arda crouches beside basin, boat in hand | Hold on basin edge |
 | 4-8 sec | He lowers the boat toward the water | Close on hands and boat |
 | 8-12 sec | Boat touches water, he releases it slowly | Hold steady |
 | 12-15 sec | Boat bobs on the water, Arda watches; edit-safe hold | Stable hold |
@@ -101,8 +115,9 @@ Arda: Go in…
 
 ## Sound
 
-Soft outdoor morning ambience: quiet stream trickling, birds chirping. The soft sound of the
-boat touching water — a gentle 'plop'. No music, no dramatic sting.
+Soft enclosed-garden ambience: light distant birds, very subtle natural water movement caused
+only by the boat. The soft sound of the boat touching water — a gentle 'plop'. No music,
+no dramatic sting.
 
 ---
 
@@ -115,8 +130,8 @@ gentle and full of quiet anticipation.
 
 ## Safe-Exposure Notes
 
-Arda crouches safely on the stream bank. The water is shallow and calm. The moment is gentle
-and safe.
+Arda crouches safely on the lawn beside the basin. The water is shallow and calm. The moment
+is gentle and safe.
 
 ---
 
@@ -139,7 +154,7 @@ cinematic LUT, blue tint, green tint, orange shift, HDR look
 ## QA Checklist
 
 - [ ] Arda identity preserved; focused, careful, age-appropriate.
-- [ ] Stream identity preserved: shallow, clear, pebbles, calm water.
+- [ ] Basin identity preserved: oval, pale sky-blue, cream rim, calm still water.
 - [ ] Boat placement action reads clearly.
 - [ ] Arda's careful focus is visible.
 - [ ] No on-screen text; calm but alive; no frozen pose.

@@ -26,8 +26,8 @@ the sunny garden setting before the water play begins.
 
 ## Opening Hook
 
-First 3–5 seconds: Arda spots the colourful boat sitting on the grass near the stream, eyes
-wide with excitement.
+First 3–5 seconds: Arda spots the colourful boat sitting on the grass beside the water-play
+basin, eyes wide with excitement.
 
 ---
 
@@ -39,28 +39,51 @@ First story shot of AS-EP25 — First Float. Establish the characters, location,
 
 ## Environment Anchors
 
-- Arda's Home Garden: green grass, rounded shrubs, warm wooden fence, small shallow stream along
-  the garden edge, bright sunny morning sky with soft white clouds.
+- Arda's Home Garden: green lawn, rounded shrubs, warm wooden fence, cream house with brown-framed
+  doors and windows, pale path, flower borders, bright sunny morning sky with soft white clouds.
+- One small portable oval water-play basin on the central lawn, filled with clean still water.
 - No indoor elements, no other characters visible.
+
+## Water-Play Basin Canon
+
+Low, shallow oval shape; pale sky-blue matte exterior; soft cream rounded rim; clean clear still
+water; approximately 85 cm long, 55 cm wide and 18 cm high; no legs, wheels, handles, tap, hose,
+drain, writing, face or decoration; no inflatable rings or swimming-pool appearance; no splashing
+mechanism; large enough for the toy boat to float and travel a short visible distance; remains in
+exactly the same lawn position, orientation, size, colour and water level in every shot; exactly
+one basin only.
 
 ---
 
 ## Background Object Lock
 
-Background locked from first frame. The garden — grass, shrubs, fence, stream, sky — remains
-stable. Arda spots the boat and picks it up.
+Background locked from first frame. The garden — lawn, shrubs, fence, house, basin, sky —
+remains stable. The water-play basin is visible from the first frame. Arda spots the boat
+and picks it up.
+
+## Boat Canon
+
+One small rounded soft toy boat with a coral-red hull, yellow rim and shallow open sky-blue
+cockpit/interior visibly capable of holding a small amount of water; no roof, enclosed top,
+sail, wheels, propeller, motor or text. The shallow open sky-blue cockpit/interior remains
+visible and unchanged. Never close, cover, redesign or recolour it. The boat begins completely
+dry, including its open cockpit.
 
 ---
 
 ## Visual Prompt
 
 ```text
-Arda's Home Garden on a bright sunny morning, green grass, rounded shrubs, warm wooden fence,
-small shallow stream along the garden edge, bright blue sky with soft white clouds. A soft toy
-boat sits on the grass — rounded, colourful, safe for water play. Arda (energetic boy, brown
-curly hair, orange t-shirt, blue shorts) spots the boat, eyes lighting up with excitement.
-He picks it up gently with both hands, holding it close. Warm morning light, soft pastel colours,
-rounded safe shapes, no other characters, {style} {camera} {lighting}
+Arda's Home Garden on a bright sunny morning, green lawn, rounded shrubs, warm wooden fence,
+cream house with brown-framed doors and windows, pale path, flower borders, bright blue sky
+with soft white clouds. One small portable oval water-play basin sits on the central lawn,
+filled with clean still water — pale sky-blue exterior, soft cream rim, approximately 85 cm
+long, 55 cm wide, 18 cm high. One small rounded soft toy boat rests on the grass beside the
+basin — coral-red hull, yellow rim, shallow open sky-blue cockpit/interior; no roof, enclosed
+top, sail, wheels, propeller, motor or text. Arda (energetic boy, brown curly hair, orange
+t-shirt, blue shorts) spots the boat, eyes lighting up with excitement. He securely grips
+the boat once with both hands. Warm morning light, soft pastel colours, rounded safe shapes,
+no other characters, {style} {camera} {lighting}
 
 Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
 oversharpening, HDR, gloss, or harsh shadows.
@@ -82,11 +105,15 @@ Camera holds steady as he spots and picks up the boat. No fast zooms, no dramati
 ## Dialogue
 
 ```text
-Arda: My boat!
+0.5 Arda: "Oh! A little boat!"
+3.1 Arda: "Were you waiting for me?"
+6.0 Arda: "You can float in the water!"
+9.1 Arda: "Let's go together."
+11.8 Arda: "Ready for the water?"
 ```
 
-> **Hook Purpose:** Arda's excitement at finding his boat creates a joyful invitation. The
-> colourful boat on the green grass is the essential starting point before the water play.
+> **Hook Purpose:** Arda discovers the boat, forms a playful connection with it and decides
+> to test whether it can float.
 
 ---
 
@@ -96,15 +123,16 @@ Arda: My boat!
 |---|---|---|
 | 0-4 sec | Arda spots the boat on the grass, eyes light up | Wide establishing shot |
 | 4-8 sec | He walks toward the boat | Hold on Arda |
-| 8-12 sec | He picks it up gently with both hands | Hold steady |
-| 12-15 sec | He holds the boat, turning toward the stream; edit-safe hold | Stable hold |
+| 8-12 sec | He securely grips the boat once with both hands | Hold steady |
+| 12-15 sec | He holds the boat, turning toward the basin; edit-safe hold | Stable hold |
 
 ---
 
 ## Sound
 
-Soft outdoor morning ambience: birds chirping, gentle breeze, quiet stream sounds. Arda's voice
-is bright and excited — not loud, not shouting. No music, no dramatic sting.
+Soft enclosed-garden ambience: light distant birds, gentle breeze, very subtle natural water
+movement caused only by the boat. Arda's voice is bright and excited — not loud, not shouting.
+No music, no dramatic sting.
 
 ---
 
@@ -117,8 +145,8 @@ bright, inviting, and age-appropriate — a child reuniting with a beloved toy.
 
 ## Safe-Exposure Notes
 
-Arda walks safely on flat garden grass. The boat is lightweight and soft. The stream is visible
-but not yet interacted with. The moment is calm and safe.
+Arda walks safely on flat garden lawn. The boat is lightweight and soft. The water-play basin
+is visible but not yet interacted with. The moment is calm and safe.
 
 ---
 
@@ -142,8 +170,10 @@ cinematic LUT, blue tint, green tint, orange shift, HDR look
 ## QA Checklist
 
 - [ ] Arda identity preserved; curious, playful, age-appropriate.
-- [ ] Garden identity preserved: grass, shrubs, fence, stream, sunny sky.
-- [ ] Boat is clearly visible on the grass.
+- [ ] Garden identity preserved: lawn, shrubs, fence, house, basin, sunny sky.
+- [ ] Boat is clearly visible on the grass with coral-red hull, yellow rim, open sky-blue cockpit.
+- [ ] Boat begins completely dry, including open cockpit.
+- [ ] Arda securely grips the boat once with both hands.
 - [ ] Arda's excitement reads clearly.
 - [ ] No on-screen text; calm but alive; no frozen pose.
 - [ ] First 0.5s is stable and edit-safe.

@@ -1,68 +1,23 @@
-# Shot 03 — OpenArt Prompt — shot-03-rocking
+# Shot 03 — Rock, Rock
 
-## Visual Prompt
+## Production Lock
+- 15s, Block A continuation, 32mm.
+- Video ref only: approved Shot 02 final frame as `@image1`.
+- Manual canonical Arda voice; no music.
 
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm water.
-A soft toy boat — rounded, colourful, safe — rocks gently on the still water, swaying left and
-right in slow rhythm. Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts)
-crouches beside the stream, mesmerised by the rocking motion. His face shows pure fascination.
-He reaches one hand toward the boat, stopping just above the water. Warm morning light, soft
-pastel colours, rounded safe shapes, no other characters, {style} {camera} {lighting}
+## Compact OpenArt Video Prompt
+15s single take. `@image1` only; upright boat with coral-red hull, yellow rim, open sky-blue cockpit, crouched Arda, hands away. Boat rocks once inside same basin without travelling, touching rim or leaving water. Speak exactly:
+0.4 Arda: "Look... it's rocking!" Boat bobs left-right; Arda tracks it.
+3.1 Arda: "Rock this way..." He tilts head slightly left; hands off boat.
+5.7 Arda: "And back that way!" He tilts right as boat returns level.
+8.4 Arda: "Can I make it move?" He raises one open hand toward stern.
+11.2 Arda: "Maybe one little push." Finger stops above boat without touching.
+13.7–15 action: boat settles level, cockpit visible; finger stays above; Arda focuses, eyes open, mouth closed. Soft garden, light birds; no music. Stable 32mm; no text.
 
-Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
-oversharpening, HDR, gloss, or harsh shadows.
-
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
-The boat is the main active element — rocking gently on the water.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-
-## Camera Direction
-
-32mm at child eye level, framing the boat on the water with Arda beside it. Camera holds steady
-to capture the rocking motion. No movement, no zoom.
-
-## Sound
-
-Soft stream ambience. The gentle 'rock-rock' sound of the boat swaying on water. Arda's voice
-is quiet and awed — not loud. No music, no background music, no melody, no song, no soundtrack,
-no chimes, no whooshes.
-
-## Negative Prompt
-
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
-dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack, indoor elements, other rooms, extra
-characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
-cinematic LUT, blue tint, green tint, orange shift, HDR look
-
-## Voice Lock
-
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
-
-## OpenArt Settings
-
-- Duration: 15 seconds
-- Mode: Text-to-video
-- Prompt enhancer: Off
-- Cinematic/auto camera: Off
-- Locked camera only
-
-## QA Checklist
-
-- [ ] First frame matches scene description
-- [ ] Character identity preserved (Arda)
-- [ ] No camera movement (locked camera)
-- [ ] No dialogue as on-screen text
-- [ ] No music, no background music
-- [ ] No new characters or objects appearing
-- [ ] Soft pastel preschool look maintained
-- [ ] No contrast increase, no saturation drift
-- [ ] No HDR, no glossy look, no oversharpening
-- [ ] Warm natural lighting preserved
-- [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
+## CHARACTER COUNT: 761
+## Continuity Gate
+- Boat has coral-red hull, yellow rim, open sky-blue cockpit visible throughout.
+- Boat never tips or travels yet; one natural rocking cycle only.
+- Arda never touches water or boat in this shot.
+- End pose prepares Shot 04: one finger hovering above stern.
+- Reject extra/fused fingers, duplicate boat, exaggerated waves, drift or pop-in.

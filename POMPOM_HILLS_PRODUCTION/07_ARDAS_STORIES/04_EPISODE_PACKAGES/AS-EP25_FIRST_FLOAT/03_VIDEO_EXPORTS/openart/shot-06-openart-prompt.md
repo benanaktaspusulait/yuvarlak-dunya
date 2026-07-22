@@ -1,66 +1,23 @@
-# Shot 06 — OpenArt Prompt — shot-06-try-again
+# Shot 06 — Try Again
 
-## Visual Prompt
+## Production Lock
+- 15s, Block B continuation, 32mm.
+- Video ref only: approved Shot 05 final frame as `@image1`.
+- Manual canonical Arda voice; no music.
 
-Arda's Home Garden on a bright sunny morning, shallow stream with smooth pebbles, calm water.
-Arda (energetic boy, brown curly hair, orange t-shirt, blue shorts) slowly and carefully lowers
-a soft toy boat — rounded, colourful — back onto the water surface. His movements are deliberate
-and gentle. The boat settles on the water and begins rocking gently. Arda watches it rock, his
-expression now focused and thoughtful. He does not reach for it immediately. He observes. Warm
-morning light, soft pastel colours, rounded safe shapes, no other characters, {style} {camera}
-{lighting}
+## Compact OpenArt Video Prompt
+15s single take. `@image1` only; frame matches. Wet-outside, empty-inside upright boat with coral-red hull, yellow rim, open sky-blue cockpit held with both hands. Arda lowers boat into same basin; ends upright, untouched, clear of rim. Speak exactly:
+0.5 Arda: "This time, very gently." Crouches lower without changing grip.
+3.2 Arda: "Slowly down..." Lowers boat toward water.
+5.9 Arda: "Soft as a feather." Boat touches water once; tiny plop.
+8.5 Arda: "And now I let go." Both hands release together, he moves back.
+11.2 Arda: "Nice and steady." Boat bobs once, stays upright with cockpit visible.
+13.7–15 action: Arda watches without reaching; end hands away, eyes open, mouth closed, boat upright. Soft garden, light birds; no music. Stable 32mm; no text.
 
-Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth,
-oversharpening, HDR, gloss, or harsh shadows.
-
-The garden background is locked from the first frame; keep shrubs, fence, sky, stream stable.
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
-
-## Camera Direction
-
-32mm at child eye level, framing Arda placing the boat. Camera holds steady. No movement, no zoom.
-
-## Sound
-
-Soft stream ambience. A gentle 'plop' as the boat touches water. Arda's quiet, determined
-voice. No music, no background music, no melody, no song, no soundtrack, no chimes, no whooshes.
-
-## Negative Prompt
-
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
-dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack, indoor elements, other rooms, extra
-characters, aggressive play, sharp edges, realistic proportions, modern technology, screens,
-cinematic LUT, blue tint, green tint, orange shift, HDR look
-
-## Voice Lock
-
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
-
-## OpenArt Settings
-
-- Duration: 15 seconds
-- Mode: Text-to-video
-- Prompt enhancer: Off
-- Cinematic/auto camera: Off
-- Locked camera only
-
-## QA Checklist
-
-- [ ] First frame matches scene description
-- [ ] Character identity preserved (Arda)
-- [ ] No camera movement (locked camera)
-- [ ] No dialogue as on-screen text
-- [ ] No music, no background music
-- [ ] No new characters or objects appearing
-- [ ] Soft pastel preschool look maintained
-- [ ] No contrast increase, no saturation drift
-- [ ] No HDR, no glossy look, no oversharpening
-- [ ] Warm natural lighting preserved
-- [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
+## CHARACTER COUNT: 761
+## Continuity Gate
+- Boat has coral-red hull, yellow rim, open sky-blue cockpit visible throughout.
+- Boat starts in both hands and ends untouched on water.
+- No rocking loop, tip, sinking, travel or push in this shot.
+- Never show a second boat or spontaneous dry boat.
+- Reject side swaps, fused fingers, drift, HDR, gloss and over-sharpening.
