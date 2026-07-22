@@ -2,23 +2,30 @@
 
 ## Production Lock
 - 15s, final Block B continuation, 32mm wide.
-- Video ref only: approved Shot 07 final frame as `@image1`.
+- Video ref only: approved Shot 07 final frame as @image1.
 - Manual canonical Arda voice; no music.
 
 ## Compact OpenArt Video Prompt
-15s single take. `@image1` only; same garden, upright boat with coral-red hull, yellow rim, open sky-blue cockpit gliding slowly, Arda partway rising. Boat glides short distance inside same basin; never touches rim or exits. Speak exactly:
-0.4 Arda: "It's floating!" Finishes standing while watching the boat.
-2.8 Arda: "Nice and steady!" Boat continues straight with one tiny natural bob.
-5.5 Arda: "My little tap worked!" Points once toward it with one hand.
-8.4 Arda: "Look how far you went!" Smiles; boat stays fully visible.
-11.2 Arda: "Hooray! Off you go!" Lowers pointing hand before clap. Hands meet once, separate.
-13.8–15 action: Arda settles; boat glides slowly. End eyes open, mouth closed. Soft garden, light birds, one quiet clap; no music. Stable 32mm; no text.
+15s. @image1. Cabin-boat (coral-red hull, yellow rim, blue-grey cabin, dark windows, red roof) continues same slow glide and direction, travels only a short additional distance, and stays clearly away from the basin rim. Arda: upright @image1, hands at sides, eyes closed.
+0.4 Arda: "It's floating!" Both eyes open; tracks boat.
+2.8 Arda: "Nice and steady!" Boat bobs once.
+5.5 Arda: "My little tap worked!" Brief point; hand begins returning.
+8.4 Arda: "Look how far you went!" Hand return ends; head tracks; hands prep clap.
+11.2 Arda: "Hooray! Off you go!" (no speed/direction change) One quiet clap; hands separate, begin lowering.
+13.8–15: Completes same hand-lowering to sides. Head move; breath; eyes track. End eyes open, mouth closed. 32mm; garden ambience; no music. No text.
 
-## CHARACTER COUNT: 776
+## CHARACTER COUNT: 779
 ## Continuity Gate
-- Arda fully lowers the pointing hand before beginning the clap.
-- Both hands meet once, separate completely and lower.
-- No pointing and clapping simultaneously.
-- Boat never exits frame, tips, accelerates, duplicates or changes design.
+- Arda begins fully standing, hands at sides and eyes gently closed exactly as in @image1.
+- At 0.4s, Arda opens his eyes once and directs his gaze toward the boat; thereafter, eyes remain open and track the boat naturally.
+- Boat is the cabin-boat: coral-red lower hull, yellow rim, blue-grey enclosed cabin, dark windows and red roof; shape, colours, proportions and all parts remain unchanged.
+- Boat is already in a slow continuous glide on calm water; no acceleration, restart or direction change.
+- The boat travels only a short additional distance, stays fully visible and remains clearly away from the basin rim.
+- At 5.5s, the point is brief; hand returns toward body immediately after.
+- At 8.4s, Arda finishes the same continuous hand return movement begun after 5.5s.
+- Exactly one quiet clap; hands separate completely and begin one smooth lowering movement immediately after contact.
+- Arda completes the same continuous hand-lowering movement from 11.2s until both hands rest at his sides at 15s; no second cycle or raising hands again.
+- Arda makes one small pleased head movement and one gentle closed-mouth breath.
+- Reject second glide, second point, extra bob, rocking, tipping, wake, splash or rim contact.
 - End with continuing boat motion for editability; no title card or fade.
-- Reject extra hands, frozen pose, large wake, colour/contrast/sharpness drift, HDR or gloss.
+- Reject color/contrast/sharpness drift, HDR or gloss.
