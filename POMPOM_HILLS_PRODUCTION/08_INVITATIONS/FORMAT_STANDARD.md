@@ -1,77 +1,70 @@
-# Pompom Hills Invitations — Format Standardı
+# Pompom Hills Invitations — Format Standard
 
-> Kısa, döngülü davet videoları — her karakterin kendine ait davet dili.
-
----
-
-## Seri Kimliği
-
-| Alan | Değer |
-|------|-------|
-| Seri adı | Pompom Hills Invitations |
-| Playlist adı | Pompom Hills Invitations \| Shorts |
-| Süre | 5 sn (1 shot × 5 sn) |
-| Hedef yaş | 3-6 |
-| Odak | Marka daveti, karakter tanıtımı, paylaşılabilirlik |
-| Format | Loop — ilk ve son kare birbirine bağlı |
+> Short, loopable invitation videos — each character has their own invitation style.
 
 ---
 
-## Format
+## Series Identity
 
-Her video:
-1. Karakter sahneye girer (farklı bir giriş tarzı)
-2. Kısa bir davet cümlesi söyler
-3. Sahneyi terk eder
-4. İlk kareye bağlanır — sonsuz döngü
-
----
-
-## Tekrarlanan Kalıp
-
-```
-Opening: Boş sahne (ilk kare ile aynı)
-Giriş: Karakter belirir (farklı yolla)
-Davet: Kısa cümle + hareket
-Kapanış: Karakter gider, ilk kareye dönüş
-```
+| Field | Value |
+|-------|-------|
+| Series name | Pompom Hills Invitations |
+| Playlist name | Pompom Hills Invitations \| Shorts |
+| Duration | 5 sec (1 shot × 5 sec) |
+| Target age | 3-4 |
+| Focus | Brand invitation, character introduction, shareability |
+| Format | Loop — first and last frame connected |
 
 ---
 
-## Karakter Davet Dilleri
+## Phase 1 Characters (6)
 
-| Karakter | Giriş | Çıkış | İmza Hareket | Cümle |
-|----------|-------|-------|--------------|-------|
-| Kiko | Tabela arkasından | Tabelanın arkasına koşar | "Gel gel" parmak hareketi | "Psst… come with me!" |
-| Lulu | Yapraklar açılır | Yapraklar kapanır | Parmağını dudağına getirir | "Something magical is waking up!" |
-| Momo | Tepeden yuvarlanır | Zıplayarak uçar | Toz bulutu + komik düşme | "Quick! A tiny adventure!" |
-| Bibi | Pencereden döner | Pencereye döner | Boş sandalyeyi gösterir | "I saved a little place for you!" |
-| Pipi | Ağaç arkasından | Ağaç arkasına saklanır | Utanarak el sallar | "You found us!" |
-| Toto | Yolda yürür | Yola devam eder | Eliyle "beraber gel" der | "One more friend. You!" |
-| Kiko (GM) | Uyanır | Pencereye koşar | Zıplayarak kalkar | "Ready for a new day?" |
-| Lulu (GM) | Uyanır | Pencereye gider | Güneşi eline alır | "Sun is saying hello" |
+| # | Character | Type | Color | Catchphrase |
+|---|-----------|------|-------|-------------|
+| 1 | Kiko | Human girl | #F8BBD0 (coral pink) | "What's that?" |
+| 2 | Mimi | Rabbit | #90CAF9 (soft blue) | "Let's see!" |
+| 3 | Opa | Owl | #A5D6A7 (warm green) | "Well done!" |
+| 4 | Arda | Human boy | #8CC9F0 (sky blue) | "Let's go!" |
+| 5 | Noah | Human boy | #8EC5F0 (blue) | "Let's make it fun!" |
+| 6 | Aiko | Human girl | #B7A4D8 (lavender) | "Let's take our time." |
 
 ---
 
-## Döngü Teknik Kuralları
+## Character Invitation Styles
+
+| Character | Entry | Exit | Signature Move | Line |
+|-----------|-------|------|----------------|------|
+| Kiko | Peeks from behind sign | Runs behind sign | Beckoning gesture | "Come with me!" |
+| Mimi | Peeks through flowers | Hops away | Ears perk up | "Let's see!" |
+| Opa | Perches on branch | Stays on branch | Adjusts glasses | "Well done!" |
+| Arda | Runs in | Runs out | Waves arm | "Hadi gidelim!" |
+| Noah | Dances in | Dances out | Claps hands | "Let's make it fun!" |
+| Aiko | Walks in slowly | Walks out slowly | Smiles | "Let's take our time." |
+| Kiko (GM) | Wakes up | Sits up in bed | Stretches | "Good morning!" |
+| Mimi (GM) | Wakes up | Sits up in burrow | Ears perk up | "Good morning!" |
+
+---
+
+## Loop Technical Rules
 
 ```text
-İLK KARE: Boş sahne — karakter yok.
-SON KARE: Boş sahne — karakter yok, ilk kare ile aynı.
-Karakter 120 kare (5 sn × 24fps) içinde girer ve çıkar.
-Döngü noktası fark edilmemeli — aynı açı, aynı ışık, aynı renk.
+FIRST FRAME: Empty scene — no characters.
+LAST FRAME: Empty scene — no characters, identical to first frame.
+Character enters and exits within 120 frames (5 sec × 24fps).
+Loop point must be imperceptible — same angle, same lighting, same colour.
 ```
 
 ---
 
-## Yasaklar
+## Restrictions
 
-- Karakter sahnenin ortasında donup kalmaz
-- Döngü kırılmaz (ilk ve son kare farklı olmaz)
-- Metin, altyazı, logo eklenmez
-- Müzik/şarkı yok — sadece doğal sesler
-- Kötü korkutucu imgeler yok
+- Character does not freeze mid-scene
+- Loop is not broken (first and last frame must match)
+- No text, subtitles, or logos added
+- No music/songs — only natural sounds
+- No dark or scary imagery
+- No characters not in Phase 1
 
 ---
 
-*Oluşturulma: 26 Temmuz 2026*
+*Created: 26 July 2026*
