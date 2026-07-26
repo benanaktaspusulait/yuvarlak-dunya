@@ -1,71 +1,51 @@
-# INV-EP06 — Toto: "One More Friend" v1.0
+# INV-EP06: Toto — "Our Next Story Needs One More Friend"
+
+## Genel Bilgi
+- **Seri:** Pompom Hills Invitations
+- **Bölüm:** EP06 — Toto: Our Next Story Needs One More Friend
+- **Süre:** 5 saniye (1 shot × 5 sn)
+- **Karakterler:** Toto
+- **Mekan:** Pompom Hills Yolu — sıcak gündüz
+- **Format:** 9:16 dikey (Instagram Reels, TikTok, YouTube Shorts)
+- **Döngü:** İlk ve son kare birbirine bağlı
+
+## Görsel Stil Kilidi
+> Soft rounded 3D preschool animation, matte handcrafted toy-set materials, warm pastel palette, medium-low contrast, soft natural morning light, no HDR, no glossy plastic highlights, no sharpening or clarity enhancement.
+
+## Karakter Tanımı
+- **Toto:** #64B5F6 (soft blue), yuvarlak tavşan, güvenilir, dost canlısı
 
 ---
 
-## Episode Lock
+## Shot 01 — Toto Path Invite
 
-| Field | Value |
-| --- | --- |
-| Süre | 5 sn (1 shot × 5 sn) |
-| Hedef yaş | 3-6 |
-| Seri | Pompom Hills — Invitations |
-| Format | Loop davet — ilk/son kare bağlantılı |
+### Scene Context
+
+| Alan | Değer |
+|------|-------|
+| Shot | 01 / 01 |
+| Süre | 5 sn |
+| Mekan | Pompom Hills Yolu |
 | Karakter | Toto |
-| Mekan | Pompom Hills Yolu — sıcak gündüz |
 | Zaman | Sıcak gündüz |
-| Ses | Toto (onaylı) |
-| Renk | Sıcak pastel palet |
-| Işık | Sıcak gündüz dış mekan |
-| Görsel yoğunluk | Düşük |
 
----
+### Purpose
 
-## Özet
+Toto patikada yürür, arkasını döner, elini uzatır, yoluna devam eder. Döngü videosu.
 
-Toto Pompom Hills boyunca bir patikada yürür. Arkasını döner, güven veren gülümsemeyle — "Our next story needs one more friend. You!" — elini uzatır. Sonra döner ve yoluna devam eder, uzaklaşarak kaybolur. Patika boş kalır, ilk kareye bağlanır.
-
----
-
-## Sahne Yapısı
-
-| Sıra | Dosya | Süre | Karakter | Amaç |
-|------|-------|------|----------|------|
-| 01 | `shot-01-toto-path-invite.md` | 5 sn | Toto | Tam döngü — yürü, dön, davet et, yürü |
-
----
-
-## Diyalog
-
-```
-Toto: Our next story needs one more friend. You!
-```
-
----
-
-## Ses Notları
-
-| Karakter | Ses |
-|----------|-----|
-| Toto | Onaylı Toto sesi — güvenilir, sıcak, cesaretlendirici, dost canlısı |
-
----
-
-## Döngü Teknik Notları
+### Visual Prompt
 
 ```text
-İLK KARE: Pompom Hills boyunca boş patika, sıcak gündüz.
-SON KARE: Pompom Hills boyunca boş patika, ilk kare ile aynı.
-Toto soldan girer (10. kare), ortada döner (30. kare), sağa çıkarak uzaklaşır (105. kare).
-Toplam kare: 120 (5 sn × 24fps).
+Winding path through Pompom Hills — warm daytime, soft green hills, colorful flowers, pastel sky, warm sunlight. Path is empty. Toto (soft blue #64B5F6) walks in from left along path. He turns back to camera with confident smile: "Our next story needs one more friend. You!" He reaches out hand toward viewer, turns and continues walking, disappearing into distance — path empty, identical to first frame. No other characters, no text, {style} {camera} {lighting}
 ```
 
----
+### Dialogue
 
-## QA Durumu
+Toto: "Our next story needs one more friend. You!"
 
-| Shot | QA Skoru | Üretim Hazır |
-|------|:--------:|:------------:|
-| 01 | /10 | |
+### Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, redesigned environment, background music
 
 ---
 

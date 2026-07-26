@@ -1,71 +1,51 @@
-# INV-EP07 — Kiko: Good Morning v1.0
+# INV-EP07: Kiko — Good Morning
+
+## Genel Bilgi
+- **Seri:** Pompom Hills Invitations
+- **Bölüm:** EP07 — Kiko: Good Morning
+- **Süre:** 5 saniye (1 shot × 5 sn)
+- **Karakterler:** Kiko
+- **Mekan:** Kiko'nun Yatak Odası — sıcak sabah
+- **Format:** 9:16 dikey (Instagram Reels, TikTok, YouTube Shorts)
+- **Döngü:** İlk ve son kare birbirine bağlı
+
+## Görsel Stil Kilidi
+> Soft rounded 3D preschool animation, matte handcrafted toy-set materials, warm pastel palette, medium-low contrast, soft natural morning light, no HDR, no glossy plastic highlights, no sharpening or clarity enhancement.
+
+## Karakter Tanımı
+- **Kiko:** #F8BBD0 (coral pink), yuvarlak tavşan, enerjik, parlak gözler
 
 ---
 
-## Episode Lock
+## Shot 01 — Kiko Good Morning
 
-| Field | Value |
-| --- | --- |
-| Süre | 5 sn (1 shot × 5 sn) |
-| Hedef yaş | 3-6 |
-| Seri | Pompom Hills — Invitations |
-| Format | Loop davet — ilk/son kare bağlantılı |
+### Scene Context
+
+| Alan | Değer |
+|------|-------|
+| Shot | 01 / 01 |
+| Süre | 5 sn |
+| Mekan | Kiko'nun Yatak Odası |
 | Karakter | Kiko |
-| Mekan | Kiko'nun Yatak Odası — sıcak sabah |
 | Zaman | Sıcak sabah |
-| Ses | Kiko (onaylı) |
-| Renk | Sıcak sabah paleti / altın güneş ışığı |
-| Işık | Sıcak sabah iç mekan — altın saat |
-| Görsel yoğunluk | Düşük |
 
----
+### Purpose
 
-## Özet
+Kiko yatağında uyuyor, uyanır, zıplayarak kalkar, pencereye koşar. Döngü videosu.
 
-Kiko yatağında uyuyor, sıcak sabah güneş ışığı pencereden içeri sızıyor. Gözlerini yavaşça açar, esner, sonra aniden enerjiyle kalkar — "Good morning from Pompom Hills! Ready for a new day?" — pencereye koşar, güneşe el sallar. Yatak boş kalır, ilk kareye bağlanır.
-
----
-
-## Sahne Yapısı
-
-| Sıra | Dosya | Süre | Karakter | Amaç |
-|------|-------|------|----------|------|
-| 01 | `shot-01-kiko-good-morning.md` | 5 sn | Kiko | Tam döngü — uyu, uyan, zıpla, pencere |
-
----
-
-## Diyalog
-
-```
-Kiko: Good morning from Pompom Hills! Ready for a new day?
-```
-
----
-
-## Ses Notları
-
-| Karakter | Ses |
-|----------|-----|
-| Kiko | Onaylı Kiko sesi — uykulu sonra aniden enerjik, parlak, neşeli |
-
----
-
-## Döngü Teknik Notları
+### Visual Prompt
 
 ```text
-İLK KARE: Kiko yatağında uyuyor, sıcak sabah güneş ışığı yastıkta.
-SON KARE: Boş yatak, sıcak sabah güneş ışığı yastıkta — ilk kare ile aynı.
-Kiko 15. karede uyanır, 30. karede kalkar, 60. karede pencereye koşar.
-Toplam kare: 120 (5 sn × 24fps).
+Cozy bedroom, warm morning golden sunlight through round window. Small bed with soft blankets. Kiko (coral pink #F8BBD0) is asleep, peaceful, one ear flopped. Eyes slowly open, she stretches. Then suddenly jumps out of bed: "Good morning from Pompom Hills! Ready for a new day?" She runs to window, waving at sun. Bed now empty, sunlight on pillow — identical to first frame but without Kiko. No other characters, no text, {style} {camera} {lighting}
 ```
 
----
+### Dialogue
 
-## QA Durumu
+Kiko: "Good morning from Pompom Hills! Ready for a new day?"
 
-| Shot | QA Skoru | Üretim Hazır |
-|------|:--------:|:------------:|
-| 01 | /10 | |
+### Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, redesigned environment, background music
 
 ---
 

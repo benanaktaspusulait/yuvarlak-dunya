@@ -1,71 +1,51 @@
-# INV-EP05 — Pipi: "You Found Us!" v1.0
+# INV-EP05: Pipi — "You Found Us!"
+
+## Genel Bilgi
+- **Seri:** Pompom Hills Invitations
+- **Bölüm:** EP05 — Pipi: You Found Us!
+- **Süre:** 5 saniye (1 shot × 5 sn)
+- **Karakterler:** Pipi
+- **Mekan:** Ağaç Arkası — sıcak gündüz
+- **Format:** 9:16 dikey (Instagram Reels, TikTok, YouTube Shorts)
+- **Döngü:** İlk ve son kare birbirine bağlı
+
+## Görsel Stil Kilidi
+> Soft rounded 3D preschool animation, matte handcrafted toy-set materials, warm pastel palette, medium-low contrast, soft natural morning light, no HDR, no glossy plastic highlights, no sharpening or clarity enhancement.
+
+## Karakter Tanımı
+- **Pipi:** #A5D6A7 (soft green), yuvarlak tavşan, utangaç, meraklı gözler
 
 ---
 
-## Episode Lock
+## Shot 01 — Pipi Tree Peek
 
-| Field | Value |
-| --- | --- |
-| Süre | 5 sn (1 shot × 5 sn) |
-| Hedef yaş | 3-6 |
-| Seri | Pompom Hills — Invitations |
-| Format | Loop davet — ilk/son kare bağlantılı |
+### Scene Context
+
+| Alan | Değer |
+|------|-------|
+| Shot | 01 / 01 |
+| Süre | 5 sn |
+| Mekan | Ağaç Arkası |
 | Karakter | Pipi |
-| Mekan | Ağaç Arkası — sıcak gündüz |
 | Zaman | Sıcak gündüz |
-| Ses | Pipi (onaylı) |
-| Renk | Sıcak pastel palet |
-| Işık | Sıcak gündüz dış mekan |
-| Görsel yoğunluk | Düşük |
 
----
+### Purpose
 
-## Özet
+Ağaç gövdesi kareyi doldurur. Pipi uzanır, saklanır, tekrar uzanır, el sallar, kaybolur. Döngü videosu.
 
-Bir ağaç gövdesi kareyi doldurur. Pipi yavaşça arkasından başını uzatır — utangaç ama meraklı. "You found us! Welcome to Pompom Hills!" der, tekrar saklanır, tekrar uzanır, utangaçça el sallar, tamamen kaybolur. Ağaç tek başına kalır, ilk kareye bağlanır.
-
----
-
-## Sahne Yapısı
-
-| Sıra | Dosya | Süre | Karakter | Amaç |
-|------|-------|------|----------|------|
-| 01 | `shot-01-pipi-tree-peek.md` | 5 sn | Pipi | Tam döngü — peek, saklan, peek, salla, yok ol |
-
----
-
-## Diyalog
-
-```
-Pipi: You found us! Welcome to Pompom Hills!
-```
-
----
-
-## Ses Notları
-
-| Karakter | Ses |
-|----------|-----|
-| Pipi | Onaylı Pipi sesi — utangaç, yumuşak, tereddütlü ama sıcak |
-
----
-
-## Döngü Teknik Notları
+### Visual Prompt
 
 ```text
-İLK KARE: Ağaç gövdesi, karakter yok.
-SON KARE: Ağaç gövdesi, karakter yok — ilk kare ile aynı.
-Pipi 18. karede uzanır, 50. karede saklanır, 65. karede tekrar uzanır, 105. karede kaybolur.
-Toplam kare: 120 (5 sn × 24fps).
+Tree trunk fills center of frame — warm daytime, soft bark texture, green leaves above, warm sunlight filtering through. No characters visible. Pipi (soft green #A5D6A7) slowly peeks out from behind tree — half face, curious eyes. She whispers: "You found us! Welcome to Pompom Hills!" She hides again, peeks once more, gives small shy wave, disappears completely — leaving just the tree, identical to first frame. No other characters, no text, {style} {camera} {lighting}
 ```
 
----
+### Dialogue
 
-## QA Durumu
+Pipi: "You found us! Welcome to Pompom Hills!"
 
-| Shot | QA Skoru | Üretim Hazır |
-|------|:--------:|:------------:|
-| 01 | /10 | |
+### Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, redesigned environment, background music
 
 ---
 

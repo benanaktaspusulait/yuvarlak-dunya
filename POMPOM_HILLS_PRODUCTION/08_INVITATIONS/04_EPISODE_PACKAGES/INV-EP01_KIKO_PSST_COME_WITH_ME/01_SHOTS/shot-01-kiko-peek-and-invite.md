@@ -1,71 +1,29 @@
-# INV-EP01 — Shot 01 — Kiko Peek and Invite
+# Shot 01 — Kiko Peek and Invite
 
----
+## Scene Context
 
-## Shot Contract
-- **Bölüm:** INV-EP01 — Kiko: "Psst… Come With Me!"
-- **Shot:** 01 / 01
-- **Süre:** 5 saniye
-- **Karakterler:** Kiko
-- **Mekan:** Pompom Hills Giriş Tabelası — sıcak gündüz
-- **Kamera:** Orta yakın plan, statik
-- **Amaç:** Kiko belirir, davet eder, koşarak gider — sorunsuz döngü
+| Alan | Değer |
+|------|-------|
+| Shot | 01 / 01 |
+| Süre | 5 sn |
+| Mekan | Pompom Hills Giriş Tabelası |
+| Karakter | Kiko |
+| Zaman | Sıcak gündüz |
 
----
+## Purpose
 
-## Görsel Prompt
+Kiko tabelanın arkasından başını uzatır, "Psst… come with me!" der, "gel" işareti yapar, tabelanın arkasına koşarak çıkar. Tabela tek başına kalır — ilk kareye bağlanır.
 
-```text
-Duration: 5 seconds.
-
-Use @image1 as the exact locked first frame and only visual continuity source.
-Do not reinterpret @image1.
-
-Pompom Hills entrance sign — colorful, playful font, warm pastel colors, round shapes. Warm daytime sunlight, soft shadows, green grass, a few flowers nearby.
-
-Kiko coral pink #F8BBD0 peeks from behind the entrance sign, eyes bright with excitement. She whispers "Psst… come with me!" and beckons with her paw — a "come here" gesture. Then she runs off behind the sign, disappearing from view.
-
-The sign remains alone — identical to the first frame.
-
-No other characters. No text overlays. No captions.
-
-Dialogue: Kiko: Psst… come with me! Pompom Hills is waiting!
-```
-
-## Diyalog
-
-```
-Kiko: Psst… come with me! Pompom Hills is waiting!
-```
-
-## Ses Tasarımı
-
-- Dış mekan ortam sesi: hafif rüzgar, uzaktan kuşlar
-- Kiko'nun fısıltılı "Psst" sesi — samimi, sırrını paylaşan
-- Hızlı patik sesleri koşarken
-- Müzik yok, melodi yok
-
-## Negatif Prompt
+## Visual Prompt
 
 ```text
-low quality, blurry, deformed, extra limbs, text, readable text, watermark, logo, title card, subtitles, captions, speech bubbles, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, non-canon characters, redesigned sign, camera reset, background morphing, fast movement, camera shake, music, background music, melody, song, soundtrack
+Pompom Hills entrance sign, warm daytime. Kiko (coral pink #F8BBD0 shirt, round rabbit, bright eyes) peeks from behind the colorful sign with excited expression. She whispers "Psst… come with me!" and beckons with her paw — a "come here" gesture. Then she runs off behind the sign, disappearing from view. The sign remains alone — identical to the first frame. Soft pastel colours, warm light, rounded safe shapes, no other characters, no text, {style} {camera} {lighting}
 ```
 
-## OpenArt Ayarları
-- **En Boy Oranı:** 9:16 (dikey, sosyal medya)
-- **Süre:** 5 saniye
-- @image1: Pompom Hills giriş tabelası — sıcak gündüz, boş
-- **Prompt geliştirici:** Kapalı
-- **Sinematik/otomatik kamera:** Kapalı
+## Dialogue
 
-## Shot Ayrıştırması
+Kiko: "Psst… come with me! Pompom Hills is waiting!"
 
-| Zaman | Aksiyon | Kamera |
-|---|---|---|
-| 0-1 sn | Boş tabela (son kare ile aynı) | Statik orta |
-| 1-2 sn | Kiko tabelanın arkasından başını uzatır, gözleri parlak | Statik orta |
-| 2-3.5 sn | "Psst… come with me!" + "gel" hareketi | Statik orta |
-| 3.5-5 sn | Kiko tabelanın arkasına koşarak çıkar, tabela boş kalır | Statik orta |
+## Negative Prompt
 
-## Son Kare Gereksinimi
-Boş giriş tabelası — ilk kare ile aynı. Sorunsuz döngü noktası.
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, redesigned environment, background music

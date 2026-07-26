@@ -1,71 +1,51 @@
-# INV-EP08 — Lulu: Good Morning v1.0
+# INV-EP08: Lulu — Good Morning
+
+## Genel Bilgi
+- **Seri:** Pompom Hills Invitations
+- **Bölüm:** EP08 — Lulu: Good Morning
+- **Süre:** 5 saniye (1 shot × 5 sn)
+- **Karakterler:** Lulu
+- **Mekan:** Lulu'nun Yatak Odası — sıcak sabah
+- **Format:** 9:16 dikey (Instagram Reels, TikTok, YouTube Shorts)
+- **Döngü:** İlk ve son kare birbirine bağlı
+
+## Görsel Stil Kilidi
+> Soft rounded 3D preschool animation, matte handcrafted toy-set materials, warm pastel palette, medium-low contrast, soft natural morning light, no HDR, no glossy plastic highlights, no sharpening or clarity enhancement.
+
+## Karakter Tanımı
+- **Lulu:** #CE93D8 (soft purple), yuvarlak tavşan, düşsel, sakin
 
 ---
 
-## Episode Lock
+## Shot 01 — Lulu Good Morning
 
-| Field | Value |
-| --- | --- |
-| Süre | 5 sn (1 shot × 5 sn) |
-| Hedef yaş | 3-6 |
-| Seri | Pompom Hills — Invitations |
-| Format | Loop davet — ilk/son kare bağlantılı |
+### Scene Context
+
+| Alan | Değer |
+|------|-------|
+| Shot | 01 / 01 |
+| Süre | 5 sn |
+| Mekan | Lulu'nun Yatak Odası |
 | Karakter | Lulu |
-| Mekan | Lulu'nun Yatak Odası — sıcak sabah |
 | Zaman | Sıcak sabah |
-| Ses | Lulu (onaylı) |
-| Renk | Sıcak sabah paleti / altın güneş ışığı |
-| Işık | Sıcak sabah iç mekan — altın saat |
-| Görsel yoğunluk | Düşük |
 
----
+### Purpose
 
-## Özet
+Lulu yatağında uyuyor, yavaşça uyanır, güneşi eline alır gibi yapar, göz kırpar. Döngü videosu.
 
-Lulu'nun yatak odası, sıcak sabah ışığı. Lulu yavaşça doğrulur, gözleri yumuşak, pencereden içeri güneş ışığını izler. Elini uzatır, ışığı avucunda tutar gibi — "Good morning… the sun is saying hello to you." Gülümser, göz kırpar. Yataktan kalkar, pencereye gider, yatak boş kalır, ilk kareye bağlanır.
-
----
-
-## Sahne Yapısı
-
-| Sıra | Dosya | Süre | Karakter | Amaç |
-|------|-------|------|----------|------|
-| 01 | `shot-01-lulu-good-morning.md` | 5 sn | Lulu | Tam döngü — uyu, uyan, ışık tut, git |
-
----
-
-## Diyalog
-
-```
-Lulu: Good morning… the sun is saying hello to you.
-```
-
----
-
-## Ses Notları
-
-| Karakter | Ses |
-|----------|-----|
-| Lulu | Onaylı Lulu sesi — yumuşak, düşsel, nazik, sakin |
-
----
-
-## Döngü Teknik Notları
+### Visual Prompt
 
 ```text
-İLK KARE: Lulu yatağında uyuyor, sıcak sabah güneş ışığı yastıkta.
-SON KARE: Boş yatak, sıcak sabah güneş ışığı yastıkta — ilk kare ile aynı.
-Lulu 18. karede uyanır, 30. karede doğrulur, 50. karede ışığı tutar.
-Toplam kare: 120 (5 sn × 24fps).
+Cozy bedroom, warm morning golden sunlight through round window. Soft blankets, dreamy atmosphere. Lulu (soft purple #CE93D8) is asleep, peaceful, one ear draped over pillow. Eyes slowly open, sits up gently. Watches sunlight pour through window. Reaches out hand as if holding light: "Good morning… the sun is saying hello to you." Smiles and winks. Gets out of bed, walks to window — bed empty, sunlight on pillow, identical to first frame but without Lulu. No other characters, no text, {style} {camera} {lighting}
 ```
 
----
+### Dialogue
 
-## QA Durumu
+Lulu: "Good morning… the sun is saying hello to you."
 
-| Shot | QA Skoru | Üretim Hazır |
-|------|:--------:|:------------:|
-| 01 | /10 | |
+### Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, redesigned environment, background music
 
 ---
 

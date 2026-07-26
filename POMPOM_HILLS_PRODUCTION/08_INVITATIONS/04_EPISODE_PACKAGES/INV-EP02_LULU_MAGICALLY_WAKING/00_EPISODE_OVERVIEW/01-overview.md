@@ -1,71 +1,51 @@
-# INV-EP02 — Lulu: "Something Magical Is Waking Up" v1.0
+# INV-EP02: Lulu — "Something Magical Is Waking Up"
+
+## Genel Bilgi
+- **Seri:** Pompom Hills Invitations
+- **Bölüm:** EP02 — Lulu: Something Magical Is Waking Up
+- **Süre:** 5 saniye (1 shot × 5 sn)
+- **Karakterler:** Lulu
+- **Mekan:** Dev Çiçek — sıcak gündüz çimenliği
+- **Format:** 9:16 dikey (Instagram Reels, TikTok, YouTube Shorts)
+- **Döngü:** İlk ve son kare birbirine bağlı
+
+## Görsel Stil Kilidi
+> Soft rounded 3D preschool animation, matte handcrafted toy-set materials, warm pastel palette, medium-low contrast, soft natural morning light, no HDR, no glossy plastic highlights, no sharpening or clarity enhancement.
+
+## Karakter Tanımı
+- **Lulu:** #CE93D8 (soft purple), yuvarlak tavşan, düşsel gözler, yumuşak kulaklar
 
 ---
 
-## Episode Lock
+## Shot 01 — Lulu Petals Whisper
 
-| Field | Value |
-| --- | --- |
-| Süre | 5 sn (1 shot × 5 sn) |
-| Hedef yaş | 3-6 |
-| Seri | Pompom Hills — Invitations |
-| Format | Loop davet — ilk/son kare bağlantılı |
+### Scene Context
+
+| Alan | Değer |
+|------|-------|
+| Shot | 01 / 01 |
+| Süre | 5 sn |
+| Mekan | Dev Çiçek — sıcak gündüz |
 | Karakter | Lulu |
-| Mekan | Dev çiçek — sıcak gündüz çimenliği |
 | Zaman | Sıcak gündüz |
-| Ses | Lulu (onaylı) |
-| Renk | Sıcak pastel palet |
-| Işık | Sıcak gündüz dış mekan |
-| Görsel yoğunluk | Düşük |
 
----
+### Purpose
 
-## Özet
+Dev çiçeğin yaprakları açılır, Lulu görünür, fısıltı, yapraklar kapanır. Döngü videosu.
 
-Dev bir çiçek çimenlikte durur. Yaprakları yavaşça açılarak Lulu'yu ortaya çıkarır. Lulu parmağını dudağına getirir — "Shhh… something magical is waking up!" — sonra yavaşça elini uzatır. Yapraklar tekrar kapanır, ilk kareye döner.
-
----
-
-## Sahne Yapısı
-
-| Sıra | Dosya | Süre | Karakter | Amaç |
-|------|-------|------|----------|------|
-| 01 | `shot-01-lulu-petals-whisper.md` | 5 sn | Lulu | Tam döngü — yapraklar açılır, fısıltı, kapanır |
-
----
-
-## Diyalog
-
-```
-Lulu: Shhh… something magical is waking up!
-```
-
----
-
-## Ses Notları
-
-| Karakter | Ses |
-|----------|-----|
-| Lulu | Onaylı Lulu sesi — yumuşak fısıltı, düşsel, nazik |
-
----
-
-## Döngü Teknik Notları
+### Visual Prompt
 
 ```text
-İLK KARE: Dev çiçek, yapraklar kapalı, sıcak gündüz çimenliği.
-SON KARE: Dev çiçek, yapraklar kapalı, ilk kare ile aynı.
-Lulu yapraklar açıldığında belirir (18. kare) ve kapandığında kaybolur (100. kare).
-Toplam kare: 120 (5 sn × 24fps).
+A giant colorful flower in a warm daytime meadow, soft pastel petals, green stem, warm sunlight. Petals slowly part to reveal Lulu (soft purple #CE93D8, gentle eyes). She puts a finger to her lips — "Shhh" — then whispers "something magical is waking up!" She reaches out gently. Petals close again, hiding Lulu, returning to the closed-flower frame. No other characters, no text, {style} {camera} {lighting}
 ```
 
----
+### Dialogue
 
-## QA Durumu
+Lulu: "Shhh… something magical is waking up!"
 
-| Shot | QA Skoru | Üretim Hazır |
-|------|:--------:|:------------:|
-| 01 | /10 | |
+### Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, redesigned environment, background music
 
 ---
 

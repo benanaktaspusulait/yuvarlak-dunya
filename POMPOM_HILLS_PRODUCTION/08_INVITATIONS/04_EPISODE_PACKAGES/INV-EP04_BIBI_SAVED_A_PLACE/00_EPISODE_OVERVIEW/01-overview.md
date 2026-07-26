@@ -1,72 +1,51 @@
-# INV-EP04 — Bibi: "I Saved a Little Place for You" v1.0
+# INV-EP04: Bibi — "I Saved a Little Place for You"
+
+## Genel Bilgi
+- **Seri:** Pompom Hills Invitations
+- **Bölüm:** EP04 — Bibi: I Saved a Little Place for You
+- **Süre:** 5 saniye (1 shot × 5 sn)
+- **Karakterler:** Bibi
+- **Mekan:** Bibi'nin Pencere Köşesi — sıcak gündüz iç mekan
+- **Format:** 9:16 dikey (Instagram Reels, TikTok, YouTube Shorts)
+- **Döngü:** İlk ve son kare birbirine bağlı
+
+## Görsel Stil Kilidi
+> Soft rounded 3D preschool animation, matte handcrafted toy-set materials, warm pastel palette, medium-low contrast, soft natural morning light, no HDR, no glossy plastic highlights, no sharpening or clarity enhancement.
+
+## Karakter Tanımı
+- **Bibi:** #FFF176 (warm yellow), yuvarlak tavşan, örgü şal, sıcak gülümseme
 
 ---
 
-## Episode Lock
+## Shot 01 — Bibi Window Chair
 
-| Field | Value |
-| --- | --- |
-| Süre | 5 sn (1 shot × 5 sn) |
-| Hedef yaş | 3-6 |
-| Seri | Pompom Hills — Invitations |
-| Format | Loop davet — ilk/son kare bağlantılı |
+### Scene Context
+
+| Alan | Değer |
+|------|-------|
+| Shot | 01 / 01 |
+| Süre | 5 sn |
+| Mekan | Bibi'nin Pencere Köşesi |
 | Karakter | Bibi |
-| Mekan | Bibi'nin Pencere Köşesi — sıcak gündüz iç mekan |
 | Zaman | Sıcak gündüz |
-| Ses | Bibi (onaylı) |
-| Renk | Sıcak pastel palet |
-| Işık | Sıcak gündüz iç mekan |
-| Görsel yoğunluk | Düşük |
 
----
+### Purpose
 
-## Özet
+Bibi pencerede çayını yudumluyor, kameraya döner, boş sandalyeyi gösterir, tekrar pencereye döner. Döngü videosu.
 
-Bibi küçük bir masada, pencereye bakarak çayını yudumluyor. Yavaşça kameraya döner, sıcak gülümsemeyle — "I saved a little place for you!" — yanındaki boş sandalyeyi gösterir. Tekrar pencereye döner, ilk kareye bağlanır.
-
----
-
-## Sahne Yapısı
-
-| Sıra | Dosya | Süre | Karakter | Amaç |
-|------|-------|------|----------|------|
-| 01 | `shot-01-bibi-window-chair.md` | 5 sn | Bibi | Tam döngü — pencere, dön, davet et, dön |
-
----
-
-## Diyalog
-
-```
-Bibi: I saved a little place for you!
-```
-
----
-
-## Ses Notları
-
-| Karakter | Ses |
-|----------|-----|
-| Bibi | Onaylı Bibi sesi — sıcak, sakin, büyükanne tonu, güvence veren |
-
----
-
-## Döngü Teknik Notları
+### Visual Prompt
 
 ```text
-İLK KARE: Bibi pencerede, sırtı kameraya dönük, çay içiyor.
-SON KARE: Bibi pencerede, sırtı kameraya dönük, ilk kare ile aynı.
-Bibi 15. karede döner, konuşur, 100. karede tekrar pencereye döner.
-Boş sandalye tüm karelerde görünmeli (anlamsal önem).
-Toplam kare: 120 (5 sn × 24fps).
+Cozy window nook, warm daytime light through round window. Small wooden table with teacup. Bibi (warm yellow #FFF176, knitted shawl) sits at table, back to camera, looking outside. Empty wooden chair beside her. Bibi slowly turns to camera with warm smile, gestures to empty chair: "I saved a little place for you!" She turns back to window, sipping tea — returning to starting frame. No other characters, no text, {style} {camera} {lighting}
 ```
 
----
+### Dialogue
 
-## QA Durumu
+Bibi: "I saved a little place for you!"
 
-| Shot | QA Skoru | Üretim Hazır |
-|------|:--------:|:------------:|
-| 01 | /10 | |
+### Negative Prompt
+
+low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, sharp objects, extra characters, redesigned environment, background music
 
 ---
 
