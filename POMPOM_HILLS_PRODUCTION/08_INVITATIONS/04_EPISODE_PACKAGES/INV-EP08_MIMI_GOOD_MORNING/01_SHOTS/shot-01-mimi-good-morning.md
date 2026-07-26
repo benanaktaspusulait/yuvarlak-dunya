@@ -1,4 +1,4 @@
-# Shot 01 — Mimi Good Morning
+# Step 2 — Video Shot 01: Good Morning
 
 ## Scene Context
 | Field | Value |
@@ -28,3 +28,9 @@ low quality, blur, facial distortion, extra limbs, duplicate character, sudden h
 
 ## Dialogue
 Mimi: "Good morning!"
+
+## OpenArt Settings
+- Duration: 5 seconds
+- @image1: Generated sleeping Mimi still from Step 1
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off

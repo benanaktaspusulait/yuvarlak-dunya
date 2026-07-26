@@ -26,7 +26,7 @@
 | 3 | Opa | Owl | #A5D6A7 (warm green) | "Well done!" |
 | 4 | Arda | Human boy | #8CC9F0 (sky blue) | "Let's go!" |
 | 5 | Noah | Human boy | #8EC5F0 (blue) | "Let's make it fun!" |
-| 6 | Aiko | Human girl | #B7A4D8 (lavender) | "Let's take our time." |
+| 6 | Luca | Human boy | #68AE68 (leaf green) | "Let's explore together!" |
 
 ---
 
@@ -39,7 +39,7 @@
 | Opa | Perches on branch | Stays on branch | Adjusts glasses | "Well done!" |
 | Arda | Runs in | Runs out | Waves arm | "Hadi gidelim!" |
 | Noah | Dances in | Dances out | Claps hands | "Let's make it fun!" |
-| Aiko | Walks in slowly | Walks out slowly | Smiles | "Let's take our time." |
+| Luca | Walks in confidently | Walks out | Waves arm | "Let's explore together!" |
 | Kiko (GM) | Wakes up | Sits up in bed | Stretches | "Good morning!" |
 | Mimi (GM) | Wakes up | Sits up in burrow | Ears perk up | "Good morning!" |
 

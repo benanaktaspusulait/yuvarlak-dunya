@@ -15,7 +15,7 @@
     ├── INV-EP03_OPA_WELL_DONE/
     ├── INV-EP04_ARDA_LETS_GO/
     ├── INV-EP05_NOAH_MAKE_IT_FUN/
-    ├── INV-EP06_AIKO_TAKE_OUR_TIME/
+    ├── INV-EP06_LUCA_EXPLORE/
     ├── INV-EP07_KIKO_GOOD_MORNING/
     └── INV-EP08_MIMI_GOOD_MORNING/
 ```
@@ -33,7 +33,7 @@
 | 03 | INV-EP03 | Opa | "Well done!" | 5 sec |
 | 04 | INV-EP04 | Arda | "Hadi gidelim!" | 5 sec |
 | 05 | INV-EP05 | Noah | "Let's make it fun!" | 5 sec |
-| 06 | INV-EP06 | Aiko | "Let's take our time." | 5 sec |
+| 06 | INV-EP06 | Luca | "Let's explore together!" | 5 sec |
 
 ### Good Mornings (2)
 
@@ -54,7 +54,7 @@
 | 4 | INV-EP07 (Kiko GM) | Morning series anchor |
 | 5 | INV-EP03 (Opa) | Wise, adds variety |
 | 6 | INV-EP05 (Noah) | Creative, strong closing |
-| 7 | INV-EP06 (Aiko) | Calm, niche audience |
+| 7 | INV-EP06 (Luca) | Adventurous, exploration theme |
 | 8 | INV-EP08 (Mimi GM) | Gentle morning |
 
 ---

@@ -11,28 +11,51 @@
 
 ## Character Reference
 - **Mimi:** #90CAF9 (soft blue), rabbit, floppy ears
+- **Catchphrase:** "Let's see!"
 
 ## Production Notes
-- Single action: Mimi wakes up, ears perk up, smiles
-- Single line: 2 words
+- Two-step process: still image first, then video
+- @image1 = empty burrow image (provided)
+- No World, no Image 2
 - Camera: Fully locked
-- Note: Mimi does NOT leave the burrow — she only wakes up and sits up
 
 ---
 
-## Shot 01
-
-### Scene Context
-| Field | Value |
-|-------|-------|
-| Shot | 01 / 01 |
-| Duration | 5 sec |
-| Location | Mimi's Burrow |
-| Character | Mimi |
-| Time | Warm morning |
+## Step 1: Take Shot — Generate Sleeping Mimi Still
 
 ### Purpose
-Mimi wakes up in burrow, ears perk up, smiles.
+Create a clean static first frame showing Mimi sleeping in the burrow.
+
+### Take Shot Prompt (OpenArt)
+```text
+Use @image1 as the exact locked burrow, camera angle and composition.
+
+Add exactly one canonical Mimi sleeping naturally in the burrow beneath the soft blanket. Mimi is a small preschool rabbit with soft blue fur #90CAF9, long floppy ears, white belly, green eyes, pink nose, soft rounded Pompom Hills proportions and her established facial design. Her head rests naturally on the pillow; both eyes are gently closed and her mouth is closed with a peaceful sleeping expression. Only her head, ears, upper body and a small part of her arms are visible above the blanket. Her correctly proportioned body lies naturally beneath the blanket.
+
+Preserve @image1 exactly: same burrow, pillows, blanket, window, decorations, lighting, camera angle and framing. Do not move, replace, add or remove any burrow element. Preserve the warm morning sunlight. Apply the soft Pompom Hills 3D look: gentle pastel colours, medium-low contrast, matte rounded materials, soft clean surfaces and gentle sharpness.
+
+Create one clean static first frame for Shot 01. No motion, text or captions.
+```
+
+### Negative Prompt
+```text
+awake Mimi, open eyes, sitting, standing, open mouth, teeth, extra character, duplicate Mimi, wrong ears, missing floppy ears, adult proportions, oversized Mimi, tiny Mimi, floating body, body outside burrow, malformed hands, extra limbs, blanket covering face, burrow redesign, changed bed, moved furniture, new props, camera change, photorealism, harsh contrast, oversaturation, HDR, excessive sharpness, glossy plastic, dark lighting, blur, text, watermark
+```
+
+### OpenArt Settings
+- Mode: Take Shot (still image)
+- @image1: Empty burrow image (provided)
+- World: None
+- Image 2: None
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
+
+---
+
+## Step 2: Video Shot 01 — Good Morning
+
+### Purpose
+Mimi wakes up in burrow, ears perk up, smiles, sits up.
 
 ### Visual Prompt (OpenArt)
 ```text
@@ -50,6 +73,12 @@ low quality, blur, facial distortion, extra limbs, duplicate character, sudden h
 
 ### Dialogue
 Mimi: "Good morning!"
+
+### OpenArt Settings
+- Duration: 5 seconds
+- @image1: Generated sleeping Mimi still from Step 1
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
 
 ---
 

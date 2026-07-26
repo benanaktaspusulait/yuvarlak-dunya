@@ -1,4 +1,4 @@
-# Shot 01 — Kiko Good Morning
+# Step 2 — Video Shot 01: Good Morning
 
 ## Scene Context
 | Field | Value |
@@ -28,3 +28,9 @@ low quality, blur, facial distortion, extra limbs, duplicate character, sudden s
 
 ## Dialogue
 Kiko: "Good morning!"
+
+## OpenArt Settings
+- Duration: 5 seconds
+- @image1: Generated sleeping Kiko still from Step 1
+- Prompt enhancer: Off
+- Cinematic/auto camera: Off
