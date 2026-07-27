@@ -16,21 +16,55 @@ Mimi wakes up in burrow, ears perk up, says "Good morning!", sits up.
 ```text
 Duration: 5 seconds.
 
+Create this shot natively in 9:16 vertical format for a Short/Reel. Do not generate a horizontal composition and crop it afterward.
+
 Use @image1 as the exact locked first frame and only visual continuity source. Preserve Mimi, the burrow, blanket, window, lighting, colours, proportions and camera exactly; do not redesign or reframe.
 
-Mimi soft blue #90CAF9 with long floppy ears begins asleep in the cozy burrow exactly as in @image1. At 0.3s she gently opens both eyes once, ears perk up with curiosity. At 0.8s Mimi says clearly in her canonical voice: "Good morning!" While speaking, she makes one small cozy stretch. At 3.2s she smoothly sits upright and turns her open-eyed gaze toward the sunny window. End with Mimi still seated safely in the burrow, mouth closed, smiling softly. Stable camera; warm pastel morning light; soft matte surfaces; no music, text or captions.
+Adapt the locked composition for the vertical frame: Mimi, her complete visible upper body, both canonical ears, the pillow and the relevant blanket area remain inside the central safe area. Keep enough of the sunny window visible to establish the direction of the morning light. Preserve comfortable space above Mimi’s ears when she reaches the seated position. Do not stretch, squeeze, redesign or artificially blur the burrow to fill the vertical frame.
+
+0.0–0.35s:
+Mimi remains naturally asleep exactly as in @image1. Her closed mouth, peaceful expression and tiny breathing motion remain alive.
+
+0.35–0.75s:
+Mimi gently opens both eyes once. Her two canonical floppy ears lift only slightly with curiosity while remaining naturally attached. She makes one tiny gaze adjustment toward the warm morning light.
+
+0.8–1.75s:
+Mimi says clearly in her manually selected canonical voice:
+“Good morning!”
+
+During the line, her mouth uses accurate lip-sync while her eyes, expression and subtle breathing remain naturally alive. Her head stays supported by the pillow and her body remains beneath the blanket. She does not stretch or sit up while speaking.
+
+1.75–2.55s:
+After the line ends, Mimi’s mouth closes naturally. She performs one small cozy stretch beneath the blanket. Her shoulders and upper arms move subtly, but no hidden limb breaks through, duplicates or becomes visible unexpectedly. The blanket reacts with only one soft natural rise and settle; it does not change shape, slide away or uncover her body.
+
+2.55–4.25s:
+Mimi begins one continuous, physically natural sit-up movement. She gently lifts her head from the pillow, raises her upper body and reaches a comfortable seated position. Her body remains correctly connected and supported by the bed. The blanket stays over her lower body and folds naturally around her waist. During the sit-up movement, do not crop Mimi’s head, ear tips, shoulders, arms or the blanket around her waist. No pose snap, teleporting, sliding or sudden limb appearance.
+
+4.25–5.0s:
+Now seated, Mimi turns her eyes and head slightly toward the sunny window. She smiles softly, gives one gentle blink and begins one tiny forward ear movement. End at 5.0s while that subtle ear movement is still settling. Do not finish with a rigid frozen hold.
+
+The camera remains completely stable with no tracking, zooming, panning or automatic reframing. Soft pastel, medium-low-contrast, matte Pompom Hills appearance; warm morning light; all important character action away from the outer 12% of the frame; no music, text or captions.
 ```
 
 ## Negative Prompt
 ```text
-low quality, blur, facial distortion, extra limbs, duplicate character, sudden hopping, jumping, running, teleporting, pose snap, camera movement, angle change, burrow redesign, prop changes, harsh contrast, oversaturation, HDR, excessive sharpness, glossy plastic surfaces, dark lighting, text, captions, watermark, background music
+horizontal framing, 16:9 composition, landscape crop, cropped ears, cropped head, cropped arms, cropped blanket, insufficient headroom, stretched environment, squeezed environment, blurred filler background, auto-reframing, digital zoom, speaking while stretching, speaking while sitting up, blanket disappearing, blanket sliding away, blanket changing design, limbs emerging through blanket, extra arms, detached arms, body clipping through bed, instant sitting pose, frozen final pose, rigid stare, excessive ear movement, repeated blinking, wrong voice, substitute voice, narrator voice, low quality, blur, facial distortion, extra limbs, duplicate character, sudden hopping, jumping, running, teleporting, pose snap, camera movement, angle change, burrow redesign, prop changes, harsh contrast, oversaturation, HDR, excessive sharpness, glossy plastic surfaces, dark lighting, text, captions, watermark, background music
 ```
 
 ## Dialogue
 Mimi: "Good morning!"
 
+## Audio
+Very soft indoor morning ambience only: faint room tone and a subtle distant outdoor bird sound coming through the window. No music, melody or rhythmic soundtrack.
+
 ## OpenArt Settings
+- Model: Seedance
 - Duration: 5 seconds
-- @image1: Generated sleeping Mimi still from Step 1
+- Aspect ratio: native 9:16
+- @image1: approved 9:16 sleeping Mimi still created in Step 1
+- Mimi character: manually selected
+- Canonical Mimi voice: manually selected
+- Auto Voice: Off
+- Music: Off
 - Prompt enhancer: Off
 - Cinematic/auto camera: Off
