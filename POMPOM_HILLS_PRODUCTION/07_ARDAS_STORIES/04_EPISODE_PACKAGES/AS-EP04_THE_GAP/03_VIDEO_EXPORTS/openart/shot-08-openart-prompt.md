@@ -1,68 +1,64 @@
-# Shot 08 — OpenArt Prompt — shot-08-widening-the-bridge
+# Shot 08 — The Bridge Works — OpenArt Video
 
 ## Visual Prompt
 
-Indoor play area of a warm cozy home, soft pastel floor, afternoon light. Arda (energetic boy,
-brown curly hair, orange t-shirt, blue shorts) kneels beside a bridge of wooden blocks across
-a gap between cushions. He places additional blocks side by side, widening the bridge — two
-blocks wide, then three. He pats the bridge gently and says "Wide enough!" He pushes the toy
-car across. The car rolls smoothly from one side to the other. Arda claps with joy: "I did
-it!" Soft pastel colours, warm light, rounded safe shapes, no other characters, {style}
-{camera} {lighting}
+```text
+Duration: 15 seconds. Format: 16:9 landscape. Use @image1 as the exact locked first frame and only visual continuity source. Begin exactly from the approved Shot 07 final frame: Arda’s hand is already gently pushing the same moving toy car on the starting cushion, its front wheels immediately before the completed bridge. Luca and Noah sit safely beside the outer edges, watching the wheels. Preserve Arda, Luca, Noah, their canonical clothing and scale, the same toy car, two cushions, gap, room, camera, lighting and the completed bridge exactly. The bridge remains exactly five blocks long × two blocks wide, ten rounded wooden blocks total, one flat layer. Do not reset any pose, hand, gaze, wheel or object.
 
-The indoor play area background is locked from the first frame; keep cushions, warm interior
-stable.
+Continue the unfinished push from the first frame without pause. At 0.3s Arda says with focused excitement, “Slow and straight!” The front wheels physically roll onto the first pair of bridge blocks, followed by the rear wheels. Arda keeps one hand naturally behind the car; the car never moves by itself.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Use one very slow, smooth child-eye lateral follow only, keeping the whole bridge, both cushions and all three children readable. From 1.5s to 4.8s the same car rolls steadily across the centre of the two-block-wide path. Both left wheels remain on the left row and both right wheels remain on the right row. Every bridge block stays completely fixed, flat and aligned. Noah tracks the wheels, points without touching the bridge and says at 2.0s, “Both wheels fit!” Luca watches the centre join and says at 3.3s, “And it stays steady!”
 
-## Camera Direction
+From 4.9s to 6.5s the front wheels roll onto the far cushion, then the rear wheels follow. Arda completes the single continuous push and releases the car only after all four wheels are safely on the far cushion. The car rolls a few centimetres and stops naturally. Arda lifts both hands and says at 6.1s, “It made it across!”
 
-32mm at child eye level; starts on Arda placing blocks to widen the bridge, follows the car
-as it rolls smoothly across, settles on Arda's clap and celebration. Stable, warm framing.
+At 6.8s Luca gives one small clap and says, “Making it longer helped!” Noah gives one happy nod, gestures across the two rows and answers at 8.0s, “Making it wider helped too!” Arda looks from the bridge to both friends, opens one hand toward them and says at 9.3s, “We fixed it together!”
 
-## Sound
+From 10.3s to 12.0s the three friends share one brief gentle celebration: one small high-five chain, Arda to Luca and then Luca to Noah. No jumping, shouting, group hug or hands crossing through faces. The bridge and car remain visible and unchanged.
 
-Soft indoor ambience continues. Blocks make soft "tik" sounds as they're placed. The car
-rolls smoothly with a satisfying "vrr-vrr" — no wobble, no stops. Arda's "Wide enough!" is
-proud and confident. His "I did it!" is joyful and celebratory. The clap is soft and genuine.
-No music, no dramatic sting.
+At 12.1s Noah points to the successful car and says, “Ready for another ride?” Luca replies at 13.0s, “Yes—together!” Arda reaches toward the same car while smiling and says at 13.7s, “Back to the start!”
+
+End at 15.0s with Arda physically beginning to roll the same car back across the far cushion toward the bridge while Luca and Noah lean forward and follow it with their eyes. Preserve visible hand, wheel, gaze and body motion through the final frame; do not freeze, fade, cut or begin another crossing.
+
+Use each child’s manually selected canonical saved voice only, with accurate lip-sync and no shared, swapped or off-screen voices. Keep all dialogue sequential; never overlap voices. No unexplained idle pause or intentional silence longer than 0.8 seconds. Use quiet indoor room tone, soft clothing movement, gentle wooden contact, subtle wheel rolls and two soft hand-clap sounds only. No crash, dramatic sound, cheering crowd, music, melody, song, narration, text or captions.
+
+Maintain the approved warm pastel preschool look, matte handcrafted materials, medium-low contrast and gentle sharpness. Preserve stable brightness, white balance and colour throughout; no saturation, HDR, gloss, harsh-shadow, contrast or sharpness increase.
+```
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary,
-dark lighting, fast movement, sudden camera motion, static talking pose, characters frozen,
-background music, music, melody, song, soundtrack, outdoor elements, other rooms, extra
-characters, aggressive play, broken blocks, falling car, crying, frustration, modern
-technology, screens, realistic proportions, cinematic LUT, blue tint, green tint, orange shift,
-HDR look
-
-## Voice Lock
-
-Each character must use their registered locked voice from VOICE_TRACKER.md.
-Arda uses Arda's locked voice. Luca uses Luca's locked voice. Noah uses Noah's locked voice.
-Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
+```text
+low quality, blur, facial distortion, identity change, hair change, clothing change, colour change, body proportion change, wrong voice, voice swap, adult voice, inaccurate lip-sync, overlapping dialogue, missing Arda, missing Luca, missing Noah, extra character, duplicate character, character pop-in, disappearance, teleportation, pose reset, hand reset, gaze reset, extra limb, malformed hand, fused fingers, car reset, extra toy car, car duplication, self-driving car, floating car, flying car, car falling, car tipping, car leaving bridge edge, wheels off rows, sudden speed, crash, bridge collapse, bridge wobble, bridge breaking, bent bridge, moving bridge block, missing bridge block, extra bridge block, more than ten blocks, block pop-in, disappearing block, duplicated block, floating block, stacked block, multi-layer bridge, changed cushion, changed gap, early car release, child touching bridge during crossing, child blocking car path, excessive celebration, jumping, shouting, group hug, crossed hands, frozen ending, static talking pose, idle staring, long silence, camera cut, angle jump, fast camera, orbit, zoom, reframe, close-up, room redesign, background drift, harsh contrast, oversaturation, HDR, excessive sharpness, glossy plastic, dark lighting, fade-out, text, captions, speech bubble, logo, watermark, background music
+```
 
 ## OpenArt Settings
 
 - Duration: 15 seconds
-- Mode: Text-to-video
-- Prompt enhancer: Off
-- Cinematic/auto camera: Off
-- Locked camera only
+- Format: 16:9 landscape
+- Mode: Frame-to-Video
+- @image1: Approved Shot 07 final frame
+- Continuity source: Only @image1
+- Additional Take Shot: None
+- Arda canonical character and voice: Manually selected
+- Luca canonical character and voice: Manually selected
+- Noah canonical character and voice: Manually selected
+- Auto Voice: Off
+- Prompt Enhancer: Off
+- Cinematic/Auto Camera: Off
+- Music: Off
 
-## Shot Approval Checklist
+## Approval Checklist
 
-- [ ] First frame matches scene description
-- [ ] Character identity preserved (Arda / Luca / Noah)
-- [ ] No camera movement (locked camera)
-- [ ] No dialogue as on-screen text
-- [ ] No music, no background music
-- [ ] No new characters or objects appearing
-- [] Soft pastel preschool look maintained
-- [ ] No contrast increase, no saturation drift
-- [ ] No HDR, no glossy look, no oversharpening
-- [ ] Warm natural lighting preserved
-- [ ] First 0.5s is stable and edit-safe
-- [ ] Final 0.5s is calm and transition-safe
+- [ ] Opening frame exactly matches the approved Shot 07 final frame
+- [ ] Arda continues the same unfinished push without a pose or hand reset
+- [ ] The same car physically crosses from the starting cushion to the far cushion
+- [ ] Left and right wheels remain on their corresponding bridge rows
+- [ ] The bridge remains exactly ten blocks: five long, two wide, one flat layer
+- [ ] No block moves, appears, disappears, duplicates or stacks
+- [ ] Arda releases the car only after all four wheels reach the far cushion
+- [ ] Luca and Noah remain safely outside the car path
+- [ ] Each child has a distinct, sequential canonical voice
+- [ ] The celebration is brief and physically clean
+- [ ] No idle gap exceeds 0.8 seconds
+- [ ] Final frame contains ongoing car, hand, gaze and body movement
+- [ ] No music, text, camera jump or visual-quality drift
+```
