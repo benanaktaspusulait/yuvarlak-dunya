@@ -1,11 +1,11 @@
-# Shot 04 — Make the Bridge Longer — OpenArt Video
+# Shot 04 — Make the Bridge Longer — OpenArt Video — FINAL-FIXED
 
 ## Visual Prompt
 
 ```text
-Duration: 15 seconds. Format: 16:9 landscape. Use @image1 as the exact locked first frame and only visual continuity source. Begin exactly from the approved Shot 03 final frame: Luca is already carrying the same Block 5 toward the far end; Noah is pointing to the small gap beside the slightly shifted Block 4; Arda has returned the same toy car to the starting cushion with one hand still on it. The bridge contains Blocks 1–4 and exactly five unused blocks remain in the visible pile. Preserve the room, all three children, canonical identities and clothing, two cushions, gap, four-block bridge, five unused blocks, one car, colours, lighting and every visible object position exactly. Do not reset poses, hands, car, blocks or camera.
+Duration: 15 seconds. Format: 16:9 landscape. Model: Seedance. Use only the approved real Shot 03 final frame as @image1, the exact locked first frame and only visual continuity source; no Take Shot. Begin exactly from that frame: Luca is already carrying the same Block 5 toward the far end; Noah is pointing to the small gap beside the slightly shifted Block 4; Arda has returned the same toy car to the starting cushion with one hand still on it. The bridge contains Blocks 1–4 and exactly five unused blocks remain in the visible pile. Preserve the room, all three children, canonical identities and clothing, two cushions, gap, four-block bridge, five unused blocks, one car, colours, lighting and every visible object position exactly. Do not reset poses, hands, car, blocks or camera.
 
-Continue all existing motion immediately. From 0.0s to 1.5s Luca carries the same Block 5 in both hands and says, “One more block!” Noah keeps his eyes and pointing hand on the far end while Arda steadies the stationary car. Use one very slow child-eye lateral glide only, keeping all three children, the full bridge, both cushions and pile readable.
+Continue all existing motion immediately. From 0.0s to 1.5s Luca carries the same Block 5 in both hands and says, “One more block!” Noah keeps his eyes and pointing hand on the far end while Arda steadies the stationary car. Use one very slow child-eye 35mm lateral glide only, keeping all three children, the full bridge, both cushions and pile readable.
 
 From 1.6s to 3.2s Noah uses both hands to slide the same Block 4 forward no more than two centimetres, returning it to line with Blocks 1–3. He says, “I’ll line it up.” Block 4 stays flat and visible; every movement is caused by Noah.
 
@@ -36,8 +36,9 @@ low quality, blur, facial distortion, identity change, hair change, clothing cha
 
 - Duration: 15 seconds
 - Format: 16:9 landscape
+- Model: Seedance
 - Mode: Frame-to-Video
-- @image1: Approved Shot 03 final frame
+- @image1: Approved real Shot 03 final frame only
 - Continuity source: Only @image1
 - Additional Take Shot: None
 - Arda canonical character and voice: Manually selected

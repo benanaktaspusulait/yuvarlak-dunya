@@ -1,11 +1,11 @@
-# Shot 03 — The First Bridge Test — OpenArt Video
+# Shot 03 — The First Bridge Test — OpenArt Video — FINAL-FIXED
 
 ## Visual Prompt
 
 ```text
-Duration: 15 seconds. Format: 16:9 landscape. Use @image1 as the exact locked first frame and only visual continuity source. Begin exactly from the approved Shot 02 final frame: Arda’s hand is already beginning to push the same toy car toward the narrow 4 × 1 bridge; Luca is crouched beside the far cushion and Noah is pointing along the bridge. The same six unused blocks remain in the visible pile. Preserve the room, all three children, canonical identities and clothing, two cushions, gap, four bridge blocks, six unused blocks, one car, colours, lighting and every visible object position exactly. Do not reset the car, hands, poses or camera.
+Duration: 15 seconds. Format: 16:9 landscape. Model: Seedance. Use only the approved real Shot 02 final frame as @image1, the exact locked first frame and only visual continuity source; no Take Shot. Begin exactly from that frame: Arda’s hand is already beginning to push the same toy car toward the narrow 4 × 1 bridge; Luca is crouched beside the far cushion and Noah is pointing along the bridge. The same six unused blocks remain in the visible pile. Preserve the room, all three children, canonical identities and clothing, two cushions, gap, four bridge blocks, six unused blocks, one car, colours, lighting and every visible object position exactly. Do not reset the car, hands, poses or camera.
 
-Continue the existing push and wheel motion immediately. From 0.0s to 1.4s Arda gently rolls the car toward Block 1 and says brightly, “Here it goes!” The camera makes one very slow child-eye lateral glide only, keeping all three children, the full bridge, both cushions and the unused pile readable.
+Continue the existing push and wheel motion immediately. From 0.0s to 1.4s Arda gently rolls the car toward Block 1 and says brightly, “Here it goes!” The camera makes one very slow child-eye 35mm lateral glide only, keeping all three children, the full bridge, both cushions and the unused pile readable.
 
 At 1.6s the front wheels climb naturally onto Block 1. Noah follows the wheels with his pointing finger and says, “Nice and slow!” Luca shifts beside the far cushion and watches Block 4.
 
@@ -36,8 +36,9 @@ low quality, blur, facial distortion, identity change, hair change, clothing cha
 
 - Duration: 15 seconds
 - Format: 16:9 landscape
+- Model: Seedance
 - Mode: Frame-to-Video
-- @image1: Approved Shot 02 final frame
+- @image1: Approved real Shot 02 final frame only
 - Continuity source: Only @image1
 - Additional Take Shot: None
 - Arda canonical character and voice: Manually selected

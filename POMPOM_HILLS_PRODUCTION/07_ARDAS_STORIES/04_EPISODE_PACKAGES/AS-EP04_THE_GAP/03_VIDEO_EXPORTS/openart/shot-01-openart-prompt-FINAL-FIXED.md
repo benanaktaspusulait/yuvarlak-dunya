@@ -1,11 +1,11 @@
-# Shot 01 — Bridge Challenge — OpenArt Video
+# Shot 01 — Bridge Challenge — OpenArt Video — FINAL-FIXED
 
 ## Visual Prompt
 
 ```text
-Duration: 15 seconds. Format: 16:9 landscape. Use @image1 as the exact locked opening image and only visual continuity source; no Take Shot. The opening image must already show Arda, Luca and Noah together, one toy car, two floor cushions separated by one small safe gap, and exactly ten matching rounded wooden bridge blocks in one visible loose pile. Preserve their canonical identities, clothing, proportions, the approved room, object designs, colours, warm pastel lighting, matte surfaces, medium-low contrast and gentle sharpness. Nothing may appear, disappear, duplicate or move without visible physical action.
+Duration: 15 seconds. Format: 16:9 landscape. Model: Seedance. Use @image1 as the exact locked opening image and only visual continuity source; no Take Shot. The opening image must already show Arda, Luca and Noah together, one toy car, two floor cushions separated by one small safe gap, and exactly ten matching rounded wooden bridge blocks in one visible loose pile. Preserve their canonical identities, clothing, proportions, the approved room, object designs, colours, warm pastel lighting, matte surfaces, medium-low contrast and gentle sharpness. Nothing may appear, disappear, duplicate or move without visible physical action.
 
-Motion begins immediately. At 0.2s Arda gently pushes the existing car toward the gap and says, “Ready, little car?” Luca follows it with his eyes; Noah points toward the gap. Use one very slow child-eye push-in only, keeping all three children, both cushions, the whole gap, car and block pile readable.
+Motion begins immediately. At 0.2s Arda gently pushes the existing car toward the gap and says, “Ready, little car?” Luca follows it with his eyes; Noah points toward the gap. Use one very slow child-eye 35mm push-in only, keeping all three children, both cushions, the whole gap, car and block pile readable.
 
 At 2.1s the car stops safely at the near cushion edge before any wheel crosses the gap. Noah says, “Wait—there’s a gap!” Arda catches and steadies the same car. Luca leans closer to inspect the distance.
 
@@ -32,6 +32,7 @@ low quality, blur, facial distortion, identity change, hair change, clothing cha
 
 - Duration: 15 seconds
 - Format: 16:9 landscape
+- Model: Seedance
 - Mode: Frame-to-Video
 - @image1: Selected approved opening image showing all three children, car, cushions, gap and exactly 10 blocks
 - Continuity source: Only @image1

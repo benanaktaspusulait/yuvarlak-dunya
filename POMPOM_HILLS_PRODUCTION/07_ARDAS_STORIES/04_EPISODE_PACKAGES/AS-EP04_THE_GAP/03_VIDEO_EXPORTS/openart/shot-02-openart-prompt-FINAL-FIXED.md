@@ -1,11 +1,11 @@
-# Shot 02 — Build the First Bridge — OpenArt Video
+# Shot 02 — Build the First Bridge — OpenArt Video — FINAL-FIXED
 
 ## Visual Prompt
 
 ```text
-Duration: 15 seconds. Format: 16:9 landscape. Use the approved Shot 01 final frame as @image1 and the only visual continuity source; no Take Shot. Begin with the exact unfinished motion: Arda is lowering Block 1 at the near edge, Luca is carrying Block 2 in both hands behind him, and Noah is carrying Block 3 in both hands behind Luca. The same seven unused blocks remain in the visible pile. Preserve the approved room, three canonical children, clothing, proportions, one toy car, two cushions, gap, block design, object positions, colours and lighting exactly. Do not reset hands or poses.
+Duration: 15 seconds. Format: 16:9 landscape. Model: Seedance. Use the approved real Shot 01 final frame as @image1 and the only visual continuity source; no Take Shot. Begin with the exact unfinished motion: Arda is lowering Block 1 at the near edge, Luca is carrying Block 2 in both hands behind him, and Noah is carrying Block 3 in both hands behind Luca. The same seven unused blocks remain in the visible pile. Preserve the approved room, three canonical children, clothing, proportions, one toy car, two cushions, gap, block design, object positions, colours and lighting exactly. Do not reset hands or poses.
 
-Continue all motion immediately. From 0.0–1.4s Arda finishes placing the same Block 1 and says, “First block—steady!” Luca keeps Block 2 in both hands and Noah keeps Block 3 in both hands; neither child sets down, swaps or passes a block. Use one very slow child-eye lateral glide only, keeping all children, the full gap, car and remaining pile readable.
+Continue all motion immediately. From 0.0–1.4s Arda finishes placing the same Block 1 and says, “First block—steady!” Luca keeps Block 2 in both hands and Noah keeps Block 3 in both hands; neither child sets down, swaps or passes a block. Use one very slow child-eye 35mm lateral glide only, keeping all children, the full gap, car and remaining pile readable.
 
 At 1.6s Luca lowers the same Block 2 from his hands directly after Block 1 and says, “Mine goes next!” Arda guides the join with one finger. No new block appears.
 
@@ -34,8 +34,9 @@ low quality, blur, facial distortion, identity change, hair change, clothing cha
 
 - Duration: 15 seconds
 - Format: 16:9 landscape
+- Model: Seedance
 - Mode: Frame-to-Video
-- @image1: Approved Shot 01 final frame
+- @image1: Approved real Shot 01 final frame
 - Continuity source: Only @image1
 - Take Shot: None
 - Arda canonical character and voice: Manually selected
