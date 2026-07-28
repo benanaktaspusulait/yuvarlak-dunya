@@ -1,144 +1,49 @@
-# Welcome to Crystal Cave — Shot 01 — The Hidden Entrance
+# Welcome to Crystal Cave — Shot 01 — The Hidden Entrance 
 
----
+## Story Function
 
-## ⚠️ Production Gate Warning
+**Hook:** Luca notices a mysterious glow beneath three moving flowers and discovers a hidden cave entrance.
 
-**Bu shot dosyası render'a hazır DEĞİLDİR.** Crystal Cave için Canon Hero View ve World Spec henüz onaylanmamıştır (Policy §5, madde 1-2). Bu, yalnızca bir **görsel konsept taslağıdır**. Gerçek render öncesi `POMPOM_HILLS_PRODUCTION/02_WORLDS/32-crystal-cave/` altında bible + world-spec + Hero View tamamlanmalı ve bu dosya güncellenmelidir.
-
----
-
-## Scene Context
-
-| Alan | Değer |
-| --- | --- |
-| Episode | ONB-E04 — Welcome to Crystal Cave |
-| Shot | 01 / 03 |
-| Duration | 15 seconds |
-| Location | Stone Hill — hidden cave entrance among flowers |
-| Characters | None (world is the hero, per Policy §5 format) |
-
----
-
-## Background Object Lock
-
-The Stone Hill entrance area (SH-STONES-01 rounded pastel stones, existing flowers) is locked per the existing Stone Hill bible. The cave entrance itself is a NEW element pending canon Hero View approval — treat all cave-specific visuals in this shot as concept-stage only.
-
----
-
-## Continuity
-
-This is the first story shot of the episode. It begins after the optional Stone Hill
-Adventures Micro-Opening pre-roll (a reusable world asset, not a story shot).
-
-Use the approved Stone Hill Adventures Micro-Opening final frame as `@image1` for
-environment continuity only. This is an environment-only shot — no characters appear. The environment must match the micro-opening set.
-
----
-
-## Visual Prompt (CONCEPT — pending Hero View)
+## Visual Prompt
 
 ```text
-Create a cinematic 16:9 shot at the EXISTING Stone Hill of Pompom Hills, showing a small hidden cave entrance.
+Duration: 15 seconds. Format: 16:9. Use @image1 as the exact locked first frame and only visual continuity source. Preserve the approved Stone Hill entrance area, rounded pastel stones, flowers, warm daylight, colours, Luca’s scale and child-eye camera framing exactly. Do not redesign, reframe or cut.
 
-IMPORTANT: The existing Stone Hill rounded pastel stones and flowers are LOCKED per the current Stone Hill bible.
-DO NOT redesign existing Stone Hill elements.
+Begin exactly from @image1 with Luca already standing on the existing Stone Hill path, slightly left of centre, and the small round cave entrance already visible in the mid-background, partly concealed by exactly three existing fluffy flowers. Luca wears his canonical leaf-green clothing #68AE68 and has his canonical wavy brown hair and freckles. No character or object may appear after the shot begins.
 
-NOTE: The cave entrance itself has no approved Canon Hero View yet. Do not treat this prompt as final. It exists to guide concept exploration only.
+At 0.4s, a faint pastel pink-blue warmth softly flickers inside the existing entrance. The same three flowers tilt gently toward it one after another. Luca notices the movement, leans closer and says at 1.2s: “Hmm… what are the flowers looking at?”
 
-----------------------------------------
-ENVIRONMENT (Crystal Cave entrance — CONCEPT)
-A small, round, softly lit cave opening, partially hidden by flowers and rounded stones. No jagged rock edges — entrance is smooth and rounded like all Pompom Hills architecture. A faint soft pastel glow (pink/blue/lavender) is visible just inside, hinting at what's within.
+Luca takes two small synchronized steps toward the flowers. At 4.3s he carefully parts only the same three flowers with both hands, without picking, bending or duplicating them, revealing more of the entrance that was already behind them. His eyes widen and he says at 5.5s: “A tiny hidden doorway!”
 
-----------------------------------------
-CAMERA
-Wide establishing shot, 35mm, eye-level, slow push-in toward the entrance.
+The faint warmth inside the entrance gently brightens once. Luca keeps one hand near the flowers, points toward the opening with the other and says at 8.3s: “And something is glowing inside!”
 
-----------------------------------------
-LIGHTING
-Natural Stone Hill daylight outside; soft pastel crystal glow beginning to show from within the entrance.
+At 10.5s Luca looks briefly toward camera, gives one inviting hand gesture and says: “Come on—let’s look together.” He turns back immediately and takes two cautious steps toward the entrance. End at 15.0s with Luca still walking toward it, one foot in motion, while the same faint glow remains stable. Do not freeze.
 
-----------------------------------------
-STYLE
-High-end Pixar-quality preschool animation, rounded shapes, ultra clean render, identical production design to existing Pompom Hills worlds.
-
-----------------------------------------
-NEGATIVE
-Reject immediately if any of these happen:
-- Jagged or sharp rock formations
-- Dark, frightening entrance
-- Existing Stone Hill elements changed
-- Any on-screen text, captions or subtitles
-- Bats, spiders or scary creatures
-
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No subtitles. No text.
+Keep Luca’s canonical identity, face, hair, freckles, clothing, proportions, scale and approved saved voice consistent. The entrance is small, smooth, round, safe and inviting, never dark or looming. Use smooth connected motion, accurate lip-sync and no unexplained idle pause longer than 0.8 seconds. Stable child-eye 35mm camera; warm pastel daylight; medium-low contrast; gentle sharpness; soft matte handcrafted surfaces. Stone Hill ambience, light wind, subtle flower rustles and synchronized footsteps only. No music, narration, text or captions.
 ```
-
----
-
-## Camera Direction
-
-Wide establishing, 35mm, eye-level. Slow push-in toward the cave entrance — mirrors Cloud Hill's "slow push in" emotional-approach convention.
-
----
-
-## Dialogue
-
-```text
-(No dialogue — this is an environment-only shot)
-```
-
----
-
-## Shot Breakdown
-
-| Time | Action | Camera |
-|---|---|---|
-| 0-5 sn | Wide view of Stone Hill, flowers frame a small opening. | Wide, static |
-| 5-10 sn | Camera slowly pushes toward the entrance. | Slow push-in |
-| 10-15 sn | A faint pastel glow becomes visible just inside. | Slow push-in |
-
----
-
-## Sound
-
-- Soft outdoor wind (Stone Hill ambience)
-- A very faint, soft hum beginning to emerge from the cave
-- No echo, no dripping water sounds that could feel unsettling
-
----
-
-## Lighting
-
-Natural daylight outside; soft pastel glow (pink/blue/lavender) emerging from within — concept stage, pending Hero View approval.
-
----
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, photorealistic, horror, scary, dark cave, jagged rocks, bats, spiders, violence, extra characters, redesigned Stone Hill elements
+```text
+low quality, blur, facial distortion, identity change, clothing change, colour change, body proportion change, extra limbs, malformed hands, fused fingers, duplicate Luca, additional character, character pop-in, teleporting, flower appearing, flower disappearing, extra flower, picked flower, broken flower, new cave entrance, changing entrance, jagged entrance, giant entrance, dark cave, horror, bats, spiders, animals, large glow, light beam, light orb, portal, new prop, pose snap, frozen pose, frozen ending, sliding feet, floating feet, long silence, incorrect lip-sync, wrong voice, camera movement, camera shake, zoom, angle change, cut, reframe, Stone Hill redesign, changing stones, harsh contrast, oversaturation, HDR, excessive sharpness, glossy plastic, text, captions, title card, logo, watermark, background music
+```
 
----
+## OpenArt Settings
 
-## QA Checklist
+- Duration: **15 seconds**
+- Format: **16:9**
+- `@image1`: Approved Stone Hill entrance first frame — Luca already present; cave entrance and exactly three flowers already visible
+- Continuity source: **Only `@image1`**
+- Luca canonical character: **Selected**
+- Luca canonical voice: **Manually selected**
+- Auto Voice: **Off**
+- Prompt Enhancer: **Off**
+- Cinematic/Auto Camera: **Off**
+- Music: **Off**
 
-Reference: `16_VIDEO_QA_SPEC.md`
+## Final Pre-Generation Check
 
-- [ ] **BLOCKED — World bible not yet written.**
-- [ ] **BLOCKED — World Spec not yet written.**
-- [ ] **BLOCKED — Canon Hero View not yet approved.**
-- [ ] Existing Stone Hill elements verified unchanged.
-- [ ] No rendering artefacts.
-- [ ] Canonical rules followed once Hero View exists.
+- The uploaded first frame must already contain Luca, the cave entrance and exactly three flowers.
+- The Crystal Cave entrance design must be approved before this shot is generated.
+- Do not add a separate world/reference image beside `@image1`.
 
----
-
-## Scale
-
-No characters in this shot. Entrance should feel small, safe and inviting — never large or looming.
-
----
-
-## Reference Usage
-
-No canon reference available yet. Use Stone Hill's existing bible (`POMPOM_HILLS_PRODUCTION/02_WORLDS/STONE_HILL/00_CANON/27-stone-hill-bible.md`) for the surrounding area only. Cave interior has no reference.
