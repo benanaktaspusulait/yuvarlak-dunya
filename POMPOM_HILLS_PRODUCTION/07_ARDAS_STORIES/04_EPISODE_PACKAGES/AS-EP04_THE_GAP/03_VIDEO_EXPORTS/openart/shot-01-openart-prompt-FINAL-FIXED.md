@@ -1,31 +1,40 @@
-# Shot 01 — Bridge Challenge — OpenArt Video — FINAL-FIXED
+# Shot 01 — Little Builders’ Room — THIRD-RUN-SAFE
 
-## Visual Prompt
+## OpenArt Video Prompt
 
 ```text
-Duration: 15 seconds. Format: 16:9 landscape. Model: Seedance. Use @image1 as the exact locked opening image and only visual continuity source; no Take Shot. The opening image must already show Arda, Luca and Noah together, one toy car, two floor cushions separated by one small safe gap, and exactly ten matching rounded wooden bridge blocks in one visible loose pile. Preserve their canonical identities, clothing, proportions, the approved room, object designs, colours, warm pastel lighting, matte surfaces, medium-low contrast and gentle sharpness. Nothing may appear, disappear, duplicate or move without visible physical action.
+Create a 15-second, 16:9 Seedance image-to-video shot. Use @image1 as the exact first frame and only visual reference.
 
-Motion begins immediately. At 0.2s Arda gently pushes the existing car toward the gap and says, “Ready, little car?” Luca follows it with his eyes; Noah points toward the gap. Use one very slow child-eye 35mm push-in only, keeping all three children, both cushions, the whole gap, car and block pile readable.
+ABSOLUTE FRAME LOCK:
+Preserve the Little Builders’ Room, framing and floor exactly as shown in @image1. The camera is completely locked off for all 15 seconds: no glide, pan, tilt, zoom, crop, reframe or angle change. Arda, Luca and Noah remain kneeling in their exact starting places. They do not stand, walk, turn, move closer, lean over the blocks or change sides.
 
-At 2.1s the car stops safely at the near cushion edge before any wheel crosses the gap. Noah says, “Wait—there’s a gap!” Arda catches and steadies the same car. Luca leans closer to inspect the distance.
+PROP LOCK:
+Exactly 10 identical yellow wooden blocks stay motionless and fully readable in the same compact 2 × 5 arrangement shown in @image1. No child touches, reaches for, lifts, slides, rotates, covers or places a block. The single toy car remains stationary on the green mat. Both the green mat and pink mat remain fully visible and unchanged. The wooden floor stays perfectly flat, solid and continuous. No construction begins and no new object appears.
 
-At 4.3s Arda asks, “How can it get across?” Noah measures the gap with his hands while Luca turns visibly toward the existing block pile.
+ACTION AND DIALOGUE:
+0.0–2.3s: The children look at the blocks. Arda makes a tiny open-palm gesture above his own knee and says, “Look—ten blocks!” Only Arda moves his mouth.
 
-At 6.4s Luca points to the pile and says, “Let’s build a bridge!” Arda lifts the car away from the edge and places it visibly on the starting cushion. Noah taps the floor beside the gap to mark the bridge line.
+2.3–4.7s: Luca gives one small thoughtful nod and says, “Let’s make a plan.” Only Luca moves his mouth. Everyone stays kneeling.
 
-At 8.8s Arda says, “Great idea—together!” All three reach into the same visible pile. Each child picks up exactly one different existing block; seven blocks remain visibly in the pile.
+4.7–7.1s: Noah looks across the same block group and says, “We can start in the middle.” Only Noah moves his mouth. His hands remain beside his knees.
 
-At 11.0s Noah says, “I’ll help!” Arda carries his first block toward the near edge. Luca keeps the second block in both hands directly behind him. Noah keeps the third block in both hands behind Luca. No one passes or exchanges blocks.
+7.1–9.5s: Arda gives one small nod and says, “One block at a time.” Only Arda moves his mouth.
 
-At 13.0s Arda says, “Team bridge!” and begins lowering his same first block toward the near edge. Luca continues carrying the same second block; Noah continues carrying the same third block. End at 15.0s before Arda’s first block is fully placed, with all three still moving. This exact hand-and-block arrangement must continue into Shot 02.
+9.5–12.0s: Luca smiles gently and says, “Nice and steady.” Only Luca moves his mouth.
 
-Use each child’s manually selected canonical saved voice only, with accurate lip-sync and no shared, swapped or off-screen voices. Keep purposeful reactions and continuous micro-actions; no dead air longer than 0.8 seconds. Quiet indoor room tone, soft wheel roll, clothing movement and gentle wooden contact only. No music, melody, song, narration, text or captions. Prevent saturation, contrast, HDR, gloss, harsh-shadow and sharpness drift.
+12.0–15.0s: Noah says, “Ready? Let’s begin!” Only Noah moves his mouth. At 14.2s all three make one small happy ready-nod without moving their hands or bodies toward the blocks. End during this subtle nod.
+
+FINAL FRAME LOCK:
+Match the opening composition. All three children are still kneeling in the same places with empty hands beside their knees. Exactly 10 blocks remain unobstructed in the unchanged 2 × 5 arrangement. The toy car and both mats remain fully visible and stationary. The floor is flat and unchanged. No road, bridge, line, gap or construction exists.
+
+CHARACTER, AUDIO AND STYLE:
+Preserve the canonical faces, proportions, clothes and manually selected voices of Arda, Luca and Noah. Only the assigned speaker moves their mouth; listeners keep closed mouths and make tiny natural eye or head reactions. No overlapping speech. Auto Voice OFF. No music; soft indoor room ambience only. Preserve soft pastel colours, matte handcrafted materials, medium-low contrast and gentle sharpness. No HDR, gloss, harsh shadows, saturation, brightness, contrast or sharpness increase.
 ```
 
 ## Negative Prompt
 
 ```text
-low quality, blur, facial distortion, identity change, hair change, clothing change, proportion change, wrong voice, voice swap, adult voice, inaccurate lip-sync, missing character, extra character, duplicate character, character pop-in, disappearing character, block handoff, exchanged block, teleporting block, appearing block, disappearing block, duplicated block, more than ten blocks, fewer than ten blocks, extra toy car, car crossing gap, car falling, completed bridge, block fully placed before final frame, instant construction, extra limbs, malformed hands, fused fingers, sliding feet, pose snap, frozen ending, idle staring, long silence, shouting, crying, argument, overlapping dialogue, camera cut, angle jump, fast camera, orbit, pan, zoom, close-up, reframe, room redesign, cushion change, gap change, background drift, harsh contrast, oversaturation, HDR, excessive sharpness, glossy plastic, dark lighting, text, captions, speech bubble, logo, watermark, background music
+touching blocks, reaching toward blocks, hands over blocks, hidden block, missing block, duplicated block, block movement, changed 2 × 5 arrangement, road, bridge, construction, trench, crack, channel, gap, hole, floor seam, floor redesign, standing, walking, turning away, moving toward either mat, body repositioning, moving car, cropped car, cropped mat, new prop, extra character, animal, wrong voice, voice swap, listener lip movement, overlapping dialogue, camera movement, crop, reframe, zoom, angle jump, extra limbs, malformed hands, frozen ending, long idle pause, text, subtitle, logo, watermark, music, HDR, glossy plastic, harsh shadows, increased contrast, saturation, brightness or sharpness
 ```
 
 ## OpenArt Settings
@@ -34,25 +43,28 @@ low quality, blur, facial distortion, identity change, hair change, clothing cha
 - Format: 16:9 landscape
 - Model: Seedance
 - Mode: Frame-to-Video
-- @image1: Selected approved opening image showing all three children, car, cushions, gap and exactly 10 blocks
-- Continuity source: Only @image1
+- `@image1`: Approved corrected opening image with three kneeling children, exactly 10 blocks in a 2 × 5 arrangement, one correctly scaled toy car and two mats
+- Continuity source: Only `@image1`
+- Do not use any frame from either rejected Shot 01 video
 - Take Shot: None
-- Arda canonical character and voice: Manually selected
-- Luca canonical character and voice: Manually selected
-- Noah canonical character and voice: Manually selected
+- Canonical Arda, Luca and Noah characters and voices: Manually selected
 - Auto Voice: Off
 - Prompt Enhancer: Off
-- Cinematic/Auto Camera: Off
+- Cinematic / Auto Camera: Off
 - Music: Off
 
 ## Approval Checklist
 
-- [ ] Opening image contains Arda, Luca, Noah, one car, two cushions, one gap and exactly 10 matching blocks
-- [ ] All three canonical faces, outfits and body proportions are correct
-- [ ] The car stops safely before the gap
-- [ ] Exactly three blocks leave the visible pile; seven remain
-- [ ] Final: Arda lowers Block 1, Luca holds Block 2, Noah holds Block 3
-- [ ] No block is passed between children or fully placed
-- [ ] No idle gap exceeds 0.8 seconds
-- [ ] Final frame retains active hand and body movement
-- [ ] No music, text, new prop, pop-in, camera jump or visual-quality drift
+- [ ] Exactly 10 blocks remain visible and unchanged from first frame to final frame
+- [ ] No hand touches, reaches toward or covers any block
+- [ ] All three children remain kneeling in their original positions
+- [ ] Camera remains completely fixed
+- [ ] Car and both mats remain fully visible and stationary
+- [ ] Floor remains flat, solid and continuous
+- [ ] No road, bridge or construction begins
+- [ ] Each child uses only their own canonical voice and mouth movement
+- [ ] No music, text, new prop, direction change or visual-quality drift
+
+## Shot 02 Continuity
+
+Shot 01 ends with all 10 blocks still on the floor in the original 2 × 5 arrangement and all hands empty. Shot 02 must start from the approved final frame of this new third run; never use a final frame from either rejected Shot 01 attempt.
