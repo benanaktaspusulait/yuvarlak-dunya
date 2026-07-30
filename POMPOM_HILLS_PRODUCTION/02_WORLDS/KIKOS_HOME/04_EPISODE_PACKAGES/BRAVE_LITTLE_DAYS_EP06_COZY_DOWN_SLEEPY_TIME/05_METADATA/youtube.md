@@ -1,21 +1,21 @@
 # YouTube Metadata
 
 ## Title
-Cozy Down Sleepy Time | Kiko, Mimi | Pompom Hills Preschool Animation
+Cozy Down, Sleepy Time | Gentle Bedtime Story | Pompom Hills
 
 ## Description
-A gentle story for little ones!
+Kiko says she isn’t sleepy—but a big yawn tells a different story!
 
-In this gentle Pompom Hills preschool animation, Kiko, Mimi share a warm adventure together. Together, they discover the joy of sleep routine through a playful and heartwarming story.
+In this gentle Pompom Hills preschool animation, Mimi helps Kiko slow down with a cozy blanket, soft breaths and a peaceful bedtime routine. Together, they discover how calm little steps can make bedtime feel warm and safe.
 
-This episode supports early social-emotional learning through themes like sleep routine.
+A soothing preschool story about winding down, recognising tired feelings and preparing for sleep.
 
-Episode: BLD-EP06 - Cozy Down Sleepy Time
-Characters: Kiko, Mimi
-Location: Kikos Home
-Theme: sleep routine
+Episode: Brave Little Days EP06 — Cozy Down, Sleepy Time
+Characters: Kiko and Mimi
+Location: Kiko’s Home — Sleeping Corner
+Theme: Bedtime routine, calm breathing and peaceful sleep
 
-#PompomHills #PreschoolAnimation #KidsAnimation
+#PompomHills #PreschoolAnimation #BedtimeStory #KidsAnimation
 
 ## Tags
-Pompom Hills, preschool animation, kids animation, toddler cartoon, preschool cartoon, kids cartoon, gentle kids video, calm kids cartoon, safe cartoon for kids, animated preschool story, educational cartoon, preschool learning, social emotional learning
+Pompom Hills, Cozy Down Sleepy Time, Brave Little Days, Kiko, Mimi, Kiko's Home, bedtime story for kids, bedtime routine for kids, preschool bedtime story, calming video for kids, sleep story for children, gentle preschool animation, preschool animation, kids animation, toddler cartoon, preschool cartoon, calm kids cartoon, safe cartoon for kids, animated preschool story, social emotional learning, calming breaths for kids, winding down for bedtime, peaceful sleep for kids, gentle kids video, bedtime animation

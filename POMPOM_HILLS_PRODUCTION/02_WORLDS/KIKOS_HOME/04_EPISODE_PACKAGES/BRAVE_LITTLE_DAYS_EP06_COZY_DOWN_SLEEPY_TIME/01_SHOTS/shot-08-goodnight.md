@@ -26,28 +26,28 @@
  ## Video Prompt
  
  ```text
-Continue @image1 15s. Lock wooden single bed, room, warm dusk light, camera, scale. Speaker lip-syncs only; mouths close after lines. Kiko eyes closed. Mimi eyes open, looks at Kiko. 0.5-1.5s Kiko: “Goodnight, Mimi.” 2.2-3.3s Mimi: “Goodnight, Kiko.” 4.0-5.8s Kiko: “My body feels calm.” 6.4-8.5s Mimi: “You noticed your sleepy clues.” 9.2-10.4s Kiko: “Cozy down…” 11.0-12.0s Mimi: “Sleepy time.” 12.8-13.8s Kiko: “Night, night.” 13.8-14.6s Mimi final slow eye closure. End eyes/mouths closed. Tiny natural breathing; all poses fixed. Mimi paws stay in exact @image1 positions. Blanket still below Kiko shoulders. Kiko hands on blanket edge; legs hidden. Blue Pompom Ball outer side, away from Mimi, stationary. No bumper/text/music. Pastel matte; no drift.
- ```
+Continue @image1 15s. Lock wooden single bed, room, close framing, warm dusk light, camera, scale. Speaker lip-syncs; mouths close after lines. Kiko eyes closed. Mimi eyes open, looks at Kiko. 0.5-1.5s Kiko: “Goodnight, Mimi.” 2.2-3.3s Mimi: “Goodnight, Kiko.” 4.0-5.8s Kiko: “My body feels calm.” 6.4-8.5s Mimi: “You noticed your sleepy clues.” 9.2-10.4s Kiko: “Cozy down…” 11.0-12.0s Mimi: “Sleepy time.” 12.8-13.8s Kiko: “Night, night.” 13.8-14.6s Mimi final slow eye closure. End eyes/mouths closed. Poses fixed. Mimi paws at @image1 spots. Blanket still below Kiko shoulders. Kiko’s two hands stay on same blanket edge; legs hidden. Blue ball visible at Kiko’s outer side, away from Mimi. No bumper/text/music. Pastel matte; no drift.
+```
 
- **Exact Video Prompt character count:** 757 (Unicode) / 757 (UTF-8)
+ **Exact Video Prompt character count:** 773 Unicode characters / 773 UTF-8 bytes
 
 ## Dialogue and Action Timing
 
 | Time | Dialogue / action |
 |---|---|
-| 0.0–0.5 | Kiko remains still with eyes closed. Mimi’s eyes are open, looking at Kiko. |
+| 0.0–0.5 | Tiny natural breathing continues; all poses stay fixed. Kiko’s eyes are closed. Mimi’s eyes are open, looking at Kiko. |
 | 0.5–1.5 | Kiko: “Goodnight, Mimi.” (Eyes closed, mouth moves). |
-| 1.5–2.2 | Mimi remains still, eyes open. |
+| 1.5–2.2 | Tiny natural breathing continues; all poses stay fixed. Mimi’s eyes remain open. |
 | 2.2–3.3 | Mimi: “Goodnight, Kiko.” (Eyes open, mouth moves). |
 | 3.3–4.0 | Tiny natural breathing continues; poses stay fixed. |
 | 4.0–5.8 | Kiko: “My body feels calm.” (Eyes closed, mouth moves). |
-| 5.8–6.4 | Mimi remains still, eyes open. |
+| 5.8–6.4 | Tiny natural breathing continues; all poses stay fixed. Mimi’s eyes remain open. |
 | 6.4–8.5 | Mimi: “You noticed your sleepy clues.” (Eyes open, mouth moves). |
 | 8.5–9.2 | Tiny natural breathing remains slow and visible. |
 | 9.2–10.4 | Kiko: “Cozy down…” (Eyes closed, mouth moves). |
-| 10.4–11.0 | Pause. Mimi eyes open. |
+| 10.4–11.0 | Tiny natural breathing continues; all poses stay fixed. Mimi’s eyes remain open. |
 | 11.0–12.0 | Mimi: “Sleepy time.” (Eyes open, mouth moves). |
-| 12.0–12.8 | Both characters are still. Mimi eyes open. |
+| 12.0–12.8 | Tiny natural breathing continues; all poses stay fixed. Mimi’s eyes remain open. |
 | 12.8–13.8 | Kiko: “Night, night.” (Eyes closed, mouth moves). |
 | 13.8–14.6 | Mimi makes one slow final eye closure and does not reopen her eyes. |
 | 14.6–15.0 | Tiny natural breathing continues; all poses stay fixed; mouths/eyes closed. |
@@ -56,7 +56,7 @@ Maximum line speed: **2.38 words/second**. Maximum interval without dialogue, br
 
 ## Negative Prompt
 
-eye reset, eyes reopening, eyes opening during speech (Kiko), gaze tracking, eye movement, blink (except Mimi’s final closure), listener lip movement, overlapping speech, improvised dialogue, frozen final frame, stopped breathing, exaggerated breathing, hand movement, moved hands, hands reaching for ball, Mimi’s paws moving from blanket, leg movement, exposed legs, feet appearing, blanket movement, camera move, cut, zoom, pan, reframe, angle jump, wooden single bed change, window change, moon, stars, moved ball, missing ball, extra character, animal, bumper, end card, text, captions, logo, watermark, music, melody, chant, warm dusk light drift, blue-lavender night, black night, dark blue drift, high contrast, HDR, gloss, oversaturation, sharpness drift, blur
+eye reset, eyes reopening, eyes opening during speech (Kiko), gaze tracking, extra blink, Kiko eye opening, Mimi eye reopening, listener lip movement, overlapping speech, improvised dialogue, frozen final frame, stopped breathing, exaggerated breathing, hand movement, moved hands, hands reaching for ball, Mimi’s paws moving from blanket, leg movement, exposed legs, feet appearing, blanket movement, camera move, cut, zoom, pan, reframe, angle jump, wooden single bed change, window change, moon, stars, moved ball, missing ball, extra character, animal, bumper, end card, text, captions, logo, watermark, music, melody, chant, warm dusk light drift, blue-lavender night, black night, dark blue drift, high contrast, HDR, gloss, oversaturation, sharpness drift, blur
 
 ## Final Frame Lock
 
@@ -81,7 +81,7 @@ eye reset, eyes reopening, eyes opening during speech (Kiko), gaze tracking, eye
 - [ ] Kiko’s hands are on the blanket edge; legs remain hidden.
 - [ ] No "blue-lavender night" or light drift; warm dusk light preserved.
 - [ ] No bumper, end card, text or music.
-- [ ] Video Prompt is between 690-780 characters.
+- [ ] Video Prompt is under 780 characters.
 
 ## Episode Close
 
