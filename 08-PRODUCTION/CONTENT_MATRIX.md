@@ -64,6 +64,7 @@ Bu dosya bir strateji/takip aracıdır — production canon (karakter, dünya, s
 | Intro Montage — Mimi + Kiko + Opa (Cozy Friends) | Mimi, Kiko, Opa | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
 | Intro Montage — Luca + Opa + Kiko (Little Questions, Big Wonders) | Luca, Opa, Kiko | Approved intro footage | Character Intro Montage | ⚪ | 🔴 | 🔴 | 🔴 | ⚪ | 🔴 |
 | Pompom Hills Family Fun — Event Campaign (5 scene) | Kiko, Mimi, Opa, Noah | Central Square | — | ⚪ | ⚪ | 🔴 | 🔴 | ⚪ | ⚪ |
+| **Mimi and the Tiny Flower Sneeze** | Mimi | Flower Hill | Social Reels | ⚪ | 🟢 | 🔴 | 🔴 | ⚪ | 🔴 |
 | **YENİ SERİLER** | | | | | | | | | |
 | Pompom Yoga EP01 — Kelebek Kanatları | Kiko | Merkez Mekan | Pompom Yoga | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
 | Pompom Yoga EP02 — Bulut Nefesi | Mimi | Merkez Mekan | Pompom Yoga | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 | 🔴 |
