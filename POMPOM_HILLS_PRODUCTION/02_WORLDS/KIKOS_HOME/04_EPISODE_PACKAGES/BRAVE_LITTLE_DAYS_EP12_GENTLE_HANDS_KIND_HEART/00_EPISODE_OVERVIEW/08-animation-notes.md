@@ -23,7 +23,7 @@
 
 | Element | Animation |
 |---------|-----------|
-| Kiko | Walking → pause → eyes track butterfly. Natural child gait, bare feet |
+| Kiko | Walking → pause → eyes track butterfly. Natural child gait, rounded coral-pink shoes |
 | Butterfly | Flutters in from screen-right, gentle arc, lands on flower |
 | Flower | Slight sway as butterfly lands. Subtle weight response |
 | Foliage | Gentle breeze movement — slow, rhythmic |
@@ -70,7 +70,7 @@
 |---------|-----------|
 | Butterfly | Lifts from flower, brief hover, lands softly on fingertip |
 | Kiko's face | Eyes widen. Mouth small 'o'. Pure amazement |
-| Kiko's body | Freezes completely — holds perfectly still |
+| Kiko's body | Hand and body hold perfectly still; only mouth moves for the gasp and whisper |
 | Kiko's eyes | Slight moisture/glisten of wonder (not tears) |
 | Wings | Gentle, slow flutter while on finger |
 | **Key pose** | Butterfly on fingertip, Kiko's amazed eyes |

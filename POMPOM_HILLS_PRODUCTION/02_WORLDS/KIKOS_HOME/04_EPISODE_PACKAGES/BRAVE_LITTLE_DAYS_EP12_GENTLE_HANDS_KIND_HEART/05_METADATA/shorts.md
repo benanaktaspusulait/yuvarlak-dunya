@@ -1,21 +1,35 @@
-# YouTube Shorts Metadata
+# Short Publishing Copy
 
-## Title
-Gentle Hands Kind Heart | Kiko, Mimi | Pompom Hills
+## Ultra-Short Caption
 
-## Description
-Kiko learns to be gentle with a butterfly 🦋
+Gentle hands, kind hearts and a peaceful goodbye for one little butterfly.
 
-"Soft and gentle."
+## Instagram Stories Text
 
-#PompomHills #Shorts #PreschoolAnimation #KidsAnimation #GentleTouch
+Kiko meets a little butterfly.
 
-## Tags
-Pompom Hills, shorts, preschool animation, kids animation, toddler cartoon, gentle kids video, calm kids cartoon, safe cartoon for kids, animated preschool story, educational cartoon, preschool learning, social emotional learning, gentle touch, butterfly for kids, kindness for kids
+Mimi helps her slow down and use gentle hands.
 
-## Shorts Notes
-- Crop to center 60% safe zone for vertical format
-- Characters must remain visible in vertical crop
-- Key moment (Shot 05 butterfly landing) must be center-framed
-- Duration: 15-60 seconds recommended
-- Best segment: Shots 04-06 (suspense → magic → connection)
+Then they say goodbye and let it fly on. 🦋
+
+## Pinned Comment
+
+Gentle hands help us share the world kindly with even the smallest living things. 🦋
+
+## Thumbnail Text
+
+Gentle Hands, Kind Heart
+
+## Thumbnail Production Text
+
+GENTLE HANDS
+
+## Thumbnail Asset
+
+`thumbnail-gentle-hands.png` — 1280×720 px
+
+## Source Segment
+
+- Best story moment: butterfly landing and resting on Kiko's fingertip
+- Source shots: Shots 05–06
+- Keep Kiko and the butterfly inside the central safe area for vertical reuse

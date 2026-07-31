@@ -49,10 +49,10 @@
 
 ### PANEL 05 — "It Lands on Me" ★ FRESH ANCHOR
 **Frame:** Close-up. Butterfly lifts from flower, flutters briefly, lands softly on Kiko's extended fingertip. Pull to Kiko's face — eyes wide, mouth small 'o' of wonder.
-**Action:** Butterfly lands. Kiko gasps. Pure magic moment.
-**Camera:** Close-up landing → slow pull to Kiko's amazed expression
+**Action:** Butterfly lands. Kiko gasps, then softly repeats the phrase she learned. Pure magic moment.
+**Camera:** Locked close-up composed to include the landing and Kiko's face; rack focus to her amazed eyes
 **Duration:** 15s
-**Dialogue:** Kiko: (soft gasp)
+**Dialogue:** Kiko: (soft gasp), then whispered: "Soft and gentle."
 **SFX:** Wing flutter. Silence of wonder.
 **Notes:** This is the quality reset anchor. Highest production value. Magical. Time seems to stop.
 
@@ -83,7 +83,7 @@
 ### PANEL 08 — "Gentle Hands, Kind Heart"
 **Frame:** Wide shot. Butterfly lifts off, flies upward and away into soft sky. Kiko and Mimi watch from below. Kiko's peaceful smile.
 **Action:** Butterfly departs gracefully. Kiko watches, then turns to Mimi with understanding smile.
-**Camera:** Wide → tilt up following butterfly → settle on Kiko and Mimi
+**Camera:** Locked wide composition; butterfly arcs upward within frame while Kiko and Mimi remain visible
 **Duration:** 15s
 **Dialogue:** Kiko: "Gentle hands, kind heart."
 **SFX:** Wing flutter fading. Warm garden ambience.

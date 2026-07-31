@@ -1,23 +1,37 @@
 # YouTube Metadata
 
-## Title
-Gentle Hands Kind Heart | Kiko, Mimi | Pompom Hills Preschool Animation
+## YouTube Title
 
-## Description
-A gentle story for little ones!
+Gentle Hands, Kind Heart | Kiko & Mimi's Butterfly Story | Pompom Hills
 
-In this gentle Pompom Hills preschool animation, Kiko and Mimi discover a beautiful butterfly in the garden. Kiko learns that reaching out gently — not grabbing eagerly — is the way to connect with living things.
+## Alternative Title
 
-"Soft and gentle." 🦋
+Goodbye, Little Butterfly | A Gentle Pompom Hills Story
 
-This episode supports early social-emotional learning through themes like gentle touch, kindness, and patience.
+## YouTube Description
 
-Episode: BLD-EP12 - Gentle Hands, Kind Heart
-Characters: Kiko, Mimi
-Location: Kiko's Home — Garden
-Theme: Gentle touch with living things
+A little butterfly brings a quiet moment of wonder to Pompom Hills.
 
-#PompomHills #PreschoolAnimation #KidsAnimation
+Kiko is excited to meet the butterfly, and Mimi gently helps her slow down. With careful hands, Kiko waits as the butterfly lands on her fingertip. Together, the friends enjoy the peaceful moment before calmly saying goodbye and watching it continue its journey.
 
-## Tags
-Pompom Hills, preschool animation, kids animation, toddler cartoon, preschool cartoon, kids cartoon, gentle kids video, calm kids cartoon, safe cartoon for kids, animated preschool story, educational cartoon, preschool learning, social emotional learning, gentle touch, butterfly for kids, kindness for kids, soft and gentle
+This warm preschool story explores kindness towards small living things, respect for nature and the importance of letting a little visitor fly on.
+
+## Lesson
+
+Gentle hands can show kindness. We can enjoy small living things without holding or frightening them—and say goodbye calmly when it is time for them to continue their journey.
+
+## For Parents
+
+Children can see Kiko move from excitement to calm, careful attention with Mimi's support. The story models gentle hands, patience, respect for nature and a peaceful way to let go when a special moment ends.
+
+## Call to Action
+
+Come and spend another warm, gentle moment in Pompom Hills.
+
+## Hashtags
+
+#PompomHills #PreschoolAnimation #GentleHands #KindnessForKids #NatureForChildren
+
+## YouTube Tags
+
+Pompom Hills, Kiko and Mimi, butterfly story for kids, gentle hands for children, kindness to animals, nature for preschoolers, calm preschool animation, gentle kids cartoon, preschool kindness story, Brave Little Days

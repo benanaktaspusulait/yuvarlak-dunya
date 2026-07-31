@@ -1,8 +1,11 @@
-# Facebook Post
+# Facebook Reel
 
-## Post Text
-A new Pompom Hills adventure is here! Join Kiko and Mimi in "Gentle Hands, Kind Heart" — a gentle story about gentle touch and kindness for your little ones. 🦋
+## Caption
 
-"Soft and gentle."
+A tiny goodbye can carry a gentle lesson. 🦋
 
-#PompomHills #PreschoolAnimation #KidsAnimation
+In this butterfly story, Mimi helps Kiko slow down and use gentle hands. Together, they share a quiet moment of kindness, respect the butterfly and calmly watch it continue its journey.
+
+Come and spend a peaceful moment in Pompom Hills.
+
+#PompomHills #PreschoolAnimation #GentleHands #KindnessForKids #NatureForChildren

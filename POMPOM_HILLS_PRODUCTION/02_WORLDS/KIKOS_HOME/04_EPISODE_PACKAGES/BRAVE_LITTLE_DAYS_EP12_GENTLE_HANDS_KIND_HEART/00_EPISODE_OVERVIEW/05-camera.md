@@ -32,7 +32,7 @@
 |----------|-------|
 | Lens | 30mm |
 | Position | Medium shot, slightly low (child eye level) |
-| Movement | Static or very slight follow as Kiko leans forward |
+| Movement | Static; Kiko's lean remains inside the approved composition |
 | Subject | Kiko — face and reaching hands |
 | Focus | Medium (Kiko sharp, butterfly soft in BG) |
 | Framing | Kiko center-left, reaching screen-right |
@@ -56,7 +56,7 @@
 |----------|-------|
 | Lens | 28mm (slightly wider for tension) |
 | Position | Close-up, low angle looking up at finger + flower |
-| Movement | Extremely slow push-in (almost imperceptible) |
+| Movement | Static; the finger movement creates the approach |
 | Subject | Kiko's extended finger + butterfly on flower |
 | Focus | Shallow (finger sharp, butterfly sharp, everything else soft) |
 | Framing | Finger from screen-left, butterfly screen-right |
@@ -67,11 +67,11 @@
 | Property | Value |
 |----------|-------|
 | Lens | 30mm |
-| Position | Close-up → pull to medium close-up |
-| Movement | Slow pull-back as butterfly lands |
+| Position | Locked close-up composed to include fingertip and Kiko's eyes |
+| Movement | Static camera; rack focus only |
 | Subject | Butterfly landing on finger → Kiko's amazed face |
 | Focus | Rack focus from butterfly to Kiko's eyes |
-| Framing | Tight on finger, expanding to include Kiko's expression |
+| Framing | Finger and butterfly foreground, Kiko's amazed expression already inside frame |
 | Duration | 15s |
 | Notes | HIGHEST PRODUCTION VALUE. Magical moment. Time stops. Smooth, graceful camera. |
 
@@ -80,7 +80,7 @@
 |----------|-------|
 | Lens | 32mm |
 | Position | Medium shot, child eye level |
-| Movement | Static or very gentle float |
+| Movement | Static |
 | Subject | Kiko + Mimi + butterfly on finger |
 | Focus | Medium (all three subjects readable) |
 | Framing | Kiko center, Mimi screen-right, butterfly prominent |
@@ -92,7 +92,7 @@
 |----------|-------|
 | Lens | 28mm (intimate) |
 | Position | Close-up profile |
-| Movement | Static or micro-drift |
+| Movement | Static |
 | Subject | Kiko's face in profile, butterfly on finger foreground |
 | Focus | Very shallow (Kiko's eye and butterfly sharp, rest soft bokeh) |
 | Framing | Profile from screen-left, butterfly in soft foreground |
@@ -103,8 +103,8 @@
 | Property | Value |
 |----------|-------|
 | Lens | 35mm |
-| Position | Wide shot → tilt up |
-| Movement | Slow tilt following butterfly upward, settle on Kiko + Mimi |
+| Position | Wide locked shot |
+| Movement | Static; butterfly follows a graceful arc that remains inside frame |
 | Subject | Butterfly departing → Kiko and Mimi watching |
 | Focus | Deep (wide scene) |
 | Framing | Kiko + Mimi bottom-center, butterfly flying up and away |
@@ -116,13 +116,13 @@
 ## CAMERA MOVEMENT MAP
 ```
 Shot 01: PUSH-IN (establishing → focus)
-Shot 02: STATIC/SLIGHT FOLLOW (eagerness)
+Shot 02: STATIC (eagerness stays inside frame)
 Shot 03: STATIC (coaching stability)
-Shot 04: MICRO PUSH-IN (suspense)
-Shot 05: PULL-BACK + RACK FOCUS (magic reveal) ★
-Shot 06: STATIC/FLOAT (warmth)
+Shot 04: STATIC (finger movement creates suspense)
+Shot 05: STATIC + RACK FOCUS (magic reveal) ★
+Shot 06: STATIC (warmth)
 Shot 07: STATIC (intimacy)
-Shot 08: TILT UP (release, freedom)
+Shot 08: STATIC WIDE (butterfly arc remains inside frame)
 ```
 
 ## LENS SEQUENCE

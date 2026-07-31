@@ -10,7 +10,7 @@
 | 02 | "I want to touch it!" | 15s | ✓ |
 | 03 | "Soft and gentle." | 15s | ✓ |
 | 04 | One gentle finger | 15s | ✓ |
-| 05 | Butterfly lands (Fresh Reset) | 15s | ✓ |
+| 05 | Butterfly lands; "Soft and gentle." (Fresh Reset) | 15s | ✓ |
 | 06 | "It likes you!" | 15s | ✓ |
 | 07 | "Soft and gentle." | 15s | ✓ |
 | 08 | "Gentle hands, kind heart." | 15s | ✓ |
@@ -18,9 +18,10 @@
 ## Total Duration
 120 seconds (2 minutes)
 
-## Chain Breakdown
-- **Chain A**: Shots 01-04 (60s) - Discovery to Preparation
-- **Chain B**: Shots 05-08 (60s) - Connection to Conclusion
+## Editorial Continuity Blocks
+- **Block A**: Shots 01-04 (60s) - Discovery to Preparation
+- **Block B**: Shots 05-08 (60s) - Connection to Conclusion
+- Each shot uses an approved clean Take Shot; the blocks are not exact generated-frame chains.
 
 ## Quality Checkpoints
 - **Fresh Quality Reset**: Shot 05 - Butterfly landing

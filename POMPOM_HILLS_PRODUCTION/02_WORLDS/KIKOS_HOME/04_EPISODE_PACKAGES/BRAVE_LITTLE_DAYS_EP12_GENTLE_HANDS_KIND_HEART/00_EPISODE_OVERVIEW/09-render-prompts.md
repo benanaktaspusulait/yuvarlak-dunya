@@ -20,7 +20,7 @@
 
 ### Shot 01 — "A Little Butterfly"
 
-**Render prompt:** Warm garden establishing shot. Young girl (coral-pink top, white shorts, brown pigtails, bare feet) mid-step on soft green grass, pausing to notice a pastel butterfly (pink/yellow wings, soft-stylised) landing on a round pink flower. Dappled warm sunlight through garden foliage. Soft green bushes, rounded shapes, pastel flowers in background. Child eye level camera, 35mm lens. Warm daytime, soft natural light. Gentle wing flutter animation. No music, no text.
+**Render prompt:** Warm garden establishing shot. Young girl (coral-pink top, white shorts, coral-pink socks, rounded coral-pink shoes, brown pigtails) mid-step on soft green grass, pausing to notice a pastel butterfly (pink/yellow wings, soft-stylised) landing on a round pink flower. Dappled warm sunlight through garden foliage. Soft green bushes, rounded shapes, pastel flowers in background. Child eye level camera, 35mm lens. Warm daytime, soft natural light. Gentle wing flutter animation. No music, no text.
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### Shot 05 — "It Lands on Me" ★ FRESH ANCHOR
 
-**Render prompt:** Close-up to medium close-up. Pastel butterfly (pink/yellow wings) lifts from flower, hovers briefly, lands softly on young girl's extended fingertip. Girl's eyes widen in pure amazement, mouth small 'o'. Girl freezes completely, holding still. Butterfly rests calmly, wings gentle flutter. HIGHEST PRODUCTION VALUE. Magical moment. Rack focus from butterfly to girl's amazed eyes. Warm golden garden light. Child eye level, 30mm lens. No music, no text.
+**Render prompt:** Close-up to medium close-up. Pastel butterfly (pink/yellow wings) lifts from flower, hovers briefly, lands softly on young girl's extended fingertip. Girl's eyes widen in pure amazement, mouth small 'o'. After one soft gasp, she whispers "Soft and gentle" while holding perfectly still. Butterfly rests calmly, wings gentle flutter. HIGHEST PRODUCTION VALUE. Magical moment. Rack focus from butterfly to girl's amazed eyes. Warm golden garden light. Child eye level, 30mm lens. No music, no text.
 
 ---
 
@@ -80,7 +80,7 @@
 
 ## CONTINUITY CHECKLIST
 
-- [ ] Kiko: coral-pink top, white shorts, brown pigtails, bare feet — EVERY SHOT
+- [ ] Kiko: coral-pink top, white shorts, coral-pink socks, rounded coral-pink shoes, brown pigtails — EVERY SHOT
 - [ ] Mimi: soft-blue rabbit, yellow top, long floppy ears — Shots 03, 06, 08
 - [ ] Butterfly: pastel pink/yellow wings, soft-stylised — EVERY SHOT
 - [ ] Flower: round petals, pastel pink, yellow center — Shots 01, 04, 05

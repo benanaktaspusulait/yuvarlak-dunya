@@ -6,7 +6,7 @@ Mekan: Kiko'nun Evi — Bahçe / Pencere Alanı
 Karakterler: Kiko, Mimi
 Tema: Yumuşak dokunuş — kelebek ve çiçek
 
-Kiko bahçede güzel bir kelebek görür. Heyecanla uzanır ama Mimi "Yumuşak ve nazik" der. Kiko parmağını yavaşça uzatır. Kelebek parmağına konar! "Seni seviyor!" Kiko fısıldar: "Çok güzel." Kelebek uçar. "Nazik eller, kocaman kalp."
+Kiko bahçede güzel bir kelebek görür. Heyecanla uzanır ama Mimi "Yumuşak ve nazik" der. Kiko parmağını yavaşça uzatır. Kelebek parmağına konunca Kiko aynı cümleyi ilk kez fısıldar: "Yumuşak ve nazik." "Seni seviyor!" Kiko fısıldar: "Çok güzel." Kelebek uçar. "Nazik eller, kocaman kalp."
 
 **Tekrar cümle:** "Soft and gentle."
 **Güvenlik:** Kelebek'e asla zarar verilmez. Nazik dokunuş hemen başlar.

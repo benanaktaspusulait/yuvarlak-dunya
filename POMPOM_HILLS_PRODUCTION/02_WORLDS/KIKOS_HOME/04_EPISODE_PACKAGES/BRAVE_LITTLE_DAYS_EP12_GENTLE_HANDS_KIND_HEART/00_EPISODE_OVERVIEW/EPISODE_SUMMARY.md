@@ -20,7 +20,7 @@ Kiko discovers a butterfly in the garden and learns that reaching out gently —
 
 In a warm garden filled with soft light and pastel flowers, Kiko notices a beautiful butterfly resting on a round pink flower. Her first instinct is excitement — she reaches out eagerly, wanting to touch it right away. But her friend Mimi, a soft-blue rabbit, steps in with calm wisdom: "Soft and gentle."
 
-Kiko listens. She slows down. She extends one careful finger toward the butterfly. And then — magic. The butterfly lifts from the flower and lands gently on Kiko's fingertip. Pure amazement.
+Kiko listens. She slows down. She extends one careful finger toward the butterfly. And then — magic. The butterfly lifts from the flower and lands gently on Kiko's fingertip. Kiko gasps, then whispers: "Soft and gentle." Pure amazement.
 
 "It likes you!" Mimi says, beaming with joy. Kiko, transfixed, whispers: "So beautiful."
 
@@ -40,8 +40,10 @@ Gentle touch with living things. Learning that kindness opens doors that force c
 
 **"Soft and gentle."** — Appears 3 times across the episode:
 1. Shot 03: Mimi coaches (original)
-2. Shot 07: Kiko whispers (internalized)
-3. Shot 08: Kiko extends to "Gentle hands, kind heart" (lesson mastered)
+2. Shot 05: Kiko whispers after the butterfly lands (successful use)
+3. Shot 07: Kiko whispers again (internalized)
+
+Shot 08 extends the idea with the closing variation: "Gentle hands, kind heart."
 
 ---
 
@@ -58,7 +60,7 @@ AMAZEMENT → Warmth → Peace → Understanding
 
 | Character | Role | Description |
 |-----------|------|-------------|
-| **Kiko** | Protagonist | Coral-pink top, white shorts, brown pigtails, bare feet. Learns to be gentle. |
+| **Kiko** | Protagonist | Coral-pink top, white shorts, coral-pink socks and rounded coral-pink shoes, brown pigtails. Learns to be gentle. |
 | **Mimi** | Support | Soft-blue rabbit, yellow top, long floppy ears. Coaches with warmth. |
 
 ---
@@ -69,7 +71,7 @@ AMAZEMENT → Warmth → Peace → Understanding
 2. **Eagerness** (Shot 02): Reaches too fast — "I want to touch it!"
 3. **Coaching** (Shot 03): Mimi: "Soft and gentle." Kiko recalibrates
 4. **Suspense** (Shot 04): One gentle finger approaches
-5. **Magic** (Shot 05): Butterfly lands on Kiko's finger ★ FRESH ANCHOR
+5. **Magic** (Shot 05): Butterfly lands; Kiko whispers "Soft and gentle" ★ FRESH ANCHOR
 6. **Connection** (Shot 06): "It likes you!" — joy of gentle touch
 7. **Internalization** (Shot 07): Kiko whispers "Soft and gentle"
 8. **Lesson** (Shot 08): "Gentle hands, kind heart."
@@ -86,7 +88,7 @@ AMAZEMENT → Warmth → Peace → Understanding
 | Music | None |
 | On-screen text | None |
 | Voice | Kiko + Mimi (English) |
-| Total dialogue | ~25 words |
+| Total dialogue | ~28 words |
 | Silence | ~50% of episode |
 
 ---
@@ -105,5 +107,6 @@ AMAZEMENT → Warmth → Peace → Understanding
 - Shot 05 is the Fresh Quality Reset Anchor — highest production value
 - Butterfly is a hero asset — requires most animation frames
 - Garden environment is static with subtle movement (sway, light)
-- Chain A: Shots 01–04 (Discovery → Coaching)
-- Chain B: Shots 05–08 (Magic → Lesson)
+- Editorial Continuity Block A: Shots 01–04 (Discovery → Coaching)
+- Editorial Continuity Block B: Shots 05–08 (Magic → Lesson)
+- Every shot starts from its own approved clean Take Shot; these blocks are not exact generated-frame chains

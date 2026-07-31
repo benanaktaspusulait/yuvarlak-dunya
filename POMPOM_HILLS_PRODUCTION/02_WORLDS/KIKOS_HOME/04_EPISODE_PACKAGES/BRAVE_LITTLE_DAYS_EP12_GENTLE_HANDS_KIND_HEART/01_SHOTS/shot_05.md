@@ -9,6 +9,7 @@ Butterfly lands on finger! Amazed.
 ## Visual Notes
 - Butterfly gently lands on Kiko's finger
 - Kiko's eyes widen in amazement
+- Kiko gives one soft gasp, then whispers: "Soft and gentle."
 - Beautiful moment of connection
 
 ## Animation Notes

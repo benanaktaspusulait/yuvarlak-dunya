@@ -9,7 +9,7 @@
 | Layer | Description | Volume |
 |-------|-------------|--------|
 | Garden ambience | Soft outdoor atmosphere, distant birdsong, gentle breeze through leaves | Low, constant |
-| Warmth undertone | Barely-there warm low-frequency pad, creates safety feeling | Very low |
+| Garden air tone | Barely-there natural leaf-and-air bed, non-musical | Very low |
 
 ---
 
@@ -18,7 +18,7 @@
 ### Shot 01 — "A Little Butterfly"
 | Time | SFX | Description |
 |------|-----|-------------|
-| 0:00–0:03 | Footsteps on soft grass | Kiko walking, gentle bare feet on grass |
+| 0:00–0:03 | Soft footsteps on grass | Kiko walking in her rounded coral-pink shoes |
 | 0:03–0:08 | Wing flutter (butterfly) | Soft, delicate flutter — pastel-sounding, not insect-realistic |
 | 0:08–0:12 | Petal brush | Butterfly landing on flower, soft brush sound |
 | 0:12–0:15 | Garden ambience continues | Settling into scene |
@@ -51,8 +51,9 @@
 |------|-----|-------------|
 | 1:00–1:03 | Wing flutter (lift) | Butterfly lifting from flower |
 | 1:03–1:06 | Soft landing | Butterfly landing on Kiko's finger — feather-soft |
-| 1:06–1:10 | Kiko's gasp | Quiet, involuntary intake of breath |
-| 1:10–1:15 | Magical stillness | Everything pauses — pure wonder silence |
+| 1:06–1:07 | Kiko's gasp | Quiet, involuntary intake of breath |
+| 1:07–1:09 | Kiko's whisper | "Soft and gentle." over very low natural ambience |
+| 1:09–1:15 | Magical stillness | Body and hand stay still; soft ambience and wing micro-movement only |
 
 ### Shot 06 — "So Beautiful"
 | Time | SFX | Description |
@@ -64,17 +65,17 @@
 ### Shot 07 — "Soft and Gentle" (whispered)
 | Time | SFX | Description |
 |------|-----|-------------|
-| 1:30–1:35 | Butterfly wing micro-movement | Barely-there flutter while resting |
-| 1:35–1:40 | Whisper | Kiko's internalized phrase |
+| 1:30–1:32 | Whisper | Kiko's internalized phrase |
+| 1:32–1:40 | Butterfly wing micro-movement | Barely-there flutter while resting |
 | 1:40–1:45 | Garden stillness | Peaceful, connected silence |
 
 ### Shot 08 — "Gentle Hands, Kind Heart"
 | Time | SFX | Description |
 |------|-----|-------------|
 | 1:45–1:48 | Wing flutter (departure) | Butterfly lifting off — graceful, not sudden |
-| 1:48–1:52 | Fading flutter | Wings getting softer as butterfly flies away |
-| 1:52–1:57 | Kiko's voice | Soft, certain delivery |
-| 1:57–2:00 | Warm garden fade | Ambience gently fades to close |
+| 1:48–1:51 | Fading flutter | Wings getting softer as butterfly flies away |
+| 1:51–1:53 | Kiko's voice | Soft, certain delivery |
+| 1:53–2:00 | Warm garden fade | Ambience gently fades to close |
 
 ---
 
@@ -98,7 +99,7 @@ Shot 01: Light ambience → silence of discovery
 Shot 02: Movement sounds → excited breath
 Shot 03: Calm tones → coaching calm
 Shot 04: Near-total silence → maximum suspense ★
-Shot 05: Flutter → gasp → magical silence ★★
+Shot 05: Flutter → gasp → whisper → magical stillness ★★
 Shot 06: Warm return of sound
 Shot 07: Whisper + stillness
 Shot 08: Flutter fade → warm close
@@ -118,6 +119,6 @@ Shot 08: Flutter fade → warm close
 
 ## TOTAL SFX COUNT
 - Discrete SFX events: ~25
-- Continuous layers: 2 (garden ambience + warmth pad)
+- Continuous layers: 2 natural layers (garden ambience + garden air tone)
 - Silence moments: 3 (Shots 01, 04, 05)
 - Butterfly sounds: 8 (one per shot except Shot 03)

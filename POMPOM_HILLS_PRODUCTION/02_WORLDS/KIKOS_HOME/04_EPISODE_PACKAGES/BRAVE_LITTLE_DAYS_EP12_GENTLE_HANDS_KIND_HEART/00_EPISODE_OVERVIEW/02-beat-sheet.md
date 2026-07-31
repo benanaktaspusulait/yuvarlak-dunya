@@ -43,10 +43,10 @@
 
 ### BEAT 5 — THE LANDING (Shot 05) | 1:00–1:15 | Spine: ACTION ★ FRESH ANCHOR
 **Action:** The butterfly lifts off the flower and gently lands on Kiko's extended finger. Kiko's eyes go wide with pure amazement.
-**Dialogue:** Kiko: (gasps softly)
+**Dialogue:** Kiko: (gasps softly), then whispers: "Soft and gentle."
 **Emotion:** Pure wonder, magic, amazement
-**Camera:** Close-up butterfly landing → pull to Kiko's amazed face
-**Audio:** Soft wing flutter. Kiko's quiet gasp. Magical moment silence.
+**Camera:** Locked close-up including butterfly and Kiko's face; rack focus from landing to Kiko's eyes
+**Audio:** Soft wing flutter, Kiko's quiet gasp and whispered phrase over very low natural garden ambience.
 
 ---
 
@@ -72,7 +72,7 @@
 **Action:** Butterfly lifts off and flies away gracefully. Kiko watches it go with a peaceful smile. Mimi smiles beside her.
 **Dialogue:** Kiko: "Gentle hands, kind heart."
 **Emotion:** Peaceful understanding, gratitude, growth
-**Camera:** Wide shot, butterfly flying away → Kiko and Mimi watching
+**Camera:** Locked wide shot; butterfly's full upward arc stays inside frame while Kiko and Mimi watch
 **Audio:** Wing flutter fading. Kiko's soft, certain voice. Warm garden ambience.
 
 ---
@@ -81,7 +81,8 @@
 | Instance | Shot | Speaker | Context |
 |----------|------|---------|---------|
 | 1 | 03 | Mimi | Coaching: "Soft and gentle." |
-| 2 | 07 | Kiko | Whispered on finger: "Soft and gentle." |
-| 3 | 08 | Kiko | Lesson internalized: "Gentle hands, kind heart." (variation) |
+| 2 | 05 | Kiko | Whispered after the butterfly lands: "Soft and gentle." |
+| 3 | 07 | Kiko | Whispered on finger: "Soft and gentle." |
+| 4 | 08 | Kiko | Lesson internalized: "Gentle hands, kind heart." (variation) |
 
-*Target: 3–4 instances. Add optional 4th in Shot 05 (Kiko whispers it as butterfly lands) if natural.*
+*Target met: three exact uses of "Soft and gentle," followed by one closing variation.*

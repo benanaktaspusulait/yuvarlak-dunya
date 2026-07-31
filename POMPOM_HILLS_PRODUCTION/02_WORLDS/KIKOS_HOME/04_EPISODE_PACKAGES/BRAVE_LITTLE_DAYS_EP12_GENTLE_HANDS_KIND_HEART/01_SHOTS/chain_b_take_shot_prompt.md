@@ -1,4 +1,7 @@
-# Chain B Take-Shot Prompt
+# Editorial Continuity Block B — Take-Shot Plan
+
+> Each shot uses its own approved clean Take Shot. This is an editorial continuity block,
+> not an exact generated-frame chain. Shot 05 begins with a fresh quality reset.
 
 ## Shots Covered
 05-08

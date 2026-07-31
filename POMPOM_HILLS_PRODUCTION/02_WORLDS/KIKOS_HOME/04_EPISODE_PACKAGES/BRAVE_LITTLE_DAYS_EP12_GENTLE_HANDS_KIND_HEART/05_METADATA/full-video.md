@@ -1,60 +1,61 @@
-# Full Video Metadata
-
-## Title
-Gentle Hands Kind Heart | Kiko, Mimi | Pompom Hills Preschool Animation
-
-## Series
-Brave Little Days | Pompom Hills Production
+# Final Video Metadata
 
 ## Episode
-BLD-EP12 — "Gentle Hands, Kind Heart"
 
-## Duration
-120 seconds (8 shots × 15 seconds)
+Brave Little Days EP12 — Gentle Hands, Kind Heart
 
 ## Characters
-Kiko, Mimi
 
-## Location
-Kiko's Home — Garden
+Kiko, Mimi and the butterfly
 
-## Theme
-Gentle touch with living things. Learning that kindness opens doors that force cannot.
+## Final Story
 
-## Repeated Phrase
-"Soft and gentle." (3 times)
+Kiko notices a butterfly and eagerly wants to touch it. Mimi helps her slow down and approach it carefully. The butterfly lands on Kiko's fingertip, and Kiko and Mimi share a quiet moment of wonder. They then calmly say goodbye and let the butterfly continue its journey.
 
-## Video Description
-A gentle story for little ones!
+## Lesson
 
-In this gentle Pompom Hills preschool animation, Kiko and Mimi discover a beautiful butterfly in the garden. Kiko's first instinct is excitement — she reaches out eagerly. But Mimi coaches her: "Soft and gentle."
+Gentle hands, kindness towards small living things, respect for nature and saying goodbye calmly when it is time for the butterfly to fly on.
 
-Kiko slows down. She extends one careful finger. And then — magic. The butterfly lands on her fingertip.
+## Overall Default Final Edit
 
-"Soft and gentle." The lesson is learned. "Gentle hands, kind heart."
+| Shot | Final-edit use |
+|---|---:|
+| Shot 01 | approximately 0.0–6.0s |
+| Shot 02 | approximately 0.0–8.0s |
+| Shot 03 | approximately 0.0–7.0s |
+| Shot 04 | approximately 0.0–6.5s |
+| Shot 05 | approximately 0.0–9.0s |
+| Shot 06 | approximately 0.0–6.0s |
+| Shot 07 | omitted by default |
+| Shot 08 | approximately 0.0–9.0s |
+| **Total** | **approximately 51.5 seconds, rounded to 52 seconds** |
 
-This episode supports early social-emotional learning through themes like gentle touch, kindness, and patience.
+## Exact Final Dialogue
 
-## Chapters
-- 0:00 — Discovery: Kiko notices the butterfly
-- 0:15 — Eagerness: "I want to touch it!"
-- 0:30 — Coaching: "Soft and gentle."
-- 0:45 — One Gentle Finger
-- 1:00 — The Landing: Butterfly lands on Kiko's finger
-- 1:15 — Connection: "It likes you!"
-- 1:30 — Internalization: "Soft and gentle." (whispered)
-- 1:45 — Lesson: "Gentle hands, kind heart."
+| Shot | Speaker | Dialogue |
+|---|---|---|
+| 01 | Kiko | "Oh… a butterfly!" |
+| 02 | Kiko | "I want to touch it!" |
+| 03 | Mimi | "Slowly, Kiko." |
+| 03 | Kiko | "Like this?" |
+| 03 | Mimi | "That's right, Kiko." |
+| 04 | Mimi, off-screen | "Slowly, Kiko." |
+| 04 | Mimi, off-screen | "Nice and gentle." |
+| 04 | Mimi, off-screen | "That's it." |
+| 05 | Mimi, off-screen | "That's it, Kiko." |
+| 05 | Mimi, off-screen | "Nice and gentle." |
+| 05 | Mimi, off-screen | "Beautiful." |
+| 06 | Mimi | "You did it!" |
+| 06 | Kiko | "It stayed!" |
+| 08 | Kiko | "Goodbye, little butterfly." |
+| 08 | Mimi | "Gentle hands, kind heart." |
 
-## Production Chain
-- Chain A: Shots 01–04 (Discovery → Coaching) — 60 seconds
-- Chain B: Shots 05–08 (Magic → Lesson) — 60 seconds
-- Shot 05 = Fresh Quality Reset Anchor
+## Quality Check
 
-## Technical Specs
-- Resolution: 1920×1080 (16:9)
-- Frame rate: 24fps
-- Camera: 28–35mm, child eye level
-- Music: None
-- On-screen text: None
-- Dialogue: ~25 words total
-- Silence: ~50% of episode
+- [x] Copy reflects the latest OpenArt Shot 01–08 Markdown files.
+- [x] Kiko, Mimi and the butterfly are named correctly.
+- [x] Dialogue is reproduced exactly and is not paraphrased.
+- [x] The lesson remains gentle and preschool appropriate.
+- [x] No scientific or unsupported claims are included.
+- [x] No clickbait or frightening language is used.
+- [x] The wording follows the calm Pompom Hills brand voice.

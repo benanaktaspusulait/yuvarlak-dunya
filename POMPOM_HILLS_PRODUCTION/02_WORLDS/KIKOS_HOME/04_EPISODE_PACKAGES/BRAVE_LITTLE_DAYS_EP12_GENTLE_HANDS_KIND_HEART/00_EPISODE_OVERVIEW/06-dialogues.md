@@ -46,10 +46,10 @@
 
 ### Shot 05 (1:00–1:15) — "It Lands on Me" ★ FRESH ANCHOR
 **Speaker:** Kiko
-**Dialogue:** (soft gasp — not a word, an intake of breath)
-**Direction:** Pure amazement. The gasp is involuntary, small, full of wonder.
-**Tone:** Awe, wonder, disbelief
-**Pacing:** Single breath. Then silence.
+**Dialogue:** (soft gasp), then: "Soft and gentle."
+**Direction:** The gasp is involuntary and small. After the butterfly settles, Kiko whispers the learned phrase without moving her hand.
+**Tone:** Awe, wonder, quiet understanding
+**Pacing:** One soft breath, a short pause, then a slow whisper.
 
 ---
 
@@ -90,7 +90,7 @@
 | # | Shot | Speaker | Phrase | Variation |
 |---|------|---------|--------|-----------|
 | 1 | 03 | Mimi | "Soft and gentle." | Original coaching |
-| 2 | 05 | Kiko | (gasp) | Nonverbal echo |
+| 2 | 05 | Kiko | "Soft and gentle." | First successful use after the landing |
 | 3 | 07 | Kiko | "Soft and gentle." | Internalized whisper |
 | 4 | 08 | Kiko | "Gentle hands, kind heart." | Extended lesson |
 
@@ -107,7 +107,7 @@
 ---
 
 ## TOTAL WORD COUNT
-- Kiko: ~20 words + 1 gasp
+- Kiko: ~23 words + 1 gasp
 - Mimi: ~5 words
-- Total dialogue: ~25 words
+- Total dialogue: ~28 words
 - Silence: ~50% of episode (Shots 01, 04, much of 05)

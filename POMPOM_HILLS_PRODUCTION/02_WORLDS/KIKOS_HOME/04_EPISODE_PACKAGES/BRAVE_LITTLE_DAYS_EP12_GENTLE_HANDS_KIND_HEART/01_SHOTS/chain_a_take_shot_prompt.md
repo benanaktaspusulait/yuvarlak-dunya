@@ -1,4 +1,7 @@
-# Chain A Take-Shot Prompt
+# Editorial Continuity Block A — Take-Shot Plan
+
+> Each shot uses its own approved clean Take Shot. This is an editorial continuity block,
+> not an exact generated-frame chain.
 
 ## Shots Covered
 01-04

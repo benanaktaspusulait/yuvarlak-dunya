@@ -18,7 +18,7 @@ Gentle touch with living things. Learning that kindness opens doors that force c
 ## Characters
 | Character | Position | Description |
 |-----------|----------|-------------|
-| **Kiko** | Screen-left | Coral-pink top, white shorts, brown pigtails, bare feet |
+| **Kiko** | Screen-left | Coral-pink top, white shorts, coral-pink socks and rounded coral-pink shoes, brown pigtails |
 | **Mimi** | Screen-right | Soft-blue rabbit, yellow top, long floppy ears |
 
 ## Location
@@ -30,7 +30,7 @@ Warm daytime, soft natural light, rounded garden shapes, soft green foliage, pas
 2. **FEELING** (Shot 02): Excited eagerness — "I want to touch it!" Reaches eagerly
 3. **SUPPORT** (Shot 03): Mimi coaches: "Soft and gentle." Kiko recalibrates
 4. **ACTION** (Shot 04): Kiko extends one gentle finger toward the butterfly
-5. **ACTION** (Shot 05): Butterfly lands on Kiko's finger — magic moment (FRESH RESET ANCHOR)
+5. **ACTION** (Shot 05): Butterfly lands on Kiko's finger; Kiko whispers "Soft and gentle." — magic moment (FRESH RESET ANCHOR)
 6. **RELIEF** (Shot 06): "It likes you!" — Beauty of gentle connection
 7. **RELIEF** (Shot 07): Butterfly rests. Kiko whispers: "Soft and gentle."
 8. **LESSON** (Shot 08): Butterfly flies away. Kiko: "Gentle hands, kind heart."
@@ -43,9 +43,12 @@ AMAZEMENT (fresh anchor) → Warmth → Gratitude → Peaceful understanding
 
 ## Duration
 - 8 shots × 15 seconds = **120 seconds (2 minutes)**
-- Chain A: Shots 01–04 (Discovery → Coaching)
-- Chain B: Shots 05–08 (Magic → Lesson)
+- Editorial Continuity Block A: Shots 01–04 (Discovery → Coaching)
+- Editorial Continuity Block B: Shots 05–08 (Magic → Lesson)
 - Shot 05 = Fresh Quality Reset Anchor
+
+Each shot uses its own approved clean Take Shot. These are editorial continuity blocks,
+not four-shot exact generated-frame chains.
 
 ## Safety Notes
 - No hurting the butterfly. No rough touch shown.
