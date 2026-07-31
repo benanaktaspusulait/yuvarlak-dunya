@@ -24,8 +24,8 @@
 | Production Mode | FRESH QUALITY-RESET SHOT |
 | Clean Start State | Approved vertical still: Luca walking on the Little Forest stepping-stone path; no footprints visible yet |
 | Complete Main Action | Luca discovers that each new footprint appears two small steps ahead, tests it by stopping and stepping backward, then delivers the line |
-| Completed End State | Luca stands still, looking at the two stopped footprints with amused surprise |
-| Stable Final Anchor | Full-body Luca and two forward footprints held for the final 1–2 seconds |
+| Completed End State | Luca stands still, looking at the complete trail of five stopped footprints with amused surprise |
+| Stable Final Anchor | Full-body Luca and all five visible forward footprints held for the final 1–2 seconds |
 | Next-Shot Dependency | NONE — next shot starts fresh |
 
 ## Story and Timing
