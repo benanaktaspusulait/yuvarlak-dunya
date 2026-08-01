@@ -25,7 +25,7 @@ Do not generate unless the OpenArt interface visibly confirms:
 - [ ] Generated Audio is On
 - [ ] Auto Voice is Off
 - [ ] Music is Off
-- [ ] @image1 is the exact approved Shot 07 final frame
+- [ ] @image1 is the exact approved Shot 07 final frame (Kiko reclined, snuggled with Mimi, Opa on wooden chair).
 - [ ] Approved canonical Kiko reference is attached if supported
 
 If any item is missing, stop. Do not spend credits.
@@ -41,7 +41,7 @@ At frame 0, preserve the exact approved Shot 07 composition:
 - Kiko’s same hand remains resting on or immediately beside the blanket, exactly as shown in Shot 07.
 - Kiko is sleepy and peaceful, with eyes partly closed but not unconscious.
 - Mimi remains visibly cuddled beside Kiko.
-- Opa remains clearly seated outside the bed on the same wooden chair.
+- Opa remains clearly seated outside the bed on the same wooden chair beside the small bedside table.
 - Both Opa’s legs and the chair remain outside the mattress.
 - The same glowing star nightlight, bedside table, friendly crescent moon, stars, window and room geometry remain unchanged.
 

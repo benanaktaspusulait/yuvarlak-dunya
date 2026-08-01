@@ -37,7 +37,7 @@ Do not generate unless the OpenArt interface visibly confirms:
 - [ ] Auto Voice is Off
 - [ ] Music is Off
 - [ ] @image1 is the exact approved Shot 04 final frame.
-- [ ] At frame 0, preserve the approved Shot 04 composition exactly: Kiko is awake and reclined in the same round bed; her blanket is already near her chin; Mimi is visibly cuddled beside Kiko; Opa is seated outside the bed on the same wooden chair; both Opa’s legs and the chair remain outside the mattress; the same bedside table and the same glowing star nightlight remain visible exactly as established in Shot 04; the round window, curtain, bed, chair, table and all room geometry remain unchanged.
+- [ ] At frame 0, preserve the approved Shot 04 composition exactly: Kiko is awake and reclined in the same round bed; her blanket is already near her chin; Mimi is visibly cuddled beside Kiko; Opa is seated outside the bed on the same wooden chair; both Opa’s legs and the chair remain outside the mattress; the same bedside table and the same glowing star nightlight remain visible exactly as established in Shot 04; the round window shows the friendly crescent moon and small stars; the round window, curtain, bed, chair, table and all room geometry remain unchanged.
 - [ ] The friendly crescent moon and small stars are already visible through the existing round window in the approved Shot 04 final frame. Preserve them exactly at frame 0. Do not create, remove, duplicate or redesign them. Do not restart the scene, move the bed, move the chair, reposition Mimi, place Opa inside the bed or change the room layout.
 - [ ] Approved canonical Kiko reference is attached if supported
 

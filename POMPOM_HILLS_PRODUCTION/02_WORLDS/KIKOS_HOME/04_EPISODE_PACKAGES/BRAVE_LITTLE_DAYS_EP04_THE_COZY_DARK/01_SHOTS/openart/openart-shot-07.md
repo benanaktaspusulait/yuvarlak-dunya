@@ -94,7 +94,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 # Final Frame Lock
 
-Kiko remains reclined and peaceful in the same round bed after the gentle yawn. Her eyes are sleepy and partly closed but not completely shut, and she must not appear unconscious. Her same hand remains near the blanket. Mimi remains visibly cuddled beside Kiko. Opa remains recognisable and seated outside the bed on the same wooden chair. The star nightlight remains glowing, and the same crescent moon and stars remain visible through the window. The room remains softly blue, warm and cozy. No character, furniture or room geometry changes.
+Kiko remains reclined and peaceful in the same round bed after the gentle yawn. Her eyes are sleepy and partly closed but not completely shut, and she must not appear unconscious. Her same hand remains near the blanket. Mimi remains visibly cuddled beside Kiko. Opa remains recognisable and seated outside the bed on the same wooden chair. The star nightlight remains glowing on the same bedside table, and the same crescent moon and stars remain visible through the window. The room remains softly blue, warm and cozy. No character, furniture or room geometry changes.
 
 # OpenArt Settings
 

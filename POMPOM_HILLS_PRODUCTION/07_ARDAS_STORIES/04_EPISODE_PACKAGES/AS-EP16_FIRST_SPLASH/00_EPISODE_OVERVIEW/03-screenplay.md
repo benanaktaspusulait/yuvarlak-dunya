@@ -8,8 +8,8 @@
 
 The frame opens on Arda's Home garden after rain. The grass is wet and glistening, small
 puddles dot the ground, and the sky is clearing — soft blue with fluffy white clouds. Arda
-stands at the garden door in his orange t-shirt and blue shorts, looking out at the shiny,
-fresh garden. Droplets hang from the rounded shrubs.
+stands at the garden door in his sky blue t-shirt and light blue pants, looking out at the
+shiny, fresh garden. Droplets hang from the rounded shrubs.
 
 **Arda:** "Oooh… rain!"
 
@@ -17,9 +17,9 @@ He steps forward onto the wet grass, eyes wide with wonder.
 
 ### Shot 02 — Wet Garden (0:15–0:30)
 
-Arda walks through the garden, his bare feet making soft sounds on the wet grass. He looks
+Arda walks through the garden, his tan shoes making soft sounds on the wet grass. He looks
 down at the ground — small puddles reflect the sky like little mirrors. He hops from one
-small puddle to another, testing the water with his toes. Each puddle shimmers with light.
+small puddle to another, testing the water with his shoes. Each puddle shimmers with light.
 
 **Arda:** "So many puddles!"
 
@@ -29,8 +29,9 @@ He looks around the garden with bright, curious eyes.
 
 Arda's eyes land on one large puddle near the garden path. It is the biggest puddle he has
 ever seen — perfectly still, its surface reflecting the blue sky, white clouds, green trees,
-and warm golden sunlight. The puddle shimmers with all the colours above it. Arda stands
-very still, mesmerised.
+and warm golden sunlight. The puddle shimmers with all the colours above it. Arda (energetic boy,
+fluffy dark brown hair, sky blue t-shirt, light blue pants, tan shoes) stands very still,
+mesmerised.
 
 **Arda:** "A colourful puddle!"
 

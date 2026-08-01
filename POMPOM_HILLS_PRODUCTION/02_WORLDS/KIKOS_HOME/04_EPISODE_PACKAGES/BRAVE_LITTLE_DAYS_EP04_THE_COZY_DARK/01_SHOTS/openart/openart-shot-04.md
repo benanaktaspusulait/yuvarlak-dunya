@@ -77,7 +77,7 @@ low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, hor
 
 # Final Frame Lock
 
-“The same star nightlight is glowing warmly on the small bedside table beside Opa’s chair. Kiko remains awake and reclined in the same bed with the blanket near her chin. Opa remains seated outside the bed on the same wooden chair. Mimi remains visibly cuddled beside Kiko. The room remains softly blue with a gentle warm nightlight glow. The window, curtain, bed, chair and room geometry remain unchanged.”
+“The same star nightlight is glowing warmly on the small bedside table beside Opa’s chair. Kiko remains awake and reclined in the same bed with the blanket near her chin. Opa remains seated outside the bed on the same wooden chair. Mimi remains visibly cuddled beside Kiko. The friendly crescent moon and small stars remain clearly visible through the existing round window. The room remains softly blue with a gentle warm nightlight glow. The window, curtain, bed, chair, bedside table and room geometry remain unchanged.”
 
 # OpenArt Settings
 
