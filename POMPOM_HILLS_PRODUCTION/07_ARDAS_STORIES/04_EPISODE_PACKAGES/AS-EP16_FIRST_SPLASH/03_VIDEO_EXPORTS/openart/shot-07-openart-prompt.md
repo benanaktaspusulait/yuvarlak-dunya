@@ -2,126 +2,124 @@
 
 ## Continuity Source
 
-Shot 07 begins from the exact approved final frame of Shot 06. The previous shot’s final frame is the complete first-frame authority. Preserve Arda and Luca’s identities, body poses, relative positions, hand positions, feet positions, puddle geometry, reflection, camera axis, lighting and all visible garden landmarks at frame 0. Do not restart, teleport, recompose, mirror or regenerate the scene.
+Use @image1 as the exact visual reference and frame-0 authority. Preserve the exact blue house façade, front doorway, wet doorstep, pastel-coloured fence, wet grass, one large shallow puddle, leaf, rainy atmosphere, camera angle, Arda and Luca’s identities, clothing, positions and scale from @image1.
 
-Required input: attach the exact approved final frame of Shot 06 as the first-frame reference before generating this shot. Do not claim that an image is linked when none is supplied.
+At frame 0, exactly as shown in @image1, Luca stands at camera-left and Arda stands at camera-right beside the near edge of the same large shallow puddle. Both children are already on the wet grass at the puddle’s edge, calmly looking down at the leaf resting on the water. Do not move either child into the puddle.
+
+Preserve their exact starting poses, relative positions, hand positions, foot positions, scale, puddle geometry, leaf position, camera axis, rainy lighting and all visible garden landmarks. Do not restart, teleport, recompose, mirror or regenerate the scene.
 
 ## Global Continuity Rules
 
-Arda must remain exactly the same in every shot:
+Arda must remain exactly the same throughout:
 - fluffy dark brown hair
 - sky blue T-shirt
 - light blue trousers
 - tan shoes
 - same age, body proportions, face and animation style
-- no wardrobe change, no hair change, no colour drift
-- no sudden dirt, mud or damage
+- no wardrobe, hair or colour change
+- no sudden dirt, mud, stains or damage
 - no horizontal mirroring or left/right identity reversal
 
-Luca must remain exactly the same in every shot:
+Luca must remain exactly the same throughout:
 - wavy messy dark brown hair
-- round lively face, big warm brown eyes, light freckles
+- round lively face, big warm brown eyes and light freckles
 - cream-white shirt with leaf green sleeves and mountain print
 - khaki green shorts with pockets
 - green-and-white striped socks
 - orange sneakers with white soles
-- same age, body proportions, and animation style
-- no wardrobe change, no hair change, no colour drift
+- same age, body proportions, face and animation style
+- no wardrobe, hair or colour change
+- no sudden dirt, mud, stains or damage
 - no horizontal mirroring or left/right identity reversal
 
-Luca remains camera-left of Arda and slightly behind him throughout the shot and in the final frame. He must never switch sides, cross behind the camera axis, mirror horizontally, teleport or disappear. Preserve the exact Arda–Luca relative positions from the approved reference frame.
+Arda and Luca must remain visually the same height. When upright, the tops of their heads align. Neither child may appear older, larger or taller than the other.
 
-Any reflection exists only on the visible water surface. A reflection is never a physical second child, never a cloned body and never an extra character outside the water. No reflected hand, face or body may emerge from the puddle. If Luca’s reflection is visible, it remains passive, ordinary and synchronized. Luca’s reflection must never speak, wave independently or become magical.
+Luca remains camera-left of Arda, at the same natural depth as @image1. Do not place Luca behind Arda. Neither child may switch sides, cross behind the camera axis, teleport, duplicate or disappear.
 
-The reflected hand may reach upward only within the water surface. It must not emerge and must not touch Arda’s finger. No ripple occurs.
+Keep their existing clothes and colours unchanged. Their clothes remain visibly but naturally rain-damp, with subtle darker damp fabric, tiny raindrops and a soft wet sheen on shoulders, sleeves, Arda’s trouser knees, Luca’s shorts, socks and both children’s shoes. The fabric is lightly damp, never soaked, dripping, muddy, dirty or stained. Do not introduce hoodies, raincoats or new clothing.
 
-The large puddle is one continuous physical puddle in one fixed location. Preserve the exact position, outline, size, shallow depth, near edge, far edge and visible contact point from the approved reference frames. It must not suddenly appear, disappear, move, resize, change shape or become a different puddle. Small puddles in Shot 02 remain separate from the large puddle.
+Any reflection exists only on the visible water surface. It remains ordinary, passive and synchronized with the real children. A reflection is never a physical second child, cloned body, independent character or magical effect. No reflected hand, face or body may emerge from the puddle, move independently, speak or touch Arda.
 
-Do not introduce a visible tree merely because green branches appear in the water reflection. Reflected branches remain off-screen reflected elements unless the approved reference frame already shows the tree.
+The large puddle is one continuous shallow puddle in one fixed location. Preserve its exact position, outline, size, shallow depth, near edge and far edge from @image1. Preserve the same single leaf resting on the water. The puddle and leaf must not appear, disappear, move, resize, duplicate, teleport or change shape. Never add another puddle.
 
-Arda’s right hand and right index finger are used for all pointing, waving and touching actions in Shots 05–08.
+The garden remains the same continuous rainy location:
+- same blue house façade, front doorway and wet doorstep
+- same wet grass, garden path and rounded shrubs
+- same pastel-coloured garden fence; never a wooden fence
+- gentle light rain throughout
+- soft cool overcast daylight and grey-blue cloudy sky
+- no sunshine, golden light, clear sky or warm sunny atmosphere
+- exactly one large shallow puddle
+- the same single leaf resting on the water
 
-The garden must remain the same continuous location:
-- same garden door and path
-- same wet grass and small rounded shrubs
-- same warm wooden fence
-- same clearing blue sky with soft white clouds
-- same golden afternoon lighting
-- same large puddle near the path
-- same off-screen reflected green tree branches in the water
+Only subtle natural raindrop dimples may appear on the puddle. No splash, touching the water, new movement-made ripple, jumping, hopping, running, stepping into the puddle or magical effect occurs.
 
 ## Visual Prompt
 
-At frame 0, Arda and Luca are both standing exactly as established by Shot 06's final frame. Arda is standing with both feet in the shallow water near the near edge of the puddle, with his right hand lowered and relaxed. Luca is standing camera-left of Arda on dry ground. Neither character is kneeling at frame 0.
+Use @image1 as the exact first frame. Luca stands camera-left and Arda stands camera-right at the same natural depth, already on the wet grass beside the near edge of the same large shallow puddle. Both children calmly look down at the same leaf resting on the water. Preserve the exact blue house façade, front doorway, wet doorstep, pastel-coloured fence, wet grass, garden path, rounded shrubs, puddle, leaf, camera angle, identities, clothing, positions, scale and rainy atmosphere from @image1.
 
-From 0.0–1.5 seconds, Arda takes one small careful step backward from the shallow water onto the dry near edge and places both feet on dry ground. From 1.5–3.5 seconds, Arda slowly lowers into a kneeling position. Luca remains on dry ground and lowers into a kneeling position beside him without changing sides. From 3.5–7.0 seconds, both characters settle into stable kneeling positions. From 7.0–12.0 seconds, Arda slowly extends his right index finger. From 12.0–15.0 seconds, the fingertip remains hovering just above the exact contact point and does not touch the water.
+Gentle light rain continues throughout under soft cool overcast daylight and a grey-blue cloudy sky. No sunshine, golden light, clear sky, dry ground or warm sunny atmosphere. Arda and Luca remain visually the same height, with their head tops aligned when upright. Luca never moves behind Arda. Their unchanged clothes remain lightly rain-damp, with subtle darker damp fabric, small droplets and a soft wet sheen, never soaked, dripping, muddy, dirty or stained.
 
-At frame 0 through 7.0 seconds, Arda's reflection remains passive, recognisable and synchronised with Arda's real body. The reflected hand is not raised. Only after Arda begins extending his right index finger at 7.0 seconds may the reflected hand slowly reach upward inside the water surface. It must never emerge from the water, touch Arda's finger, speak, move independently or create a ripple.
+Arda looks at Luca and then back at the water, showing that he wants to try something. He slowly lifts one hand a little above the puddle without touching it while Luca gives a small calm nod. Both return their gaze to the leaf and water, and Arda calmly promises that he will be gentle. Arda then lowers his hand and leans forward only slightly, ready to touch the water in the next shot. End before any contact or movement-made ripple begins. Both children keep their feet planted on the wet grass and never enter the puddle.
 
-Arda's Home Garden after rain, wet grass, rounded shrubs, warm wooden fence, clearing sky with soft blue and white clouds. Golden afternoon sunlight. A large puddle — calm surface reflecting the sky, the same off-screen green tree branches, and Arda's face. At frame 0, Arda’s right hand is lowered and relaxed; his fingertip is not yet hovering above the water. From 7.0–12.0 seconds, Arda slowly extends his right index finger toward the contact point, but the fingertip remains clearly away from the water. Only from 12.0–15.0 seconds does the fingertip hold the hovering position just above the water. Soft pastel colours, bright post-rain light, rounded safe shapes, only Arda and Luca; no third character, horizontal 16:9 aspect ratio, soft 3D rounded preschool cartoon, pastel colours, warm matte finish, gentle expressive faces, safe rounded shapes, calm Pompom Hills visual style, no photorealism, locked child-eye-level medium-wide composition with a stable 32mm lens feeling, consistent camera axis, Arda and Luca clearly visible, warm golden afternoon post-rain lighting, soft diffuse shadows, clear blue sky, no harsh contrast, no HDR, no glossy highlights
+Only ordinary passive reflections and subtle natural raindrop dimples may remain on the water. No splash, new ripple, touch, pointing into the water, jumping, hopping, camera movement, scene change or magical effect.
 
-Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Soft 3D rounded preschool cartoon, pastel colours, matte handcrafted finish, gentle expressive faces, safe rounded shapes and calm Pompom Hills visual style. Only Arda and Luca; no third character. Horizontal 16:9, locked child-eye-level medium-wide composition with a stable 32mm lens feeling. No camera movement, pan, tilt, zoom, reframing, angle change, harsh contrast, HDR, gloss or photorealism.
 
-The garden background is locked from the first frame. The puddle reflection is calm and clear. No ripples yet.
+Preserve the soft cool rainy matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss or harsh shadows.
 
-Do not display dialogue as on-screen text. No speech bubbles. No captions. No text.
+Do not display dialogue as on-screen text. No speech bubbles, captions, subtitles, logos or text.
 
 ## Action Progression
 
-At frame 0, Arda’s right hand is lowered and relaxed. The fingertip does not begin hovering until 12.0 seconds. The fingertip never touches the water in Shot 07.
+- 0.0–3.0s: Hold the exact composition from @image1. Arda and Luca quietly watch the leaf resting on the puddle while gentle rain creates tiny natural dimples on the surface.
+- 3.0–5.0s: Arda looks at Luca, then carefully looks back at the water, showing that he wants to try something.
+- 5.0–7.0s: Arda slowly lifts one hand a little above the puddle without touching it. Luca gives a small calm nod.
+- 7.0–10.0s: Both children return their gaze to the leaf and still water. Arda keeps his hand safely above the surface; no contact occurs.
+- 7.2–8.4s: Arda says, “I’ll be gentle.” while holding his hand mostly still and safely above the water.
+- 10.0–15.0s: Arda lowers his hand and leans forward only slightly, ready to touch the water in the next shot. Luca remains beside him, calm and encouraging. End before any touch or ripple begins.
 
-- 0.0–1.5s: Arda takes one careful step backward from the shallow water onto the dry near edge. Luca remains standing camera-left on dry ground.
-- 1.5–3.5s: Arda slowly lowers into a kneeling position. Luca remains standing.
-- 3.5–4.0s: Luca slowly lowers into his kneeling position. Both characters finish settling.
-- 4.0–5.2s: Luca says, ‘Can you touch it?’ while remaining still.
-- 5.4–6.3s: Arda says, ‘I’ll try.’ while remaining still.
-- 6.3–7.0s: Both characters hold stable kneeling poses.
-- 7.0–12.0s: Arda slowly extends his right index finger.
-- 9.5–10.3s: Luca says, ‘Careful…’ while remaining still.
-- 12.0–15.0s: Arda's fingertip hovers above the water and does not touch it.
-- 12.2–13.1s: Arda says, ‘Almost…’
-
-Arda’s reflection exists only inside the water surface. It can never become a physical second child outside the puddle. No reflected hand or body may emerge from the water. If Luca’s ordinary reflection is visible, it remains passive, normal and synchronized; it must never speak, wave independently or become magical. Only Arda’s reflection participates in the magical mirror interaction.
-The reflected hand reaches upward only inside the water.
+Both children remain standing with their feet planted on the wet grass. Neither child steps into the puddle. Only natural light raindrop dimples may appear.
 
 ## Dialogue
 
-Whenever dialogue overlaps an action, the movement must remain slow and readable. The current speaker must hold a stable pose or perform only minimal movement while speaking. No character may lip-sync while airborne, during a splash impact, during a major crouching transition or while making a fast gesture. Only the scheduled speaker lip-syncs. The non-speaking character keeps their mouth closed and does not invent dialogue. No overlapping speech, ad-lib dialogue, narration, subtitles, captions, speech bubbles or visible text. The words ‘splash’ and ‘bloop’ are sound effects only.
+Whenever dialogue overlaps an action, movement remains slow and readable. Only the scheduled speaker lip-syncs. The other child keeps their mouth closed. No overlapping speech, ad-lib dialogue, narration, extra dialogue, subtitles, captions, speech bubbles or visible text.
 
-- 4.0–5.2s — Luca: “Can you touch it?”
-- 5.4–6.3s — Arda: “I’ll try.”
-- 9.5–10.3s — Luca: “Careful…”
-- 12.2–13.1s — Arda: “Almost…”
+- 3.4–4.8s — Arda: “Can I touch it?”
+- 5.4–6.6s — Luca: “Gently.”
+- 7.2–8.4s — Arda: “I’ll be gentle.”
 
 ## Final Frame Lock
 
-Arda and Luca are both kneeling beside the same large puddle. Arda is beside the dry near edge, not standing in the water. His right index finger is hovering just above the exact contact point and has not touched the surface. Luca is kneeling camera-left on dry ground. The water and reflection remain calm and clear. No ripple has appeared. This is the exact starting frame for Shot 08.
+Arda and Luca remain standing on the wet grass beside the near edge of the same large shallow puddle. Luca remains camera-left of Arda at the same natural depth as @image1. Arda leans forward only slightly, with his lowered hand still safely above and clearly separated from the water, ready for the next shot. Luca remains calm and encouraging beside him. Their feet remain outside the puddle. The same leaf rests unchanged on the water. No contact, splash or movement-made ripple has occurred; only subtle natural raindrop dimples may remain. The blue house façade, front doorway, wet doorstep, pastel-coloured fence, rainy lighting, camera and scale remain unchanged. This is the exact starting frame for Shot 08.
 
 ## Camera Direction
 
-32mm lens feeling at child eye level. Stable medium-wide composition showing Arda's face, Luca, Arda's hand, fingertip and the relevant area of the puddle. The camera holds steady. No autonomous camera movement, no pan, no tilt, no zoom, no camera shake, no lens change, no sudden close-up, no focus-pull effect, no unpredictable reframing.
+32mm lens feeling at child eye level. Stable locked medium-wide composition showing both children, Arda’s hand, the large puddle and the leaf. No camera movement, pan, tilt, zoom, shake, lens change, close-up, focus pull, reframing or angle change.
 
 ## Sound
 
-Soft outdoor post-rain ambience: gentle dripping, faint distant bird chirping. Arda and Luca speak the scheduled dialogue. No music, no background music, no melody, no song, no soundtrack.
+Soft natural light-rain ambience: gentle rain on leaves and wet grass with occasional quiet drips. Keep ambience very soft under dialogue. Natural ambience only. No music, background music, melody, song, soundtrack, chimes, bells, magical sounds or whooshes.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, text, watermark, photorealistic, horror, scary, dark lighting, jerky, uncontrolled, unnatural or unreadable fast movement, sudden camera motion, static talking pose, unintended frozen pose, broken animation or motionless character during an action, background music, music, melody, song, soundtrack, indoor elements, other rooms, third character, duplicate Arda, duplicate Luca, cloned child outside the puddle, aggressive play, sharp edges, realistic proportions, modern technology, screens, cinematic LUT, blue tint, green tint, orange shift, HDR look
+No sunshine, golden light, clear blue sky, wooden fence, dry clothing, soaked clothing, dripping water, muddy stains, dirty marks, unequal child heights, Arda taller than Luca, Luca behind Arda, extra puddles, child inside the puddle, touching water, finger in water, splashing, new ripples, jumping, hopping, running, camera movement, zoom, scene change, new characters, changed clothes, altered house, altered fence, magical effects.
+
+No low quality, blur, deformed anatomy, extra limbs, duplicate Arda, duplicate Luca, physical reflection child, independent reflection, reflected body emerging from water, text, watermark, captions, subtitles, speech bubbles, photorealism, horror, scary imagery, dark lighting, jerky movement, harsh contrast, cinematic LUT, colour drift, oversharpening, HDR, glossy highlights, background music, music, melody, song, soundtrack, musical bed, jingle, chime, bell, magical sparkle sound, whoosh, applause, cheering, crowd noise, loud sound or scary sound.
 
 ## Voice Lock
 
 Each character must use their registered locked voice from VOICE_TRACKER.md.
-Arda uses Arda's locked voice.
-Luca uses Luca's locked voice.
+Arda uses Arda’s locked voice.
+Luca uses Luca’s locked voice.
 Do not let OpenArt choose or generate voices.
-Do not change voice between shots.
-Same pitch, same timbre, same age, same speed, same warmth.
+Do not change voices between shots.
+Keep the same pitch, timbre, age, speed and warmth.
 
 ## OpenArt Settings
 
 - Duration: 15 seconds
-- Mode: Image-to-video (or reference-frame mode)
+- Mode: Image-to-video / reference-frame mode
 - Aspect Ratio: horizontal 16:9
 - Prompt enhancer: Off
 - Cinematic/auto camera: Off
@@ -129,22 +127,22 @@ Same pitch, same timbre, same age, same speed, same warmth.
 
 ## QA Checklist
 
-- [ ] Arda’s identity and clothing are preserved.
-- [ ] Luca’s canonical identity and clothing are preserved.
-- [ ] Arda and Luca are both visible.
-- [ ] No third character appears.
-- [ ] Luca does not disappear, duplicate or teleport.
-- [ ] The exact previous final frame is used as the next first-frame authority.
-- [ ] Relative Arda/Luca positions remain consistent.
-- [ ] The same large puddle remains in the same location.
-- [ ] The reflection remains inside the water.
-- [ ] The reflection never becomes a physical second child.
-- [ ] Only the scheduled speaker lip-syncs.
-- [ ] Dialogue is spoken exactly as written.
-- [ ] No subtitles, text or speech bubbles appear.
-- [ ] No music or singing appears.
-- [ ] Camera remains stable (locked camera, 32mm).
-- [ ] Horizontal 16:9 is preserved.
-- [ ] No ripple occurs.
-- [ ] Luca remains outside the large puddle.
-- [ ] Final Frame Lock criteria met.
+- [ ] @image1 is used as the exact frame-0 visual authority.
+- [ ] Arda and Luca’s identities, clothes, colours, positions and scale are preserved.
+- [ ] Arda and Luca remain visually the same height.
+- [ ] Luca remains camera-left of Arda at the same natural depth and is never behind him.
+- [ ] Both children remain standing on wet grass outside the puddle.
+- [ ] The same blue house, doorway, wet doorstep, pastel fence and wet garden remain unchanged.
+- [ ] Exactly one large shallow puddle and the same single leaf remain visible.
+- [ ] Gentle light rain, cool overcast daylight and grey-blue cloudy sky continue throughout.
+- [ ] Clothing remains naturally rain-damp, never dry, soaked, dripping, muddy, dirty or stained.
+- [ ] Only subtle natural raindrop dimples appear on the puddle.
+- [ ] No water contact, splash, new movement-made ripple, jump, hop or step into the puddle occurs.
+- [ ] Reflections remain ordinary, passive and only inside the water.
+- [ ] Only the scheduled speaker lip-syncs and all three dialogue lines remain exact.
+- [ ] No extra dialogue, subtitles, text or speech bubbles appear.
+- [ ] Character voices match registered Voice IDs without drift.
+- [ ] No music or magical sound appears.
+- [ ] Camera remains locked and horizontal 16:9.
+- [ ] No new character, altered location or magical effect appears.
+- [ ] Final Frame Lock criteria are met.
