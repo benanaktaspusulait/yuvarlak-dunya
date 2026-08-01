@@ -1,0 +1,7 @@
+file 'shot-01-vertical-edit.mp4'
+file 'shot-02-vertical-edit.mp4'
+file 'shot-03-vertical-edit.mp4'
+file 'shot-04-vertical-edit.mp4'
+file 'shot-05-vertical-edit.mp4'
+file 'shot-06-vertical-edit.mp4'
+file 'shot-08-vertical-edit.mp4'
