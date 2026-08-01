@@ -1,21 +1,42 @@
 # YouTube Metadata
 
-## Title
+## YouTube Title
+
 Cozy Down, Sleepy Time | Gentle Bedtime Story | Pompom Hills
 
-## Description
-Kiko says she isn’t sleepy—but a big yawn tells a different story!
+## Alternative Title
 
-In this gentle Pompom Hills preschool animation, Mimi helps Kiko slow down with a cozy blanket, soft breaths and a peaceful bedtime routine. Together, they discover how calm little steps can make bedtime feel warm and safe.
+Kiko's Sleepy Clues | A Calm Pompom Hills Bedtime Story
 
-A soothing preschool story about winding down, recognising tired feelings and preparing for sleep.
+## YouTube Description
+
+Kiko wants one more game—but her slowing hands, a soft yawn and heavy eyes begin to tell a different story.
+
+In this gentle Pompom Hills preschool animation, Mimi helps Kiko notice her sleepy clues. Kiko lets her little blue Pompom Ball rest, gets cosy beneath her blanket and tries soft, slow breaths before calmly settling down for the night.
+
+This warm bedtime story explores listening to the body, slowing down without rushing and following a peaceful bedtime routine with the support of a caring friend.
 
 Episode: Brave Little Days EP06 — Cozy Down, Sleepy Time
 Characters: Kiko and Mimi
-Location: Kiko’s Home — Sleeping Corner
-Theme: Bedtime routine, calm breathing and peaceful sleep
+Location: Kiko's Home — Living Space and Sleeping Corner
+Theme: Sleepy clues, slowing down, calm breathing and bedtime
 
-#PompomHills #PreschoolAnimation #BedtimeStory #KidsAnimation
+## Lesson
 
-## Tags
-Pompom Hills, Cozy Down Sleepy Time, Brave Little Days, Kiko, Mimi, Kiko's Home, bedtime story for kids, bedtime routine for kids, preschool bedtime story, calming video for kids, sleep story for children, gentle preschool animation, preschool animation, kids animation, toddler cartoon, preschool cartoon, calm kids cartoon, safe cartoon for kids, animated preschool story, social emotional learning, calming breaths for kids, winding down for bedtime, peaceful sleep for kids, gentle kids video, bedtime animation
+Our bodies can give us gentle clues when they are ready to rest. Slowing our hands, getting cosy and taking a soft breath can help bedtime feel calm and safe.
+
+## For Parents
+
+Children can watch Kiko notice her yawn, slower hands and heavy eyes with Mimi's calm support. The story models a simple transition from playtime to bedtime without pressure, hurry or fear.
+
+## Call to Action
+
+Sweet dreams from Pompom Hills.
+
+## Hashtags
+
+#PompomHills #PreschoolAnimation #BedtimeStory #SleepyTime #CalmBedtime
+
+## YouTube Tags
+
+Pompom Hills, Cozy Down Sleepy Time, Kiko and Mimi, bedtime story for kids, preschool bedtime routine, sleepy clues for children, calm breathing for kids, gentle preschool animation, peaceful sleep story, Brave Little Days

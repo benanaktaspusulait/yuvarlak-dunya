@@ -6,10 +6,10 @@
 
 ```
 Beat 1 (Shot 01) — PROBLEM
-Night at Kiko's Home. Opa is there for goodnight; the light dims and the room grows dim.
+The star nightlight suddenly flickers off. Kiko wakes, pulls her blanket up, and whispers for Opa.
 ────────────────────────────────
 Beat 2 (Shot 02) — FEELING
-Kiko pulls the blanket up: "I'm scared of the dark."
+Kiko, uneasy: "Opa... I'm a little scared of the dark."
 ────────────────────────────────
 Beat 3 (Shot 03) — SUPPORT
 Opa, calm: "It's okay to feel scared. The dark can be soft and friendly."

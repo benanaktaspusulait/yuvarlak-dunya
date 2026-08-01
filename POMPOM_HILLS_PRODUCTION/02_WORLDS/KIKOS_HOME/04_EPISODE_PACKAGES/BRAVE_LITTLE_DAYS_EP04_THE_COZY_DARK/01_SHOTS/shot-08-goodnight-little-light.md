@@ -66,7 +66,7 @@ Kiko: Goodnight, Opa.
 | 0-4 sec | Cozy room: nightlight + moon, all settled | Medium |
 | 4-8 sec | Opa: "Goodnight, little light." | Medium |
 | 8-12 sec | Kiko sleepy: "Goodnight, Opa." | Medium |
-| 12-15 sec | Warm final hold, gentle settle to sleep | End-screen-safe hold |
+| 12-15 sec | The room gently settles into a slightly deeper soft blue while the nightlight, moon, Kiko and Mimi remain clearly visible. Do not fade to black. | End-screen-safe hold |
 
 ## Sound
 

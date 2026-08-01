@@ -1,12 +1,11 @@
-# Facebook Post
+# Facebook Reel
 
-## Post Text
-“I’m not sleepy!” says Kiko—but her big yawn tells another story. 💛
+## Caption
 
-Mimi helps Kiko cozy down with a warm blanket, soft breaths and a calm bedtime routine. Little by little, Kiko’s shoulders relax, her eyes grow heavy and bedtime begins to feel peaceful.
+Sometimes sleepy time begins with one little clue. 💛
 
-A gentle Pompom Hills preschool story about winding down, recognising tired feelings and preparing for a safe, cozy sleep.
+Kiko wants one more game, but her slowing hands, soft yawn and heavy eyes help her notice that her body is ready to rest. With Mimi beside her, she gets cosy, takes a slow breath and settles peacefully beneath her blanket.
 
 Sweet dreams from Pompom Hills.
 
-#PompomHills #PreschoolAnimation #BedtimeStory #KidsAnimation
+#PompomHills #PreschoolAnimation #BedtimeStory #SleepyTime #CalmBedtime

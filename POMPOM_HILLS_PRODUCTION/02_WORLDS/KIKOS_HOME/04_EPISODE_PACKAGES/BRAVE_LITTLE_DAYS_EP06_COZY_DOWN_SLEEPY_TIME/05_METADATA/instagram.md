@@ -1,12 +1,11 @@
-# Instagram Caption
+# Instagram Reel
 
 ## Caption
-Kiko says she isn’t sleepy… but then comes a very big yawn. ✨
 
-With Mimi beside her, Kiko settles under her cozy blanket, takes soft, slow breaths and gently gets ready for sleep.
+Even busy little hands can begin to feel sleepy. 🌙
 
-A warm Pompom Hills story about slowing down, feeling safe and finding a peaceful bedtime rhythm.
+Mimi helps Kiko notice her yawn, heavy eyes and slowing hands. With her blue Pompom Ball resting nearby, Kiko gets cosy, takes a soft breath and gently settles beneath her blanket.
 
 Sweet dreams from Pompom Hills.
 
-#PompomHills #PreschoolAnimation #BedtimeStory #KidsAnimation
+#PompomHills #PreschoolAnimation #BedtimeStory #SleepyTime #CalmBedtime #GentleParenting #PreschoolStories #BedtimeRoutine #BraveLittleDays

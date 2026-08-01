@@ -6,9 +6,9 @@
 
 | Shot | Character | Line |
 |---|---|---|
-| 01 | Opa | "Goodnight, little Kiko." |
-| 01 | Kiko | "It's getting dark." |
-| 02 | Kiko | "I'm scared of the dark." |
+| 01 | Kiko | "Opa...?" |
+| 01 | Opa | "I'm right here, little Kiko." |
+| 02 | Kiko | "Opa... I'm a little scared of the dark." |
 | 02 | Opa | "I'm right here." |
 | 03 | Opa | "It's okay to feel scared. The dark can be soft and friendly." |
 | 03 | Kiko | "Really?" |

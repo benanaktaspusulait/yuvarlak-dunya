@@ -4,8 +4,8 @@ Location: Kiko's Home — Sleeping Corner at night (soft blue moonlight, round w
 
 | Shot | Frame Description | Camera |
 |---|---|---|
-| 01 | Sleeping Corner at night, soft blue light. Kiko in the round bed under a soft blanket; Opa (owl, warm shawl) nearby for goodnight. The room light dims gently. Mimi cuddled asleep beside Kiko. | 32mm medium → slight settle |
-| 02 | Kiko pulls the blanket up, uneasy, looking at the dim room. Opa gentle beside the bed. | Medium, child eye level |
+| 01 | Sleeping Corner at night, soft blue light. A star nightlight suddenly flickers off (0.0-0.7s). Kiko's eyes open immediately (0.7s). She pulls the blanket toward her chin and looks at a moving shadow near the round window (0.7-1.8s). Kiko whispers "Opa...?" (1.8-3.0s). Then the scene continues as Opa remains nearby. | 32mm medium → slight settle |
+| 02 | Kiko pulls the blanket up further, looking at Opa. "Opa... I’m a little scared of the dark." | Medium, child eye level |
 | 03 | Opa leans in warmly, calm and reassuring. Kiko listens, a little hopeful. | Medium, warm |
 | 04 | Opa switches on a small glowing star nightlight; a warm golden glow spreads across the room, blending with the soft blue. Kiko's face brightens. | Medium, glow reveal |
 | 05 | Through the round window, a friendly round moon and a few gentle stars. Kiko looks up, wonder. | Medium → window view |
