@@ -1,74 +1,95 @@
 # Full Screenplay — Shadow Dance
 
 > Standalone duration: 120 seconds. Every shot is exactly 15 seconds. No footage or context from another episode is required.
+> Arda is present throughout. Noah enters at Shot 05 by walking into the frame from camera-right.
 
 ---
 
 ### Shot 01 — A Wave (0:00–0:15)
 
-Arda raises his right hand slowly and waves. The shadow on the ground raises its arm and waves
-too, perfectly synchronized. Arda's face lights up with delight. He waves again, watching the
-shadow copy every movement.
+Arda stands alone in the sunny garden. He notices his shadow on the ground and slowly raises his
+right hand. The shadow raises its arm at exactly the same moment. Arda's face lights up with
+delighted surprise. He waves again, watching the shadow copy every movement.
 
-**Arda:** "It waves back!"
+**Arda:** "Hello, little shadow!"
+
+---
 
 ### Shot 02 — Two Hands (0:15–0:30)
 
-Arda waves with both hands, swaying his body slightly. The shadow mimics every gesture — two
-arms waving, body swaying. Arda giggles and claps his hands. The shadow claps too.
+Arda raises both hands and waves, swaying his body slightly. The shadow mimics every gesture —
+two arms waving, body swaying. Arda giggles and does one soft clap. The shadow claps too. He
+marches briefly in place, watching the shadow march with him.
 
-**SFX:** `puff puff`
+**Arda:** "Two hands now! Copy, copy! You got it!"
 
-**Arda:** "It's dancing with me!"
+---
 
 ### Shot 03 — Running Together (0:30–0:45)
 
-Arda runs forward along the garden path. His shadow stretches behind him on the ground, running
-with him in perfect sync. The camera follows Arda at child eye level as he moves with joyful
-energy.
+Arda jogs along the garden path, arms swinging. His shadow stretches on the ground, running with
+him in perfect sync. He glances down mid-jog, delighted that the shadow keeps up. He slows and
+comes to a full stop.
 
-**Arda:** "Let's go!"
+**Arda:** "Come on, shadow! Run with me! Step for step!"
 
-### Shot 04 — Stopping (0:45–1:00)
+---
 
-Arda stops suddenly on the path. His shadow stops too, lying still on the ground beside him.
-Arda looks down at the motionless shadow, then takes one step. The shadow moves one step. He
-takes another; the shadow moves again.
+### Shot 04 — Stop and Go (0:45–1:00)
 
-**Arda:** "Stop... go... stop... go!"
+Arda stands on the path and plays a deliberate stop-and-go game. He calls out each move, checks
+his shadow, and giggles at the pattern. He ends with a satisfied look at his shadow.
 
-He giggles at the pattern.
+**Arda:** "Stop! Go! Stop! Go! You always know!"
 
-### Shot 05 — Spin! (1:00–1:15)
+---
 
-Arda spins in a circle on the grass. His shadow spins with him, a dark shape rotating on the
-ground. Arda spins faster, laughing. The shadow keeps up, always matching his movement.
+### Shot 05 — Noah Arrives (1:00–1:15)
 
-**Arda:** "Round and round!"
+Arda is standing on the grass beside the path. Noah walks in from camera-right, hands slightly
+out, curious. Arda spots him and waves him over excitedly. Arda points down at his shadow. Noah
+looks down — and sees his own shadow beside Arda's. Noah slowly waves his hand. His shadow waves
+back. Noah's eyes go wide.
+
+**Arda:** "Look, Noah — a shadow! It copies you!"
+**Noah:** "Whoa! It does!"
+
+---
 
 ### Shot 06 — Jump! (1:15–1:30)
 
-Arda jumps up from the grass with both feet. As he leaves the ground, his shadow briefly
-compresses and then stretches long as he lands. Arda jumps again, watching the shadow change
-shape with each jump.
+Arda is camera-left, Noah is camera-right. Both children prepare to jump. They jump together —
+two small safe two-foot jumps. Their shadows compress briefly then stretch as they land. They do
+two gentle knee bounces, watching their shadows bounce. Both look at each other and laugh.
 
-**Arda:** "Up! And down!"
+**Arda:** "Up! Down!"
+**Noah:** "Again!"
+**Arda:** "What else can we do?"
+
+---
 
 ### Shot 07 — The Rhyme (1:30–1:45)
 
-Arda stands on the garden path, catching his breath happily. He sways gently and recites the
-rhyme with delight, looking at his shadow and then at the camera.
+Arda and Noah stand side by side on the path. They sway gently and speak the rhyme together,
+each line paired with a small matching action. Arda leads; Noah follows a half-beat behind,
+picking it up as they go.
 
-**Arda:** "Step on it? It moves! Catch it? It waits! Stop and look — there it is!"
+**Arda:** "When I wave,"
+**Noah:** "you wave too."
+**Arda:** "When I jump,"
+**Noah:** "you do it too!"
+**Both:** "Near or far, wherever we are — my shadow stays with me!"
 
-He points down at his shadow with a grin.
+---
 
 ### Shot 08 — Walking Together (1:45–2:00)
 
-Arda walks along the garden path toward Friendship Meadow. His shadow stretches beside him on
-the ground, walking in perfect step. Arda glances down at it warmly, as if walking with a
-companion. The path opens toward the meadow ahead.
+Arda and Noah walk side by side along the garden path toward Friendship Meadow. Their two
+shadows stretch beside them on the sunny ground, walking in perfect step. Noah gives one
+small wave as he walks; his shadow waves back. Arda glances at both shadows and smiles. They
+continue walking as the shot fades out naturally.
 
-**Arda:** "You're always with me."
+**Arda:** "Come along, shadow."
+**Noah:** "See you on our next adventure!"
 
 ---
