@@ -4,59 +4,47 @@
 FRESH QUALITY-RESET SHOT — Chain 4 Anchor
 
 ## Clean Start State
-Fresh canonical composition: Arda camera-left and Noah camera-right, standing side by side on the grass beside the garden path. Both in a gentle relaxed sway posture, arms slightly out. Full bodies visible, two correct ground shadows visible. Path to one side. Camera at child-eye level, 32mm wide framing. Matches the established garden world in identity, colour and lighting — generated fresh, not from Shot 06's final frame.
+Fresh canonical composition. Arda camera-left and Noah camera-right, standing side by side on the grass beside the path. Both in a gentle relaxed sway posture, arms slightly out. Full bodies and two correct ground shadows visible. Path to one side. Distant meadow visible at the far end of the existing path. Camera at child-eye level, 32mm wide framing. Garden identity, colour and lighting match established world — generated fresh, not from Shot 06's final frame.
 
 ## Complete Main Action
-Arda and Noah deliver the Shadow Rhyme together — Arda leads, Noah follows a half-beat behind — each line paired with a distinct small physical action. They end by turning toward the meadow path and taking one step forward together.
+Arda and Noah deliver the Shadow Rhyme by strictly alternating lines — no simultaneous speech. Each line has one paired physical action. They turn and take one step toward the meadow at the end.
 
 ## Completed End State
-Both children mid-step toward the meadow path, one foot each clearly forward, arms naturally swung, both shadows copying the stride. Intentional motion-end — Shot 08 requires exact two-character step continuity.
+Both children mid-step toward the meadow path, one foot each clearly forward, arms naturally swung. Both shadows copying the stride. Intentional motion-end — Shot 08 requires this continuity.
 
 ## Stable Final Anchor
-Both children one step into their walk toward the meadow — clearly moving, not frozen.
+Both children one step into their walk toward the meadow, clearly moving.
 
 ## Next-Shot Dependency
-LINKED CONTINUITY SHOT 1 follows — Shot 08 may use this shot's QA-approved final frame. (Final exception: this is the only "ending in motion" shot. Shot 08 must complete all walking.)
+LINKED CONTINUITY SHOT 1 follows — Shot 08 may use this shot's QA-approved final frame. This is the only shot in the episode permitted to end in motion.
 
 ---
 
 ## Reference / Mode
 
-- FRESH QUALITY RESET. Do not use Shot 06's final frame. Use canonical World, approved Arda character references, and approved Noah character references.
-- Create a new clean Take Shot: Arda camera-left and Noah camera-right, side by side on grass, both in gentle sway posture, both shadows visible, matching garden canon.
-- Video input: approved Shot 07 Take Shot as `@image1`.
-- Duration 15 seconds; Frame-to-Video; same aspect ratio.
-- Auto Voice OFF; manually select Arda's canonical locked voice and Noah's canonical locked voice separately. Do not generate new voices. Rhyme is spoken in natural voices — not sung, no melody, no chant soundtrack.
-- Prompt Enhancer OFF; Cinematic/Auto Camera OFF; no music.
+- FRESH QUALITY RESET. Do not use Shot 06's final frame. Canonical World + approved Arda and Noah references.
+- Create a new clean Take Shot: Arda camera-left, Noah camera-right, side by side on grass, both shadows and distant meadow visible.
+- Video input: approved Shot 07 Take Shot as `@image1`. Aspect ratio: 16:9.
+- Auto Voice OFF. Canonical Arda voice and canonical Noah voice selected separately. Do not generate new voices. Rhyme is spoken — not sung. No melody or chant soundtrack.
+- Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No music.
 
 ## Video Prompt
 
-Animate only from `@image1`; preserve Arda camera-left, Noah camera-right, full-body scale for both, path, grass, framing, sunlight, palette and both shadows 1:1. Keep both shadows and full bodies visible throughout — do not crop to waist-up. Both children begin swaying gently from frame one — no frozen opening.
-
-**0.0–1.4s** Arda sways left and says, **"When I wave,"** while giving one small right-hand wave. His shadow mirrors the wave. Noah sways slightly, watching.
-**1.4–3.2s** Noah sways right and says, **"you wave too."** Noah gives a small wave; his shadow mirrors it.
-**3.2–5.0s** Arda makes one small stamp in place and says, **"When I jump,"** — no actual jump; just a clear in-place stamp.
-**5.0–6.8s** Noah points softly down at both shadows and says, **"you do it too!"** Both shadows copy the point direction.
-**6.8–8.5s** Arda nods once and says, **"Near or far,"** — a single clear head nod, then settles.
-**8.5–10.6s** Both children open both arms wide together and say, **"wherever we are,"** — both shadows open with both arms.
-**10.6–12.8s** Both place one hand over their hearts together and finish, **"my shadow stays with me!"** — each child speaks about their own shadow; a gentle pause on the final word.
-**12.8–15.0s** Both lower their hands, turn their bodies toward the meadow path and take one calm forward step together. Both shadows copy the turn and step. Shot ends here — both children mid-step, clearly moving toward the meadow.
-
-Locked child-eye 32mm full-body wide shot; no zoom, crop, cut or camera move. Arda remains camera-left and Noah remains camera-right throughout. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows. Colour master: use the approved original Shot 01 still as the Episode Colour Master. Do not allow colour to fade, desaturate, cool down, warm up, brighten, darken or drift from the Episode Colour Master. Quiet breeze and footsteps only; no music or text.
+Animate from `@image1`. Preserve Arda camera-left, Noah camera-right, full bodies, path, grass, framing, sunlight, palette and both shadows 1:1. Do not crop to waist-up. Both children sway gently from frame one — no frozen opening. Lines are strictly alternating — only one child speaks at a time. 0.0–1.4s: Arda sways left — **"When I wave,"** — gives one small right-hand wave; his shadow mirrors it. 1.4–3.2s: Noah sways right — **"you wave too"** — gives a small wave; his shadow mirrors it. 3.2–5.0s: Arda makes one small step in place — **"When I step,"** — shadow copies the step. 5.0–6.8s: Noah points softly down at both shadows — **"you do it too!"** 6.8–8.5s: Arda nods once — **"Near or far,"** — head nod, then settles. 8.5–10.6s: Noah opens both arms wide — **"wherever we are,"** — shadow opens with both arms. 10.6–12.8s: Arda places one hand over his heart — **"my shadow stays with me!"** — gentle pause. 12.8–15.0s: Both lower hands, turn toward the meadow and take one calm forward step together. Both shadows copy the turn and step. Shot ends here — both mid-step toward the meadow. Locked child-eye 32mm wide shot — no zoom, crop, cut or camera move. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss or harsh shadows. Colour master: approved Shot 01 still — do not drift. Quiet breeze and footsteps only. No music or text.
 
 ## Noah Identity Lock
 
-Noah from Pompom Hills v2.1: curly light brown hair, big warm brown eyes, soft freckles across nose and cheeks, blue striped t-shirt with small denim pocket, khaki shorts, blue sneakers, rounded preschool toy proportions, soft clay-plush materials. Preserve these exactly. Do not redesign Noah.
+Noah v2.1: curly light brown hair, warm brown eyes, soft freckles, blue striped t-shirt with denim pocket, khaki shorts, blue sneakers. Rounded preschool proportions, soft clay-plush materials. Do not redesign Noah.
 
 ## Negative / Hard Locks
 
-No singing, melody, chant soundtrack, waist-up crop, missing shadow, independent/extra shadow, repeated earlier actions (no re-jump, re-spin), characters switching sides (Arda stays camera-left, Noah stays camera-right), direct camera stare held for more than 1 second, frozen talking-head pose held for more than 2 seconds without accompanying action, camera move, location change, extra characters/props/animals, long silence, HDR, gloss, harsh blacks, saturation/contrast/sharpness drift, flicker, captions or watermark.
+No simultaneous speech — lines strictly alternate. No singing or melody. No waist-up crop. No missing or independent shadow. No re-jump or re-spin. No characters switching sides. No frozen talking pose over 2 seconds without action. No camera move. No extra characters. No HDR, gloss, saturation/contrast/sharpness drift, flicker or text.
 
 ## Approval Gate
 
-- Fresh Take Shot restores clean pastel quality.
-- Every rhyme line has a distinct paired physical action — no line is delivered as a static talking pose.
-- Full bodies and both shadows remain visible throughout.
-- Final frame shows both children mid-step, clearly moving — not standing still.
-- Arda camera-left, Noah camera-right throughout.
-- Pacing: 7 distinct action-beats mapped to 7 rhyme lines plus the final shared turn-and-step.
+- Fresh Take Shot shows distant meadow at the end of the path.
+- Every rhyme line has a distinct paired physical action.
+- Lines strictly alternate — no overlap, no simultaneous speech.
+- "When I step" paired with a step, not a jump.
+- Full bodies and both shadows visible throughout.
+- Final frame: both children mid-step toward the meadow, clearly moving.

@@ -63,7 +63,7 @@ two small safe two-foot jumps. Their shadows compress briefly then stretch as th
 two gentle knee bounces, watching their shadows bounce. Both look at each other and laugh.
 
 **Arda:** "Up! Down!"
-**Noah:** "Again!"
+**Noah:** "Let's bounce!"
 **Arda:** "What else can we do?"
 
 ---
@@ -76,9 +76,11 @@ picking it up as they go.
 
 **Arda:** "When I wave,"
 **Noah:** "you wave too."
-**Arda:** "When I jump,"
+**Arda:** "When I step,"
 **Noah:** "you do it too!"
-**Both:** "Near or far, wherever we are — my shadow stays with me!"
+**Arda:** "Near or far,"
+**Noah:** "wherever we are,"
+**Arda:** "my shadow stays with me!"
 
 ---
 
@@ -90,6 +92,6 @@ small wave as he walks; his shadow waves back. Arda glances at both shadows and 
 continue walking as the shot fades out naturally.
 
 **Arda:** "Come along, shadow."
-**Noah:** "See you on our next adventure!"
+**Noah:** "See you next time!"
 
 ---
