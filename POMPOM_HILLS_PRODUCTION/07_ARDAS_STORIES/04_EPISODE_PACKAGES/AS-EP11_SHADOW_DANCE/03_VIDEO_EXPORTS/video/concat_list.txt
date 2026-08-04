@@ -1,0 +1,8 @@
+file 'shot-1_hd.mp4'
+file 'shot-2_hd.mp4'
+file 'shot-3_hd.mp4'
+file 'shot-4_hd.mp4'
+file 'shot-5_hd.mp4'
+file 'shot-6_hd.mp4'
+file 'shot-7_hd.mp4'
+file 'shot-8_hd.mp4'
