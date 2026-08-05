@@ -9,51 +9,55 @@
 | Episode title | Whose Turn Is It? |
 | Characters | Opa, Arda, Luca |
 | Audience | Ages 3–6 |
-| Recurring prop | A small old drum found in Opa's storage |
-| Total duration | 90 seconds (6 × 15s) |
+| Recurring prop | A small old drum |
+| Shot count | 10 shots × 15 seconds |
+| Total duration | 150 seconds (2.5 minutes) |
 | Format | 9:16 vertical |
+| YouTube use | Full episode — standalone |
+| Reels use | Each shot is a standalone Reel |
 
 ## Logline
-Opa finds a small old drum in his storage. Both children want to play it at the same time — so they learn to take turns, wait, listen and share the music together.
+Opa finds a small old drum in storage. Both children want to play it at once. Learning to wait for your turn — and discovering that music is better when shared — is the heart of this episode.
+
+## Story Arc — Arda's Patience Journey
+
+- Shot 01: Drum found — both children reach for it immediately
+- Shot 02: Luca goes first; Arda waits (barely)
+- Shot 03: Arda's turn; Luca waits (hard but manages with Opa's help)
+- Shot 04: Arda finds his own beat — unexpected discovery
+- Shot 05: They try playing together — chaotic at first
+- Shot 06: Opa hears them from nearby and comes to watch
+- Shot 07: Opa joins in with the tree trunk — trio
+- Shot 08: Silence moment — listening is also music
+- Shot 09: Whose drum is it? The question becomes real
+- Shot 10: Drum placed on platform — it belongs to all of them now
 
 ## English Learning Focus
 
 | Shot | Learning Pattern |
 |---:|---|
-| 01 | "Whose is it?" / "It's Opa's." / "Can I try?" |
-| 02 | "It's your turn." / "Thank you!" / "Now it's my turn." |
-| 03 | "Wait for your turn." / "I'm waiting." |
+| 01 | "Whose is it?" / "Can I try?" |
+| 02 | "It's your turn." / "Thank you." / "Wait for your turn." |
+| 03 | "I'm waiting." / "It's hard." / "You can do it." |
 | 04 | "How does it sound?" / "It sounds good!" |
-| 05 | "Can we play together?" / "Yes, together!" |
-| 06 | "Let's make music!" / "That was great!" |
+| 05 | "Can we play together?" / "Let's try." |
+| 06 | "I can hear you!" / "Come and listen." |
+| 07 | "May I join?" / "Yes! Come on!" |
+| 08 | "Listen." / "It's quiet now." / "That's music too." |
+| 09 | "Whose drum is it now?" / "It belongs to all of us." |
+| 10 | "Where does it go?" / "Here — where everyone can see it." |
 
 ## Shot Chain
 
 | Shot | Production Mode | Location | Story Beat |
 |---:|---|---|---|
-| 01 | FRESH — Chain 1 | Opa's platform | Drum found in storage; both children want it |
-| 02 | LINKED from 01 | Opa's platform | First turn system — Luca goes first |
-| 03 | FRESH — Chain 2 | Opa's garden steps | Arda waits — genuinely hard but manages |
-| 04 | LINKED from 03 | Opa's garden | Arda's turn; he discovers his own sound |
-| 05 | FRESH — Chain 3 | Open area beside tree home | Both play together with different rhythms |
-| 06 | LINKED from 05 | Same open area | Opa joins in; full trio moment; warm ending |
-
-## Recurring Prop Journey
-
-| Shot | Drum State |
-|---:|---|
-| 01 | Just found; both children reach for it at the same time |
-| 02 | Luca plays first; Arda watches |
-| 03 | Arda holds it — Luca's turn to wait |
-| 04 | Arda plays; discovers his own beat |
-| 05 | Both play together, different parts |
-| 06 | Opa adds a rhythm; all three make music |
-
-## Why This Works Better Than "Where Does It Go?"
-
-- Three different locations across 6 shots (platform, garden steps, open area)
-- Genuine emotional tension: waiting is hard for young children
-- Arda's character arc: rushes in → learns to wait → discovers his own way
-- Learning patterns come from real social situations children face daily
-- Visual variety: drum being played creates movement and energy
-- The ending is earned — music together — not just "tidy and done"
+| 01 | FRESH — Chain 1 | Platform storage | Drum found; both children want it |
+| 02 | LINKED from 01 | Platform | Luca plays; Arda waits |
+| 03 | FRESH — Chain 2 | Garden steps | Arda plays; Luca waits with Opa's support |
+| 04 | LINKED from 03 | Garden steps | Arda's unexpected beat discovery |
+| 05 | FRESH — Chain 3 | Open area | Both try playing together |
+| 06 | LINKED from 05 | Same open area | Opa hears them and comes to watch |
+| 07 | FRESH — Chain 4 | Open area by tree | Opa joins in on tree trunk |
+| 08 | LINKED from 07 | Same area | Silence moment; listening is music |
+| 09 | FRESH — Chain 5 | Platform | Question: whose drum is it? |
+| 10 | LINKED from 09 | Platform | Drum placed as shared object |

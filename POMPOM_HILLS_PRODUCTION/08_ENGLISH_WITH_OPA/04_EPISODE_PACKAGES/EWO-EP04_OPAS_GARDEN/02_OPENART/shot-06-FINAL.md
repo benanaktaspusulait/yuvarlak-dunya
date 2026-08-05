@@ -1,86 +1,80 @@
-# Shot 06 — We Did It!
+# Shot 06 — Let's Count
 
 ## Production Mode
-LINKED CONTINUITY SHOT — from Shot 05 — Final Shot of Episode.
-`@image1` = mandatory approved final frame of Shot 05 (all three together, tomato between them).
+LINKED CONTINUITY SHOT — from Shot 05.
+`@image1` = mandatory approved final frame of Shot 05 (children holding herbs, smiling with discovery).
 Duration: exactly 15 seconds. Aspect ratio: 9:16 vertical. Frame-to-Video.
-Auto Voice OFF. Canonical voices selected manually. Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt music.
+Auto Voice OFF. Canonical voices selected manually. No new voices generated.
+Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt-generated music.
 
 ## Story Context
-The harvest is complete. All three carry the full basket back toward Opa's tree home together. The satisfaction of finishing something they worked on is the emotional payoff. "We did it" and "good teamwork" emerge from genuine achievement.
+The basket is getting heavier. Time to see how much they have. Arda counts tomatoes, Luca counts herbs. Counting feels satisfying because it's real — these are things they picked.
 
 ## Canonical Character Locks
-**Opa:** Large round light-green owl. No human hands — rounded wings only. Golden glasses, brown scarf.
+**Opa:** Large round light-green owl. No human hands — rounded wings only. Golden glasses, brown scarf. Sets basket down.
 **Arda:** Sky-blue shirt, light-blue trousers, tan shoes.
 **Luca:** Cream shirt with green sleeves, khaki shorts, orange trainers.
 
 ## Location Lock
-Garden to tree home entrance. Stepping stones visible. Morning light, warm satisfaction.
-
-## Prop and Object Continuity Lock
-- Small woven harvest basket: full. Carried by all three together — Arda and Luca each hold a side, Opa steadies from above with one wing.
+Open garden area — basket set down on a flat stone or bench for counting.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction.
+English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Exact Dialogue
-1. Arda: "We did it!"
-2. Luca: "We did it together!"
-3. Opa: "Good teamwork."
-4. Arda: "Can I carry it?"
-5. Luca: "Me too!"
-6. Opa: "Together — like this."
-7. Arda: "It's heavy now!"
-8. Luca: "Because it's full."
-9. Opa: "A good harvest."
+1. Opa: "How many tomatoes do we have?"
+2. Arda: "One, two, three, four! Four tomatoes!"
+3. Opa: "Good. And the herbs, Luca?"
+4. Luca: "A lot! One, two, three bunches."
+5. Arda: "That's a lot!"
+6. Luca: "Is it enough?"
+7. Opa: "Almost. We need the carrots too."
+8. Arda: "Carrots! Let's go!"
 
-**Word count:** 26 words. **Turn count:** 9 turns.
+**Word count:** 30 words. **Turn count:** 8 turns.
 
 ## OpenArt Video Prompt
 AUDIO PRIORITY: English only. Canonical voices only.
-Continue from `@image1`. Garden to tree home. Preserve characters and palette 1:1. No HDR.
+Continue from `@image1`. Open garden area, basket set down. Preserve characters and matte palette 1:1. No HDR.
 
-**0.0–2.0s** Arda stands up straight and pumps his arms — **"We did it!"**
-**2.0–4.0s** Luca echoes, genuinely proud — **"We did it together!"**
-**4.0–6.0s** Opa looks at both warmly — **"Good teamwork."**
-**6.0–7.5s** Arda reaches for the basket handle — **"Can I carry it?"**
-**7.5–8.8s** Luca steps to the other side — **"Me too!"**
-**8.8–11.0s** Opa steadies the basket from above with one rounded wing as both children lift it — **"Together — like this."**
-**11.0–12.5s** Arda staggers slightly under the weight — **"It's heavy now!"**
-**12.5–13.8s** Luca grins — **"Because it's full."**
-**13.8–15.0s** Opa watches them carry it toward the entrance with quiet pride — **"A good harvest."** Final frame: all three approaching the tree home entrance, full basket carried between Arda and Luca, Opa alongside, warm golden light.
+**0.0–2.0s** Opa sets the basket down — **"How many tomatoes do we have?"**
+**2.0–4.5s** Arda crouches and counts carefully, finger by finger — **"One, two, three, four! Four tomatoes!"**
+**4.5–6.5s** Opa turns to Luca — **"Good. And the herbs, Luca?"**
+**6.5–9.0s** Luca counts the herb bunches — **"A lot! One, two, three bunches."**
+**9.0–10.5s** Arda looks into the basket with satisfaction — **"That's a lot!"**
+**10.5–12.0s** Luca asks practically — **"Is it enough?"**
+**12.0–13.5s** Opa looks at the basket, nods — **"Almost. We need the carrots too."**
+**13.5–15.0s** Arda stands up with energy — **"Carrots! Let's go!"** Final frame: all three looking toward the carrot section of the garden.
 
 ## Exact 0.0–15.0 Second Timeline
 | Time | Action | Speaker | Line |
 |------|--------|---------|------|
-| 0.0–2.0s | Arda pumps arms | Arda | "We did it!" |
-| 2.0–4.0s | Luca echoes | Luca | "We did it together!" |
-| 4.0–6.0s | Opa looks at both | Opa | "Good teamwork." |
-| 6.0–7.5s | Arda reaches for basket | Arda | "Can I carry it?" |
-| 7.5–8.8s | Luca steps to other side | Luca | "Me too!" |
-| 8.8–11.0s | Opa steadies with one wing | Opa | "Together — like this." |
-| 11.0–12.5s | Arda staggers a little | Arda | "It's heavy now!" |
-| 12.5–13.8s | Luca grins | Luca | "Because it's full." |
-| 13.8–15.0s | All three walk toward entrance | Opa | "A good harvest." |
+| 0.0–2.0s | Opa sets basket down | Opa | "How many tomatoes do we have?" |
+| 2.0–4.5s | Arda counts tomatoes | Arda | "One, two, three, four! Four tomatoes!" |
+| 4.5–6.5s | Opa asks Luca | Opa | "Good. And the herbs, Luca?" |
+| 6.5–9.0s | Luca counts bunches | Luca | "A lot! One, two, three bunches." |
+| 9.0–10.5s | Arda looks in basket | Arda | "That's a lot!" |
+| 10.5–12.0s | Luca asks | Luca | "Is it enough?" |
+| 12.0–13.5s | Opa checks basket | Opa | "Almost. We need the carrots too." |
+| 13.5–15.0s | Arda energised | Arda | "Carrots! Let's go!" |
 
 ## Camera and Framing Lock
-Child-height camera. Full basket visible between children. Tree home entrance ahead. Final frame warm and complete.
+Child-height camera. Basket contents clearly countable. Final frame toward carrot section. Stable for Shot 07.
 
 ## Sound / SFX Lock
-No OpenArt music. Ambient: garden, birds, basket carried on stepping stones. Never overpower dialogue.
+No OpenArt-generated music. Ambient: garden, birds. Never overpower dialogue.
 
 ## Visual Continuity / Style Lock
-Soft matte 3D. Warm golden morning light. Medium-low contrast. No HDR.
+Soft matte 3D. Warm morning light. Medium-low contrast. No HDR.
 
 ## Post-Production Learning Metadata — DO NOT GENERATE IN OPENART
-- Target phrase: "We did it!" / "Good teamwork!"
-- Vocabulary: together, teamwork, heavy, full, harvest
+- Target phrase: "How many do we have?" / "One, two, three!"
+- Vocabulary: how many, count, tomatoes, herbs, carrots
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
+No human hands on Opa. No missing glasses or scarf on Opa. No HDR. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text. No non-English speech.
 
 ## Approval Gate
-- Opens from Shot 05 sunny garden final frame.
-- Full basket carried by Arda and Luca together with Opa steadying.
-- Final frame: all three at tree home entrance.
-- 26 words, 9 turns. No human anatomy on Opa.
+- Opens from Shot 05 herbs-discovered final frame.
+- Basket contents clearly visible and countable.
+- 30 words, 8 turns. No human anatomy on Opa.
