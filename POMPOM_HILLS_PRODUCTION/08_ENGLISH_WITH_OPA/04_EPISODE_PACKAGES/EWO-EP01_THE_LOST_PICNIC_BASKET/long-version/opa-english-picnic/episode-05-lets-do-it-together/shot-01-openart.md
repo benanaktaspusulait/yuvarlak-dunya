@@ -19,7 +19,9 @@ Frame-to-Video — Fresh Take Shot (creative freedom for action sequence)
 15 seconds exactly
 
 ## 7. Aspect Ratio
-9:16 vertical (1080×1920)
+9:16 vertical (1080×1920).
+
+Auto Voice OFF. Canonical character voices selected manually. Do not generate new voices. Prompt Enhancer OFF. Cinematic / Auto Camera OFF. No OpenArt-generated music. English dialogue only. Speak every line exactly as written. No translation, paraphrasing or added words.
 
 ## 8. Character Locks
 

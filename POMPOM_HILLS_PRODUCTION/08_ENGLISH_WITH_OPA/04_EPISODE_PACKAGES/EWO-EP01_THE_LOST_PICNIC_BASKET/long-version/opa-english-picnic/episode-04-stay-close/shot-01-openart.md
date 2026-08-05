@@ -19,7 +19,9 @@ Frame-to-Video — single reference frame generated, then animated to 15s video
 15 seconds exactly
 
 ## 7. Aspect Ratio
-9:16 vertical (1080×1920)
+9:16 vertical (1080×1920).
+
+Auto Voice OFF. Canonical character voices selected manually. Do not generate new voices. Prompt Enhancer OFF. Cinematic / Auto Camera OFF. No OpenArt-generated music. English dialogue only. Speak every line exactly as written. No translation, paraphrasing or added words.
 
 ## 8. Character Locks
 
@@ -51,7 +53,7 @@ Frame-to-Video — single reference frame generated, then animated to 15s video
 - Hair: #3A2A1E dark brown, slightly longer
 - Eyes: #7A4A2A warm brown
 - Freckles: #E7A97A across nose and cheeks
-- Shirt: #F7F4EE white body with #68AE68 green sleeves
+- Shirt: #F7F4EE (cream-white T-shirt) with #68AE68 (leaf-green sleeves) and small mountain emblem on chest
 - Shorts: #7C8F5A olive green
 - Shoes: #FF8A3D orange
 - Expression: excited, pointing at butterfly

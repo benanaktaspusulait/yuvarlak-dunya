@@ -51,10 +51,10 @@ Village market square: wooden stalls with colourful awnings, flower arrangements
 English only. One speaker at a time. No overlapping dialogue. One line must finish before the next speaker begins. Never swap voices between Opa, Arda, Luca or the Market Seller. No extra words, paraphrasing, narration, singing or off-screen voices. Mouth movement only on the active speaker. Listening characters use natural eye movement, head turns and small reactions without speaking. First spoken line by 1.0s, maximum 1.5s.
 
 ## 12. Dialogue
-1. Opa: "What do we need?"
-2. Arda: "Apples!"
-3. Luca: "Look at all the fruit!"
-4. Seller: "Welcome to my stall!"
+1. Seller: "Welcome to my stall!"
+2. Opa: "What do we need?"
+3. Arda: "Apples!"
+4. Luca: "Look at all the fruit!"
 5. Arda: "Those red ones look good!"
 
 **Word count:** 19 words. **Turn count:** 5 turns.
@@ -70,7 +70,7 @@ Create a clean vertical 9:16 anchor image for a 15-second preschool animation sh
 
 Show a cheerful village market square in the Pompom Hills world. Wooden stalls with colourful soft awnings, flower arrangements, warm daylight. A fruit-and-bread stall is the main focus with red apple crates and a bread display visible.
 
-Opa — a large, round, light-green owl with warm-green feathers (#A5D6A7), light-green belly (#C8E6C9), big warm-brown eyes (#795548), round golden glasses (#FFD54F), small orange beak (#FF7043), orange rounded feet (#FF7043), thick warm-brown knitted scarf (#A1887F) — stands closest to the stall counter. He holds the empty wicker basket with folded red-and-white checkered cloth tied to the handle, about to place it on the counter. Opa is noticeably larger and wider than both children.
+Opa — a large, round, light-green owl with warm-green feathers (#A5D6A7), light-green belly (#C8E6C9), big warm-brown eyes (#795548), round golden glasses (#FFD54F), small orange beak (#FF7043), orange rounded feet (#FF7043), thick warm-brown knitted scarf (#A1887F) — stands closest to the stall counter. He carries the empty wicker basket with folded red-and-white checkered cloth tied to the handle — its handle resting securely over one rounded wing, the basket supported against his soft round side. No fingers, palm, wrist or human gripping action. About to place it on the counter. Opa is noticeably larger and wider than both children.
 
 Arda — a smaller toddler boy (2–3 yrs) with soft fluffy dark-brown hair, warm-brown eyes, rosy cheeks, sky-blue T-shirt with tiny chest badge, light-blue trousers, tan shoes — stands nearest the red apple crates, shorter than Luca. He looks toward the apples with excitement.
 
@@ -81,46 +81,44 @@ The Market Seller — a friendly adult hedgehog with warm brown-and-cream fur, s
 Forest path exit visible in the background. Camera at child height (~0.80m), medium-wide vertical 9:16 composition. Bright warm daylight, soft pastel look, matte materials, no harsh contrast. No HDR, no glossy plastic, no text, no captions.
 
 ## 16. OpenArt Video Prompt
-AUDIO PRIORITY: English dialogue only. Use only the assigned canonical voices for Opa, Arda and Luca. Do not generate new voices.
+AUDIO PRIORITY: English dialogue only. Use only the assigned canonical voices for Opa, Arda, Luca and the Market Seller. Do not generate or substitute any new voice.
 
 Continue from approved `@image1`. The scene takes place entirely in the cheerful village market square. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
 
-**0.0–1.5s:** Open on the approved Take Shot. Opa places the empty wicker basket (with folded cloth tied to handle) on the stall counter. The Market Seller smiles warmly at the group. Opa turns to Arda and Luca and says: **"What do we need?"** First dialogue line delivered by 1.5s.
+**0.0–1.5s:** Open on the approved Take Shot. Opa places the empty wicker basket (with folded cloth tied to handle) on the stall counter. The Market Seller smiles warmly at the group and opens his arms welcomingly: **"Welcome to my stall!"** First dialogue line delivered by 1.5s.
 
-**1.5–3.0s:** Arda immediately lights up and points excitedly at the red apple crates on the stall: **"Apples!"** Luca looks at the apples too.
+**1.5–3.0s:** Opa turns to Arda and Luca and asks warmly: **"What do we need?"** Rounded wing gesture toward the stall items.
 
-**3.0–5.5s:** Luca looks around at all the fruit displays with wide eyes: **"Look at all the fruit!"** The seller glances at the children warmly.
+**3.0–4.5s:** Arda immediately lights up and points excitedly at the red apple crates on the stall: **"Apples!"** Luca looks at the apples too.
 
-**5.5–8.0s:** The Market Seller smiles and opens his arms welcomingly: **"Welcome to my stall!"** Opa nods with a warm smile.
+**4.5–7.0s:** Luca looks around at all the fruit displays with wide eyes: **"Look at all the fruit!"** The seller glances at the children warmly.
 
-**8.0–10.5s:** Arda keeps his eyes on the red apples, pointing: **"Those red ones look good!"** The seller follows Arda's gaze to the apple crates.
+**7.0–10.5s:** Arda keeps his eyes on the red apples, pointing: **"Those red ones look good!"** The seller follows Arda's gaze to the apple crates. Opa nods with a warm smile.
 
-**10.5–15.0s:** Opa, Arda and Luca remain at the stall. The basket sits on the counter with the cloth tied to the handle. All characters maintain natural eye contact and small movements. The apple crates, bread display and small cake box are visible on the stall. Final frame: the group standing at the market stall, basket on counter, seller behind counter — all characters visible and positioned for Shot 02 to continue seamlessly.
+**10.5–15.0s:** The seller turns the apple crate slightly toward Arda. Arda examines the red apples closely. Opa slides the basket closer to the seller across the counter. Luca glances at the bread display. Final frame: the group positioned at the market stall in a natural arrangement that prepares the "How many?" exchange — seller ready behind the crate, Arda focused on apples, basket within reach on the counter. All characters visible and positioned for Shot 02 to continue seamlessly.
 
 No frozen poses. All characters physically active during every moment. Clear lip-sync on the active speaker only. No gap over 1.0s without movement or reaction. Child-height camera throughout.
 
 ## 17. Timeline
 | Time | Action | Speaker | Line |
 |------|--------|---------|------|
-| 0.0–1.5s | Opa places basket on counter; seller smiles | Opa | "What do we need?" |
-| 1.5–3.0s | Arda points at apple crates excitedly | Arda | "Apples!" |
-| 3.0–5.5s | Luca looks around at fruit displays | Luca | "Look at all the fruit!" |
-| 5.5–8.0s | Seller opens arms welcomingly | Seller | "Welcome to my stall!" |
-| 8.0–10.5s | Arda points at red apples | Arda | "Those red ones look good!" |
-| 10.5–15.0s | All at stall; natural activity; positioned for Shot 02 | — | — |
-| 1.5–4.0s | Arda points at apple crates excitedly | Arda | "Apples!" |
-| 4.0–7.0s | Group gathers at stall; natural idle movement | — | — |
-| 7.0–12.0s | Seller behind counter; basket on counter; natural activity | — | — |
-| 12.0–15.0s | All positioned at stall; ready for Shot 02 | — | — |
+| 0.0–1.5s | Opa places basket on counter; seller smiles and welcomes | Seller | "Welcome to my stall!" |
+| 1.5–3.0s | Opa turns to children, asks warmly | Opa | "What do we need?" |
+| 3.0–4.5s | Arda points at apple crates excitedly | Arda | "Apples!" |
+| 4.5–7.0s | Luca looks around at fruit displays | Luca | "Look at all the fruit!" |
+| 7.0–10.5s | Arda points at red apples | Arda | "Those red ones look good!" |
+| 10.5–15.0s | Seller turns crate toward Arda; Arda examines apples; Opa slides basket closer; Luca glances at bread | — | — |
 
 ## 18. Camera Lock
 Child-height camera (~0.80m). No sudden camera-angle switch. No instant reverse angle. No character teleportation. No environment morphing. No abrupt crop or zoom. One continuous coherent camera move or at most two visually connected camera beats. Keep the speaking character's face readable without freezing the listening characters. Keep important props (basket, cloth, apple crates) inside the vertical safe area. Final frame must be stable and usable as Shot 02's `@image1`.
 
 ## 19. Acting / Listening
-- **Opa (speaking turn 1):** Places basket on counter, turns to children, asks warmly. Rounded wing gesture toward the stall items.
-- **Arda (speaking turn 2):** Lights up, points at apple crates with excitement. Eager body language.
-- **Luca (listening):** Looks at apples, small head turn, attentive expression. Standing near bread display.
-- **Market Seller (listening):** Warm smile behind counter, gentle welcoming posture.
+- **Market Seller (speaking turn 1):** Smiles warmly, opens arms welcomingly. Welcomes the group.
+- **Opa (speaking turn 2):** Places basket on counter, turns to children, asks warmly. Rounded wing gesture toward the stall items. Carries the basket with its handle resting securely over one rounded wing, supporting the basket against his soft round side. No fingers, palm, wrist or human gripping action.
+- **Arda (speaking turn 3):** Lights up, points at apple crates with excitement. Eager body language.
+- **Luca (speaking turn 4):** Looks around at fruit displays with wide eyes. Standing near bread display.
+- **Arda (speaking turn 5):** Keeps eyes on red apples, points. Focused excitement.
+- **Market Seller (10.5–15.0s):** Turns apple crate slightly toward Arda.
 - **All idle periods:** Natural micro-movements — weight shifts, eye blinks, small head turns. No frozen poses at any point.
 
 ## 20. SFX

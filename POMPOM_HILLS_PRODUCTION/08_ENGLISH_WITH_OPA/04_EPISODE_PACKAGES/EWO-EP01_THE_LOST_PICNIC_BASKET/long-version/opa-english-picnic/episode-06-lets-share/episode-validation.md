@@ -11,7 +11,7 @@
 | Arda pronouns | PASS | he/him/his throughout; no she/her |
 | Opa anatomy | PASS | No hands/fingers; rounded wings only |
 | One speaker at a time | PASS | No overlapping dialogue in any shot |
-| No HDR/contrast/saturation | PASS | All shots: gentle watercolor storybook |
+| No HDR/contrast/saturation | PASS | All shots: premium soft 3D preschool animation |
 | No glossy/text/captions | PASS | All shots: no text overlays |
 | Prop continuity | PASS | Basket, cloth, cake box chain is consistent |
 | Cake box timing | PASS | CLOSED until Shot 02; first opened there |

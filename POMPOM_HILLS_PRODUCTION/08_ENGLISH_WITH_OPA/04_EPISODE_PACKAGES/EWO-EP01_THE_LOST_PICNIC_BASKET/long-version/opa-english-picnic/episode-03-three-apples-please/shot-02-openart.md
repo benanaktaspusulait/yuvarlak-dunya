@@ -81,21 +81,23 @@ Preserve the Shot 01 visual identity: village market square, wooden stalls, colo
 
 **7.0–9.5s:** The seller finishes placing the third apple, steps back slightly, and says warmly: **"Here you are!"** The basket now visibly contains three red apples.
 
-**9.5–12.0s:** Arda peers into the basket at the apples with delight. Opa nods approvingly. Luca glances at the bread display. Natural idle movement — all characters active.
+**9.5–10.5s:** Arda checks the three apples in the basket with a satisfied nod. Opa nods approvingly.
 
-**12.0–15.0s:** The group remains at the stall. The basket sits on the counter with three apples inside and the cloth still tied to the handle. All characters maintain natural positions and micro-movements. Final frame: basket with three apples on counter, group positioned at stall, seller behind counter — ready for Shot 03.
+**10.5–12.5s:** Luca notices the bread display and the closed cake box on the stall counter, glancing at them with curiosity — preparing Shot 03.
 
-No frozen poses. All characters physically active. Clear lip-sync on the active speaker only. No gap over 1.0s without movement or reaction. Child-height camera throughout.
+**12.5–15.0s:** All characters maintain natural positions and micro-movements at the stall. Final frame: basket with three apples on counter, group positioned at stall, seller behind counter — ready for Shot 03.
+
+No frozen poses. All characters physically active. Clear lip-sync on the active speaker only. No purposeless silence or frozen idle gap over 1.0 second. Longer action-only moments are allowed only while the seller visibly places the three apples and the characters react naturally. Child-height camera throughout.
 
 ## 17. Timeline
 | Time | Action | Speaker | Line |
 |------|--------|---------|------|
 | 0.0–1.5s | Seller leans forward, tilts head | Seller | "How many?" |
 | 1.5–4.0s | Arda holds up three fingers, bounces | Arda | "Three apples, please." |
-| 4.0–7.0s | Seller picks up 3 apples, places them in basket one by one | — | — |
-| 7.0–9.5s | Seller steps back; basket now has 3 apples | Seller | "Here you are!" |
-| 9.5–12.0s | Arda peers in basket; Opa nods; Luca glances at bread | — | — |
-| 12.0–15.0s | All at stall; basket with 3 apples on counter | — | — |
+| 4.0–8.5s | Seller places exactly three red apples one by one into basket | — | — |
+| 8.5–10.5s | Seller steps back; basket now has 3 apples | Seller | "Here you are!" |
+| 10.5–12.5s | Arda checks apples; Opa nods; Luca notices bread and cake box | — | — |
+| 12.5–15.0s | All at stall; basket with 3 apples on counter | — | — |
 
 ## 18. Camera Lock
 Child-height camera (~0.80m). Preserve screen direction from `@image1`. No sudden camera-angle switch. No instant reverse angle. No character teleportation. No environment morphing. No abrupt crop or zoom. One continuous coherent camera move or at most two visually connected camera beats. Keep the speaking character's face readable without freezing the listening characters. Keep important props (basket, apples) inside the vertical safe area. Final frame must be stable and usable as Shot 03's `@image1`.
@@ -132,11 +134,12 @@ No extra food beyond three apples placed in basket. No bread or cake added in th
 - Seller asks "How many?" — delivered by 1.5s.
 - Arda holds up three fingers for "Three apples, please."
 - Seller places exactly three red apples into the basket.
+- Exactly three separate red apples are transferred from the crate into the basket. No instant appearance, no duplicate apple, no fourth apple, and no apple already inside the basket at the opening frame.
 - No bread or cake added in this shot — those are for Shot 03.
 - Basket contains only three apples at end of shot.
 - Cloth still tied to basket handle throughout.
 - 10 words, 3 turns — matches target.
-- No silent gap over 1.0s after dialogue begins.
+- No purposeless silence or frozen idle gap over 1.0 second. Longer action-only moments are allowed only while the seller visibly places the three apples and the characters react naturally.
 - All characters remain physically active throughout.
 - No HDR / contrast drift.
 - No human anatomy on Opa.

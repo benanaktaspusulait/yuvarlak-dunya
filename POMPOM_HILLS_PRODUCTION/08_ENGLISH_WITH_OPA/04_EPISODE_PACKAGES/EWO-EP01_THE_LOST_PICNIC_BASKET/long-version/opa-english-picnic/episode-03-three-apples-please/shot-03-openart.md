@@ -41,11 +41,11 @@ Village market square — same stall as Shots 01 and 02. Wooden stalls with colo
 
 ## 10. Prop Lock
 - **Wicker basket:** On the stall counter at start. Contains three red apples from Shot 02. During this shot, the seller silently adds one loaf of bread and one small closed cake box. By end of shot, basket is full.
-- **Folded red-and-white checkered picnic cloth:** Tied to basket handle throughout. At end of shot, placed neatly on top of the now-full basket.
+- **Folded red-and-white checkered picnic cloth:** Starts loosely attached to the outside of the basket handle. During the shot, Arda carefully slips it free from the handle and places it neatly on top of the now-full basket. At end of shot, cloth sits folded securely on top of the full basket.
 - **Three red apples:** Already in basket from Shot 02. Visible throughout.
-- **One loaf of bread:** Seller silently places it into the basket after Luca's order (turn 2). No spoken line from seller for this item.
-- **One small closed cake box:** Seller silently places it into the basket after Luca's order (turn 2), alongside the bread. Box stays CLOSED. This is the first time it appears in the episode. It will not be opened until Shot 06.
-- **End of shot:** Cloth neatly on top of full basket. Opa carries it. All three face the forest path.
+- **One loaf of bread:** Seller silently places it into the basket after Luca's order (turn 1). No spoken line from seller for this item.
+- **One small closed cake box:** Seller silently places it into the basket after Luca's order (turn 1), alongside the bread. Box stays CLOSED. The closed cake box has been visible on the stall display since Shot 01. This is the first time it is purchased, moved from the display and placed inside the basket. It will not be opened until Shot 06.
+- **End of shot:** Cloth folded securely on top of full basket. Opa carries the basket with handle over one rounded wing. All three face the forest path.
 
 ## 11. Voice Lock
 English only. One speaker at a time. No overlapping dialogue. One line must finish before the next speaker begins. Never swap voices between Opa, Arda, Luca or the Market Seller. No extra words, paraphrasing, narration, singing or off-screen voices. Mouth movement only on the active speaker. Listening characters use natural eye movement, head turns and small reactions without speaking. First spoken line by 1.0s, maximum 1.5s.
@@ -82,13 +82,15 @@ Preserve the Shot 02 visual identity: village market square, wooden stalls, colo
 
 **4.0–5.5s:** The seller steps back with a warm satisfied smile. Opa smiles warmly and nods at the seller: **"Thank you."**
 
-**5.5–8.0s:** Opa reaches with rounded wings and places the folded red-and-white picnic cloth neatly on top of the now-full basket. The cloth sits secured on top, covering the food items partially.
+**5.5–8.0s:** Arda carefully slips the loosely attached folded cloth free from the outside of the basket handle and places it neatly on top of the full basket. The attachment is loose and simple; no difficult knot and no prolonged finger close-up.
 
-**8.0–10.5s:** Arda leans forward and peers into the basket with wide delighted eyes: **"The basket is full!"** Luca smiles. Opa chuckles warmly.
+**8.0–9.5s:** Arda leans forward and peers into the basket with wide delighted eyes: **"The basket is full!"** Luca smiles. Opa chuckles warmly.
 
-**10.5–13.0s:** Opa picks up the full basket with both rounded wings. The cloth stays secured on top. Opa turns toward the forest path exit visible in the background.
+**9.5–11.0s:** Opa lifts the full basket by sliding its handle securely over one rounded wing and supporting the basket body against his soft round side. No gripping fingers, no palms, no wrists and no human hand motion. Opa turns toward the forest path exit visible in the background.
 
-**13.0–15.0s:** Opa says with warm energy: **"To the forest!"** The group begins walking away from the stall toward the forest path entrance. Arda and Luca follow Opa. The market stall is behind them. Final frame: camera slightly behind and beside the group. Market stall visible in the background. Forest path entrance ahead. Opa carries the full basket with folded cloth on top. All three face the forest path.
+**11.0–12.5s:** Opa says with warm energy: **"To the forest!"**
+
+**12.5–15.0s:** The group physically walks toward the nearby forest-path threshold. Arda and Luca follow Opa. The market stall is behind them. The forest entrance has been visible in the background since the Take Shot. Final frame: camera slightly behind and beside the group. Market stall visible in the background. Forest path entrance ahead. Opa carries the full basket with folded cloth on top. All three face the forest path.
 
 No instant market-to-forest teleportation. The group physically walks toward and reaches the forest path entrance. No frozen poses. All characters active. Clear lip-sync. Child-height camera throughout.
 
@@ -98,21 +100,22 @@ No instant market-to-forest teleportation. The group physically walks toward and
 | 0.0–1.5s | Luca points at bread and cake box on counter | Luca | "Bread and one little cake, please." |
 | 1.5–4.0s | Seller silently adds bread and closed cake box to basket | — | — |
 | 4.0–5.5s | Seller steps back; Opa smiles and nods | Opa | "Thank you." |
-| 5.5–8.0s | Opa places cloth neatly on top of full basket | — | — |
-| 8.0–10.5s | Arda peers into basket with delight | Arda | "The basket is full!" |
-| 10.5–13.0s | Opa picks up full basket, turns toward forest path | — | — |
-| 13.0–15.0s | Group walks toward forest path entrance | Opa | "To the forest!" |
+| 5.5–8.0s | Arda slips cloth from handle, places it on top of full basket | — | — |
+| 8.0–9.5s | Arda peers into basket with delight | Arda | "The basket is full!" |
+| 9.5–11.0s | Opa lifts basket safely, turns toward forest path | — | — |
+| 11.0–12.5s | Opa turns toward forest path | Opa | "To the forest!" |
+| 12.5–15.0s | Group physically walks to forest-path threshold | — | — |
 
 ## 18. Camera Lock
-Child-height camera (~0.80m). Preserve screen direction from `@image1`. No sudden camera-angle switch. No instant reverse angle. No character teleportation. No environment morphing. No abrupt crop or zoom. One continuous coherent camera move or at most two visually connected camera beats. Keep the speaking character's face readable without freezing the listening characters. Keep important props (basket, cloth, apples, bread, cake box) inside the vertical safe area. Final frame must be stable — forest path entrance physically ahead of the group, supporting Shot 04 as a linked continuity entry.
+Child-height camera (~0.80m). Preserve screen direction from `@image1`. No sudden camera-angle switch. No instant reverse angle. No character teleportation. No environment morphing. No abrupt crop or zoom. One continuous coherent camera move or at most two visually connected camera beats. Keep the speaking character's face readable without freezing the listening characters. Keep important props (basket, cloth, apples, bread, cake box) inside the vertical safe area. Final frame must be stable — forest path entrance physically ahead of the group, supporting EWO-EP04-S01 as a linked continuity entry.
 
 ## 19. Acting / Listening
 - **Luca (speaking turn 1):** Steps forward, points at bread and cake box on counter. Polite, clear request.
 - **Seller (silent action):** Nods, picks up bread and cake box, places both in basket. Warm, careful movements.
 - **Opa (speaking turn 2):** Smiles warmly, nods at seller. Grateful expression.
-- **Opa (action):** Places cloth on top of full basket with rounded wings.
+- **Arda (action 5.5–8.0s):** Carefully slips the loosely attached folded cloth free from the outside of the basket handle and places it neatly on top of the full basket. Simple, quick movement — no difficult knot, no prolonged finger close-up.
 - **Arda (speaking turn 3):** Leans forward, peers into basket, wide delighted eyes. Excited expression.
-- **Opa (speaking turn 4):** Picks up basket, turns toward forest path. Warm, energized tone.
+- **Opa (speaking turn 4):** Lifts the full basket by sliding its handle securely over one rounded wing and supporting the basket body against his soft round side. No gripping fingers, no palms, no wrists and no human hand motion. Turns toward forest path. Warm, energized tone.
 - **Luca and Arda (listening/following):** Smile, follow Opa toward the forest path.
 - **All idle periods:** Natural micro-movements — weight shifts, eye blinks, small head turns. No frozen poses at any point.
 
@@ -143,8 +146,8 @@ No extra food beyond three apples, one loaf of bread and one small closed cake b
 - Luca orders bread and cake — polite request delivered.
 - Seller silently adds bread and closed cake box — no extra spoken line.
 - Only three apples, one loaf of bread and one closed cake box in basket.
-- Folded red-and-white picnic cloth visible and secured to basket handle throughout.
-- Cloth neatly on top of full basket by end of shot.
+- Cloth starts loosely attached to the basket handle and ends folded securely on top of the full basket.
+- Arda removes the cloth from the handle and places it on top — Opa does not handle the cloth.
 - Final frame: group has physically reached the forest path entrance.
 - No instant market-to-forest teleportation.
 - 13 words, 4 turns — matches target.
@@ -152,7 +155,9 @@ No extra food beyond three apples, one loaf of bread and one small closed cake b
 - All characters remain physically active throughout.
 - No HDR / contrast drift.
 - No human anatomy on Opa.
+- Opa lifts basket by sliding handle over one rounded wing — no gripping fingers, no palms, no wrists.
 - Cake box is bought closed — it will first open in Shot 06.
+- EWO-EP04-S01 uses this approved final frame as `@image1`.
 
 ## 25. Final-Frame Handoff
-Final frame: camera slightly behind and beside the group. Market stall visible in the background. Forest path entrance ahead. Opa carries the full basket with folded cloth on top. Arda and Luca walk beside Opa. All three face the forest path. Shot 04 uses this final frame as `@image1` — opening at the forest path threshold.
+Final frame: camera slightly behind and beside the group. Market stall visible in the background. Forest path entrance ahead. Opa carries the full basket with folded cloth on top. Arda and Luca walk beside Opa. All three face the forest path. EWO-EP04-S01 uses this approved final frame as `@image1` — opening at the forest path threshold.

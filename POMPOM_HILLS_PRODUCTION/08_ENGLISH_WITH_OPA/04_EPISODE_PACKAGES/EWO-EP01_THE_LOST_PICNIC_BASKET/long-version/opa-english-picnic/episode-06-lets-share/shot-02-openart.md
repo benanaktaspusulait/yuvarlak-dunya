@@ -19,7 +19,9 @@ Unpack the basket contents (apples, bread), open the cake box for the first time
 **15 seconds** (exact)
 
 ## 7. Aspect Ratio
-**9:16 vertical** (1080×1920)
+**9:16 vertical** (1080×1920).
+
+Auto Voice OFF. Canonical character voices selected manually. Do not generate new voices. Prompt Enhancer OFF. Cinematic / Auto Camera OFF. No OpenArt-generated music. English dialogue only. Speak every line exactly as written. No translation, paraphrasing or added words.
 
 ## 8. Character Locks
 
@@ -101,7 +103,7 @@ Unpack the basket contents (apples, bread), open the cake box for the first time
 
 ## 15. Take Shot (Image Prompt)
 ```
-A lakeside picnic scene. A red-white checkered cloth is spread on green grass. A woven brown picnic basket with an open lid sits on the cloth. Three red apples and a round golden-brown bread loaf are placed on the left side of the cloth. A small white cake box is being opened by a young boy (2-3y, dark brown hair, light blue shirt, light blue pants) kneeling on the right — inside is a single piece of soft cake. The boy looks surprised. Another boy (3-4y, dark brown hair with freckles, cream shirt, olive shorts, orange shoes) kneels on the left, looking at the cake and smiling kindly. A large round light-green owl with golden glasses and brown scarf stands behind them, watching. A calm lake with golden reflections is visible in the background. A large tree provides shade. Golden afternoon light. Soft watercolor storybook style. Vertical 9:16.
+A lakeside picnic scene. A red-white checkered cloth is spread on green grass. A woven brown picnic basket with an open lid sits on the cloth. Three red apples and a round golden-brown bread loaf are placed on the left side of the cloth. A small white cake box is being opened by a young boy (2-3y, dark brown hair, light blue shirt, light blue pants) kneeling on the right — inside is a single piece of soft cake. The boy looks surprised. Another boy (3-4y, dark brown hair with freckles, cream shirt, olive shorts, orange shoes) kneels on the left, looking at the cake and smiling kindly. A large round light-green owl with golden glasses and brown scarf stands behind them, watching. A calm lake with golden reflections is visible in the background. A large tree provides shade. Golden afternoon light. Premium soft 3D preschool animation, rounded plush forms, matte handcrafted toy-set materials. Vertical 9:16.
 ```
 
 ## 16. OpenArt Video Prompt
@@ -151,7 +153,7 @@ Frame-to-Video. Vertical 9:16, 15 seconds. Lakeside picnic spot, golden afternoo
 
 ## 21. Visual Style
 - **Palette**: Soft greens (#A5D6A7, #81C784), warm golden light (#FFD54F), lake blue-green (#8CC9F0), red-white checkered cloth, golden-brown bread, red apples, white cake box
-- **Style**: Gentle watercolor storybook; soft edges, no harsh lines
+- **Style**: Premium soft 3D preschool animation, rounded plush forms, matte handcrafted toy-set materials
 - **Lighting**: Golden afternoon, warm low-angle light from camera-left, soft shadows
 - **Mood**: Surprising (one piece!), then warm and generous (sharing offer)
 - **No HDR, no high contrast, no saturation boost, no glossy textures, no text overlays, no captions**

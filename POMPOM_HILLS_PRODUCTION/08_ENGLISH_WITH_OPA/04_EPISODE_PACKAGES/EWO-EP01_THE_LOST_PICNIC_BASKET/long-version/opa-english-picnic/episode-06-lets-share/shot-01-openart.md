@@ -19,7 +19,9 @@ Establish the lakeside location, deliver Arda's arrival exclamation ("We made it
 **15 seconds** (exact)
 
 ## 7. Aspect Ratio
-**9:16 vertical** (1080×1920)
+**9:16 vertical** (1080×1920).
+
+Auto Voice OFF. Canonical character voices selected manually. Do not generate new voices. Prompt Enhancer OFF. Cinematic / Auto Camera OFF. No OpenArt-generated music. English dialogue only. Speak every line exactly as written. No translation, paraphrasing or added words.
 
 ## 8. Character Locks
 
@@ -99,7 +101,7 @@ Establish the lakeside location, deliver Arda's arrival exclamation ("We made it
 
 ## 15. Take Shot (Image Prompt)
 ```
-A sunny lakeside picnic spot on a golden afternoon. A grassy clearing beside a calm blue-green lake with golden reflections. One large tree with a thick trunk and full canopy provides shade on the right. Gentle green hills on the far shore. Small wildflowers (yellow, white, purple) dot the grass. A large round light-green owl with golden glasses, brown scarf, and orange beak stands at the lake edge, looking relaxed. Two small boys enter from the left, each holding one end of a red-white checkered picnic cloth, about to spread it on the grass. The younger boy (2-3y, dark brown hair, light blue shirt, light blue pants, brown shoes) looks excited and proud. The older boy (3-4y, dark brown hair with freckles, cream shirt, olive shorts, orange shoes) smiles and helps. A woven brown picnic basket with a closed lid sits nearby. Golden afternoon light from the left. Soft watercolor storybook style. Vertical 9:16 composition.
+A sunny lakeside picnic spot on a golden afternoon. A grassy clearing beside a calm blue-green lake with golden reflections. One large tree with a thick trunk and full canopy provides shade on the right. Gentle green hills on the far shore. Small wildflowers (yellow, white, purple) dot the grass. A large round light-green owl with golden glasses, brown scarf, and orange beak stands at the lake edge, looking relaxed. Two small boys enter from the left, each holding one end of a red-white checkered picnic cloth, about to spread it on the grass. The younger boy (2-3y, dark brown hair, light blue shirt, light blue pants, brown shoes) looks excited and proud. The older boy (3-4y, dark brown hair with freckles, cream shirt, olive shorts, orange shoes) smiles and helps. A woven brown picnic basket with a closed lid sits nearby. Golden afternoon light from the left. Premium soft 3D preschool animation, rounded plush forms, matte handcrafted toy-set materials. Vertical 9:16 composition.
 ```
 
 ## 16. OpenArt Video Prompt
@@ -150,7 +152,7 @@ Frame-to-Video. Vertical 9:16, 15 seconds. Sunny lakeside picnic spot, golden af
 
 ## 21. Visual Style
 - **Palette**: Soft greens (#A5D6A7, #81C784), warm golden light (#FFD54F), lake blue-green (#8CC9F0), grass green (#68AE68), cloth red-white checkered
-- **Style**: Gentle watercolor storybook; soft edges, no harsh lines
+- **Style**: Premium soft 3D preschool animation, rounded plush forms, matte handcrafted toy-set materials
 - **Lighting**: Golden afternoon, warm low-angle light from camera-left, soft shadows
 - **Mood**: Warm, peaceful, triumphant arrival, inviting
 - **No HDR, no high contrast, no saturation boost, no glossy textures, no text overlays, no captions**
