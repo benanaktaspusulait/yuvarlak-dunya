@@ -45,9 +45,9 @@ Continue from `@image1`. Same platform. Preserve characters and matte palette 1:
 **4.0–7.0s** Opa holds the marble on a flat wing — **"It's a marble. What colour is it?"**
 **7.0–8.5s** Luca points — **"It's blue!"**
 **8.5–10.0s** Arda gestures its round shape — **"Round and blue!"**
-**10.0–12.0s** Luca watches as the marble catches a beam of light — **"It catches the light!"**
-**12.0–13.5s** Opa nods softly — **"Yes. Round, blue and smooth."**
-**13.5–15.0s** Arda gazes at it — **"I love it."** Final frame: marble resting between all three, light glinting on its surface, wonder on everyone's faces.
+**10.0–12.0s** Luca watches as the marble catches a beam of light — **"It catches the light!"** Arda leans too close and accidentally nudges it — the marble rolls across Opa's wing toward the edge.
+**12.0–13.5s** Arda scrambles — **"Oh no! It's rolling!"** Luca cups both hands and catches it just in time.
+**13.5–15.0s** Luca holds it up relieved — **"I have it!"** Opa smiles — **"Careful with round things."** Final frame: Luca holding the marble safely, all three looking at it with relief and laughter.
 
 ## Exact 0.0–15.0 Second Timeline
 | Time | Action | Speaker | Line |
@@ -57,9 +57,9 @@ Continue from `@image1`. Same platform. Preserve characters and matte palette 1:
 | 4.0–7.0s | Opa holds marble on flat wing | Opa | "It's a marble. What colour is it?" |
 | 7.0–8.5s | Luca identifies colour | Luca | "It's blue!" |
 | 8.5–10.0s | Arda describes shape | Arda | "Round and blue!" |
-| 10.0–12.0s | Light catches marble | Luca | "It catches the light!" |
-| 12.0–13.5s | Opa describes further | Opa | "Yes. Round, blue and smooth." |
-| 13.5–15.0s | Arda's reaction | Arda | "I love it." |
+| 10.0–12.0s | Light catches marble; Arda nudges it accidentally | Luca | "It catches the light!" |
+| 12.0–13.5s | Marble rolls; Arda panics | Arda | "Oh no! It's rolling!" |
+| 13.5–15.0s | Luca catches it; Opa reacts | Luca | "I have it!" |
 
 ## Camera and Framing Lock
 Child-height camera. Marble visible with light effects. Not too close — keep all three characters readable. Final frame stable for Shot 05 link.
@@ -75,7 +75,7 @@ Soft matte 3D. Marble light effects gentle, not overwhelming. Medium-low contras
 - Vocabulary: colour, blue, round, smooth, marble
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No exaggerated light effects. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No exaggerated light effects. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Opens from Shot 03 final frame.

@@ -82,7 +82,7 @@ Soft matte 3D. Warm morning light. Medium-low contrast. No HDR.
 - Vocabulary: map, left, right, destination, spot
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Take Shot: platform, map being unrolled.

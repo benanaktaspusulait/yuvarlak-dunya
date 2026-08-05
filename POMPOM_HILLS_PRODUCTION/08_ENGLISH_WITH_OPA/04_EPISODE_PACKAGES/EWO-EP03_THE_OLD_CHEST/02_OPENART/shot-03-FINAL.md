@@ -79,7 +79,7 @@ Soft matte 3D. Warm morning light. Medium-low contrast. No HDR.
 - Vocabulary: small, big, smaller, hand, beautiful
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Fresh Take Shot: platform, open chest, key and stone visible.

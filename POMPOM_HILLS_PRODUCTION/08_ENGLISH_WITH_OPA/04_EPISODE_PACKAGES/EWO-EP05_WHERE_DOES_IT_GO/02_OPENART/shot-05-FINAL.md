@@ -1,87 +1,87 @@
-# Shot 05 — Is That Right?
+# Shot 05 — Can We Play Together?
 
 ## Production Mode
 FRESH QUALITY-RESET SHOT — Chain 3 Anchor.
 Create and approve a clean Take Shot first. Video input: approved Take Shot as `@image1`.
 Duration: exactly 15 seconds. Aspect ratio: 9:16 vertical. Frame-to-Video.
-Auto Voice OFF. Canonical voices selected manually. Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt music.
+Auto Voice OFF. Canonical voices selected manually. No new voices generated.
+Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt-generated music.
 
 ## Story Context
-Last displaced object: Opa's own book. The children think they know where it goes — but they check with Opa to confirm. Asking "is that right?" and receiving confirmation is the learning beat.
+Both children want to play at the same time. Opa suggests one plays the drum while the other taps something else — a wooden step, a small stone. Can they play together? The answer is yes. "Can we play together?" leads to actual shared music.
 
 ## Canonical Character Locks
 **Opa:** Large round light-green owl. No human hands — rounded wings only. Golden glasses #FFD54F, brown scarf #A1887F.
-**Arda:** Hair #281F1A, shirt #8CC9F0, trousers #CCE4F7, shoes #C79A64.
-**Luca:** Hair #3A2A1E, freckles #E7A97A, shirt #F7F4EE with sleeves #68AE68, shorts #7C8F5A, trainers #FF8A3D.
+**Arda:** Hair #281F1A, shirt #8CC9F0, trousers #CCE4F7, shoes #C79A64. Tapping a step or stone.
+**Luca:** Hair #3A2A1E, freckles #E7A97A, shirt #F7F4EE with sleeves #68AE68, shorts #7C8F5A, trainers #FF8A3D. Playing drum.
 
 ## Location Lock
-Platform — now mostly tidy. Teapot on table, stump seat next to it, book in front of shelf. One last book to place — Opa's reading book.
+Open grassy area beside Opa's tree home — more space than the platform or steps. Natural outdoor setting.
 
 ## Prop and Object Continuity Lock
-- Map: Luca holds it.
-- Opa's reading book: last item. Placed on the green reading chair — its correct home.
-- Platform mostly tidy by end of shot.
+- Drum: with Luca.
+- Arda taps a wooden step or smooth stone — no new prop invented, uses what's already in the environment.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Exact Dialogue
-1. Luca: "One more — your book, Opa."
-2. Arda: "I know where it goes!"
-3. Luca: "The chair?"
-4. Arda: "Yes — is that right, Opa?"
-5. Opa: "Yes, that's right. Well done."
-6. Arda: "I put it on the chair!"
-7. Luca: "Is that right?"
-8. Opa: "That is exactly right."
+1. Arda: "Can we play together?"
+2. Opa: "Yes! Together."
+3. Luca: "I have the drum."
+4. Arda: "I can tap this!"
+5. Luca: "Ready?"
+6. Arda: "Ready!"
+7. Opa: "One, two, three — go!"
+8. Luca: "Together!"
 
-**Word count:** 28 words. **Turn count:** 8 turns.
+**Word count:** 24 words. **Turn count:** 8 turns.
 
 ## Take Shot Image Prompt
-Create a clean vertical 9:16 anchor image. Opa's platform — now nearly tidy. Teapot on table, stump seat next to it, book in front of shelf. Opa's reading book is in Arda's hands. Green reading chair visible and empty. Opa (large round light-green owl, golden glasses, brown scarf) watches. Luca (taller boy, cream shirt with green sleeves) holds the map. Arda (smaller boy, sky-blue shirt) holds the book. Camera child-height, medium-wide. Matte pastel morning light.
+Create a clean vertical 9:16 anchor image. Open grassy area beside Opa's tree home. Luca (taller boy, cream shirt with green sleeves) holds the drum ready to play. Arda (smaller boy, sky-blue shirt) crouches beside a wooden step or smooth stone, hands ready to tap. Opa (large round light-green owl, golden glasses, brown scarf) stands between them with wings slightly raised in a conducting gesture. Camera child-height, medium-wide. Warm matte pastel outdoor light.
 
 ## OpenArt Video Prompt
 AUDIO PRIORITY: English only. Canonical voices only.
-Continue from `@image1`. Nearly tidy platform. Preserve characters and matte palette 1:1. No HDR.
+Continue from `@image1`. Open grassy area. Preserve characters and matte palette 1:1. No HDR.
 
-**0.0–1.5s** Luca holds up the last item — Opa's reading book — **"One more — your book, Opa."**
-**1.5–3.0s** Arda takes it confidently — **"I know where it goes!"**
-**3.0–4.5s** Luca looks at the chair — **"The chair?"**
-**4.5–7.0s** Arda carries the book toward the green reading chair — **"Yes — is that right, Opa?"**
-**7.0–9.0s** Opa nods with genuine warmth — **"Yes, that's right. Well done."**
-**9.0–11.0s** Arda places the book on the chair with satisfaction — **"I put it on the chair!"**
-**11.0–12.5s** Luca looks at Opa with a checking expression — **"Is that right?"**
-**12.5–15.0s** Opa surveys the now-tidy platform and smiles — **"That is exactly right."** Final frame: book on chair, platform fully tidy, all three satisfied.
+**0.0–1.5s** Arda looks at Luca with an idea — **"Can we play together?"**
+**1.5–3.0s** Opa spreads wings slightly — **"Yes! Together."**
+**3.0–4.5s** Luca holds the drum — **"I have the drum."**
+**4.5–6.5s** Arda crouches and finds a wooden step or smooth stone to tap — **"I can tap this!"**
+**6.5–8.0s** Luca raises his drumstick (or hand) — **"Ready?"**
+**8.0–9.5s** Arda raises his hand — **"Ready!"**
+**9.5–11.5s** Opa raises both wings like a conductor — **"One, two, three — go!"** Both children begin their rhythm together.
+**11.5–15.0s** Luca plays the drum; Arda taps in rhythm; they look at each other with delight — **"Together!"** Final frame: both children playing their rhythms side by side, Opa watching with joy, open outdoor space behind them.
 
 ## Exact 0.0–15.0 Second Timeline
 | Time | Action | Speaker | Line |
 |------|--------|---------|------|
-| 0.0–1.5s | Luca holds up Opa's book | Luca | "One more — your book, Opa." |
-| 1.5–3.0s | Arda takes it confidently | Arda | "I know where it goes!" |
-| 3.0–4.5s | Luca guesses the chair | Luca | "The chair?" |
-| 4.5–7.0s | Arda carries book toward chair | Arda | "Yes — is that right, Opa?" |
-| 7.0–9.0s | Opa confirms | Opa | "Yes, that's right. Well done." |
-| 9.0–11.0s | Arda places book on chair | Arda | "I put it on the chair!" |
-| 11.0–12.5s | Luca checks with Opa | Luca | "Is that right?" |
-| 12.5–15.0s | Opa surveys tidy platform | Opa | "That is exactly right." |
+| 0.0–1.5s | Arda looks at Luca with idea | Arda | "Can we play together?" |
+| 1.5–3.0s | Opa spreads wings | Opa | "Yes! Together." |
+| 3.0–4.5s | Luca holds drum ready | Luca | "I have the drum." |
+| 4.5–6.5s | Arda finds something to tap | Arda | "I can tap this!" |
+| 6.5–8.0s | Luca raises hand | Luca | "Ready?" |
+| 8.0–9.5s | Arda raises hand | Arda | "Ready!" |
+| 9.5–11.5s | Opa raises wings to count in | Opa | "One, two, three — go!" |
+| 11.5–15.0s | Both play together, look at each other | Luca | "Together!" |
 
 ## Camera and Framing Lock
-Child-height camera. Book placement on chair clearly visible. Platform tidiness visible. Final frame stable for Shot 06 link.
+Child-height camera. Both children visible in their playing positions. Opa's conducting gesture readable. Final frame stable for Shot 06 link.
 
 ## Sound / SFX Lock
-No OpenArt music. Ambient: birds, breeze, book placed on chair. Never overpower dialogue.
+No OpenArt-generated music. Ambient: outdoor breeze, birds, drum and tapping sounds at 11.5–15.0s — brief, natural, joyful. Never overpower dialogue.
 
 ## Visual Continuity / Style Lock
-Soft matte 3D. Warm morning light. Medium-low contrast. No HDR.
+Soft matte 3D. Warm outdoor light. Medium-low contrast. No HDR. No colour drift.
 
 ## Post-Production Learning Metadata — DO NOT GENERATE IN OPENART
-- Target phrase: "Is that right?" / "Yes, that's right!"
-- Vocabulary: right, exactly, chair, well done
+- Target phrase: "Can we play together?" / "Yes, together!"
+- Vocabulary: together, ready, drum, tap, go
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf on Opa. No HDR. No contrast increase. No oversharpening. No colour drift. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text. No non-English speech.
 
 ## Approval Gate
-- Fresh Take Shot: nearly tidy platform, reading book as last item.
-- Book placed on chair — confirmed correct.
-- 28 words, 8 turns. No human anatomy on Opa.
+- Fresh Take Shot: open grassy area, both children in playing positions.
+- Both children play different parts simultaneously.
+- 24 words, 8 turns. No human anatomy on Opa.

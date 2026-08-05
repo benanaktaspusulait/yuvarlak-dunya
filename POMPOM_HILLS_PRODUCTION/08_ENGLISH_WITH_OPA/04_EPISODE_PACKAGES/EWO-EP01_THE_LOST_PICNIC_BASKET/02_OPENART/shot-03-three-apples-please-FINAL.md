@@ -42,7 +42,7 @@ Village market square: wooden stalls with colourful awnings, flower arrangements
 
 ## Spoken Language and Voice Lock
 
-English only. One speaker at a time. No overlapping dialogue. One line must finish before the next speaker begins. Never swap voices between Opa, Arda, Luca or the Market Seller. No extra words, paraphrasing, narration, singing or off-screen voices. Mouth movement only on the active speaker. Listening characters use natural eye movement, head turns and small reactions without speaking. First spoken line by 1. No gap over 1.0s without motivated physical action or reaction.0s, maximum 1.5s.
+English only. One speaker at a time. No overlapping dialogue. One line must finish before the next speaker begins. Never swap voices between Opa, Arda, Luca or the Market Seller. No extra words, paraphrasing, narration, singing or off-screen voices. Mouth movement only on the active speaker. Listening characters use natural eye movement, head turns and small reactions without speaking. First spoken line by 1.0s, maximum 1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 

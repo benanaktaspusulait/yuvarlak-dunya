@@ -74,7 +74,7 @@ Soft matte preschool 3D. Warm indoor light. Medium-low contrast. No HDR. No colo
 - Vocabulary: big, small, bigger, together
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No different umbrella colour. No HDR. No contrast increase. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No different umbrella colour. No HDR. No contrast increase. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Opens from Shot 01 threshold final frame.

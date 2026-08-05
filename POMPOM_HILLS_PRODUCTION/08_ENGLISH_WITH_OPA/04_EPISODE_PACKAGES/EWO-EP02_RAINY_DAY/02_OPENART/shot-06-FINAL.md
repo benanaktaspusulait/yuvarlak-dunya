@@ -75,7 +75,7 @@ Brightening sky — warm shift from grey to gold. Soft pastel matte 3D. Medium-l
 - Vocabulary: stopped, sun, rainbow, again, tomorrow
 
 ## Negative / Hard Locks
-No human hands on Opa. No opened umbrella. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf on Opa. No opened umbrella. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Opens from Shot 05 cozy interior final frame.

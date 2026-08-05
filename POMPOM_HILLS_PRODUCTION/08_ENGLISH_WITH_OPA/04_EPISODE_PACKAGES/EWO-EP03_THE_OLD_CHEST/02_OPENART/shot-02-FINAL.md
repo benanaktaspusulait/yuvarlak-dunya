@@ -75,7 +75,7 @@ Soft matte 3D. Morning light. Medium-low contrast. No HDR.
 - Vocabulary: heavy, light, stone, lift, too heavy
 
 ## Negative / Hard Locks
-No human hands on Opa — wing only for lifting. No missing glasses or scarf. No HDR. No generated text. No non-English speech.
+No human hands on Opa — wing only for lifting. No missing glasses or scarf. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Opens from Shot 01 chest-open final frame.

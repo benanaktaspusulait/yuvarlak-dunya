@@ -77,7 +77,7 @@ Soft matte 3D. Warm morning light. Fresh herb greens. Medium-low contrast. No HD
 - Vocabulary: fresh, smells, bright, ready, more
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Fresh Take Shot: herb section, basket partially full.

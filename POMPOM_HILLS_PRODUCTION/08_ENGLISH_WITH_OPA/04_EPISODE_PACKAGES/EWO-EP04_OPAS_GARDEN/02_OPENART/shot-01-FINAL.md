@@ -79,7 +79,7 @@ Soft matte 3D. Warm morning garden light. Saturated greens and reds — naturall
 - Vocabulary: vegetables, pick, ready, green, today
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No dark or sad atmosphere. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No dark or sad atmosphere. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Take Shot: morning garden, basket empty, green and red tomatoes visible.

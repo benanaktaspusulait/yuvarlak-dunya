@@ -78,7 +78,7 @@ Soft matte 3D. Warm morning light. Medium-low contrast. No HDR.
 - Vocabulary: for, think, really, tomorrow
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No premature reveal of what the object is. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No premature reveal of what the object is. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Fresh Take Shot: platform, all four previous objects beside chest.

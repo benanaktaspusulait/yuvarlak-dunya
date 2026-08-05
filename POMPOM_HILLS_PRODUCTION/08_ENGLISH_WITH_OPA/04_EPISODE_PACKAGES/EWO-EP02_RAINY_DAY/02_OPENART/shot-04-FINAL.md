@@ -75,7 +75,7 @@ Soft matte 3D. Rain visible but not storm-like. Medium-low contrast. No HDR.
 - Vocabulary: cold, okay, quickly
 
 ## Negative / Hard Locks
-No human hands on Opa. No dark or dangerous rain. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf on Opa. No dark or dangerous rain. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Opens from Shot 03 umbrella final frame.

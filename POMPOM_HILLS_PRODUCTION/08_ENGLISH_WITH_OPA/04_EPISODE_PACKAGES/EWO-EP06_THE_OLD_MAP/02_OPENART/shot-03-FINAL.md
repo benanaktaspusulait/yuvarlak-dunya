@@ -78,7 +78,7 @@ Soft matte 3D. Open sunny meadow. Medium-low contrast. No HDR.
 - Vocabulary: near, far, hill, around, nearly
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Fresh Take Shot: open meadow, curved hill visible.

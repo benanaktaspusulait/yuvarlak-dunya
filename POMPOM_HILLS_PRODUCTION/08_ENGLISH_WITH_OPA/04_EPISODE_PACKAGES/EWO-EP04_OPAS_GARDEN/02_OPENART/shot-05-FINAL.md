@@ -78,7 +78,7 @@ Soft matte 3D. Warm sunny light. Medium-low contrast. No HDR.
 - Vocabulary: smells, sweet, try, best, grew
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No knife or sharp object. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No knife or sharp object. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Fresh Take Shot: sunny garden, basket full nearby, tomato on Opa's wing.

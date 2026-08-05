@@ -78,7 +78,7 @@ Warm amber interior light. Soft matte 3D. Medium-low contrast. Rain outside visi
 - Vocabulary: warm, inside, cozy, here
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No dark interior. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No dark interior. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Fresh Take Shot: warm interior, rain window, dripping umbrella.

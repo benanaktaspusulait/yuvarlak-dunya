@@ -75,7 +75,7 @@ Soft matte 3D. Dappled warm light. Medium-low contrast. No HDR.
 - Vocabulary: next to, behind, tree, close, something
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Opens from Shot 03 meadow final frame.

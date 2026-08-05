@@ -79,7 +79,7 @@ Soft matte preschool 3D. Morning light. Medium-low contrast. No HDR.
 - Vocabulary: chest, key, old, inside, open
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf. No dark or scary chest. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf. No dark or scary chest. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Take Shot: platform, chest closed near bookshelves.

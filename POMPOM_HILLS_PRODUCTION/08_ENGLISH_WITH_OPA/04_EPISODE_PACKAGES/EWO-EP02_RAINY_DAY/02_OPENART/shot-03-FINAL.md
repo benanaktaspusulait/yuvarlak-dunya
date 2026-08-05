@@ -77,7 +77,7 @@ Soft matte 3D. Rain visible but gentle. No dark sky. Medium-low contrast. No HDR
 - Vocabulary: turn, share, together, dry
 
 ## Negative / Hard Locks
-No human hands on Opa. No dark threatening rain. No new umbrella. No HDR. No generated text. No non-English speech.
+No human hands on Opa. No missing glasses or scarf on Opa. No dark threatening rain. No new umbrella. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Approval Gate
 - Fresh Take Shot: outdoors, rain, yellow umbrella.
