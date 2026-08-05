@@ -510,7 +510,35 @@ No face morphing.
 No voice swaps.
 No body fusion.
 
-## 15. Visual Style and Drift Lock
+## 15. Character Duplication Lock
+
+There must be exactly one visible instance of each character in the shot:
+
+- exactly one Market Seller
+- exactly one Opa
+- exactly one Arda
+- exactly one Luca
+
+Never generate a second copy, reflection-like duplicate, background duplicate, partial duplicate or alternate version of any character.
+
+No duplicate Opa.
+No duplicate Market Seller.
+No duplicate Arda.
+No duplicate Luca.
+
+No temporary extra character appearing for a single frame.
+No double head.
+No extra face.
+No extra body.
+No extra limbs belonging to a second copy.
+No ghosted duplicate during motion.
+No background clone.
+No split or duplicated silhouette.
+No morphing one character into a second copy of the same character.
+
+Each character must remain one continuous, single, stable individual throughout the entire shot.
+
+## 16. Visual Style and Drift Lock
 
 Match the actual opening image exactly during the first frame.
 
@@ -533,7 +561,7 @@ Any visual correction must be extremely subtle and may only become slightly soft
 
 No sudden style change.
 
-## 16. Hard Negative Voice and Identity Locks
+## 17. Hard Negative Voice and Identity Locks
 
 No Opa saying "How many?"
 
@@ -563,7 +591,7 @@ No shared mouth movement.
 
 No overlapping dialogue.
 
-## 17. Negative Locks
+## 18. Negative Locks
 
 No missing Market Seller.
 
@@ -654,7 +682,7 @@ No camera jump.
 
 No character teleportation.
 
-## 18. Approval Gate
+## 19. Approval Gate
 
 - [ ] Opens exactly from the corrected Market Arrival final frame
 - [ ] 16:9 horizontal
@@ -681,7 +709,7 @@ No character teleportation.
 - [ ] No abrupt contrast, brightness or sharpness change
 - [ ] Stable final frame for the next shot
 
-## 19. Final-Frame Handoff
+## 20. Final-Frame Handoff
 
 Final frame preserves the established composition.
 
