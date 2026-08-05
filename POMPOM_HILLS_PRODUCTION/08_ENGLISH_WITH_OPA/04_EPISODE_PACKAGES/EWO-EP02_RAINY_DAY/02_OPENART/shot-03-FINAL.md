@@ -21,7 +21,7 @@ Outside Opa's tree home in light steady rain. Stepping stones visible. Puddles f
 - Yellow umbrella: Luca holds it at the start. Arda wants a turn. By the end all three hold it together.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Luca: "I'm holding it!"

@@ -21,7 +21,7 @@ Herb section of the garden — fragrant green herbs, a few with small flowers. B
 - Small woven harvest basket: partially full — one tomato inside. Herbs added in this shot.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Luca: "This one is green and fresh!"

@@ -23,7 +23,7 @@ Same platform. Chest open. Key and stone already set beside it.
 - Tiny carved wooden bird: third object. Fits in a child's palm. Warm brown wood.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Opa: "One more."

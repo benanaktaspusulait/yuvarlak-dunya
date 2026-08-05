@@ -22,7 +22,7 @@ A sheltered path just before the willow tree. The drooping willow branches just 
 - Willow tree: just visible ahead, not yet reached.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Arda: "Are we there yet?"

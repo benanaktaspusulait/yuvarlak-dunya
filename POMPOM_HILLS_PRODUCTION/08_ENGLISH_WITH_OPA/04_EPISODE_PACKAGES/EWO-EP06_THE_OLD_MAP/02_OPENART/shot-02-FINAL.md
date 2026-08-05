@@ -21,7 +21,7 @@ Pompom Hills path — rounded stones, gentle hills, wildflowers. A large distinc
 - Map: Luca carries and reads it throughout.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Luca: "Turn left at the big stone."

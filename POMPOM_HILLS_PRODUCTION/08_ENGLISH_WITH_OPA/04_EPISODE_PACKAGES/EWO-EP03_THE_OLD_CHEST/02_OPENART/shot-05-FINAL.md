@@ -22,7 +22,7 @@ Same platform. Key, stone, tiny bird and marble now placed together beside the c
 - Fifth object: a small ornate wind-up music box handle or tiny winding key — mysterious, old, beautiful. Its purpose is not yet revealed — that is Shot 06.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Opa: "One more thing."

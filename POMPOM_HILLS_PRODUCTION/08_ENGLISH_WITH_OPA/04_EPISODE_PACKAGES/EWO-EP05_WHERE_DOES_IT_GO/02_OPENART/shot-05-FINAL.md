@@ -23,7 +23,7 @@ Platform — now mostly tidy. Teapot on table, stump seat next to it, book in fr
 - Platform mostly tidy by end of shot.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Luca: "One more — your book, Opa."

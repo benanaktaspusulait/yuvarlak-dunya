@@ -22,7 +22,7 @@ Open meadow — wildflowers, warm sunlight, open sky. A gentle curved hill visib
 - Curved hill: visible ahead — next landmark.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Arda: "Are we nearly there?"

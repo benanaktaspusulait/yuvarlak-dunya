@@ -23,7 +23,7 @@ Opa's small garden beside the tree home. Rounded vegetable beds with tomatoes (r
 - Green (unripe) tomato: Arda picks it immediately — wrong choice, sets up the learning.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0–1.5s.
+English only. One speaker at a time. No overlap. First line by 1.0–1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Opa: "Today we pick vegetables!"

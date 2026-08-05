@@ -22,7 +22,7 @@ A clear section of the garden, slightly open. Basket set down so children can co
 - Contents to be counted: at least 3 tomatoes, herbs, 2–3 carrots.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.5s.
+English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Opa: "How many tomatoes do we have?"

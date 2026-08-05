@@ -23,7 +23,7 @@ Opa's open-air tree home platform. Map unrolled on the tea table. Pompom Hills l
 - Map carried by Luca throughout the episode.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0–1.5s.
+English only. One speaker at a time. No overlap. First line by 1.0–1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Opa: "Look — an old map."

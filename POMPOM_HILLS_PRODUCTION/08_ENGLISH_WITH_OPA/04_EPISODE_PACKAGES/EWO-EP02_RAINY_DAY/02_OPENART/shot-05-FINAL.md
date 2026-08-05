@@ -22,7 +22,7 @@ Opa's cozy interior — the warm reading area with the green chair, tea table, b
 - Luca's notebook: Luca has it safely.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.5s.
+English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Arda: "It's warm inside!"

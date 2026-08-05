@@ -22,7 +22,7 @@ Same platform. All five objects visible beside the chest. The music box is place
 - Music box: winds up, plays a brief gentle sound (not a generated OpenArt song — ambient SFX only).
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Opa: "It is a music box."

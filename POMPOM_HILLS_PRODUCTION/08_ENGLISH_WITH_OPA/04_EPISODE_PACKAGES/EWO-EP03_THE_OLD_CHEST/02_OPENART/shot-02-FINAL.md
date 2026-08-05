@@ -22,7 +22,7 @@ Same — Opa's platform around the open chest. The key is now set beside the che
 - Heavy stone: second object. Smooth, rounded, grey-brown. Clearly heavy.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.5s.
+English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Luca: "What is the next one?"

@@ -21,7 +21,7 @@ Warm interior of Opa's tree home — cozy wooden hallway or storage alcove, lant
 - Yellow umbrella: discovered here for the first time. Very large — taller than both children. Bright yellow, slightly old-fashioned, charming design.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0–1.5s.
+English only. One speaker at a time. No overlap. First line by 1.0–1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Arda: "Look! An umbrella!"

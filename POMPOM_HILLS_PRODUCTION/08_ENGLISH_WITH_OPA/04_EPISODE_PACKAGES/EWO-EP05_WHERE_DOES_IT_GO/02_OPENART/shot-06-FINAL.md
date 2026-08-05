@@ -22,7 +22,7 @@ Opa's fully tidy platform. All items in correct positions. Warm morning light. P
 - All items in correct positions throughout.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Arda: "Everything is in the right place!"

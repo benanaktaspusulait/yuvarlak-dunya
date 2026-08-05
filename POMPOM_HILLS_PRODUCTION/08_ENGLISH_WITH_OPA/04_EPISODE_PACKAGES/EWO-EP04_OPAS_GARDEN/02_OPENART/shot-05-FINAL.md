@@ -22,7 +22,7 @@ A sunny spot in the garden. Opa holds a ripe tomato — natural break before car
 - One ripe tomato: taken from basket for tasting.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Arda: "It smells so good!"

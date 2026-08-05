@@ -21,7 +21,7 @@ Garden to tree home entrance. Stepping stones visible. Morning light, warm satis
 - Small woven harvest basket: full. Carried by all three together — Arda and Luca each hold a side, Opa steadies from above with one wing.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.5s.
+English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Arda: "We did it!"

@@ -23,7 +23,7 @@ Opa's garden beside the tree home — flowers, stepping stones, garden tools, th
 - Rain: starts as a few drops, becomes light steady rain.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlapping dialogue. First line by 1.0s max 1.5s.
+English only. One speaker at a time. No overlapping dialogue. First line by 1.0s max 1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Luca: "It's raining!"

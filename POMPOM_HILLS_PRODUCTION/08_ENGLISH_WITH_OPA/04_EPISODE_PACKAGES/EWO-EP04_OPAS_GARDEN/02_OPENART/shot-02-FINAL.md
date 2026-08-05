@@ -23,7 +23,7 @@ Same garden. Tomato beds in focus. Red ripe tomatoes clearly visible alongside g
 - First ripe red tomato: placed in basket by end of shot.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.5s.
+English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction.
 
 ## Exact Dialogue
 1. Opa: "Look at the colour."
