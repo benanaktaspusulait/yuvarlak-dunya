@@ -597,7 +597,44 @@ shot-specific clean-anchor instruction local to each shot file.
 
 ---
 
-## 8. What This Does Not Change
+## 8. Prop Introduction Continuity Rule
+
+A story-critical prop cannot appear for the first time in a later shot without being visibly established earlier. Track each prop's introduction, owner/carrier, location, state and final-frame position across the episode.
+
+Before generating any shot, verify:
+
+1. Is this prop required for the planned action?
+2. Was this prop visibly introduced in an earlier shot?
+3. Who carries or owns it at the start of this shot?
+4. Where is it located in the `@image1` frame?
+5. What is its state (open/closed, full/empty, folded/spread)?
+6. Where does it end up in the final frame?
+
+If the prop was not established earlier, either:
+- Add a preceding shot that introduces it, or
+- Modify the action to remove the prop dependency.
+
+Example: In EWO-EP01, the picnic cloth is established in Shot 02 (found beside the basket), secured to the basket in Shots 03–04, blown away and recovered in Shot 05, and spread on the grass in Shot 06. The cake box is bought closed in Shot 03 and first opened in Shot 06.
+
+---
+
+## 9. Linked Location Transition Rule
+
+When the next shot uses the previous final frame as `@image1`, the previous final frame must physically support the next location. Do not request a linked shot to begin in a completely different environment.
+
+Rules:
+
+1. The previous final frame must show characters at or near the visible threshold of the next location.
+2. If the next shot takes place in a new environment, the characters must be seen moving toward or entering that environment in the previous final frame.
+3. Do not use a linked shot to jump from one complete environment to another without a visible transition point.
+4. Either move the characters to the visible threshold in the previous final frame, or use a fresh approved Take Shot for the new location.
+5. No instant environment teleportation between linked shots.
+
+Example: If Shot 03 ends at the forest path entrance, Shot 04 (linked) can begin by walking into the forest. But Shot 04 cannot begin deep inside the forest if Shot 03's final frame shows only the market.
+
+---
+
+## 10. What This Does Not Change
 
 - Character design, world design, dialogue, and story beats are untouched by this
   document — it only governs the technical hand-off between shots.
@@ -619,4 +656,4 @@ shot-specific clean-anchor instruction local to each shot file.
 *This document is the single source of truth for the shot-to-shot continuity workflow
 across episodes and worlds.*
 *Validated on: S01E07 — The Round Stone (Stone Hill).*
-*Version: 2.0 — 15 July 2026 — Clean anchors, completed actions and mandatory quality resets*
+*Version: 2.1 — 5 August 2026 — Added Prop Introduction Continuity Rule (§8) and Linked Location Transition Rule (§9)*
