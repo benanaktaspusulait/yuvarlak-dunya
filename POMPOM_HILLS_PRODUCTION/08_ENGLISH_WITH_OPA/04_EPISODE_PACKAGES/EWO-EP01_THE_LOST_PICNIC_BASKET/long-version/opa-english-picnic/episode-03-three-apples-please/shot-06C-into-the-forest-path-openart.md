@@ -11,7 +11,7 @@ Use @image1 as the exact opening frame.
 After the exact opening hold, continue forward through the same connected physical environment.
 Reveal only the naturally adjacent path and scenery through continuous character and camera movement.
 Do not reconstruct or replace the opening frame. Do not morph the environment.
-The path becomes greener and calmer as new sections enter the frame through forward movement only.
+The path becomes greener and calmer as new sections enter the frame through forward movement only. Luca holds the same single unfolded map in one hand.
 
 ## Spoken Language and Voice Lock
 English dialogue only. Speak every line exactly as written.

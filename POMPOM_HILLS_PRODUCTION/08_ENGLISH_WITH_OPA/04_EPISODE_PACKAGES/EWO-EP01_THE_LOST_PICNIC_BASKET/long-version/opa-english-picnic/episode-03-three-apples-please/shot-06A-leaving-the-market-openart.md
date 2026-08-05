@@ -41,7 +41,7 @@ Turn count: 4 turns.
 
 2.0-3.5: Opa nods warmly toward the Seller and says: "Thank you, friend!" Only Opa's beak moves. The Seller watches with a warm smile.
 
-3.5-4.5: Opa carefully picks up the basket from the stall counter using both rounded wings and secures it against his side. No human hands. Only Opa moves during this beat.
+3.5-4.5: Opa carefully picks up the basket from the stall counter using both rounded wings and secures it against his side. No human hands. Luca already holds the same single unfolded map in one hand. Only Opa moves during this beat.
 
 4.5-6.0: Arda turns slightly toward the path direction and says: "To the forest!" Only Arda's mouth moves. Opa now carries the basket. Luca remains in place.
 
@@ -87,4 +87,4 @@ No scene reconstruction. No teleportation. No environment morphing. No new chara
 - [ ] Market still partially visible in final frame
 
 ## Final-Frame Handoff
-The group is at the edge of the market area oriented toward the departure path. Opa carries the basket secured against his side. The Seller watches from behind the stall in the background. The market is still partially visible. Stable frame for Shot 06B.
+The group is at the edge of the market area oriented toward the departure path. Opa carries the basket secured against his side. Luca holds the same single unfolded map in one hand. The Seller watches from behind the stall in the background. The market is still partially visible. Stable frame for Shot 06B.

@@ -11,7 +11,7 @@ Use @image1 as the exact opening frame.
 After the exact opening hold, continue forward through the same connected physical environment.
 Reveal only the naturally adjacent path and scenery through continuous character and camera movement.
 Do not reconstruct or replace the opening frame. Do not morph the environment.
-The Market Seller and market stall may still be partially visible at the opening since the group has just left. They naturally exit the frame as the group walks forward.
+The Market Seller and market stall may still be partially visible at the opening since the group has just left. They naturally exit the frame as the group walks forward. Luca holds the same single unfolded map in one hand.
 
 ## Spoken Language and Voice Lock
 English dialogue only. Speak every line exactly as written.
