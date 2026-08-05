@@ -1,84 +1,80 @@
-# Shot 06 — It Stopped!
+# Shot 06 — Are You Okay?
 
 ## Production Mode
-LINKED CONTINUITY SHOT — from Shot 05 — Final Shot of Episode.
-`@image1` = mandatory approved final frame of Shot 05 (all three cozy inside, rain at window).
+LINKED CONTINUITY SHOT — from Shot 05.
+`@image1` = mandatory approved final frame of Shot 05 (all three close under umbrella, rainy garden).
 Duration: exactly 15 seconds. Aspect ratio: 9:16 vertical. Frame-to-Video.
-Auto Voice OFF. Canonical voices selected manually. Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt music.
+Auto Voice OFF. Canonical voices selected manually. No new voices generated.
+Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt-generated music.
 
 ## Story Context
-Luca notices the rain has stopped. The sun is coming out. A rainbow appears. The group goes outside again with the closed umbrella — they won't need it now. The energy shifts from cozy to joyful.
+Luca suddenly remembers his small notebook on a garden bench. He makes a quick dash — gets wet — retrieves it and comes back. Arda's concerned call and Luca's reply create caring language naturally from real worry.
 
 ## Canonical Character Locks
-**Opa:** Large round light-green owl. No human hands. Golden glasses, brown scarf.
-**Arda:** Sky-blue T-shirt, light-blue trousers, tan shoes.
-**Luca:** Cream T-shirt with green sleeves, khaki shorts, orange trainers.
+**Opa:** Large round light-green owl. No human hands — rounded wings only. Golden glasses, brown scarf.
+**Arda:** Sky-blue shirt, light-blue trousers, tan shoes.
+**Luca:** Cream shirt with green sleeves, khaki shorts, orange trainers. Gets wet during dash.
 
 ## Location Lock
-Transition from cozy interior to the garden outside. Sun returning. Puddles still on stepping stones. A soft rainbow visible in the brightening sky. Yellow umbrella carried closed.
-
-## Prop and Object Continuity Lock
-- Yellow umbrella: carried closed. Not opened — not needed.
-- Rainbow: natural visual reward.
+Same outdoor garden. A small bench visible nearby with Luca's notebook on it.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Exact Dialogue
-1. Luca: "Look! It stopped!"
-2. Arda: "The sun is back!"
-3. Opa: "Let's go out again."
-4. Arda: "Yes! Let's go out again!"
-5. Luca: "A rainbow! Look!"
-6. Opa: "Beautiful."
-7. Arda: "Can we come back tomorrow?"
-8. Opa: "Of course."
+1. Luca: "My notebook! I left it there!"
+2. Opa: "Go quickly, Luca."
+3. Arda: "I'll hold the umbrella!"
+4. Luca: "It's very cold! It's very wet!"
+5. Arda: "Are you okay?"
+6. Luca: "I'm okay! I have it!"
+7. Opa: "Good. Come back now."
+8. Luca: "Coming!"
 
 **Word count:** 30 words. **Turn count:** 8 turns.
 
 ## OpenArt Video Prompt
 AUDIO PRIORITY: English only. Canonical voices only.
-Continue from `@image1`. Transition from interior to sunny garden. Preserve characters 1:1. No HDR.
+Continue from `@image1`. Same rainy garden. Preserve characters and palette 1:1. No HDR.
 
-**0.0–2.0s** Luca rushes to the window — the rain has stopped, sun breaking through — **"Look! It stopped!"**
-**2.0–4.0s** Arda jumps up excitedly — **"The sun is back!"**
-**4.0–6.0s** Opa stands and gestures toward the door with a rounded wing — **"Let's go out again."**
-**6.0–8.0s** Arda repeats with delight, heading to the door — **"Yes! Let's go out again!"**
-**8.0–10.5s** Outside now — puddles glistening, sky brightening. Luca looks up and points — **"A rainbow! Look!"** A soft rainbow is visible in the sky.
-**10.5–12.0s** Opa looks up at the rainbow — **"Beautiful."**
-**12.0–14.0s** Arda looks at Opa with big eyes — **"Can we come back tomorrow?"**
-**14.0–15.0s** Opa smiles — **"Of course."** Final frame: all three outside in the sunshine, puddles around them, closed yellow umbrella beside them, rainbow in the sky.
+**0.0–2.0s** Luca spots his notebook on a nearby bench — **"My notebook! I left it there!"**
+**2.0–3.5s** Opa gestures quickly — **"Go quickly, Luca."**
+**3.5–5.0s** Arda takes the umbrella handle firmly — **"I'll hold the umbrella!"**
+**5.0–8.5s** Luca dashes to the bench without the umbrella, grabs the notebook, and gets soaked. He shivers — **"It's very cold! It's very wet!"**
+**8.5–10.5s** Arda calls out with concern — **"Are you okay?"**
+**10.5–12.5s** Luca holds the notebook up triumphantly, running back — **"I'm okay! I have it!"**
+**12.5–14.0s** Opa warmly — **"Good. Come back now."**
+**14.0–15.0s** Luca ducks under the umbrella, dripping — **"Coming!"** Final frame: Luca back under umbrella, notebook in hand, all three together again.
 
 ## Exact 0.0–15.0 Second Timeline
 | Time | Action | Speaker | Line |
 |------|--------|---------|------|
-| 0.0–2.0s | Luca rushes to window — rain stopped | Luca | "Look! It stopped!" |
-| 2.0–4.0s | Arda jumps up | Arda | "The sun is back!" |
-| 4.0–6.0s | Opa gestures to door | Opa | "Let's go out again." |
-| 6.0–8.0s | Arda heads to door | Arda | "Yes! Let's go out again!" |
-| 8.0–10.5s | Outside; Luca spots rainbow | Luca | "A rainbow! Look!" |
-| 10.5–12.0s | Opa looks up | Opa | "Beautiful." |
-| 12.0–14.0s | Arda asks about tomorrow | Arda | "Can we come back tomorrow?" |
-| 14.0–15.0s | Opa smiles warmly | Opa | "Of course." |
+| 0.0–2.0s | Luca spots notebook | Luca | "My notebook! I left it there!" |
+| 2.0–3.5s | Opa signals | Opa | "Go quickly, Luca." |
+| 3.5–5.0s | Arda takes umbrella | Arda | "I'll hold the umbrella!" |
+| 5.0–8.5s | Luca dashes, gets soaked | Luca | "It's very cold! It's very wet!" |
+| 8.5–10.5s | Arda calls out | Arda | "Are you okay?" |
+| 10.5–12.5s | Luca runs back with notebook | Luca | "I'm okay! I have it!" |
+| 12.5–14.0s | Opa calls back | Opa | "Good. Come back now." |
+| 14.0–15.0s | Luca ducks under umbrella | Luca | "Coming!" |
 
 ## Camera and Framing Lock
-Child-height camera. Interior to exterior transition visible. Rainbow in sky without dominating. Closed umbrella beside group. Final frame warm and complete.
+Child-height camera. Bench visible. Luca's dash readable. Final frame stable for Shot 07.
 
 ## Sound / SFX Lock
-No OpenArt music. Ambient: rain fading, birds returning, dripping puddles, gentle sunlight atmosphere. Never overpower dialogue.
+No OpenArt-generated music. Ambient: rain, running in puddles, umbrella fabric. Never overpower dialogue.
 
 ## Visual Continuity / Style Lock
-Brightening sky — warm shift from grey to gold. Soft pastel matte 3D. Medium-low contrast. No HDR.
+Soft matte 3D. Steady rain. Medium-low contrast. No HDR.
 
 ## Post-Production Learning Metadata — DO NOT GENERATE IN OPENART
-- Target phrase: "Let's go out again!" / "It stopped."
-- Vocabulary: stopped, sun, rainbow, again, tomorrow
+- Target phrase: "Are you okay?" / "I'm okay!"
+- Vocabulary: notebook, cold, wet, okay, quickly
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf on Opa. No opened umbrella. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
+No human hands on Opa. No missing glasses or scarf on Opa. No dark rain. No HDR. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text. No non-English speech.
 
 ## Approval Gate
-- Opens from Shot 05 cozy interior final frame.
-- Rain clearly stopped; sun and rainbow visible.
-- Closed umbrella beside group in final frame.
+- Opens from Shot 05 umbrella-outside final frame.
+- Luca retrieves notebook and returns safely.
 - 30 words, 8 turns. No human anatomy on Opa.

@@ -1,84 +1,81 @@
-# Shot 04 — Are You Okay?
+# Shot 04 — Too Big for One
 
 ## Production Mode
 LINKED CONTINUITY SHOT — from Shot 03.
-`@image1` = mandatory approved final frame of Shot 03 (all three under yellow umbrella in rain).
+`@image1` = mandatory approved final frame of Shot 03 (Arda holding huge umbrella, all three looking at it).
 Duration: exactly 15 seconds. Aspect ratio: 9:16 vertical. Frame-to-Video.
-Auto Voice OFF. Canonical voices selected manually. Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt music.
+Auto Voice OFF. Canonical voices selected manually. No new voices generated.
+Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt-generated music.
 
 ## Story Context
-Luca suddenly remembers he left his small notebook on a garden bench nearby. He makes a quick dash to retrieve it — getting a little wet. Arda and Opa watch. Checking on each other creates natural caring language.
+The umbrella is enormous — genuinely funny. Arda tries to open it alone and wobbles. Luca tries. Both try together and it works. The size vocabulary is real — the comedy sells it.
 
 ## Canonical Character Locks
-**Opa:** Large round light-green owl. No human hands. Golden glasses, brown scarf.
-**Arda:** Sky-blue T-shirt, light-blue trousers, tan shoes.
-**Luca:** Cream T-shirt with green sleeves, khaki shorts, orange trainers. Gets slightly wet during the dash.
+**Opa:** Large round light-green owl. No human hands — rounded wings only. Golden glasses, brown scarf.
+**Arda:** Sky-blue shirt, light-blue trousers, tan shoes.
+**Luca:** Cream shirt with green sleeves, khaki shorts, orange trainers.
 
 ## Location Lock
-Same outdoor area near Opa's tree home. A small garden bench visible nearby with Luca's notebook on it. Steady light rain. Puddles.
-
-## Prop and Object Continuity Lock
-- Yellow umbrella: Arda holds it while Luca dashes. Luca returns under umbrella with notebook.
-- Luca's small notebook: small, worn, personal item. Retrieved safely.
+Interior threshold/doorway of Opa's home. Rain visible outside through the door.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.5s. No gap over 1.0s without motivated physical action or reaction.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Exact Dialogue
-1. Luca: "My notebook! I left it there!"
-2. Opa: "Go quickly!"
-3. Arda: "I'll hold the umbrella!"
-4. Luca: "It's cold! It's very cold!"
-5. Arda: "Are you okay?"
-6. Luca: "I'm okay! I have it!"
-7. Opa: "Well done, Luca. Come back!"
-8. Luca: "I'm coming!"
+1. Arda: "Is it big or small?"
+2. Luca: "It is very big!"
+3. Arda: "I can hold it!"
+4. Luca: "It's too big for one person."
+5. Opa: "Try together."
+6. Arda: "Like this?"
+7. Luca: "Yes — together!"
+8. Opa: "Perfect. Now you are ready."
 
-**Word count:** 32 words. **Turn count:** 8 turns.
+**Word count:** 28 words. **Turn count:** 8 turns.
 
 ## OpenArt Video Prompt
 AUDIO PRIORITY: English only. Canonical voices only.
-Continue from `@image1`. Same rainy outdoor area. Preserve characters and yellow umbrella 1:1. No HDR, no darkening.
+Continue from `@image1`. Interior threshold. Preserve characters and palette 1:1. No HDR.
 
-**0.0–2.0s** Luca spots his notebook on a nearby bench — he points and gasps — **"My notebook! I left it there!"**
-**2.0–3.5s** Opa turns and gestures quickly — **"Go quickly!"**
-**3.5–5.0s** Arda shifts to hold the umbrella alone, determined — **"I'll hold the umbrella!"**
-**5.0–8.5s** Luca dashes out from under the umbrella to the bench — gets wet — grabs the notebook. He shivers slightly — **"It's cold! It's very cold!"**
-**8.5–10.5s** Arda calls out with concern — **"Are you okay?"**
-**10.5–12.5s** Luca holds the notebook up triumphantly, running back — **"I'm okay! I have it!"**
-**12.5–14.0s** Opa warmly — **"Well done, Luca. Come back!"**
-**14.0–15.0s** Luca ducks back under the umbrella — **"I'm coming!"** Final frame: Luca back under umbrella, clutching notebook, all three together again.
+**0.0–2.0s** Arda holds the umbrella up and looks at it — **"Is it big or small?"**
+**2.0–3.5s** Luca stands beside it — it's taller than both of them — **"It is very big!"**
+**3.5–5.5s** Arda tries to hold the handle and open it alone — wobbles — **"I can hold it!"**
+**5.5–7.5s** Luca steps in and tries alone — same result — **"It's too big for one person."**
+**7.5–9.0s** Opa gestures both children toward it — **"Try together."**
+**9.0–11.0s** Arda holds the handle, Luca steadies the side. They try opening it together — it opens successfully with a satisfying pop. Arda — **"Like this?"**
+**11.0–13.0s** Luca grins — **"Yes — together!"**
+**13.0–15.0s** Opa nods with warm approval — **"Perfect. Now you are ready."** Final frame: both children holding the open umbrella at the doorway, rain behind them, ready to go out.
 
 ## Exact 0.0–15.0 Second Timeline
 | Time | Action | Speaker | Line |
 |------|--------|---------|------|
-| 0.0–2.0s | Luca spots notebook on bench | Luca | "My notebook! I left it there!" |
-| 2.0–3.5s | Opa gestures urgently but warmly | Opa | "Go quickly!" |
-| 3.5–5.0s | Arda shifts to hold umbrella alone | Arda | "I'll hold the umbrella!" |
-| 5.0–8.5s | Luca dashes, gets wet, grabs notebook, shivers | Luca | "It's cold! It's very cold!" |
-| 8.5–10.5s | Arda watches with concern | Arda | "Are you okay?" |
-| 10.5–12.5s | Luca holds notebook up, runs back | Luca | "I'm okay! I have it!" |
-| 12.5–14.0s | Opa warmly calls back | Opa | "Well done, Luca. Come back!" |
-| 14.0–15.0s | Luca ducks under umbrella again | Luca | "I'm coming!" |
+| 0.0–2.0s | Arda holds umbrella up | Arda | "Is it big or small?" |
+| 2.0–3.5s | Luca stands beside it | Luca | "It is very big!" |
+| 3.5–5.5s | Arda tries alone — wobbles | Arda | "I can hold it!" |
+| 5.5–7.5s | Luca tries alone — same result | Luca | "It's too big for one person." |
+| 7.5–9.0s | Opa gestures both toward it | Opa | "Try together." |
+| 9.0–11.0s | Both open it successfully | Arda | "Like this?" |
+| 11.0–13.0s | Luca grins | Luca | "Yes — together!" |
+| 13.0–15.0s | Opa approves | Opa | "Perfect. Now you are ready." |
 
 ## Camera and Framing Lock
-Child-height camera. Wide enough to see both the umbrella group and the bench. Luca's dash visible. Final frame stable — all three together.
+Child-height camera. Umbrella size vs children clearly visible. Rain through door in background. Final frame stable for Shot 05.
 
 ## Sound / SFX Lock
-No OpenArt music. Ambient: rain, running footsteps in puddles, notebook picked up. Never overpower dialogue.
+No OpenArt-generated music. Ambient: rain outside, umbrella pop when opened. Never overpower dialogue.
 
 ## Visual Continuity / Style Lock
-Soft matte 3D. Rain visible but not storm-like. Medium-low contrast. No HDR.
+Soft matte 3D. Warm interior light at threshold. Medium-low contrast. No HDR.
 
 ## Post-Production Learning Metadata — DO NOT GENERATE IN OPENART
-- Target phrase: "Are you okay?" / "I'm okay!"
-- Vocabulary: cold, okay, quickly
+- Target phrase: "Is it big or small?" / "It's too big for one."
+- Vocabulary: big, small, too big, together, ready
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf on Opa. No dark or dangerous rain. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
+No human hands on Opa. No missing glasses or scarf on Opa. No HDR. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text. No non-English speech.
 
 ## Approval Gate
-- Opens from Shot 03 umbrella final frame.
-- Luca's notebook clearly retrieved.
-- Final frame: all three under umbrella, Luca with notebook.
-- 32 words, 8 turns. No human anatomy on Opa.
+- Opens from Shot 03 umbrella-found final frame.
+- Size comedy clear: both children try alone and fail, succeed together.
+- Umbrella opens successfully in final frame.
+- 28 words, 8 turns. No human anatomy on Opa.

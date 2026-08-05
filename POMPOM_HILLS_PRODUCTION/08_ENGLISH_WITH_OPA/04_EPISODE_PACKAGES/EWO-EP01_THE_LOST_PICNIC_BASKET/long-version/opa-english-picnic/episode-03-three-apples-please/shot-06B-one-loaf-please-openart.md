@@ -8,7 +8,7 @@ Exactly 15.0 seconds.
 @image1 = approved Shot 06A final frame.
 @image1 is the only visual reference.
 Auto Voice OFF.
-Use manually selected canonical Opa, Arda, Luca, and Market Seller voices.
+Use only the manually selected canonical Opa, Arda, Luca, and Market Seller voices.
 Prompt Enhancer OFF.
 Auto Camera / Cinematic Camera OFF.
 No generated music.
@@ -18,38 +18,46 @@ Speak every line exactly as written.
 One speaker at a time.
 No overlapping dialogue.
 During dialogue, only the active speaker moves their mouth or beak.
+During silent reactions, all mouths and Opa's beak remain closed.
 
 ---
 
 ## Continuity
 
-Shot 06B begins from the approved final frame of Shot 06A.
+@image1 is the approved final frame of Shot 06A and the only visual source.
 
-Shot 06A ended with:
-- all four characters still at the market stall
-- the Seller having counted three selected red apples
-- all apples still inside the Seller's display basket
-- the existing loaf and cupcake still untouched on their tray
-- the folded red-and-white picnic cloth still held by Arda
-- no destination picnic basket introduced
-- nobody leaving the market
+The opening frame already shows:
+- the same four existing characters at the market stall
+- the Seller's apple display basket in the centre
+- the existing loaf and cupcake on the tray
+- the folded red-and-white picnic cloth still held by the same child
+- no destination picnic basket
+- no food transfer
+- nobody leaving
 
-Do not begin departure or forest travel.
+Use @image1 as the literal first frame.
+
+Preserve the exact composition, crop, identities, faces, hair, clothing, body proportions, screen positions, scale, props, lighting, exposure, and colours.
+
+Do not recreate, redraw, redesign, extend, or recompose the scene.
 
 ---
 
 ## Story Purpose
 
-Shot 06B continues the shopping conversation and introduces the bread order only.
+Shot 06B confirms the three selected red apples and completes the bread-order conversation only.
 
-No food is transferred in this shot.
+No food is transferred.
 
-The apples remain inside the Seller's display basket.
-The loaf and cupcake remain on the existing tray.
-The folded cloth remains with Arda.
-No new basket appears.
-Nobody walks away.
-No map exists.
+The apples remain in the Seller's display basket.
+
+The loaf and cupcake remain untouched on the existing tray.
+
+The folded cloth remains in the same hand.
+
+No new basket, bag, package, map, character, or prop appears.
+
+Nobody leaves or walks.
 
 ---
 
@@ -59,6 +67,7 @@ No map exists.
 "Can we get some bread?" uses the Luca voice.
 "One loaf, please." uses the Opa voice.
 "Of course!" uses the Market Seller voice.
+"Thank you!" uses the Luca voice.
 No voice swap. No identity swap. No voice blending. No off-screen voice.
 
 ---
@@ -69,39 +78,44 @@ No voice swap. No identity swap. No voice blending. No off-screen voice.
 2. Luca: "Can we get some bread?"
 3. Opa: "One loaf, please."
 4. Seller: "Of course!"
+5. Luca: "Thank you!"
 
-Word count: 13 words.
-Turn count: 4 turns.
+Word count: 15 words.
+Turn count: 5 turns.
 
 ---
 
 ## OpenArt Video Prompt
 
-@image1 is the exact first frame and the only visual source. Animate only the subjects and pixels already present in @image1. Do not recreate, redraw, reinterpret, rebuild, extend, or recompose the scene. Preserve the exact composition, identities, faces, hair, clothing, proportions, positions, scale, props, market environment, lighting, exposure, and colours inherited from @image1. The camera remains completely locked from 0.0 to 15.0 seconds. No zoom, pan, tilt, pull-back, push-in, reframing, crop change, or new angle. No character walks, translates, relocates, changes screen position, or changes body pose unless scheduled below. No new subject. No missing subject. No character duplication. No identity or voice swap. No character walking or relocation.
+@image1 is the exact first frame and the only visual source. Animate only the subjects and pixels already present in @image1. Do not recreate, redraw, reinterpret, build, extend, or recompose the scene. Preserve the exact composition, identities, faces, hair, clothing, proportions, positions, scale, props, market environment, lighting, exposure, and colours inherited from @image1. The camera remains completely locked from 0.0 to 15.0 seconds. No zoom, pan, tilt, pull-back, push-in, reframing, crop change, or new angle. No character walks, translates, relocates, changes screen position, or changes body pose unless scheduled below. No new subject. No missing subject. No character duplication. No identity or voice swap. No character walking or relocation.
 
-0.0-0.3: Hold @image1 completely unchanged.
+0.0-0.3: Hold @image1 completely unchanged. No camera, character, prop, lighting, crop, or environment movement.
 
-0.3-1.8: The Seller keeps the inherited head and body pose and says exactly: "Three red apples." Only the Seller's mouth moves.
+0.3-1.8: The Seller keeps the exact inherited head and body pose and says exactly: "Three red apples." Only the Seller's mouth moves.
 
-1.8-4.0: Luca makes one tiny eye movement toward the existing loaf and says exactly: "Can we get some bread?" Only Luca's mouth and eyes move. His head, body, hands, and screen position remain unchanged.
+1.8-2.6: Arda makes one tiny eye movement from the apple basket toward the bread tray. His mouth, head, body, hands, cloth, and screen position remain completely still.
 
-4.0-6.2: Opa keeps the inherited pose and says exactly: "One loaf, please." Only Opa's beak moves.
+2.6-4.9: Luca makes one small eye movement toward the existing loaf and says exactly: "Can we get some bread?" Only Luca's mouth and eyes move. His head, body, hands, and screen position remain unchanged.
 
-6.2-7.7: The Seller says exactly: "Of course!" Only the Seller's mouth moves.
+4.9-5.7: The Seller makes one tiny eye movement toward the existing loaf. The Seller's mouth and forepaws remain completely still.
 
-7.7-8.7: Luca gives one gentle blink while looking toward the loaf. All mouths and Opa's beak remain closed.
+5.7-7.8: Opa keeps the exact inherited head and body pose and says exactly: "One loaf, please." Only Opa's beak moves.
 
-8.7-9.7: Opa gives one very small approving head nod. No body or prop movement.
+7.8-8.6: The Seller gives one very small approving head nod. All mouths and Opa's beak remain closed.
 
-9.7-10.7: Arda gives one gentle blink. The folded cloth remains completely still in his hand.
+8.6-10.1: The Seller says exactly: "Of course!" Only the Seller's mouth moves. The Seller's head, body, and forepaws remain still.
 
-10.7-11.7: The Seller makes one tiny eye movement toward the existing loaf. The Seller's forepaws remain in the inherited resting position.
+10.1-10.9: Opa makes one tiny approving eye movement toward the Seller. Opa's beak and body remain completely still.
 
-11.7-12.7: All four characters remain still except for restrained breathing.
+10.9-12.2: Luca says exactly: "Thank you!" Only Luca's mouth moves.
 
-12.7-13.7: Only the existing market awning fabric moves very slightly.
+12.2-13.0: Arda gives one gentle blink while keeping the folded cloth completely still. No mouth or body movement.
 
-13.7-15.0: Hold a stable final frame. No mouth, body, prop, or camera movement.
+13.0-13.8: The Seller makes one tiny eye movement from Luca toward the loaf. All mouths remain closed.
+
+13.8-14.6: Only the existing market awning fabric moves very slightly in the breeze. All characters and props remain stable.
+
+14.6-15.0: Hold a stable final frame. Restrained breathing only. No mouth, body, prop, or camera movement.
 
 ---
 
@@ -111,36 +125,26 @@ Turn count: 4 turns.
 |------|--------|---------|------|
 | 0.0-0.3s | Hold @image1 completely unchanged | — | — |
 | 0.3-1.8s | Seller keeps inherited pose | Seller | "Three red apples." |
-| 1.8-4.0s | Luca tiny eye movement toward loaf | Luca | "Can we get some bread?" |
-| 4.0-6.2s | Opa keeps inherited pose | Opa | "One loaf, please." |
-| 6.2-7.7s | Seller speaks | Seller | "Of course!" |
-| 7.7-8.7s | Luca gentle blink toward loaf | — | — |
-| 8.7-9.7s | Opa small approving nod | — | — |
-| 9.7-10.7s | Arda gentle blink | — | — |
-| 10.7-11.7s | Seller tiny eye movement toward loaf | — | — |
-| 11.7-12.7s | All four still except breathing | — | — |
-| 12.7-13.7s | Awning fabric moves slightly | — | — |
-| 13.7-15.0s | Stable final frame | — | — |
+| 1.8-2.6s | Arda tiny eye movement from apples toward bread tray | — | — |
+| 2.6-4.9s | Luca eye movement toward loaf | Luca | "Can we get some bread?" |
+| 4.9-5.7s | Seller tiny eye movement toward loaf | — | — |
+| 5.7-7.8s | Opa keeps inherited pose | Opa | "One loaf, please." |
+| 7.8-8.6s | Seller very small approving nod | — | — |
+| 8.6-10.1s | Seller speaks | Seller | "Of course!" |
+| 10.1-10.9s | Opa tiny approving eye movement | — | — |
+| 10.9-12.2s | Luca speaks | Luca | "Thank you!" |
+| 12.2-13.0s | Arda gentle blink | — | — |
+| 13.0-13.8s | Seller tiny eye movement toward loaf | — | — |
+| 13.8-14.6s | Awning fabric moves slightly | — | — |
+| 14.6-15.0s | Stable final frame | — | — |
 
 ---
 
-## Camera and Continuity Lock
-
-@image1 is the literal first frame.
+## Camera Lock
 
 Keep the camera completely locked from 0.0 to 15.0 seconds.
 
-No zoom, pan, tilt, pull-back, push-in, reframing, crop change, or new angle.
-
-Preserve the exact four characters, identities, faces, hair, clothing, proportions, positions, scale, props, market environment, lighting, exposure, and colours inherited from @image1.
-
-Do not recreate, extend, rebuild, or recompose the scene.
-
-No new subject.
-No missing subject.
-No character duplication.
-No identity or voice swap.
-No character walking or relocation.
+No zoom. No pan. No tilt. No pull-back. No push-in. No reframing. No crop change. No new angle. No camera jump.
 
 ---
 
@@ -148,13 +152,21 @@ No character walking or relocation.
 
 The three selected apples remain inside the same Seller display basket.
 
-The existing loaf and cupcake remain untouched on the same tray.
+The loaf and cupcake remain untouched on the same tray.
 
-The folded picnic cloth remains with Arda.
+The folded picnic cloth remains with the same child.
 
-No apple, bread, cupcake, cloth, basket, or other object changes position or owner.
+No object changes position, size, shape, material, or owner.
 
 No new basket or packaging appears.
+
+---
+
+## Character Lock
+
+Only the same four inherited character instances remain visible.
+
+No new character. No missing character. No duplicate. No reflection character. No partial extra figure. No identity swap. No voice swap. No character relocation. No walking. No extra limbs. No human hands or fingers on Opa. Opa retains his golden glasses and brown scarf.
 
 ---
 
@@ -166,40 +178,15 @@ Soft matte preschool 3D.
 Pastel colours.
 Medium-low contrast.
 Warm gentle market lighting.
-Handcrafted toy-set appearance.
+Handcrafted toy-set materials.
 
-No contrast, saturation, sharpness, HDR, gloss, exposure, lighting, or colour-temperature increase.
+No contrast increase. No saturation increase. No sharpness increase. No HDR. No glossy plastic highlights. No harsh shadows. No exposure drift. No colour-temperature drift.
 
 ---
 
 ## Negative Locks
 
-No scene reconstruction.
-No teleportation.
-No environment morphing.
-No new character.
-No character duplication.
-No identity swap.
-No voice swap.
-No overlapping dialogue.
-No camera movement at any point.
-No zoom.
-No contrast/saturation/sharpness increase.
-No HDR.
-No glossy plastic.
-No text or subtitles.
-No human hands or fingers on Opa.
-No missing glasses or scarf.
-No food transfer.
-No apple movement.
-No bread movement.
-No cupcake movement.
-No cloth movement.
-No new basket.
-No map.
-No departure.
-No walking.
-No character relocation.
+No scene reconstruction. No teleportation. No environment morphing. No new character. No character duplication. No identity swap. No voice swap. No overlapping dialogue. No camera movement at any point. No zoom. No contrast/saturation/sharpness increase. No HDR. No glossy plastic. No text or subtitles. No human hands or fingers on Opa. No missing glasses or scarf. No food transfer. No apple movement. No bread movement. No cupcake movement. No cloth movement. No new basket. No map. No departure. No walking. No character relocation.
 
 ---
 
@@ -212,24 +199,32 @@ No character relocation.
 - [ ] Luca requests bread without moving
 - [ ] Opa orders one loaf without moving
 - [ ] Seller accepts without moving
+- [ ] Luca thanks without moving
 - [ ] No food transferred
 - [ ] No walking or departure
 - [ ] No map
-- [ ] 13 words, 4 turns
+- [ ] 15 words, 5 turns
 - [ ] 15 seconds, 16:9 horizontal
+- [ ] No silent reaction beat exceeds 0.8 seconds
+- [ ] Dialogue and reactions span the full 15 seconds
+- [ ] Final frame feels attentive and alive, not blankly staring
 
 ---
 
 ## Final-Frame Handoff
 
-End with all four characters still at the market stall.
+End with all four characters still naturally engaged at the market stall.
 
-The bread order has been accepted, but no product has moved.
+The bread order has been accepted.
+
+No product has moved.
 
 The apples remain in the display basket.
 
 The loaf and cupcake remain on the tray.
 
-The folded cloth remains with Arda.
+The folded cloth remains unchanged.
 
-The stable final frame is ready for a new approved packing Take Shot in Shot 06C, where the destination picnic basket can be visibly introduced before any food transfer.
+Nobody has left or begun walking.
+
+The final frame must feel attentive and alive, not like four characters blankly staring.

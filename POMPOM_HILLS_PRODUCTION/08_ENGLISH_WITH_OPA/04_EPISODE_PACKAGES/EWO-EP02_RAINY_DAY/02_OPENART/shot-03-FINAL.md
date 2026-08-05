@@ -1,85 +1,86 @@
-# Shot 03 — Let's Share It
+# Shot 03 — I Found It!
 
 ## Production Mode
 FRESH QUALITY-RESET SHOT — Chain 2 Anchor.
 Create and approve a clean Take Shot first. Video input: approved Take Shot as `@image1`.
 Duration: exactly 15 seconds. Aspect ratio: 9:16 vertical. Frame-to-Video.
-Auto Voice OFF. Canonical voices selected manually. Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt music.
+Auto Voice OFF. Canonical voices selected manually. No new voices generated.
+Prompt Enhancer OFF. Cinematic/Auto Camera OFF. No OpenArt-generated music.
 
 ## Story Context
-All three are outside under the large yellow umbrella in the rain. It's just big enough for everyone if they stay close. The children jostle gently for position — Arda wants a turn holding it. Sharing happens naturally from real need.
+Inside Opa's warm storage area. They need something to go back out. Arda searches eagerly. Luca checks methodically. Opa directs calmly. Arda finds the big yellow umbrella tucked behind a shelf — it's enormous.
 
 ## Canonical Character Locks
-**Opa:** Large round light-green owl. No human hands. Golden glasses, brown scarf. Slightly wet at edges — rain dripping off umbrella rim.
-**Arda:** Sky-blue T-shirt, light-blue trousers, tan shoes. Slightly damp.
-**Luca:** Cream T-shirt with green sleeves, khaki shorts, orange trainers. Holding umbrella.
+**Opa:** Large round light-green owl. No human hands — rounded wings only. Golden glasses #FFD54F, brown scarf #A1887F.
+**Arda:** Hair #281F1A, shirt #8CC9F0, trousers #CCE4F7, shoes #C79A64.
+**Luca:** Hair #3A2A1E, freckles #E7A97A, shirt #F7F4EE with sleeves #68AE68, shorts #7C8F5A, trainers #FF8A3D.
 
 ## Location Lock
-Outside Opa's tree home in light steady rain. Stepping stones visible. Puddles forming. The large yellow umbrella covers all three when they stand close together.
+Opa's warm interior storage — cozy wooden shelves, lanterns, warm light. Rain audible outside. No umbrella visible until Arda finds it.
 
 ## Prop and Object Continuity Lock
-- Yellow umbrella: Luca holds it at the start. Arda wants a turn. By the end all three hold it together.
+- Yellow umbrella: found here for the first time. Very large — taller than both children. Bright yellow, old-fashioned.
 
 ## Spoken Language and Voice Lock
-English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction.
+English only. One speaker at a time. No overlap. First line by 1.0s. No gap over 1.0s without motivated physical action or reaction. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
 
 ## Exact Dialogue
-1. Luca: "I'm holding it!"
-2. Arda: "Can I have a turn?"
-3. Luca: "In a moment."
-4. Arda: "Please?"
-5. Opa: "Let's share it. All together."
-6. Arda: "All together?"
-7. Luca: "Yes — like this!"
-8. Opa: "Perfect. Now we are dry!"
+1. Opa: "There must be an umbrella here."
+2. Luca: "Where is it?"
+3. Arda: "Is it in here?"
+4. Luca: "No, not there."
+5. Arda: "Wait — look at this!"
+6. Luca: "That is very big!"
+7. Arda: "I found it!"
+8. Opa: "Yes. My old umbrella."
 
-**Word count:** 30 words. **Turn count:** 8 turns.
+**Word count:** 28 words. **Turn count:** 8 turns.
 
 ## Take Shot Image Prompt
-Create a clean vertical 9:16 anchor image. Outside Opa's tree home in light rain. Puddles on stepping stones. Opa (large round light-green owl, golden glasses, brown scarf), Arda (smaller boy, sky-blue shirt, slightly damp) and Luca (taller boy, cream shirt with green sleeves, holding the large yellow umbrella) standing close together. Rain visible around them. The yellow umbrella is very large and bright. Camera child-height. Soft matte pastel style. Medium-low contrast. No HDR.
+Create a clean vertical 9:16 anchor image. Opa's warm interior storage area. Wooden shelves, lanterns, cozy. Opa (large round light-green owl, golden glasses, brown scarf) and Luca (taller boy, cream shirt with green sleeves) look around. Arda (smaller boy, sky-blue shirt) is about to look behind a large shelf — the yellow umbrella not yet visible. Rain audible but muffled. Camera child-height. Warm interior light, matte pastel style.
 
 ## OpenArt Video Prompt
 AUDIO PRIORITY: English only. Canonical voices only.
-Continue from `@image1`. Outside in light rain. Yellow umbrella overhead. Preserve characters and matte palette 1:1. No HDR, no darkening.
+Continue from `@image1`. Warm interior. Preserve characters and palette 1:1. No HDR.
 
-**0.0–1.5s** Luca holds the umbrella handle proudly — **"I'm holding it!"**
-**1.5–3.5s** Arda looks up at the umbrella, then at Luca — **"Can I have a turn?"**
-**3.5–5.5s** Luca tilts slightly — **"In a moment."**
-**5.5–7.0s** Arda looks at Opa with hopeful eyes — **"Please?"**
-**7.0–10.0s** Opa extends one rounded wing gently, bringing both children closer under the umbrella — **"Let's share it. All together."**
-**10.0–11.5s** Arda: surprised and delighted — **"All together?"**
-**11.5–13.0s** Luca shifts to let Arda hold the handle too — **"Yes — like this!"**
-**13.0–15.0s** All three stand close, Arda and Luca both holding the handle, Opa with a wing around them — **"Perfect. Now we are dry!"** Final frame: all three snug under the big yellow umbrella, rain all around.
+**0.0–1.5s** Opa looks around the storage area purposefully — **"There must be an umbrella here."**
+**1.5–3.0s** Luca looks at the shelves — **"Where is it?"**
+**3.0–5.0s** Arda checks behind a wooden box — **"Is it in here?"**
+**5.0–6.5s** Luca checks a different corner and shakes his head — **"No, not there."**
+**6.5–9.5s** Arda moves to a tall shelf and spots something tucked behind it — he pulls out the huge yellow umbrella with both hands. It's much taller than him — **"Wait — look at this!"**
+**9.5–11.5s** Luca's eyes go wide — **"That is very big!"**
+**11.5–13.0s** Arda holds it up proudly — **"I found it!"**
+**13.0–15.0s** Opa nods warmly — **"Yes. My old umbrella."** Final frame: Arda holding the enormous umbrella, both children looking up at it, Opa smiling.
 
 ## Exact 0.0–15.0 Second Timeline
 | Time | Action | Speaker | Line |
 |------|--------|---------|------|
-| 0.0–1.5s | Luca holds umbrella proudly | Luca | "I'm holding it!" |
-| 1.5–3.5s | Arda looks up hopefully | Arda | "Can I have a turn?" |
-| 3.5–5.5s | Luca tilts slightly | Luca | "In a moment." |
-| 5.5–7.0s | Arda looks at Opa | Arda | "Please?" |
-| 7.0–10.0s | Opa brings children closer with wing | Opa | "Let's share it. All together." |
-| 10.0–11.5s | Arda delighted | Arda | "All together?" |
-| 11.5–13.0s | Luca lets Arda hold handle too | Luca | "Yes — like this!" |
-| 13.0–15.0s | All three snug under umbrella | Opa | "Perfect. Now we are dry!" |
+| 0.0–1.5s | Opa looks around storage | Opa | "There must be an umbrella here." |
+| 1.5–3.0s | Luca scans shelves | Luca | "Where is it?" |
+| 3.0–5.0s | Arda checks behind box | Arda | "Is it in here?" |
+| 5.0–6.5s | Luca checks corner, shakes head | Luca | "No, not there." |
+| 6.5–9.5s | Arda finds umbrella — huge | Arda | "Wait — look at this!" |
+| 9.5–11.5s | Luca's eyes wide | Luca | "That is very big!" |
+| 11.5–13.0s | Arda holds it up | Arda | "I found it!" |
+| 13.0–15.0s | Opa smiles | Opa | "Yes. My old umbrella." |
 
 ## Camera and Framing Lock
-Child-height camera. Rain visible in background. Umbrella inside vertical safe area. Final frame stable for Shot 04.
+Child-height camera. Umbrella size contrast with children clearly readable. Final frame stable for Shot 04 link.
 
 ## Sound / SFX Lock
-No OpenArt music. Ambient: steady rain, puddle drops, umbrella fabric sound. Never overpower dialogue.
+No OpenArt-generated music. Ambient: rain outside (muffled), warm interior, umbrella pulled out of storage. Never overpower dialogue.
 
 ## Visual Continuity / Style Lock
-Soft matte 3D. Rain visible but gentle. No dark sky. Medium-low contrast. No HDR.
+Soft matte 3D. Warm interior light. Medium-low contrast. No HDR.
 
 ## Post-Production Learning Metadata — DO NOT GENERATE IN OPENART
-- Target phrase: "Can I have a turn?" / "Let's share it."
-- Vocabulary: turn, share, together, dry
+- Target phrase: "Where is it?" / "I found it!"
+- Vocabulary: umbrella, found, big, here, old
 
 ## Negative / Hard Locks
-No human hands on Opa. No missing glasses or scarf on Opa. No dark threatening rain. No new umbrella. No HDR. No generated text. No non-English speech. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text.
+No human hands on Opa. No missing glasses or scarf on Opa. No umbrella visible before Arda finds it. No HDR. No generated captions, subtitles, vocabulary text, readable signs, letters, logos, watermarks or on-screen text. No non-English speech.
 
 ## Approval Gate
-- Fresh Take Shot: outdoors, rain, yellow umbrella.
-- All three under umbrella together in final frame.
-- 30 words, 8 turns. No human anatomy on Opa.
+- Fresh Take Shot: warm storage, no umbrella visible.
+- Umbrella found by Arda — clearly very large.
+- 28 words, 8 turns. No human anatomy on Opa.
