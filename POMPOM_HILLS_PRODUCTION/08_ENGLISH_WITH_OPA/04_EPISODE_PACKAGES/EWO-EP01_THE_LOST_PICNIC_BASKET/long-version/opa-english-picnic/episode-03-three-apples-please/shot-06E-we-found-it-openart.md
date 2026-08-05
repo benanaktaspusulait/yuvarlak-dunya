@@ -29,7 +29,7 @@ No voice swap. No identity swap. No voice blending.
 3. Opa: "It was always here."
 4. Arda: "The view is so beautiful!"
 
-Word count: 16 words.
+Word count: 17 words.
 Turn count: 4 turns.
 
 ## OpenArt Video Prompt
@@ -86,7 +86,7 @@ No scene reconstruction. No teleportation. No environment morphing. No new chara
 - [ ] Only Opa, Arda, and Luca present
 - [ ] Each silent beat is a separate single-character micro-action
 - [ ] No three-character simultaneous action
-- [ ] 16 words, 4 turns
+- [ ] 17 words, 4 turns
 - [ ] 15 seconds, 16:9 horizontal
 - [ ] Map remains unfolded in Luca's hand
 - [ ] Final frame stable for Shot 06F

@@ -29,7 +29,7 @@ No voice swap. No identity swap. No voice blending.
 3. Opa: "Let us look very carefully."
 4. Luca: "I think it is right here!"
 
-Word count: 18 words.
+Word count: 23 words.
 Turn count: 4 turns.
 
 ## OpenArt Video Prompt
@@ -76,7 +76,7 @@ No scene reconstruction. No teleportation. No environment morphing. No new chara
 - [ ] Luca already holds the map at opening — no sudden appearance
 - [ ] Willow tree comes into view through natural movement
 - [ ] Bench partially visible by end
-- [ ] 18 words, 4 turns
+- [ ] 23 words, 4 turns
 - [ ] 15 seconds, 16:9 horizontal
 - [ ] No teleportation
 - [ ] Final frame shows group near willow with bench partially visible

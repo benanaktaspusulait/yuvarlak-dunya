@@ -28,7 +28,7 @@ No voice swap. No identity swap. No voice blending.
 3. Arda: "Can we come back again?"
 4. Opa: "Of course. Always."
 
-Word count: 17 words.
+Word count: 19 words.
 Turn count: 4 turns.
 
 ## OpenArt Video Prompt
@@ -77,7 +77,7 @@ No scene reconstruction. No teleportation. No environment morphing. No new chara
 - [ ] Camera completely locked throughout
 - [ ] Luca folds map once during 8.5-11.0s
 - [ ] Opa and Arda remain stable during map fold
-- [ ] 17 words, 4 turns
+- [ ] 19 words, 4 turns
 - [ ] 15 seconds, 16:9 horizontal
 - [ ] No teleportation
 - [ ] Warm, stable, emotionally complete ending
