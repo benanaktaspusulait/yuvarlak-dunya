@@ -1,46 +1,51 @@
 # CONCEPT-03: What Colour Is It?
 
 ## Fikir
-Arda ve Luca renkleri öğreniyor. Her seferinde bir nesne gösteriliyor, Arda soruyor, Luca cevaplıyor. 5 renk, 5 nesne. Tüm nesneler @image1'dan itibaren sahnede görünür ve sabit. Finalde sıra izleyiciye geliyor.
 
-## Neden Instagram'da Tutar?
-- **Interactive** — izleyici de bağırarak cevap verir
-- **Fast pace** — her ~2.5 saniyede yeni renk, dikkat düşmez
-- **Colourful visuals** — Instagram algoritması renkli içerik sever
-- **Duet/stitch** — ebeveynler çocuklarıyla birlikte cevap verir
-- **Child answers** — finalde Arda kameraya dönüp izleyiciye soruyor
+Arda sorar, Luca cevaplar. Beş renk beş mevcut nesne üzerinden doğal bakış, jest ve tepki süreleriyle öğrenilir; final sorusu izleyiciye yöneltilir.
 
-## Hedef Kitle
-2-4 yaş + ebeveynleri
+## Final Format
 
-## Format
-- **Süre**: 18 saniye (9 + 9)
-- **Format**: 9:16 dikey
-- **Shot sayısı**: 2
-- **Karakter**: Arda + Luca
+- **Süre:** 45 saniye (15 + 15 + 15)
+- **Format:** 9:16 dikey
+- **Shot sayısı:** 3
+- **Karakterler:** Arda + Luca
+- **Ses:** OpenArt native spoken audio; bütün shotlarda Voice/Speech ON, Music OFF
 
 ## Yapı
 
-### Shot 01 — Red, Yellow, Blue (9 sn)
-Arda ve Luca yan yana. Arda sırayla elma, güneş ve gökyüzü gösterip "What colour is it?" diyor. Luca her seferinde cevaplıyor. Doğal konuşma, şarkı yok, müzik yok.
+### Shot 01 — Red + Yellow — 15 sn
 
-### Shot 02 — Green, Orange, Your Turn (9 sn)
-Shot 01'in final frame'i @image1. Arda yaprak ve kelebeği gösterip soruyor. Sonra kameraya dönüp izleyiciye soruyor. Luca gülümser.
+- RED: 0.0–6.5s
+- YELLOW: 6.5–13.0s
+- 13.0–15.0s: mavi gökyüzüne yumuşak geçiş ve sabit continuity pozu
 
-## Renk Sırası
-1. Red apple → "It's red!"
-2. Yellow sun → "It's yellow!"
-3. Blue sky → "It's blue!"
-4. Green leaf → "It's green!"
-5. Orange butterfly → "It's orange!"
-6. Viewer question → "What colour is it?"
+### Shot 02 — Blue + Green — 15 sn
+
+- BLUE: 0.0–6.5s
+- GREEN: 6.5–13.0s
+- 13.0–15.0s: turuncu kelebeğe yumuşak geçiş ve sabit continuity pozu
+
+### Shot 03 — Orange + Your Turn — 15 sn
+
+- ORANGE: 0.0–6.8s
+- YOUR TURN: 6.8–15.0s; 2.2 saniyelik gerçek izleyici cevap alanı ve sıcak kapanış
+
+## Continuity Zinciri
+
+```text
+approved clean @image1 → Shot 01 → Shot 01 approved final frame → Shot 02 → Shot 02 approved final frame → Shot 03
+```
+
+- Shot 01: `FRESH QUALITY-RESET SHOT`
+- Shot 02: `LINKED CONTINUITY SHOT 1`
+- Shot 03: `LINKED CONTINUITY SHOT 2`
+- Zincir Shot 03 ile biter; bundan sonra devam ederse fresh reset zorunludur.
 
 ## Nesne Kuralı
-Tüm 5 nesne (apple, sun, sky, leaf, butterfly) @image1'dan itibaren sahnede fiziksel olarak mevcut ve statik. Sonradan belirmez, spawn olmaz, kaybolmaz.
 
-## Ses Kuralı
-- Arda ve Luca canonical voice'ları kullanılır
-- Sırayla konuşuyorlar, üst üste gelme yok
-- Şarkı yok, chanting yok, melody yok
-- Müzik yok, sound effect yok
-- Sadece konuşma sesi
+Red apple, yellow sun, blue sky, lime-green target leaf ve orange butterfly ilk Shot 01 karesinden itibaren fiziksel olarak mevcuttur. Hiçbir nesne sonradan belirmez, kaybolmaz, çoğalmaz, yer değiştirmez veya renk değiştirmez.
+
+## Yoğunluk Kuralı
+
+Bir shot içinde en fazla iki öğretim beat'i vardır. Konuşmalar ve karakter hareketleri aynı OpenArt üretiminde birlikte oluşturulur.

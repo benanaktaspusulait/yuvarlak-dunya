@@ -1,52 +1,38 @@
-# Luca - Voice Prompt
+# Luca — Canonical Voice Creation Prompt
 
-```text
-Create a voice for Luca from Pompom Hills v2.1.
+Create an original fictional character voice for Luca from Pompom Hills.
 
-Luca sounds like a real 4-year-old boy.
+This voice must be completely original and must not imitate, resemble, reference, or reproduce any real person, actor, celebrity, existing character, copyrighted performance, or known voice.
 
-A microphone placed in front of him.
+Voice qualities:
+- youthful
+- light male character voice
+- small and gentle vocal presence
+- warm
+- friendly
+- curious
+- naturally expressive
+- soft breath support
+- slightly variable pitch
+- conversational
+- clear English pronunciation
+- relaxed and spontaneous
+- suitable for gentle preschool educational animation
 
-Not performed. Not acted. Not polished.
+Delivery:
+Natural everyday speech.
+No theatrical acting.
+No announcer delivery.
+No exaggerated cartoon performance.
+No singing.
+No chanting.
+No rhythmic delivery.
+No melody.
+No sing-song cadence.
+No imitation of any existing voice.
 
-Just a real kid speaking naturally.
+Keep the voice identity stable and consistent.
 
-Voice characteristics:
-- Tiny vocal tract
-- Small breath support
-- Naturally high child resonance
-- Slightly unstable child pitch
-- Slightly imperfect pronunciation
-- Occasional hesitation before longer words
-- Innocent curiosity in every word
-- Spontaneous delivery
-- Authentic preschool rhythm
+Generate only this single neutral calibration sentence:
 
-How he speaks:
-- Short sentences
-- Simple words
-- Sometimes pauses mid-thought
-- Occasionally repeats a word while thinking
-- Breathes audibly between phrases
-- Speaks like he just discovered something exciting
-- Conversational, never performed
-
-What this voice sounds like:
-A real 4-year-old boy you just met.
-
-What this voice never sounds like:
-An adult woman.
-An adult man.
-A teenager.
-A professional child voice actor.
-A cartoon character.
-A baby.
-
-Never imitate a child.
-Be a child.
-
-Test lines:
-1. "Let's explore together!"
-2. "I see a path!"
-3. "Map time!"
-```
+"Today I found a little green leaf beside the garden path."

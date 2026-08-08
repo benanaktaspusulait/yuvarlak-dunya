@@ -1,117 +1,54 @@
-# Shot 02 — What Colour Is It? — OpenArt Prompt
+# OpenArt Video Prompt — Shot 02 — Blue + Green — 15s
 
-## Shot Info
-- Format: Instagram Reel, 9:16 vertical, 1080×1920
-- Duration: 9 seconds
-- Mode: Frame-to-video, one continuous shot
-- Production Mode: LINKED CONTINUITY SHOT
-- Characters: Arda, Luca
-- Location: Opa's Garden
-- Language: English
+SPOKEN DIALOGUE IS MANDATORY. Generate every line exactly as written using the manually assigned approved saved Arda and Luca voices. Do not omit, shorten, replace, reorder or paraphrase. Native Audio ON. Voice/Speech ON. Only the active speaker moves his mouth; one speaker at a time; no overlap. Natural conversational English, never singing, chanting, rhythmic, melodic or sing-song.
 
-## References — CONTINUITY LOCK
+ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental, chime, whoosh or automatic extra audio. Speech only.
 
-@image1 = APPROVED FINAL FRAME OF SHOT 01.
+15-second 9:16 frame-to-video. LINKED CONTINUITY SHOT 1. @image1 is the original QA-approved final frame of Shot 01. First frame must be visually indistinguishable from @image1; only then may animation begin. Preserve exact framing, child-eye-level medium-wide camera, Arda/Luca identity, clothing, scale, positions, screen direction, object placement, garden layout, lighting, exposure, white balance and soft pastel matte handcrafted Pompom Hills style.
 
-@image1 is the ONLY visual continuity source.
+INHERITED INVENTORY LOCK: this is the same continuous physical scene. Preserve the SAME single red apple carried by Arda, single yellow sun, blue sky, single lime-green TARGET LEAF on the low foreground shrub near Arda's feet, and single orange butterfly in its established visual area. No character, animal, insect, bird, flower, leaf, plant, fruit, prop, stone, cloud or decoration may appear, enter, disappear, duplicate, transform, teleport, jump to a new position, or relocate independently. Natural small movement caused by Arda or Luca's intended gesture is allowed. Nothing may change colour. Only Arda and Luca make small intentional movements.
 
-The first visible frame must be visually indistinguishable from @image1.
+SPATIAL OBJECT LOCK:
 
-Preserve EXACTLY:
-- Arda identity and clothing
-- Luca identity and clothing
-- Character positions and scale
-- Red apple
-- Yellow sun
-- Blue sky
-- Green leaf
-- Orange butterfly
-- Garden layout
-- Camera distance, framing
-- Lighting, exposure, colour balance, material softness
+The lime-green TARGET LEAF remains exactly in the lower-left foreground,
+on the same low shrub visible in @image1.
 
-Nothing new appears in Shot 02.
+The orange butterfly remains in the upper-right sky area exactly where it
+appears in @image1.
 
-## Object Lock
+Neither object may jump position, disappear, duplicate, enter the frame,
+or be replaced by another object.
 
-The SAME red apple from Shot 01 remains with Arda.
+CHARACTER CONTINUITY LOCK:
 
-The SAME green leaf that was already visible throughout Shot 01 remains on the low shrub. Arda does NOT create, receive or magically produce a leaf. He only points toward the existing leaf.
+@image1 is the ONLY visual identity reference for Arda and Luca.
 
-The SAME orange butterfly that was already visible throughout Shot 01 remains in its existing area. It does not enter from outside frame. It does not duplicate. It does not change colour. It does not fly away.
+Preserve Arda and Luca exactly as they physically appear in @image1:
+same faces, hair shapes, facial proportions, eyes, skin tone, freckles,
+body proportions, clothing, shoes, scale and screen positions.
 
-## Camera
+Do NOT redesign, beautify, restyle, reinterpret or regenerate either character.
+Do NOT use text description to alter their appearance.
 
-Exact continuation of Shot 01. No zoom, push-in, pull-back, pan, tilt, reframing or camera cut.
+PERFORMANCE — BLUE:
+0.0–0.8 Continue directly from @image1 with NO pose reset. Arda and Luca maintain their existing upward gaze toward the visible blue sky. Arda makes only one tiny natural presenting gesture while keeping his body position unchanged.
+0.8–2.6 Arda says exactly: "What colour is the sky?"
+2.6–3.5 Luca keeps his existing gaze toward the blue sky, making only a tiny natural eye/head adjustment. No new head turn. Arda's mouth is still.
+3.5–4.8 Luca says exactly: "It's blue!" Arda listens with mouth still.
+4.8–6.5 Both slowly return their gaze to a relaxed neutral interaction position and give a small natural smile. No dialogue. No sudden movement.
 
-## Action and Dialogue
+PERFORMANCE — GREEN:
+6.5–7.3 Arda gently indicates the SAME lime-green target leaf already present on the low shrub. The leaf does not move or grow.
+7.3–9.1 Arda says exactly: "What colour is the leaf?"
+9.1–10.0 Luca takes time to look naturally at that exact leaf. Arda's mouth is still.
+10.0–11.3 Luca says exactly: "It's green!" Arda listens with mouth still.
+11.3–13.0 Both react with a small natural smile and unhurried breathing room; no dialogue.
+13.0–14.0 Arda slowly redirects his gaze and gentle gesture toward the SAME already-visible orange butterfly.
+14.0–15.0 Both settle into a stable natural pose, Arda's attention resting toward the butterfly. No dialogue. This completed pose is the Shot 03 continuity anchor.
 
-**0.0–0.4s:** Continue directly from Shot 01. No repositioning or reset.
+Natural motion only: subtle breathing, blinking, eye focus, tiny head turns and restrained hand gestures. Use the extra time for readable looking and reactions, never extra actions. No exaggerated movement, frozen staring or random filler action. Locked camera for all 15 seconds: no zoom, push-in, pull-back, pan, tilt, tracking, reframing, cut, angle change or automatic camera motion. Preserve @image1 colour and lighting; no darkening, contrast growth, saturation growth, oversharpening, HDR, gloss or harsh shadows.
 
-**0.4–3.1s:** Arda makes one clear gentle gesture toward the existing green leaf and asks: **"What colour is it?"** After Arda completely finishes, Luca looks at the leaf and answers: **"It's green!"** No overlap.
+AVOID: missing or extra speech, speaker/voice swap, simultaneous mouth movement, object pop-in/disappearance, new or duplicate leaf/butterfly/apple/sun, butterfly flight, camera movement, text, captions, subtitles.
 
-**3.1–5.8s:** Arda makes one clear presenting gesture toward the existing orange butterfly and asks: **"What colour is it?"** After Arda completely finishes, Luca looks toward the butterfly and answers: **"It's orange!"** No overlap.
-
-**5.8–8.1s:** Arda turns naturally toward the camera and clearly raises the SAME red apple. Arda asks the viewer: **"What colour is it?"** Luca remains silent and smiles beside him.
-
-**8.1–9.0s:** Arda keeps the apple visible and holds an inviting questioning expression. Approximately 0.9 seconds for the child viewer to answer. No additional dialogue.
-
-## Audio — CRITICAL
-
-SPEECH ONLY.
-
-Use the exact same approved saved Arda voice as Shot 01.
-Use the exact same approved saved Luca voice as Shot 01.
-Do NOT generate new voices. Do NOT substitute voices.
-Speak every line exactly as written.
-One speaker at a time. No overlapping dialogue. Only active speaker mouth movement.
-Natural spoken English only.
-DO NOT sing. DO NOT chant. DO NOT speak rhythmically. DO NOT add melody.
-NO MUSIC AT ANY POINT. No background music, soundtrack, instrumental, melody, beat, jingle, song, musical sting, humming, background vocals.
-No sound effects. No automatic audio additions. No ambience.
-Only Arda and Luca voices are permitted.
-
-## Visual Style
-Premium Pompom Hills preschool 3D. Rounded plush-clay forms. Matte handcrafted materials. Soft pastel colours. Medium-low contrast. Warm morning sunlight. Gentle shadows. No HDR, gloss, contrast increase, saturation increase or oversharpening.
-
-## Colour / Contrast Stability
-Match @image1 exactly. No contrast increase, saturation increase, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpening, colour drift or exposure drift.
-
-## Negative Prompt
-```
-music, soundtrack, song, singing, chanting,
-melody, rhythm, beat, jingle, humming,
-background vocals, musical ambience,
-voice swap, speaker swap, overlapping dialogue,
-new voice, additional speech,
-new objects, object spawning,
-new leaf, duplicate leaf,
-new butterfly, duplicate butterfly,
-butterfly entering frame, butterfly flying away,
-apple disappearing, apple changing colour,
-camera movement, zoom, push-in, reframing,
-extra characters, Opa appearing,
-text, captions, subtitles,
-high contrast, oversaturation, HDR, glossy plastic
-```
-
-## OpenArt Settings
-- Duration: 9 seconds
-- @image1: Approved final frame of Shot 01
-- Prompt enhancer: Off
-- Cinematic/auto camera: Off
-- Aspect ratio: 9:16
-- Auto Sound / Native Audio: ON (speech only — Arda and Luca voices; no music)
-
-## QA Checklist
-- [ ] First frame is visually indistinguishable from Shot 01 final frame
-- [ ] Same leaf from Shot 01 (not a new leaf)
-- [ ] Same butterfly from Shot 01 (not a new butterfly)
-- [ ] Same apple from Shot 01
-- [ ] Arda speaks, then Luca answers — no overlap
-- [ ] No singing, chanting or melodic speech
-- [ ] No music at any point
-- [ ] Final beat: Arda faces camera with apple, asks viewer, 0.9s pause
-- [ ] Camera fully locked, continuation from Shot 01
-- [ ] No colour/contrast drift from Shot 01
-- [ ] All five objects still visible in final frame
+NEGATIVE PROMPT:
+background music, music, melody, song, soundtrack, instrumental, musical bed, jingle, chime, bell, magical sparkle sound, whoosh, singing, chanting, humming, rhythmic speech, melodic speech, overlapping dialogue, speaker swap, voice swap, substitute voice, extra speech, simultaneous mouth movement, extra character, Opa, object spawning, object disappearance, duplicate apple, duplicate sun, duplicate butterfly, new butterfly, new leaf, high branch leaf, butterfly flying, leaf moving, leaf growing, camera movement, zoom, push-in, pull-back, pan, tilt, reframing, cut, colour drift, exposure drift, high contrast, oversaturation, HDR, glossy plastic, oversharpening, harsh shadows, text, captions, subtitles, watermark

@@ -1,63 +1,51 @@
-# Shot 02 — What Colour Is It? — Green, Orange, Your Turn
-
-## Scene Context
-| Field | Value |
-|-------|-------|
-| Shot | 02 / 02 |
-| Duration | 9 sec |
-| Location | Opa's Garden |
-| Characters | Arda, Luca |
-| Time | Warm sunny morning |
-| Format | 9:16 vertical |
+# Shot 02 — What Colour Is It? — Blue + Green
 
 ## Purpose
-Arda and Luca learn two more colours (green, orange). Then Arda turns to camera and asks the viewer. Educational payoff with viewer participation.
 
-**NOTE:** This is a VISUAL-ONLY shot. Dialogue is added in post-production. See `voice-script.md` for exact lines and timing.
+Teach blue and green with two relaxed spoken question-answer cycles.
 
-## Production Mode
-LINKED CONTINUITY SHOT
-@image1 = approved final frame of Shot 01
+## Production
 
-## Object Lock
-Same red apple, green leaf, orange butterfly from Shot 01. Nothing new appears. Leaf is on low shrub, not on high tree. Butterfly does not fly away.
+- Duration: 15 seconds
+- Format: 9:16 vertical
+- Location: same Opa's Garden composition
+- Characters: Arda and Luca
+- Production Mode: `LINKED CONTINUITY SHOT 1`
+- Clean Start State: original QA-approved final frame of Shot 01 as `@image1`
+- Complete Main Action: blue and green question-answer cycles
+- Completed End State: Arda has calmly redirected attention to the orange butterfly
+- Stable Final Anchor: both boys settled; Arda's gaze/gesture rests toward the butterfly
+- Next-Shot Dependency: `EXACT FRAME CONTINUITY REQUIRED`
 
-## Timing (Visual Only — No Speech)
-| Time | Action |
-|------|--------|
-| 0.0–0.4s | Continue from Shot 01. No repositioning. |
-| 0.4–3.1s | Arda gestures toward green leaf. Luca looks, nods happily. |
-| 3.1–5.8s | Arda gestures toward orange butterfly. Luca looks, nods. |
-| 5.8–8.1s | Arda turns to camera, raises red apple. Questioning expression. Luca smiles beside him. |
-| 8.1–9.0s | Arda holds apple visible, inviting expression. ~0.9s for viewer to answer. |
+## Scene Flow and Exact Dialogue
 
-## Final Frame Lock
-At 9.0s: Arda facing camera with red apple, questioning expression. Luca smiling. All five objects visible.
+- 0.0–0.8: Continue directly from @image1 with NO pose reset. Arda and Luca maintain their existing upward gaze toward the visible blue sky. Arda makes only one tiny natural presenting gesture while keeping his body position unchanged.
+- 0.8–2.6: Arda: **“What colour is the sky?”**
+- 2.6–3.5: Luca keeps his existing gaze toward the blue sky, making only a tiny natural eye/head adjustment. No new head turn.
+- 3.5–4.8: Luca: **“It's blue!”**
+- 4.8–6.5: Both slowly return gaze to relaxed neutral interaction position. Small natural smile. No sudden movement.
+- 6.5–7.3: Arda indicates the same lime-green target leaf on the low shrub.
+- 7.3–9.1: Arda: **“What colour is the leaf?”**
+- 9.1–10.0: Luca takes time to look at the leaf.
+- 10.0–11.3: Luca: **“It's green!”**
+- 11.3–13.0: relaxed shared reaction and breathing room.
+- 13.0–14.0: Arda slowly redirects attention to the same orange butterfly.
+- 14.0–15.0: pose and camera settle; no dialogue.
 
-## Audio
-NO AUDIO GENERATION. Silent visual-only shot. Audio added in post-production per `voice-script.md`.
+## Continuity and Inventory
 
-## Camera
-Exact continuation of Shot 01. No zoom, push-in, pull-back, pan, tilt, reframing or camera cut.
+First frame is visually indistinguishable from Shot 01's approved final frame. The inherited inventory remains exact: same apple, sun, sky, target leaf, butterfly, characters and garden. No appearance, disappearance, duplication, transformation, relocation or colour change.
 
-## Negative Prompt
-```
-speech, voice, dialogue, mouth movement, lip sync, speaking,
-music, soundtrack, song, singing, chanting, melody, beat,
-frozen staring, abrupt movement, teleporting,
-extra limbs, duplicate characters, camera movement,
-environment redesign, harsh contrast, oversaturation, HDR,
-glossy surfaces, text, captions, subtitles,
-new leaf, duplicate leaf, new butterfly, duplicate butterfly,
-butterfly flying away, apple disappearing,
-Opa appearing, extra characters
-```
+### CHARACTER CONTINUITY LOCK
 
-## QA Checklist
-- [ ] First frame matches Shot 01 final frame
-- [ ] Same leaf, butterfly, apple from Shot 01
-- [ ] Green leaf on LOW shrub
-- [ ] NO audio generated
-- [ ] NO mouth movement
-- [ ] Final beat: Arda faces camera, questioning expression, 0.9s
-- [ ] Camera fully locked
+@image1 is the ONLY visual identity reference for Arda and Luca. Preserve them exactly as they physically appear in @image1: same faces, hair shapes, facial proportions, eyes, skin tone, freckles, body proportions, clothing, shoes, scale and screen positions. Do NOT redesign, beautify, restyle, reinterpret or regenerate either character.
+
+### SPATIAL OBJECT LOCK
+
+- Lime-green TARGET LEAF: remains exactly in the lower-left foreground, on the same low shrub visible in @image1.
+- Orange butterfly: remains in the upper-right sky area exactly where it appears in @image1.
+- Neither object may jump position, disappear, duplicate, enter the frame, or be replaced.
+
+## Camera / Style / Sound
+
+Locked child-eye-level medium-wide camera. No camera movement or reframing. Preserve `@image1` colour, lighting and matte handcrafted style. Native speech ON, exact approved saved Arda and Luca voices, one speaker at a time, only active speaker moves mouth. Music OFF; no song, chant or rhythmic speech.

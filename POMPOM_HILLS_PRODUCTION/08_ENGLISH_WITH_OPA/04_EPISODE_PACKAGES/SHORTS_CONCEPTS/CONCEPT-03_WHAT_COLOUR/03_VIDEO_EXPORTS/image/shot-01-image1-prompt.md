@@ -2,7 +2,7 @@
 
 ## Purpose
 This is the approved clean start-frame still for the "What Colour Is It?" Instagram Reel (Shot 01).
-It serves as @image1 for the 9-second frame-to-video production.
+It serves as @image1 for the 15-second Shot 01 frame-to-video production.
 Every countable/visible object must be physically present in this image from frame 0.
 
 ## Format
