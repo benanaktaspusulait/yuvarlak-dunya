@@ -54,6 +54,7 @@ bu dosyalara dokunmaz.
 | **Shorts üretim standardı (karakter görünürsüzlüğü, kalite)** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_PRODUCTION_STANDARD.md` |
 | **Shorts crop, segment ve birleştirme workflow'u** | `POMPOM_HILLS_PRODUCTION/07_ARDAS_STORIES/00_GLOBAL_RULES/SHORTS_CROP_AND_SEGMENT_WORKFLOW.md` |
 | **Shorts segment crop workflow (shot → short kaydırma)** | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_SEGMENT_CROP_WORKFLOW.md` |
+| **Instagram Reels formatları (mini skeç, reveal, oyun)** | `POMPOM_HILLS_PRODUCTION/09_SOCIAL_REELS/INSTAGRAM_REELS_FORMAT_STANDARD.md`, `09_SOCIAL_REELS/DONT_SAY_IT/`, `09_SOCIAL_REELS/WHAT_DID_KIKO_SEE/`, `09_SOCIAL_REELS/PICK_ONE/` |
 | Series bumper ile world micro-opening ayrımı | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/MICRO_OPENING_AND_CLOSING_STANDARD.md` |
 | Shot'lar arası continuity workflow | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` |
 | **OpenArt video paste-ready payload karakter sınırı ve extraction** | `00-CORE/17_VIDEO_GENERATION_STANDARD.md` § OPENART PROMPT CHARACTER LIMIT RULE |
