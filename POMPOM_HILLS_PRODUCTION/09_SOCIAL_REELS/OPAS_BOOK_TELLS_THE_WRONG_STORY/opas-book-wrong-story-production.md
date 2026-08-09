@@ -57,9 +57,17 @@ The second illustration intentionally makes the visual joke coherent: the storyb
 
 ## Metadata
 
+Full metadata files in `05_METADATA/`:
+
+| Platform | File |
+|---|---|
+| YouTube Shorts | `05_METADATA/youtube-shorts.md` |
+| Instagram Reel | `05_METADATA/instagram-reel.md` |
+| Facebook Post | `05_METADATA/facebook-post.md` |
+
 - **Title:** Opa’s Book Got the Story Wrong 📖
 - **Description:** Opa opens his storybook—but the next page seems to be reading him!
-- **Hashtags:** #PompomHills #Opa #Storybook #KidsAnimation #PreschoolAnimation #Shorts
+- **Hashtags:** #PompomHills #Shorts #Opa #Storybook #Animation
 
 ## Internal QA
 
