@@ -23,7 +23,7 @@
 |---|---|
 | Production Mode | FRESH QUALITY-RESET SHOT |
 | Clean Start State | Approved vertical still: Opa seated securely on his wide branch, closed storybook resting in his wings |
-| Complete Main Action | Opa opens the book, sees a picture of himself reading it, turns one page, then sees the book reading a tiny picture of Opa |
+| Complete Main Action | Opa opens the book (0–2.5s), sees a picture of himself reading it (2.5–5.5s), turns one page (5.5–8s), then sees the book reading a tiny picture of Opa (8–11.5s), adjusts glasses and reacts (11.5–15s) |
 | Completed End State | Opa adjusts his glasses and looks gently toward camera while the open page remains visible |
 | Stable Final Anchor | Opa's puzzled expression, adjusted glasses and the readable wrong-story illustration |
 | Next-Shot Dependency | NONE — next shot starts fresh |
@@ -34,11 +34,11 @@ The second illustration intentionally makes the visual joke coherent: the storyb
 
 | Time | Beat |
 |---|---|
-| 00–03s | Opa settles the closed rounded book in his wings and opens it carefully. |
-| 03–07s | The visible page contains one simple printed illustration of Opa sitting on the same branch and reading the same book. Opa leans closer. |
-| 07–10s | Opa turns exactly one page. |
-| 10–12s | The new printed illustration shows the book propped open as the reader, looking at a tiny picture of Opa. No face, limbs or animation on the printed book. |
-| 12–15s | Opa adjusts his golden glasses once and looks toward camera with gentle puzzled surprise; the page and camera hold steady. |
+| 00–02.5s | Opa settles the closed rounded book in his wings and opens it carefully. |
+| 02.5–5.5s | The visible page contains one simple printed illustration of Opa sitting on the same branch and reading the same book. Opa leans closer. |
+| 05.5–8.0s | Opa turns exactly one page. |
+| 08.0–11.5s | The new printed illustration shows the book propped open as the reader, looking at a tiny picture of Opa. No face, limbs or animation on the printed book. Hold long enough for the viewer to register the role reversal. |
+| 11.5–15.0s | Opa adjusts his golden glasses once and looks toward camera with gentle puzzled surprise; the page and camera hold steady. Allow approximately one second of stillness at the end. |
 
 ## Visual and Motion Direction
 
@@ -47,7 +47,7 @@ The second illustration intentionally makes the visual joke coherent: the storyb
 - Page art uses flat, simple, ink-free colour shapes with no letters, words, symbols or readable writing.
 - The book never speaks, grows a face, sprouts limbs or becomes a second physical object.
 - Opa remains safely seated on the canonical wide branch.
-- Camera stays locked at Opa eye level with a very subtle push-in on the page reveal.
+- Camera stays fully locked at Opa eye level for the entire 15-second shot. No push-in, zoom, pan or reframe.
 
 ## Audio
 
@@ -69,6 +69,7 @@ The second illustration intentionally makes the visual joke coherent: the storyb
 - [ ] Printed book has no face, limbs, voice or animation
 - [ ] No readable text appears on cover or pages
 - [ ] Opa remains safely seated; branch and background remain stable
+- [ ] Camera fully locked — no push-in, zoom, pan, reframe or drift at any point
 - [ ] Main action completes with a stable final hold
 - [ ] No music, captions, logo or watermark
 - [ ] No colour, contrast, HDR, gloss or sharpness drift

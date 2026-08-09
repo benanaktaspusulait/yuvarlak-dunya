@@ -110,7 +110,7 @@ Sesi kapalı bile izlenebilir. Eğitim yok. Tek amaç: güldürmek / merak ettir
 
 ### Sesli İzleme
 - [ ] "Uh-oh…" doğru zamanda, doğru tonda
-- [ ] "My ice cream?" doğru zamanda, doğru tonda
+- [ ] "For me?" doğru zamanda, doğru tonda
 - [ ] Ambience rahatsız edici değil
 - [ ] Ses seviyeleri dengeli
 

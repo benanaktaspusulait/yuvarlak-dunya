@@ -40,7 +40,17 @@ Premium Pompom Hills 3D preschool animation. Rounded plush-clay shapes, soft pas
 
 Opa remains securely seated on the same tree branch. Opa is the canonical wise owl character, with his exact approved proportions, face, feather colours, large round glasses and soft handcrafted appearance.
 
-Twilight continues very gently from the state visible in @image1. The moon remains in the same exact position and becomes only a little more softly luminous. The already-visible stars become a little clearer, but still gentle and not dramatic. No sudden darkness, no star pop-in, no moon teleportation, no lighting snap.
+The twilight state visible in @image1 is already the desired bedtime lighting and must remain essentially unchanged throughout Shot 02.
+
+Preserve the exact sky brightness, moon brightness, star visibility, colour balance and exposure from @image1.
+
+The moon remains in the exact same position and at approximately the same soft brightness.
+The already-visible stars remain at approximately the same gentle visibility.
+
+Do not continue darkening the sky.
+Do not make the moon brighter.
+Do not increase the number, brightness or contrast of the stars.
+Only extremely subtle natural light variation is permitted.
 
 Camera remains fully locked. No pan, tilt, zoom, orbit, reframing or cinematic movement.
 
@@ -90,7 +100,7 @@ Do not add any extra words such as "goodnight" or repeat the line.
 After finishing the sentence, Opa's smile remains.
 He slowly lowers his eyelids in one continuous sleepy action until his eyes are peacefully closed.
 His head settles slightly into a comfortable resting angle.
-The moon is now softly luminous and the stars are clearly but gently visible.
+The moon and stars remain exactly as they were at the start of this shot — softly luminous and gently visible, unchanged.
 This is purposeful closing action, not frozen dead air.
 
 ### 9.2–10.0s
@@ -175,10 +185,11 @@ Frame 0 already contains:
 
 Throughout the shot:
 
-* sky continues toward gentle bedtime twilight
-* existing stars become a little clearer
-* existing moon becomes softly brighter
-* garden remains visible and warm
+* preserve the existing bedtime twilight from @image1
+* preserve approximately the same star visibility
+* preserve approximately the same moon brightness
+* preserve the same overall exposure and colour balance
+* garden remains softly visible and warm
 * Opa remains clearly readable
 
 DO NOT create:
@@ -241,7 +252,7 @@ sharp edges, complex textures
 
 * Duration: 10 seconds
 * Format: 9:16 vertical
-* @image1: Approved final frame of Shot 01. Canonical Opa remains seated on the same branch in early twilight. Preserve the exact frame-0 pose, moon position, star visibility, lighting and composition.
+* @image1: Approved actual final frame of Shot 01 and the absolute frame-0 visual authority. Canonical Opa is seated on the same branch in a close bedtime composition with a sleepy heavy-lidded expression. The moon is already clearly visible in the upper-left sky and the existing stars are already gently visible. Preserve the exact Opa pose and scale, branch, camera framing, moon position, star visibility, sky brightness, exposure, colours and composition from @image1. Do not redesign or further darken the scene.
 * Auto Voice: OFF
 * Voice: canonical Opa voice selected manually
 * Prompt Enhancer: OFF
@@ -259,9 +270,9 @@ sharp edges, complex textures
 * [ ] Opa's glasses remain correct throughout
 * [ ] Camera remains fully locked
 * [ ] Moon remains in the same position throughout
-* [ ] Stars remain continuous and only become gradually clearer
+* [ ] Stars remain continuous at approximately the same gentle visibility
 * [ ] No abrupt sunset-to-night transition
-* [ ] Opa remains clearly readable as twilight develops
+* [ ] Opa remains clearly readable while the existing twilight lighting stays stable
 * [ ] Dialogue exactly: "Sleep well." / "See you tomorrow."
 * [ ] No added or repeated words
 * [ ] Canonical Opa voice preserved

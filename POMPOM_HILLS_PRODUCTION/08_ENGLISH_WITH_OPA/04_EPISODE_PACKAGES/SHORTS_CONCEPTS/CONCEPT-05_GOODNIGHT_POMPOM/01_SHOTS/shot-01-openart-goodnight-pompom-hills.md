@@ -38,7 +38,7 @@ Premium Pompom Hills 3D preschool animation. Rounded plush-clay shapes, soft pas
 
 Opa sits safely and comfortably on a wide sturdy rounded tree branch in Pompom Hills. Opa is the canonical wise owl character, with his exact approved proportions, face, feather colours, large round glasses and soft handcrafted appearance. He faces slightly toward camera so his eyes and mouth remain clearly readable.
 
-The background begins at warm late sunset / early twilight. The sky is peach, lavender and soft blue, never harsh orange and never dramatically dark. A pale moon is already visible in the sky at frame 0. A few extremely faint stars are already visible at frame 0 so no celestial object needs to pop into existence later.
+The background begins at warm golden-hour sunset. The sky is predominantly warm peach and soft golden-orange, fading gently into pale lavender-blue at the top. The scene still feels clearly like sunset, not yet twilight. A very pale washed-out moon is already visible high in the sky at frame 0 but is easy to miss at first glance — it is subtle, not bright. A very small number of extremely faint stars are already physically present and barely visible at frame 0. They must not appear from nothing later. During the shot, these same existing stars only become gradually easier to see. This early dusk starting state gives the full 10-second shot room to develop gradually toward gentle twilight.
 
 Across this shot, twilight develops only very gently and continuously: the already-visible faint stars become just slightly easier to see, and the already-visible moon becomes only slightly brighter. No sudden day-to-night transition, no time-lapse jump, no lighting snap, no star pop-in and no moon teleportation.
 
@@ -54,9 +54,9 @@ Keep Opa and the environment softly lit and clearly readable throughout. Preserv
 
 ### 0.0–1.0s — CALM VISUAL HOOK
 
-Begin immediately on Opa already sitting peacefully on the branch at sunset.
-He looks directly toward the viewer with a warm, sleepy expression.
-One gentle natural blink.
+Begin immediately on Opa already sitting peacefully on the branch at warm golden-hour sunset.
+He looks directly toward the viewer with a drowsy, heavy-lidded expression — clearly ready for bed.
+One slow, gentle natural blink.
 No dialogue yet.
 Subtle non-musical evening ambience continues.
 
@@ -73,7 +73,7 @@ Do not sing and do not make the line rhythmic.
 ### 4.2–5.0s
 
 Opa relaxes his head back to neutral and gives one slow comfortable blink.
-The faint stars become only slightly easier to see.
+The sky deepens just slightly toward early twilight. The already-present extremely faint stars become only slightly easier to see.
 No abrupt lighting change.
 
 ### 5.0–9.0s
@@ -160,9 +160,9 @@ The sunset-to-twilight change must be slow, subtle and continuous.
 
 Frame 0 already contains:
 
-* warm sunset / early twilight sky
-* pale visible moon
-* a small number of extremely faint stars
+* warm golden-hour sunset sky (peach, golden-orange, pale lavender-blue at top)
+* very pale washed-out moon, subtle and easy to miss
+* a very small number of extremely faint stars already present and barely visible
 
 Throughout the shot:
 
@@ -232,7 +232,7 @@ sharp edges, complex textures
 
 * Duration: 10 seconds
 * Format: 9:16 vertical
-* @image1: Fresh approved starting image of canonical Opa already seated safely on the wide rounded tree branch at warm sunset / early twilight. Opa faces slightly toward camera. Pale moon already visible. A few extremely faint stars already visible. This image is the absolute frame-0 visual authority.
+* @image1: Fresh approved starting image of canonical Opa already seated safely on the wide rounded tree branch at warm golden-hour sunset. The sky is predominantly peach and soft golden-orange, fading to pale lavender-blue at the top — still clearly sunset, not yet twilight. A very pale washed-out moon is visible but subtle. A very small number of extremely faint stars are already present and barely perceptible at frame 0. They must not appear from nothing later. Opa faces slightly toward camera with a drowsy, heavy-lidded sleepy expression. This image is the absolute frame-0 visual authority.
 * Auto Voice: OFF
 * Voice: canonical Opa voice selected manually
 * Prompt Enhancer: OFF
@@ -253,10 +253,12 @@ EXACT FRAME CONTINUITY REQUIRED — Shot 02 uses this shot's approved final fram
 * [ ] Opa is canonical and remains on the same branch throughout
 * [ ] Opa's glasses remain correct throughout
 * [ ] Camera remains fully locked
-* [ ] Pale moon is already present at frame 0
-* [ ] Faint stars are already present at frame 0
-* [ ] Stars become visible gradually, never pop in
-* [ ] Moon brightens gradually, never teleports or moves
+* [ ] Frame 0 sky is warm golden-hour sunset, not yet twilight
+* [ ] Moon is very pale and subtle at frame 0, not prominently bright
+* [ ] A few extremely faint stars are already present at frame 0
+* [ ] The same existing stars gradually become easier to see
+* [ ] No new star appears or pops into existence
+* [ ] Moon gradually becomes slightly more visible, never teleports or jumps
 * [ ] No abrupt sunset-to-night transition
 * [ ] Opa remains clearly readable as twilight develops
 * [ ] Dialogue exactly: "Goodnight, little one." / "The stars are watching."
