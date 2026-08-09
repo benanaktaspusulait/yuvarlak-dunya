@@ -11,8 +11,8 @@ Can your child say them too?
 
 ## Reel Notes
 - Hook: Big rock vs tiny pebble — visual comedy
-- Fast rhythm: new pair every 1.5 seconds
-- 2-shot structure: Shot 01 (9s) + Shot 02 (7s) = 16s total
+- Fast rhythm: new pair every ~2 seconds
+- 2-shot structure: Shot 01 (15s) + Shot 02 (12s) = 27s total
 - Interactive: child can repeat each word
 - CTA: "Which pair is your child's favourite? ⬆️⬇️"
 - No music, voices only

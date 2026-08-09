@@ -3,14 +3,14 @@
 ## Scene Context
 | Field | Value |
 |-------|-------|
-| Shots | 01 (9s) + 02 (7s) = 16s total |
+| Shots | 01 (15s) + 02 (12s) = 27s total |
 | Location | Opa's Garden |
 | Characters | Arda, Luca |
 | Time | Bright sunny day |
 | Format | 9:16 vertical |
 
 ## Purpose
-Quick opposites lesson. Physical comedy + vocabulary. Energetic, visual, fun. Two shots to reduce per-shot generation load while keeping all dialogue.
+Quick opposites lesson. Physical comedy + vocabulary. Energetic, visual, fun. Two shots with extended timing (~2s per turn) so actions have room to breathe.
 
 ## Canonical Character Locks
 **Arda:** Boy 2-3y. Hair #281F1A, shirt #8CC9F0, trousers #CCE4F7, shoes #C79A64. Shorter.
@@ -29,7 +29,7 @@ Both objects remain attached to their respective characters throughout. They mov
 
 ## Exact Dialogue
 
-### Shot 01 (9s)
+### Shot 01 (15s)
 1. Luca: "Big!"
 2. Arda: "Small!"
 3. Luca: "Up!"
@@ -37,7 +37,7 @@ Both objects remain attached to their respective characters throughout. They mov
 5. Luca: "Fast!"
 6. Arda: "Slow!"
 
-### Shot 02 (7s)
+### Shot 02 (12s)
 7. Luca: "Happy!"
 8. Arda: "Sad!"
 9. Luca: "Loud!"
@@ -48,28 +48,31 @@ Both objects remain attached to their respective characters throughout. They mov
 
 ## Timing Breakdown
 
-### Shot 01 — 9 seconds
+### Shot 01 — 15 seconds
 
 | Time | Action | Speaker | Dialogue |
 |------|--------|---------|----------|
-| 0.0–1.5s | Luca raises big rock | Luca | "Big!" |
-| 1.5–3.0s | Arda raises tiny pebble, both grin | Arda | "Small!" |
-| 3.0–4.5s | Luca looks up at sky | Luca | "Up!" |
-| 4.5–6.0s | Arda looks down at ground | Arda | "Down!" |
-| 6.0–7.5s | Luca quick step in place | Luca | "Fast!" |
-| 7.5–9.0s | Arda slow exaggerated step | Arda | "Slow!" |
+| 0.0–2.2s | Luca raises big rock | Luca | "Big!" |
+| 2.2–4.4s | Arda raises tiny pebble, both grin, hands lower to waist-level | Arda | "Small!" |
+| 4.4–6.6s | Luca looks up at sky | Luca | "Up!" |
+| 6.6–8.8s | Arda looks down at ground | Arda | "Down!" |
+| 8.8–11.3s | Luca quick marching step in place, no screen position change | Luca | "Fast!" |
+| 11.3–14.2s | Arda slow marching step in place, no screen position change | Arda | "Slow!" at naturally slower pace |
+| 14.2–15.0s | Both settle, look toward each other | — | — |
 
-### Shot 02 — 7 seconds (uses Shot 01 final frame as @image1)
+### Shot 02 — 12 seconds (uses Shot 01 final frame as @image1)
 
 0.0s begins exactly from Shot 01's approved final pose. No character reset, pose snap, repositioning or return to neutral occurs at the cut.
 
 | Time | Action | Speaker | Dialogue |
 |------|--------|---------|----------|
-| 0.0–1.5s | Luca big happy smile | Luca | "Happy!" |
-| 1.5–3.0s | Arda silly sad face | Arda | "Sad!" |
-| 3.0–4.5s | Luca leans forward, energetic | Luca | "Loud!" |
-| 4.5–6.0s | Arda keeps pebble in lowered hand, quiet gesture with free hand | Arda | "Quiet!" |
-| 6.0–7.0s | Luca turns to camera, proud smile | Luca | "Opposites!" |
+| 0.0–0.4s | Both remain in settled final pose from Shot 01, Luca begins happy expression | — | — |
+| 0.4–2.5s | Luca warm smile | Luca | "Happy!" |
+| 2.5–4.7s | Arda playful exaggerated sad expression | Arda | "Sad!" |
+| 4.7–6.9s | Luca slight forward lean | Luca | "Loud!" |
+| 6.9–9.1s | Arda small calm gesture near chest with free hand | Arda | "Quiet!" |
+| 9.1–11.3s | Luca smoothly turns face toward camera, smiles | Luca | "Opposites!" |
+| 11.3–12.0s | Both hold final friendly pose, Arda nods | — | — |
 
 ## Negative Prompt
 ```

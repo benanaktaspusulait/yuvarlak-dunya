@@ -4,7 +4,7 @@
 | Field | Value |
 |-------|-------|
 | Shot | 02 / 02 |
-| Duration | 7 seconds |
+| Duration | 12 seconds |
 | Format | 9:16 vertical (1080×1920) |
 | Location | Opa's Garden |
 | Characters | Arda, Luca |
@@ -14,41 +14,55 @@
 
 ## Visual Prompt
 
-Duration: 7 seconds. 9:16 vertical.
+Duration: 12 seconds. 9:16 vertical.
 
-Use @image1 as the exact visual reference and frame-0 authority. @image1 is the approved final frame of Shot 01. Preserve the exact garden, characters, positions, objects, camera angle, lighting, colours and composition from @image1.
+Use @image1 as the exact visual reference and frame-0 authority. @image1 is the approved final frame of Shot 01. @image1 is the absolute authority for all visible object states at frame 0. Do not recreate, restore or reintroduce any prop that is not visible in @image1. Preserve the exact garden, characters, positions, objects, camera angle, lighting, colours and composition from @image1.
 
 Premium Pompom Hills 3D preschool animation. Rounded plush-clay shapes, soft pastel colours, matte handcrafted materials, warm morning sunlight, medium-low contrast and gentle shadows.
 
 Opa's garden. Camera at child-eye level, fully locked, no movement.
 
-Luca (taller boy, camera-left) and Arda (smaller boy, camera-right) face each other. Both still hold their respective objects: Luca holds the large rock, Arda holds the tiny pebble.
+Luca (taller boy, camera-left) and Arda (smaller boy, camera-right) stand naturally and look toward each other. Both characters have empty hands.
 
-### OBJECT PERSISTENCE — CRITICAL
+### FINAL-FRAME OBJECT STATE — CRITICAL
 
-- ONE large grey-brown rounded rock: remains securely held in Luca's hand throughout.
-- ONE tiny smooth pebble: remains securely held in Arda's hand throughout.
-
-The rock and pebble remain attached to their respective characters. They never teleport, transfer, fall, disappear, duplicate or change size.
+- Luca's hands are empty at frame 0 and remain empty throughout Shot 02.
+- Arda's hands are empty at frame 0 and remain empty throughout Shot 02.
+- ONE small pebble visible on the ground near Arda's feet is part of the static environment state inherited from @image1.
+- Neither Luca nor Arda touches, picks up, kicks, moves or interacts with this pebble.
+- Do not spawn, restore, materialise or reintroduce the previous large rock.
+- Do not move the ground pebble into a character's hand.
+- Do not create any new rocks or handheld props.
+- Preserve the exact ground-prop placement visible in @image1 unless naturally hidden by character occlusion.
 
 ### TIMING AND ACTION
 
-0.0s begins exactly from Shot 01's approved final pose. No character reset, pose snap, repositioning or return to neutral occurs at the cut. Luca begins his Happy expression naturally from the existing pose while Arda smoothly settles from his final Slow pose.
+0.0s begins exactly from Shot 01's approved final pose. No character reset, pose snap, repositioning or return to neutral occurs at the cut.
 
-0.0–1.5s:
-Luca gives a big happy smile and says: "Happy!" Warm joyful expression.
+0.0–0.4s:
+Continue exactly from @image1.
+Both characters remain in the exact settled final pose from Shot 01.
+No replay or continuation of the previous Slow action.
+No reset, pose snap or repositioning.
+Luca's happy expression begins naturally from this existing pose.
 
-1.5–3.0s:
-Arda makes a playful exaggerated sad face and says: "Sad!" Silly expression.
+0.4–2.5s:
+Luca smiles warmly and says: "Happy!" Warm joyful expression.
 
-3.0–4.5s:
-Luca leans slightly forward with energetic body language and says: "Loud!" Assertive expression.
+2.5–4.7s:
+Arda makes one playful exaggerated sad expression and says: "Sad!" Silly expression.
 
-4.5–6.0s:
-Arda keeps the pebble securely in one lowered hand and makes one small calm quiet gesture with his free hand near his chest. He says: "Quiet!" Peaceful expression.
+4.7–6.9s:
+Luca leans only slightly forward and says: "Loud!" clearly with slightly stronger natural speaking volume. Do not shout or distort the approved voice.
 
-6.0–7.0s:
-Luca turns toward camera with a proud big smile and says: "Opposites!" Arda smiles and nods beside him. Only Luca speaks in this beat. Arda does not speak. Final stable hold.
+6.9–9.1s:
+Arda makes one small calm quiet gesture with one empty hand near his chest and says: "Quiet!" gently at a softer natural speaking volume. Both hands remain free of props. Do not whisper unnaturally.
+
+9.1–11.3s:
+Luca smoothly turns his face toward camera, smiles and says: "Opposites!" Arda smiles beside him and makes ONE small nod. Only Luca speaks in this beat. Arda does not speak.
+
+11.3–12.0s:
+Both hold the final friendly pose. No speech. Stable final frame.
 
 ---
 
@@ -92,28 +106,36 @@ low quality, blur, facial distortion, dark lighting,
 scary elements, sharp edges, complex textures, photorealism,
 
 object spawning, object pop-in,
-prop teleportation, prop materialisation, prop duplication
+prop teleportation, prop materialisation, prop duplication,
+prop restoration, restoring previous rock,
+rock appearing in hand, pebble appearing in hand,
+ground pebble teleportation, picking up pebble,
+new handheld prop, object-state reset
 ```
 
 ---
 
 ## OpenArt Settings
-- Duration: 7 seconds
-- @image1: Approved final frame of Shot 01. Luca and Arda in Opa's Garden, facing each other. Rock in Luca's hand, pebble in Arda's hand.
+- Duration: 12 seconds
+- @image1: Approved final frame of Shot 01. Luca camera-left and Arda camera-right in Opa's Garden, standing naturally and looking toward each other. Both characters have empty hands. One small pebble is visible on the ground near Arda's feet. Preserve this exact frame-0 state.
 - Prompt enhancer: Off
 - Cinematic/auto camera: Off
 
 ---
 
 ## QA Checklist
-- [ ] @image1 matches Shot 01's approved final frame
-- [ ] Big rock and small pebble still held by respective characters
-- [ ] No object appears or disappears mid-shot
-- [ ] Duration is exactly 7 seconds
-- [ ] Dialogue: Happy!, Sad!, Loud!, Quiet!, Opposites! — all present
-- [ ] Only Luca says "Opposites!" — Arda smiles and nods, does not speak
-- [ ] One speaker at a time — no overlapping dialogue
-- [ ] No music at any point
-- [ ] Camera fully locked, no movement
-- [ ] Soft matte preschool style, no HDR, no gloss
-- [ ] Character identities, clothes, colours match canonical references
+- [ ] @image1 matches the approved Shot 01 final frame exactly
+- [ ] Luca begins with empty hands and keeps empty hands
+- [ ] Arda begins with empty hands and keeps empty hands
+- [ ] Small pebble remains on the ground near Arda's feet
+- [ ] Neither character interacts with the ground pebble
+- [ ] Previous large rock does not reappear
+- [ ] No new handheld prop appears
+- [ ] No prop teleportation or restoration
+- [ ] Duration remains exactly 12 seconds
+- [ ] Dialogue remains exactly: Happy!, Sad!, Loud!, Quiet!, Opposites!
+- [ ] Only Luca says "Opposites!"
+- [ ] No music
+- [ ] Camera remains fully locked
+- [ ] Soft matte preschool style, no HDR or gloss
+- [ ] Character identities and positions remain continuous with @image1

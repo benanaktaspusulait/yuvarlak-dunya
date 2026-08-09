@@ -302,6 +302,13 @@ Her format için bir klasör yapısı:
 ├── PICK_ONE/
 │   ├── EP01_APPLE_BANANA/
 │   └── EP02_BIG_SMALL/
+├── general/                     ← Genel kitle Shorts/Reels test formatları
+│   ├── DONT_DROP_IT/
+│   │   └── EP01_GIANT_ICE_CREAM/
+│   │       ├── 00-overview.md
+│   │       ├── shot-01-openart-prompt.md
+│   │       └── production-guide.md
+│   └── ... (gelecek test formatları)
 └── ...
 ```
 

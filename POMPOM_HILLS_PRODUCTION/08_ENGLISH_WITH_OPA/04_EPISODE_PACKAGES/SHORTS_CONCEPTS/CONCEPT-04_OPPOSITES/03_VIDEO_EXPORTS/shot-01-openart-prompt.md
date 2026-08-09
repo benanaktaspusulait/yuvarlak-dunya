@@ -4,7 +4,7 @@
 | Field | Value |
 |-------|-------|
 | Shot | 01 / 02 |
-| Duration | 9 seconds |
+| Duration | 15 seconds |
 | Format | 9:16 vertical (1080×1920) |
 | Location | Opa's Garden |
 | Characters | Arda, Luca |
@@ -14,7 +14,7 @@
 
 ## Visual Prompt
 
-Duration: 9 seconds. 9:16 vertical.
+Duration: 15 seconds. 9:16 vertical.
 
 Premium Pompom Hills 3D preschool animation. Rounded plush-clay shapes, soft pastel colours, matte handcrafted materials, warm morning sunlight, medium-low contrast and gentle shadows.
 
@@ -31,23 +31,28 @@ The rock and pebble remain attached to their respective characters throughout th
 
 ### TIMING AND ACTION
 
-0.0–1.5s:
+0.0–2.2s:
 Luca proudly raises the large rock and says: "Big!" Confident expression.
 
-1.5–3.0s:
-Arda proudly raises the tiny pebble and says: "Small!" Both look at each other and grin.
+2.2–4.4s:
+Arda proudly raises the tiny pebble and says: "Small!"
+Both briefly grin at each other.
+During the final part of this beat, Luca and Arda smoothly lower their object-holding hands to a relaxed waist-level position. The rock and pebble remain securely held.
 
-3.0–4.5s:
-Luca looks straight up at the sky and says: "Up!" Excited expression.
+4.4–6.6s:
+Luca looks clearly upward and says: "Up!" Excited expression.
 
-4.5–6.0s:
-Arda looks down at the ground and says: "Down!" Both smoothly return their gaze toward each other.
+6.6–8.8s:
+Arda looks clearly downward and says: "Down!" Both smoothly return their gaze toward each other.
 
-6.0–7.5s:
-Luca takes one quick small step in place and says: "Fast!" Energetic expression.
+8.8–11.3s:
+Luca performs ONE quick marching step in place without changing screen position and says: "Fast!" Energetic expression.
 
-7.5–9.0s:
-Arda takes one deliberately slow exaggerated step and says: "Slow!" in a drawn-out manner. Hold final pose for the last approximately 0.5 seconds.
+11.3–14.2s:
+Arda performs ONE clearly slow marching step in place without changing screen position and says: "Slow!" at a naturally slower speaking pace, without stretching or singing the word.
+
+14.2–15.0s:
+Both settle naturally and look toward each other. Stable final pose for Shot 02 continuity.
 
 ---
 
@@ -97,7 +102,7 @@ prop teleportation, prop materialisation, prop duplication
 ---
 
 ## OpenArt Settings
-- Duration: 9 seconds
+- Duration: 15 seconds
 - @image1: Luca and Arda in Opa's Garden, facing each other. ONE large rock in Luca's hand, ONE tiny pebble in Arda's hand. Both visible from frame 0.
 - Prompt enhancer: Off
 - Cinematic/auto camera: Off
@@ -112,7 +117,7 @@ EXACT FRAME CONTINUITY REQUIRED — Shot 02 uses this shot's approved final fram
 ## QA Checklist
 - [ ] Big rock and small pebble visible in first frame — both held in hands at frame 0
 - [ ] No object appears mid-shot
-- [ ] Duration is exactly 9 seconds
+- [ ] Duration is exactly 15 seconds
 - [ ] Dialogue: Big!, Small!, Up!, Down!, Fast!, Slow! — all present
 - [ ] One speaker at a time — no overlapping dialogue
 - [ ] No music at any point

@@ -14,9 +14,9 @@ Opa gün batımında çocuklara iyi geceler diyor. Huzurlu, sıcak, yatmadan ön
 2-5 yaş + ebeveynleri (yatmadan önce)
 
 ## Format
-- **Süre**: 20 saniye
+- **Süre**: 20 saniye (2 shot: 10s + 10s)
 - **Format**: 9:16 dikey
-- **Shot sayısı**: 1
+- **Shot sayısı**: 2
 - **Karakter**: Opa
 
 ## Konsept
