@@ -14,9 +14,9 @@
 |------|-------|
 | Format adı | DON'T DROP IT! |
 | Tür | Fiziksel komedi / micro gag |
-| Süre | 9–12 saniye |
+| Süre | 16 saniye (2 shot: 8s + 8s) |
 | Format | 9:16 dikey, 1080×1920, 24 fps |
-| Mod | Frame-to-video, tek continuous shot |
+| Mod | Frame-to-video, 2 shot continuity chain |
 | Üretim | OpenArt |
 | Dil | Minimal — sesi kapalı izlenebilir |
 | Karakter | Kiko + Opa |
@@ -42,7 +42,7 @@ sonra karakterlerin Pompom Hills olduğunu fark etmeli.
 Kiko, kendisinden neredeyse büyük, üst üste dizilmiş dev bir dondurma taşır.
 Dondurma tehlikeli biçimde yana yatmıştır. En üst top düşer, Kiko yakalayamaz,
 Opa kadraja girer, top Opa'nın kafasına/şapkasına oturur. Kiko güler, Opa
-"My ice cream?" der. Top tekrar kaymaya başlar → LOOP.
+"For me?" der. Top tekrar kaymaya başlar → LOOP.
 
 ---
 
@@ -50,20 +50,21 @@ Opa kadraja girer, top Opa'nın kafasına/şapkasına oturur. Kiko güler, Opa
 
 | Shot | Süre | İçerik |
 |------|------|--------|
-| Shot 01 | 9–12 sn | Tek continuous shot — tüm gag |
+| Shot 01 | 8 sn | Kiko + dondurma → wobble → düşüş → Opa girer → scoop seker → havada |
+| Shot 02 | 8 sn | Scoop kafaya iner → bounce → "For me?" → Kiko güler → loop |
 
-Tek shot olarak üretilir. OpenArt frame-to-video modu.
+İki shot olarak üretilir. Shot 02, Shot 01'in approved final frame'inden devam eder.
 
 ---
 
 ## Ses Planı
 
-| Zaman | Ses |
-|-------|-----|
-| 0–2 sn | Kiko: "Uh-oh…" (fısıltı, endişeli) |
-| 5–8 sn | Hafif komik "boing" top sekmesi (ambience içinde) |
-| 8–10 sn | Opa: "My ice cream?" (şaşkın, yumuşak) |
-| Kalan | Soft Central Square ambience |
+| Shot | Zaman | Ses |
+|------|-------|-----|
+| 01 | 0.5–2.0s | Kiko: "Uh-oh…" (fısıltı, endişeli) |
+| 01 | 4.0–6.5s | Hafif komik "puff" scoop sekmesi (ambience içinde) |
+| 02 | 1.5–2.5s | Opa: "For me?" (şaşkın, yumuşak) |
+| Both | Kalan | Soft Central Square ambience |
 
 Çok az diyalog. Ses kapalı izleyen de anlamalı.
 
