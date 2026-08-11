@@ -5,7 +5,7 @@
 Shot: 13/24
 Title: What Comes Next?
 Duration: 15.0 seconds
-Continuity Mode: Linked Reading Corner | Previous Reading Corner Shot 11 (@image1)
+Continuity Mode: Hold + Clean Cut | Shot 12 (@image1) → Shot 11 Learning Room (@image2)
 Block: A
 Lens: 32mm
 Camera Height: 0.75m
@@ -13,66 +13,71 @@ Aspect Ratio: 16:9
 
 ## Reference Upload Map
 
-@image1: Approved ungraded QA-passed final frame of Shot 11 — exact Reading Corner visual continuity source
-@image2: Canonical Opa character reference
-@image3: Canonical Luca character reference
-@image4: Canonical Noah character reference
+@image1: ACTUAL approved final frame of Shot 12 — exact first frame of Shot 13.
+
+@image2: ACTUAL approved Shot 11 final frame — exact Learning Room target. Opa, Luca and Noah around the open book on the yellow-leaf page. NO river visible.
+
+## Opening Transition
+
+0.0–0.70: Match @image1 exactly. Hold the ACTUAL Shot 12 final forest frame for one brief intentional beat. The pebble and pink petal remain in their exact positions. No new story action. No camera movement. No blur, defocus or dissolve.
+
+0.70: Clean direct editorial cut to @image2. @image2 is the ACTUAL approved Shot 11 final frame and exact Learning Room target state.
+
+0.70–1.00: Hold @image2 briefly so the new location settles clearly. Opa, Luca and Noah remain around the open book. No page turn yet. All mouths closed.
+
+1.00: The transition is complete. Remain entirely in the Learning Room from this point onward.
 
 ## OpenArt Video Prompt
 
-SPOKEN DIALOGUE IS MANDATORY. Generate every dialogue line exactly as written below using the manually assigned saved character voices. Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue must begin within approximately the first 0.4–0.6 seconds. If speech generation fails, do not replace speech with music or silent staring.
+SPOKEN DIALOGUE IS MANDATORY. Use assigned saved voices and every line exactly as written. Do not omit, shorten, replace, reorder or paraphrase. Dialogue begins at 1.00. Never replace failed speech with music or silence.
 
-ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
+ABSOLUTELY NO MUSIC, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
 
-Premium feature-quality stylised 3D preschool animation. Learning Room Reading Corner, warm morning sunlight from left arched windows. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Premium feature-quality stylised 3D children's storytelling animation. Warm, active, expressive, visually engaging. Canonical Reading Corner in warm morning light. Preserve the soft matte Pompom Hills look; no darkening, contrast growth, HDR, gloss or harsh shadows.
 
-Continue from @image1. 15-second performance:
+Follow the Opening Transition exactly. From 0.70 lock @image2's composition, characters, book, rug and furniture. Keep the yellow-leaf page; no river before the page turn at 10.0.
 
-0.0–0.4: All three on the rug. Book open in Opa's lap. Luca, Noah and Opa settled. All mouths closed.
+1.00–3.5: Opa speaks: "What do you think it hears?" Opa's wing cups gently toward his own ear. Luca and Noah listen with mouths closed, then look at each other.
 
-0.4–3.5: Opa looks at the children with a playful expression. Opa speaks: "What do you think it hears?" Opa's wing cups gently toward his own ear. Luca and Noah listen with mouths closed, then look at each other.
+3.5–4.1: Brief pause. All mouths closed. Luca thinks.
 
-3.5–4.0: Brief pause. All mouths closed. Luca thinks.
+4.1–5.8: Luca speaks softly: "Water?" His eyes widen as he tests the idea. Noah nods eagerly. Opa listens with mouth closed.
 
-4.0–6.0: Luca's eyes widen. Luca speaks: "Water?" Luca's voice is soft, testing the idea. Noah nods eagerly beside Luca.
+5.8–6.1: Brief pause. All mouths closed.
 
-6.0–6.5: Brief pause. All mouths closed.
+6.1–8.7: Noah speaks: "A river! A real river!" He bounces lightly on the rug, eyes wide. Luca smiles. Opa listens with mouth closed.
 
-6.5–9.5: Noah bounces on the rug. Noah speaks: "A river! A real river!" Noah's eyes are huge. Luca smiles. Opa listens with mouth closed.
+8.7–9.0: Brief pause. All mouths closed.
 
-9.5–10.0: Brief pause. All mouths closed.
+9.0–10.0: Opa smiles and speaks: "Let's see." Luca and Noah listen with mouths closed. The yellow-leaf page remains visible.
 
-10.0–12.5: Opa smiles warmly. Opa speaks: "Let's see." Opa turns a page of the book gently with his wingtip. The newly revealed illustration shows the small pebble at the near river bank, the same pink petal on or approaching the far-bank side, calm river between them, no bridge, no obvious crossing solution, no clearly readable stepping-stone route, no readable text. Luca and Noah lean in closer, mouths closed, eyes on the book.
+10.0–12.2: Opa turns one page gently with his wingtip. All mouths closed. Reveal the small pebble at the near river bank, the same pink petal on or approaching the far-bank side, and calm river between them. No bridge, obvious crossing solution, clearly readable stepping-stone route or readable text.
 
-12.5–15.0: All three look at the book with anticipation. The river/problem illustration is clearly visible. Children are slightly closer to Opa than before. Soft forward lean. Shared curiosity. End on group anticipation. No frozen hold.
+12.2–12.8: The new river illustration is fully visible. Luca and Noah lean closer.
 
-First-frame exact-match from @image1. Environment lock. Object lock (book, rug, bookshelf, lantern). Character persistence: Opa, Luca, Noah visible throughout. No character pop-in or disappearance. Single locked camera: medium group, 32mm, static.
+12.8–14.3: Luca speaks softly: "There it is — the river." Noah looks from the near bank toward the far side. Opa listens with mouth closed.
+
+14.3–15.0: Brief active anticipation. Noah leans slightly closer to inspect the crossing problem. Opa keeps the book steady. No page turn.
+
+Character persistence after 0.70. Locked medium group camera, 32mm, static. No further transition, zoom, cut or reframe.
 
 ## Voice Lock
 
-Opa: Canonical warm storyteller owl voice. Gentle, wise, measured cadence.
-Luca: Canonical curious child voice. Slightly adventurous tone.
-Noah: Canonical cheerful child voice. Energetic, bright.
+Opa: Canonical warm storyteller owl voice; gentle and measured.
+Luca: Canonical curious child voice; adventurous.
+Noah: Canonical cheerful child voice; energetic.
 Auto Voice Off. Generated Dialogue On. Generated Audio On. Music Off.
 
 ## Lip-Sync Lock
 
-Only the named speaker moves their mouth during each dialogue line. Listening characters keep mouths closed and respond with restrained eye, head, breathing, or posture reactions. No simultaneous mouth movement. No voice swapping.
+Only the named speaker moves their mouth. Listeners keep mouths closed and react through eyes, head or posture. No simultaneous mouth movement or voice swapping.
 
-Speaker mapping:
-0.4–3.5 — Opa only
-4.0–6.0 — Luca only
-6.5–9.5 — Noah only
-10.0–12.5 — Opa only
-
-## Camera
-
-Medium group. Locked 32mm, height 0.75m, static. No zoom, no cut, no reframe.
+Speaker mapping: 1.00–3.5 Opa | 4.1–5.8 Luca | 6.1–8.7 Noah | 9.0–10.0 Opa | 12.8–14.3 Luca.
 
 ## Sound
 
-Soft indoor room tone. Distant morning birds through left window. Page turn at 10.0. Gentle fabric shifts. Natural ambience only. No music.
+Forest and distant-water ambience hold through 0.70, then cut cleanly to soft room tone. Distant birds, page turn at 10.0 and gentle fabric shifts. Natural ambience only. No music.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, extra fingers, malformed hands, text, watermark, readable text, captions, subtitles, photorealistic, horror, dark lighting, harsh lighting, high contrast, contrast increase, overly saturated, saturation increase, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpened, extra sharp, colour drift, exposure drift, extra characters, missing characters, wrong characters, character redesign, environment redesign, character pop-in, character disappearance, static talking pose, frozen character, long empty pause, dead air, background music, music, melody, song, humming, percussion, soundtrack, wrong voice, voice swap, simultaneous mouth movement, missing dialogue, dialogue failure, music substitution, finger on Opa, hand on Opa, adult lecture tone, destiny language, perfect fit, it had come home
+low quality, blurry, deformed, malformed limbs, text, watermark, captions, subtitles, photorealistic, horror, harsh lighting, high contrast, oversaturation, HDR, gloss, harsh shadows, oversharpening, colour or exposure drift, extra, missing or wrong characters, character or environment redesign, character pop-in or disappearance, frozen character, long empty pause, dead air, music, song, humming, percussion, soundtrack, wrong voice, voice swap, simultaneous mouth movement, missing dialogue, music substitution, finger or hand on Opa, adult lecture tone, destiny language, perfect fit, it had come home, portal, sparkles, glowing book, blur transition, defocus transition, cross-dissolve, fade transition, magical transition, dramatic zoom, environment morphing, half-forest half-room hybrid, lingering forest after 0.70, river visible before page turn, river visible in @image2, wrong initial book page, extra page turn

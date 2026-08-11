@@ -5,43 +5,56 @@
 Shot: 12/24
 Title: There It Is!
 Duration: 15.0 seconds
-Continuity Mode: Linked Frame-to-Video | Previous imagination Shot 10 (@image1)
+Continuity Mode: Editorial Transition | Shot 11 final (@image1) → Shot 10 final (@image2)
 Block: B2 | Lens: 35mm | Aspect Ratio: 16:9
 
 ## Reference Upload Map
 
-@image1: Approved ungraded QA-passed final frame of Shot 10 — exact forest, pebble and yellow-leaf continuity source; same pink petal remains hidden beneath leaf
-@image2: Canonical pebble identity reference — warm grey-brown, smooth, matte, child-fist sized, no face
+@image1: ACTUAL approved final frame of Shot 11 — exact first frame of Shot 12.
+
+@image2: ACTUAL approved Shot 10 final frame — exact post-transition state. Same pebble, golden-yellow leaf, hidden pink petal, path and forest.
+
+## Opening Transition
+
+0.0–0.25: Match @image1 exactly. Remain on the ACTUAL Shot 11 final Learning Room frame for one brief natural beat. Opa, Luca and Noah remain around the open book. No new movement or dialogue yet.
+
+0.25–0.55: The Learning Room image begins a gentle soft defocus. Do not abruptly replace the image. The characters, book and room simply become progressively softer.
+
+0.55–1.05: Begin a slow, subtle editorial cross-dissolve while the image remains softly defocused. The forest composition from @image2 gradually becomes dominant. At the same time, gently refocus toward the forest. This must feel like a smooth professional editorial transition, not a magical transformation. NO portal, sparkles, glowing book, tunnel, swirling effect, dramatic zoom, environment morphing or half-room half-forest hybrid held on screen.
+
+1.05: The transition is fully complete. Resolve sharply and completely into @image2. From this moment onward remain entirely in the forest story world. No Learning Room elements remain visible.
 
 ## OpenArt Video Prompt
 
-SPOKEN DIALOGUE IS MANDATORY. Generate every line exactly as written using the manually assigned saved Opa voice. Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue begins at 0.5 seconds. If speech fails, do not replace it with music or silent staring.
+SPOKEN DIALOGUE IS MANDATORY. Use the assigned saved Opa voice and every line exactly as written. Do not omit, shorten, replace, reorder or paraphrase. Dialogue begins at 1.25 seconds. Never replace failed speech with music or silence.
 
-ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
+ABSOLUTELY NO MUSIC, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
 
-Premium stylised 3D preschool animation. Preserve Shot 10 forest, pebble, leaf and the same single hidden petal exactly. Preserve the soft warm matte preschool baseline; no darkening, contrast/saturation growth, oversharpening, HDR, gloss or harsh shadows.
+Premium feature-quality stylised 3D children's storytelling animation. Warm, active, expressive, visually engaging. Preserve @image2's forest, pebble, leaf and hidden petal exactly. Preserve the soft matte Pompom Hills look; no darkening, contrast growth, HDR, gloss or harsh shadows.
 
-Continue from @image1. First frame exact-match. No object may appear, disappear, duplicate, change size or change identity.
+Follow the Opening Transition exactly. From 1.05 onward lock @image2. No object may spawn, vanish, duplicate, change size or change identity.
 
-0.0–0.5: Pebble remains oriented toward the yellow leaf. Its near edge moves gently. Petal stays hidden.
+The hidden pink petal already physically exists beneath the yellow leaf from the first forest frame. Its later visibility is only a physical reveal caused by the existing leaf edge lifting.
 
-0.5–3.0: Opa narrates off-screen: "The pebble did not rush." Pebble remains attentive while the breeze touches the already-visible leaf.
+1.05–1.25: Exact @image2 forest state. Pebble remains beside the same golden-yellow leaf. The pink petal remains physically hidden beneath it. The leaf edge moves very gently.
 
-3.0–3.4: Brief breath; the leaf edge rises slightly.
+1.25–3.1: Opa narrates off-screen: "The pebble did not rush." The pebble remains still while the breeze touches the already-visible leaf.
 
-3.4–5.8: Opa narrates: "It looked carefully." A small corner of the same warm-pink petal becomes visible beneath the lifted edge.
+3.1–3.4: Brief natural breath. The near edge of the leaf rises slightly.
 
-5.8–6.2: Brief breath; breeze continues.
+3.4–5.5: Opa narrates: "It looked carefully." A small corner of the SAME warm-pink petal becomes physically visible beneath the lifted leaf edge. No spawning. No fade-in.
 
-6.2–9.2: Opa narrates: "Then it saw the petal again." The breeze lifts the leaf edge a little more and the same petal slides naturally free, then drifts forward along the path. Relief.
+5.5–5.8: Brief natural breath.
 
-9.2–9.6: Pebble turns toward the freed petal.
+5.8–8.5: Opa narrates: "Then it saw the petal again." The breeze lifts the same leaf edge a little more. The SAME petal slides naturally out, becomes fully visible, catches the breeze and begins drifting forward along the established path.
 
-9.6–12.0: Opa narrates: "And it followed." Pebble begins rolling after the petal. The yellow leaf stays behind in its original position.
+8.5–8.8: Pebble makes one small orientation shift toward the freed petal.
 
-12.0–15.0: Opa narrates: "Something new was waiting." Pebble follows the freed petal farther along the established forest path. A faint calm water sound gradually becomes audible from somewhere ahead. The pebble may orient slightly toward the sound. The source remains visually hidden — no water, no river, no shimmer. End with pebble following petal, forest ahead, distant water sound only.
+8.8–11.0: Opa narrates: "And it followed." Pebble begins rolling after the petal. The yellow leaf stays behind in its original position.
 
-Environment and object lock. Locked 35mm medium framing with one tiny forward follow after 9.6; no cut or reframe.
+11.0–15.0: Opa narrates: "Something new was waiting." Pebble and petal continue along the same established forest path. Only from 12.0, a faint calm water sound gradually becomes audible somewhere ahead. The source remains completely off-screen. NO visible river, water or water shimmer. End with forward movement toward the unseen sound.
+
+Environment and object lock. Locked 35mm medium framing with one tiny forward follow after 8.8; no cut or reframe.
 
 ## Voice Lock
 
@@ -57,4 +70,4 @@ Soft forest ambience, gentle breeze and leaf rustle; faint calm water begins nea
 
 ## Negative Prompt
 
-missing dialogue, omitted line, wrong voice, music substitution, background music, HDR, gloss, oversharpening, colour drift, environment redesign, leaf moving location, petal spawning, petal duplication, multiple petals, changed petal colour size shape or material, glowing petal, magical reveal, sparkle, face on pebble, face on leaf, teleporting pebble, object morphing, sudden camera move
+missing dialogue, omitted line, wrong voice, music substitution, background music, HDR, gloss, oversharpening, colour drift, environment redesign, leaf moving location, petal spawning, petal duplication, multiple petals, changed petal colour size shape or material, glowing petal, magical reveal, sparkle, face on pebble, face on leaf, teleporting pebble, object morphing, sudden camera move, long transition, transition scene, portal, glowing book, half-classroom half-forest hybrid, lingering Learning Room after 1.05 seconds, petal fade-in, petal materialising beneath leaf, visible river, visible water, water shimmer

@@ -5,79 +5,69 @@
 Shot: 14/24
 Title: The River
 Duration: 15.0 seconds
-Continuity Mode: Fresh River Take Shot — quality reset and new imagination block
-Block: B
-Lens: 35mm
-Aspect Ratio: 16:9
+Continuity Mode: Soft Editorial Transition | Shot 13 final (@image1) → approved River target (@image2)
+Block: B | Lens: 35mm | Aspect Ratio: 16:9
 
 ## Reference Upload Map
 
-@image1: Approved gentle river environment — calm shallow water, soft far bank with grass and wildflowers
-@image2: Small round pebble reference (warm grey-brown, smooth, matte, NO face)
-@image3: Approved canonical single-petal appearance from Shot 03 anchor — warm pink, matte, natural, same size and shape
+@image1: ACTUAL approved final frame of Shot 13 — exact first frame of Shot 14. Learning Room with canonical Opa, Luca and Noah; book open to the river-problem illustration.
 
-## Start-Frame Source
+@image2: APPROVED Shot 14 River target frame — exact visual destination after the transition. Same simple faceless warm grey-brown pebble stopped at the near bank; same single warm-pink petal already on the far-bank side; calm shallow river between them; forest path arriving at the near bank; soft grassy far bank; natural stepping stones physically present and individually visible but NOT reading as an obvious connected route; warm soft matte Pompom Hills lighting; no characters or bridge.
 
-Fresh River Take Shot. Forest path meets near bank. Hint of forest terrain behind pebble. Pebble just arrived at near bank. Same pink petal at near edge of water, beginning to drift. River revealed for first time. Stepping stones exist from first frame but appear subtle — wet tops, reflections, disconnected perspective. No spawn later.
+## Opening Transition
 
-## 
-## OpenArt Start-Frame Prompt
+0.00–0.25: Match @image1 exactly. Hold the ACTUAL Shot 13 final Learning Room frame briefly. Opa, Luca and Noah remain around the open book. No page turn, dialogue or camera movement.
 
-Premium 3D preschool animation. Forest path meets gentle shallow river bank. Hint of same forest behind. Calm clear water, soft far bank. Flat stepping stones cross the water but appear subtle from this angle — wet tops, reflections, disconnected. Warm morning light, matte textures. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows. Medium-wide framing. 35mm, static. Pebble at near bank at path edge. Pink petal at near edge of water, beginning to drift. Stepping stones physically present but visually subtle. No characters. No text.
+0.25–0.70: Begin a clearly visible, gentle progressive defocus. The Learning Room, characters and book gradually become softer. Do NOT cut to the river yet. The blur must progress visibly, not happen instantly.
+
+0.70–1.15: While the Learning Room remains softly defocused, begin a short smooth editorial cross-dissolve toward @image2. The river gradually becomes dominant while focus gently shifts toward it. Do NOT abruptly replace @image1 with @image2.
+
+1.15: The Learning Room is completely gone. @image2 fills the full frame.
+
+1.15–1.40: Finish refocusing until @image2 is fully sharp and stable. No Learning Room elements remain. From 1.40 onward remain entirely in the river story world. Normal editorial transition only: NO portal, sparkles, glowing book, tunnel, swirling effect, magical transformation or environment morphing.
 
 ## OpenArt Video Prompt
 
+Spoken dialogue is required. Use the assigned saved Opa voice. Speak every line exactly as written. Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue begins at 1.40. Do not replace speech with silence or music.
 
-## OpenArt Video Prompt
+ABSOLUTELY NO MUSIC, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
 
-SPOKEN DIALOGUE IS MANDATORY. Generate every dialogue line exactly as written below using the manually assigned saved character voice (Opa off-screen narration). Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue must begin within approximately the first 0.4–0.6 seconds. If speech generation fails, do not replace speech with music or silent staring.
+Premium feature-quality stylised 3D children's storytelling animation. Warm, active, expressive, visually engaging. Gentle shallow river in warm morning light. Preserve the soft matte Pompom Hills look; no darkening, contrast growth, HDR, gloss or harsh shadows.
 
-ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
+Follow the Opening Transition exactly. From 1.40 lock @image2's river state. The petal is already on the far bank and does NOT cross. Stones remain physically present and individually visible but not an obvious connected route. They never spawn, rise, move or multiply.
 
-Premium feature-quality stylised 3D preschool animation. Gentle river, warm morning light. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+1.40–3.30: Opa narrates off-screen: "There was a river." Pebble remains at the near bank. The calm shallow river separates it from the far side.
 
-Off-screen Opa narration voice: Use Opa's canonical warm storyteller owl voice. NOT a generic narrator voice.
+3.30–5.80: Opa narrates: "And the petal was already across." The SAME pink petal gives one tiny natural flutter on the far bank. It does NOT cross during this shot.
 
-Continue from the approved Start-Frame image. Stepping stones exist from first frame but appear subtle — reflections and perspective disguise them. They do not appear, rise, move or multiply. 15-second performance:
+5.80–8.80: Opa narrates: "How would it get across?" Pebble remains oriented toward the river. No bridge or obvious complete route. Existing stones remain individually visible but visually disconnected.
 
-0.0–0.4: River scene established. Pebble at near bank where forest path meets water. Pink petal at near edge, beginning to drift. Forest hint behind.
+8.80–11.60: Opa narrates: "It couldn't swim." Brief natural breath. "It couldn't fly." Pebble remains at the bank.
 
-0.4–3.0: Opa narrates: "There was a river." Gentle river stretches ahead — clear, calm, shallow, wide. A real obstacle.
+11.60–12.00: Brief natural pause. Calm river movement continues.
 
-3.0–6.0: Opa narrates: "And the petal was already across." Pebble at water's edge. Pink petal drifts across the water surface, settles on far bank. The pebble is alone on this side.
+12.00–15.00: Opa narrates: "It didn't know." One gentle ripple passes around the nearest existing stone. A few wet stone surfaces briefly catch soft light but still do NOT read as an obvious connected route. The far-bank petal gives one small natural flutter. End with pebble at near bank, petal on far bank, river between them, subtle existing stepping stones and the crossing unresolved.
 
-6.0–9.5: Opa narrates: "How would it get across?" Pebble faces the water. No bridge, no obvious crossing. Stepping stones remain subtle.
-
-9.5–12.0: Opa narrates: "It couldn't swim." A pause. "It couldn't fly." Pebble still at bank. The challenge is real.
-
-12.0–15.0: Opa narrates: "It didn't know." Pebble facing river. Petal on far bank. End on the quiet challenge — the biggest one yet.
-
-First-frame exact-match from Start-Frame. Environment and object lock. Single locked camera: medium-wide, 35mm, static.
+Environment and object lock. Medium-wide locked 35mm camera, static. No further transition, cut, zoom or reframe.
 
 ## Voice Lock
 
-Opa off-screen: Canonical warm storyteller owl voice. NOT generic narrator.
-Auto Voice Off. Generated Dialogue On. Generated Audio On. Music Off.
+Opa off-screen: Canonical warm storyteller owl voice, not a generic narrator. Auto Voice Off. Generated Dialogue On. Generated Audio On. Music Off.
 
 ## Lip-Sync Lock
 
-Off-screen narration. No visible character mouths. Pebble has no face.
+Off-screen Opa narration only. No visible mouths. Pebble has no face. No voice swap.
 
-Speaker mapping:
-0.4–3.0 — Opa off-screen only
-3.0–6.0 — Opa off-screen only
-6.0–9.5 — Opa off-screen only
-9.5–12.0 — Opa off-screen only
-12.0–15.0 — Opa off-screen only
-
-## Camera
-
-Medium-wide. Locked 35mm, static. No zoom, no cut, no reframe.
+Speaker mapping: 1.40–3.30 Opa | 3.30–5.80 Opa | 5.80–8.80 Opa | 8.80–11.60 Opa | 12.00–15.00 Opa.
 
 ## Sound
 
-River ambience: calm shallow water, soft ripples. Distant birds. Light breeze. Natural ambience only. No music.
+0.00–0.25: Soft Learning Room ambience.
+
+0.25–1.40: Learning Room ambience gradually fades down while calm river ambience gradually fades in. No abrupt audio cut.
+
+By 1.40 only soft shallow-water ambience, gentle ripples, distant birds and light breeze remain. No magical transition sound, whoosh, chime or music.
 
 ## Negative Prompt
 
-low quality, blurry, text, watermark, captions, photorealistic, harsh lighting, high contrast, contrast increase, overly saturated, saturation increase, HDR, glossy, glossy plastic, harsh highlights, harsh shadows, oversharpened, extra sharp, colour drift, exposure drift, dark water, deep water, dangerous river, rapids, face on pebble, eyes, mouth, arms, legs, magical pebble, sparkles, multiple petals, changed petal identity, wrong voice, missing dialogue, background music, music, object spawning, morphing, environment redesign, bridge appearing, new stones appearing, existing stones moving or vanishing, teleporting pebble, obvious stepping-stone path, clear crossing route visible, stones arranged in a straight line
+missing dialogue, omitted or paraphrased line, wrong voice, music, soundtrack, music substitution, hard cut, instant scene replacement, abrupt transition, single-frame location switch, instant focus change, instant defocus, transition shorter than intended, portal, sparkles, glowing book, magical transition, environment morphing, half-room half-river hybrid, lingering Learning Room after 1.40, petal at near bank, petal crossing river, petal teleporting, multiple petals, changed petal identity, object spawning, new stones appearing, stones moving or vanishing, stones completely invisible, obvious stepping-stone route, straight-line crossing route, bridge, face or limbs on pebble, deep water, rapids, dangerous river, environment redesign, HDR, gloss, oversaturation, oversharpening, colour drift, sudden camera move
