@@ -5,7 +5,7 @@
 Shot: 06/24
 Title: Children React
 Duration: 15.0 seconds
-Continuity Mode: Frame-to-Video | Previous: Shot 04 (@image1)
+Continuity Mode: Frame-to-Video | Previous: Shot 05C (@image1)
 Block: A
 Lens: 32mm
 Camera Height: 0.75m
@@ -13,10 +13,8 @@ Aspect Ratio: 16:9
 
 ## Reference Upload Map
 
-@image1: Last approved ungraded QA-approved final frame of Shot 04 — visual continuity authority
-@image2: Canonical Opa character reference
-@image3: Canonical Luca character reference
-@image4: Canonical Noah character reference
+@image1: Approved final frame of Shot 05C — sole visual continuity authority for Reading Room composition, character positions, open-book state with updated hill illustration, lighting and camera framing
+@image2: Canonical Opa reference | @image3: Canonical Luca reference | @image4: Canonical Noah reference
 
 ## OpenArt Video Prompt
 
@@ -24,17 +22,22 @@ SPOKEN DIALOGUE IS MANDATORY. Generate every dialogue line exactly as written be
 
 ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
 
-Premium feature-quality stylised 3D preschool animation. Learning Room Reading Corner, warm morning sunlight from left arched windows. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Premium feature-quality stylised 3D children's storytelling animation. Warm, active, expressive, visually engaging. Learning Room Reading Corner, warm morning sunlight from left arched windows. Preserve the soft warm matte baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
 
 Continue from @image1. 15-second performance:
 
-0.0–0.4: All three on the rug, book open in Opa's lap. Noah, Luca and Opa settled. All mouths closed.
+0.0–0.4:
+Exact @image1 state.
+Opa holds the already-open picture book in both rounded wings exactly as established in @image1.
+Luca remains screen-left and Noah screen-right, both already leaned toward the book.
+Do not lower, raise, close, reopen or reposition the book.
+All mouths closed.
 
-0.4–3.0: Noah bounces excitedly on the rug. Noah speaks: "It moved! It followed the petal!" Noah's hands clap together. Opa and Luca listen with mouths closed.
+0.4–3.0: Noah gives one small excited seated bounce and one quick clap. He does not stand up or change his established screen position. Noah speaks: "It moved! It followed the petal!" Opa and Luca listen with mouths closed.
 
 3.0–3.5: Brief pause. All mouths closed.
 
-3.5–6.5: Luca nods, smiling with genuine understanding. Luca speaks: "It wanted to know where it came from." Luca's expression shows quiet insight. Noah and Opa listen with mouths closed. Opa tilts his head slightly.
+3.5–6.5: Luca nods, thinking. Luca speaks: "Maybe it wanted to find the flower." Luca's expression shows quiet curiosity — a guess, not a certainty. Noah and Opa listen with mouths closed. Opa tilts his head slightly.
 
 6.5–7.0: Brief pause. All mouths closed.
 
@@ -42,7 +45,7 @@ Continue from @image1. 15-second performance:
 
 9.5–10.0: Brief pause. All mouths closed.
 
-10.0–13.0: Opa speaks: "The path went through the trees... and up." Opa's wing tilts gently upward above the book. Luca and Noah listen with mouths closed. Both children's eyebrows lift.
+10.0–13.0: Opa speaks: "The path went through the trees... and up." Opa keeps the book supported and makes one very small upward indicating motion with the edge of one wingtip, without changing the book position. The existing open-book illustration remains unchanged and already shows the same established path beginning to rise, with rounded roots along the sides and the same pink petal farther upslope. No new objects appear and no readable text is generated. Luca and Noah listen with mouths closed. Both children's eyebrows lift.
 
 13.0–14.0: Brief pause. All mouths closed.
 
@@ -70,11 +73,17 @@ Speaker mapping:
 
 ## Camera
 
-Medium group. Locked 32mm, height 0.75m, static. No zoom, no cut, no reframe.
+Preserve the exact @image1 framing and camera distance.
+Locked tight-medium group composition.
+No opening reframe.
+No zoom-out.
+No zoom-in.
+No cut.
+No camera reset.
 
 ## Sound
 
-Soft indoor room tone. Distant morning birds through left window. Rug compression as Noah bounces. Gentle fabric shifts. Natural ambience only. No music.
+Soft indoor room tone. Distant morning birds through left window. Subtle fabric shift as Noah bounces seated. Gentle fabric shifts. Natural ambience only. No music.
 
 ## Negative Prompt
 

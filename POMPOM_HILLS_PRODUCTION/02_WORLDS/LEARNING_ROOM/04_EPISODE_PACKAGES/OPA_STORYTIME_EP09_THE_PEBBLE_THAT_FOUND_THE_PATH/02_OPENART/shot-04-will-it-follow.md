@@ -30,7 +30,7 @@ Continue from @image1. 15-second performance:
 
 0.0–0.4: Opa holds the open picture book. Luca and Noah lean forward on the rug, both oriented toward the book. All mouths closed. Soft warm matte lighting.
 
-0.4–2.8: Luca leans forward, studying the page. Luca speaks: "Will it follow the petal?" Luca's voice is curious — he's thinking. Noah and Opa listen with mouths closed.
+0.4–2.8: Luca remains leaned toward the open book and studies the page more closely. Luca speaks: "Will it follow the petal?" Luca's voice is curious — he's thinking. Noah and Opa listen with mouths closed.
 
 2.8–3.2: Brief pause. All mouths closed.
 
@@ -38,7 +38,7 @@ Continue from @image1. 15-second performance:
 
 4.4–4.8: Brief pause. All mouths closed.
 
-4.8–7.5: Opa speaks: "It doesn't know yet." A small pause. Then: "But something made it look." Opa's wingtip gestures gently toward the petal on the page. Luca and Noah lean slightly closer.
+4.8–7.5: Opa speaks: "It doesn't know yet." A small pause. Then: "But something caught its attention." Opa's wingtip gestures gently toward the petal on the page. Luca and Noah lean slightly closer.
 
 7.5–7.9: Brief pause. All mouths closed.
 
@@ -46,9 +46,11 @@ Continue from @image1. 15-second performance:
 
 9.2–9.6: Brief pause. All mouths closed.
 
-9.6–11.4: Opa speaks: "Let's see." Opa begins a gentle page turn. Luca and Noah follow the page with their eyes.
+9.6–11.4: Opa speaks: "Let's see." Opa begins one gentle physical page turn. Luca and Noah follow the page with their eyes.
 
-11.4–15.0: The page turn completes and all three lean toward the new illustration. Luca and Noah exchange a curious glance. End in active story progression, not a silent hold.
+11.4–13.0: The page turn completes naturally. The newly revealed illustration shows: the same small pebble at the forest fork, the same single warm-pink petal resting farther along the right-hand path, the right-hand route continuing ahead, no new objects, no readable text.
+
+13.0–15.0: Luca and Noah study the new illustration. Noah shifts slightly closer. Luca glances from the pebble to the petal. Opa keeps the book steady. End on active anticipation. The book page remains fully open and stable. No additional page turn.
 
 First-frame exact-match from @image1. Environment lock. Object lock (book, rug, bookshelf, lantern). Character persistence: Opa, Luca, Noah visible throughout. No character pop-in or disappearance. Single locked camera: medium group, 32mm, static.
 

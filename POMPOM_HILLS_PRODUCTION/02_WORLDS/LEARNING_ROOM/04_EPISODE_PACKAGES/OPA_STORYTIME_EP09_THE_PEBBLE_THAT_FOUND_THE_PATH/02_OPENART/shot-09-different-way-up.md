@@ -5,47 +5,122 @@
 Shot: 09/24
 Title: A Different Way Up
 Duration: 15.0 seconds
-Continuity Mode: Linked Frame-to-Video | Previous imagination Shot 07 (@image1)
+Continuity Mode: Linked Frame-to-Video | Previous transition Shot 08A (@image1)
 Block: B
 Lens: 35mm
 Aspect Ratio: 16:9
 
 ## Reference Upload Map
 
-@image1: Approved ungraded QA-passed final frame of Shot 07 — exact hill, curved-root path, pebble and single-petal visual continuity source
-@image2: Canonical pebble identity reference — warm grey-brown, smooth, matte, child-fist sized, no face
+@image1: Approved final frame of Shot 08A — exact first frame of Shot 09 and sole visual continuity authority for forest path, curved route, pebble position, rounded roots and single pink petal
 
 ## OpenArt Video Prompt
 
-SPOKEN DIALOGUE IS MANDATORY. Generate every dialogue line exactly as written below using the manually assigned saved character voice (Opa off-screen narration). Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue must begin within approximately the first 0.4–0.6 seconds. If speech generation fails, do not replace speech with music or silent staring.
+SPOKEN DIALOGUE IS MANDATORY.
+Use Opa's canonical warm storyteller owl voice as off-screen narration only.
+Do not omit, shorten, replace, reorder or paraphrase any line.
+Dialogue must begin within approximately the first 0.4–0.6 seconds.
+No music of any kind.
 
-ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
+Premium feature-quality stylised 3D children's storytelling animation.
+Warm, active, expressive, visually engaging.
+Dreamy soft forest, warm morning dappled light.
+Preserve the soft warm matte Pompom Hills visual baseline while keeping the performance active and expressive.
 
-Premium feature-quality stylised 3D preschool animation. Dreamy soft forest hill, warm morning dappled light. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Continue from @image1 exactly.
+The first frame must match @image1 exactly.
 
-Off-screen Opa narration voice: Use Opa's canonical warm storyteller owl voice. NOT a generic narrator voice.
+Important continuity rules:
+- the forest path, curved route and rounded roots visible in @image1 remain the same physical environment
+- the pebble and pink petal positions match @image1 exactly
+- no object spawning, no environment morphing
 
-Continue from @image1. Preserve the same hill, roots, curved route, pebble and petal; do not regenerate the forest. 15-second performance:
+15-second performance:
 
-0.0–0.4: Medium-wide. Pebble at the base of the curved path. Pink petal near the hilltop. Warm dappled morning light.
+0.0–0.4:
+Exact @image1 state.
+Pebble at the start of the gentler curved route.
+Pink petal farther ahead.
+Rounded roots visible.
+All quiet.
 
-0.4–3.0: Opa narrates off-screen: "It found a gentler way." Pebble rolls onto the curved path, moving smoothly around the first root. Much easier than the straight middle of the gentle slope.
+0.4–3.0:
+Opa narrates:
+"It found a gentler way."
 
-3.0–3.5: Brief pause. Forest ambience continues.
+Pebble rolls onto the curved path, moving smoothly around the first root.
+Much easier than the straight middle of the gentle slope.
 
-3.5–6.5: Opa narrates: "Little turn by little turn." Pebble follows the curve, gaining height steadily. Morning light shifts gently.
+3.0–3.5:
+Brief natural pause.
 
-6.5–7.0: Brief pause. Forest ambience continues.
+3.5–6.5:
+Opa narrates:
+"Little turn by little turn."
 
-7.0–9.5: Opa narrates: "The petal was still there." Pebble is halfway around. Pink petal visible near the hilltop — it had drifted further up. A soft pink shape against green.
+Pebble follows the already-existing curve, gaining height steadily.
+The same pink petal moves only slightly farther ahead with one soft breeze, remaining continuously visible throughout.
+Its movement is gradual and physically continuous. No teleporting.
+Dappled light shifts subtly from moving leaves while overall exposure, contrast and colour remain unchanged.
 
-9.5–10.0: Brief pause. Forest ambience continues.
+6.5–7.0:
+Brief natural pause.
 
-10.0–13.0: Opa narrates: "And at the top..." Pebble reaches the hilltop. Forest opens slightly. Petal drifts gently ahead. A faint unfamiliar distant sound begins — calm, soft, barely audible. The source is NOT visible.
+7.0–9.5:
+Opa narrates:
+"The petal was still there."
 
-13.0–15.0: Opa narrates: "It heard something new." Pebble rests at the hilltop. The same pink petal continues down the forest path. Farther ahead on that same path, one large soft rounded yellow fallen leaf is already visible lying partly across the path. It is simply part of the environment at this point — no special emphasis. The faint distant sound continues. No water, no river, no shimmer visible.
+Pebble continues around the curved route.
+The same pink petal remains continuously visible farther ahead near the upper section of the hill.
+It does not change position suddenly.
 
-First-frame exact-match from @image1. Environment and object lock. Single continuous camera: 35mm, no cuts, no sudden angle changes, no uncontrolled reframe. Stable medium-wide framing during the climb. Near the end, one very subtle controlled emphasis toward the direction of the distant sound is allowed, but do NOT reveal water.
+9.5–10.0:
+Brief natural pause.
+
+10.0–12.5:
+Opa narrates:
+"And at the top..."
+
+The pebble reaches the top of the gentle hill.
+The next stretch of the same physical forest path already exists beyond the hilltop, outside the initial visible crop.
+As the pebble reaches the top and the camera follows, this already-existing continuation gradually comes into view.
+No new terrain forms. No new path appears. No environment morphing.
+The same pink petal catches another small breeze and continues along the established forest path ahead.
+
+12.5–15.0:
+Opa narrates:
+"The petal kept going."
+
+The pebble begins following.
+Farther ahead, one large soft rounded yellow fallen leaf already lies partly across the path.
+The pink petal drifts toward the area near that yellow leaf.
+Do NOT hide the petal yet.
+Do NOT emphasise the yellow leaf as important yet.
+
+End with:
+- pebble at / just beyond the hilltop,
+- pink petal moving ahead,
+- yellow fallen leaf already physically present farther along the path,
+- clear forward momentum into the next mystery.
+
+The large soft rounded yellow fallen leaf physically exists farther along the same path from the beginning of the shot, outside the initial camera crop. It becomes visible only after the pebble reaches the hilltop and the camera follows forward. The yellow leaf does not fall into frame, spawn, materialise or move into position.
+
+## Critical Final-Frame Composition
+
+At 15.0 seconds, ALL THREE story elements must remain clearly visible in the same frame:
+1. the pebble at or just beyond the hilltop,
+2. the same single warm-pink petal farther ahead on the path,
+3. the large soft rounded yellow fallen leaf farther ahead near the petal.
+
+Do not track so far forward that the pebble leaves the frame.
+Do not crop out the pink petal.
+Do not crop out the yellow leaf.
+
+The pink petal must still be fully visible and NOT hidden beneath the yellow leaf.
+The yellow leaf remains stationary.
+
+Final visual story relationship must read clearly as:
+PEBBLE → PINK PETAL → YELLOW LEAF
 
 ## Voice Lock
 
@@ -54,18 +129,23 @@ Auto Voice Off. Generated Dialogue On. Generated Audio On. Music Off.
 
 ## Lip-Sync Lock
 
-Off-screen narration only. No visible mouths. Pebble has no face.
+Off-screen narration only. No visible mouths. Pebble appearance matches @image1.
 
-Speaker mapping: 0.4–3.0, 3.5–6.5, 7.0–9.5, 10.0–13.0, 13.0–15.0 — Opa off-screen only.
+Speaker mapping: 0.4–3.0, 3.5–6.5, 7.0–9.5, 10.0–12.5, 12.5–15.0 — Opa off-screen only.
 
 ## Camera
 
-Single continuous camera. 35mm. No cuts, no sudden angle changes, no uncontrolled reframe. Stable medium-wide framing during the climb. Near the end, one very subtle controlled emphasis toward the direction of the distant sound, but do NOT reveal water.
+Single continuous camera. 35mm. No cuts. No sudden angle changes. No uncontrolled reframe.
+Stable medium-wide framing during the climb.
+After approximately 10.0 seconds, one gentle controlled tracking follow as the pebble moves beyond the hilltop.
+No additional camera movement.
 
 ## Sound
 
-Forest ambience: gentle leaves, light breeze, distant birds. Soft rolling on moss. Faint calm distant sound emerging near 10.0 — source not visible. No music. Ambience stays low under narration.
+Forest ambience: gentle leaves, light breeze, distant birds.
+Soft rolling over the packed-earth path and gently around rounded roots.
+No music. Ambience stays low under narration.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, captions, photorealistic, dark forest, harsh lighting, high contrast, contrast increase, overly saturated, saturation increase, oversharpened, extra sharp, colour drift, exposure drift, glossy plastic, harsh highlights, harsh shadows, HDR, glossy, characters, people, face on pebble, eyes, mouth, arms, legs, magical pebble, sparkles, glowing, dangerous terrain, cliff, steep slope, visible water, visible river, water shimmer, wrong voice, missing dialogue, background music, music, melody, object spawning, teleporting
+low quality, blurry, deformed, text, watermark, captions, photorealistic, dark forest, harsh lighting, high contrast, contrast increase, overly saturated, saturation increase, oversharpened, extra sharp, colour drift, exposure drift, glossy plastic, harsh highlights, harsh shadows, HDR, glossy, characters, people, face on pebble, eyes on pebble, mouth on pebble, arms on pebble, legs on pebble, anthropomorphic pebble, magical pebble, sparkles, glowing, dangerous terrain, cliff, steep slope, visible water, visible river, water shimmer, water sound, wrong voice, missing dialogue, background music, music, melody, object spawning, teleporting, path spawning, yellow leaf spawning, leaf appearing suddenly, pebble out of frame, petal out of frame, yellow leaf out of frame, petal hidden too early, petal under leaf, excessive camera tracking, empty landscape final frame

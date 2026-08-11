@@ -1,69 +1,164 @@
 # OPENART PRODUCTION PROMPT — SHOT 03
 
 ## Production Metadata
-Shot: 03/24 | Title: Pebble Wakes / Petal Moves | Duration: 15.0s | Block: B | Lens: 35mm
-Continuity Mode: Fresh World Anchor — imagination scene requires new environment anchor
+
+Shot: 03/24 | Title: Pebble Wakes, Petal Moves | Duration: 15.0s | Continuity Mode: Fresh Imagination Anchor with book-motivated transition
+Block: A | Lens: 40mm | Camera Height: low woodland close-up | Aspect Ratio: 16:9
 
 ## Reference Upload Map
-@image1: Approved forest floor environment — dreamy preschool nature, warm dappled light, rounded trees
-@image2: Small round pebble reference (warm grey-brown, smooth, matte, child-fist sized, NO face, NO eyes, NO mouth)
 
-## Start-Frame Source
-Generate a new approved clean start-frame for the forest imagination scene. The single warm-pink petal must be visible beside the pebble from the first frame.
+@image1: Approved final frame of Shot 02 — transition/context reference only
+@image2: Approved Shot 03 first frame — sole visual authority for Shot 03 forest composition and story state
 
-## OpenArt Start-Frame Prompt
-Premium 3D preschool animation. Dreamy forest floor. Soft rounded trees, dappled warm sunlight. Fallen leaves in warm orange and yellow. Mossy ground. Pastel palette, matte textures. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+## Reference Logic
 
-Close-up. 35mm, static. A small round pebble (warm grey-brown, matte, NO face) rests among fallen leaves. Beside it, a single soft warm-pink flower petal. Rounded, matte, natural. Not glowing. Not magical.
+Use @image1 only to preserve transition logic from the Reading Corner:
+- the book is already open,
+- Opa, Luca and Noah are looking into the story,
+- the audience should feel that the next image comes from the book world.
 
-No characters. No text.
+Do NOT continue visually in the Learning Room.
+
+Use @image2 as the sole visual authority for:
+- first frame composition,
+- forest environment,
+- pebble position,
+- pink petal position,
+- lighting,
+- scale,
+- lens feel,
+- camera framing,
+- visual style.
+
+The first frame of Shot 03 must match @image2 exactly.
+
+Opa, Luca and Noah must NOT appear in Shot 03.
+No Learning Room elements.
+No book edges.
+No page border.
+No dissolve overlay.
+No half-room / half-forest blend.
+
+This is a clean cut from the book world into the imagination world.
 
 ## OpenArt Video Prompt
 
-SPOKEN DIALOGUE IS MANDATORY. Generate every dialogue line exactly as written below using the manually assigned saved character voice (Opa off-screen narration). Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue must begin within approximately the first 0.4–0.6 seconds. If speech generation fails, do not replace speech with music or silent staring.
+SPOKEN DIALOGUE / NARRATION IS MANDATORY.
+Use the manually assigned saved Opa voice exactly as written.
+Do not omit, shorten, paraphrase or replace lines.
+No music of any kind.
 
-ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
+Premium 3D animated children's storytelling.
+Soft warm forest floor in the Pompom Hills imagination world.
+Mossy ground, rounded leaves, soft earth, gentle dappled morning light, warm matte materials, low-to-medium contrast, no gloss, no HDR, no harsh shadows, no oversharpening.
 
-Premium feature-quality stylised 3D preschool animation. Dreamy soft forest, warm dappled light. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Continue from @image2 exactly.
+@image2 is the exact first frame and the sole authority for visual continuity in this shot.
 
-Off-screen Opa narration voice: Use Opa's canonical warm storyteller owl voice. NOT a generic narrator voice.
+The scene begins already inside the imagination world.
+The emotional logic should feel like:
+the storybook illustration has become the full scene.
 
-Continue from the approved Start-Frame image. 15-second performance:
+Important world-state rules:
+- one small rounded pebble only,
+- one single warm-pink petal only,
+- both pebble and petal exist from the first frame,
+- no object spawning,
+- no environment morphing,
+- no appearing path during the shot,
+- no appearing leaf piles during the shot.
 
-0.0–0.5: Close-up. Pebble rests among leaves. Pink petal beside it. Warm light shifts gently. All quiet.
+The two forest paths physically exist in the wider environment from the first frame, but remain outside the initial close-up crop.
+The pull-back later only reveals the already-existing wider forest layout.
+The paths must not form, split, grow or suddenly appear.
 
-0.5–3.5: Opa narrates off-screen: "Something small stirred beneath the leaves." The pebble trembles slightly — a subtle waking motion. The pink petal catches a gentle breeze and lifts off the ground.
+15-second performance:
 
-3.5–6.5: Opa narrates: "It didn't know where it was. Then something pink moved beside it." The petal drifts upward slowly. The pebble remains still, subtly oriented toward the movement.
+0.0–0.5:
+Exact @image2 first frame.
+A tiny rounded pebble rests beneath soft forest leaves.
+The same warm-pink petal lies nearby.
+Everything still.
+No characters from the Reading Corner.
+No room elements.
 
-6.5–10.0: Opa narrates: "Then the breeze took it." Camera pulls back gently to medium-wide. The two forest paths physically exist in the environment from the first frame but remain outside the initial close-up crop. The controlled pull-back only reveals this already-existing wider layout. The paths do not form, grow, split or appear during the shot. The breeze carries the pink petal toward the right-hand path. The petal drifts softly, naturally.
+0.5–3.5:
+Opa narrates:
+"Something small stirred beneath the leaves."
 
-10.0–13.0: Opa narrates: "Floating away. Down the path." The pebble tilts slightly toward the drifting petal. The petal floats down the right path and settles gently on the ground ahead.
+A gentle breeze begins naturally near 0.8.
+The pink petal lifts softly from the ground and drifts upward a little.
+The pebble gives a tiny waking movement.
+No sudden jump.
 
-13.0–15.0: Opa narrates: "Where did it come from?" The pebble remains still at the fork. The petal rests on the right path. End on the pebble oriented toward the petal — a small silent question.
+3.5–6.5:
+Opa narrates:
+"It didn't know where it was. Then something pink moved beside it."
 
-First-frame exact-match from Start-Frame. Environment lock. Object lock (pebble, petal, trees, leaves). Single continuous camera: 35mm, no cuts, no sudden angle change, no uncontrolled reframe, no pan, no tilt, no random zoom. One slow controlled pull-back from close-up to medium-wide between 6.5–10.0 only. After the pull-back, camera remains stable.
+The pebble subtly orients toward the drifting petal.
+The petal continues a soft small drift.
+The environment remains intimate and close.
+
+6.5–10.0:
+Opa narrates:
+"The forest opened into two little paths."
+
+Camera performs one gentle controlled pull-back to a medium-wide view.
+This reveals the already-existing wider forest layout:
+two soft rounded forest paths diverging left and right.
+The paths do NOT appear or grow; they are only revealed by the wider framing.
+The pink petal drifts toward the right-hand path.
+
+10.0–12.8:
+Opa narrates:
+"The pink petal settled on the right."
+
+The petal comes to rest naturally on the right-hand path.
+The pebble remains near the fork, facing the petal.
+
+12.8–15.0:
+Opa narrates:
+"Would it follow?"
+
+The pebble makes one tiny curious forward lean / micro-roll intention toward the right-hand path, but does not fully begin the journey yet.
+End with:
+- pebble at the fork,
+- petal resting on the right-hand path,
+- both visible,
+- two paths established,
+- right-path choice clearly set up for Shot 05.
 
 ## Voice Lock
-Opa off-screen: Canonical warm storyteller owl voice. NOT generic narrator.
-Auto Voice Off. Generated Dialogue On. Generated Audio On. Music Off.
+
+Opa only.
+Warm storyteller tone.
+No other voices.
 
 ## Lip-Sync Lock
-Off-screen narration. No visible character mouths. Pebble has no face.
 
-Speaker mapping:
-0.5–3.5 — Opa off-screen only
-3.5–6.5 — Opa off-screen only
-6.5–10.0 — Opa off-screen only
-10.0–13.0 — Opa off-screen only
-13.0–15.0 — Opa off-screen only
+No visible speaking characters in this shot.
+Opa is voice-over only.
+No mouth movement on-screen.
 
 ## Camera
-Single continuous camera. 35mm. No cuts, no sudden angle change, no pan, no tilt, no random zoom. One slow controlled pull-back from close-up to medium-wide between 6.5–10.0. After the pull-back, camera remains stable.
+
+Start in close woodland framing matching @image2 exactly.
+One gentle controlled pull-back only at 6.5–10.0.
+No cuts.
+No sudden reframe.
+No zoom pulses.
+No camera drift.
 
 ## Sound
-Forest ambience: gentle leaves, distant birds. Gentle breeze begins near 0.8 and naturally lifts the petal during the first narration beat. Breeze continues softly afterward. Natural ambience only. No music.
+
+Soft forest ambience.
+Very light breeze beginning near 0.8.
+Tiny leaf rustle.
+Subtle petal movement.
+No music.
+No magical sparkle sounds.
+No exaggerated cartoon sound effects.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, text, watermark, captions, photorealistic, dark forest, harsh lighting, high contrast, contrast increase, overly saturated, saturation increase, oversharpened, extra sharp, colour drift, exposure drift, glossy plastic, harsh highlights, harsh shadows, HDR, glossy, characters, people, face on pebble, eyes, mouth, arms, legs, magical pebble, sparkles, glowing, multiple petals, wrong voice, missing dialogue, background music, music, melody, object spawning, morphing, path spawning, path forming, ground splitting, new trail appearing, environment morphing
+low quality, blurry, deformed, extra objects, duplicate pebble, duplicate petal, extra petals, extra stones, Opa visible, Luca visible, Noah visible, Learning Room visible, book visible, page border, split-screen transition, dissolve overlay, half room half forest, morphing environment, path spawning, path forming, ground splitting, new trail appearing, environment morphing, object pop-in, object spawn, high contrast, contrast increase, overly saturated, saturation increase, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpened, extra sharp, colour drift, exposure drift, music, melody, humming, cinematic soundtrack

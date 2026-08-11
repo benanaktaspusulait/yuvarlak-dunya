@@ -54,7 +54,7 @@ No readable text.
 
 11.6–14.3: Opa speaks: "Then the breeze carried it away." Opa's wing makes a gentle sweeping motion. Children's faces show curiosity.
 
-14.3–15.0: Opa slides one wingtip toward the next page as if preparing to turn it, but the page remains fully open and stable. Luca and Noah follow the motion. All three remain clearly visible in the unchanged Reading Corner. Book open, children engaged. No dissolve, no transition overlay, no forest imagery. End on a clean Reading Corner frame.
+14.3–15.0: Opa slides one wingtip toward the next page as if preparing to turn it, but the page remains fully open and stable. Luca and Noah follow the motion. All three remain clearly visible in the unchanged Reading Corner. Book open, children engaged. No dissolve, no transition overlay, no full-screen forest transformation, no imagination-scene takeover. The illustrated forest remains only inside the physical open book. End on a clean Reading Corner frame.
 
 First-frame exact-match from @image1. Environment lock. Object lock (book, rug, bookshelf, lantern). Character persistence. Single locked camera: medium group, 32mm, static.
 
