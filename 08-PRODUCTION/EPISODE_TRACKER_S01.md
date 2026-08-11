@@ -37,11 +37,11 @@
 | S01E05 | Colours Everywhere | 🎓 Learning | Kiko, Mimi | Central Square | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
 | S01E06 | The Soft Wind | 🌿 Nature | Kiko, Mimi | Little Forest | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
 | S01E07 | The Round Stone | 🎓 Learning, 🌿 Nature | Luca, Kiko | Stone Hill | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
-| S01E08 | Building Together | 🙌 Helper, 🤝 Social | Noah, Arda | Central Square | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E08 | Building Together | 🙌 Helper, 🤝 Social | Noah, Arda | Central Square | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
 | S01E09 | **Kiko'nun Uyku Zamanı** | 🌙 Bedtime | Kiko | Gece Mekanı | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E10 | My Turn, Your Turn | 🤝 Social | Luca, Noah | Central Square | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
 | S01E11 | Goodnight Tree | 🌙 Bedtime | Arda, Opa | Opa's Tree | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
-| S01E12 | Why Do Leaves Fall | 🎓 Learning, 🌿 Nature | Kiko, Opa | Little Forest | 🟠 Üretimde | 180 sn (12 shot) | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
+| S01E12 | Why Do Leaves Fall | 🎓 Learning, 🌿 Nature | Kiko, Opa | Little Forest | 🟢 Üretildi | ✅ Tamamlandı | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E13 | Where Does Rain Come From | 🎓 Learning, 🌿 Nature | Luca, Mimi | Cloud Hill | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
 | S01E14 | What Stars Say | 🌙 Bedtime, 🌿 Nature | Luca, Opa | Opa's Tree (Night) | 🟢 Üretildi | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı | ✅ Tamamlandı |
 | S01E15 | Butterfly Journey | 🌿 Nature | Luca, Kiko | Butterfly Meadow | 🟡 Yazıldı | 120 sn | 🔴 Planlanmadı | 🔴 Planlanmadı | 🔴 Planlanmadı |
@@ -72,15 +72,15 @@
 |--------|-------|
 | Toplam bölüm | 19 |
 | Yazılan | 19 (%100) |
-| Üretilen | 8 (%42.1) |
-| Short + Sosyal Medya Tamam | 8 (%42.1) |
+| Üretilen | 10 (%52.6) |
+| Short + Sosyal Medya Tamam | 9 (%47.4) |
 | Yayınlanan | 0 (%0) |
 
 ---
 
 ## Üretilen Bölümler (Video + Short + Sosyal Medya Tamam)
 
-S01E02-A, S01E04, S01E05, S01E06, S01E07, S01E10, S01E11, S01E14
+S01E02-A, S01E04, S01E05, S01E06, S01E07, S01E08, S01E10, S01E11, S01E12, S01E14
 
 ---
 
@@ -136,4 +136,4 @@ S01E02-A, S01E04, S01E05, S01E06, S01E07, S01E10, S01E11, S01E14
 
 ---
 
-*Son güncelleme: 11 Temmuz 2026*
+*Son güncelleme: 11 Ağustos 2026*
