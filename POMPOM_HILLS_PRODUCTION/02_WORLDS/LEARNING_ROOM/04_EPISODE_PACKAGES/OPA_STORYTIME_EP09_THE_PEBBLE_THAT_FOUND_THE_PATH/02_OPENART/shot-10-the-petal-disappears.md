@@ -10,19 +10,38 @@ Block: B2 | Lens: 35mm | Aspect Ratio: 16:9
 
 ## Reference Upload Map
 
-@image1: Approved fresh forest Take Shot — hilltop path continuation, warm dappled light, yellow leaf already visible and usable
-@image2: Canonical pebble identity — warm grey-brown, smooth, matte, child-fist sized, no face
-@image3: Approved canonical single-petal appearance from Shot 03 anchor — warm pink, matte, natural, same size and shape
+@image1: ACTUAL approved final frame of Shot 09 — sole visual authority for Shot 10 first-frame generation and video continuity
 
 ## Start-Frame Source
 
-Create and approve a fresh forest Take Shot from the established Shot 03 forest identity. The pebble has already passed the little hill and is now on the continuing forest path beyond the hilltop. The same single pink petal drifts a short distance ahead. One large soft rounded yellow fallen leaf is already lying partly across the path farther ahead, positioned naturally so the petal can later slip beneath its near edge. A hint of the same rounded hilltop/root terrain remains visible behind the pebble, confirming this is the immediate continuation beyond Shot 09 rather than a different forest location. Same warm morning dappled light, same soft rounded forest language, same pastel matte style. No river, no visible water, no shimmer.
+Use @image1 as the sole visual authority.
+
+Create a fresh quality-reset version of this exact same instant.
+
+Preserve exactly:
+- pebble position and scale,
+- pink petal position,
+- golden-yellow fallen leaf position,
+- spacing between all three,
+- path direction,
+- hill/root terrain behind,
+- camera angle and framing,
+- warm morning light direction.
+
+Do not redesign the composition.
+Do not move objects for a prettier image.
+Do not add or remove story objects.
+Do not improve, widen or beautify the composition by changing object spacing. Spatial continuity with @image1 is more important than a prettier composition.
+
+The result must feel like a cleaner, higher-quality recreation of @image1, not a new scene.
+
+Once the fresh Shot 10 first frame is approved, use it as @image1 for video generation.
 
 ## OpenArt Start-Frame Prompt
 
-Premium 3D preschool animation. Dreamy soft forest path beyond a gentle hilltop. Rounded trees, muted green canopy, dappled warm morning sunlight. Fallen leaves in warm orange and yellow. Mossy ground. Pastel palette, medium saturation, gentle warm lighting. Matte textures. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Premium feature-quality stylised 3D children's storytelling animation. Warm, active, visually engaging. Dreamy soft forest path beyond a gentle hilltop. Rounded trees, muted green canopy, dappled warm morning sunlight. Fallen leaves in warm orange and yellow. Pastel palette, matte textures. Preserve the soft warm matte Pompom Hills visual baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
 
-Medium framing. 35mm, static. A small round pebble (warm grey-brown, matte, NO face) on the path. A hint of the same rounded hilltop/root terrain remains visible behind the pebble, confirming this is the immediate continuation beyond Shot 09. Ahead, a single warm-pink petal drifts in the breeze. Farther ahead, one large soft rounded yellow fallen leaf lies partly across the path. Forest continues with no visible water.
+Medium framing. 35mm, static. The pebble in the lower foreground on the established packed-earth path. The same single warm-pink petal slightly ahead. The same medium-sized natural golden-yellow fallen leaf immediately beyond the drifting petal. Same hill and rounded-root terrain visible behind. Same warm morning light direction.
 
 No characters. No text. No captions.
 
@@ -32,29 +51,42 @@ SPOKEN DIALOGUE IS MANDATORY. Generate every line exactly as written using the m
 
 ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
 
-Premium stylised 3D preschool animation. Same soft rounded forest identity as Shot 03; fresh quality reset, warm dappled morning light. Preserve the soft warm matte preschool baseline; no darkening, contrast/saturation growth, oversharpening, HDR, gloss or harsh shadows.
+Premium feature-quality stylised 3D children's storytelling animation. Warm, active, visually engaging. Same soft rounded forest identity as Shot 03; fresh quality reset, warm dappled morning light. Preserve the soft warm matte Pompom Hills visual baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
 
 Continue from @image1. First frame must match exactly. The same single petal remains warm pink, matte, natural, non-glowing and non-magical.
 
-0.0–0.5: Pebble, pink petal and yellow leaf hold their exact @image1 positions. Forest ambience continues.
+15-second performance:
 
-0.5–3.0: Opa narrates off-screen: "The pebble kept going." Pebble rolls slowly along the path while the petal drifts just ahead toward the already-visible yellow leaf.
+0.0–0.5: Exact @image1 state. Pebble, pink petal and golden-yellow leaf remain exactly where established.
 
-3.0–3.4: Brief natural breath; the petal nears the leaf edge.
+0.5–2.8: Opa narrates: "The pebble kept going." Pebble rolls a short careful distance forward. The petal continues its existing gentle drift directly toward the near edge of the yellow leaf.
 
-3.4–5.8: Opa narrates: "Then something happened." A gentle breeze carries the petal toward the leaf. The leaf itself stays grounded.
+2.8–3.2: Brief natural breath.
 
-5.8–6.2: Brief breath; breeze and leaf rustle continue.
+3.2–5.5: Opa narrates: "Then something happened." The petal reaches the already-existing yellow leaf. A gentle breeze nudges it against the near edge.
 
-6.2–9.2: Opa narrates: "The petal... was gone." The same petal slips naturally beneath the near edge of the yellow leaf and becomes hidden. The leaf edge lifts only slightly.
+5.5–6.0: The petal remains fully visible for one last brief beat beside the leaf edge.
 
-9.2–9.6: Pebble reaches the leaf and slows.
+6.0–6.8: The same petal physically slides beneath the near edge of the yellow leaf. It becomes fully hidden. No fade. No dissolve. No teleport.
 
-9.6–12.0: Opa narrates: "The pebble waited." Pebble stops oriented toward the leaf; the leaf edge trembles gently in the breeze.
+6.8–9.0: Opa narrates: "The petal... was gone." The petal remains completely hidden beneath the leaf. The pebble continues the final short distance toward the leaf.
 
-12.0–15.0: Opa narrates: "It looked carefully." The camera holds the pebble and moving leaf edge together as the clue. The petal remains hidden. End with the leaf edge still moving softly.
+9.0–9.4: The pebble reaches the leaf and slows.
+
+9.4–11.5: Opa narrates: "The pebble stopped." Pebble settles with one tiny natural wobble.
+
+11.5–15.0: Opa narrates: "But the yellow leaf moved." The near edge of the same yellow leaf gives one small flutter, settles, then lifts very slightly again. The petal remains fully hidden. The pebble makes one tiny orientation shift toward the moving edge.
+
+End with:
+- pebble clearly visible,
+- yellow leaf clearly visible,
+- leaf edge gently moving,
+- pink petal still fully hidden,
+- the moving leaf acting as the visual clue for Shot 11.
 
 Environment and object lock. No leaf, petal, pebble, tree or path movement except the scripted petal drift, pebble roll and tiny leaf-edge lift. Locked 35mm medium framing.
+
+The same medium-sized natural golden-yellow fallen leaf already physically exists in the start frame. The petal approaches the existing near edge of that same leaf. The leaf does not slide into position, fall from above, grow, spawn or rotate unnaturally. The petal remains continuously visible until it physically passes beneath the near edge. It must not disappear before reaching the leaf.
 
 ## Voice Lock
 
@@ -62,7 +94,7 @@ Opa off-screen: canonical warm storyteller owl voice, not a generic narrator. Au
 
 ## Lip-Sync Lock
 
-Off-screen Opa narration only. No visible mouths. Pebble and leaf have no faces.
+Off-screen Opa narration only. No visible mouths. Pebble appearance matches @image1. Leaf has no face.
 
 ## Sound
 
@@ -70,4 +102,4 @@ Soft forest ambience, distant birds, light breeze and gentle leaf rustle. Keep a
 
 ## Negative Prompt
 
-missing dialogue, wrong voice, music substitution, background music, melody, dark forest, HDR, gloss, oversharpening, colour drift, object spawning, background morphing, multiple petals, changed petal, glowing petal, magical petal, leaf spawning, face on pebble, face on leaf, teleporting pebble
+missing dialogue, wrong voice, music substitution, background music, melody, dark forest, HDR, gloss, oversharpening, colour drift, object spawning, background morphing, multiple petals, changed petal, glowing petal, magical petal, leaf spawning, face on pebble, eyes on pebble, mouth on pebble, eyebrows on pebble, arms on pebble, legs on pebble, feet on pebble, anthropomorphic pebble, face on leaf, teleporting pebble, petal disappearing before reaching leaf, leaf sliding into position, petal fading out, petal dissolving, petal vanishing in open air, leaf covering petal before physical contact
