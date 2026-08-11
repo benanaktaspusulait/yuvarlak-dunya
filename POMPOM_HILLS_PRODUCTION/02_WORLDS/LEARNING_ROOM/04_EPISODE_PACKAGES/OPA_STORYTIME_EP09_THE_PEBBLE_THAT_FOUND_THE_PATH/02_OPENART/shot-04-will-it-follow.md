@@ -2,8 +2,8 @@
 
 ## Production Metadata
 
-Shot: 04/20
-Title: Will It Follow the Petal?
+Shot: 04/24
+Title: Will It Follow?
 Duration: 15.0 seconds
 Continuity Mode: Frame-to-Video | Previous: Shot 02 (@image1)
 Block: A
@@ -14,10 +14,9 @@ Aspect Ratio: 16:9
 ## Reference Upload Map
 
 @image1: Last approved ungraded QA-approved final frame of Shot 02 — visual continuity authority
-@image2: Episode Colour Master — palette reference only
-@image3: Canonical Opa character reference
-@image4: Canonical Luca character reference
-@image5: Canonical Noah character reference
+@image2: Canonical Opa character reference
+@image3: Canonical Luca character reference
+@image4: Canonical Noah character reference
 
 ## OpenArt Video Prompt
 
@@ -31,21 +30,25 @@ Continue from @image1. 15-second performance:
 
 0.0–0.4: Opa holds the open picture book. Luca and Noah lean forward on the rug, both oriented toward the book. All mouths closed. Soft warm matte lighting.
 
-0.4–2.8: Luca leans forward eagerly. Luca speaks: "Will it follow the petal?" Luca's hands gesture toward the book page. Noah and Opa listen with mouths closed, eyes on Luca.
+0.4–2.8: Luca leans forward, studying the page. Luca speaks: "Will it follow the petal?" Luca's voice is curious — he's thinking. Noah and Opa listen with mouths closed.
 
 2.8–3.2: Brief pause. All mouths closed.
 
-3.2–4.4: Noah bounces slightly on the rug. Noah speaks: "I would!" Noah's eyes are wide and bright. Opa and Luca listen with mouths closed. Opa smiles warmly.
+3.2–4.4: Noah bounces slightly. Noah speaks: "I would!" Noah's eyes are wide and bright. Opa and Luca listen with mouths closed. Opa smiles.
 
 4.4–4.8: Brief pause. All mouths closed.
 
-4.8–9.0: Opa speaks: "It doesn't know where it leads. It can only choose one small step." Opa's wingtip makes a gentle forward gesture over the book page. Luca and Noah listen with mouths closed, leaning slightly closer.
+4.8–7.5: Opa speaks: "It doesn't know yet." A small pause. Then: "But something made it look." Opa's wingtip gestures gently toward the petal on the page. Luca and Noah lean slightly closer.
 
-9.0–9.5: Brief pause. All mouths closed.
+7.5–7.9: Brief pause. All mouths closed.
 
-9.5–12.5: Luca and Noah exchange a curious glance. Both children shift forward on the rug. Small natural breathing movements. Opa watches them with a gentle expression. All mouths closed.
+7.9–9.2: Luca speaks softly: "The petal." Luca nods to himself — he understands. Noah and Opa listen with mouths closed.
 
-12.5–15.0: All three lean toward the book together. Shared anticipation on their faces. Soft forward motion. End on group curiosity. No frozen hold.
+9.2–9.6: Brief pause. All mouths closed.
+
+9.6–11.4: Opa speaks: "Let's see." Opa begins a gentle page turn. Luca and Noah follow the page with their eyes.
+
+11.4–15.0: The page turn completes and all three lean toward the new illustration. Luca and Noah exchange a curious glance. End in active story progression, not a silent hold.
 
 First-frame exact-match from @image1. Environment lock. Object lock (book, rug, bookshelf, lantern). Character persistence: Opa, Luca, Noah visible throughout. No character pop-in or disappearance. Single locked camera: medium group, 32mm, static.
 
@@ -63,7 +66,9 @@ Only the named speaker moves their mouth during each dialogue line. Listening ch
 Speaker mapping:
 0.4–2.8 — Luca only
 3.2–4.4 — Noah only
-4.8–9.0 — Opa only
+4.8–7.5 — Opa only
+7.9–9.2 — Luca only
+9.6–11.4 — Opa only
 
 ## Camera
 

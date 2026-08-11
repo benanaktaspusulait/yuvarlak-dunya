@@ -2,10 +2,10 @@
 
 ## Production Metadata
 
-Shot: 08/20
+Shot: 08/24
 Title: Did It Fail?
 Duration: 15.0 seconds
-Continuity Mode: Frame-to-Video | Previous: Shot 06 (@image1)
+Continuity Mode: Fresh Reading Corner Take Shot — quality reset after Reading Corner Shots 01→02→04→06
 Block: A
 Lens: 32mm
 Camera Height: 0.75m
@@ -13,11 +13,26 @@ Aspect Ratio: 16:9
 
 ## Reference Upload Map
 
-@image1: Last approved ungraded QA-approved final frame of Shot 06 — visual continuity authority
-@image2: Episode Colour Master — palette reference only
-@image3: Canonical Opa character reference
-@image4: Canonical Luca character reference
-@image5: Canonical Noah character reference
+@image1: Approved fresh Reading Corner Take Shot — canonical Learning Room, Opa, Luca, Noah and open book
+@image2: Canonical Opa character reference
+@image3: Canonical Luca character reference
+@image4: Canonical Noah character reference
+
+## Start-Frame Source
+
+Generate a new approved clean start-frame from the canonical Learning Room Hero View and canonical Opa, Luca and Noah references. This is a Reading Corner quality reset, not a new room design.
+
+## OpenArt Start-Frame Prompt
+
+Premium 3D preschool animation. Warm Learning Room Reading Corner. Matte cream walls, honey wood. Pastel accents. Medium saturation, medium-low contrast. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+
+Medium group. Locked 32mm, 0.75m, static.
+
+Opa (green owl, golden glasses, brown shawl, wings) sits centre-left on back cushion. Open book shows pebble at bottom of gentle hill after slip, pink petal higher on path, rounded roots visible. No readable text. Luca (dark brown hair, cream/green shirt, orange sneakers) screen-left. Noah (light brown curly hair, blue shirt, blue sneakers) screen-right. Shallow triangle, three-quarter view. Preserve exact seating triangle and screen-side relationships. Do not recenter or swap characters.
+
+Same rug, bookshelf, windows screen-left, lantern, round table, nature shelf.
+
+No text. No captions.
 
 ## OpenArt Video Prompt
 
@@ -27,27 +42,21 @@ ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundt
 
 Premium feature-quality stylised 3D preschool animation. Learning Room Reading Corner, warm morning sunlight from left arched windows. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
 
-Continue from @image1. 15-second performance:
+Continue from the approved fresh @image1 Take Shot. 15-second performance:
 
-0.0–0.4: All three on the rug. Book open in Opa's lap. Luca, Noah and Opa settled. All mouths closed.
+0.0–0.4: All three on the rug. Book open. All mouths closed.
 
-0.4–2.5: Luca's face shows gentle concern. Luca speaks: "Did it fail?" Genuine child worry in expression. Noah and Opa listen with mouths closed. Noah glances at Luca.
+0.4–2.5: Luca speaks: "Did it fail?" Genuine worry. Noah glances at Luca, then at Opa.
 
-2.5–3.0: Brief pause. All mouths closed. Noah also looks toward Opa, waiting.
+3.0–6.0: Opa shakes his head softly. Opa speaks: "No. Look closer." Opa's wingtip points at the illustration. Luca's expression shifts to curiosity.
 
-3.0–6.0: Opa shakes his head softly, warmly. Opa speaks: "No. It learned something." Opa's tone is warm, not lecturing. Luca and Noah listen with mouths closed. Luca's expression shifts from concern to curiosity.
+6.5–9.5: Noah speaks: "Look — there's another way around!" Noah's finger traces the curved route on the page. Luca and Opa listen.
 
-6.0–6.5: Brief pause. All mouths closed.
+10.0–13.0: Luca speaks: "Around the roots." Luca's hand traces a gentle curve. Noah and Opa listen.
 
-6.5–9.5: Noah's face lights up with excitement. Noah speaks: "A smaller way! Try a smaller way!" Noah's hands show a winding path gesture. Opa and Luca listen with mouths closed. Opa nods gently.
+13.0–15.0: Opa turns the book slightly toward the curved-route illustration. Children follow with their eyes. End with attention moving into the story.
 
-9.5–10.0: Brief pause. All mouths closed.
-
-10.0–13.0: Luca nods with growing understanding. Luca speaks: "Around the roots." Luca's hand traces a gentle curve in the air. Noah and Opa listen with mouths closed.
-
-13.0–15.0: Opa smiles warmly at both children. All three share a moment of understanding. Small natural breathing movements. End on group warmth. No frozen hold.
-
-First-frame exact-match from @image1. Environment lock. Object lock (book, rug, bookshelf, lantern). Character persistence: Opa, Luca, Noah visible throughout. No character pop-in or disappearance. Single locked camera: medium group, 32mm, static.
+First-frame exact-match from @image1. Environment lock. Character persistence. Single locked camera: medium group, 32mm, static.
 
 ## Voice Lock
 

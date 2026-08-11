@@ -14,9 +14,9 @@
 | Theme | You don't need to know the whole way — just the next step |
 | Location | Learning Room — Reading Corner + Imagination Scenes (Forest, River, Meadow) |
 | Characters | Opa, Luca, Noah |
-| Length | 300 seconds (5 minutes, 20 shots x 15 sec) |
+| Length | Approximately 360 seconds (6 minutes, 24 shots × 15 sec) |
 | Format | Interactive storytelling with imagination scenes |
-| Status | Production Ready |
+| Status | Production Ready — 24-shot YouTube structure |
 
 ---
 
@@ -34,7 +34,7 @@ In the final meadow, the pebble discovers the large pink flower the petal came f
 
 "The pebble didn't know the whole way. It only had to take the next small step."
 
-Stated once by Opa in Shot 17. Not repeated as a slogan afterward.
+Stated once by Opa in Shot 21. Not repeated as a slogan afterward.
 
 ---
 
@@ -45,9 +45,11 @@ The pink petal is the story's visual thread:
 - **Setup (Shot 02-03):** Petal appears beside pebble, drifts away
 - **Motivation (Shot 05):** Pebble follows the petal
 - **Reminder (Shots 07, 09):** Petal visible ahead during obstacles
-- **Crossing (Shot 11):** Petal floats across river
-- **Payoff (Shot 15):** Petal leads to the flower it came from
-- **Resolution (Shot 16):** Children understand the connection
+- **Lost-petal mystery (Shots 10–12):** Petal hides beneath a yellow leaf, children solve the visual clue, same petal reappears
+- **Crossing (Shots 14, 16):** Petal reaches the far bank; pebble follows existing stepping stones and completes the crossing
+- **Meadow question (Shot 18):** Petal moves among yellow, lavender and warm-pink flowers without revealing the answer
+- **Payoff (Shot 19):** Petal matches the warm-pink flower; pebble discovers a natural resting hollow
+- **Resolution (Shot 20):** Children understand the connection
 
 Not magical destiny. Natural discovery through exploration.
 
@@ -80,4 +82,4 @@ When Opa narrates, the video shows dreamlike forest/river/meadow scenes:
 ---
 
 *Updated: 11 August 2026*
-*Version: 2.0 — Production-ready, 20-shot, canon-aligned*
+*Version: 2.1 — Production-ready 24-shot YouTube structure restored*

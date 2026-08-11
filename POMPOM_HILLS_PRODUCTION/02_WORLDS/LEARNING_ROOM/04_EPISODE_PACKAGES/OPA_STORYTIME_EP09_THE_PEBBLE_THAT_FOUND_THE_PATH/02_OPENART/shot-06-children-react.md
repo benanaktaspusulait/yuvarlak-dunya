@@ -2,7 +2,7 @@
 
 ## Production Metadata
 
-Shot: 06/20
+Shot: 06/24
 Title: Children React
 Duration: 15.0 seconds
 Continuity Mode: Frame-to-Video | Previous: Shot 04 (@image1)
@@ -14,10 +14,9 @@ Aspect Ratio: 16:9
 ## Reference Upload Map
 
 @image1: Last approved ungraded QA-approved final frame of Shot 04 — visual continuity authority
-@image2: Episode Colour Master — palette reference only
-@image3: Canonical Opa character reference
-@image4: Canonical Luca character reference
-@image5: Canonical Noah character reference
+@image2: Canonical Opa character reference
+@image3: Canonical Luca character reference
+@image4: Canonical Noah character reference
 
 ## OpenArt Video Prompt
 
@@ -31,7 +30,7 @@ Continue from @image1. 15-second performance:
 
 0.0–0.4: All three on the rug, book open in Opa's lap. Noah, Luca and Opa settled. All mouths closed.
 
-0.4–3.0: Noah bounces excitedly on the rug. Noah speaks: "It moved! It followed the petal!" Noah's hands clap together briefly. Opa and Luca listen with mouths closed. Luca turns toward Noah.
+0.4–3.0: Noah bounces excitedly on the rug. Noah speaks: "It moved! It followed the petal!" Noah's hands clap together. Opa and Luca listen with mouths closed.
 
 3.0–3.5: Brief pause. All mouths closed.
 
@@ -43,9 +42,9 @@ Continue from @image1. 15-second performance:
 
 9.5–10.0: Brief pause. All mouths closed.
 
-10.0–13.5: Opa speaks: "The path led into the trees. And then... it went up." Opa's wing tilts gently upward above the book. Luca and Noah listen with mouths closed. Both children's eyebrows lift.
+10.0–13.0: Opa speaks: "The path went through the trees... and up." Opa's wing tilts gently upward above the book. Luca and Noah listen with mouths closed. Both children's eyebrows lift.
 
-13.5–14.0: Brief pause. All mouths closed.
+13.0–14.0: Brief pause. All mouths closed.
 
 14.0–15.0: Luca speaks: "Up?" Luca's head tilts. Noah also tilts his head. Both children show intrigued curiosity. End on shared wonder.
 
@@ -66,7 +65,7 @@ Speaker mapping:
 0.4–3.0 — Noah only
 3.5–6.5 — Luca only
 7.0–9.5 — Noah only
-10.0–13.5 — Opa only
+10.0–13.0 — Opa only
 14.0–15.0 — Luca only
 
 ## Camera
