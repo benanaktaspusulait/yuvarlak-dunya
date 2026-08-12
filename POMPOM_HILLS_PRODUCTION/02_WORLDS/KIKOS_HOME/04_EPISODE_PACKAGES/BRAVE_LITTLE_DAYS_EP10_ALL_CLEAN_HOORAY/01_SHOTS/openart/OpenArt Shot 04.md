@@ -1,601 +1,522 @@
-# OpenArt Shot 04 — FINAL FIXED
+# OPENART SHOT 04 — FINAL FIXED
+# ACTUAL SHOT 03 FRAME + LOOSE-BLOCK CLUSTER LOCK + NO PROP CONFUSION
 
 ## Production Metadata
 
-| Field | Value |
-|---|---|
-| Episode | EP10 — All Clean, Hooray! |
-| World | Kiko's Home |
-| Location | Playroom |
-| Shot Number | 04/08 |
-| Chain | A — LINKED CONTINUATION |
-| Duration | 15.0 s |
-| Lens | 28 mm |
-| Camera | Stable action framing |
-| Eye Level | Child height, slight downward bias |
-| Aspect Ratio | 16:9 |
+Episode: EP10 — All Clean, Hooray!
+World: Kiko's Home
+Location: Playroom
+Shot Number: 04/08
+Chain: A — LINKED CONTINUATION
+Duration: 15.0 seconds
+Lens: 28mm
+Camera: Stable action framing
+Eye Level: Child height, slight natural downward bias
+Aspect Ratio: 16:9
 
 ---
 
 # Reference Upload Map
 
-**@image1:** ACTUAL approved final frame of Shot 03 — exact first frame of Shot 04 and SOLE visual continuity authority.
+@image1:
+ACTUAL approved final frame of Shot 03.
 
-No fresh Playroom reset.
+@image1 is the EXACT first frame of Shot 04 and the ABSOLUTE authority for:
 
-No additional character references required unless OpenArt specifically needs identity reinforcement.
-
-ACTUAL @image1 overrides earlier storyboard assumptions.
-
-Preserve:
-
-- canonical Kiko,
-- canonical Mimi,
-- actual screen positions,
-- exact remaining block locations,
-- exact car locations,
-- exact book locations,
-- empty toy box,
-- empty shelf,
-- empty book rack,
+- Kiko position,
+- Mimi position,
+- Kiko scale,
+- Mimi scale,
 - room layout,
+- every visible block,
+- every visible toy car,
+- every visible book,
+- every visible storage object,
+- every visible furniture item,
 - lighting,
 - framing,
-- colour baseline.
+- colour,
+- contrast.
+
+NO fresh Playroom reset.
+
+NO environment regeneration.
+
+NO additional props.
+
+Do NOT force old storyboard assumptions such as:
+- an empty toy box,
+- an empty shelf,
+- an empty book rack,
+
+unless they are physically visible in @image1.
+
+ACTUAL @image1 overrides all older written assumptions.
 
 ---
 
-# Critical First-Second Hook
+# CRITICAL START-FRAME CONTINUITY
 
-Shot 03 ended with Kiko already reaching toward an existing block.
+Shot 03 ends with Kiko already crouched beside the foreground loose-block cluster.
 
-Shot 04 must CONTINUE THAT SAME MOTION.
+Kiko's hand is already touching / beginning to grasp the green block visible in @image1.
 
-Do NOT reset Kiko to standing.
+Shot 04 must CONTINUE THAT EXACT ACTION.
 
-Do NOT begin with another pause.
+Do NOT:
 
-Do NOT begin by showing the toy box for several seconds.
+- stand Kiko back up,
+- reset her pose,
+- move her hand away,
+- create a different first block,
+- make the green block disappear,
+- restart the pickup from scratch.
 
-Within approximately the FIRST SECOND:
+Continue:
 
-**Kiko completes the first pickup and places the first block into the toy box.**
-
-Immediate visual payoff:
-
-**messy floor → first block cleaned.**
-
-The audience should instantly understand:
-
-**“They started!”**
-
----
-
-# OpenArt Video Prompt
-
-MANDATORY SPOKEN DIALOGUE.
-
-Continue EXACTLY from ACTUAL @image1.
-
-Premium soft stylised 3D Pompom Hills children's animation.
-
-Same warm Kiko's Home Playroom.
-
-28mm child-height medium-wide framing with a slight natural downward bias so that:
-
-- Kiko,
-- Mimi,
-- nearby blocks,
-- and toy box
-
-remain readable together.
-
-Soft warm diffused daylight.
-
-Matte handcrafted materials.
-
-Medium-low contrast.
-
-Natural saturation.
-
-No HDR.
-
-No gloss.
-
-No oversharpening.
-
-No harsh shadows.
+hand already at green block
+→ secure SAME green block
+→ lift SAME green block
+→ place SAME green block into the approved existing storage destination.
 
 ---
 
-# Core Action Rule
+# CRITICAL LOOSE-BLOCK CLUSTER LOCK
 
-Blocks are cleaned through REAL PHYSICAL ACTION.
+Shot 04 cleans ONLY the small LOOSE BLOCK CLUSTER directly around Kiko in the foreground / center foreground.
 
-Every cleaned block must follow:
+This is the ONLY active cleanup group.
 
-**existing block on floor  
-→ Kiko physically reaches  
-→ hand contacts block  
-→ Kiko lifts SAME block  
-→ block remains visible during movement  
-→ Kiko places SAME block into toy box  
-→ hand releases  
-→ block stays inside box.**
+The cleanup group consists only of individual loose blocks physically visible near Kiko's crouched position in @image1.
 
-NO teleporting.
+DO NOT treat every block-shaped object in the entire room as part of the cleanup.
 
-NO disappearing blocks.
+ABSOLUTELY DO NOT TOUCH:
 
-NO block spawning.
+- the large assembled block structure on screen-right,
+- blocks that are structurally supporting that assembled structure,
+- blocks sitting on the round table,
+- toy cars,
+- books,
+- puzzle pieces,
+- furniture,
+- storage bins,
+- background decorations.
 
-NO magical cleanup.
+The large block structure on screen-right is a LOCKED BACKGROUND OBJECT.
 
-NO automatic floor clearing.
+It must remain completely unchanged throughout Shot 04.
+
+No block may detach from it.
+
+No part of it may collapse.
+
+No colour may change.
 
 ---
 
-# 15-Second Performance
+# OBJECT IDENTITY LOCK
 
-## 0.0–1.0 — IMMEDIATE ACTION HOOK
+Every active loose block has a persistent identity.
 
-Continue the exact reaching motion from Shot 03.
+For each cleaned block:
 
-Kiko's hand reaches the nearest already-existing block.
+EXISTING BLOCK IN @image1
+→ Kiko's physical hand contact
+→ SAME block lifted
+→ SAME colour
+→ SAME shape
+→ SAME size
+→ visible transfer
+→ SAME block placed into storage.
 
-She grips the SAME block.
+Never:
+
+floor → vanish
+
+Never:
+
+empty air → new block
+
+Never:
+
+one block → different colour
+
+Never:
+
+one block → two blocks
+
+Never:
+
+background block → foreground cleanup block
+
+NO teleportation.
+NO duplication.
+NO morphing.
+NO spawning.
+
+---
+
+# STORAGE DESTINATION LOCK
+
+Use ONLY an existing physically visible storage destination supported by @image1.
+
+Do NOT invent a new toy box.
+
+Do NOT create a new basket.
+
+Do NOT create a new bin.
+
+Do NOT move storage furniture closer to Kiko.
+
+If a suitable existing storage bin / box is visible and physically reachable:
+use that SAME container throughout Shot 04.
+
+If the storage destination requires a small natural movement from Kiko:
+allow Kiko to move toward it.
+
+The destination itself remains fixed.
+
+---
+
+# CHARACTER SCALE LOCK
+
+Preserve the exact approved character scale from @image1.
+
+Kiko remains the same believable 4-year-old size.
+
+Mimi remains smaller than Kiko according to the current approved scale.
+
+Do NOT:
+
+- enlarge Kiko,
+- enlarge Mimi,
+- make Mimi giant,
+- push Mimi toward camera,
+- change depth plane dramatically,
+- create scale drift.
+
+Mimi's long ears do NOT define her body height.
+
+Body proportions remain stable.
+
+---
+
+# ENGLISH LANGUAGE LOCK
+
+ALL SPEECH MUST BE ENGLISH ONLY.
+
+Use manually selected canonical ENGLISH voices.
+
+Speak every line EXACTLY as written.
+
+No translation.
+No paraphrasing.
+No Chinese.
+No Mandarin.
+No other language.
+No gibberish.
+
+Auto Voice OFF.
+Generated Dialogue ON.
+Generated Audio ON.
+Music OFF.
+
+---
+
+# 15-SECOND PERFORMANCE
+
+## 0.0–1.1 — CONTINUE EXISTING PICKUP
+
+Begin EXACTLY from @image1.
+
+Kiko is already crouched.
+
+Her hand is already at the green loose block.
+
+She secures the SAME green block.
 
 She lifts it naturally.
 
-She places it into the open toy box.
+She transfers it visibly toward the existing approved storage destination.
 
-The first block lands physically inside.
+No other prop moves.
 
-Use one small satisfying natural wooden / block placement sound.
-
-Mimi watches with an immediate encouraging expression.
-
-No dialogue yet.
-
-No camera reset.
+Mimi watches.
 
 ---
 
-## 1.0–1.8
+## 1.1–2.0
 
-Kiko immediately reaches for another nearby block.
+Kiko completes the first placement.
 
-Mimi looks from the first block inside the box toward the remaining blocks.
+The SAME green block stays inside the storage destination.
 
-The action continues without dead time.
+Kiko immediately looks toward another nearby loose foreground block.
+
+No standing pose.
+
+No empty pause.
 
 ---
 
-## 1.8–4.5
+## 2.0–4.5
 
 Mimi says warmly:
 
-**"A place for everything! Blocks go here."**
-
-As Mimi speaks:
-
-Kiko continues the cleanup.
-
-She picks up another EXISTING block and physically places it into the SAME toy box.
-
-Mimi makes one small paw gesture toward the box on:
-
-**"here."**
+"A place for everything! Blocks go here."
 
 Only Mimi's mouth moves.
 
-Kiko's mouth remains closed while working.
+While Mimi speaks:
+
+Kiko reaches toward ONE additional loose block from the SAME foreground cleanup cluster.
+
+She physically lifts it.
+
+No background blocks move.
+
+Mimi may make one small paw gesture toward the established storage destination on:
+
+"here."
 
 ---
 
-## 4.5–5.0
+## 4.5–5.1
 
-Brief active reaction.
+Kiko completes that block placement.
 
-Kiko looks into the box.
+The placed blocks remain where she put them.
 
-Then she looks at another nearby block.
-
-Her expression becomes more confident.
+She looks back to the same small cleanup cluster.
 
 ---
 
-## 5.0–6.3
+## 5.1–6.3
 
-Kiko picks up another existing block.
-
-This time her movement is slightly more confident and efficient.
+Kiko picks up ONE more supported loose block.
 
 No rushing.
 
-No unnatural speed.
+The block remains clearly visible.
 
-The block remains visible throughout the pickup and transfer.
+Mimi watches with mouth closed.
 
 ---
 
-## 6.3–7.7
+## 6.3–7.8
 
 Kiko says happily:
 
-**"Blocks in the box!"**
-
-She completes the placement as she delivers the line.
+"Blocks in their place!"
 
 Only Kiko's mouth moves.
 
-Mimi listens with mouth closed and gives one pleased nod.
+She completes the current placement naturally.
 
 ---
 
-## 7.7–8.2
+## 7.8–8.3
 
 Brief active beat.
 
-Kiko notices there are still a few blocks nearby.
+Kiko sees that a few loose foreground blocks remain.
 
-She immediately continues.
-
-No standing-and-smiling hold.
+Mimi gives one encouraging expression.
 
 ---
 
-## 8.2–10.5
+## 8.3–10.5
 
-Kiko gathers one or two more nearby EXISTING blocks sequentially.
+Kiko continues cleaning ONLY the same loose foreground block cluster.
 
-Important:
+ONE supported block at a time.
 
-ONE block at a time.
+Do NOT attempt to clean every block in the room.
 
-Do NOT make multiple blocks fly together.
+Maximum priority:
 
-Do NOT create impossible hand stacking.
+clear the small cluster immediately around Kiko.
 
-Do NOT remove every block instantly.
+The large structure on the right remains completely untouched.
 
-Mimi may help visually by indicating one remaining block with a paw, but Mimi does NOT physically pick up blocks unless clearly needed.
+Cars remain untouched.
 
-Primary cleaning action remains Kiko's.
-
----
-
-## 10.5–12.2
-
-Kiko places another block into the toy box.
-
-The visible floor area where blocks were located is now clearly cleaner than at the start of Shot 04.
-
-Progress must be visible.
-
-However:
-
-cars remain scattered.
-
-books remain scattered.
-
-Only the BLOCK category is being cleaned.
+Books remain untouched.
 
 ---
 
-## 12.2–13.2
+## 10.5–12.0
 
-Kiko looks across the immediate floor area for remaining blocks.
+Kiko places another supported loose block into the same storage destination.
 
-If one last established block remains visible within the current composition:
+The immediate area around Kiko is visibly cleaner.
 
-Kiko picks it up naturally.
+But the room still contains:
 
-If no supported block remains visible:
+- toy cars,
+- books,
+- the right-side assembled block structure,
+- other established room props.
 
-do NOT invent one.
-
-Instead, Kiko checks the now-clear block area and smiles.
-
----
-
-## 13.2–14.2
-
-Kiko finishes the final supported block placement.
-
-Toy box now contains the cleaned blocks.
-
-The block-cleaning task is complete or visibly nearly complete according to ACTUAL @image1 continuity.
-
-Mimi gives one small happy bounce / posture lift.
-
-No exaggerated celebration.
+Do NOT make the whole room suddenly clean.
 
 ---
 
-## 14.2–15.0 — SHOT 05 SETUP
+## 12.0–13.1
 
-Kiko and Mimi turn their attention naturally toward the STILL-SCATTERED TOY CARS.
+Kiko checks the small cleanup area.
 
-Do NOT start cleaning the cars yet.
+If one final loose block from that exact cluster remains:
+she picks it up naturally.
 
-Kiko's eyes move:
+If none remains:
+do NOT invent another one.
 
-toy box  
-→ clear former block area  
-→ remaining toy cars.
+Instead:
+Kiko looks at the cleared small area with satisfaction.
 
-Mimi also notices the cars.
+---
+
+## 13.1–14.1
+
+Complete the final supported placement if needed.
+
+Mimi gives one small approving nod.
+
+No celebration jump.
+
+No prop movement elsewhere.
+
+---
+
+## 14.1–15.0 — SHOT 05 SETUP
+
+Kiko and Mimi naturally shift their attention toward ONE existing toy car already visible in @image1.
+
+Do NOT move the car yet.
+
+Do NOT clean cars yet.
+
+Do NOT move books.
 
 End with:
 
-- blocks inside toy box,
-- no cleaned blocks reappearing on floor,
-- cars still physically scattered,
-- books still physically scattered,
-- shelf still empty,
-- book rack still empty,
-- both characters active and ready for the next task.
+- immediate foreground loose-block cluster cleared or clearly reduced,
+- all cleaned blocks physically stored,
+- right-side assembled block structure unchanged,
+- cars unchanged,
+- books unchanged,
+- room unchanged,
+- Kiko and Mimi at stable scale,
+- both ready for the next category.
 
 Cut cleanly at 15.0 seconds.
 
 ---
 
-# Dialogue Timing
+# EXACT DIALOGUE MAP
 
-| Time | Speaker | Dialogue |
-|---|---|---|
-| 1.8–4.5 | Mimi | "A place for everything! Blocks go here." |
-| 6.3–7.7 | Kiko | "Blocks in the box!" |
+2.0–4.5
+Mimi:
+"A place for everything! Blocks go here."
+
+6.3–7.8
+Kiko:
+"Blocks in their place!"
+
+ALL speech is ENGLISH.
 
 No additional dialogue.
 
 ---
 
-# Voice Lock
+# CRITICAL CATEGORY SEPARATION LOCK
 
-## Mimi
+SHOT 04 ACTIVE CATEGORY:
+LOOSE FOREGROUND BLOCKS ONLY.
 
-Canonical Mimi voice.
+LOCKED / INACTIVE:
 
-Delivery:
+TOY CARS:
+do not move.
 
-- warm,
-- encouraging,
-- simple,
-- rhythmic,
-- not teacher-like.
+BOOKS:
+do not move.
 
-## Kiko
+ASSEMBLED RIGHT-SIDE BLOCK STRUCTURE:
+do not move.
 
-Canonical Kiko child voice.
+TABLE OBJECTS:
+do not move.
 
-Delivery:
+PUZZLE PIECES:
+do not move.
 
-- proud,
-- increasingly confident,
-- happy because she understands what to do.
+BACKGROUND PROPS:
+do not move.
 
-Auto Voice OFF.  
-Generated Dialogue ON.  
-Generated Audio ON.  
-Music OFF.
+This category separation is mandatory.
 
 ---
 
-# Lip-Sync Lock
+# NO-POP-IN / NO-CONFUSION LOCK
 
-1.8–4.5:
+Every object used during Shot 04 must already exist in @image1.
 
-Mimi only:
+NO new:
 
-**"A place for everything! Blocks go here."**
+- blocks,
+- cars,
+- books,
+- boxes,
+- baskets,
+- shelves,
+- decorations.
 
-6.3–7.7:
+Do NOT confuse nearby object categories.
 
-Kiko only:
+A toy car stays a toy car.
 
-**"Blocks in the box!"**
+A book stays a book.
 
-Only active speaker moves mouth.
+A block stays the same block.
 
-No simultaneous lip movement.
-
-No voice swap.
-
-Kiko may continue physical cleanup while Mimi speaks, but Kiko's mouth stays closed.
-
----
-
-# Critical Block Continuity Lock
-
-At Shot 04 start:
-
-blocks exist exactly where ACTUAL @image1 establishes them.
-
-They may ONLY leave the floor through visible physical pickup.
-
-For every block:
-
-**floor → hand → toy box.**
-
-Never:
-
-**floor → vanish.**
-
-Never:
-
-**empty air → new block.**
-
-Never:
-
-**block teleports into box.**
-
-Once placed in the toy box:
-
-the block remains there.
-
-Do NOT duplicate it.
-
-Do NOT make it reappear on the floor.
+An assembled structure stays assembled.
 
 ---
 
-# Category Lock
-
-Shot 04 cleans ONLY:
-
-**BUILDING BLOCKS.**
-
-Throughout the entire shot:
-
-### Toy cars
-Remain scattered on floor.
-
-### Picture books
-Remain scattered on floor.
-
-### Toy box
-Gradually fills with blocks.
-
-### Shelf
-Remains EMPTY.
-
-### Book rack
-Remains EMPTY.
-
-Do NOT accidentally progress Shot 05 or Shot 06 early.
-
----
-
-# Toy Box Lock
-
-Use the SAME toy box established in @image1.
-
-Do NOT:
-
-- move the toy box across the room,
-- enlarge it,
-- shrink it,
-- change its material,
-- replace it,
-- generate a second toy box,
-- close it while Kiko is still cleaning.
-
-Blocks remain physically visible inside where composition allows.
-
----
-
-# Character Persistence Lock
-
-Kiko and Mimi remain canonical.
-
-Preserve actual @image1 positions and scale as closely as natural action allows.
-
-Do NOT:
-
-- swap characters,
-- teleport them,
-- redesign them,
-- change clothing,
-- duplicate them,
-- add extra children,
-- add adults.
-
-Mimi remains the encouraging companion.
-
-Kiko performs the primary block-cleaning action.
-
----
-
-# Camera
+# CAMERA
 
 28mm.
 
-Child eye level with slight natural downward composition.
+Child eye level.
 
-One continuous shot.
+Slight natural downward bias.
 
-Keep enough floor visible to understand:
+Stable camera.
 
-**block → hand → box.**
+If Kiko + foreground cleanup cluster + storage destination are already readable:
+KEEP CAMERA LOCKED.
 
-Camera should be STABLE.
+Allow at most ONE tiny smooth correction if physically necessary.
 
-If absolutely necessary, allow only one very small smooth compositional adjustment to keep Kiko's physical placement readable.
+NO:
 
-Do NOT:
-
-- pan repeatedly between Kiko and the box,
-- zoom for every block,
-- cut to inserts,
-- use top-down view,
-- use fast tracking,
-- hunt between characters.
-
-Physical action should provide the movement.
-
----
-
-# Engagement / Pacing Lock
-
-The shot must have continuous meaningful progress.
-
-Approximate rhythm:
-
-first block immediately  
-→ Mimi names the rule  
-→ another block goes in  
-→ Kiko repeats the phrase  
-→ more visible cleanup  
-→ attention shifts toward cars.
-
-Do NOT let Kiko repeatedly stand up and pose between each placement.
-
-Avoid:
-
-- static talking,
-- long smiles,
-- empty reaction holds,
-- repetitive identical pickup animation.
-
-Use small natural variation in each reach and placement.
+- orbit,
+- repeated pan,
+- zoom,
+- push-in,
+- cutaway,
+- insert shot,
+- top-down camera,
+- camera hunting.
 
 ---
 
-# Sound
+# COLOUR / QUALITY LOCK
 
-Natural Playroom ambience.
-
-Allowed:
-
-- quiet indoor room tone,
-- distant birds,
-- soft clothing movement,
-- gentle footsteps,
-- small natural block-on-wood placement sounds.
-
-Placement sounds must be soft and satisfying.
-
-No exaggerated cartoon pops.
-
-NO music.
-
-NO percussion.
-
-NO cleanup jingle.
-
-NO magical sound.
-
----
-
-# Colour / Quality Lock
-
-Preserve exact Shot 03 baseline.
-
-Do NOT make Shot 04 look cleaner through increased brightness, saturation or contrast.
-
-The sense of progress comes from PROP PLACEMENT, not grading.
+Preserve @image1 exactly.
 
 No:
 
@@ -603,44 +524,40 @@ No:
 - saturation increase,
 - HDR,
 - gloss,
-- oversharpening,
-- harsh highlights,
-- harsh shadows.
+- sharpening increase,
+- exposure drift.
 
-If any correction is needed:
-
-slightly softer, never stronger.
+If correction occurs:
+slightly softer only.
 
 ---
 
-# Negative Prompt
+# NEGATIVE PROMPT
 
-background music, cleanup song, melody, soundtrack, magical cleanup, blocks flying, floating blocks, blocks teleporting, blocks disappearing from floor, blocks spawning, duplicated blocks, automatic cleanup, instant clean floor, multiple blocks moving by themselves, toy box moving, second toy box, cars being cleaned, cars on shelf, books being cleaned, books in rack, shelf filling early, book rack filling early, extra toys, toy pop-in, static opening, long silent opening, long dead air, frozen characters, repetitive robotic movement, camera hunting, rapid pan, zoom, cutaway, insert shot, high angle, character redesign, wrong clothing, duplicate characters, extra children, adult characters, deformed hands, extra fingers, crossed eyes, photorealistic faces, HDR, high contrast, contrast increase, oversaturation, glossy plastic, oversharpened, harsh highlights, harsh shadows, wrong voice, voice swap, overlapping dialogue, simultaneous mouth movement
+block confusion, all blocks moving, whole room cleaning automatically, right-side block structure collapsing, right-side structure changing, structural blocks disappearing, table blocks moving, toy cars moving early, books moving early, puzzle pieces moving, prop category swap, block turning into car, block turning into book, block colour change, block size change, block teleporting, block spawning, block duplication, prop pop-in, prop disappearance, invented toy box, invented basket, invented storage bin, storage furniture moving, automatic cleanup, magical cleanup, floating blocks, flying blocks, multiple blocks moving simultaneously, Kiko enlargement, Mimi enlargement, giant Mimi, scale drift, character redesign, environment reset, furniture morphing, camera orbit, zoom, push-in, rapid pan, background music, non-English speech, Chinese speech, Mandarin speech, gibberish, wrong voice, voice swap, overlapping dialogue, simultaneous mouth movement, HDR, high contrast, oversaturated, glossy plastic, oversharpened, harsh highlights, harsh shadows
 
 ---
 
-# Final QA Checklist
+# FINAL QA CHECKLIST
 
-- [ ] Exact Shot 03 final frame used as @image1
-- [ ] No fresh room reset
-- [ ] Shot begins from Kiko's existing reach
-- [ ] First block enters box within about 1 second
-- [ ] Strong immediate visual payoff
-- [ ] Mimi says exactly "A place for everything! Blocks go here."
-- [ ] Kiko says exactly "Blocks in the box!"
-- [ ] Only active speaker moves mouth
-- [ ] Each block physically travels floor → hand → box
-- [ ] No block teleportation
-- [ ] No block disappearance
-- [ ] No block spawn
-- [ ] Placed blocks stay in toy box
-- [ ] Cars remain scattered
-- [ ] Books remain scattered
-- [ ] Shelf remains empty
-- [ ] Book rack remains empty
-- [ ] Visible cleaning progress throughout shot
-- [ ] No long dead air
-- [ ] Stable camera
-- [ ] No music
-- [ ] Final attention shifts naturally toward cars
-- [ ] Shot 05 is clearly set up
+- [ ] Exact Shot 03 final frame used as @image1.
+- [ ] Kiko starts already crouched.
+- [ ] Existing green-block contact continues naturally.
+- [ ] No repeated/reset first pickup.
+- [ ] Only foreground loose-block cluster is cleaned.
+- [ ] Right-side assembled block structure remains 100% unchanged.
+- [ ] Cars remain 100% unchanged.
+- [ ] Books remain 100% unchanged.
+- [ ] Table objects remain unchanged.
+- [ ] No prop-category confusion.
+- [ ] No block spawning.
+- [ ] No block disappearance.
+- [ ] Each cleaned block follows physical hand transfer.
+- [ ] No invented storage container.
+- [ ] Character scales remain stable.
+- [ ] Mimi does not grow.
+- [ ] All speech is English.
+- [ ] Camera remains stable.
+- [ ] No music.
+- [ ] Final attention shifts toward an existing car only.
+- [ ] Shot 05 is prepared without beginning car cleanup.

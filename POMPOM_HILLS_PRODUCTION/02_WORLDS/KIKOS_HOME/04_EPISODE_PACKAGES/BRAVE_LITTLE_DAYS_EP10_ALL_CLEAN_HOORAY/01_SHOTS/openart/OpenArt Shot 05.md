@@ -1,695 +1,638 @@
-# OpenArt Shot 05 — FINAL FIXED
+# OPENART SHOT 05 — FINAL FIXED
+# ACTUAL SHOT 04 FRAME + CAR CATEGORY LOCK + NO PROP CONFUSION
 
 ## Production Metadata
 
-| Field | Value |
-|---|---|
-| Episode | EP10 — All Clean, Hooray! |
-| World | Kiko's Home |
-| Location | Playroom |
-| Shot Number | 05/08 |
-| Chain | B — LINKED CONTINUATION |
-| Duration | 15.0 s |
-| Lens | 35 mm |
-| Camera | Stable action framing |
-| Eye Level | Child height |
-| Aspect Ratio | 16:9 |
+Episode: EP10 — All Clean, Hooray!
+World: Kiko's Home
+Location: Playroom
+Shot Number: 05/08
+Chain: B — LINKED CONTINUATION
+Duration: 15.0 seconds
+Lens: 35mm
+Camera: Stable action framing
+Eye Level: Child height
+Aspect Ratio: 16:9
 
 ---
 
 # Reference Upload Map
 
-**@image1:** ACTUAL approved final frame of Shot 04 — exact first frame of Shot 05 and SOLE visual continuity authority.
+@image1:
+ACTUAL approved final frame of Shot 04.
 
-No fresh Playroom reset.
+This is the EXACT first frame of Shot 05 and the ABSOLUTE authority for:
 
-No fresh Take Shot.
+- Kiko position,
+- Mimi position,
+- character identity,
+- character scale,
+- exact white storage bin position,
+- exact block positions,
+- exact toy-car positions,
+- exact book / flat-object positions,
+- right-side assembled block structure,
+- room architecture,
+- furniture,
+- lighting,
+- framing,
+- contrast and saturation.
 
-No environment re-generation.
+NO fresh Playroom reset.
 
-No additional character references unless OpenArt specifically requires identity reinforcement.
+NO fresh Take Shot.
 
-ACTUAL @image1 overrides all earlier storyboard assumptions.
+NO environment regeneration.
 
-Preserve exactly from @image1:
-
-- canonical Kiko,
-- canonical Mimi,
-- actual character positions,
-- actual character scale,
-- blocks already inside the toy box,
-- exact remaining toy-car positions,
-- exact remaining book positions,
-- empty shelf,
-- empty book rack,
-- same room layout,
-- same furniture,
-- same camera height,
-- same lighting,
-- same colour / contrast baseline.
-
----
-
-# Critical First-Second Hook
-
-Shot 04 ended with Kiko and Mimi turning their attention toward the remaining toy cars.
-
-Shot 05 must continue that intention IMMEDIATELY.
-
-Do NOT begin with:
-
-- a new establishing shot,
-- Kiko standing still,
-- characters looking around again,
-- several seconds of preparation,
-- fresh room reset.
-
-Within approximately the FIRST SECOND:
-
-**Kiko physically picks up one already-existing toy car and places it onto the shelf.**
-
-Immediate visual payoff:
-
-**car on floor → hand → shelf.**
-
-Viewer understands instantly:
-
-**“Now they’re doing the cars!”**
+ACTUAL @image1 overrides every older storyboard assumption.
 
 ---
 
-# OpenArt Video Prompt
+# CRITICAL ACTUAL-FRAME CONTINUITY
 
-MANDATORY SPOKEN DIALOGUE.
+Start EXACTLY from @image1.
 
-Continue EXACTLY from ACTUAL @image1.
+At the beginning:
 
-Premium soft stylised 3D Pompom Hills children's animation.
+- Mimi is standing screen-left.
+- Kiko is kneeling / low to the floor near centre.
+- The white storage bin is directly beside Kiko.
+- Some cleaned loose blocks are already inside that white bin.
+- MANY other established blocks are still physically visible elsewhere.
+- The large assembled block structure on screen-right remains present.
+- A small yellow toy car is clearly visible on the floor in the screen-left foreground.
+- Other props remain exactly as shown.
 
-Same warm Kiko's Home Playroom.
+Do NOT pretend the whole block category has disappeared.
 
-35mm child-height medium action framing.
+Do NOT suddenly make the floor empty.
 
-Frame Kiko, Mimi, nearby cars and the shelf together whenever physically possible.
-
-Soft warm diffused daylight.
-
-Cream walls.
-
-Light wood floor.
-
-Soft matte handcrafted materials.
-
-Medium-low contrast.
-
-Natural saturation.
-
-No HDR.
-
-No gloss.
-
-No oversharpening.
-
-No harsh shadows.
+Do NOT rearrange the room.
 
 ---
 
-# Starting Prop State
+# PREVIOUS PROGRESS LOCK
 
-At 0.0:
+The white storage bin contains ONLY the loose blocks already physically placed there during Shot 04.
 
-### Building Blocks
-Already INSIDE the SAME toy box.
-
-They stay there.
-
-### Toy Cars
-Still physically scattered on the floor exactly as supported by @image1.
-
-### Picture Books
-Still physically scattered on the floor.
-
-### Shelf
-Empty at the start of Shot 05.
-
-### Book Rack
-Empty.
-
-CRITICAL:
-
-Shot 05 cleans ONLY the TOY CARS.
-
----
-
-# Core Car-Movement Rule
-
-Every cleaned toy car must move through visible physical action:
-
-**existing car on floor  
-→ Kiko reaches  
-→ physical contact  
-→ SAME car lifted  
-→ SAME car remains visible during transfer  
-→ SAME car placed on shelf  
-→ hand releases  
-→ car remains on shelf.**
-
-NO teleporting.
-
-NO disappearing.
-
-NO spawning.
-
-NO magical movement.
-
-NO automatic cleanup.
-
----
-
-# 15-Second Performance
-
-## 0.0–1.0 — IMMEDIATE ACTION HOOK
-
-Continue directly from Shot 04 final frame.
-
-Kiko is already looking toward the cars.
-
-She bends / reaches naturally toward the nearest EXISTING toy car.
-
-Kiko grips the SAME car.
-
-She lifts it.
-
-She places it carefully onto the wooden shelf.
-
-The first car must visibly reach the shelf by approximately 1.0 second.
-
-Use one soft natural toy-on-wood placement sound.
-
-Mimi reacts immediately with a pleased expression.
-
-No dialogue yet.
-
-No camera reset.
-
----
-
-## 1.0–1.5
-
-Kiko looks toward another car.
-
-Mimi glances:
-
-first car on shelf  
-→ another car still on floor.
-
-Continuous action.
-
-No standing-and-smiling pause.
-
----
-
-## 1.5–4.1
-
-Mimi says warmly:
-
-**"A place for everything! Cars go here."**
-
-During the line:
-
-Kiko picks up another EXISTING toy car.
-
-She carries it physically toward the SAME shelf.
-
-On the word:
-
-**"here"**
-
-Mimi makes one small paw gesture toward the shelf.
-
-Only Mimi's mouth moves.
-
-Kiko's mouth remains closed while working.
-
----
-
-## 4.1–4.8
-
-Kiko completes the second physical placement.
-
-The car remains on the shelf.
-
-Kiko briefly checks the first two cars.
-
-No rearranging them unrealistically.
-
----
-
-## 4.8–6.2
-
-Kiko reaches for another existing car.
-
-Her movements are now slightly more confident than Shot 04.
-
-She lifts the SAME car.
-
-No rushing.
-
-No exaggerated speed.
-
----
-
-## 6.2–7.7
-
-Kiko says happily:
-
-**"Cars on the shelf!"**
-
-She completes another placement naturally while speaking.
-
-Only Kiko's mouth moves.
-
-Mimi listens with mouth closed.
-
-Mimi gives one small approving bounce / posture lift.
-
-No exaggerated hopping.
-
----
-
-## 7.7–8.2
-
-Short active beat.
-
-Kiko looks for remaining cars.
-
-Mimi also scans the floor.
-
-No frozen pause.
-
----
-
-## 8.2–10.5
-
-Kiko continues with one or two more EXISTING cars.
-
-ONE car at a time.
-
-For each:
-
-floor  
-→ hand  
-→ shelf.
-
-Do NOT make multiple cars float together.
-
-Do NOT have cars drive themselves.
-
-Do NOT suddenly fill the shelf.
-
----
-
-## 10.5–11.8
-
-The visible car clutter on the floor is now clearly reduced.
-
-Kiko places another supported car on the shelf.
-
-Existing cars already on the shelf remain stable.
+Those blocks remain inside.
 
 Do NOT:
 
-- duplicate them,
-- make them disappear,
-- randomly change colour,
-- reorder themselves magically.
+- empty the white bin,
+- remove those blocks,
+- put cars into the block bin,
+- duplicate the bin,
+- move the bin,
+- enlarge the bin,
+- shrink the bin.
+
+IMPORTANT:
+
+Other blocks visible in @image1 remain where they are.
+
+This includes:
+
+- loose background blocks,
+- right-side assembled block structure,
+- blocks belonging to that structure,
+- table objects.
+
+They are FROZEN BACKGROUND PROPS during Shot 05.
 
 ---
 
-## 11.8–12.6
+# CRITICAL CATEGORY LOCK
 
-Kiko scans the immediate floor area.
+SHOT 05 cleans ONLY:
 
-If one final EXISTING car is clearly visible in the actual composition:
+TOY CARS.
 
-Kiko reaches for it.
+Do NOT clean:
 
-If there is no supported remaining car:
+- blocks,
+- books,
+- puzzle pieces,
+- block structures,
+- table objects,
+- decorations.
 
-do NOT invent a new one.
+A car is a car.
 
-Instead, Kiko notices that the car area is now clean.
+A block is a block.
 
----
+A book is a book.
 
-## 12.6–13.7
-
-Complete the final supported car placement.
-
-Shelf now contains the cleaned cars.
-
-Blocks remain inside toy box.
-
-Books remain on the floor.
-
-Kiko gives one small satisfied smile.
-
-Mimi gives one gentle approving nod.
+Never confuse object categories.
 
 ---
 
-## 13.7–15.0 — SHOT 06 SETUP
+# FIRST CAR IDENTITY LOCK
 
-Kiko and Mimi naturally turn their attention toward the STILL-SCATTERED PICTURE BOOKS.
+The small YELLOW TOY CAR visible in the screen-left foreground of @image1 is the FIRST active car.
 
-No books are picked up yet.
+Shot 05 must begin by using THIS SAME yellow car.
 
-Kiko's gaze moves:
+Do NOT:
 
-shelf with cars  
-→ clean former car area  
-→ books still on floor.
+- create a new first car,
+- replace it with another colour,
+- teleport it,
+- make it drive itself,
+- turn it into another toy.
 
-Mimi follows the same visual logic.
+Sequence:
+
+same yellow car on floor
+→ Kiko notices it
+→ Kiko physically reaches
+→ hand contacts SAME yellow car
+→ SAME yellow car is lifted
+→ SAME yellow car is physically carried
+→ SAME yellow car is placed in its correct storage location.
+
+---
+
+# CAR STORAGE DESTINATION LOCK
+
+Cars must go to an EXISTING physical storage location supported by the room.
+
+Preferred:
+the same existing low shelf / car-storage surface physically available in the established room.
+
+Do NOT invent:
+
+- a new shelf,
+- a new car box,
+- a new basket,
+- a new cabinet.
+
+If the correct shelf is only partially visible from @image1:
+
+allow ONE small smooth framing correction to make the existing shelf readable.
+
+Do NOT redesign the environment merely to expose the shelf.
+
+The white block bin is NOT the car destination.
+
+Cars must NOT go into the white block bin.
+
+---
+
+# CHARACTER SCALE LOCK
+
+Preserve Kiko and Mimi identity.
+
+Kiko remains a believable 4-year-old child.
+
+Mimi remains the smaller bunny companion.
+
+When both are standing on a comparable depth plane:
+
+Mimi's BODY HEIGHT, excluding ears, should read approximately 75–80% of Kiko's standing body height.
+
+Mimi's long ears may extend higher.
+
+Do NOT interpret ear-tip height as body scale.
+
+Do NOT:
+
+- enlarge Mimi,
+- enlarge Kiko,
+- make Mimi giant,
+- move Mimi closer to camera to make her bigger,
+- create character scale drift.
+
+If any correction is needed:
+
+Mimi slightly smaller is safer than larger.
+
+---
+
+# CRITICAL ENGLISH LANGUAGE LOCK
+
+ALL SPEECH MUST BE ENGLISH ONLY.
+
+Use manually selected canonical ENGLISH voices.
+
+Speak every line EXACTLY as written.
+
+No translation.
+No paraphrasing.
+No Chinese.
+No Mandarin.
+No other language.
+No gibberish.
+No improvised speech.
+
+Auto Voice OFF.
+Generated Dialogue ON.
+Generated Audio ON.
+Music OFF.
+
+---
+
+# CAMERA LOCK
+
+35mm.
+
+Child-height camera.
+
+Begin on EXACT @image1 framing.
+
+Mostly static.
+
+Do NOT:
+
+- orbit,
+- circle characters,
+- rotate around room,
+- zoom,
+- push in,
+- dolly in,
+- hunt between characters,
+- perform repeated pans.
+
+Allow at most ONE small smooth framing correction if necessary to show the existing car-storage shelf.
+
+Then LOCK CAMERA.
+
+---
+
+# 15-SECOND PERFORMANCE
+
+## 0.0–0.35 — EXACT CONTINUATION
+
+Exact @image1.
+
+Kiko remains kneeling.
+
+Mimi remains screen-left.
+
+White block bin remains fixed beside Kiko.
+
+Yellow car remains screen-left foreground.
+
+All mouths closed.
+
+No room reset.
+
+---
+
+## 0.35–1.35
+
+Kiko notices the yellow toy car.
+
+Kiko says brightly:
+
+"Cars next!"
+
+Only Kiko's mouth moves.
+
+Kiko turns her eyes and upper body toward the SAME yellow car.
+
+No block moves.
+
+---
+
+## 1.35–2.25
+
+Kiko physically reaches toward the yellow car.
+
+Her hand contacts the SAME car.
+
+She lifts it naturally.
+
+The car stays visually consistent:
+
+same yellow colour,
+same shape,
+same size.
+
+Mimi watches.
+
+---
+
+## 2.25–3.75
+
+Mimi asks:
+
+"Where do the cars go?"
+
+Only Mimi's mouth moves.
+
+Kiko keeps holding the SAME yellow car.
+
+Do NOT place it yet before the destination is established.
+
+---
+
+## 3.75–4.15
+
+Kiko looks from the yellow car toward the existing car-storage shelf.
+
+Small eye and head movement.
+
+No camera orbit.
+
+---
+
+## 4.15–5.45
+
+Kiko replies:
+
+"On the shelf!"
+
+Only Kiko's mouth moves.
+
+Kiko begins carrying the SAME yellow car toward the existing shelf.
+
+---
+
+## 5.45–6.30
+
+Kiko physically places the yellow car onto the existing shelf.
+
+Sequence must remain visible:
+
+hand holding yellow car
+→ shelf contact
+→ hand releases
+→ yellow car stays on shelf.
+
+NO teleport.
+
+NO instant shelf fill.
+
+---
+
+## 6.30–7.55
+
+Mimi says warmly:
+
+"One at a time."
+
+Mimi gives one small encouraging paw gesture.
+
+Only Mimi's mouth moves.
+
+Kiko looks toward another EXISTING toy car.
+
+---
+
+## 7.55–9.20
+
+Kiko reaches toward ONE additional toy car physically supported by @image1.
+
+If another car is clearly visible:
+
+Kiko picks up THAT SAME car.
+
+If no other clearly supported car is visible:
+
+DO NOT invent one.
+
+Instead Kiko looks toward the already placed yellow car and the remaining room.
+
+---
+
+## 9.20–10.70
+
+If a second supported car exists:
+
+Kiko physically carries and places it onto the SAME shelf.
+
+ONE car at a time.
+
+Do NOT move multiple cars simultaneously.
+
+Mimi follows the action with her eyes.
+
+---
+
+## 10.70–12.10
+
+Kiko says proudly:
+
+"Cars on the shelf!"
+
+Only Kiko's mouth moves.
+
+She looks toward the stored car / cars.
+
+Mimi smiles.
+
+---
+
+## 12.10–13.10
+
+Both briefly check the immediate car area.
+
+If one additional existing car is clearly supported and reachable:
+
+Kiko may begin another pickup.
+
+If not:
+
+do NOT create one.
+
+No empty fake action.
+
+---
+
+## 13.10–14.05
+
+Kiko looks from:
+
+car shelf
+→ white block bin
+→ remaining picture books / flat book-like objects.
+
+Mimi follows her gaze.
+
+This prepares the next category.
+
+---
+
+## 14.05–15.00 — SHOT 06 SETUP
+
+Kiko and Mimi turn their attention toward the EXISTING books / picture-book objects visible in the scene.
+
+Do NOT pick them up yet.
 
 End with:
 
-- blocks still inside toy box,
-- cars now on shelf,
-- books still scattered,
-- book rack still empty,
-- Kiko and Mimi visibly ready for the next category,
-- no new objects,
-- no reset.
+- white block bin unchanged,
+- stored blocks remain inside,
+- yellow car physically on shelf,
+- any other cleaned cars physically on same shelf,
+- right-side assembled block structure unchanged,
+- all remaining blocks unchanged,
+- books still untouched,
+- Kiko and Mimi stable,
+- no new props,
+- no room redesign.
 
 Cut cleanly at 15.0 seconds.
 
-This final frame must naturally set up Shot 06:
-
-**Books in the Rack.**
-
 ---
 
-# Dialogue Timing
+# EXACT DIALOGUE MAP
 
-| Time | Speaker | Dialogue |
-|---|---|---|
-| 1.5–4.1 | Mimi | "A place for everything! Cars go here." |
-| 6.2–7.7 | Kiko | "Cars on the shelf!" |
+0.35–1.35
+Kiko:
+"Cars next!"
+
+2.25–3.75
+Mimi:
+"Where do the cars go?"
+
+4.15–5.45
+Kiko:
+"On the shelf!"
+
+6.30–7.55
+Mimi:
+"One at a time."
+
+10.70–12.10
+Kiko:
+"Cars on the shelf!"
+
+ALL dialogue is ENGLISH.
 
 No additional dialogue.
 
 ---
 
-# Voice Lock
+# CAR PHYSICAL CONTINUITY LOCK
 
-## Mimi
+Every cleaned car must follow:
 
-Canonical Mimi voice.
-
-Delivery:
-
-- warm,
-- encouraging,
-- rhythmic,
-- friendly,
-- same emotional identity as Shot 04.
-
-Not teacher-like.
-
-Not preachy.
-
-## Kiko
-
-Canonical Kiko child voice.
-
-Delivery:
-
-- more confident than Shot 04,
-- proud,
-- engaged,
-- enjoying the progress.
-
-Auto Voice OFF.  
-Generated Dialogue ON.  
-Generated Audio ON.  
-Music OFF.
-
----
-
-# Lip-Sync Lock
-
-1.5–4.1:
-
-Mimi only:
-
-**"A place for everything! Cars go here."**
-
-6.2–7.7:
-
-Kiko only:
-
-**"Cars on the shelf!"**
-
-Only active speaker moves mouth.
-
-Listening character keeps mouth closed.
-
-No overlapping dialogue.
-
-No voice swap.
-
-No random mouth movement.
-
----
-
-# Critical Car Continuity Lock
-
-Every car that leaves the floor must be physically transported.
-
-Allowed:
-
-**floor → Kiko's hand → shelf**
+existing car
+→ physical hand contact
+→ lift
+→ visible transport
+→ shelf
+→ release
+→ remain on shelf.
 
 Forbidden:
 
-**floor → vanish**
+floor → vanish
 
 Forbidden:
 
-**empty shelf → car appears**
+empty shelf → car appears
 
 Forbidden:
 
-**car drives itself to shelf**
+car drives itself
 
 Forbidden:
 
-**one car becomes two cars**
+car changes colour
 
-Once a car is placed on the shelf:
+Forbidden:
 
-it stays there.
+car duplicates
 
-Do not move it back to the floor.
+Forbidden:
+
+car teleports.
 
 ---
 
-# Previous Progress Lock
+# BLOCK FREEZE LOCK
 
-Shot 04's completed work must NOT regress.
+During ALL of Shot 05:
 
-Throughout Shot 05:
+The BLOCK category is FROZEN.
 
-### Blocks
-Remain inside toy box.
+Do NOT move:
 
-### Toy Box
-Remains filled with the established blocks.
+- white-bin blocks,
+- foreground remaining blocks,
+- background blocks,
+- right-side assembled structure,
+- table blocks.
 
-Do NOT:
+No block may:
 
-- put blocks back on floor,
-- empty the toy box,
-- generate new blocks,
-- change the box location,
-- duplicate the toy box.
-
-Progress is cumulative.
-
----
-
-# Category Lock
-
-Shot 05 cleans ONLY:
-
-**TOY CARS.**
-
-Do NOT clean picture books early.
-
-Throughout Shot 05:
-
-### Books
-Remain scattered on the floor.
-
-### Book Rack
-Remains EMPTY.
-
-Shot 06 handles the books.
-
-No book may:
-
-- move itself,
 - disappear,
-- enter rack,
-- stand upright automatically.
-
----
-
-# Shelf Lock
-
-Use the SAME shelf established in @image1.
-
-Do NOT:
-
-- move the shelf,
-- enlarge it,
-- shrink it,
-- create a second shelf,
-- redesign its tiers,
-- change its material.
-
-Cars must be placed only on physically reachable shelf positions.
-
-Do not fill impossible upper areas without visible physical action.
-
----
-
-# Character Persistence Lock
-
-Kiko and Mimi remain canonical throughout.
-
-Preserve actual @image1 scale and positions as closely as physical action allows.
-
-Do NOT:
-
-- swap identities,
 - teleport,
-- disappear,
-- duplicate,
-- redesign,
-- change clothing,
-- change proportions,
-- add children,
-- add adults.
+- fall,
+- change colour,
+- change size,
+- move into bin automatically.
 
-Kiko performs the primary physical car-cleaning action.
-
-Mimi remains the encouraging companion.
+SHOT 05 IS ABOUT CARS ONLY.
 
 ---
 
-# Camera
+# BOOK FREEZE LOCK
 
-35mm.
-
-Child eye level.
-
-Stable medium action framing.
-
-The camera must make the physical logic readable:
-
-**car on floor → Kiko → shelf.**
-
-If all important elements already fit:
-
-KEEP CAMERA LOCKED.
-
-Only if required:
-
-allow ONE subtle smooth framing correction.
+Books / picture-book objects remain untouched throughout Shot 05.
 
 Do NOT:
 
-- pan for every individual car,
-- zoom into every placement,
-- cut to close-ups,
-- use insert shots,
-- use top-down view,
-- constantly track Kiko,
-- hunt between Kiko and Mimi.
+- pick them up,
+- move them,
+- put them in a rack,
+- make them disappear,
+- rearrange them.
 
-Character action provides the movement.
+Shot 06 handles books.
 
 ---
 
-# Engagement / Pacing Lock
+# NO-POP-IN LOCK
 
-Shot rhythm:
+Every object used during Shot 05 must already be supported by @image1.
 
-first car placed immediately  
-→ Mimi names the rule  
-→ second / third placement  
-→ Kiko repeats the phrase  
-→ visible progress  
-→ books become next target.
+Do NOT generate:
 
-No long inactive periods.
+- extra cars,
+- extra blocks,
+- extra books,
+- new shelf,
+- new basket,
+- new bin,
+- new storage furniture.
 
-Avoid:
+If the required object does not physically exist:
 
-- standing and smiling,
-- repetitive identical gestures,
-- silent staring,
-- long pauses,
-- characters freezing while dialogue plays.
-
-Every 1–3 seconds should contain:
-
-- a placement,
-- a reach,
-- an eye shift,
-- a reaction,
-- visible progress,
-- or a meaningful transition to the next action.
+DO NOT INVENT IT.
 
 ---
 
-# Sound
+# SOUND
 
 Natural Playroom ambience only.
 
 Allowed:
 
-- quiet indoor room tone,
+- soft indoor room tone,
 - distant morning birds,
-- subtle fabric movement,
-- gentle footsteps,
-- soft toy-car-on-wood placement sounds.
+- subtle clothing movement,
+- small footsteps,
+- soft toy-car-on-wood placement sound.
 
-No exaggerated car-engine sounds.
-
-No driving noises.
+No engine sounds.
 
 No honking.
 
 No cartoon squeaks.
 
 NO music.
-
 NO cleanup song.
-
-NO jingle.
-
 NO magical sound.
 
 ---
 
-# Colour / Quality Lock
+# COLOUR / QUALITY LOCK
 
-Shot 05 must preserve Shot 04's visual baseline.
-
-This is NOT a fresh quality reset.
+Preserve ACTUAL @image1 visual baseline.
 
 Do NOT increase:
 
@@ -697,56 +640,44 @@ Do NOT increase:
 - saturation,
 - sharpness,
 - HDR,
-- brightness merely because the room is becoming cleaner,
-- glossy reflections.
+- gloss,
+- exposure.
 
-The visual improvement comes from physical cleanup, NOT colour grading.
+No progressive visual drift.
 
-Maintain:
+If correction occurs:
 
-- warm diffused daylight,
-- medium-low contrast,
-- soft natural saturation,
-- matte handcrafted surfaces.
-
-If correction is necessary:
-
-slightly softer / calmer only.
-
-Never stronger.
+slightly softer only.
 
 ---
 
-# Negative Prompt
+# NEGATIVE PROMPT
 
-fresh quality reset, fresh room generation, environment reset, background music, cleanup song, melody, soundtrack, musical sting, text, captions, subtitles, cars teleporting, cars disappearing, cars spawning, cars driving themselves, floating cars, flying cars, duplicated cars, instant full shelf, automatic cleanup, shelf filling by itself, blocks returning to floor, empty toy box, toy box reset, new blocks, books being cleaned early, books disappearing, books in rack before Shot 06, book rack filling early, extra toys, toy pop-in, environment redesign, furniture movement, shelf movement, duplicate shelf, character redesign, Kiko and Mimi swapping sides, duplicate characters, extra children, adult characters, static opening, long silent opening, frozen characters, dead air, camera hunting, rapid pan, repeated zoom, cutaway, insert shot, top-down camera, deformed anatomy, extra fingers, crossed eyes, photorealistic faces, HDR, high contrast, contrast increase, oversaturated, saturation increase, glossy plastic, oversharpened, harsh highlights, harsh shadows, wrong voice, voice swap, overlapping dialogue, simultaneous mouth movement
+car teleporting, car spawning, car disappearing, car duplication, car changing colour, car driving itself, floating car, flying car, multiple cars moving simultaneously, instant full shelf, invented shelf, new car box, car placed into white block bin, blocks moving during car cleanup, blocks returning to floor, blocks disappearing, assembled block structure changing, assembled structure collapsing, books moving early, books disappearing, prop category confusion, block turning into car, book turning into car, toy pop-in, environment reset, room redesign, furniture movement, camera orbit, camera hunting, zoom, push-in, dolly-in, Kiko enlargement, Mimi enlargement, giant Mimi, scale drift, non-English speech, Chinese speech, Mandarin speech, gibberish, wrong voice, voice swap, overlapping dialogue, simultaneous mouth movement, background music, HDR, high contrast, oversaturation, glossy plastic, oversharpened, harsh highlights, harsh shadows
 
 ---
 
-# Final QA Checklist
+# FINAL QA CHECKLIST
 
-- [ ] ACTUAL Shot 04 final frame used as @image1
-- [ ] NO fresh quality reset
-- [ ] Exact cumulative room state preserved
-- [ ] Blocks remain inside toy box
-- [ ] Cars begin on floor
-- [ ] Books remain on floor
-- [ ] Shelf begins empty
-- [ ] Book rack remains empty
-- [ ] First car reaches shelf within about 1 second
-- [ ] Immediate visual hook
-- [ ] Every cleaned car follows floor → hand → shelf
-- [ ] No car teleportation
-- [ ] No car disappearance
-- [ ] No car spawn
-- [ ] Placed cars remain on shelf
-- [ ] Mimi says exactly "A place for everything! Cars go here."
-- [ ] Kiko says exactly "Cars on the shelf!"
-- [ ] Only named speaker moves mouth
-- [ ] No books cleaned early
-- [ ] No long dead air
-- [ ] Stable camera whenever possible
-- [ ] No music
-- [ ] No colour / contrast drift
-- [ ] Final attention moves naturally toward books
-- [ ] Final frame directly sets up Shot 06
+- [ ] Exact Shot 04 last frame used as @image1.
+- [ ] Kiko begins kneeling exactly as shown.
+- [ ] Mimi begins screen-left exactly as shown.
+- [ ] White block bin remains fixed.
+- [ ] Blocks already inside bin remain there.
+- [ ] Other blocks remain untouched.
+- [ ] Right-side assembled structure remains unchanged.
+- [ ] Yellow foreground car is the first active car.
+- [ ] Same yellow car is physically picked up.
+- [ ] Yellow car does not teleport.
+- [ ] White block bin is NOT used for cars.
+- [ ] Only toy cars are cleaned.
+- [ ] Books remain untouched.
+- [ ] No new cars appear.
+- [ ] No shelf is invented.
+- [ ] Mimi remains smaller than Kiko canonically.
+- [ ] All dialogue is English.
+- [ ] No camera orbit.
+- [ ] No zoom.
+- [ ] No prop-category confusion.
+- [ ] Final gaze shifts toward existing books.
+- [ ] Shot 06 setup is clean.

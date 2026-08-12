@@ -1,83 +1,146 @@
-# OpenArt Shot 01 — FINAL FIXED
+# OPENART SHOT 01 — FINAL FULLY FIXED
+# ENGLISH VOICE + ENVIRONMENT LOCK + 4-YEAR-OLD SCALE LOCK
 
 ## Production Metadata
 
-| Field | Value |
-|---|---|
-| Episode | EP10 — All Clean, Hooray! |
-| World | Kiko's Home |
-| Location | Playroom |
-| Shot Number | 01/08 |
-| Chain | A — FRESH WORLD ANCHOR |
-| Duration | 15.0 s |
-| Lens | 28 mm |
-| Camera | Motivated slow reveal |
-| Eye Level | Child height |
-| Aspect Ratio | 16:9 |
+Episode: EP10 — All Clean, Hooray!
+World: Kiko's Home
+Location: Playroom
+Shot Number: 01/08
+Chain: A — FRESH WORLD ANCHOR
+Duration: 15.0 seconds
+Lens: 28mm
+Camera: Mostly locked
+Eye Level: Child height
+Aspect Ratio: 16:9
 
 ---
 
-## Reference Upload Map
+# Reference Upload Map
 
-**@image1:** Canonical Kiko's Home Playroom environment  
-**@image2:** Canonical Kiko character reference
+@image1: Canonical Kiko's Home Playroom environment.
+@image2: Canonical Kiko character reference.
 
-Do NOT upload Mimi for Shot 01.
+@image1 is the ABSOLUTE environment authority.
+@image2 is the ABSOLUTE Kiko identity authority.
 
-Mimi must NOT appear in this shot.
+Use BOTH references.
 
----
+Mimi must NOT appear.
 
-# Critical First-Second Hook
-
-The first second must contain immediate visual activity.
-
-Do NOT begin with an empty static room.
-
-Do NOT spend several seconds slowly establishing the environment before something happens.
-
-Start with:
-
-- Kiko already entering / stepping into the messy playroom,
-- one small toy car gently rolling a short distance across the floor in front of her,
-- Kiko immediately notices it and stops her step,
-- her eyes widen with surprised curiosity.
-
-The movement must feel natural and safe.
-
-No crash.
-
-No dangerous fall.
-
-No exaggerated slapstick.
-
-The viewer should understand within the FIRST 1 SECOND:
-
-**“This room is really messy.”**
+No other character may appear.
 
 ---
 
-# Video Prompt
+# THREE CRITICAL FIXES — NON-NEGOTIABLE
 
-MANDATORY SPOKEN DIALOGUE.
+The previous video had three specific failures.
+
+ALL THREE MUST REMAIN FIXED.
+
+1. LANGUAGE:
+   Kiko must speak CLEAR NATURAL ENGLISH ONLY.
+
+2. ENVIRONMENT / CAMERA:
+   The camera must NOT orbit around Kiko and the room must NOT change around her.
+
+3. SCALE:
+   Kiko must remain the same believable 4-year-old size established in the starting image.
+
+These are hard constraints.
+
+---
+
+# CRITICAL ENGLISH-LANGUAGE LOCK
+
+ALL SPEECH IN THIS VIDEO MUST BE IN ENGLISH.
+
+LANGUAGE = ENGLISH.
+
+Kiko speaks English only.
+
+Use Kiko's manually selected canonical ENGLISH child voice.
+
+Every spoken line must be pronounced exactly as written in English.
+
+DO NOT translate.
+
+DO NOT paraphrase.
+
+DO NOT improvise speech.
+
+DO NOT generate another language.
+
+DO NOT generate Chinese.
+
+DO NOT generate Mandarin.
+
+DO NOT generate fake language.
+
+DO NOT generate gibberish.
+
+DO NOT generate random syllables.
+
+DO NOT generate baby babble.
+
+DO NOT add extra words between written lines.
+
+If a spoken line cannot be generated correctly in English,
+DO NOT replace it with another language.
+
+SPEAK THE EXACT ENGLISH SCRIPT ONLY.
+
+Auto Voice OFF.
+Canonical Kiko English Voice selected manually.
+Generated Dialogue ON.
+Generated Audio ON.
+Music OFF.
+
+---
+
+# EXACT ENGLISH DIALOGUE SCRIPT
+
+Kiko speaks several short, simple English sentences during Shot 01.
+
+Use these EXACT lines:
+
+0.4–1.7
+Kiko:
+"Whoa! What a mess!"
+
+4.0–6.4
+Kiko:
+"Blocks, cars, and books everywhere!"
+
+9.0–10.8
+Kiko:
+"So many things to tidy."
+
+12.0–14.0
+Kiko:
+"Where should I start?"
+
+These are the ONLY spoken lines.
+
+All four lines are ENGLISH.
+
+Do not add anything else.
+
+---
+
+# Core Visual Style
 
 Premium soft stylised 3D Pompom Hills children's animation.
 
-Warm Kiko's Home Playroom.
+Warm cozy morning inside Kiko's canonical home playroom.
 
-Child-height camera.
-
-28mm lens.
-
-Warm diffused morning daylight.
-
-Cream walls.
-
-Light natural wood floor.
-
-Soft matte handcrafted materials.
+Soft handcrafted matte materials.
 
 Medium-low contrast.
+
+Natural soft saturation.
+
+Warm diffused daylight.
 
 No HDR.
 
@@ -87,365 +150,584 @@ No oversharpening.
 
 No harsh shadows.
 
+No colour drift.
+
+No exposure drift.
+
 ---
 
-## Environment State — Locked From First Frame
+# ABSOLUTE ENVIRONMENT LOCK
 
-The playroom is already messy from the FIRST FRAME.
+The playroom must remain recognizably the SAME physical room throughout all 15 seconds.
 
-All clutter exists physically from the beginning.
+@image1 controls:
 
-Visible established props:
+- architecture,
+- wall positions,
+- window positions,
+- bookshelf position,
+- window seat position,
+- sofa position,
+- round table position,
+- rug position,
+- wall art,
+- furniture,
+- room proportions,
+- lighting direction,
+- overall spatial layout.
 
-- colourful building blocks scattered naturally across the floor,
-- several small toy cars on the floor and near the low table,
-- colourful picture books lying sideways or leaning near furniture,
-- natural wood toy box open and empty,
-- wooden shelf empty,
-- low book rack empty.
+Preserve the canonical elements established by @image1:
+
+- tall wooden bookshelf on the left,
+- arched window / window-seat area,
+- sofa and cushions on the right,
+- teddy bear near sofa if visible in the reference,
+- round colourful activity table,
+- rug,
+- block / toy area,
+- same windows,
+- same wall decorations,
+- same architectural proportions.
+
+The room MUST NOT transform while Kiko moves.
+
+The viewer must always understand:
+
+THIS IS ONE SINGLE STABLE ROOM.
+
+---
+
+# CRITICAL BACKGROUND PERSISTENCE LOCK
+
+Once something exists in the opening frame,
+it must remain physically consistent.
+
+DO NOT:
+
+- change furniture shape,
+- change furniture position,
+- replace furniture,
+- add furniture,
+- remove furniture,
+- move windows,
+- change wall decorations,
+- change bookshelf contents randomly,
+- change rug,
+- morph sofa,
+- morph table,
+- create new shelves,
+- remove shelves,
+- regenerate background sections.
+
+The background is LOCKED.
+
+Kiko moves inside the room.
+
+THE ROOM DOES NOT MOVE AROUND KIKO.
+
+---
+
+# MESSY-ROOM STATE LOCK
+
+The playroom is already visibly messy from FRAME 1.
+
+The mess must exist from the beginning.
+
+Use only a reasonable amount of established child-safe clutter:
+
+- colourful building blocks on floor,
+- several small toy cars,
+- several picture books,
+- toys not yet stored.
+
+All toys exist physically from the beginning.
 
 CRITICAL:
 
-Do NOT generate additional toys later.
+NO TOY SPAWNING.
 
-Do NOT increase clutter during the shot.
+NO TOY DISAPPEARANCE.
 
-Do NOT spawn:
+NO CLUTTER INCREASE.
 
-- new blocks,
-- new cars,
-- new books,
-- new furniture,
-- new decorations.
+NO CLUTTER REDUCTION.
 
-Every visible toy must already belong to the established messy room.
+Nothing is cleaned during Shot 01.
+
+The exact same physical objects remain present until the end.
 
 ---
 
-# 15-Second Performance
+# CRITICAL KIKO IDENTITY LOCK
 
-## 0.0–0.8 — IMMEDIATE HOOK
+Kiko must match @image2 throughout.
 
-Begin with Kiko already stepping into the playroom.
+Canonical Kiko:
 
-A small toy car already present on the floor rolls gently a short distance into her path.
+- 4-year-old girl,
+- preschool proportions,
+- brown hair in two pigtail buns,
+- canonical face,
+- coral-pink long-sleeve top,
+- white shorts,
+- pink shoes,
+- correct skin tone,
+- correct eye shape,
+- correct body proportions.
 
-Kiko immediately stops her foot before touching it.
+Do NOT age Kiko up.
+
+Do NOT make Kiko look 6, 8, or 10 years old.
+
+Do NOT redesign her.
+
+---
+
+# ABSOLUTE 4-YEAR-OLD SCALE LOCK
+
+Kiko's size in the FIRST FRAME is the correct size.
+
+PRESERVE THAT EXACT CHARACTER SCALE THROUGHOUT THE VIDEO.
+
+Do NOT enlarge Kiko.
+
+Do NOT bring Kiko closer to the camera.
+
+Do NOT make her body grow.
+
+Do NOT make her head grow.
+
+Do NOT make her visually dominate the room.
+
+Kiko is FOUR YEARS OLD.
+
+She must remain visibly small relative to the room.
+
+Maintain believable environmental relationships:
+
+- Kiko is clearly much shorter than the tall bookshelf,
+- Kiko is clearly smaller than the sofa,
+- the round play table remains substantial relative to Kiko,
+- the window seat remains large relative to Kiko,
+- room furniture must retain adult-scale proportions around her,
+- generous room space remains visible around Kiko.
+
+Kiko must NOT fill most of the frame.
+
+Maintain generous environmental context around her.
+
+If the model makes any scale correction:
+
+MAKE KIKO SLIGHTLY SMALLER,
+NEVER LARGER.
+
+No scale drift.
+
+No character enlargement.
+
+No subject swelling.
+
+No oversized foreground child.
+
+No hero framing.
+
+---
+
+# ABSOLUTE CAMERA LOCK
+
+Use ONE continuous camera.
+
+28mm.
+
+Child-height eye level.
+
+CAMERA IS MOSTLY LOCKED.
+
+This is NOT an orbit shot.
+
+This is NOT a showcase shot.
+
+This is NOT a room-tour shot.
+
+Kiko explores with:
+
+- eye movement,
+- head turns,
+- small body turns,
+- one or two careful steps.
+
+THE CAMERA DOES NOT CIRCLE AROUND HER.
+
+Allowed camera movement:
+
+only ONE extremely subtle smooth compositional adjustment if absolutely required.
+
+Preferred:
+
+KEEP CAMERA STATIC.
+
+DO NOT:
+
+- orbit around Kiko,
+- circle around Kiko,
+- rotate around Kiko,
+- spin around Kiko,
+- arc around Kiko,
+- pan continuously around the room,
+- perform a 180-degree move,
+- perform a 360-degree move,
+- change viewing side,
+- move behind Kiko,
+- dolly toward Kiko,
+- push in,
+- zoom in,
+- creep forward,
+- move closer throughout the shot.
+
+The environment should stay visually anchored.
+
+---
+
+# 15-SECOND PERFORMANCE
+
+## 0.0–0.4 — IMMEDIATE VISUAL HOOK
+
+Start directly in the established messy playroom.
+
+Kiko is already standing / finishing a small entry step at the correct 4-year-old scale.
+
+A small EXISTING toy car is near her foot.
+
+Kiko notices the toy.
+
+She stops safely.
 
 Her eyes widen.
 
-She looks down at the car and then quickly toward the surrounding mess.
+She immediately sees the mess around her.
 
-Camera is already at child height.
+NO camera orbit.
 
-No empty establishing hold.
+NO room transformation.
 
-No static opening.
+NO Kiko scale change.
 
 ---
 
-## 0.8–1.4
+## 0.4–1.7 — FIRST ENGLISH LINE
 
-Kiko says:
+Kiko says clearly in ENGLISH:
 
-**"Whoa!"**
+"Whoa! What a mess!"
 
-Short, natural surprised reaction.
+Natural 4-year-old English child delivery.
+
+Surprised but safe.
 
 Not scared.
-
-Not upset.
 
 Not crying.
 
 Only Kiko's mouth moves.
 
----
-
-## 1.4–4.0
-
-Kiko carefully steps around the toy car.
-
-She notices several colourful blocks nearby.
-
-She turns her head toward another messy part of the room.
-
-The camera begins a slow, motivated reveal following her gaze.
-
-Do NOT use a mechanical showroom-style pan.
-
-The camera movement should feel connected to what Kiko is noticing.
+Camera remains stable.
 
 ---
 
-## 4.0–7.0
+## 1.7–4.0
 
-Kiko takes two small careful steps through a clear gap between toys.
+Kiko carefully looks across the already-established floor clutter.
 
-She pauses beside a scattered picture book.
+Her gaze moves naturally between:
 
-She looks from:
-
-blocks  
-→ toy cars  
+blocks
+→ toy cars
 → books.
 
-Use small readable eye and head movements.
+She takes at most ONE small careful step.
 
-The audience should discover the mess WITH Kiko.
+No camera rotation.
 
----
+The objects remain exactly where they were.
 
-## 7.0–10.0
-
-Camera continues the gentle reveal toward:
-
-- empty toy box,
-- empty shelf,
-- empty book rack.
-
-These storage locations should become clearly readable.
-
-This visually sets up the later cleaning logic:
-
-blocks → box  
-cars → shelf  
-books → rack.
-
-Kiko notices the empty storage places.
-
-Her expression changes from surprise to mild thinking.
+No object changes.
 
 ---
 
-## 10.0–12.5
+## 4.0–6.4 — SECOND ENGLISH LINE
 
-Kiko slowly looks back across the scattered toys.
+Kiko says clearly:
 
-She puts one hand lightly near her hip / side and gives a small puzzled head tilt.
+"Blocks, cars, and books everywhere!"
 
-No frozen pose.
+As she speaks:
 
-Use natural breathing.
+she gently indicates the already-visible mess with one small hand gesture.
 
-Tiny hair and fabric movement.
+She does NOT spin her entire body around.
 
----
+She does NOT turn repeatedly.
 
-## 12.5–14.2
+One modest head / torso turn is enough.
 
-Kiko makes one small overwhelmed-but-safe gesture:
-
-both hands lift slightly as she looks across the mess.
-
-Her expression says:
-
-**“Where do I even begin?”**
-
-Do NOT make her sad.
-
-Do NOT make her panic.
-
-Do NOT make her angry.
-
----
-
-## 14.2–15.0 — CONTINUITY INTO SHOT 02
-
-Settle into a composition suitable for Shot 02.
-
-Kiko remains visible.
-
-She is looking across the messy room.
-
-Shoulders slightly raised.
-
-Hands naturally near her sides / slightly lifted.
-
-Eyes open.
-
-Mouth closed.
-
-The room remains fully messy.
-
-No toys have been cleaned yet.
-
-Cut at exactly 15.0 seconds.
-
----
-
-# Dialogue Timing
-
-| Time | Speaker | Dialogue |
-|---|---|---|
-| 0.8–1.4 | Kiko | "Whoa!" |
-
-No other dialogue.
-
----
-
-# Voice Lock
-
-Kiko:
-
-Canonical Kiko child voice.
-
-Delivery:
-
-- surprised,
-- curious,
-- warm,
-- natural,
-- not frightened.
-
-Auto Voice OFF.
-
-Generated Dialogue ON.
-
-Generated Audio ON.
-
-Music OFF.
-
----
-
-# Lip-Sync Lock
-
-0.8–1.4:
-
-Kiko only:
-
-**"Whoa!"**
+Camera stays locked.
 
 Only Kiko's mouth moves.
 
-No random mouth movement outside the spoken line.
+---
+
+## 6.4–9.0
+
+Kiko visually notices the storage areas already present in the room.
+
+She looks toward:
+
+- toy storage,
+- shelf,
+- book area.
+
+Do NOT use camera movement to show them.
+
+Let Kiko's gaze communicate the discovery.
+
+The environment remains physically unchanged.
+
+No furniture changes.
+
+No object pop-in.
 
 ---
 
-# Camera
+## 9.0–10.8 — THIRD ENGLISH LINE
 
-28mm.
+Kiko says thoughtfully:
 
-Child eye level.
+"So many things to tidy."
 
-One continuous take.
+Clear natural ENGLISH pronunciation.
 
-Do NOT use:
+She looks from the mess toward the storage areas.
 
-- hard cut,
-- zoom,
-- sudden push-in,
-- aggressive pan,
-- whip pan,
-- high-angle surveillance view.
+Her posture becomes thoughtful.
 
-Camera behaviour:
-
-**HOOK first → motivated slow reveal → settle for Shot 02.**
-
-Movement should follow Kiko's attention.
-
-Do not pan merely because the original storyboard says “pan left to right.”
-
-Story motivation overrides mechanical camera movement.
+Only Kiko's mouth moves.
 
 ---
 
-# Prop Continuity Lock
+## 10.8–12.0
 
-Throughout Shot 01:
+Small active thinking beat.
 
-**Building blocks:** scattered on floor  
-**Toy cars:** scattered on floor  
-**Picture books:** scattered on floor  
-**Toy box:** open and empty  
-**Shelf:** empty  
-**Book rack:** empty
+Kiko looks at one nearby block.
 
-Nothing is cleaned during this shot.
+Then a toy car.
 
-Do NOT accidentally place:
+Then a picture book.
 
-- blocks inside toy box,
-- cars on shelf,
-- books inside rack.
+Use eyes and a small head movement.
 
-Those actions happen later.
+Do NOT rotate the whole character repeatedly.
+
+No camera movement required.
 
 ---
 
-# Character Lock
+## 12.0–14.0 — FOURTH ENGLISH LINE
 
-Kiko:
+Kiko asks:
 
-- canonical appearance,
-- brown pigtails,
-- coral-pink top,
-- white shorts,
-- correct child proportions.
+"Where should I start?"
 
-Mimi:
+Warm curious English delivery.
 
-**NOT PRESENT.**
+One small puzzled head tilt.
 
-Do NOT generate Mimi in background.
+One open-hand thinking gesture.
 
-Do NOT show rabbit ears entering frame.
+Not sad.
 
-Do NOT foreshadow Mimi physically.
+Not panicked.
 
-Mimi enters only in Shot 02.
+Not frustrated.
+
+Only Kiko's mouth moves.
+
+---
+
+## 14.0–15.0 — SHOT 02 CONTINUITY
+
+Kiko settles naturally.
+
+She remains at the SAME child scale.
+
+She looks across the mess.
+
+Shoulders slightly raised.
+
+Warm uncertain expression.
+
+Mouth closed.
+
+Eyes open.
+
+The exact same messy room remains behind her.
+
+No cleaning yet.
+
+No prop movement.
+
+No camera orbit.
+
+No camera push-in.
+
+End in a stable composition suitable for Shot 02.
+
+Cut at 15.0 seconds.
+
+---
+
+# SPEAKER / LIP-SYNC MAP
+
+0.4–1.7
+Kiko only:
+"Whoa! What a mess!"
+
+4.0–6.4
+Kiko only:
+"Blocks, cars, and books everywhere!"
+
+9.0–10.8
+Kiko only:
+"So many things to tidy."
+
+12.0–14.0
+Kiko only:
+"Where should I start?"
+
+Only Kiko speaks.
+
+Only Kiko's mouth moves during those exact ranges.
+
+Outside those ranges:
+
+mouth closed.
+
+No background speech.
+
+No off-screen voices.
+
+---
+
+# LANGUAGE QA LOCK
+
+Before generating dialogue, enforce:
+
+LANGUAGE: ENGLISH
+VOICE: CANONICAL KIKO ENGLISH CHILD VOICE
+ACCENT: NATURAL ENGLISH
+SCRIPT: EXACT TEXT ONLY
+
+Never infer another language.
+
+Never translate the text.
+
+Never replace English with phonetic approximation.
+
+Never generate foreign-language filler between English sentences.
+
+---
+
+# Camera QA Lock
+
+At every frame verify:
+
+- same side of room,
+- same camera orientation,
+- same room geometry,
+- same furniture placement,
+- no orbit,
+- no push-in,
+- no zoom,
+- no Kiko enlargement.
+
+If movement is not necessary:
+
+KEEP CAMERA COMPLETELY STATIC.
+
+---
+
+# Scale QA Lock
+
+At every frame verify:
+
+Kiko remains the same apparent size as the first frame.
+
+Her head height relative to:
+
+- bookshelf,
+- sofa,
+- table,
+- window seat
+
+must remain stable.
+
+Do NOT reinterpret Kiko as the dominant foreground subject.
+
+The ROOM and KIKO must keep the same spatial relationship.
 
 ---
 
 # Sound
 
-Natural room ambience only.
+Natural playroom ambience only.
 
 Allowed:
 
-- very soft indoor room tone,
-- subtle distant outdoor birds,
-- tiny natural toy-car rolling sound,
+- subtle indoor room tone,
+- distant birds,
 - soft footsteps,
-- gentle fabric movement.
+- gentle fabric movement,
+- very small natural toy contact sound.
 
 NO MUSIC.
 
-NO melody.
+NO SONG.
 
-NO musical sting.
+NO MELODY.
 
-NO comedic sound effect.
+NO MAGICAL SOUND.
 
-NO magical chime.
+NO OTHER VOICES.
 
 ---
 
 # Negative Prompt
 
-background music, song, melody, soundtrack, musical sting, text, captions, subtitles, watermark, static empty opening, boring establishing hold, long dead air, frozen character, slow meaningless pan, showroom camera movement, high angle, telephoto lens, harsh lighting, dark shadows, horror, Kiko crying, Kiko scared, Kiko angry, panic, dangerous fall, slipping, toy collision, exaggerated slapstick, extra characters, Mimi appearing, rabbit appearing, adult character, character redesign, wrong clothes, deformed anatomy, extra fingers, crossed eyes, photorealistic human face, toys spawning, toy pop-in, blocks appearing from nowhere, cars appearing from nowhere, books appearing from nowhere, clutter increasing during shot, toy box suddenly filling, cars on shelf, books in rack, environment redesign, furniture moving, HDR, high contrast, contrast increase, oversaturated, glossy plastic, oversharpened, harsh highlights, harsh shadows
+Chinese speech, Mandarin speech, non-English speech, foreign language, wrong language, gibberish, nonsense speech, random syllables, baby babble, improvised dialogue, extra dialogue, translated dialogue, wrong voice, voice swap, background talking, background music, song, melody, soundtrack, camera orbit, orbit shot, circling camera, camera arc, rotating camera, spinning camera, 180 degree camera move, 360 degree camera move, room tour, showroom camera, continuous pan, dolly in, push in, zoom in, creeping zoom, forward camera drift, camera approaching Kiko, environment drift, room morphing, room changing, furniture changing, furniture moving, furniture disappearing, new furniture, object pop-in, object disappearance, toy spawning, toys vanishing, clutter increasing, clutter decreasing, cleanup happening early, oversized child, giant Kiko, Kiko too large, character enlargement, scale drift, subject swelling, foreground enlargement, oversized head, older child proportions, Kiko filling frame, Mimi appearing, rabbit appearing, extra characters, character redesign, wrong clothes, wrong hairstyle, HDR, high contrast, contrast increase, saturation increase, glossy plastic, oversharpened, harsh highlights, harsh shadows
 
 ---
 
-# Final QA Checklist
+# FINAL QA CHECKLIST
 
-- [ ] First meaningful movement occurs immediately at 0.0 s
-- [ ] Viewer understands “messy room” within first second
-- [ ] Kiko says “Whoa!” before 1.5 s
-- [ ] No long silent establishing opening
-- [ ] Kiko canonical
-- [ ] Mimi absent
-- [ ] All toys physically established from first frame
-- [ ] No prop pop-in
-- [ ] Blocks remain on floor
-- [ ] Cars remain on floor
-- [ ] Books remain on floor
-- [ ] Toy box remains empty
-- [ ] Shelf remains empty
-- [ ] Book rack remains empty
-- [ ] Camera movement motivated by Kiko's gaze
-- [ ] No unnecessary rapid camera movement
-- [ ] No music
-- [ ] Warm soft matte colour baseline preserved
-- [ ] Final frame naturally connects into Shot 02
+[ ] Kiko speaks multiple times during Shot 01.
+[ ] Every spoken sentence is ENGLISH.
+[ ] Exact dialogue is used.
+[ ] No Chinese / Mandarin / foreign language.
+[ ] No improvised dialogue.
+[ ] Canonical Kiko English voice used manually.
+[ ] Camera does NOT orbit around Kiko.
+[ ] Camera does NOT circle the room.
+[ ] Camera does NOT push in.
+[ ] Environment stays physically stable.
+[ ] Furniture does not move or morph.
+[ ] Toys do not pop in or disappear.
+[ ] Kiko remains exact believable 4-year-old scale.
+[ ] Kiko does NOT become bigger during the shot.
+[ ] Room remains clearly larger than Kiko.
+[ ] Mimi does not appear.
+[ ] Room is messy from first frame to last frame.
+[ ] Nothing gets cleaned yet.
+[ ] First dialogue begins at 0.4 seconds.
+[ ] No long dead-air section.
+[ ] No music.
+[ ] Final state prepares Shot 02.

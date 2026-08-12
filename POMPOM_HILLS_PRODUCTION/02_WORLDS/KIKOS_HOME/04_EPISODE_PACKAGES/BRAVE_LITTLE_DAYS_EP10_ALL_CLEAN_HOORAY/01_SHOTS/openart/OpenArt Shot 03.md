@@ -1,162 +1,278 @@
-# OpenArt Shot 03 — FINAL FIXED
+# OPENART SHOT 03 — FINAL FIXED
+# ACTUAL SHOT 02 FRAME CONTINUITY + ACTIVE ENGLISH DIALOGUE + CANONICAL MIMI SCALE CORRECTION
 
 ## Production Metadata
 
-| Field | Value |
-|---|---|
-| Episode | EP10 — All Clean, Hooray! |
-| World | Kiko's Home |
-| Location | Playroom |
-| Shot Number | 03/08 |
-| Chain | A — LINKED CONTINUATION |
-| Duration | 15.0 s |
-| Lens | 32 mm |
-| Camera | Locked medium two-shot |
-| Eye Level | Child height |
-| Aspect Ratio | 16:9 |
+Episode: EP10 — All Clean, Hooray!
+World: Kiko's Home
+Location: Playroom
+Shot Number: 03/08
+Chain: A — LINKED CONTINUATION
+Duration: 15.0 seconds
+Lens: 32mm
+Camera: Locked medium two-shot
+Eye Level: Child height
+Aspect Ratio: 16:9
 
 ---
 
 # Reference Upload Map
 
-**@image1:** ACTUAL approved final frame of Shot 02 — exact first frame of Shot 03 and SOLE visual continuity authority.
+@image1:
+ACTUAL approved final frame of Shot 02.
 
-No additional character or environment references required.
+This is:
+- the visual continuity source for the first frame of Shot 03,
+- the ABSOLUTE environment authority,
+- the ABSOLUTE character-position authority,
+- the Kiko scale authority,
+- the ABSOLUTE prop-state authority.
 
-ACTUAL @image1 overrides earlier storyboard assumptions.
+Mimi's body scale is the ONE explicit exception:
+if @image1 makes Mimi look too large, correct Mimi to the canonical smaller scale defined
+below from the first generated frame. Do not preserve an incorrect Mimi scale merely for
+pixel-level continuity.
+
+NO additional environment reference.
+
+NO fresh Playroom reset.
+
+NO fresh character arrangement.
+
+ACTUAL @image1 overrides every earlier written storyboard assumption except an incorrect
+Mimi body scale. The Character Scale Correction Lock below overrides @image1 only for
+Mimi's canonical size.
+
+---
+
+# ACTUAL FRAME CONTINUITY LOCK
+
+Start from the same composition and physical state as @image1.
 
 Preserve exactly:
 
-- canonical Kiko,
-- canonical Mimi,
-- actual character positions,
-- actual character scale,
-- exact messy playroom,
-- exact toy locations,
-- empty toy box,
+- Kiko screen-left,
+- Mimi screen-right,
+- actual Kiko size,
+- Mimi's same placement but corrected canonical smaller body size,
+- canonical Kiko-to-Mimi body-scale relationship,
+- actual distance between Kiko and Mimi,
+- exact room architecture,
+- exact table,
+- exact rug,
+- exact bookshelf,
+- exact sofa,
+- exact windows,
+- exact toys,
+- exact block positions,
+- exact car positions,
+- exact visible book positions,
+- exact furniture,
+- exact lighting,
+- exact contrast,
+- exact saturation,
+- exact camera orientation.
+
+Do NOT redesign or "correct" the room.
+
+Do NOT force older assumptions such as:
 - empty shelf,
 - empty book rack,
-- camera framing,
-- lighting,
-- colour and contrast baseline.
+- empty toy box,
 
-Do NOT create a fresh Playroom reset.
+unless those exact states are physically visible in @image1.
 
----
-
-# Critical Opening Hook
-
-Shot 03 begins with the SOLUTION immediately.
-
-Do NOT begin with:
-
-- another look around the room,
-- silent thinking,
-- long reaction,
-- establishing shot,
-- camera pan.
-
-Within the FIRST SECOND Mimi must actively propose:
-
-**"Let's tidy up together!"**
-
-This gives the viewer an immediate goal.
-
-The visual question becomes:
-
-**“What will they clean first?”**
+@image1 is the sole truth for the room, placement, props, camera, lighting and Kiko scale.
+The Character Scale Correction Lock is the sole truth for Mimi's body scale.
 
 ---
 
-# OpenArt Video Prompt
+# CHARACTER SCALE CORRECTION LOCK
 
-MANDATORY SPOKEN DIALOGUE.
+Use @image1 as continuity reference for identity, placement, room and overall composition,
+but correct Mimi's scale to canonical size.
 
-Continue EXACTLY from @image1.
+## Canonical scale rule
 
-Premium soft stylised 3D Pompom Hills children's animation.
+- Kiko is the primary child and remains the larger visual reference.
+- Mimi must be clearly smaller than Kiko overall.
+- Mimi's body height, measured from feet to top of head and EXCLUDING ear tips, must read
+  as approximately 75–80% of Kiko's height. Canonical target: Kiko 100 units, Mimi 80 units.
+- Mimi's torso, head mass, shoulder width, paw size and overall body volume must all read
+  smaller than Kiko's.
+- Mimi's eye line and shoulder line must sit slightly lower than Kiko's.
+- Long ears may extend upward, but ear-tip height must NOT make Mimi feel taller or bigger
+  overall. Ear height is not body height.
+- The viewer must instantly read:
+  - Kiko = slightly bigger preschool child.
+  - Mimi = smaller bunny friend.
 
-Warm Kiko's Home Playroom.
+## Do not allow
 
-32mm child-height medium two-shot.
+- Mimi equal to Kiko in overall size,
+- Mimi larger than Kiko,
+- Mimi wider or heavier than Kiko,
+- Mimi with an oversized head or body,
+- Mimi dominating the frame,
+- ear height interpreted as full-body height.
 
-Soft warm diffused daylight.
+## Continuity handling
 
-Matte handcrafted materials.
-
-Medium-low contrast.
-
-Natural saturation.
-
-No HDR.
-
-No glossy plastic.
-
-No oversharpening.
-
-No harsh shadows.
-
-The room remains messy throughout Shot 03.
-
-NO toy is put away yet.
-
-Shot 03 is about:
-
-**decision → simple plan → choosing the first object.**
+- Preserve the same characters, same room, same general positions and same shot continuity
+  from @image1.
+- Preserve Kiko's actual scale from @image1.
+- If @image1 makes Mimi look too large, treat that as a scale error to correct, not as a
+  scale rule to preserve.
+- Apply the corrected smaller Mimi scale from the FIRST generated frame. Do not show Mimi
+  visibly shrinking, morphing or resizing on screen.
+- Keep the correction subtle and stable.
+- Once corrected, lock this smaller Mimi scale for the entire shot.
+- Keep both characters on approximately the same depth plane. Do not fake the relationship
+  by pushing Mimi farther back or moving Kiko closer to camera.
+- Do not enlarge either character during dialogue and do not create perspective scale drift.
 
 ---
 
-# 15-Second Performance
+# CRITICAL ENGLISH LANGUAGE LOCK
 
-## 0.0–0.3 — EXACT CONTINUATION
+ALL SPOKEN LANGUAGE MUST BE ENGLISH ONLY.
 
-Exact Shot 02 final frame.
+Use the manually selected canonical ENGLISH voices.
 
-Kiko and Mimi already face each other in the messy Playroom.
+Speak every line EXACTLY as written.
+
+Do NOT:
+- translate,
+- paraphrase,
+- improvise,
+- speak Chinese,
+- speak Mandarin,
+- speak another language,
+- generate gibberish,
+- add extra dialogue,
+- omit dialogue.
+
+Auto Voice OFF.
+Generated Dialogue ON.
+Generated Audio ON.
+Music OFF.
+
+---
+
+# CAMERA LOCK
+
+32mm.
+
+Child-height camera.
+
+Start from the EXACT Shot 02 final framing.
+
+Camera remains essentially LOCKED.
+
+Do NOT:
+- orbit,
+- circle around characters,
+- rotate around room,
+- pan across room,
+- push in,
+- zoom,
+- dolly in,
+- drift forward,
+- hunt between speakers.
+
+If Kiko makes the final movement toward the blocks:
+allow only ONE tiny smooth compositional correction if absolutely necessary.
+
+Otherwise:
+KEEP CAMERA STATIC.
+
+---
+
+# STORY PURPOSE
+
+Shot 02 established:
+
+Kiko needs help
+→ Mimi arrives
+→ Mimi agrees to help
+→ they agree to do it together.
+
+Shot 03 must NOT repeat that conversation.
+
+Shot 03 is now:
+
+START THE PLAN
+→ decide to tidy
+→ choose ONE category
+→ choose blocks first
+→ physically prepare for Shot 04.
+
+---
+
+# 15-SECOND PERFORMANCE
+
+## 0.0–0.30 — CONTINUITY MATCH WITH CANONICAL SCALE CORRECTION
+
+Begin on the same Shot 02 final composition, with Mimi already corrected to canonical
+smaller body scale from the first generated frame.
+
+Kiko screen-left.
+Mimi screen-right.
+
+Kiko remains at the scale established in @image1.
+
+Mimi is already clearly smaller than Kiko overall: approximately 75–80% of Kiko's body
+height excluding ear tips.
+
+No visible shrinking or resizing animation.
 
 All mouths closed.
 
-Tiny natural breathing only.
+Tiny natural breathing.
 
 No camera reset.
 
-No empty opening.
+No prop change.
+
+No new object.
 
 ---
 
-## 0.3–1.8 — IMMEDIATE GOAL
+## 0.30–1.85 — IMMEDIATE GOAL
 
-Mimi says brightly:
+Mimi says brightly in ENGLISH:
 
-**"Let's tidy up together!"**
+"Let's tidy up together!"
 
-Mimi gives one small inviting paw gesture toward Kiko and then toward the toys.
+Mimi makes one small inviting paw gesture toward the messy toys.
 
 Only Mimi's mouth moves.
 
 Kiko listens with mouth closed.
 
-Kiko's expression shifts immediately from uncertain to interested.
+Kiko's expression becomes more energetic and ready.
 
 ---
 
-## 1.8–2.1
+## 1.85–2.15
 
-Very short reaction beat.
+Very short active reaction.
 
-Kiko blinks once and leans forward slightly.
+Kiko looks from Mimi toward the toys.
 
 No frozen pause.
 
 ---
 
-## 2.1–2.9
+## 2.15–3.65
 
 Kiko asks:
 
-**"Together?"**
+"Okay! Where do we start?"
 
-Curious, pleasantly surprised.
+Curious, willing, upbeat.
+
+Kiko makes one small open-hand question gesture.
 
 Only Kiko's mouth moves.
 
@@ -164,425 +280,420 @@ Mimi listens with mouth closed.
 
 ---
 
-## 2.9–3.2
+## 3.65–3.95
 
-Mimi gives one small reassuring nod.
+Mimi looks toward the existing toy clutter.
+
+One tiny thinking beat.
 
 ---
 
-## 3.2–4.8
+## 3.95–5.45
 
 Mimi says:
 
-**"One thing at a time."**
+"One thing at a time."
 
-As she speaks, Mimi gently indicates ONE nearby toy cluster rather than gesturing across the whole room.
+Warm, simple, encouraging delivery.
 
-Keep the idea visually simple:
+Mimi gently indicates ONE nearby area of the existing mess.
 
-one thing  
-→ then another.
-
-Do NOT create icons.
-
-Do NOT create floating numbers.
-
-Do NOT create visual arrows.
-
----
-
-## 4.8–5.1
-
-Kiko looks toward the nearest toy groups.
-
-Quick visual scan:
-
-blocks  
-→ cars  
-→ books.
-
----
-
-## 5.1–6.3
-
-Kiko says:
-
-**"Okay, let's try!"**
-
-Her posture becomes clearly more energetic and willing.
-
-One small confident nod.
-
-Only Kiko's mouth moves.
-
----
-
-## 6.3–6.7
-
-Brief active beat.
-
-Mimi looks toward the toys.
-
-Kiko follows her gaze.
-
----
-
-## 6.7–8.2
-
-Mimi says:
-
-**"You pick first."**
-
-Mimi opens one paw toward the different toy groups.
-
-Do NOT touch or move any toy.
-
-Kiko looks thoughtfully across the choices.
-
----
-
-## 8.2–8.6
-
-Kiko's eyes settle on the colourful blocks.
-
-Her face brightens as she makes a decision.
-
----
-
-## 8.6–10.7
-
-Kiko says enthusiastically:
-
-**"I'll start with the blocks!"**
-
-Kiko points clearly toward the existing block pile.
-
-Do NOT create new blocks.
-
-Do NOT move blocks yet.
-
-Mimi watches approvingly with mouth closed.
-
----
-
-## 10.7–11.0
-
-Mimi reacts immediately with a happy expression.
-
----
-
-## 11.0–12.2
-
-Mimi says:
-
-**"Great choice!"**
-
-One small encouraging nod.
+Do NOT create:
+- arrows,
+- numbers,
+- icons,
+- thought bubbles,
+- new objects.
 
 Only Mimi's mouth moves.
 
 ---
 
-## 12.2–13.0
+## 5.45–5.75
+
+Kiko visually scans the existing options.
+
+Her gaze moves naturally:
+
+blocks
+→ toy cars
+→ picture books.
+
+No camera movement needed.
+
+---
+
+## 5.75–7.10
+
+Kiko says:
+
+"Hmm... let me choose."
+
+Kiko gives one small thoughtful head tilt.
+
+One finger / hand may lift slightly in a natural thinking gesture.
+
+Do NOT create any floating symbol.
+
+Only Kiko's mouth moves.
+
+---
+
+## 7.10–7.40
+
+Mimi watches with a warm encouraging expression.
+
+---
+
+## 7.40–8.65
+
+Mimi says:
+
+"You pick first."
+
+Mimi opens one paw gently toward the existing toy groups.
+
+Do NOT touch any toy.
+
+Do NOT begin cleaning.
+
+Only Mimi's mouth moves.
+
+---
+
+## 8.65–9.00
+
+Kiko's eyes settle clearly on the EXISTING blocks.
+
+Her expression brightens.
+
+---
+
+## 9.00–10.90
+
+Kiko says enthusiastically:
+
+"I'll start with the blocks!"
+
+Kiko clearly indicates the EXISTING block pile.
+
+Do NOT:
+- spawn new blocks,
+- move blocks automatically,
+- clean anything yet.
+
+Only Kiko's mouth moves.
+
+---
+
+## 10.90–11.15
+
+Mimi reacts immediately with a happy expression.
+
+---
+
+## 11.15–12.25
+
+Mimi says:
+
+"Great choice!"
+
+One small approving nod.
+
+Only Mimi's mouth moves.
+
+Kiko listens with mouth closed.
+
+---
+
+## 12.25–12.75
 
 All mouths closed.
 
-Kiko looks from the blocks toward the empty toy box.
+Kiko looks toward the existing blocks.
 
-This establishes the physical relationship:
+Then toward the physically available storage area supported by @image1.
 
-**blocks → toy box.**
+Do NOT invent a new toy box.
 
----
-
-## 13.0–14.2
-
-Kiko takes one small step toward the blocks.
-
-She begins lowering her body naturally as if preparing to pick up the first block.
-
-Mimi turns slightly to watch.
-
-NO block has been lifted yet.
-
-NO block has entered the toy box yet.
+Do NOT move furniture.
 
 ---
 
-## 14.2–15.0 — SHOT 04 SETUP
+## 12.75–13.70
 
-End with Kiko close to the block pile, beginning a natural crouch / reach.
+Kiko takes ONE small natural step toward the nearest existing block pile.
 
-Her hand is approaching the nearest existing block but has NOT yet completed the pickup.
+Mimi turns slightly to follow Kiko with her eyes.
 
-Mimi remains clearly visible, watching encouragingly.
+Corrected canonical character scale remains locked.
 
-Toy box remains visibly empty.
+No camera push-in.
 
-Cars remain scattered.
+---
 
-Books remain scattered.
+## 13.70–14.45
+
+Kiko begins lowering naturally into a crouch.
+
+She extends one hand toward ONE already-existing block.
+
+The block remains physically on the floor.
+
+No pickup yet.
+
+---
+
+## 14.45–15.00 — SHOT 04 SETUP
+
+End with Kiko's hand approaching the nearest EXISTING block.
+
+IMPORTANT:
+
+Kiko has NOT yet completed the pickup.
+
+The block remains on the floor.
+
+Mimi remains clearly visible behind / beside her at the corrected canonical smaller scale.
+
+End state:
+
+- Kiko preparing to pick up first block,
+- Mimi watching encouragingly,
+- all cars remain untouched,
+- all books remain untouched,
+- no cleaning completed,
+- room unchanged,
+- prop positions unchanged except natural character movement,
+- eyes open,
+- mouths closed.
 
 Cut cleanly at 15.0 seconds.
 
-This must connect naturally into Shot 04:
-
-**Kiko begins putting blocks into the toy box.**
+Shot 04 begins by completing this exact pickup.
 
 ---
 
-# Dialogue Timing
+# EXACT DIALOGUE MAP
 
-| Time | Speaker | Dialogue |
-|---|---|---|
-| 0.3–1.8 | Mimi | "Let's tidy up together!" |
-| 2.1–2.9 | Kiko | "Together?" |
-| 3.2–4.8 | Mimi | "One thing at a time." |
-| 5.1–6.3 | Kiko | "Okay, let's try!" |
-| 6.7–8.2 | Mimi | "You pick first." |
-| 8.6–10.7 | Kiko | "I'll start with the blocks!" |
-| 11.0–12.2 | Mimi | "Great choice!" |
+0.30–1.85
+Mimi:
+"Let's tidy up together!"
 
----
+2.15–3.65
+Kiko:
+"Okay! Where do we start?"
 
-# Voice Lock
+3.95–5.45
+Mimi:
+"One thing at a time."
 
-## Kiko
+5.75–7.10
+Kiko:
+"Hmm... let me choose."
 
-Canonical Kiko child voice.
+7.40–8.65
+Mimi:
+"You pick first."
 
-Progression:
+9.00–10.90
+Kiko:
+"I'll start with the blocks!"
 
-curious  
-→ willing  
-→ excited to begin.
+11.15–12.25
+Mimi:
+"Great choice!"
 
-## Mimi
+ALL dialogue is ENGLISH.
 
-Canonical Mimi voice.
-
-Warm, encouraging, playful.
-
-Not teacher-like.
-
-Not preachy.
-
-Auto Voice OFF.  
-Generated Dialogue ON.  
-Generated Audio ON.  
-Music OFF.
+No additional dialogue.
 
 ---
 
-# Lip-Sync Lock
+# LIP-SYNC LOCK
 
-Only the named speaker moves their mouth.
+Only the active speaker moves their mouth.
 
-Listening character's mouth remains closed.
+When Kiko speaks:
+Mimi's mouth remains closed.
+
+When Mimi speaks:
+Kiko's mouth remains closed.
 
 No overlapping dialogue.
 
 No simultaneous mouth movement.
 
-No voice swaps.
+No voice swap.
 
-Speaker mapping must match the Dialogue Timing table exactly.
+No random mouth animation outside dialogue.
 
 ---
 
-# Critical Prop Continuity Lock
+# PROP CONTINUITY LOCK
 
-Throughout Shot 03:
+Every prop visible in @image1 remains physically persistent.
 
-**Building blocks:** remain scattered on floor  
-**Toy cars:** remain scattered on floor  
-**Picture books:** remain scattered on floor  
-**Toy box:** remains EMPTY  
-**Shelf:** remains EMPTY  
-**Book rack:** remains EMPTY
-
-Nothing is cleaned yet.
-
-CRITICAL:
-
-Shot 03 selects the blocks.
-
-Shot 04 starts the actual cleaning.
+Shot 03 does NOT clean anything.
 
 Do NOT:
-
-- place blocks in toy box,
-- lift blocks before the final setup,
 - remove blocks,
-- place cars on shelf,
-- place books in rack,
-- make toys disappear,
-- spawn new toys,
-- move storage furniture.
+- remove cars,
+- remove books,
+- move toys automatically,
+- spawn toys,
+- duplicate toys,
+- generate a new toy box,
+- regenerate shelves,
+- alter furniture,
+- change room layout.
+
+Shot 03 only CHOOSES the blocks.
+
+Shot 04 begins actual physical cleanup.
 
 ---
 
-# Final Action Continuity Lock
+# NO-POP-IN LOCK
 
-At 14.2–15.0:
+Every environmental object visible during Shot 03 must be physically supported by @image1.
 
-Kiko may BEGIN reaching toward one existing block.
+Do NOT create:
+- extra blocks,
+- extra cars,
+- extra books,
+- extra storage furniture,
+- new toy containers,
+- new decorations.
 
-However:
+No prop may suddenly appear when Kiko mentions it.
 
-**the pickup must NOT be completed.**
-
-The first completed pickup / placement belongs to Shot 04.
-
-This avoids a continuity jump between Shot 03 and Shot 04.
+Dialogue does NOT create objects.
 
 ---
 
-# Character Persistence Lock
+# FINAL ACTION CONTINUITY LOCK
 
-Kiko and Mimi remain visible for the entire shot.
+At the end of Shot 03:
 
-Preserve actual @image1 screen positions unless tiny natural body movement requires otherwise.
+Kiko may begin reaching toward ONE existing block.
+
+But:
+
+THE PICKUP MUST NOT COMPLETE.
+
+The sequence must end:
+
+hand approaching block
+→ CUT.
+
+Shot 04 begins:
+
+hand contacts same block
+→ lifts same block
+→ physical cleanup begins.
+
+This is mandatory for clean Shot 03 → Shot 04 continuity.
+
+---
+
+# CHARACTER PERSISTENCE LOCK
+
+Kiko and Mimi remain continuously visible according to actual composition.
+
+Preserve Kiko's @image1 scale and Mimi's corrected canonical smaller body scale.
 
 Do NOT:
-
 - swap sides,
 - teleport,
 - disappear,
 - duplicate,
 - redesign,
-- change clothes,
-- change proportions.
+- change clothing,
+- change age,
+- change body scale.
+
+No giant Mimi.
+
+No enlarged Kiko.
+
+No visible Mimi shrink, scale morph or resize event.
 
 ---
 
-# Camera
-
-32mm.
-
-Child eye level.
-
-Stable medium two-shot.
-
-NO pan.
-
-NO zoom.
-
-NO cut.
-
-NO push-in.
-
-NO camera hunting between speakers.
-
-Both characters should remain readable throughout.
-
-The attention shift must come from:
-
-- eyes,
-- head turns,
-- gestures,
-- character movement,
-
-not from unnecessary camera movement.
-
----
-
-# Engagement / Pacing Lock
-
-This shot must remain visually active despite being dialogue-heavy.
-
-Every spoken beat should produce a meaningful reaction or micro-action.
-
-Avoid:
-
-- characters standing still and talking,
-- long smiles,
-- empty pauses,
-- repeated nodding without purpose.
-
-Dialogue drives visible decisions:
-
-Mimi proposes cleaning  
-→ Kiko reacts  
-→ Mimi gives a simple rule  
-→ Kiko agrees  
-→ Mimi lets Kiko choose  
-→ Kiko picks blocks  
-→ both prepare to act.
-
----
-
-# Sound
+# SOUND
 
 Natural Playroom ambience only.
 
 Allowed:
-
-- quiet indoor room tone,
-- very distant birds,
+- soft indoor room tone,
+- distant birds,
 - subtle fabric movement,
-- soft child footsteps near the end.
+- tiny footsteps during Kiko's final movement.
 
 NO music.
-
-NO musical sting.
-
+NO cleanup song.
 NO magical sound.
-
-NO toy-placement sound yet.
+NO toy placement sound yet.
 
 ---
 
-# Colour / Quality Lock
+# COLOUR / QUALITY LOCK
 
-Preserve exact Shot 02 visual baseline.
+Preserve exact Shot 02 final-frame visual baseline.
 
 Do NOT increase:
-
+- brightness,
 - contrast,
 - saturation,
 - sharpness,
 - HDR,
-- glossy highlights.
+- gloss.
 
-Keep:
+No progressive visual drift.
 
-- warm diffused light,
-- soft matte surfaces,
-- medium-low contrast,
-- gentle family-animation look.
+If correction is necessary:
+slightly softer only.
 
-If correction is necessary, make it slightly softer, never stronger.
+Never stronger.
 
 ---
 
-# Negative Prompt
+# NEGATIVE PROMPT
 
-background music, song, melody, soundtrack, captions, subtitles, text, watermark, long silent opening, establishing shot, repeated room reveal, static talking, frozen characters, long empty pause, dead air, camera pan, camera zoom, camera hunting, rapid cuts, extra characters, character redesign, Kiko and Mimi swapping sides, teleportation, duplicate character, toy pop-in, new blocks appearing, blocks disappearing, blocks already in toy box, premature cleaning, cars on shelf, books in rack, toy movement before intended action, floating icons, arrows, numbers, thought bubbles, magic, HDR, high contrast, contrast increase, oversaturated, saturation increase, glossy plastic, oversharpened, harsh highlights, harsh shadows, wrong voice, voice swap, simultaneous mouth movement, overlapping dialogue
+Chinese speech, Mandarin speech, non-English speech, foreign language, wrong language, gibberish, missing dialogue, paraphrased dialogue, voice swap, overlapping dialogue, simultaneous mouth movement, background music, cleanup song, melody, soundtrack, camera orbit, camera pan, zoom, push-in, dolly-in, camera hunting, Kiko enlargement, Mimi enlargement, oversized Mimi, giant bunny, giant Mimi, giant Kiko, Mimi same size as Kiko, Mimi taller than Kiko overall, Mimi larger than Kiko, Mimi too wide, Mimi too big in frame, inflated bunny proportions, rabbit dominating composition, ear height interpreted as body height, visible Mimi shrinking, Mimi resize animation, scale morph, scale drift, character redesign, character swap, teleportation, duplicate characters, toy pop-in, block spawning, car spawning, book spawning, toys disappearing, premature cleanup, block already picked up, block already in storage, cars cleaned early, books cleaned early, furniture movement, room redesign, environment reset, new toy box, new shelf, new book rack, floating icons, arrows, numbers, thought bubbles, magical effects, HDR, high contrast, contrast increase, oversaturation, saturation increase, glossy plastic, oversharpened, harsh highlights, harsh shadows, frozen characters, long dead air
 
 ---
 
-# Final QA Checklist
+# FINAL QA CHECKLIST
 
-- [ ] Exact Shot 02 final frame used as @image1
-- [ ] First dialogue starts by 0.3 s
-- [ ] Immediate goal established in first second
-- [ ] Mimi says exactly "Let's tidy up together!"
-- [ ] Kiko says exactly "Together?"
-- [ ] Mimi says exactly "One thing at a time."
-- [ ] Kiko says exactly "Okay, let's try!"
-- [ ] Mimi says exactly "You pick first."
-- [ ] Kiko says exactly "I'll start with the blocks!"
-- [ ] Mimi says exactly "Great choice!"
-- [ ] Dialogue complete by about 12.2 s
-- [ ] Final 2.8 s used for physical setup
-- [ ] No blocks cleaned yet
-- [ ] Toy box still empty at end
-- [ ] Cars still scattered
-- [ ] Books still scattered
-- [ ] Kiko begins reaching toward blocks at end
-- [ ] No completed pickup before Shot 04
-- [ ] No music
-- [ ] No dead air
-- [ ] No unnecessary camera movement
-- [ ] Final frame directly prepares Shot 04
+- [ ] ACTUAL Shot 02 last frame used as @image1 continuity reference.
+- [ ] Kiko remains screen-left at actual scale.
+- [ ] Mimi remains screen-right at corrected canonical smaller scale.
+- [ ] Mimi body height excluding ear tips reads as approximately 75–80% of Kiko.
+- [ ] Mimi's torso, head mass, shoulders, paws and body volume read smaller than Kiko's.
+- [ ] Mimi's eye line and shoulder line sit slightly lower than Kiko's.
+- [ ] Long ears do not make Mimi read taller or bigger overall.
+- [ ] Scale correction is present from the first generated frame; no visible shrinking.
+- [ ] Mimi does not grow.
+- [ ] Kiko does not grow.
+- [ ] Room remains identical.
+- [ ] Prop state remains identical.
+- [ ] No old empty-storage assumptions forced.
+- [ ] First dialogue begins at 0.30 seconds.
+- [ ] No repeated "Together?" conversation from Shot 02.
+- [ ] Mimi says "Let's tidy up together!"
+- [ ] Kiko asks "Okay! Where do we start?"
+- [ ] Mimi says "One thing at a time."
+- [ ] Kiko says "Hmm... let me choose."
+- [ ] Mimi says "You pick first."
+- [ ] Kiko says "I'll start with the blocks!"
+- [ ] Mimi says "Great choice!"
+- [ ] All speech is English.
+- [ ] No cleaning happens yet.
+- [ ] No prop pop-in.
+- [ ] No camera orbit.
+- [ ] No zoom or push-in.
+- [ ] Kiko begins reaching for an existing block only near the end.
+- [ ] Pickup is NOT completed.
+- [ ] Final frame directly prepares Shot 04.

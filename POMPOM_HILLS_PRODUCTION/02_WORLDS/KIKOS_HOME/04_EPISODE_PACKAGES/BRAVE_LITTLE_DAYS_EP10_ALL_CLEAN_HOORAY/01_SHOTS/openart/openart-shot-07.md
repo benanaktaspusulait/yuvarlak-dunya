@@ -1,4 +1,4 @@
-# OpenArt Shot 07 — FINAL FIXED — All Clean!
+# OpenArt Shot 07 — FINAL FIXED — Organized, All Clean!
 
 ## Production Metadata
 
@@ -7,67 +7,111 @@ World: Kiko's Home
 Location: Playroom
 Shot Number: 07/08
 Chain: B — LINKED CONTINUATION
-Duration: 15.0 s
-Lens: 28 mm
-Camera: Stable wide group framing
-Eye Level: Child height
+Duration: 15.0 seconds
+Lens: preserve actual Shot 06 lens / framing feel
+Camera: locked continuity framing
+Eye Level: child height
 Aspect Ratio: 16:9
 
 ---
 
 # Reference Upload Map
 
-@image1: ACTUAL approved final frame of Shot 06 — exact first frame of Shot 07 and SOLE visual continuity authority.
+@image1:
+ACTUAL approved final frame of Shot 06.
+
+@image1 is:
+
+- the EXACT first frame of Shot 07,
+- the SOLE environment authority,
+- the SOLE prop-state authority,
+- the SOLE character-position authority,
+- the SOLE character-scale authority,
+- the SOLE room-layout authority,
+- the SOLE camera / lighting / colour authority.
 
 No fresh Playroom reset.
 
 No fresh Take Shot.
 
-No environment re-generation.
+No environment regeneration.
 
-ACTUAL @image1 overrides all earlier storyboard assumptions.
+No clean-room redesign.
 
-Preserve exactly from @image1:
-
-- canonical Kiko,
-- canonical Mimi,
-- actual screen positions,
-- actual character scale,
-- blocks already inside toy box,
-- cars already on shelf,
-- books already inside book rack,
-- completely clear floor,
-- same room layout,
-- same furniture,
-- same lighting,
-- same camera height,
-- same colour / contrast / sharpness baseline.
+ACTUAL @image1 overrides every earlier storyboard assumption.
 
 ---
 
-# Critical First-Second Hook
+# Actual Organized-Room Continuity Lock
 
-Shot 06 ended with Kiko and Mimi realizing the room is finally clean.
+Start EXACTLY from @image1.
 
-Shot 07 must deliver the PAYOFF immediately.
+The room is now ORGANIZED, not empty.
+
+Preserve exactly:
+
+- canonical Kiko,
+- canonical Mimi,
+- exact Kiko and Mimi screen positions,
+- exact character scale,
+- Mimi's accepted smaller body scale relative to Kiko,
+- the existing block structure,
+- all remaining grouped blocks,
+- the wall-side grouped books,
+- every visible toy and prop,
+- all visible furniture,
+- exact room architecture and layout,
+- exact object positions,
+- exact lighting, exposure, contrast, saturation and sharpness,
+- exact camera angle, height, distance and framing.
+
+Mimi's long ears may extend higher, but they are not body-height reference points.
+Do not enlarge or shrink either character.
+
+Do NOT force an empty floor.
+
+Do NOT remove visible blocks.
+
+Do NOT collapse, simplify or delete the existing block structure.
+
+Do NOT invent a book rack.
+
+Do NOT move books into a different storage system.
+
+Do NOT reveal or invent an off-frame car shelf.
+
+Do NOT make props disappear merely to make the room look cleaner.
+
+The success of the cleanup is shown through ORGANIZATION, not through deleting props.
+
+---
+
+# Critical First-Second Payoff
+
+Shot 06 ended with the characters acknowledging the organized wall-side book area.
+
+Shot 07 delivers the emotional payoff immediately.
 
 Do NOT begin with:
 
-- another room scan,
-- another establishing shot,
-- a silent pause,
-- characters standing and smiling,
-- a fresh clean-room reveal.
+- a room reveal,
+- a fresh wide shot,
+- an empty-room transformation,
+- a camera pan across the room,
+- a silent establishing hold,
+- new cleaning action.
 
-Within the FIRST SECOND:
-
-Kiko says:
+Within the first second, Kiko says:
 
 "All clean!"
 
-Her reaction should feel earned, bright and spontaneous.
+The line means:
 
-Viewer immediately receives the before/after payoff.
+everything is now in an understandable organized place.
+
+It does NOT mean:
+
+the room is empty or every visible prop has vanished.
 
 ---
 
@@ -81,20 +125,14 @@ Premium soft stylised 3D Pompom Hills children's animation.
 
 Same warm Kiko's Home Playroom.
 
-28mm child-height wide group framing.
+Preserve actual Shot 06 framing.
 
-Keep:
+Stable child-height camera.
 
-- Kiko,
-- Mimi,
-- clean floor,
-- toy box with blocks,
-- shelf with cars,
-- book rack with books
+Keep Kiko, Mimi and the already-visible organized areas readable without changing the
+composition or forcing additional storage furniture into frame.
 
-readable whenever possible.
-
-Warm diffused daylight.
+Soft warm diffused daylight.
 
 Soft matte handcrafted materials.
 
@@ -104,305 +142,239 @@ Natural saturation.
 
 No HDR.
 
-No gloss.
+No glossy plastic.
 
 No oversharpening.
 
 No artificial brightness increase.
 
-No contrast growth.
-
-The room is satisfying because it is physically organized, NOT because grading becomes stronger.
-
----
-
-# Starting Prop State — ABSOLUTE LOCK
-
-At 0.0:
-
-Building blocks:
-INSIDE toy box.
-
-Toy cars:
-ON shelf.
-
-Picture books:
-INSIDE book rack.
-
-Floor:
-COMPLETELY CLEAR of toy clutter.
-
-Toy box:
-Contains established blocks.
-
-Shelf:
-Contains established cars.
-
-Book rack:
-Contains established books.
-
-Nothing may regress.
-
-Nothing may return to the floor.
-
-No new toys may appear.
+The room feels successful because visible items are grouped and organized, not because
+props disappear or the grading becomes stronger.
 
 ---
 
 # 15-Second Performance
 
-## 0.0–0.3 — EXACT CONTINUATION
+## 0.0–0.30 — EXACT CONTINUATION
 
-Exact Shot 06 final frame.
+Match @image1 exactly.
 
-Kiko and Mimi have just realized the room is clean.
+Kiko and Mimi remain in their actual final Shot 06 positions and at the exact approved
+scale.
 
-All mouths closed for only this tiny beat.
+All visible props remain exactly where @image1 establishes them.
 
-Eyes already active.
+All mouths closed.
+
+Eyes active.
+
+Tiny natural breathing only.
 
 No camera reset.
 
-No room reveal.
+No prop movement.
 
 ---
 
-## 0.3–1.3 — IMMEDIATE PAYOFF
+## 0.30–1.40 — IMMEDIATE PAYOFF
 
-Kiko says brightly:
+Kiko says brightly in ENGLISH:
 
 "All clean!"
 
-Kiko's face immediately brightens.
+Proud, warm and spontaneous.
 
-She gives one small happy upward hand gesture.
+Not shouted.
 
-Not a jump.
-
-Not exaggerated.
+Kiko gives one small satisfied open-hand gesture toward the organized room already visible
+in @image1.
 
 Only Kiko's mouth moves.
 
-Mimi reacts immediately with a happy expression.
+Mimi listens with mouth closed and reacts immediately with a pleased expression.
+
+No object moves.
 
 ---
 
-## 1.3–1.7
+## 1.40–1.80
 
 Very short active reaction.
 
-Mimi looks around the clean room once and back toward Kiko.
+Mimi looks briefly toward one already-visible organized area and back toward Kiko.
 
-No frozen pause.
+No camera movement.
 
 ---
 
-## 1.7–2.7
+## 1.80–3.60
 
-Mimi replies happily:
+Mimi replies warmly in ENGLISH:
 
-"All clean!"
-
-Mimi gives one small cheerful paw lift / tiny body bounce.
+"Everything has a place!"
 
 Only Mimi's mouth moves.
 
-Kiko listens with mouth closed and smiles.
+Kiko listens with mouth closed.
+
+Mimi makes one small inclusive paw gesture toward the organized areas already visible in
+@image1.
+
+The gesture does not create, move or remove any object.
 
 ---
 
-## 2.7–3.4
+## 3.60–5.70 — ACKNOWLEDGE BLOCK AREA
 
-Both characters look toward the now-clear floor.
+All mouths closed.
 
-Kiko makes one small satisfied exhale / posture relax.
+Kiko and Mimi visually acknowledge:
+
+- the existing block structure,
+- the remaining grouped blocks.
+
+Use only small eye and head movement.
+
+Do NOT point as if the blocks are a mistake.
+
+The grouped blocks and block structure are part of the organized room and remain exactly
+where they are.
+
+No block moves, falls, vanishes or changes colour.
+
+---
+
+## 5.70–7.80 — ACKNOWLEDGE BOOK AREA
+
+Their attention shifts naturally toward the existing wall-side grouped books.
+
+The books remain in the SAME physical positions and SAME wall-side storage system established
+by @image1.
+
+No rack appears.
+
+No book slides, floats, reorders itself or disappears.
+
+Kiko gives one small satisfied nod.
+
+Mimi's ears make one subtle natural secondary movement.
+
+---
+
+## 7.80–9.80 — SHARED UNDERSTANDING
+
+Kiko and Mimi look back toward each other.
+
+Their expressions clearly communicate:
+
+"We organized it together."
 
 No dialogue.
 
----
+No long frozen smile.
 
-## 3.4–5.2 — VISIBLE PROGRESS CHECK
-
-Kiko looks toward the toy box containing the blocks.
-
-Mimi follows her gaze.
-
-Kiko points briefly toward it.
-
-Do NOT move the box.
-
-Do NOT move the blocks.
-
-The visual message is:
-
-blocks have a place.
+Use a tiny posture relax and natural breathing.
 
 ---
 
-## 5.2–6.8
+## 9.80–11.60 — SMALL CELEBRATION
 
-Their attention shifts toward the shelf with the cars.
+Kiko offers one small happy hand lift.
 
-Mimi gives one small approving nod.
+Mimi answers with one small paw lift.
 
-Cars remain exactly where Shot 06 established them.
+Prefer a mutual celebratory gesture without contact.
 
-No cars move themselves.
+If a clean, simple hand / paw touch is reliable, allow ONE gentle contact only.
 
-No shelf rearrangement.
+Do not force contact if it risks malformed anatomy.
 
----
+No jumping.
 
-## 6.8–8.4
+No dancing.
 
-Their attention shifts toward the book rack.
+No spinning.
 
-Kiko smiles proudly at the books.
-
-Books remain physically stable in the rack.
-
-No page movement.
-
-No book pop-in.
+No confetti or magical effects.
 
 ---
 
-## 8.4–9.6
+## 11.60–13.20
 
-Kiko and Mimi look back across the clear floor.
+Both settle naturally after the small celebration.
 
-They naturally turn slightly toward each other.
+Kiko briefly looks across the organized areas already visible.
 
-Their expressions should communicate:
+Mimi follows Kiko's gaze.
 
-"We did it together."
+All props remain unchanged.
 
-No dialogue.
-
-No long static hold.
+No new cleaning occurs.
 
 ---
 
-## 9.6–11.2
+## 13.20–15.00 — SHOT 08 SETUP
 
-Kiko gives Mimi one small happy high-five invitation.
-
-IMPORTANT:
-
-Use a simple child-friendly hand / paw contact.
-
-One gentle contact only.
-
-No repeated slapping.
-
-No exaggerated impact.
-
-Mimi responds naturally.
-
-If OpenArt cannot execute the contact cleanly without anatomy errors:
-
-use a small mutual celebratory hand / paw lift instead.
-
-Do NOT force malformed contact.
-
----
-
-## 11.2–12.3
-
-Both settle after the tiny celebration.
-
-Kiko looks around once more.
-
-Mimi gives a warm approving smile.
-
-Natural breathing and subtle fabric / ear movement continue.
-
----
-
-## 12.3–13.6
-
-Kiko turns slightly more toward camera / shared viewer direction.
-
-Mimi remains beside her.
-
-Both stay clearly visible.
-
-The room remains clean and readable behind them.
-
-This begins preparing the Shot 08 closing composition.
-
----
-
-## 13.6–15.0 — SHOT 08 SETUP
-
-Settle naturally into a medium-wide friendly two-character composition.
-
-Kiko:
-warm smile, active eyes, relaxed posture.
-
-Mimi:
-happy calm posture, ears naturally positioned.
-
-No dialogue.
-
-Do NOT wave yet unless required by actual motion continuity.
-
-Do NOT say:
-
-"A place for everything!"
-
-Do NOT say:
-
-"So tidy!"
-
-Those belong to Shot 08.
+Kiko and Mimi return their attention toward each other and slightly toward the shared viewer
+direction, as supported by the actual composition.
 
 End with:
 
-- Kiko visible,
-- Mimi visible,
-- clear floor,
-- blocks in box,
-- cars on shelf,
-- books in rack,
-- warm engaged expressions,
+- Kiko clearly visible,
+- Mimi clearly visible at the exact accepted smaller body scale,
+- existing block structure preserved,
+- remaining grouped blocks preserved,
+- wall-side grouped books preserved,
+- all furniture and props unchanged,
+- warm satisfied expressions,
 - mouths closed,
 - eyes open,
+- stable camera,
 - no frozen pose.
+
+Do NOT add another spoken line.
 
 Cut cleanly at 15.0 seconds.
 
 ---
 
-# Dialogue Timing
+# Exact Dialogue Map
 
-0.3–1.3 — Kiko only — "All clean!"
+0.30–1.40 — Kiko only:
 
-1.7–2.7 — Mimi only — "All clean!"
+"All clean!"
 
-No additional spoken dialogue.
+1.80–3.60 — Mimi only:
+
+"Everything has a place!"
+
+ALL speech is ENGLISH only.
+
+Speak every line exactly as written.
+
+No additional dialogue.
+
+No paraphrasing.
 
 ---
 
 # Voice Lock
 
 Kiko:
-Canonical Kiko child voice.
 
-Delivery:
+- canonical English Kiko child voice,
 - proud,
 - bright,
-- spontaneous,
-- genuine joy,
+- warm,
+- genuine,
 - not shouting.
 
 Mimi:
-Canonical Mimi voice.
 
-Delivery:
-- happy,
+- canonical English Mimi voice,
 - warm,
-- sharing Kiko's satisfaction,
+- pleased,
+- reassuring,
 - not overly excited.
 
 Auto Voice OFF.
@@ -414,19 +386,17 @@ Music OFF.
 
 # Lip-Sync Lock
 
-0.3–1.3:
+0.30–1.40:
 
-Kiko only:
-
-"All clean!"
-
-1.7–2.7:
-
-Mimi only:
+Kiko only moves mouth:
 
 "All clean!"
 
-Only active speaker moves mouth.
+1.80–3.60:
+
+Mimi only moves mouth:
+
+"Everything has a place!"
 
 Listening character keeps mouth closed.
 
@@ -436,189 +406,89 @@ No simultaneous mouth movement.
 
 No voice swap.
 
+No random mouth animation outside assigned dialogue.
+
 ---
 
-# Cumulative Cleanup Lock
+# Absolute Prop Persistence Lock
 
-All previous cleaning remains permanent.
+Every object visible in @image1 remains physically persistent throughout Shot 07.
 
-Throughout Shot 07:
+Preserve:
 
-BLOCKS:
-stay inside toy box.
-
-CARS:
-stay on shelf.
-
-BOOKS:
-stay inside rack.
-
-FLOOR:
-stays clear.
-
-Absolutely NO regression.
+- existing block structure,
+- grouped loose blocks,
+- wall-side grouped books,
+- every visible toy,
+- every visible piece of furniture,
+- all existing storage relationships.
 
 Do NOT:
 
-- return toys to floor,
-- empty the toy box,
-- remove cars from shelf,
-- remove books from rack,
-- generate new toy clutter,
-- change storage locations.
+- empty the room,
+- clear the entire floor,
+- delete remaining blocks,
+- collapse or remove the block structure,
+- move books to a rack,
+- create a rack,
+- create a shelf, box, basket, cabinet or bookend,
+- move props off-screen,
+- hide props behind characters,
+- replace grouped props with empty space,
+- generate a before/after transformation.
+
+Shot 07 performs no cleanup action.
+
+It only celebrates and visually acknowledges the organization already achieved in @image1.
 
 ---
 
-# No-Pop-In Lock
+# Character Scale and Persistence Lock
 
-Every visible prop must already be physically supported by ACTUAL @image1.
+Kiko and Mimi remain canonical.
 
-Do NOT create:
+Preserve exact @image1 character scale, depth plane and relative positions.
 
-- new toys,
-- new blocks,
-- new cars,
-- new books,
-- new decorations,
-- confetti,
-- balloons,
-- stars,
-- sparkles,
-- party effects.
+Mimi remains the smaller bunny companion in overall BODY scale.
 
-The success comes from the clean room itself.
-
----
-
-# Lighting / Colour Lock
-
-CRITICAL:
-
-Do NOT make Shot 07 visually brighter just because the room is clean.
-
-Do NOT use:
-
-- brighter exposure,
-- increased contrast,
-- increased saturation,
-- HDR,
-- glossy highlights,
-- stronger sunlight,
-- magical glow.
-
-Preserve the EXACT Shot 06 visual baseline.
-
-The "clean" feeling must come only from:
-
-- clear floor,
-- organized objects,
-- happy character reactions.
-
-If any correction is necessary:
-
-slightly softer / calmer only.
-
-Never more contrasty.
-
----
-
-# Character Persistence Lock
-
-Kiko and Mimi remain canonical throughout.
-
-Preserve ACTUAL @image1 scale and relative positions.
+Long ears may extend upward but must not be interpreted as body height.
 
 Do NOT:
 
-- swap sides suddenly,
+- enlarge or shrink either character,
+- make Mimi equal to or larger than Kiko in body mass,
+- move Mimi closer to camera to make her larger,
+- create scale drift,
+- swap sides,
 - teleport,
-- duplicate,
 - disappear,
+- duplicate,
 - redesign,
-- change clothing,
-- change proportions,
-- add children,
-- add adults.
+- change clothing or proportions,
+- add children or adults.
 
 ---
 
-# Celebration Lock
+# Camera Lock
 
-Celebration should feel:
+Preserve actual Shot 06 camera angle, lens feel, height, distance and framing.
 
-- earned,
-- warm,
-- active,
-- child-friendly.
-
-Do NOT use:
-
-- jumping repeatedly,
-- spinning,
-- dancing,
-- confetti,
-- magical effects,
-- exaggerated cheering,
-- screaming,
-- party animation.
-
-One small shared celebration gesture is enough.
-
----
-
-# Camera
-
-28mm.
-
-Child eye level.
-
-Stable wide / medium-wide group composition.
-
-The room is already revealed.
+Camera remains locked.
 
 Do NOT:
 
-- pan across the room again,
-- zoom into storage areas,
-- cut to before/after inserts,
-- use dramatic push-in,
-- use top-down camera,
-- use fast camera movement,
-- hunt between props.
+- widen to manufacture an empty-room reveal,
+- pan across the room,
+- zoom toward props,
+- push in,
+- dolly,
+- orbit,
+- use top-down framing,
+- cut to inserts,
+- hunt between organized areas.
 
-If all important elements fit:
-
-KEEP CAMERA LOCKED.
-
-Allow at most one tiny smooth compositional correction if character movement requires it.
-
----
-
-# Engagement / Pacing Lock
-
-This shot is not a 15-second static celebration.
-
-Meaningful visual progression:
-
-0.3 s:
-"All clean!"
-
-1.7 s:
-Mimi confirms.
-
-Then:
-toy box
-→ shelf
-→ rack
-→ clear floor
-→ shared tiny celebration
-→ settle toward Shot 08.
-
-Every few seconds must contain a meaningful eye shift, gesture, reaction or visual confirmation.
-
-No long empty hold.
-
-No frozen smiling.
+Characters communicate organization through eye direction and small gestures within the
+existing composition.
 
 ---
 
@@ -631,14 +501,14 @@ Allowed:
 - soft indoor room tone,
 - distant morning birds,
 - subtle clothing movement,
-- gentle foot movement,
-- tiny natural hand / paw contact sound if celebration contact occurs.
+- tiny foot adjustment,
+- very soft hand / paw movement sound.
+
+No object-placement sounds because no cleanup occurs.
 
 No applause.
 
 No cheering crowd.
-
-No confetti sound.
 
 NO music.
 
@@ -650,34 +520,55 @@ NO magical chime.
 
 ---
 
+# Colour / Quality Lock
+
+Preserve EXACT Shot 06 final-frame visual baseline.
+
+Do NOT increase:
+
+- brightness,
+- exposure,
+- contrast,
+- saturation,
+- sharpness,
+- HDR,
+- gloss,
+- sunlight intensity.
+
+The organized feeling comes from readable grouping and character reaction, not grading.
+
+No progressive visual drift.
+
+---
+
 # Negative Prompt
 
-fresh clean-room reset, fresh environment generation, brighter clean room, exposure increase, contrast increase, saturation increase, HDR, glossy plastic, oversharpened, harsh highlights, harsh shadows, background music, cleanup song, celebration music, jingle, confetti, balloons, stars, sparkles, magical effects, toys returning to floor, blocks leaving toy box, cars leaving shelf, books leaving rack, new toy clutter, toy pop-in, prop disappearance, environment redesign, furniture movement, duplicate furniture, character redesign, Kiko and Mimi swapping sides, duplicate characters, extra children, adults, exaggerated jumping, spinning, dancing, screaming, static opening, long silent opening, frozen smiles, long dead air, repeated room pan, camera hunting, rapid pan, zoom, insert shot, top-down camera, deformed hands, malformed high five, extra fingers, crossed eyes, photorealistic faces, wrong voice, voice swap, overlapping dialogue, simultaneous mouth movement, saying "A place for everything!" early, saying "So tidy!" early
+empty room, empty floor, completely clear floor, forced clean floor, props disappearing to look cleaner, visible blocks disappearing, loose blocks vanishing, block structure disappearing, block structure collapsing, block structure rebuilding, books disappearing, books moving to another storage system, invented book rack, empty book rack, new rack, rack slots, books inside invented rack, invented shelf, forced car shelf reveal, invented toy box, invented basket, invented cabinet, furniture movement, prop teleportation, prop deletion, instant cleanup, automatic cleanup, magical cleanup, before-and-after transformation, fresh clean-room reset, fresh environment generation, environment redesign, camera widening for clean reveal, camera pan, room scan, zoom, push-in, dolly, orbit, top-down camera, insert shot, background music, cleanup song, celebration music, jingle, applause, cheering crowd, confetti, balloons, stars, sparkles, magical glow, brighter clean room, exposure increase, contrast increase, saturation increase, HDR, glossy plastic, oversharpened, harsh highlights, harsh shadows, Kiko enlargement, Mimi enlargement, giant Mimi, Mimi same body size as Kiko, ear height interpreted as body height, scale drift, character redesign, character side swap, teleporting character, duplicate characters, extra children, adults, exaggerated jumping, spinning, dancing, screaming, static opening, long silent opening, frozen smiles, long dead air, malformed high five, deformed hands, extra fingers, crossed eyes, photorealistic faces, wrong language, non-English speech, Chinese speech, Mandarin speech, gibberish, wrong voice, voice swap, overlapping dialogue, simultaneous mouth movement, extra dialogue, paraphrased dialogue
 
 ---
 
 # Final QA Checklist
 
-- [ ] ACTUAL Shot 06 final frame used as @image1
-- [ ] No fresh reset
-- [ ] Kiko says "All clean!" by 0.3 s
-- [ ] Immediate payoff in first second
-- [ ] Mimi replies "All clean!" quickly
-- [ ] Only named speaker moves mouth
-- [ ] Blocks remain in toy box
-- [ ] Cars remain on shelf
-- [ ] Books remain in rack
-- [ ] Floor remains completely clear
-- [ ] No prop regression
-- [ ] No prop pop-in
-- [ ] No artificial brightness increase
-- [ ] No contrast/saturation drift
-- [ ] No confetti / magic
-- [ ] Celebration remains restrained
-- [ ] Clean storage locations are visually acknowledged
-- [ ] No long dead air
-- [ ] Stable camera
-- [ ] No music
-- [ ] Final composition naturally prepares Shot 08
-- [ ] "A place for everything!" reserved for Shot 08
-- [ ] "So tidy!" reserved for Shot 08
+- [ ] ACTUAL Shot 06 final frame is used as @image1 and sole authority.
+- [ ] First frame matches @image1 exactly.
+- [ ] No fresh room reset or clean-room redesign.
+- [ ] Room reads organized, not empty.
+- [ ] Kiko says exactly "All clean!" within the first second.
+- [ ] Mimi replies exactly "Everything has a place!"
+- [ ] All speech is English.
+- [ ] Only the active speaker moves mouth.
+- [ ] Existing block structure remains unchanged.
+- [ ] Remaining grouped blocks stay visible and unchanged.
+- [ ] Wall-side grouped books remain in the same storage area.
+- [ ] No book rack or new storage furniture appears.
+- [ ] No prop disappears to make the room cleaner.
+- [ ] No empty floor is forced.
+- [ ] Characters acknowledge only organized areas visible in @image1.
+- [ ] Exact character scale is preserved.
+- [ ] Mimi remains smaller than Kiko in body scale; ears do not count as body height.
+- [ ] No new cleanup action occurs.
+- [ ] Camera remains locked.
+- [ ] No lighting, contrast or saturation drift.
+- [ ] Celebration is small, warm and child-friendly.
+- [ ] No music, jingle, applause, confetti or magical effect.
+- [ ] Final frame naturally prepares Shot 08.

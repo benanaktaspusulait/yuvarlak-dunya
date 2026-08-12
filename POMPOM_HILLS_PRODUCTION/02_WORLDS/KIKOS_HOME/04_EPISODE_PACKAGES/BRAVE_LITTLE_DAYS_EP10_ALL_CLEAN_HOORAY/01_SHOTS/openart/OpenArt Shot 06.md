@@ -35,21 +35,34 @@ Preserve exactly from @image1:
 - canonical Mimi,
 - actual character positions,
 - actual character scale,
-- blocks already inside toy box,
-- cars already on shelf,
+- Kiko already walking toward the books near the screen-right wall,
+- all remaining loose blocks exactly where @image1 shows them,
+- the assembled block structure in the right background exactly as shown,
 - exact remaining picture-book positions,
-- empty book rack,
+- the existing wall-side book-storage area,
 - same room layout,
 - same furniture,
 - same lighting,
 - same camera height,
 - same colour / contrast baseline.
 
+ACTUAL @image1 controls ALL prop state.
+
+Do NOT force older assumptions such as:
+
+- blocks already inside a toy box,
+- cars visibly arranged on a shelf,
+- picture books scattered across the floor,
+- an empty book rack.
+
+If those states or storage objects are not physically visible in @image1, they do not
+exist in Shot 06 and must not be invented or brought back into frame.
+
 ---
 
 # Critical First-Second Hook
 
-Shot 05 ended with Kiko and Mimi turning toward the remaining books.
+Shot 05 ended with Kiko already walking toward the existing books near the screen-right wall.
 
 Shot 06 must continue that action immediately.
 
@@ -63,11 +76,11 @@ Do NOT begin with:
 
 Within approximately the FIRST SECOND:
 
-**Kiko picks up one already-existing picture book and places it physically into the book rack.**
+**Kiko reaches the existing wall-side books and physically contacts one already-visible book.**
 
 Immediate payoff:
 
-**book on floor → Kiko's hand → rack.**
+**existing wall-side book → Kiko's hand → existing wall-side book-storage area.**
 
 Viewer instantly understands:
 
@@ -91,8 +104,7 @@ Frame:
 
 - Kiko,
 - Mimi,
-- nearby books,
-- and the low book rack
+- and the nearby existing wall-side books
 
 together whenever possible.
 
@@ -120,31 +132,44 @@ No harsh shadows.
 
 # Starting Prop State
 
-At Shot 06 start:
+At Shot 06 start, ACTUAL @image1 controls every prop and storage state.
 
 ## Building Blocks
 
-Already INSIDE the SAME toy box.
+Loose blocks and the assembled block structure remain physically visible exactly where
+@image1 shows them.
 
-Remain there permanently.
+Do NOT remove, tidy, move, collapse, rebuild or duplicate them.
 
 ## Toy Cars
 
-Already ON the SAME wooden shelf.
+The car-storage shelf is not clearly visible in this composition.
 
-Remain there permanently.
+Do NOT pan, zoom, widen or redesign the room to show it.
+
+Do NOT invent or reintroduce cars.
 
 ## Picture Books
 
-Still physically scattered on the floor exactly where ACTUAL @image1 establishes them.
+Approximately 3–4 books are already physically visible near the screen-right wall, some
+upright or leaning and some lying partly sideways.
 
-## Book Rack
+Use ONLY those books supported by @image1.
 
-EMPTY at the start of Shot 06.
+They are not scattered broadly across the floor.
+
+## Book Storage Destination
+
+No distinct empty book rack is visibly established in @image1.
+
+The destination is the SAME existing wall-side book-storage area where the visible books
+are already gathered.
+
+Do NOT invent a rack, rack slots, shelf, basket, cabinet, box or new storage furniture.
 
 CRITICAL:
 
-Shot 06 cleans ONLY the picture books.
+Shot 06 organizes ONLY the existing wall-side picture books.
 
 ---
 
@@ -152,14 +177,14 @@ Shot 06 cleans ONLY the picture books.
 
 Every cleaned book must follow real physical continuity:
 
-**existing book on floor  
+**existing wall-side book
 → Kiko reaches  
 → hand physically contacts SAME book  
 → book lifts  
 → SAME book remains visible during transfer  
-→ SAME book slides physically into rack slot  
+→ Kiko gently straightens / aligns the SAME book within the existing wall-side storage area
 → Kiko releases  
-→ book remains inside rack.**
+→ book remains stable in that same wall-side area.**
 
 NO teleportation.
 
@@ -169,7 +194,7 @@ NO spawning books.
 
 NO magical cleanup.
 
-NO rack filling itself.
+NO storage area filling itself.
 
 ---
 
@@ -184,7 +209,8 @@ Each individual book must preserve:
 
 during the entire transfer.
 
-A red book on the floor must remain the SAME red book when it enters the rack.
+A red book near the wall must remain the SAME red book when Kiko aligns it in the existing
+wall-side storage area.
 
 Do NOT:
 
@@ -202,19 +228,17 @@ Do NOT:
 
 Continue directly from Shot 05 final frame.
 
-Kiko is already looking toward the picture books.
+Kiko is already walking toward the picture books near the screen-right wall.
 
-She immediately reaches toward the nearest EXISTING book.
+She completes that same natural approach and reaches toward the nearest EXISTING book.
 
 Kiko grips the SAME book.
 
-She lifts it naturally.
+By approximately 1.0 second, her hand has made clear physical contact and begun lifting it.
 
-She slides it into an empty slot in the book rack.
+Do not rush a full pickup-and-placement into the first second.
 
-The first book must reach the rack by approximately 1.0 second.
-
-Use one soft natural book-against-wood sound.
+Use one soft natural book-cover / floor-contact sound.
 
 Mimi immediately reacts with a pleased expression.
 
@@ -226,12 +250,9 @@ No camera reset.
 
 ## 1.0–1.5
 
-Kiko looks toward another remaining book.
+Kiko lifts the same book naturally and turns it gently upright.
 
-Mimi glances:
-
-first book in rack  
-→ remaining book on floor.
+Mimi looks from the book in Kiko's hand toward the existing wall-side storage area.
 
 Continuous purposeful action.
 
@@ -247,15 +268,14 @@ Mimi says warmly:
 
 While Mimi speaks:
 
-Kiko picks up another EXISTING picture book.
-
-Kiko physically carries it toward the SAME rack.
+Kiko carries the SAME first book a short, physically continuous distance within the
+existing wall-side book area.
 
 On:
 
 **"here"**
 
-Mimi makes one small paw gesture toward the rack.
+Mimi makes one small paw gesture toward the existing wall-side storage area.
 
 Only Mimi's mouth moves.
 
@@ -265,23 +285,23 @@ Kiko's mouth stays closed while working.
 
 ## 4.2–4.8
 
-Kiko slides the second book into the rack.
+Kiko gently aligns and releases the first book beside the already-visible books.
 
-The first book already placed remains stable.
+The book remains stable in the existing wall-side area.
 
-No book rearranges itself.
+No rack slot appears.
 
-No books jump between slots.
+No other book rearranges itself.
 
 ---
 
 ## 4.8–6.2
 
-Kiko reaches for another existing book.
+Kiko reaches for one additional existing wall-side book.
 
 This pickup is slightly more confident and fluid than the first.
 
-She may straighten one book naturally before placing it.
+She may straighten the book naturally before returning it to the same storage area.
 
 No rushing.
 
@@ -293,9 +313,9 @@ No impossible hand motion.
 
 Kiko says proudly:
 
-**"Books in the rack!"**
+**"Books in their place!"**
 
-While speaking, Kiko completes another physical book placement.
+While speaking, Kiko completes another physical book placement in the existing wall-side area.
 
 Only Kiko's mouth moves.
 
@@ -323,14 +343,14 @@ ONE book at a time.
 
 Each transfer must be visible:
 
-floor  
+wall-side position
 → hand  
-→ rack.
+→ aligned wall-side storage position.
 
 Use small natural variation:
 
 - one book is lifted flat,
-- another is rotated gently upright before entering the rack.
+- another is rotated gently upright before being set beside the others.
 
 No identical robotic loop.
 
@@ -340,15 +360,15 @@ No flying books.
 
 ## 10.3–11.5
 
-The visible floor is now clearly much cleaner.
+The visible wall-side book area now reads more orderly.
 
-Kiko places another supported book into the rack.
+Kiko places another supported book beside the others if @image1 supplies one.
 
 Mimi briefly looks around at the progress and smiles.
 
-Blocks remain in box.
+All loose blocks and the assembled block structure remain exactly where @image1 placed them.
 
-Cars remain on shelf.
+The off-frame car shelf remains off-frame; do not reveal or regenerate it.
 
 ---
 
@@ -364,17 +384,15 @@ do NOT invent one.
 
 Instead:
 
-Kiko checks the now-clear floor and then looks toward the rack.
+Kiko checks the now-organized wall-side book area.
 
 ---
 
 ## 12.3–13.3
 
-Complete the final supported book placement.
+Complete the final supported book placement in the existing wall-side storage area.
 
-The rack now contains the books.
-
-The last book settles naturally into its slot.
+The last book settles naturally beside the others.
 
 Use one subtle book-on-wood sound.
 
@@ -392,7 +410,7 @@ She looks across the floor.
 
 Mimi looks too.
 
-Both realize that the toy clutter is gone.
+Both recognize that the book area is now organized.
 
 Their expressions brighten naturally.
 
@@ -408,23 +426,19 @@ Use a meaningful active final beat.
 
 Kiko looks:
 
-toy box with blocks  
-→ shelf with cars  
-→ rack with books  
-→ clear floor.
+organized wall-side books
+→ Mimi.
 
 Mimi follows her gaze.
 
-Both begin to smile broadly as the realization lands:
-
-**the room is clean.**
+Both begin to smile as the progress registers.
 
 End with:
 
-- floor clearly clean,
-- blocks inside toy box,
-- cars on shelf,
-- books in rack,
+- existing wall-side books more neatly aligned,
+- all remaining loose blocks unchanged,
+- assembled block structure unchanged,
+- car shelf not forced back into frame,
 - Kiko and Mimi clearly visible,
 - happy anticipation,
 - mouths closed,
@@ -447,7 +461,7 @@ Cut cleanly at 15.0 seconds.
 | Time | Speaker | Dialogue |
 |---|---|---|
 | 1.5–4.2 | Mimi | "A place for everything! Books go here." |
-| 6.2–7.7 | Kiko | "Books in the rack!" |
+| 6.2–7.7 | Kiko | "Books in their place!" |
 
 No additional spoken dialogue.
 
@@ -499,7 +513,7 @@ Mimi only:
 
 Kiko only:
 
-**"Books in the rack!"**
+**"Books in their place!"**
 
 Only active speaker moves mouth.
 
@@ -513,53 +527,47 @@ No voice swapping.
 
 ---
 
-# Cumulative Progress Lock
+# Actual Prop-State Lock
 
-Everything completed in previous shots remains completed.
+ACTUAL @image1 overrides the older cumulative-cleanup diagram.
 
 Throughout Shot 06:
 
 ## Blocks
 
-Remain inside toy box.
+All remaining loose blocks and the assembled block structure visible in @image1 remain
+exactly where they are.
 
-NEVER return to floor.
+They must not vanish merely because an earlier storyboard expected them to be stored.
 
 ## Cars
 
-Remain on shelf.
-
-NEVER return to floor.
+Do not introduce, remove or relocate cars. Do not force the off-frame car shelf into view.
 
 ## Books
 
-Move from floor to rack only through visible physical action.
+Only the existing wall-side books may move, one at a time, through visible physical action.
 
-Progress must only move FORWARD.
-
-Never regress.
+No unsupported cleanup progress may be invented.
 
 ---
 
-# Book Rack Lock
+# Wall-Side Book-Storage Lock
 
-Use the SAME low book rack established in ACTUAL @image1.
+No distinct book rack is established by ACTUAL @image1.
+
+Use only the existing wall-side area and the physical support already visible there.
 
 Do NOT:
 
-- move the rack,
-- redesign it,
-- enlarge it,
-- shrink it,
-- create another rack,
-- change its material,
-- change number of slots arbitrarily.
+- create a rack,
+- create rack slots,
+- create a shelf, basket, cabinet, box or bookend,
+- expand or remodel the wall-side area,
+- move furniture to make storage easier.
 
-Books should occupy physically plausible slots.
-
-Do NOT automatically create a perfectly symmetrical display.
-
-Keep it natural and child-friendly.
+Books may be gently made more upright or aligned beside one another, but do not create an
+unnaturally perfect or symmetrical display.
 
 ---
 
@@ -587,7 +595,9 @@ Do NOT invent props just to fill time.
 
 Kiko and Mimi remain canonical.
 
-Preserve actual @image1 scale and relative positions as closely as physical movement allows.
+Preserve the accepted actual @image1 relationship: Mimi's body remains smaller than Kiko's
+when compared on the same depth plane. Mimi's long ears may extend higher but are not a
+body-height reference. Do not enlarge, shrink or rescale either character during Shot 06.
 
 Do NOT:
 
@@ -617,7 +627,7 @@ Stable medium action framing.
 
 If:
 
-Kiko + Mimi + books + rack
+Kiko + Mimi + existing wall-side books
 
 already fit:
 
@@ -631,7 +641,7 @@ Do NOT:
 
 - pan for each book,
 - zoom for each placement,
-- cut to rack close-up,
+- cut to storage close-up,
 - use top-down angle,
 - constantly track Kiko,
 - hunt between characters.
@@ -646,13 +656,13 @@ The shot must maintain meaningful visual change throughout.
 
 Rhythm:
 
-first book immediately  
+Kiko reaches the first book immediately
 → Mimi names the location  
-→ next book placed  
+→ first book aligned
 → Kiko repeats the phrase  
-→ remaining books disappear ONLY through physical pickup  
-→ floor becomes visibly clear  
-→ characters notice the completed room.
+→ remaining supported books are organized ONLY through physical pickup
+→ wall-side book area becomes visibly orderly
+→ characters notice the progress.
 
 No long dead air.
 
@@ -662,7 +672,7 @@ During non-dialogue moments, use:
 - footsteps,
 - eye direction,
 - reaching,
-- rack placement,
+- book alignment / placement,
 - character reactions,
 - natural prop sounds.
 
@@ -733,7 +743,7 @@ slightly softer only.
 
 # Negative Prompt
 
-fresh reset, fresh room generation, environment reset, background music, cleanup song, melody, soundtrack, magical cleanup, books teleporting, books disappearing from floor, books spawning, books flying, floating books, duplicated books, book colour changing, book shape morphing, rack filling itself, instant cleanup, automatic cleanup, books sliding by themselves, blocks returning to floor, cars returning to floor, empty toy box, empty shelf, new blocks, new cars, extra books, toy pop-in, rack moving, duplicate rack, furniture movement, environment redesign, character redesign, Kiko and Mimi swapping sides, duplicate characters, extra children, adults, static opening, long silent opening, frozen character, dead air, robotic repeated movement, camera hunting, rapid pan, repeated zoom, insert shot, close-up cutaway, high angle, deformed anatomy, extra fingers, crossed eyes, photorealistic face, HDR, high contrast, contrast increase, oversaturated, saturation increase, glossy plastic, oversharpened, harsh highlights, harsh shadows, wrong voice, voice swap, overlapping dialogue, simultaneous mouth movement, saying "All clean!" before Shot 07
+fresh reset, fresh room generation, environment reset, background music, cleanup song, melody, soundtrack, magical cleanup, books teleporting, books disappearing, books spawning, books flying, floating books, duplicated books, book colour changing, book shape morphing, invented book rack, empty book rack, new rack, rack slots appearing, rack filling itself, invented shelf, invented basket, invented cabinet, invented book box, instant cleanup, automatic cleanup, books sliding by themselves, books scattered across floor, remaining blocks disappearing, loose blocks moving, assembled block structure changing, assembled block structure collapsing, forcing car shelf into frame, new blocks, new cars, extra books, toy pop-in, furniture movement, environment redesign, character redesign, Kiko and Mimi swapping sides, duplicate characters, extra children, adults, Mimi enlargement, giant Mimi, Mimi same body size as Kiko, ear height interpreted as body height, scale drift, static opening, long silent opening, frozen character, dead air, robotic repeated movement, camera hunting, rapid pan, repeated zoom, insert shot, close-up cutaway, high angle, deformed anatomy, extra fingers, crossed eyes, photorealistic face, HDR, high contrast, contrast increase, oversaturated, saturation increase, glossy plastic, oversharpened, harsh highlights, harsh shadows, wrong voice, voice swap, overlapping dialogue, simultaneous mouth movement, saying "All clean!" before Shot 07
 
 ---
 
@@ -741,27 +751,29 @@ fresh reset, fresh room generation, environment reset, background music, cleanup
 
 - [ ] ACTUAL Shot 05 final frame used as @image1
 - [ ] No fresh reset
-- [ ] Blocks remain in toy box
-- [ ] Cars remain on shelf
-- [ ] Books begin on floor
-- [ ] Book rack begins empty
-- [ ] First book reaches rack within approximately 1 second
-- [ ] Every book moves floor → hand → rack
+- [ ] Kiko begins already walking toward the screen-right wall books
+- [ ] All visible loose blocks remain exactly where @image1 shows them
+- [ ] Assembled block structure remains unchanged
+- [ ] Car shelf is not forced into frame
+- [ ] Only @image1-supported wall-side books are used
+- [ ] No distinct book rack is assumed or generated
+- [ ] First book is physically contacted within approximately 1 second
+- [ ] Every moved book follows wall-side position → hand → aligned wall-side position
 - [ ] No teleporting books
 - [ ] No disappearing books
 - [ ] No new books appear
 - [ ] Book identity remains consistent during movement
 - [ ] Mimi says exactly "A place for everything! Books go here."
-- [ ] Kiko says exactly "Books in the rack!"
+- [ ] Kiko says exactly "Books in their place!"
 - [ ] Only active speaker moves mouth
-- [ ] No blocks or cars regress
-- [ ] Floor becomes clear only through physical cleanup
-- [ ] Book rack contains cleaned books by end
+- [ ] Mimi's body remains smaller than Kiko's; long ears do not count as body height
+- [ ] No remaining block or structure vanishes
+- [ ] Wall-side book area becomes orderly only through physical handling
 - [ ] No long dead air
 - [ ] Physical sounds support silent action
 - [ ] No music
 - [ ] Stable camera
 - [ ] No contrast / saturation drift
-- [ ] Characters recognize clean room at end
+- [ ] Characters recognize the organized book area at end
 - [ ] "All clean!" is reserved for Shot 07
 - [ ] Final frame naturally sets up Shot 07
