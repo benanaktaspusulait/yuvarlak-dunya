@@ -5,80 +5,314 @@
 Shot: 17/24
 Title: Shaky But Kept Going
 Duration: 15.0 seconds
-Continuity Mode: Fresh Reading Corner Take Shot — quality reset after Reading Corner Shots 08→11→13→15
-Block: A
-Lens: 32mm
+Continuity Mode: Linked Frame-to-Video | Previous Story World Shot 16 (@image1)
+Block: B
+Lens: 35mm
 Aspect Ratio: 16:9
 
 ## Reference Upload Map
 
-@image1: Approved fresh Reading Corner Take Shot — canonical Learning Room, Opa, Luca, Noah and open book
-@image2: Canonical Opa reference | @image3: Canonical Luca reference | @image4: Canonical Noah reference
+@image1: ACTUAL approved final frame of Shot 16 — exact first frame of Shot 17 and sole visual continuity authority.
 
-## Start-Frame Source
+Expected approved state:
 
-Fresh Reading Corner Take Shot from canonical Learning Room and Opa, Luca, Noah references. Open book shows river/problem illustration — pebble at near bank, petal on far side, no bridge. Children poised to react.
+* pebble fully on the far-bank grass,
+* same single warm-pink petal nearby,
+* completed river crossing behind,
+* same existing stepping stones,
+* distant meadow direction already naturally visible,
+* crossing unquestionably complete.
 
-## OpenArt Start-Frame Prompt
-
-Premium 3D preschool animation. Warm Learning Room Reading Corner. Matte cream walls, honey wood. Pastel accents. Medium saturation, medium-low contrast. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
-
-Medium group. Locked 32mm, 0.75m, static.
-
-Opa (green owl, golden glasses, brown shawl, wings) sits centre-left on back cushion. Open book shows river/problem illustration — pebble at near bank, petal on far side, no bridge. Luca (dark brown hair, cream/green shirt, orange sneakers) screen-left. Noah (light brown curly hair, blue shirt, blue sneakers) screen-right. Shallow triangle, three-quarter view.
-
-Bookshelf, windows screen-left, lantern, round table, nature shelf, rug visible.
-
-No text. No captions.
+No additional image references required.
 
 ## OpenArt Video Prompt
 
-SPOKEN DIALOGUE IS MANDATORY. Generate every dialogue line exactly as written below using the manually assigned saved character voices. Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue must begin within approximately the first 0.4–0.6 seconds. If speech generation fails, do not replace speech with music or silent staring.
+SPOKEN DIALOGUE IS MANDATORY.
+
+Use Opa's manually assigned canonical warm storyteller owl voice as off-screen narration only.
+
+Speak every line exactly as written.
+
+Do not omit, shorten, replace, reorder or paraphrase any line.
+
+Dialogue begins at approximately 0.4 seconds.
+
+Do not replace failed speech with music or silence.
 
 ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
 
-Premium feature-quality stylised 3D preschool animation. Learning Room Reading Corner, warm morning sunlight. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Premium feature-quality stylised 3D children's storytelling animation.
 
-Continue from the approved fresh @image1 Take Shot. 15-second performance:
+Warm, active, expressive, visually engaging.
 
-0.0–0.5: Opa completes one small natural page turn from the river/problem illustration to the completed crossing illustration — pebble on far-bank grass, pink petal nearby, stepping stones behind, no readable text. Children follow the page. All mouths closed.
+Continue naturally in the same story world from @image1.
 
-0.5–3.0: Noah speaks: "It made it!" Noah pumps his fists. Luca smiles wide. Opa nods.
+Preserve the soft warm matte Pompom Hills visual baseline:
 
-3.5–6.5: Luca speaks: "That wobble on the third stone — I thought it would fall." Luca wobbles his hand. Noah grins.
+* medium-low contrast,
+* soft natural saturation,
+* matte materials,
+* gentle warm morning light,
+* no darkening,
+* no contrast growth,
+* no HDR,
+* no gloss,
+* no oversharpening,
+* no harsh shadows.
 
-7.0–10.0: Noah speaks: "But it didn't stop!" Noah holds up one finger triumphantly. Luca nods. Opa listens.
+Continue from @image1 EXACTLY.
 
-10.5–13.0: Opa speaks: "Each stone was just a little further." Opa's wingtip traces a forward path on the page. Children listen.
+The first frame must match @image1 exactly.
 
-13.0–15.0: Luca speaks: "But where's the petal now?" Luca leans toward the book. Noah leans in. Opa smiles — the mystery continues.
+Do NOT return to the Learning Room.
 
-First-frame exact-match from @image1. Environment lock. Character persistence. Single locked camera: medium group, 32mm, static.
+Do NOT show Opa, Luca or Noah.
+
+Do NOT show the book.
+
+The river, far bank, pebble, petal, stepping stones and distant meadow direction remain the same physical world established in Shot 16.
+
+No environment reset.
+No new location.
+No meadow spawning.
+No terrain morphing.
+
+## 15-Second Performance
+
+### 0.0–0.4
+
+Exact @image1 state.
+
+Pebble has fully completed the crossing and rests on the far-bank grass.
+
+The same pink petal is nearby.
+
+The river and already-existing stepping stones remain visible behind.
+
+No new movement yet.
+
+### 0.4–2.8
+
+Opa narrates off-screen:
+
+"The pebble made it across."
+
+The pebble finishes settling after the crossing with one tiny natural wobble.
+
+A soft ripple moves around the final stepping stone behind it.
+
+The same pink petal gives one small natural flutter beside the pebble.
+
+### 2.8–3.2
+
+Brief natural pause.
+
+Breeze moves the grass gently.
+
+### 3.2–5.8
+
+Opa narrates:
+
+"It had wobbled, but it kept going."
+
+The pebble remains steady on the grass.
+
+Do NOT replay the river crossing.
+
+Do NOT create a flashback.
+
+Use the still-visible river and stepping stones behind as the visual reminder of what just happened.
+
+The petal begins to lift slightly in the breeze.
+
+### 5.8–6.2
+
+Brief natural pause.
+
+The petal remains continuously visible.
+
+### 6.2–8.8
+
+Opa narrates:
+
+"One stone at a time."
+
+The same pink petal catches a gentle breeze and begins drifting slowly away from the river.
+
+It moves toward the already-existing path leading naturally toward the distant meadow.
+
+Pebble makes one small orientation shift toward the moving petal.
+
+No face or limbs.
+
+### 8.8–9.2
+
+Brief natural pause.
+
+The petal continues drifting ahead.
+
+### 9.2–11.7
+
+Opa narrates:
+
+"Then the petal moved again."
+
+The same single pink petal travels farther along the established path.
+
+It remains clearly visible throughout.
+
+The pebble begins rolling after it.
+
+The river gradually becomes less dominant behind them only because they are moving forward.
+
+No sudden environment change.
+
+### 11.7–12.1
+
+Brief natural pause.
+
+Pebble continues rolling naturally.
+
+### 12.1–15.0
+
+Opa narrates:
+
+"And the pebble followed."
+
+Pebble continues following the same pink petal toward the meadow edge.
+
+Use one gentle controlled tracking follow.
+
+The landscape ahead naturally reveals more of the already-existing meadow direction.
+
+Small natural flower shapes become easier to notice:
+
+* soft yellow,
+* lavender,
+* warm pink.
+
+Do NOT emphasise one flower as the answer yet.
+
+Do NOT reveal the petal's final destination.
+
+Do NOT reveal a hollow.
+
+Do NOT suggest magic or destiny.
+
+## End Frame
+
+End with:
+
+* pebble clearly visible,
+* same pink petal clearly visible farther ahead,
+* river crossing now behind them,
+* meadow edge ahead,
+* several subtle yellow, lavender and warm-pink flowers visible,
+* clear forward movement into Shot 18,
+* no Learning Room,
+* no answer revealed.
+
+The final composition should naturally set up continued exploration of the meadow in Shot 18.
+
+## Environment and Object Lock
+
+The river, stones, far bank, path and meadow belong to one continuous physical environment.
+
+The meadow already physically exists beyond the far bank from the beginning of the shot.
+
+It becomes more visible only because the pebble and camera move toward it.
+
+No new landscape forms.
+
+No flowers spawn.
+
+No path appears suddenly.
+
+The single warm-pink petal remains the same physical petal throughout.
+
+No duplication.
+
+No teleporting.
+
+## Pebble Lock
+
+Pebble remains the same simple natural rounded stone from @image1.
+
+No mouth.
+No arms.
+No legs.
+No feet.
+No eyebrows.
+No expressive cartoon face.
+No anthropomorphic body.
+
+Movement occurs only through natural supported rolling, tiny settling wobble and small orientation changes.
 
 ## Voice Lock
 
-Opa: Canonical warm storyteller owl voice. | Luca: Canonical curious child voice. | Noah: Canonical cheerful child voice.
-Auto Voice Off. Generated Dialogue On. Generated Audio On. Music Off.
+Opa off-screen: canonical warm storyteller owl voice.
+
+NOT generic narrator.
+
+Auto Voice OFF.
+Generated Dialogue ON.
+Generated Audio ON.
+Music OFF.
 
 ## Lip-Sync Lock
 
-Only the named speaker moves their mouth. Listening characters keep mouths closed. No simultaneous mouth movement. No voice swapping.
+Off-screen narration only.
+
+No visible speaking character.
+
+Pebble does not speak.
 
 Speaker mapping:
-0.4–3.0 — Noah only — "It made it!"
-3.5–6.5 — Luca only — "It was shaky, but it kept going."
-7.0–10.0 — Noah only — "It only had to reach the next one!"
-10.5–13.0 — Opa only — "Each stone was just a little further."
-13.0–15.0 — Luca only — "Did it find the petal?"
+
+0.4–2.8 — Opa off-screen — "The pebble made it across."
+3.2–5.8 — Opa off-screen — "It had wobbled, but it kept going."
+6.2–8.8 — Opa off-screen — "One stone at a time."
+9.2–11.7 — Opa off-screen — "Then the petal moved again."
+12.1–15.0 — Opa off-screen — "And the pebble followed."
 
 ## Camera
 
-Medium group. Locked 32mm, static. No zoom, no cut.
+Single continuous 35mm camera.
+
+0.0–9.2:
+Stable medium-wide framing.
+
+No cut.
+No sudden angle change.
+No unnecessary zoom.
+
+From approximately 9.2 onward:
+one gentle controlled tracking follow as the pebble follows the petal away from the river toward the meadow.
+
+Do not track so far that either pebble or petal leaves the frame.
+
+No additional camera movement.
 
 ## Sound
 
-Soft indoor room tone. Distant morning birds. Gentle fabric. Natural ambience only. No music.
+Natural ambience only.
+
+At the beginning:
+
+* calm shallow river,
+* soft ripples,
+* distant birds,
+* gentle breeze.
+
+As the pebble moves away from the river:
+river ambience naturally becomes slightly quieter while grass, leaves and meadow breeze become slightly more noticeable.
+
+No abrupt sound change.
+
+No music.
+No magical sound.
+No transition sound.
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, extra fingers, malformed hands, text, watermark, readable text on book pages, captions, subtitles, photorealistic, horror, dark lighting, harsh lighting, high contrast, contrast increase, overly saturated, saturation increase, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpened, extra sharp, colour drift, exposure drift, extra characters, missing characters, wrong characters, character redesign, environment redesign, character pop-in, character disappearance, static talking pose, frozen character, long empty pause, dead air, background music, music, melody, song, humming, percussion, soundtrack, wrong voice, voice swap, simultaneous mouth movement, missing dialogue, dialogue failure, music substitution, finger on Opa, hand on Opa
+low quality, blurry, text, watermark, captions, photorealistic, dark lighting, harsh lighting, high contrast, contrast increase, oversaturated, saturation increase, HDR, glossy plastic, gloss, harsh highlights, harsh shadows, oversharpened, extra sharp, colour drift, exposure drift, missing dialogue, wrong voice, generic narrator, background music, music, Learning Room, Reading Corner, Opa visible, Luca visible, Noah visible, book, page turn, classroom return, scene transition, blur transition, dissolve transition, environment reset, new location, meadow spawning, landscape morphing, path spawning, flowers spawning, sudden flowers, petal duplication, multiple petals, petal teleporting, changed petal identity, glowing petal, magical petal, face on pebble, mouth on pebble, arms on pebble, legs on pebble, feet on pebble, anthropomorphic pebble, magical pebble, stepping stones moving, stones spawning, river changing location, sudden camera move, excessive tracking, pebble out of frame, petal out of frame, final flower answer revealed, hollow visible, destiny language

@@ -5,79 +5,515 @@
 Shot: 23/24
 Title: One Small Step for Today
 Duration: 15.0 seconds
-Continuity Mode: Fresh Reading Corner Take Shot — quality reset after Reading Corner Shots 17→20→21→22
+Continuity Mode: Linked Frame-to-Video | Previous Learning Room Shot 22 (@image1)
 Block: A
 Lens: 32mm
 Aspect Ratio: 16:9
 
+---
+
 ## Reference Upload Map
 
-@image1: Approved fresh Reading Corner Take Shot — canonical Learning Room, Opa, Luca, Noah and closed book
-@image2: Canonical Opa reference | @image3: Canonical Luca reference | @image4: Canonical Noah reference
+@image1: ACTUAL approved final frame of Shot 22 — exact first frame of Shot 23 and SOLE visual continuity authority.
 
-## Start-Frame Source
+ACTUAL @image1 overrides all earlier storyboard assumptions.
 
-Fresh Reading Corner Take Shot from canonical Learning Room Hero View and canonical Opa, Luca, Noah references. Closed book with pebble motif. Quality reset, not a new layout.
+Preserve exactly from @image1:
 
-## OpenArt Start-Frame Prompt
+* canonical Opa,
+* canonical Noah,
+* canonical Luca,
+* actual screen-side positions,
+* actual character scale,
+* same Learning Room Reading Corner,
+* same rug,
+* same furniture,
+* same camera framing,
+* same lighting,
+* same book state and cover appearance.
 
-Premium 3D preschool animation. Warm Learning Room Reading Corner. Matte cream walls, honey wood, soft textures. Pastel accents. Medium saturation, medium-low contrast. Soft global illumination. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Do NOT create a fresh Reading Corner Take Shot.
 
-Medium group framing. Locked 32mm, 0.75m, static.
+Do NOT reset the room.
 
-Opa (warm green owl, golden glasses, brown shawl, short rounded wings) sits centre-left on back cushion at rear edge of round cream rug. Holds fully closed picture book; embossed pebble motif visible on cover. Luca (wavy dark brown hair, cream shirt with green sleeves, orange sneakers) sits screen-left. Noah (curly light brown hair, blue striped shirt, blue sneakers) sits screen-right. Shallow triangle, three-quarter view. Preserve the exact established seating triangle and screen-side relationships from the approved Reading Corner continuity. Do not recenter, swap or reposition characters.
+Do NOT reposition the characters.
 
-Same cream rug, bookshelf, arched windows screen-left, lantern, round table, nature shelf, cloud mobile. Warm morning sunlight from left.
+Do NOT invent a book-cover motif or decoration not clearly supported by @image1.
 
-No text. No captions.
+No additional image references required.
 
-## OpenArt Video Prompt
+---
 
-SPOKEN DIALOGUE IS MANDATORY. Generate every dialogue line exactly as written below using the manually assigned saved character voices. Do not omit, shorten, replace, reorder or paraphrase any line. Dialogue must begin within approximately the first 0.4–0.6 seconds. If speech generation fails, do not replace speech with music or silent staring.
+# OpenArt Video Prompt
+
+SPOKEN DIALOGUE IS MANDATORY.
+
+Use the manually assigned canonical saved voices for Opa, Luca and Noah.
+
+Speak every dialogue line exactly as written.
+
+Do not omit, shorten, replace, reorder or paraphrase any line.
+
+Dialogue begins at approximately 0.4 seconds.
+
+Do not replace failed dialogue with music or silence.
 
 ABSOLUTELY NO MUSIC, background music, melody, song, humming, percussion, soundtrack, instrumental audio, magical chimes or cinematic audio.
 
-Premium feature-quality stylised 3D preschool animation. Learning Room Reading Corner, warm morning sunlight. Preserve the soft warm matte preschool baseline; no darkening, local-contrast growth, oversharpening, HDR, gloss, or harsh shadows.
+Premium feature-quality stylised 3D children's storytelling animation.
 
-Continue from the approved fresh @image1 Take Shot. 15-second performance:
+Warm, active, expressive, visually engaging.
 
-0.0–0.4: Opa and children in the Reading Corner. Closed book, pebble motif visible. All mouths closed.
+Canonical Learning Room Reading Corner in warm morning light.
 
-0.4–3.5: Opa speaks: "What small step could you try today?" Children listen, then begin thinking.
+Preserve the exact soft warm matte Pompom Hills visual baseline from @image1:
 
-4.0–7.0: Luca speaks: "I could build something. Piece by piece." Luca's hands stack invisible blocks. Noah watches.
+* medium-low contrast,
+* soft natural saturation,
+* matte materials,
+* gentle warm light,
+* no darkening,
+* no contrast growth,
+* no HDR,
+* no gloss,
+* no oversharpening,
+* no harsh shadows.
 
-7.5–10.5: Noah speaks: "I could ask someone to play." Noah's hands clasp, then open. Luca smiles. Opa listens.
+Continue from @image1 EXACTLY.
 
-11.0–13.0: Opa speaks: "Those are good steps." Opa nods at both. Children smile.
+The first frame must match @image1 exactly.
 
-13.0–15.0: Luca marks one tiny step on the rug with two fingers; Noah adds the next beside it. Opa turns closed book so pebble motif faces them. End in active shared anticipation.
+Remain entirely in the SAME Learning Room for the full 15 seconds.
 
-First-frame exact-match from @image1. Environment lock. Character persistence. Single locked camera: medium group, 32mm, static.
+NO Story World return.
+
+NO blur transition.
+
+NO defocus transition.
+
+NO dissolve transition.
+
+NO scene transition.
+
+NO cut.
+
+NO flashback.
+
+NO imagination scene.
+
+NO environment redesign.
+
+NO character repositioning.
+
+NO new furniture.
+
+Lock @image1's:
+
+* Opa identity and position,
+* Noah identity and position,
+* Luca identity and position,
+* character scale,
+* book state,
+* rug,
+* furniture,
+* camera framing,
+* lighting.
+
+---
+
+# 15-Second Performance
+
+## 0.0–0.4
+
+Exact @image1 state.
+
+Opa, Luca and Noah remain together in the Learning Room.
+
+Preserve the actual book state visible in @image1.
+
+The SAME book remains open exactly as visible in @image1.
+
+Do not close it or change its pages.
+
+All mouths closed.
+
+Use subtle breathing and small natural eye movement.
+
+No new action yet.
+
+---
+
+## 0.4–3.2
+
+Opa speaks warmly:
+
+"What small step could you try today?"
+
+Opa looks naturally from Luca to Noah.
+
+Use one small open rounded-wing gesture inviting them to think.
+
+No human hand.
+
+No fingers.
+
+Luca and Noah listen with mouths closed.
+
+Both begin thinking through small eye and posture reactions.
+
+---
+
+## 3.2–3.6
+
+Brief natural pause.
+
+All mouths closed.
+
+Luca looks as if an idea has occurred to him.
+
+No frozen hold.
+
+---
+
+## 3.6–6.3
+
+Luca speaks:
+
+"I could build something. Piece by piece."
+
+Luca makes two small stacking gestures in the air.
+
+Do NOT create:
+
+* blocks,
+* a tower,
+* construction pieces,
+* an imagination bubble.
+
+The example remains dialogue and gesture only.
+
+Noah watches.
+
+Opa listens with mouth closed.
+
+---
+
+## 6.3–6.7
+
+Brief natural pause.
+
+All mouths closed.
+
+Noah reacts as if he has his own idea.
+
+---
+
+## 6.7–9.4
+
+Noah speaks:
+
+"I could ask someone to play."
+
+Noah makes one small friendly outward gesture.
+
+Do NOT create another child.
+
+Do NOT show a playground.
+
+Do NOT cut away.
+
+Luca smiles.
+
+Opa listens with mouth closed.
+
+---
+
+## 9.4–9.8
+
+Brief natural pause.
+
+Opa looks approvingly at both children.
+
+---
+
+## 9.8–11.8
+
+Opa speaks warmly:
+
+"Those are good steps."
+
+Opa gives one gentle approving nod.
+
+One rounded wing makes a small forward gesture.
+
+Luca and Noah listen with mouths closed.
+
+---
+
+## 11.8–12.1
+
+Brief natural pause.
+
+Luca looks down briefly toward the rug, thinking about beginning.
+
+---
+
+## 12.1–13.4
+
+Luca says softly:
+
+"I can start with one."
+
+Luca makes one small forward tap gesture just above the rug.
+
+Do NOT draw or create a mark on the rug.
+
+Do NOT alter the rug texture.
+
+---
+
+## 13.4–13.7
+
+Brief natural pause.
+
+Noah looks toward Luca's gesture.
+
+---
+
+## 13.7–14.7
+
+Noah replies brightly:
+
+"Me too."
+
+Noah makes one small matching forward gesture beside Luca's.
+
+Again:
+
+NO mark appears on the rug.
+
+NO footprint.
+
+NO drawn line.
+
+NO symbol.
+
+---
+
+## 14.7–15.0
+
+No dialogue.
+
+Opa gives one small warm nod.
+
+Luca and Noah look back toward Opa.
+
+Use subtle breathing, eye movement and posture shifts.
+
+End with:
+
+* Opa clearly visible,
+* Noah clearly visible,
+* Luca clearly visible,
+* same Learning Room intact,
+* same book state preserved,
+* warm engaged group,
+* no new objects,
+* no transition,
+* no frozen pose.
+
+---
+
+# Critical Learning Room Continuity Lock
+
+Shot 23 occurs entirely inside the SAME Learning Room established in @image1.
+
+Do NOT:
+
+* return to Story World,
+* show meadow,
+* show river,
+* show forest,
+* show the pebble as a real object in the room,
+* create a flashback,
+* create an imagination bubble,
+* transition to another environment.
+
+The children's examples remain spoken examples only.
+
+---
+
+# Book Continuity Lock
+
+ACTUAL @image1 shows the book OPEN.
+
+Keep the SAME book open in this exact physical state throughout Shot 23.
+
+Preserve the exact visible pages and illustration content from @image1.
+
+Do NOT close the book.
+Do NOT turn a page.
+Do NOT reopen or further open the book.
+Do NOT change, redraw or morph the visible page illustrations.
+Do NOT create new page content.
+
+Only tiny natural book settling caused by Opa's breathing or posture is allowed.
+Do NOT duplicate the book.
+Do NOT redesign the cover.
+Do NOT invent an embossed motif.
+
+The book is no longer the source of new story imagery.
+
+---
+
+# Character Persistence Lock
+
+Opa, Luca and Noah remain visible throughout the full shot.
+
+Preserve their ACTUAL @image1 positions.
+
+Do NOT:
+
+* swap Luca and Noah,
+* move characters to opposite sides,
+* add characters,
+* remove characters,
+* change identities,
+* change clothing,
+* change hair,
+* change scale,
+* reposition characters suddenly,
+* redesign the Learning Room.
+
+@image1 remains the sole visual authority.
+
+---
+
+# Everyday-Example Lock
+
+The examples exist ONLY through dialogue and restrained gestures.
+
+Do NOT visually create:
+
+* blocks,
+* towers,
+* toys,
+* another child,
+* playground,
+* imagined scenes,
+* flashbacks,
+* cutaways,
+* floating icons,
+* thought bubbles.
+
+No object should pop into existence to illustrate dialogue.
+
+---
 
 ## Voice Lock
 
-Opa: Canonical warm storyteller owl voice. | Luca: Canonical curious child voice. | Noah: Canonical cheerful child voice.
-Auto Voice Off. Generated Dialogue On. Generated Audio On. Music Off.
+Opa: canonical warm storyteller owl voice; gentle and encouraging.
+
+Luca: canonical curious child voice; thoughtful and natural.
+
+Noah: canonical cheerful child voice; bright and friendly.
+
+Auto Voice OFF.
+Generated Dialogue ON.
+Generated Audio ON.
+Music OFF.
+
+---
 
 ## Lip-Sync Lock
 
-Only the named speaker moves their mouth. Listening characters keep mouths closed. No simultaneous mouth movement. No voice swapping.
+Only the named speaker moves their mouth.
+
+Listening characters keep relaxed closed mouths.
+
+Listeners react through:
+
+* eyes,
+* head movement,
+* breathing,
+* small posture changes.
+
+No simultaneous mouth movement.
+
+No overlapping dialogue.
+
+No voice swapping.
 
 Speaker mapping:
-0.4–3.5 — Opa only — "What small step could you try today?"
-4.0–7.0 — Luca only — "I could build it piece by piece."
-7.5–10.5 — Noah only — "I could ask someone to play."
-11.0–13.0 — Opa only — "Those are good steps."
+
+0.4–3.2 — Opa only — "What small step could you try today?"
+
+3.6–6.3 — Luca only — "I could build something. Piece by piece."
+
+6.7–9.4 — Noah only — "I could ask someone to play."
+
+9.8–11.8 — Opa only — "Those are good steps."
+
+12.1–13.4 — Luca only — "I can start with one."
+
+13.7–14.7 — Noah only — "Me too."
+
+---
 
 ## Camera
 
-Medium group. Locked 32mm, static. No zoom, no cut.
+Single continuous camera.
+
+Medium group framing matching ACTUAL @image1.
+
+Locked 32mm.
+
+Static camera.
+
+No cut.
+
+No zoom.
+
+No reframe.
+
+No transition.
+
+Keep Opa, Luca, Noah and the book readable together.
+
+Do NOT move the camera to illustrate the children's examples.
+
+No insert shot.
+
+No flashback camera.
+
+No close-up cutaway.
+
+---
 
 ## Sound
 
-Soft indoor room tone. Distant morning birds. Gentle fabric. Natural ambience only. No music.
+Soft natural Learning Room ambience only:
+
+* quiet indoor room tone,
+* distant morning birds,
+* subtle fabric movement.
+
+No block sound.
+
+No construction sound.
+
+No playground sound.
+
+No magical sound.
+
+No transition sound.
+
+No music.
+
+Keep ambience quiet beneath dialogue.
+
+---
 
 ## Negative Prompt
 
-low quality, blurry, deformed, extra limbs, extra fingers, malformed hands, text, watermark, readable text on book pages, captions, subtitles, photorealistic, horror, dark lighting, harsh lighting, high contrast, contrast increase, overly saturated, saturation increase, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpened, extra sharp, colour drift, exposure drift, extra characters, missing characters, wrong characters, character redesign, environment redesign, character pop-in, character disappearance, static talking pose, frozen character, long empty pause, dead air, background music, music, melody, song, humming, percussion, soundtrack, wrong voice, voice swap, simultaneous mouth movement, missing dialogue, dialogue failure, music substitution, finger on Opa, hand on Opa, story chair, new furniture
+low quality, blurry final image, deformed, extra limbs, extra fingers, malformed hands, text, watermark, captions, subtitles, photorealistic, horror, dark lighting, harsh lighting, high contrast, contrast increase, oversaturated, saturation increase, HDR, glossy plastic, gloss, harsh highlights, harsh shadows, oversharpened, extra sharp, colour drift, exposure drift, missing dialogue, omitted dialogue, paraphrased dialogue, wrong voice, voice swap, simultaneous mouth movement, overlapping dialogue, background music, music, soundtrack, music substitution, Story World return, meadow, river, forest, blur transition, defocus transition, dissolve transition, scene transition, hard cut, portal, sparkles, glowing book, magical transition, imagination bubble, flashback, cutaway, environment morphing, environment redesign, fresh Reading Corner reset, new room layout, character redesign, extra characters, missing characters, character pop-in, character disappearance, Luca and Noah swapping sides, wrong seating order, moving furniture, character repositioning, book reopening, page turn, new illustration, book morphing, book duplication, invented book motif, blocks appearing, tower appearing, toys appearing, new child appearing, playground appearing, marks appearing on rug, footprints on rug, drawn line on rug, symbols appearing on rug, rug morphing, static talking pose, frozen listening, long empty pause, dead air, finger on Opa, human hand on Opa
