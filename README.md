@@ -81,6 +81,7 @@ yuvarlak-dunya/
 | Standalone shot + dosya-içi post-production transition notu (çok-shot'lu / world geçişli videolar) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/STANDALONE_SHOT_AND_TRANSITION_STANDARD.md` |
 | OpenArt prompt `## Sound` bölümü + doğal sakinleştirici ambient ses (shot-level, müzik yok) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/NATURAL_CALMING_AMBIENCE_SOUND_STANDARD.md` |
 | Sosyal medya görsel formatı (Story/Feed/YouTube platform seti, safe margin) | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SOCIAL_MEDIA_IMAGE_FORMAT_STANDARD.md` |
+| Bitmiş 16:9 master videodan 9:16 smart story-aware reframe | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_SMART_REFRAME_STANDARD.md` |
 | Opa's Storytime (interactive storytelling sub-series, format, playlist) | `00-CORE/31_OPA_INTERACTIVE_STORYTELLING_FORMAT.md` |
 | Brave Little Days (life-skills / günlük hayat becerileri sub-series, format, playlist) | `00-CORE/32_BRAVE_LITTLE_DAYS_LIFE_SKILLS_FORMAT.md` |
 | Arda's Stories (movement, play and everyday-adventure sub-series) | `POMPOM_HILLS_PRODUCTION/07_ARDAS_STORIES/FORMAT_STANDARD.md` |

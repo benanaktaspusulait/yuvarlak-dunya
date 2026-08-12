@@ -2,6 +2,9 @@
 
 > Bu dosya, shot'lardan short üretimi, segment bazlı crop, konuşmacı takibi ve birleştirme
 > workflow'unu tanımlar. Bu session'da (17 Temmuz 2026) test edilmiş ve onaylanmış çözümlerdir.
+> Bu, Arda's Stories uygulama kaydıdır. Bitmiş 16:9 master → 9:16 dönüşümündeki global
+> karar kuralları için `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_SMART_REFRAME_STANDARD.md`
+> kullanılır.
 
 ---
 
@@ -298,4 +301,5 @@ Zaman bazlı crop değişimi için `enable` kullanılamaz. Bunun yerine segment 
 ---
 
 *Bu dosya, 17 Temmuz 2026 session'ında test edilmiş çözümleri içerir.*
-*İlgili dosyalar: SHORTS_PRODUCTION_STANDARD.md, SHORTS_SEGMENT_CROP_WORKFLOW.md*
+*İlgili dosyalar: SHORTS_PRODUCTION_STANDARD.md, SHORTS_SEGMENT_CROP_WORKFLOW.md,
+SHORTS_SMART_REFRAME_STANDARD.md*

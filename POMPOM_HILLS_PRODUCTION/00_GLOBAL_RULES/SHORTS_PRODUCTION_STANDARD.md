@@ -11,6 +11,11 @@
 
 Bu kural tartışmaya kapalıdır. Karakter görünmeyen Shorts yayınlanamaz.
 
+> **Finished-master istisnası:** Mevcut 16:9 master 9:16'ya yeniden kadrajlanırken
+> "merkezde" ifadesi kör geometrik merkez anlamına gelmez. Aktif konuşmacı, ana aksiyon,
+> tepki veya kritik hikâye nesnesi `SHORTS_SMART_REFRAME_STANDARD.md` karar hiyerarşisine
+> göre korunur. Bu kapsamda smart reframe standardı yetkilidir.
+
 ---
 
 ## 2. Shorts Formatı
@@ -519,7 +524,10 @@ Script ne yapar:
 
 ### 15.2 Segment Bazlı Crop Workflow
 
-Karakterler kadrajda farklı yatay konumlardaysa, tek statik crop yeterli değildir.
+Karakterler kadrajda farklı yatay konumlardaysa, tek statik crop yeterli olmayabilir.
+Bitmiş bir 16:9 master videonun tamamını 9:16'ya dönüştürürken karar yetkisi
+`SHORTS_SMART_REFRAME_STANDARD.md` dosyasındadır. Aşağıdaki segment yöntemi, o standartta
+çıkarılan time-coded crop planını teknik olarak uygulamak için kullanılabilir.
 
 ```text
 1. Kaynak videoyu shot'lardan birleştir (title overlay olmadan)
@@ -546,6 +554,10 @@ Karakterler kadrajda farklı yatay konumlardaysa, tek statik crop yeterli değil
 
 ### 15.4 Standart Kaydırma — İlk 5 Saniye
 
+> **Yalnızca önceden karelerle doğrulanmış episode-specific örnek.** Bu değerler bitmiş
+> master videolara global varsayım olarak uygulanamaz. Full-master conversion için
+> `SHORTS_SMART_REFRAME_STANDARD.md` kullanılır.
+
 ```text
 İlk 5sn: crop X=866 (300px sola)
 Kalan:   crop X=1166 (orta)
@@ -555,9 +567,10 @@ Kullanıcı onayıyla özelleştirilebilir. S01E05'te farklı değerler kullanı
 
 ### 15.5 Tam Dikey Video
 
-- Tüm shot'ları birleştir (title overlay olmadan)
-- Kısa videoyla aynı crop mantığını uygula
-- Shot'lardan oluştur (birleşik video değil) → title eklenirse temiz kaynaktan yeniden oluşturulabilir
+- Kaynak finished master ise `SHORTS_SMART_REFRAME_STANDARD.md` ile story-aware crop planı çıkar.
+- Kör merkez crop veya tüm videoya tek episode-specific X reçetesi uygulama.
+- Orijinal master'a dokunma; dikey videoyu ayrı çıktı olarak üret.
+- Title gerekiyorsa dikey çevrimden sonra ayrı adımda ekle.
 
 ### 15.6 Title Overlay Kuralı
 
@@ -596,8 +609,9 @@ Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 | `00-CORE/VARIABLES.md` | Prompt değişkenleri |
 | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHOT_CONTINUITY_WORKFLOW.md` | Shot süreklilik akışı |
 | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_SEGMENT_CROP_WORKFLOW.md` | Shot → short segment bazlı crop workflow'u |
+| `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_SMART_REFRAME_STANDARD.md` | Bitmiş 16:9 master → 9:16 smart story-aware reframe |
 
 ---
 
 *Oluşturulma: 7 Temmuz 2026*
-*Son güncelleme: 11 Temmuz 2026 — Brightness normalizasyon script'i eklendi*
+*Son güncelleme: 12 Ağustos 2026 — finished-master smart reframe standardına bağlandı*

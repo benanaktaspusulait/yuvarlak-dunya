@@ -2,6 +2,9 @@
 
 > Shot'lardan short üretimi için segment bazlı kaydırma (crop) workflow'u.
 > Bu dosya, `SHORTS_PRODUCTION_STANDARD.md`'yi tamamlar.
+> Bitmiş bir 16:9 master videonun tamamını story-aware biçimde 9:16'ya çevirmek için
+> yetkili kaynak `SHORTS_SMART_REFRAME_STANDARD.md` dosyasıdır. Buradaki sabit X değerleri
+> yalnızca karelerle doğrulanan shot-level uygulama örnekleridir.
 
 ---
 
@@ -177,6 +180,7 @@ Her shot için hangi parçada hangi kaydırmanın uygulandığı:
 | Dosya | Amaç |
 |-------|------|
 | `SHORTS_PRODUCTION_STANDARD.md` | Shorts format, kalite ve karakter standartları |
+| `SHORTS_SMART_REFRAME_STANDARD.md` | Finished master → 9:16 smart narrative reframe |
 | `00-CORE/17_VIDEO_GENERATION_STANDARD.md` | Ana video üretim standardı |
 | `00-CORE/VISUAL_STYLE_GUIDE.md` | Görsel stil rehberi |
 

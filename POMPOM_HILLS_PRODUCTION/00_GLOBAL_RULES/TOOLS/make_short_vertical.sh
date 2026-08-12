@@ -7,6 +7,11 @@
 # §1 (character must stay CENTRED and CLEAR — no blurred top/bottom bars)
 # and §2 (1080x1920, 24fps, H.264, max ~28MB).
 #
+# IMPORTANT: This utility performs a fixed centre crop. Use it only after visual QA has
+# confirmed that one stable centre crop preserves every important subject and story object.
+# For finished-master story-aware conversion, first follow:
+# POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/SHORTS_SMART_REFRAME_STANDARD.md
+#
 # Usage: ./make_short_vertical.sh <input.mp4> [output.mp4]
 #
 # Example:
