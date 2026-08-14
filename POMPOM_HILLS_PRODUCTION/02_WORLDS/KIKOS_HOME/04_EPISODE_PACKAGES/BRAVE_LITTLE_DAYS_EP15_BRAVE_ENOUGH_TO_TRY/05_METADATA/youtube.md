@@ -1,39 +1,73 @@
-**YouTube Title**
-**I Can Try Again! 🌈 | Kiko & Mimi Learn to Keep Trying | PomPom Hills EP15**
+# EP15 — Brave Enough to Try | YouTube Metadata
 
-**Alternative SEO Title**
-**Never Give Up! 🌈 Kiko & Mimi Try Again | Preschool Learning Cartoon | EP15**
+## Long Video
 
-**Description**
-Kiko finds a colorful Discovery Board and can’t wait to explore it! ☀️☁️🌈
+**Title:**
+I Can Try Again! | Kiko & Mimi | Pompom Hills Preschool Animation
 
-She turns the sun, slides the cloud, and discovers a little door. But when the door doesn’t open the first time, Kiko has a choice: give up… or try another way.
+**Alternative SEO Title:**
+Kiko Finds a Rainbow | Try Again Preschool Story | Pompom Hills EP15
 
-With Mimi cheering her on, Kiko looks carefully, tries again, and discovers a wonderful rainbow surprise! 🌈
+**Description:**
+Kiko finds a colorful Discovery Board and wants to see how it works.
 
-In this PomPom Hills episode, little learners explore an important preschool lesson:
+In this gentle Pompom Hills preschool animation, Kiko turns the sun, slides the cloud, and finds a little door. When the door does not open the first time, Mimi encourages her to look carefully and try another way.
 
-✨ It’s okay when something doesn’t work the first time.
-✨ We can look carefully.
-✨ We can try another way.
-✨ We can try again!
+This episode supports early social-emotional learning through perseverance, problem-solving, confidence, and trying again.
 
-Perfect for toddlers and preschoolers learning about perseverance, problem-solving, confidence, and trying again.
+Episode: Brave Little Days EP15 — Brave Enough to Try
+Characters: Kiko, Mimi
+Location: Kiko's Home Playroom
+Theme: Trying again, careful problem-solving, confidence
 
-**Today’s simple learning words:**
-☀️ Turn
-☁️ Slide
-🚪 Open
-💛 Try again
+#PompomHills #PreschoolAnimation #KidsAnimation #TryAgain #KikoAndMimi
 
-Join Kiko and Mimi for more warm, playful learning adventures in PomPom Hills!
+**Tags:**
+pompom hills, preschool animation, kids animation, toddler cartoon, preschool cartoon, gentle kids video, calm kids cartoon, animated preschool story, educational cartoon, preschool learning, social emotional learning, SEL for preschool, kiko, mimi, kiko and mimi, brave little days, brave enough to try, try again for kids, perseverance for kids, problem solving for kids, confidence for kids, discovery board, rainbow for kids, turn slide open, gentle learning
 
-**Subscribe for more Kiko & Friends stories, preschool learning adventures, and gentle life lessons.**
+## YouTube Shorts
 
-#PomPomHills #KikoAndFriends #PreschoolLearning #TryAgain #KidsCartoon #ToddlerLearning
+### Short 01 — Discovery Board Hook
 
-**Tags**
-`pompom hills, kiko and friends, kiko, mimi, i can try again, try again for kids, perseverance for kids, preschool learning, preschool cartoon, toddler learning, educational cartoon for kids, kids learning video, problem solving for kids, growth mindset for kids, never give up for kids, learning through play, preschool life skills, toddler cartoon, kids animation, confidence for kids, social emotional learning, SEL for preschool, discovery board, turn slide open, rainbow for kids`
+**Title:**
+What Does Kiko Find? | Pompom Hills Shorts
 
-* 
- 
+**Description:**
+Kiko finds a colorful Discovery Board in this gentle Pompom Hills preschool Short.
+
+A warm moment about curiosity, careful hands, and trying something new.
+
+#PompomHills #Shorts #PreschoolAnimation #KikoAndMimi
+
+**Tags:**
+pompom hills shorts, preschool shorts, kids animation shorts, kiko, mimi, discovery board, curiosity for kids, preschool learning, toddler friendly, gentle kids video, try something new
+
+### Short 02 — Rainbow Reveal
+
+**Title:**
+Kiko Finds a Rainbow! | Pompom Hills Shorts
+
+**Description:**
+Kiko opens the little door and finds a rainbow surprise in this gentle Pompom Hills preschool Short.
+
+A warm moment about trying again and discovering something wonderful.
+
+#PompomHills #Shorts #PreschoolAnimation #RainbowReveal
+
+**Tags:**
+pompom hills shorts, preschool shorts, kids animation shorts, kiko, mimi, rainbow reveal, rainbow for kids, try again, perseverance for kids, discovery board, toddler friendly
+
+### Short 03 — Try Again Lesson
+
+**Title:**
+I Can Try Again! | Pompom Hills Shorts
+
+**Description:**
+Kiko and Mimi share a gentle reminder: tricky things can be tried again one small step at a time.
+
+A warm preschool Short about confidence and perseverance.
+
+#PompomHills #Shorts #PreschoolAnimation #TryAgain
+
+**Tags:**
+pompom hills shorts, preschool shorts, kids animation shorts, kiko and mimi, try again for kids, perseverance for kids, confidence for kids, social emotional learning, SEL for preschool, toddler friendly, gentle learning

@@ -1,180 +1,159 @@
-# EP15 — Brave Enough to Try | Shorts Metadata
+# EP15 — Brave Enough to Try | Shorts and Reels Metadata
+
+## Output Files
+
+| Short | File | Duration | Focus |
+|---|---|---:|---|
+| Short 01 | `EXPORTS/VIDEOS/FACEBOOK_REELS/FB-REEL-01-DISCOVERY-BOARD-HOOK.mp4` | 15.1s | Kiko discovers the board |
+| Short 02 | `EXPORTS/VIDEOS/FACEBOOK_REELS/FB-REEL-02-RAINBOW-REVEAL.mp4` | 15.1s | Door opens, rainbow reveal |
+| Short 03 | `EXPORTS/VIDEOS/FACEBOOK_REELS/FB-REEL-03-TRY-AGAIN-LESSON.mp4` | 15.1s | Try again lesson |
 
 ---
 
-## SHORT 1: Cesaret (Courage) — 20sn
+## Short 01 — Discovery Board Hook
 
 ### YouTube Shorts
 
 **Title:**
-Kiko's First Building Try! 🧱 | Pompom Hills Shorts
+What Does Kiko Find? | Pompom Hills Shorts
 
 **Description:**
-Kiko watches Mimi build and says "I can't do that..." But with a little encouragement, she takes her first step! Will she find her courage? 🧱✨
+Kiko finds a colorful Discovery Board in this gentle Pompom Hills preschool Short.
 
-#PompomHills #Shorts #KidsAnimation #CourageForKids #TryingNewThings #BraveLittleDays
+A warm moment about curiosity, careful hands, and trying something new.
+
+#PompomHills #Shorts #PreschoolAnimation #KikoAndMimi
 
 **Tags:**
-pompom hills shorts, kids animation shorts, courage for kids, trying new things, first time trying, preschool shorts, toddler shorts, brave little days, kiko and mimi, building blocks
+pompom hills shorts, preschool shorts, kids animation shorts, kiko, mimi, discovery board, curiosity for kids, preschool learning, toddler friendly, gentle kids video, try something new
 
-### Facebook
+### Facebook Reels
 
 **Post:**
-🧱 "I can't do that..." Kiko says.
+What does Kiko find on the discovery board?
 
-But watch what happens when Mimi says: "Just one small try!" 💛
+A tiny sun, a little cloud, and one careful try. Gentle curiosity for little learners.
 
-That first block placement? Pure courage! ✨
+Brave Little Days | Pompom Hills
 
-🌸 Brave Little Days | Pompom Hills Shorts
-
-#PompomHills #KidsAnimation #CourageForKids #TryingNewThings #BraveLittleDays #ToddlerFriendly
+#PompomHills #KidsAnimation #PreschoolLearning #ToddlerFriendly #BraveLittleDays #CuriosityForKids
 
 ### Instagram Reels
 
 **Caption:**
-🧱 That first step takes courage!
+Kiko finds a colorful Discovery Board.
 
-Will Kiko find the bravery to try building with blocks? 🤔
+What happens when she turns the sun and notices the little cloud?
 
-🌸 Brave Little Days | Pompom Hills
-👶 Ages 3-4 | 20 seconds
+Brave Little Days | Pompom Hills
 
-#PompomHills #KidsAnimation #CourageForKids #TryingNewThings #BraveLittleDays #KikoAndMimi #PreschoolCartoon #FirstTimeTrying #ToddlerFriendly #KidsTV #BuildingBlocks
+#PompomHills #KidsAnimation #PreschoolAnimation #KikoAndMimi #DiscoveryBoard #ToddlerFriendly #GentleLearning
 
 ### TikTok
 
 **Caption:**
-Kiko "Yapamam" diyor ama sonra ne oluyor dersiniz? 🧱💪
+Kiko yeni bir Discovery Board buluyor.
 
-"One small try" ile başlayan bu tatlı an, miniklere cesaretin gücünü gösteriyor! ✨
+Güneş, bulut ve minik bir merak anı.
 
-🌸 Brave Little Days | Pompom Hills
-👶 3-4 yaş | 20 saniye
-
-#PompomHills #KidsAnimation #Cesaret #Deneme #İlkKez #ÇocukÇizgiFilmi #Miniklerİçin #DenemekCesaret #TatlıAn
-
-#PompomHills #Shorts #KidsAnimation #CourageForKids #TryingNewThings #BraveLittleDays
+#PompomHills #KidsAnimation #PreschoolAnimation #KikoAndMimi #DiscoveryBoard #ToddlerFriendly
 
 ---
 
-## SHORT 2: İlk Adım (First Step) — 15sn
+## Short 02 — Rainbow Reveal
 
 ### YouTube Shorts
 
 **Title:**
-"Look, I'm Doing It!" 🧱 | Pompom Hills Shorts
+Kiko Finds a Rainbow! | Pompom Hills Shorts
 
 **Description:**
-"I'm doing it!" Kiko's face when she places her second block and sees it standing! 🧱😍
+Kiko opens the little door and finds a rainbow surprise in this gentle Pompom Hills preschool Short.
 
-The best surprises come from trying new things!
+A warm moment about trying again and discovering something wonderful.
 
-#PompomHills #Shorts #KidsAnimation #FirstStep #TryingNewThings #SurpriseMoment
+#PompomHills #Shorts #PreschoolAnimation #RainbowReveal
 
 **Tags:**
-pompom hills shorts, kids animation shorts, first step, surprise moment, trying new things, building blocks, preschool shorts, toddler shorts, first time trying
+pompom hills shorts, preschool shorts, kids animation shorts, kiko, mimi, rainbow reveal, rainbow for kids, try again, perseverance for kids, discovery board, toddler friendly
 
-### Facebook
+### Facebook Reels
 
 **Post:**
-🧱 "Look, I'm doing it!"
+The little door opens... and Kiko finds a rainbow.
 
-Kiko's face when she sees her block tower standing! 😍
+Sometimes trying again leads to the sweetest surprise.
 
-Sometimes the best surprises come from things we're afraid to try! ✨
+Brave Little Days | Pompom Hills
 
-🌸 Brave Little Days | Pompom Hills Shorts
-
-#PompomHills #KidsAnimation #FirstStep #SurpriseMoment #TryingNewThings #ToddlerFriendly
+#PompomHills #KidsAnimation #RainbowReveal #TryingAgain #PreschoolCartoon #ToddlerFriendly
 
 ### Instagram Reels
 
 **Caption:**
-🧱 The moment of discovery!
+The little door opens... and there is a rainbow inside.
 
-"I'm doing it!" — Kiko's surprised face is everything! 😍
+Kiko's surprised smile says everything.
 
-🌸 Brave Little Days | Pompom Hills
-👶 Ages 3-4 | 15 seconds
+Brave Little Days | Pompom Hills
 
-#PompomHills #KidsAnimation #FirstStep #SurpriseMoment #TryingNewThings #KikoAndMimi #PreschoolCartoon #DiscoveryMoment #ToddlerFriendly #KidsTV
+#PompomHills #KidsAnimation #PreschoolAnimation #RainbowReveal #KikoAndMimi #TryingAgain #ToddlerFriendly
 
 ### TikTok
 
 **Caption:**
-"Yapabiliyorum!" Kiko'nun blok keşfi 😍🧱
+Kiko küçük kapıyı açıyor ve içeride bir gökkuşağı buluyor.
 
-Bir blok daha yerleştiriyor ve kulesi ayakta! 🥰
+Bazen tekrar denemek en güzel sürprizi getirir.
 
-Bazen korktuğumuz şeylerin en güzel sürprizleri getirdiğini keşfederiz! ✨
-
-🌸 Brave Little Days | Pompom Hills
-👶 3-4 yaş | 15 saniye
-
-#PompomHills #KidsAnimation #BlokKeşfi #Sürpriz #İlkAdım #ÇocukÇizgiFilmi #Miniklerİçin #KeşifAnı #TatlıSürpriz
-
-#PompomHills #Shorts #KidsAnimation #FirstStep #TryingNewThings
+#PompomHills #KidsAnimation #RainbowReveal #TryAgain #KikoAndMimi #ToddlerFriendly
 
 ---
 
-## SHORT 3: Gurur (Pride) — 18sn
+## Short 03 — Try Again Lesson
 
 ### YouTube Shorts
 
 **Title:**
-"One Small Try!" 🧱 | Pompom Hills Shorts
+I Can Try Again! | Pompom Hills Shorts
 
 **Description:**
-"One small try!"
+Kiko and Mimi share a gentle reminder: tricky things can be tried again one small step at a time.
 
-Kiko learns that trying new things doesn't have to be perfect. Sometimes all it takes is one tiny step! 🧱✨
+A warm preschool Short about confidence and perseverance.
 
-🌸 Brave Little Days — Gentle Everyday Skills
-
-#PompomHills #Shorts #KidsAnimation #OneSmallTry #TryingNewThings #BraveLittleDays #LifeSkills
+#PompomHills #Shorts #PreschoolAnimation #TryAgain
 
 **Tags:**
-pompom hills shorts, kids animation shorts, one small try, trying new things, life skills for kids, brave little days, preschool shorts, toddler shorts, courage for kids, gentle learning
+pompom hills shorts, preschool shorts, kids animation shorts, kiko and mimi, try again for kids, perseverance for kids, confidence for kids, social emotional learning, SEL for preschool, toddler friendly, gentle learning
 
-### Facebook
+### Facebook Reels
 
 **Post:**
-🧱 "One small try!"
+"I can try again next time."
 
-This is the message every parent wants their child to hear! 🌸
+A warm little reminder for kids: tricky things can be tried one small step at a time.
 
-Kiko learns that new activities don't have to be perfect. Sometimes all it takes is one tiny step to discover something wonderful! ✨
+Brave Little Days | Pompom Hills
 
-🌸 Brave Little Days | Pompom Hills
-👶 Ages 3-4 | 18 seconds
-
-#PompomHills #KidsAnimation #OneSmallTry #TryingNewThings #BraveLittleDays #LifeSkillsForKids #ToddlerFriendly
+#PompomHills #KidsAnimation #TryAgain #CourageForKids #BraveLittleDays #GentleLearning
 
 ### Instagram Reels
 
 **Caption:**
-🧱 "One small try!"
+"I can try again next time."
 
-The sweetest lesson about trying new things! 🌸
+Kiko learns that tricky things do not have to stop us. We can try another way.
 
-Kiko discovers that courage comes in small steps — and imperfect is beautiful! ✨
+Brave Little Days | Pompom Hills
 
-🌸 Brave Little Days | Pompom Hills
-👶 Ages 3-4 | 18 seconds
-
-#PompomHills #KidsAnimation #OneSmallTry #TryingNewThings #BraveLittleDays #KikoAndMimi #LifeSkillsForKids #PreschoolCartoon #ToddlerFriendly #KidsTV #CourageForKids #GentleLearning
+#PompomHills #KidsAnimation #PreschoolAnimation #TryAgain #KikoAndMimi #GentleLearning #ToddlerFriendly
 
 ### TikTok
 
 **Caption:**
-"Küçük bir deneme!" 🧱✨
+"Bir dahaki sefere tekrar deneyebilirim."
 
-Kiko'nun cesareti küçük bir adımla başlıyor! Yeni şeyleri denemek korkutucu olabilir ama bazen en güzel sürprizler küçük adımlarla gelir! 🌸
+Kiko zor bir şeyi küçük adımlarla denemeyi öğreniyor.
 
-🌸 Brave Little Days | Pompom Hills
-👶 3-4 yaş | 18 saniye
-
-#PompomHills #KidsAnimation #KüçükDeneme #Cesaret #YeniŞeyleriDeneme #ÇocukÇizgiFilmi #Miniklerİçin #HayatDersi #TatlıDers
-
-#PompomHills #Shorts #KidsAnimation #OneSmallTry #BraveLittleDays
+#PompomHills #KidsAnimation #TryAgain #KikoAndMimi #GentleLearning #ToddlerFriendly

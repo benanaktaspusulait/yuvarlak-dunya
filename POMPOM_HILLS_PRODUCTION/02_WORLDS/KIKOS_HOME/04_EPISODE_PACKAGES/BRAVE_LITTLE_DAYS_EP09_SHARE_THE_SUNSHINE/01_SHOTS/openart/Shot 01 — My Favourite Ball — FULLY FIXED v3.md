@@ -73,7 +73,9 @@ no logo.
 
 COMPOSITION:
 
-Kiko sits center-left on the soft rug.
+Kiko sits in the exact approved position shown by the intended opening composition: slightly left of center, seated naturally on the rug, with comfortable open visual space preserved on screen-right for Arda's later entrance in Shot 02.
+
+Do not enlarge Kiko. Do not move her closer to camera. Do not recenter her. Do not reduce the open screen-right floor space.
 
 She faces slightly toward camera-right.
 
@@ -87,13 +89,13 @@ Kiko has bright attentive eyes and one small delighted CLOSED-MOUTH smile.
 
 Her torso leans slightly forward, giving an immediate feeling that play is about to begin.
 
-Leave comfortable open visual space on screen-right for Arda's entrance in Shot 02.
-
 No other character is present.
 
 Do NOT include Arda.
 Do NOT include Mimi.
 Do NOT include any background animal or human character.
+
+The small teddy bear toy already present near the sofa is an inanimate room prop only. Preserve it as a toy exactly where it belongs in the room. It must not move, react, speak or become a character.
 
 CAMERA:
 
@@ -180,9 +182,9 @@ Do not reconstruct the opening.
 
 At frame zero preserve exactly:
 
-- Kiko's position
-- Kiko's body scale
-- Kiko's seated pose
+- Kiko's exact position shown in @image1
+- Kiko's exact body scale shown in @image1
+- Kiko's exact seated pose
 - head angle
 - hand positions
 - exact single ball
@@ -193,10 +195,20 @@ At frame zero preserve exactly:
 - rug
 - lighting
 - camera framing
+- the existing open screen-right space
+- the small teddy bear toy near the sofa as a static room prop only
 
 Start animation from the existing pose.
 
 Do not create a sudden first-frame pose change.
+
+Do not recenter Kiko.
+
+Do not push Kiko larger in frame.
+
+Do not crop away or reduce the screen-right entry space.
+
+Do not animate the teddy bear toy.
 
 ---
 
@@ -281,7 +293,12 @@ Use @image1 as exact frame zero.
 
 Continue directly from the approved Shot 01 Take Shot.
 
-Kiko remains center-left in her exact existing seated pose with the same single pastel-blue ball.
+Preserve Kiko exactly at the size, distance and position shown in @image1.
+Do not recenter Kiko. Do not enlarge Kiko. Do not move her unnaturally closer to camera.
+Preserve the current wide composition and the open floor space on screen-right exactly, because that space is needed for Arda's later entrance in Shot 02.
+The small teddy bear toy already visible near the sofa is an existing inanimate room prop. Preserve it exactly where it is. It never moves, speaks, reacts or becomes a character.
+
+Kiko remains exactly in her position, scale and seated pose shown in @image1 with the same single pastel-blue ball.
 
 Begin meaningful activity immediately.
 
@@ -517,7 +534,7 @@ Only extremely faint natural room tone.
 
 At 15.0 seconds:
 
-- canonical Kiko remains center-left
+- canonical Kiko remains exactly in the approved continuity position from @image1
 - Kiko remains seated
 - exactly one pastel-blue ball exists
 - ball remains securely in Kiko's hands
@@ -527,7 +544,8 @@ At 15.0 seconds:
 - Kiko has a small curious closed-mouth smile
 - Arda is NOT visible
 - Mimi is NOT visible
-- no other character is visible
+- no other active character is visible
+- the small teddy bear toy remains only as a static room prop
 - camera remains fixed
 - room remains unchanged
 - colour and contrast remain soft
