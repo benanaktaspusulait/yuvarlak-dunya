@@ -1,21 +1,39 @@
-# YouTube Metadata
+**YouTube Title**
+**I Can Try Again! 🌈 | Kiko & Mimi Learn to Keep Trying | PomPom Hills EP15**
 
-## Title
-Brave Enough to Try | Kiko, Mimi | Pompom Hills Preschool Animation
+**Alternative SEO Title**
+**Never Give Up! 🌈 Kiko & Mimi Try Again | Preschool Learning Cartoon | EP15**
 
-## Description
-A gentle story for little ones!
+**Description**
+Kiko finds a colorful Discovery Board and can’t wait to explore it! ☀️☁️🌈
 
-In this gentle Pompom Hills preschool animation, Kiko learns that trying new things takes courage — and you don't have to be perfect! Watch as Mimi encourages Kiko to take "one small try" at building with colourful blocks.
+She turns the sun, slides the cloud, and discovers a little door. But when the door doesn’t open the first time, Kiko has a choice: give up… or try another way.
 
-This episode supports early social-emotional learning through themes like courage, trying new activities, and celebrating imperfect attempts.
+With Mimi cheering her on, Kiko looks carefully, tries again, and discovers a wonderful rainbow surprise! 🌈
 
-Episode: BLD-EP15 - Brave Enough to Try
-Characters: Kiko, Mimi
-Location: Kiko's Home
-Theme: trying new activities, courage to attempt
+In this PomPom Hills episode, little learners explore an important preschool lesson:
 
-#PompomHills #PreschoolAnimation #KidsAnimation
+✨ It’s okay when something doesn’t work the first time.
+✨ We can look carefully.
+✨ We can try another way.
+✨ We can try again!
 
-## Tags
-Pompom Hills, preschool animation, kids animation, toddler cartoon, preschool cartoon, kids cartoon, gentle kids video, calm kids cartoon, safe cartoon for kids, animated preschool story, educational cartoon, preschool learning, social emotional learning
+Perfect for toddlers and preschoolers learning about perseverance, problem-solving, confidence, and trying again.
+
+**Today’s simple learning words:**
+☀️ Turn
+☁️ Slide
+🚪 Open
+💛 Try again
+
+Join Kiko and Mimi for more warm, playful learning adventures in PomPom Hills!
+
+**Subscribe for more Kiko & Friends stories, preschool learning adventures, and gentle life lessons.**
+
+#PomPomHills #KikoAndFriends #PreschoolLearning #TryAgain #KidsCartoon #ToddlerLearning
+
+**Tags**
+`pompom hills, kiko and friends, kiko, mimi, i can try again, try again for kids, perseverance for kids, preschool learning, preschool cartoon, toddler learning, educational cartoon for kids, kids learning video, problem solving for kids, growth mindset for kids, never give up for kids, learning through play, preschool life skills, toddler cartoon, kids animation, confidence for kids, social emotional learning, SEL for preschool, discovery board, turn slide open, rainbow for kids`
+
+* 
+ 

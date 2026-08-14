@@ -1,0 +1,8 @@
+file '/tmp/seg1.mp4'
+file '/tmp/seg2.mp4'
+file '/tmp/seg3.mp4'
+file '/tmp/seg4.mp4'
+file '/tmp/seg5.mp4'
+file '/tmp/seg6.mp4'
+file '/tmp/seg7.mp4'
+file '/tmp/seg8.mp4'
