@@ -1,564 +1,639 @@
-# EP09 — Share the Sunshine
-# Shot 03 — Just One Roll — FULLY FIXED v3
+# EP09 — SHARE THE SUNSHINE
 
-## Story Purpose
+# SHOT 03 — JUST ONE ROLL — FULLY FIXED v6
 
-Continue Kiko’s hesitation without repeating Shot 02.
+## REFERENCE SETUP
 
-Mimi enters and gives Kiko a **small, manageable choice** rather than a lecture about sharing.
+**@image1 = actual approved Shot 02 final frame — PRIMARY CONTINUITY SOURCE**
 
-Progression:
+Use @image1 literally as frame zero.
 
-**hesitation → Mimi notices → one-roll suggestion → Arda reassures → Kiko chooses → ball moves into ready position**
+@image1 controls:
 
-The key preschool idea:
+* Kiko
+* Arda
+* the single pastel-blue ball
+* exact current poses
+* exact gaze directions
+* exact hand positions
+* exact character locations and scale
+* room
+* furniture
+* lighting
+* camera
+* framing
+* visual quality
 
-**“I don’t have to do everything at once. I can try one small step.”**
+**The actual rendered Shot 02 final frame always wins over written expectations.**
 
----
-
-# REFERENCE SETUP
-
-## `@image1`
-
-Actual approved **Shot 02 final frame only**.
-
-This is the **only visual continuity source**.
-
-It controls:
-
-- Kiko
-- Arda
-- the ball
-- current poses
-- character locations
-- room
-- lighting
-- camera
-- furniture
-- rug
-- visual quality
-
-## `@image2`
-
-Approved canonical **Mimi character reference only**.
-
-`@image2` controls only:
-
-- Mimi identity
-- Mimi face
-- blue fur
-- yellow shirt
-- green eyes
-- floppy ears
-- canonical proportions
-- canonical relative scale
-
-Do NOT use `@image2` to redesign the room or existing characters.
+Do not reconstruct Shot 02 from text.
 
 ---
 
-# OPENART SETUP
+**@image2 = approved canonical Mimi reference — MIMI IDENTITY ONLY**
 
-- Seedance frame-to-video
-- Exactly 15 seconds
-- Horizontal 16:9
-- Fixed child-eye camera
-- Approx. 30 mm framing
-- Approved Kiko voice manually selected
-- Approved Arda voice manually selected
-- Approved Mimi voice manually selected
-- Auto Voice OFF
-- Prompt Enhancer OFF
-- Cinematic / Auto Camera OFF
-- Music OFF
-- Generated dialogue/audio ON
-- English dialogue only
+Reproduce Mimi literally and exactly as shown in @image2.
 
----
+@image2 is the sole authority for Mimi’s:
 
-# ABSOLUTE FRAME-ZERO CONTINUITY LOCK
+* face
+* blue fur
+* green eyes
+* floppy ears
+* yellow shirt
+* anatomy
+* proportions
+* colours
+* canonical character design
 
-Use `@image1` as exact frame zero.
+Do not reinterpret or redesign Mimi.
 
-Expected Shot 02 ending state:
+Do not use @image2 to alter Kiko, Arda, the room, camera, lighting or framing.
 
-- Kiko center-left
-- Arda screen-right
-- exactly one pastel-blue ball
-- ball held by Kiko
-- Kiko mildly uncertain
-- Kiko has just said “I don't know...”
-- Kiko is actively considering Arda's request
-- Arda is patient and friendly
-- Arda has not touched the ball
-- Mimi is not yet present
-
-Continue the **actual rendered frame exactly**.
-
-Do NOT:
-
-- reset Kiko’s pose
-- reset Kiko’s head
-- reset Kiko’s ball grip
-- reposition Arda
-- change Arda scale
-- move the ball before Mimi enters
-- rebuild the room
-- change camera framing
-
-If actual Shot 02 differs from these notes:
-
-**THE ACTUAL IMAGE WINS.**
+**Copy Mimi from @image2; do not invent Mimi from textual description.**
 
 ---
 
-# CRITICAL MIMI IDENTITY LOCK
+# FRAME-ZERO CONTINUITY LOCK
 
-Mimi is the canonical **blue bunny**.
+Continue directly from @image1.
 
-Mimi has:
+At frame zero:
 
-- soft blue fur
-- long floppy ears
-- green eyes
-- yellow shirt
-- approved canonical face
-- approved canonical proportions
+* Kiko remains seated foreground / center-left exactly as shown
+* Kiko holds exactly one pastel-blue ball with both hands
+* ball remains in its actual current lap/body-level position
+* Kiko is looking downward toward the ball
+* Kiko is mildly uncertain and thoughtful
+* Arda remains standing screen-right exactly as shown
+* Arda is looking toward Kiko
+* Arda remains friendly and patient
+* Mimi is not yet present
 
-Mimi is NOT:
+Do NOT reset:
 
-- butterfly
-- fairy
-- flying animal
-- insect
-- human child
-- generic rabbit
-- pink rabbit
-- white rabbit
+* Kiko pose
+* Kiko gaze
+* Kiko hands
+* ball position
+* Arda pose
+* Arda position
+* Arda scale
+* camera
+* framing
+* room
+
+---
+
+# ARDA ABSOLUTE CONTINUITY LOCK
+
+Arda already exists correctly in @image1.
+
+**Do not regenerate, redesign, reinterpret, replace or restyle Arda.**
+
+Preserve exactly the Arda already visible in @image1:
+
+* same face
+* same hair
+* same anatomy
+* same clothing
+* same proportions
+* same scale
+* same location
+* same overall design
+
+Mimi’s entrance must not make Arda morph, resize, move aside, change identity or gain new features.
+
+**Arda is existing continuity from @image1, not a new generation task.**
+
+---
+
+# MIMI IDENTITY LOCK
+
+Mimi appears for the first time in this shot.
+
+Reproduce Mimi exactly from @image2.
+
+Mimi is the canonical blue bunny with:
+
+* blue fur
+* green eyes
+* yellow shirt
+* long floppy ears
+* canonical face and proportions
 
 No wings.
-
-No bow unless canonical reference actually contains one.
-
+No flying.
 No costume redesign.
+No character redesign.
 
 ---
 
-# CRITICAL MIMI SCALE LOCK
+# MIMI SCALE — ABSOLUTE LOCK
 
-Preserve canonical Mimi size relative to Kiko.
+Mimi must appear at her correct canonical child-character scale.
 
-Mimi is approximately **80% of Kiko’s canonical character height at equivalent standing scale**.
+Mimi is approximately **80% of Kiko’s canonical standing height at equivalent standing scale**.
 
-Mimi is:
+She is clearly smaller than Kiko, but:
 
-- clearly smaller than Kiko
-- NOT tiny
-- NOT pet-sized
-- NOT baby-sized
-- NOT equal in height to Kiko
-- NOT larger than Kiko
+**NOT tiny.
+NOT pet-sized.
+NOT toy-sized.
+NOT miniature.
+NOT baby-sized.
+NOT a tiny background creature.**
+
+Mimi must immediately read as a **real child character**.
+
+Her on-screen body size must be substantial enough that her:
+
+* head
+* face
+* ears
+* torso
+* arms
+* body proportions
+
+are clearly readable.
+
+**Do not reduce Mimi’s apparent size because of perspective or background depth.**
 
 Once Mimi appears, her body scale remains stable.
 
-No growing during entrance.
-
-No shrinking when sitting.
-
----
-
-# CRITICAL ARDA CONTINUITY LOCK
-
-Arda already exists in `@image1`.
-
-Do NOT regenerate or reinterpret him.
-
-Preserve:
-
-- exact existing Arda identity
-- existing body scale
-- current location
-- current pose
-- current face
-- current clothing/accessories if any
-
-Mimi's entrance must not cause Arda to shift, morph or resize.
+No growing.
+No shrinking.
 
 ---
 
-# CRITICAL BALL LOCK
+# MIMI ENTRANCE / DEPTH LOCK — CRITICAL
+
+Mimi enters naturally into the **same playable room space as Arda**.
+
+**Mimi must enter on approximately the SAME FLOOR-DEPTH PLANE as Arda.**
+
+Prefer Mimi slightly **beside Arda**.
+
+**Mimi must NOT stand behind Arda.**
+
+Do not place Mimi:
+
+* deep in the background
+* far behind Kiko
+* far behind Arda
+* in a distant doorway
+* in a distant gap
+* peeking between characters
+* hidden behind Arda
+* hidden behind Kiko
+
+Do not use perspective depth to make Mimi smaller.
+
+Mimi must remain **visually substantial and clearly child-sized**.
+
+At first clear reveal, show enough of Mimi from **head through torso and lower body** that her correct scale is unmistakable.
+
+Do not show only Mimi’s face or head.
+
+Do not move Kiko or Arda to create space.
+
+Do not push Arda farther right.
+
+Do not pull Kiko farther left.
+
+Do not make Mimi cross in front of Kiko, Arda or the ball.
+
+---
+
+# BALL LOCK
 
 Exactly **ONE pastel-blue ball** exists.
 
-The SAME ball remains with Kiko throughout Shot 03.
+It is the same ball already in @image1.
 
-During this shot:
+Kiko keeps possession of the ball for the entire Shot 03.
 
-- no rolling
-- no throwing
-- no bouncing
-- no passing
-- no ball duplication
-- Arda does not touch it
-- Mimi does not touch it
+No:
 
-Only near the end does Kiko move it slowly from a protective hold into a **ready-to-roll position**.
+* rolling
+* throwing
+* bouncing
+* passing
+* duplication
+* second ball
+* teleporting
+* disappearance
 
-The ball remains in her hands at 15.0 seconds.
+Arda never touches or reaches for the ball.
 
----
+Mimi never touches or reaches for the ball.
 
-# CRITICAL SPEECH PACING LOCK
+Near the end only, Kiko slowly moves the same ball forward into a ready-to-roll position.
 
-Speak all lines at a natural, warm preschool pace.
+**The ball remains in Kiko’s hands at 15.0 seconds.**
 
-Never:
-
-- rush voices
-- compress words
-- overlap speakers
-- cut off final words
-- use rapid-fire delivery
-- improvise additional dialogue
-
-Only active speaker moves their mouth.
-
-All listener mouths fully closed.
-
-If timing gets tight, simplify a facial reaction rather than speeding up speech.
-
----
-
-# CRITICAL AUDIO LOCK
-
-**NO MUSIC OF ANY KIND.**
-
-Generate only:
-
-1. exact scripted dialogue
-2. extremely faint natural non-musical indoor room tone
-
-Absolutely no:
-
-background music,
-music bed,
-nursery music,
-children's music,
-instrumental,
-melody,
-jingle,
-humming,
-singing,
-percussion,
-narrator,
-voice-over,
-extra words,
-improvised dialogue,
-trailing speech,
-unfinished words.
+Shot 03 ends immediately before the first real roll.
 
 ---
 
 # VIDEO PROMPT
 
-```text
 Use @image1 as exact frame zero.
 
-Continue directly from the actual approved Shot 02 final frame.
+Continue directly and literally from the approved Shot 02 final frame.
 
-Preserve Kiko, Arda, the single pastel-blue ball, room, lighting, camera and all existing poses exactly.
+Preserve Kiko, Arda, the single pastel-blue ball, room, furniture, lighting, camera and framing exactly.
 
-Kiko is still mildly uncertain after saying:
+Kiko begins looking down toward the ball.
 
-“I don't know...”
+Do not reset her gaze or hands.
 
-Do not repeat that line.
+Arda remains exactly as he appears in @image1.
 
-Do not reset her emotional state.
+**Do not regenerate Arda.**
 
-Mimi now enters naturally using @image2 only as her canonical identity and scale reference.
+Mimi enters using @image2 only as her canonical identity reference.
 
-Mimi is the approved blue bunny with yellow shirt, green eyes and long floppy ears.
+Reproduce Mimi literally from @image2.
 
-She is approximately 80% of Kiko's canonical height at equivalent standing scale.
+**Mimi enters on approximately the SAME FLOOR-DEPTH PLANE as Arda, slightly BESIDE Arda, NOT behind him.**
 
-Do not make Mimi tiny, giant or equal in height to Kiko.
+Mimi must appear clearly child-sized and visually substantial.
 
-0.0–0.4:
-Continue Kiko's existing thoughtful ball-and-Arda attention without reset.
+Do not use perspective distance to miniaturize Mimi.
 
-Arda stays calmly where he already is.
+---
 
-0.4–1.2:
-Mimi enters naturally into an available side/background area.
+## 0.0–0.5
 
-She becomes clearly visible quickly.
+Continue the exact Shot 02 final pose.
 
-Do not make Mimi cross directly in front of Kiko, Arda or the ball.
+Kiko quietly looks down at the ball.
 
-Do not move Kiko or Arda to make space.
+Her hands remain in the actual existing position.
 
-1.2–2.9:
-Mimi notices Kiko's hesitation and says gently:
+Small natural blink or breathing movement.
 
-“What if you try one roll?”
+Arda remains calmly where he already is.
 
-Only Mimi's mouth moves.
+No dialogue.
 
-2.9–3.3:
-Kiko shifts her gaze toward Mimi.
+No reset.
 
-She still holds the ball securely.
+---
 
-3.3–4.3:
+## 0.5–1.3
+
+Mimi enters naturally into the same playable room depth as Arda.
+
+She moves into a clear position slightly beside Arda.
+
+**NOT behind Arda.**
+
+Do not place Mimi deep in the room.
+
+Do not make Mimi peek from between Kiko and Arda.
+
+Do not hide most of her body.
+
+**By 1.3 seconds, Mimi must already be clearly established at correct scale, with enough of her body visible to unmistakably read her as a child-sized character rather than a small pet, toy or miniature character.**
+
+Do not move Kiko or Arda.
+
+---
+
+## 1.3–2.9
+
+Mimi notices Kiko’s hesitation and says gently:
+
+**“What if you try one roll?”**
+
+Only Mimi’s mouth moves.
+
+Kiko begins to notice Mimi near the end of the line.
+
+Arda listens silently with mouth closed.
+
+---
+
+## 2.9–3.3
+
+Kiko naturally lifts her gaze from the ball toward Mimi.
+
+Ball remains stationary in both hands.
+
+---
+
+## 3.3–4.3
+
 Kiko asks:
 
-“Just one?”
+**“Just one?”**
 
-Her expression is cautious but curious.
+Only Kiko’s mouth moves.
 
-4.3–4.6:
-Mimi gives one tiny reassuring nod.
+Kiko is cautious but curious.
 
-4.6–5.6:
-Mimi answers:
+Not angry.
+Not sad.
+Not frightened.
 
-“Just one.”
+---
 
-5.6–6.0:
-Kiko briefly looks toward Arda.
+## 4.3–4.6
 
-6.0–7.5:
+Mimi gives one small reassuring nod.
+
+Mouth closed.
+
+---
+
+## 4.6–5.6
+
+Mimi says warmly:
+
+**“Just one.”**
+
+Only Mimi’s mouth moves.
+
+---
+
+## 5.6–6.0
+
+Kiko gently shifts her gaze from Mimi toward Arda.
+
+Do not rotate her entire body.
+
+Ball remains stationary.
+
+---
+
+## 6.0–7.5
+
 Arda says warmly:
 
-“I can roll it back.”
+**“I can roll it back.”**
 
-Arda stays where he is.
+Only Arda’s mouth moves.
 
-He does NOT reach for the ball.
+Arda stays in his existing position.
 
-7.5–8.0:
-Kiko looks down toward her favourite ball.
+He does not step closer.
 
-8.0–8.7:
-Kiko looks from the ball back toward Arda.
+He does not bend toward the ball.
 
-Her protective expression begins to soften.
+He does not reach for or touch the ball.
 
-8.7–10.4:
+---
+
+## 7.5–8.1
+
+Kiko looks down toward the ball.
+
+Small thoughtful facial reaction.
+
+No blank stare.
+
+---
+
+## 8.1–8.7
+
+Kiko glances back toward Arda.
+
+Her expression begins to soften.
+
+Ball remains in her hands.
+
+---
+
+## 8.7–10.4
+
 Kiko says:
 
-“Okay... one roll.”
+**“Okay... one roll.”**
 
-While speaking, her grip becomes slightly more relaxed.
+Only Kiko’s mouth moves.
 
-Do not release the ball.
+Her uncertainty changes into cautious willingness.
 
-10.4–10.8:
-Mimi gives one warm closed-mouth supportive reaction.
+Her grip relaxes slightly.
 
-10.8–12.1:
+Do not release or roll the ball.
+
+---
+
+## 10.4–10.8
+
+Mimi gives one tiny warm closed-mouth supportive reaction.
+
+No large gesture.
+
+---
+
+## 10.8–12.1
+
 Mimi says:
 
-“You choose when.”
+**“You choose when.”**
 
-12.1–12.5:
-Kiko looks down at the ball with small calm determination.
+Only Mimi’s mouth moves.
 
-12.5–13.6:
-Kiko slowly moves the SAME ball away from her chest and toward the rug in front of her.
+Kiko and Arda listen with mouths fully closed.
 
-This is preparation only.
+---
 
-13.6–14.4:
-Kiko adjusts both hands into a clean ready-to-roll position.
+## 12.1–12.5
 
-The ball remains fully supported by her hands.
+Kiko looks down at the ball with calm determination.
 
-14.4–15.0:
-Kiko looks from the ball toward Arda with a small determined closed-mouth smile.
+No ball movement yet.
 
-The forward preparation remains active.
+---
 
-Do NOT release the ball.
+## 12.5–13.6
 
-End just before the roll.
+Kiko slowly moves the SAME pastel-blue ball forward from its actual current position toward the rug.
 
-PURPOSEFUL MOTION:
+Do not pull it to her chest first.
 
-existing hesitation
-→ Mimi entrance
-→ Kiko looks Mimi
-→ reassurance
-→ Kiko looks Arda
-→ Kiko looks ball
-→ decision
-→ grip relaxes
-→ ball moves forward
-→ ready-to-roll position
-→ determined look toward Arda.
+Do not reset it.
 
-No blank staring.
+Do not lift it.
 
-No idle hold longer than 1 second.
+Preparation only.
 
-Exactly one ball.
+No release.
 
-Mimi never touches the ball.
+No roll.
 
-Arda never touches the ball.
+---
+
+## 13.6–14.4
+
+Kiko settles both hands into a natural ready-to-roll position.
+
+Ball remains fully supported by her hands.
+
+No hand deformation.
+No hand-ball fusion.
+
+---
+
+## 14.4–15.0
+
+Kiko looks toward Arda with a small determined closed-mouth smile.
+
+Arda remains friendly and ready.
+
+Mimi remains clearly visible beside Arda at correct child-character scale.
+
+Kiko keeps both hands on the ball.
+
+**DO NOT RELEASE THE BALL.**
+
+End immediately before the first roll.
+
+---
+
+# DIALOGUE LOCK
+
+Exact dialogue only:
+
+**Mimi:** “What if you try one roll?”
+**Kiko:** “Just one?”
+**Mimi:** “Just one.”
+**Arda:** “I can roll it back.”
+**Kiko:** “Okay... one roll.”
+**Mimi:** “You choose when.”
+
+No additional dialogue.
+
+One speaker at a time.
+
+Only active speaker mouth moves.
+
+Listener mouths closed.
+
+Natural warm preschool pace.
+
+Do not rush or compress speech.
+
+---
+
+# CAMERA LOCK
 
 Fixed child-eye camera.
 
-No pan.
-No zoom.
-No orbit.
-No dolly.
-No reframe.
-No cut.
+No:
 
-Preserve @image1 visual quality exactly:
+* pan
+* tilt
+* zoom
+* push-in
+* pull-back
+* dolly
+* orbit
+* reframe
+* cut
+* camera shake
 
-soft pastel,
-matte handcrafted toy-set feel,
-medium-low contrast,
-restrained saturation,
-warm daylight,
-gentle sharpness.
+Preserve @image1 framing.
 
-Prevent progressive contrast increase.
-Prevent saturation increase.
-Prevent HDR.
-Prevent glossy plastic.
-Prevent oversharpening.
-Prevent darkness drift.
+---
+
+# VISUAL QUALITY LOCK
+
+Preserve @image1:
+
+* soft pastel preschool look
+* matte materials
+* medium-low contrast
+* restrained saturation
+* gentle sharpness
+* warm natural daylight
+
+Prevent:
+
+* contrast increase
+* saturation increase
+* HDR
+* glossy plastic
+* harsh highlights
+* harsh shadows
+* oversharpening
+* darkness drift
+* exposure drift
 
 If any correction occurs, slightly softer and calmer is acceptable.
 
-No music.
-No text.
-```
-
 ---
 
-# EXACT DIALOGUE & ACTION TIMING
+# AUDIO LOCK
 
-| Time | Speaker / Action |
-|---|---|
-| 0.0–0.4 | Continue Shot 02 hesitation without reset |
-| 0.4–1.2 | Canonical Mimi enters |
-| 1.2–2.9 | Mimi: **“What if you try one roll?”** |
-| 2.9–3.3 | Kiko looks toward Mimi |
-| 3.3–4.3 | Kiko: **“Just one?”** |
-| 4.3–4.6 | Mimi tiny reassuring nod |
-| 4.6–5.6 | Mimi: **“Just one.”** |
-| 5.6–6.0 | Kiko looks toward Arda |
-| 6.0–7.5 | Arda: **“I can roll it back.”** |
-| 7.5–8.0 | Kiko looks at ball |
-| 8.0–8.7 | Kiko ball → Arda gaze |
-| 8.7–10.4 | Kiko: **“Okay... one roll.”** Grip softens |
-| 10.4–10.8 | Mimi supportive reaction |
-| 10.8–12.1 | Mimi: **“You choose when.”** |
-| 12.1–12.5 | Kiko looks at ball with determination |
-| 12.5–13.6 | Ball moves slowly toward ready position |
-| 13.6–14.4 | Hands settle into clean roll-ready position |
-| 14.4–15.0 | Kiko looks toward Arda; ball remains in hands |
+**NO MUSIC OF ANY KIND.**
 
----
+Only:
 
-# DIALOGUE PACE CHECK
+1. exact scripted dialogue
+2. extremely faint natural non-musical indoor room tone
 
-This shot has enough spoken interaction without becoming rushed.
-
-There is no long reflective dead air.
-
-Silent intervals always contain:
-
-- entrance
-- gaze shift
-- nod
-- grip change
-- ball preparation
-
-No intentional idle gap exceeds roughly one second.
+No narrator.
+No voice-over.
+No music bed.
+No nursery music.
+No instrumental.
+No melody.
+No jingle.
+No singing.
+No humming.
+No percussion.
+No improvised dialogue.
 
 ---
 
 # NEGATIVE PROMPT
 
-```text
-background music, soundtrack, music bed, nursery music, children's music, instrumental music, melody, jingle, humming, singing, percussion, narrator, voice-over, extra dialogue, improvised dialogue, trailing word, unfinished word, cut-off speech, rushed speech, rapid speech, compressed dialogue, overlapping dialogue, simultaneous speech, first-frame mismatch, Kiko pose reset, Kiko head reset, ball grip reset, Arda pose reset, Arda scale drift, Arda moving aside for Mimi, wrong Mimi, butterfly Mimi, fairy Mimi, wings, flying Mimi, fluttering Mimi, generic rabbit, white rabbit, pink rabbit, giant Mimi, tiny Mimi, pet-sized Mimi, baby-sized Mimi, Mimi equal height to Kiko, Mimi taller than Kiko, Mimi scale drift, Mimi growing during entrance, second ball, duplicate ball, extra ball, ball teleport, ball disappearing, ball rolling early, ball released early, ball thrown, ball bouncing, Arda touching ball, Arda grabbing ball, Mimi touching ball, Mimi grabbing ball, Kiko forced to share, angry Kiko, crying Kiko, sad Arda, lecturing Mimi, pointing aggressively, large gesture, blank stare, frozen character, idle hold over one second, open listener mouth, wrong lip-sync, hand teleport, malformed hands, extra fingers, hand-ball fusion, camera movement, zoom, pan, orbit, dolly, reframe, cut, contrast increase, high contrast, saturation increase, oversaturated, HDR, glossy plastic, harsh highlights, harsh shadows, sharpness increase, oversharpened, colour drift, exposure drift, progressive darkening, text, caption, logo, watermark
-```
+tiny Mimi, pet-sized Mimi, toy-sized Mimi, miniature Mimi, baby-sized Mimi, distant-background Mimi, deep-background Mimi, Mimi behind Arda, Mimi far behind Arda, Mimi hidden behind Arda, Mimi hidden behind Kiko, Mimi peeking between characters, Mimi appearing only as a head, perspective-miniaturized Mimi, Mimi scale drift, Mimi growing, Mimi shrinking, wrong Mimi, Mimi redesign, wings, flying Mimi, Arda regeneration, Arda redesign, Arda identity drift, Arda morph, Arda scale drift, Arda moving aside for Mimi, second ball, duplicate ball, extra ball, ball teleport, ball disappearance, ball rolling early, ball released early, ball thrown, ball bouncing, Arda touching ball, Arda reaching for ball, Mimi touching ball, Mimi reaching for ball, Kiko pose reset, Kiko gaze reset, Kiko hand reset, ball grip reset, angry Kiko, crying Kiko, frightened Kiko, blank stare, frozen character, idle hold over one second, open listener mouth, wrong lip-sync, overlapping dialogue, rushed speech, extra dialogue, hand teleport, malformed hands, hand-ball fusion, camera movement, zoom, pan, orbit, dolly, reframe, cut, background music, soundtrack, music bed, nursery music, melody, singing, humming, percussion, high contrast, saturation increase, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpening, colour drift, exposure drift, progressive darkening, text, caption, logo, watermark
 
 ---
 
-# FINAL AUDIO LOCK
-
-The ONLY spoken dialogue is:
-
-**Mimi:** “What if you try one roll?”  
-**Kiko:** “Just one?”  
-**Mimi:** “Just one.”  
-**Arda:** “I can roll it back.”  
-**Kiko:** “Okay... one roll.”  
-**Mimi:** “You choose when.”
-
-After **“You choose when.”**:
-
-NO additional dialogue.
-
-NO vocal improvisation.
-
-NO MUSIC.
-
-Only extremely faint natural non-musical room tone.
-
----
-
-# FINAL FRAME LOCK
+# FINAL FRAME LOCK — 15.0s
 
 At 15.0 seconds:
 
-- canonical Kiko remains in actual continuity position
-- canonical Arda remains in actual continuity position
-- canonical Mimi is clearly visible
-- Mimi scale is correct relative to Kiko
-- exactly one pastel-blue ball exists
-- ball remains in Kiko's hands
-- Kiko has moved the ball into a ready-to-roll position
-- ball has NOT been released
-- Kiko's grip is relaxed
-- Kiko is looking toward Arda
-- Kiko looks cautious but willing
-- Arda is patient
-- Mimi is supportive
-- Arda has never touched the ball
-- Mimi has never touched the ball
-- camera remains fixed
-- environment remains unchanged
-- no quality drift
-- no music
+* Kiko remains in continuity with @image1
+* Arda remains exactly the same character from @image1
+* canonical Mimi is clearly visible
+* Mimi is beside Arda on approximately the same floor-depth plane
+* Mimi is NOT behind Arda
+* Mimi reads clearly as a child-sized character
+* Mimi is NOT tiny or pet-sized
+* exactly one pastel-blue ball exists
+* ball remains in Kiko’s hands
+* ball is in ready-to-roll position
+* ball has NOT been released
+* Kiko looks toward Arda with cautious willingness
+* Arda is friendly and ready
+* Mimi is supportive
+* camera remains fixed
+* environment remains unchanged
+* no visual quality drift
+* no music
 
 ---
 
 # CONTINUITY INTO SHOT 04
 
-Shot 04 uses **only the actual approved Shot 03 final frame as `@image1`**.
+Shot 04 uses the **actual approved Shot 03 final frame as @image1**.
 
-Do not reconstruct the ready pose.
+Do not reconstruct the ready-to-roll position.
 
-The expected starting state is:
+Do not withdraw the ball.
 
-- Kiko already holds the ball forward in roll-ready position
-- Arda is ready to receive
-- Mimi is present
-- nobody has touched the ball except Kiko
+Do not reset Kiko’s hands.
 
-Shot 04 must begin directly from that existing hand/ball position.
+Do not repeat the preparation movement.
 
-**No withdraw → no reset → no second preparation.**
+Shot 04 begins directly from the actual final hand-and-ball position.
 
-Kiko should begin the first real roll almost immediately.
-
-The actual Shot 03 final image overrides every written expectation before Shot 04 is rendered.
+**Actual approved Shot 03 final frame always wins.**
