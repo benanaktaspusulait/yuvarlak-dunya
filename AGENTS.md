@@ -64,6 +64,7 @@ bu dosyalara dokunmaz.
 | YouTube title / description / tags / Shorts metadata | `00-CORE/30_YOUTUBE_METADATA_STANDARD.md` |
 | Yayın stratejisi | `11-DOCS/09_YOUTUBE_STRATEGY.md` |
 | Ses / voice / seslendirme | `00-CORE/AUDIO_GUIDE.md`, `00-CORE/EPISODE_AUDIO_WORKFLOW.md` |
+| **TTS ses değiştirme (voice replacement)** | `00-CORE/TTS_VOICE_REPLACEMENT_WORKFLOW.md` |
 | OpenArt prompt Sound bölümü | `POMPOM_HILLS_PRODUCTION/00_GLOBAL_RULES/NATURAL_CALMING_AMBIENCE_SOUND_STANDARD.md` |
 | Çocuk güvenliği / COPPA | `00-CORE/CHILD_SAFETY_RULES.md`, `10-LICENSING/COPPA_MADE_FOR_KIDS_CHECKLIST.md` |
 | Yasak/negatif prompt listeleri | `00-CORE/NEGATIVE_PROMPTS.md` |
