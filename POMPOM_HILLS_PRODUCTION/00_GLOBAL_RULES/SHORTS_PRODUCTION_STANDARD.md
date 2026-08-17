@@ -597,7 +597,44 @@ Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 
 ---
 
-## 16. İlgili Dosyalar
+## 16. Facebook Shorts — Micro Learning Game Standard
+
+Facebook Shorts, uzun bölümün küçültülmüş özeti değil; tek bir etkileşimli mikro öğrenme oyunu olarak üretilir.
+
+### 16.1 Süre ve yapı
+
+| Bölüm | Süre | Kural |
+|------|------|------|
+| Hook | 0–2 sn | Olay başlamış olmalı; uzun giriş, boş bakış veya karakter tanıtımı yok |
+| Tek oyun | 2–9 sn | Yalnızca bir öğrenme noktası veya bir ana fiziksel aksiyon |
+| Payoff | 9–12/14 sn | Cevap, kopyalama veya başarı görünür; boş gülümseme ile uzatma yok |
+
+- Toplam süre 10–15 saniye; hedef 12–14 saniye.
+- 15 saniyeyi doldurmak zorunlu değildir.
+- Her short'ta yaklaşık 3–5 kısa replik ve 15–25 İngilizce kelime hedeflenir.
+- Kaynak shot 15 saniyeden uzun olsa bile Facebook çıktısı 10–15 saniyeye seçilir; süre doldurmak için uzatma yapılmaz.
+- Özellikle 20 saniyelik Shot 03 gibi kaynaklar tek bir mikro oyunu taşıyan bağımsız bir segment olarak kısaltılır.
+
+### 16.2 İçerik türleri
+
+Yalnızca şu üç format kullanılır:
+
+1. **COPY ME** — clap, movement, sound veya expression kopyalama.
+2. **FIND IT** — çocuk bir nesneyi, rengi veya konumu bulur.
+3. **LISTEN & GUESS** — çocuk sesi doğru nesne veya özellik ile eşleştirir.
+
+Episode seti genelinde hedef dağılım: %50 COPY ME, %30 FIND IT, %20 LISTEN & GUESS.
+
+### 16.3 Görsel ve ses sınırları
+
+- 1–2 karakter, 1 ana obje, 1 lokasyon.
+- Karakterler büyük ve yüz ifadeleri okunaklı; gereksiz yürüyüş ve prop çoğalması yok.
+- Kamera mümkün olduğunca sabit; her short'ta en fazla bir ana fiziksel aksiyon.
+- Diyalog ve doğal ses efektleri kullanılır.
+- OpenArt/Seedance müziği eklenmez. Müzik gerekiyorsa yalnızca sonradan edit aşamasında eklenebilir.
+- Karakter tarafları, prop sürekliliği ve aktif konuşmacı okunabilirliği korunur.
+
+## 17. İlgili Dosyalar
 
 | Dosya | Amaç |
 |-------|------|
@@ -614,4 +651,4 @@ Watch more Pompom Hills: https://www.youtube.com/@PompomHills
 ---
 
 *Oluşturulma: 7 Temmuz 2026*
-*Son güncelleme: 12 Ağustos 2026 — finished-master smart reframe standardına bağlandı*
+*Son güncelleme: 17 Ağustos 2026 — Facebook micro learning game standardı eklendi*
