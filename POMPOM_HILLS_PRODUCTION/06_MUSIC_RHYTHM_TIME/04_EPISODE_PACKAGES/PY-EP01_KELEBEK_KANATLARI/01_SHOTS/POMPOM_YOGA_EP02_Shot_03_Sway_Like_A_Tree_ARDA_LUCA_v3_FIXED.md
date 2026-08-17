@@ -1,10 +1,10 @@
-# POMPOM YOGA EP02 — Shot 04 — One-Foot Tree Challenge — ARDA + LUCA v2
+# POMPOM YOGA EP02 — Shot 03 — Sway Like a Tree — ARDA + LUCA v3 — BUTTERFLY MEADOW + ACTUAL SCALE
 
 ## Shot ID
-PY-EP02-S04
+PY-EP02-S03
 
 ## Continuity
-Use ACTUAL approved Shot 03 final frame as `@image1`.
+Use ACTUAL approved Shot 02 final frame as `@image1`.
 `@image1` is exact frame zero.
 
 
@@ -43,16 +43,16 @@ Pompom Yoga — EP02 — Grow Like a Tree
 - Normal HUMAN hands and feet.
 - No animal traits.
 
-### SCALE LOCK
-Canonical standing scale:
-**LUCA 100 > ARDA 85**
+### SCALE LOCK — ACTUAL IMAGE WINS
+Preserve the **exact approved Luca/Arda scale relationship from `@image1`**.
 
-- Luca is visibly taller than Arda.
-- Do NOT make Luca giant.
-- Do NOT make Arda miniature.
-- Preserve the same natural scale relationship across the episode.
+- Luca remains a little taller than Arda.
+- Do NOT enlarge Luca.
+- Do NOT shrink Arda further.
+- Arda must not become miniature or toddler-sized.
+- Do NOT force old numeric scale notes if they conflict with the approved frame.
 - Pose may change apparent head height, but CHARACTER SCALE must not drift.
-- Never resize characters just to force matching head heights.
+- `@image1` is the final authority for scale.
 
 ### SCREEN-SIDE LOCK
 Default first-frame order:
@@ -65,21 +65,22 @@ No crossing.
 No mirrored characters.
 
 ### WORLD
-Location: **Pompom Hills — Sunny Clover Meadow**
+Location: **Pompom Hills — Butterfly Meadow**
 
 Environment:
-- soft green meadow
-- rounded clover patches
-- small daisies and pastel flowers
-- a few rounded PomPom Hills trees
-- gentle rolling hills
-- warm bright morning/daytime
+- preserve the approved **Butterfly Meadow** identity from `@image1`
+- soft rolling green hills
+- pastel flower beds
+- central stepping-stone path
+- floral arch in the background when visible in the approved frame
 - open uncluttered movement area
+- warm bright morning/daytime
 - soft dimensional handcrafted preschool style
 - matte materials
 - medium-low contrast
 - restrained saturation
 - bright but soft exposure
+- no world redesign
 
 No extra living characters.
 No birds or animals as focal characters.
@@ -219,64 +220,69 @@ Absolutely no:
 - exposure drift
 
 ### GLOBAL NEGATIVE PROMPT
-Tillo, rabbit, bunny, animal character, Noah, Kiko, Mimi, Opa, extra child, extra character, duplicate Luca, duplicate Arda, giant Luca, tiny Arda, scale mismatch, scale drift, character resize, character swap, side swap, mirrored characters, characters crossing, wrong character, character redesign, wrong outfit, extra limbs, extra fingers, deformed hands, deformed feet, floating character, falling, dangerous yoga pose, deep backbend, splits, fast spinning, high jump, running into camera, background music, soundtrack, lullaby, instrumental music, melody, musical sting, percussion music, singing, humming, narrator, voice-over, missing dialogue, silent characters, blank stare, long smile hold, passive waiting, frozen character, delayed dialogue, delayed gesture, idle opening, empty opening seconds, dead air, camera zoom, push-in, pull-back, pan, tilt, orbit, reframe, internal cut, montage, slow motion, high contrast, oversaturated, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpened, text, subtitles, watermark
+Tillo, rabbit, bunny, animal character, Noah, Kiko, Mimi, Opa, extra child, extra character, duplicate Luca, duplicate Arda, giant Luca, tiny Arda, Arda shrinking, Luca enlarging, scale mismatch, scale drift, character resize, character swap, side swap, mirrored characters, characters crossing, wrong character, character redesign, wrong outfit, extra limbs, extra fingers, deformed hands, deformed feet, floating character, falling, dangerous yoga pose, deep backbend, splits, fast spinning, high jump, running into camera, background music, soundtrack, lullaby, instrumental music, melody, musical sting, percussion music, singing, humming, narrator, voice-over, missing dialogue, silent characters, blank stare, long smile hold, passive waiting, frozen character, delayed dialogue, delayed gesture, idle opening, empty opening seconds, dead air, camera zoom, push-in, pull-back, pan, tilt, orbit, reframe, internal cut, montage, slow motion, Sunny Clover Meadow, wrong meadow, world redesign, high contrast, oversaturated, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpened, text, subtitles, watermark
 
 
 ## Story purpose
-Short safe balance challenge.
-No long one-foot hold.
+Active controlled sway with quick call-and-response.
 
 ## 15-SECOND ACTION + DIALOGUE
 
 ### 0.0–1.8
-Luca points toward his feet, then opens arms for balance.
+Luca opens arms like tree branches and starts a tiny wind reaction.
 
-**LUCA:** "Can you balance, Arda?"
+**LUCA:** "Arda, the wind is coming!"
 
-### 1.8–3.7
-Luca lifts one foot only slightly above the grass.
+### 1.8–4.0
+Both gently sway toward one side.
+Arda watches Luca's body direction.
 
-**LUCA:** "One foot up!"
+**ARDA:** "Sway this way!"
 
-### 3.7–5.7
-Arda copies with a tiny safe foot lift.
+### 4.0–6.2
+They pass through center and sway to the other side.
 
-**ARDA:** "Mine is up too!"
+**LUCA:** "Now the other way!"
 
-### 5.7–7.6
-Both make tiny natural balance corrections.
-No frozen hold.
+### 6.2–8.3
+Arda follows and returns toward center.
 
-**LUCA:** "Eyes forward. Stay steady!"
+**ARDA:** "Whoa! My tree moves!"
 
-### 7.6–9.5
-Arda begins lowering his foot.
+### 8.3–10.5
+Luca makes one smaller controlled sway.
+Feet remain planted.
 
-**ARDA:** "Steady... steady..."
+**LUCA:** "Slow and steady."
 
-### 9.5–11.3
-Both place lifted feet fully back down.
+### 10.5–12.8
+Arda makes the matching small sway and plants himself upright.
 
-**LUCA:** "And feet down!"
+**ARDA:** "I can stay strong!"
 
-### 11.3–13.0
-Arda shakes his hands once to release tension.
+### 12.8–15.0
+Both stop upright with arms open and perform one quick proud nod.
 
-**ARDA:** "That was tricky!"
+**LUCA:** "Strong trees don't fall!"
 
-### 13.0–15.0
-Luca gives a happy nod and points to the other foot.
-
-**LUCA:** "Next, we switch sides!"
-
-## SAFETY LOCK
-- foot only slightly off ground
-- no hopping
-- no long hold
+## HARD MOVEMENT LOCK
+- no spinning
+- no foot crossing
 - no falling
-- no foot against thigh
-- both feet grounded by 11.3s
+- no exaggerated side travel
+- no long silent sway
+- feet remain planted
+- no side swap
+- no character crossing
+- no camera movement
+- no pose reset at frame zero
 
 ## END FRAME
-Both standing with two feet grounded.
-End of chain 1.
+- Luca remains on the approved LEFT side.
+- Arda remains on the approved RIGHT side.
+- Both upright.
+- Arms open like gentle tree branches.
+- Feet planted and fully visible.
+- Approved Luca/Arda scale relationship preserved.
+- Butterfly Meadow preserved.
+- Ready for Shot 04 balance challenge.

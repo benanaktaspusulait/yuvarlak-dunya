@@ -1,277 +1,341 @@
-# POMPOM YOGA EP02 — Shot 02 — Reach for the Sun — ARDA + LUCA v2
+# POMPOM YOGA EP02 — Shot 02 — Reach for the Sun — ARDA + LUCA v3 (ACTUAL IMAGE1 CONTINUITY)
 
 ## Shot ID
+
 PY-EP02-S02
 
 ## Continuity
-Use ACTUAL approved Shot 01 final frame as `@image1`.
-`@image1` is exact frame zero.
 
+Use the ACTUAL approved Shot 01 final frame as `@image1`.
+
+`@image1` is **exact frame zero** and the **only** visual continuity source.
+
+For this specific shot, the actual `@image1` shows:
+
+* **LUCA on the LEFT**
+* **ARDA on the RIGHT**
+* both boys already in a **crouched tiny-seed pose**
+* both facing slightly toward each other
+* Butterfly Meadow background with:
+
+    * soft rolling hills
+    * pastel flower beds
+    * central stepping-stone path
+    * floral arch in the background
+    * bright soft daytime lighting
+
+If any text below conflicts with the actual approved `@image1`, **THE ACTUAL IMAGE WINS**.
+
+---
 
 ## GLOBAL PRODUCTION LOCK — APPLY LITERALLY
 
 ### SERIES
+
 Pompom Yoga — EP02 — Grow Like a Tree
 
 ### FORMAT
-- 16:9 horizontal.
-- 8 shots.
-- Approximately 15.0 seconds each.
-- English dialogue only.
-- Follow-along preschool movement.
-- The child watching should always understand what to copy.
+
+* 16:9 horizontal
+* approximately 15.0 seconds
+* English dialogue only
+* preschool follow-along movement
+* simple, clear, copyable actions
 
 ### CHARACTERS — ONLY LUCA + ARDA
 
 ## LUCA
-- HUMAN preschool boy.
-- Canonical PomPom Hills Luca.
-- Use the approved canonical Luca character reference for exact face, hair, outfit colours, shoes, and proportions.
-- Do NOT invent or redesign his clothing.
-- Young boy voice, approximately 3–4 years old.
-- Canonical standing scale: **100 visual units**.
-- Normal HUMAN hands and feet.
-- No animal traits.
+
+* HUMAN preschool boy
+* Canonical Pompom Hills Luca
+* Keep exact approved face, hair, outfit colours, shoes, and proportions
+* No redesign
+* Young boy voice, about 3–4 years old
+* Warm, encouraging, energetic
 
 ## ARDA
-- HUMAN preschool boy.
-- Canonical PomPom Hills Arda.
-- Use the approved canonical Arda character reference for exact face, hair, outfit colours, shoes, and proportions.
-- Do NOT invent or redesign his clothing.
-- Young boy voice, approximately 2–3 years old.
-- Canonical standing scale: **85 visual units**.
-- Normal HUMAN hands and feet.
-- No animal traits.
+
+* HUMAN preschool boy
+* Canonical Pompom Hills Arda
+* Keep exact approved face, hair, outfit colours, shoes, and proportions
+* No redesign
+* Young boy voice, about 2–3 years old
+* Cheerful, playful, eager to copy Luca
 
 ### SCALE LOCK
-Canonical standing scale:
-**LUCA 100 > ARDA 85**
 
-- Luca is visibly taller than Arda.
-- Do NOT make Luca giant.
-- Do NOT make Arda miniature.
-- Preserve the same natural scale relationship across the episode.
-- Pose may change apparent head height, but CHARACTER SCALE must not drift.
-- Never resize characters just to force matching head heights.
+Preserve the **actual approved visual scale from `@image1`**.
+
+Important:
+
+* Luca is a little taller than Arda
+* Arda is smaller, **but not tiny**
+* Do **NOT** shrink Arda further
+* Do **NOT** enlarge Luca
+* Do **NOT** force identical height
+* The exact approved `@image1` relationship wins over old numeric notes
 
 ### SCREEN-SIDE LOCK
-Default first-frame order:
-- **LUCA = LEFT**
-- **ARDA = RIGHT**
 
-For continuity shots, the ACTUAL approved `@image1` screen arrangement wins.
-No side swap.
-No crossing.
-No mirrored characters.
+* **LUCA = LEFT**
+* **ARDA = RIGHT**
+* no side swap
+* no crossing
+* no mirrored staging
 
 ### WORLD
-Location: **Pompom Hills — Sunny Clover Meadow**
 
-Environment:
-- soft green meadow
-- rounded clover patches
-- small daisies and pastel flowers
-- a few rounded PomPom Hills trees
-- gentle rolling hills
-- warm bright morning/daytime
-- open uncluttered movement area
-- soft dimensional handcrafted preschool style
-- matte materials
-- medium-low contrast
-- restrained saturation
-- bright but soft exposure
+Location: **Pompom Hills — Butterfly Meadow**
 
-No extra living characters.
-No birds or animals as focal characters.
+Environment must match the approved look:
+
+* open flower meadow
+* rounded pastel flower beds
+* central stepping-stone path
+* flower arch in the background
+* soft rolling green hills
+* a few tiny butterflies in the far background only if subtle
+* bright morning / daytime feeling
+* soft handcrafted preschool style
+* matte materials
+* medium-low contrast
+* gentle, bright, cheerful colour
+* no clutter
+* open safe movement area
+
+No extra focal characters.
+No extra children.
+No animals as scene partners.
 No random props.
 
 ### CAMERA
-- Fixed child-eye / slightly wide demonstration camera.
-- Full bodies and feet stay visible.
-- No push-in.
-- No pull-back.
-- No pan.
-- No tilt.
-- No orbit.
-- No camera follow.
-- No zoom.
-- No internal cut.
-- No montage.
-- No slow motion.
-- No reframe.
 
-### CONTINUITY
-- Actual previous approved final frame = `@image1`.
-- `@image1` is exact frame zero and the ONLY visual continuity source.
-- Preserve actual pose, screen sides, gaze, hands, feet, body scale, world layout, lighting, and camera.
-- Do not rebuild the scene from text.
-- If text conflicts with actual `@image1`, THE ACTUAL IMAGE WINS.
+* fixed child-eye demonstration framing
+* full bodies visible
+* feet visible
+* no zoom
+* no pan
+* no tilt
+* no orbit
+* no reframe
+* no internal cuts
+* no montage
+* no slow motion
 
-### 4-SHOT CHAIN
-- Shots 01–04 = continuity chain 1.
-- Shot 02 uses approved Shot 01 final frame as `@image1`.
-- Shot 03 uses approved Shot 02 final frame as `@image1`.
-- Shot 04 uses approved Shot 03 final frame as `@image1`.
-- Shot 05 = FRESH approved Take Shot / quality reset.
-- Shots 06–08 continue from previous approved final frame.
+### CONTINUITY LOCK
+
+Preserve from `@image1`:
+
+* character identity
+* scale relationship
+* screen sides
+* approximate pose at frame zero
+* camera angle
+* world layout
+* lighting
+* tone and softness
+
+This shot must begin from the **actual crouched pose**, not from a standing pose and not from a raised-arm pose.
 
 ### AUDIO — ABSOLUTE
+
 **NO MUSIC OF ANY KIND**
-- no background music
-- no soundtrack
-- no lullaby
-- no melody
-- no instrumental music
-- no musical sting
-- no percussion bed
-- no singing
-- no humming
 
-Only:
-- exact Luca dialogue
-- exact Arda dialogue
-- extremely faint natural meadow ambience
-- subtle grass / clothing / foot movement sounds where physically appropriate
+Forbidden:
 
-If dialogue is missing and music appears, the generation is WRONG.
+* background music
+* soundtrack
+* melody
+* instrumental bed
+* musical sting
+* percussion bed
+* humming
+* singing
+
+Allowed only:
+
+* exact Luca dialogue
+* exact Arda dialogue
+* faint natural meadow ambience
+* very soft clothing / foot / grass movement sounds
+
+If music appears, the generation is wrong.
 
 ### VOICE / DIALOGUE LOCK
-- Use already selected canonical Luca voice.
-- Use already selected canonical Arda voice.
-- Do NOT generate replacement voices.
-- Speak every line exactly as written.
-- No translation.
-- No paraphrase.
-- No added words.
-- No narrator.
-- No voice-over.
-- One speaker at a time.
-- Only active speaker mouth moves.
-- Listener mouth stays closed.
-- No overlap.
-- First line begins by **0.8 seconds maximum**.
+
+* use selected canonical Luca voice
+* use selected canonical Arda voice
+* exact lines only
+* no paraphrase
+* no added narration
+* no voice-over
+* one speaker at a time
+* only active speaker mouth moves
+* listener mouth stays closed
+* first spoken line starts by **0.8 seconds max**
 
 ### CONVERSATION DENSITY LOCK
-Each shot must feel socially alive.
 
-Target:
-- 5–6 spoken turns per 15-second shot.
-- Usually 22–30 total spoken words.
-- Short preschool-friendly sentences.
-- No purposeless silence longer than **0.7 seconds**.
-- No 2–3 second silent smile holds.
-- No waiting for the next line while both characters stare.
-
-When one character speaks, the listener performs a small relevant reaction:
-- follows movement with eyes
-- nods
-- copies pose
-- shifts weight
-- points to body part
-- prepares next movement
+* 6–7 short spoken beats in 15 seconds
+* no dead air
+* no blank staring
+* no long smile holds
+* no passive waiting
+* every 1–2 seconds a meaningful motion or reaction
 
 ### ACTIVE PRESCHOOL PACING
-Every 1–2 seconds there must be a purposeful visible change:
-- crouch
-- rise
-- reach
-- sway
-- balance
-- switch
-- point
-- nod
-- shake
-- freeze briefly
-- wave
 
-“Preschool” does NOT mean slow, static, sleepy, or uneventful.
+Visible action should keep moving:
+
+* crouch
+* rise
+* stretch up
+* lean side
+* return center
+* lean opposite side
+* relax and prepare next pose
 
 ### MOVEMENT SAFETY
-- gentle preschool-safe motion
-- no high jumping
-- no fast spinning
-- no deep backbend
-- no splits
-- no extreme stretch
-- no falling
-- no risky one-foot hold longer than a few seconds
-- no rough physical contact
 
-### VISUAL QUALITY DRIFT LOCK
+* preschool-safe movement only
+* gentle stretch
+* no jumping
+* no spinning
+* no falling
+* no extreme backbend
+* no difficult balance challenge here
+
+### VISUAL QUALITY LOCK
+
 Preserve:
-- soft handcrafted rendering
-- medium-low contrast
-- restrained saturation
-- warm soft daylight
-- matte surfaces
 
-Absolutely no:
-- contrast increase
-- saturation increase
-- sharpness increase
-- HDR
-- glossy plastic
-- harsh highlights
-- harsh shadows
-- progressive darkening
-- black crush
-- colour drift
-- exposure drift
+* soft handcrafted rendering
+* bright but gentle exposure
+* medium-low contrast
+* clean readable shapes
+* warm, cheerful colour
+* matte preschool look
 
-### GLOBAL NEGATIVE PROMPT
-Tillo, rabbit, bunny, animal character, Noah, Kiko, Mimi, Opa, extra child, extra character, duplicate Luca, duplicate Arda, giant Luca, tiny Arda, scale mismatch, scale drift, character resize, character swap, side swap, mirrored characters, characters crossing, wrong character, character redesign, wrong outfit, extra limbs, extra fingers, deformed hands, deformed feet, floating character, falling, dangerous yoga pose, deep backbend, splits, fast spinning, high jump, running into camera, background music, soundtrack, lullaby, instrumental music, melody, musical sting, percussion music, singing, humming, narrator, voice-over, missing dialogue, silent characters, blank stare, long smile hold, passive waiting, frozen character, delayed dialogue, delayed gesture, idle opening, empty opening seconds, dead air, camera zoom, push-in, pull-back, pan, tilt, orbit, reframe, internal cut, montage, slow motion, high contrast, oversaturated, HDR, glossy plastic, harsh highlights, harsh shadows, oversharpened, text, subtitles, watermark
+Avoid:
 
+* harsh contrast
+* oversharpening
+* washed-out dullness
+* HDR look
+* glossy plastic
+* colour drift
+* exposure drift
 
-## Story purpose
-Gentle side-to-side reaching with clear right/left body awareness.
+---
+
+## Story Purpose
+
+The boys start as tiny seeds, then grow upward and do two easy side stretches like a young tree reaching in the sunshine.
+
+---
 
 ## 15-SECOND ACTION + DIALOGUE
 
-### 0.0–2.0
-Continue directly from raised-arm pose.
-Luca reaches slightly higher while Arda watches and copies.
+### 0.0–1.8
+
+Start **exactly** from `@image1`.
+
+Luca and Arda are both crouched low in tiny-seed pose.
+Luca looks warmly at Arda.
+Arda is already crouched and attentive.
+
+**LUCA:** "We're tiny seeds. Grow up!"
+
+### 1.8–3.8
+
+Both boys rise smoothly from crouch to standing.
+Arms travel upward in a simple growing motion.
+This is the main “reach for the sun” beat.
+
+**ARDA:** "I'm growing tall!"
+
+### 3.8–5.8
+
+Both are standing tall now.
+Luca stretches both arms upward a little more and looks up.
+Arda copies him.
 
 **LUCA:** "Reach up to the sun!"
 
-### 2.0–4.0
-Arda gives one extra upward stretch.
+### 5.8–7.8
 
-**ARDA:** "Up, up, up!"
+Luca gently leans his upper body to one side with both feet planted.
+Arda starts copying immediately.
 
-### 4.0–6.3
-Luca gently leans his upper body to one side.
-Both feet stay planted.
+**ARDA:** "I'm reaching this way!"
 
-**LUCA:** "Now reach to this side!"
+### 7.8–9.6
 
-### 6.3–8.4
-Arda copies the same side and then begins returning to center.
-
-**ARDA:** "I'm reaching with you!"
-
-### 8.4–10.5
-Both return to upright center.
-Luca immediately cues the opposite direction.
+Both return to upright center together.
+Keep it active, not static.
 
 **LUCA:** "Back to the middle!"
 
-### 10.5–12.8
-Arda gently leans to the opposite side.
-Luca copies.
+### 9.6–11.8
+
+Both lean gently to the opposite side.
+Arda follows clearly.
+No deep bend.
 
 **ARDA:** "Now the other side!"
 
-### 12.8–15.0
-Both return upright and give one small shoulder release.
+### 11.8–15.0
 
-**LUCA:** "Both sides stretched!"
+Both return upright.
+Arms soften down a little or stay relaxed and open like little branches.
+They finish tall, calm, and ready for the next sway shot.
+
+**LUCA:** "Great! We stretched both sides!"
+
+---
+
+## PERFORMANCE NOTES
+
+* Luca leads confidently but gently
+* Arda is engaged and responsive
+* Arda should not lag too much behind Luca
+* while listening, each child gives a small relevant reaction:
+
+    * eye follow
+    * nod
+    * immediate copying movement
+    * small smile
+    * body preparation for next action
+
+Do not let them stand frozen between lines.
+
+---
 
 ## MOVEMENT LOCK
-- no deep side bend
-- no feet moving
-- no knee twisting
-- no crossing
-- no long center hold
+
+* start crouched exactly like `@image1`
+* rise smoothly together
+* feet stay planted during side stretches
+* no stepping across
+* no crossing in front of each other
+* no sharp fast motions
+* no over-bending
+* no long idle center hold
+
+---
 
 ## END FRAME
-Both upright, arms open and relaxed, ready for sway.
+
+End with:
+
+* Luca LEFT, Arda RIGHT
+* both standing upright
+* both relaxed after the side stretches
+* both still clearly in Butterfly Meadow
+* both ready for the next shot, which can continue into a sway / tree movement
+
+---
+
+## GLOBAL NEGATIVE PROMPT
+
+No music, soundtrack, humming, singing, narrator, voice-over, silence-only shot, frozen stare, dead air, passive waiting, side swap, character crossing, mirrored characters, wrong outfit, wrong world, Sunny Clover Meadow, extra children, extra animals, Tillo, Opa, Noah, Kiko, Mimi, duplicate Luca, duplicate Arda, giant Luca, tiny Arda, Arda shrunken again, camera movement, zoom, pan, tilt, orbit, internal cuts, high contrast, dull washed-out image, oversharpened look, glossy plastic, HDR, random props, clutter, subtitles, watermark.
