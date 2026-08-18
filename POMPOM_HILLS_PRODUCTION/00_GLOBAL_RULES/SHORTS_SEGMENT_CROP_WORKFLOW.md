@@ -11,24 +11,85 @@
 ## 1. Genel Akış
 
 ```
-1. Shot dokümanını oku (shot breakdown, aksiyon zamanlaması)
+1. Shot dokümanını oku (konuşmacı, aksiyon ve zamanlamalar)
         ↓
-2. Shot mp4'ünü 15 parçaya böl (her parça ~1 sn, -c copy)
+2. Shot'ın ilk/temsilî karelerinde karakter taraflarını doğrula
         ↓
-3. Kare çıkararak karakter konumlarını doğrula
+3. Zaman kodlu aktif konuşmacı ve aksiyon crop planı hazırla
         ↓
-4. Her parça için hangi karakter odakta belirle
+4. Ardışık aynı-karakter beat'lerini tek segmentte birleştir
         ↓
-5. Her parçaya uygun crop X değeri uygula
+5. Tek ffmpeg render'ında zaman kodlu crop uygula
         ↓
-6. Tüm parçaları birleştir (-c copy concat)
+6. Sesi koruyarak 1080x1920 MP4 üret
         ↓
-7. Süreyi ve kaliteyi doğrula
+7. Teknik ve görsel QA yap
 ```
+
+### 1.1 Güncel shot-to-short uygulama kuralı
+
+Bu bölüm, aşağıdaki eski örnek tabloların üstündeki güncel uygulama kuralıdır. Shot-to-short
+çıktısı, onaylanmış bir shot'ın tamamından üretilir; içerik kesilmez, yeni görüntü veya ses
+eklenmez.
+
+1. Shot breakdown dosyasındaki gerçek zaman aralıklarını ve konuşmacıyı oku.
+2. Kaynak shot'ın ilk karesinden karakterlerin ekran tarafını kare çıkararak doğrula.
+3. Aktif konuşmacı, ana aksiyon ve kritik obje için zaman kodlu crop planı hazırla.
+4. Aynı karakterin ardışık repliklerini tek crop segmentinde birleştir; gereksiz sağ-sol
+   kamera avı oluşturma.
+5. Her segmentte `scale=-2:1920` sonrası 1080x1920 crop uygula. X değeri episode'dan
+   episode'a veya shot'tan shot'a sabit varsayılmaz.
+6. Segmentleri ayrı dosyalara bölüp `-c copy` ile birleştirmek yerine, zaman kodlu crop
+   ifadesini tek ffmpeg render'ında kullan. Böylece sınır kareleri ve audio sync korunur.
+7. Orijinal shot'ı değiştirme; çıktıyı aynı episode içindeki `EXPORTS/shot-shorts/`
+   klasörüne `shot-N-short.mp4` adıyla yaz.
+8. Son olarak `ffprobe` ile 1080x1920, 24 fps, H.264, yuv420p, 48 kHz stereo AAC ve
+   kaynakla aynı süreyi doğrula; başlangıç, crop geçişleri ve bitişi görsel olarak izle.
+
+Konuşmacı crop'u için kaynakta Noah solda ve Kiko sağda ise örnek X değerleri:
+
+```text
+Sol karakter odak:  x=400
+Sağ karakter odak:  x=1600
+```
+
+Bu değerler yalnızca aynı kaynak kadrajı karelerle doğrulandıktan sonra kullanılabilir.
+Başka bir episode, karakter çifti veya kamera yerleşiminde yeniden ölçüm zorunludur.
+
+### 1.2 Zaman kodlu plan dosyası
+
+Yeniden kullanılabilir araç `TOOLS/make_shot_short_speaker_aware.sh` plan dosyasıyla
+çalışır. Plan dosyasında her satır `segment_bitis_saniyesi crop_x` biçimindedir; son satır
+`default crop_x` olur:
+
+```text
+# Shot-1 örneği: Noah solda, Kiko sağda
+2.0 400
+4.0 1600
+6.2 400
+8.4 1600
+10.6 400
+12.8 1600
+default 400
+```
+
+İlk satır `t < 2.0` için, sonraki satırlar kendi bitişlerine kadar geçerlidir; `default`
+son segmenti tanımlar. Komut:
+
+```bash
+./TOOLS/make_shot_short_speaker_aware.sh \
+  input-shot_hd.mp4 \
+  EXPORTS/shot-shorts/shot-1-short.mp4 \
+  shot-1-crop-plan.txt
+```
+
+Araç aktif konuşmacıyı kadrajda tutar; sesi yeniden encode ederken senkronu korur. Bu,
+`make_short_vertical.sh` içindeki sabit merkez crop'un yerine geçen genel araç değildir;
+merkez crop yalnızca görsel QA ile tek crop'un yeterli olduğu shot'larda kullanılabilir.
 
 ---
 
-## 2. Karakter Konumları (S01E08 — Building Together)
+## 2. Karakter Konumları (Tarihsel S01E08 örneği)
 
 | Karakter | Konum | Tanımlayıcı |
 |----------|-------|-------------|
@@ -36,7 +97,8 @@
 | Noah (açık saç, çizgili gömlek) | Sağda | Sağ taraf |
 | Bloklar / kule | Ortada | Merkez |
 
-> **ÖNEMLİ:** Karakter isimlerini ve konumlarını HER shot için kare çıkararak doğrula.
+> Bu tablo yalnızca tarihsel S01E08 örneğidir; global varsayım değildir. Karakter isimlerini
+> ve konumlarını HER shot için kare çıkararak doğrula.
 > Tüm shot'larda aynı konum garantisi yoktur.
 
 ---
@@ -67,9 +129,22 @@ ffmpeg -y -i part-XX.mp4 \
 
 > **NOT:** `format=yuv420p` ZORUNLU. Bazı kaynak dosyalar yuv444p ile gelir, libx264 bunu kabul etmez.
 
+Zaman kodlu speaker planı için doğrudan tek render tercih edilir:
+
+```bash
+ffmpeg -y -i shot_hd.mp4 \
+  -vf "scale=-2:1920:flags=lanczos,crop=1080:1920:'if(lt(t,2),400,if(lt(t,4),1600,400))':0,setsar=1,format=yuv420p" \
+  -c:v libx264 -preset slow -crf 18 -profile:v high -pix_fmt yuv420p -r 24 \
+  -c:a aac -b:a 192k -ar 48000 -ac 2 -movflags +faststart shot-short.mp4
+```
+
 ---
 
-## 5. Birleştirme (Concat)
+## 5. Eski parça-birleştirme yöntemi (yalnızca arşiv örneği)
+
+Bu yöntem güncel shot-to-short üretiminde kullanılmaz; zaman kodlu tek render sınır karelerini
+ve audio sync'i daha güvenilir korur. Aşağıdaki komutlar yalnızca eski işler için arşiv
+referansıdır.
 
 ```bash
 # 1. Concat listesi oluştur
@@ -166,12 +241,12 @@ Her shot için hangi parçada hangi kaydırmanın uygulandığı:
 ## 7. Dikkat Edilecekler
 
 1. **Kare çıkararak doğrula:** Her shot için en az 3-4 frame çıkararak karakter konumunu kontrol et.
-2. **Karakter isimlerini karıştırma:** Arda (koyu saç, mavi) solda, Noah (açık saç, çizgili) sağda.
+2. **Karakter isimlerini karıştırma:** Her episode'da ekran tarafını shot dokümanı ve karelerle doğrula.
 3. **Kaydırma yönü:** Sol karakter için X küçült (sola), sağ karakter için X artır (sağa).
 4. **Ortaya kaydırma:** Sol karakteri ortaya çekmek için X artır, sağ karakteri ortaya çekmek için X küçült.
 5. **format=yuv420p zorunlu:** Yoksa ffmpeg sessizce başarısız olur ve 0 byte dosya üretir.
-6. **Karakter odaklandığında +350 birim:** Arda veya Noah konuşurken/odakta iken, temel kaydırma değerine 350 birim daha ekle (Arda için sola, Noah için sağa doğru).
-6. **Süre kontrolü:** `-c copy` ile kesimde keyframe hizalaması nedeniyle süren hafif sapabilir.
+6. **Karakter odaklandığında:** Konuşmacı crop'unu zaman koduna bağla; kör bir `+350` kuralı uygulama.
+7. **Süre kontrolü:** Tek render çıktısının süresi kaynak shot ile aynı olmalı.
 
 ---
 
@@ -181,9 +256,10 @@ Her shot için hangi parçada hangi kaydırmanın uygulandığı:
 |-------|------|
 | `SHORTS_PRODUCTION_STANDARD.md` | Shorts format, kalite ve karakter standartları |
 | `SHORTS_SMART_REFRAME_STANDARD.md` | Finished master → 9:16 smart narrative reframe |
+| `TOOLS/make_shot_short_speaker_aware.sh` | Zaman kodlu aktif konuşmacı crop planını tek render'da uygulayan araç |
 | `00-CORE/17_VIDEO_GENERATION_STANDARD.md` | Ana video üretim standardı |
 | `00-CORE/VISUAL_STYLE_GUIDE.md` | Görsel stil rehberi |
 
 ---
 
-*Oluşturulma: 14 Temmuz 2026 — S01E08 Building Together shorts üretiminden çıkarılan workflow*
+*Oluşturulma: 14 Temmuz 2026 — Güncelleme: 18 Ağustos 2026; speaker-aware tek-render shot-to-short workflow*
